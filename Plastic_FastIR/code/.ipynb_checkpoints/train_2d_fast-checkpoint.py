@@ -23,11 +23,11 @@ parser.add_argument('--im', default=25, type=int, metavar='N', help='2D image si
 osname = platform.system()
 if osname == 'Darwin':
     data_dir = r'/Users/sjiang87/plastic/data/'
-    weight_dir = r'/Users/sjiang87/plastic/weights/'
+    weight_dir = r'/Users/sjiang87/plastic/weights/2nd/'
     result_dir = r'/Users/sjiang87/machinelearning2/plastic/result/'
 elif osname == 'Windows':
     data_dir = r'D:/plastic/data/'
-    weight_dir = r'D:/plastic/weights/'
+    weight_dir = r'D:/plastic/weights/2nd/'
     result_dir = r'D:/machinelearning2/plastic/result/'
 elif osname == 'Linux':
     data_dir = r'./'

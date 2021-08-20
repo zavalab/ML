@@ -27,7 +27,7 @@ if osname == 'Darwin':
     result_dir = r'/Users/sjiang87/machinelearning2/plastic/result/'
 elif osname == 'Windows':
     data_dir = r'D:/plastic/data/'
-    weight_dir = r'D:/plastic/weights/'
+    weight_dir = r'D:/plastic/weights/2nd/'
     result_dir = r'D:/machinelearning2/plastic/result/'
 elif osname == 'Linux':
     data_dir = r'./'
