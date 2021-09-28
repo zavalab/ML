@@ -13,5 +13,5 @@ run GNN_workflow.py
 ```
 - specify input parameters as needed. For example, use the following to specify #epoch, batch size, and learning rate.
 ```
-run GNN_workflow.py -e 100 -b 5 =l 0.005
+run GNN_workflow.py -e 100 -b 5 -l 0.005
 ```
