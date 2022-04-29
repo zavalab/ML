@@ -24,7 +24,7 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 ## ✨ SolvGNN Architecture
 
 <br />
-<img src="SolvGNN/figure/readme_SolvGNN_architecture_v1_1_small.png" />
+<img src="./figure/readme_SolvGNN_architecture_v1_1_small.png" />
 <br />
 
 ## ✨ Sample Output Showcase
@@ -33,15 +33,15 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 
 > P-x-y Phase Diagram (binary mixtures) at 298K
 
-<img src="SolvGNN/figure/readme_pxy_binary_v1_1.png" />
+<img src="./figure/readme_pxy_binary_v1_1.png" />
 
 > P-x-y Phase Diagram (ternary mixture) at 298K
 
-<img src="SolvGNN/figure/readme_pxy_ternary_v1_1.png" />
+<img src="./figure/readme_pxy_ternary_v1_1.png" />
 
 > Conterfactual
 
-<img src="SolvGNN/figure/readme_counterfactual_v1_1_small.png" />
+<img src="./figure/readme_counterfactual_v1_1_small.png" />
 
 <br />
 
