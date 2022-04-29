@@ -17,7 +17,7 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 
 > Publication
 
-- 👉 [Submitted Paper](https://github.com/zavalab/ML)
+- 👉 [Submitted Paper](https://github.com/zavalab/ML/tree/SolvGNN)
 
 <br />
 
@@ -48,9 +48,9 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 ## ✨ Implementation and Development
 
 ```bash
+$ git clone -b SolvGNN --single-branch https://github.com/zavalab/ML.git
+$ cd ML
 $ conda create -f environment.yml
-$ git clone https://github.com/zavalab/ML.git
-$ cd ML/SolvGNN
 ```
 
 ## ✨ Tutorials
@@ -58,7 +58,7 @@ $ cd ML/SolvGNN
 For detailed usage, navigate to the `notebook` directory.
 
 
-## ✨ Credits & Links
+## ✨ Links
 
 - [Zavalab](https://zavalab.engr.wisc.edu/)
 - [VanLehnGroup](https://vanlehngroup.che.wisc.edu/)
