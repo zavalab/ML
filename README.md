@@ -58,7 +58,7 @@ $ conda create -f environment.yml
 For detailed usage, navigate to the `notebook` directory.
 
 
-## ✨ Credits & Links
+## ✨ Links
 
 - [Zavalab](https://zavalab.engr.wisc.edu/)
 - [VanLehnGroup](https://vanlehngroup.che.wisc.edu/)
