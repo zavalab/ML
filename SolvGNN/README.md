@@ -17,7 +17,7 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 
 > Publication
 
-- 👉 [Submitted Paper](https://github.com/zavalab/ML/tree/SolvGNN)
+- 👉 [Submitted Paper](https://doi.org/10.26434/chemrxiv-2022-3tq4c)
 
 <br />
 
