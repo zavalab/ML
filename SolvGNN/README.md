@@ -31,13 +31,9 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 
 <br />
 
-> P-x-y Phase Diagram (binary mixtures) at 298K
+> P-x-y Phase Diagram (VLE) at 298K
 
 <img src="./figure/readme_pxy_binary_v1_1.png" />
-
-> P-x-y Phase Diagram (ternary mixture) at 298K
-
-<img src="./figure/readme_pxy_ternary_v1_1.png" />
 
 > Conterfactual
 
