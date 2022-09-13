@@ -49,10 +49,7 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 $ git clone -b SolvGNN --single-branch https://github.com/zavalab/ML.git
 $ cd ML
 $ conda create -f environment.yml
-<<<<<<< HEAD
-=======
 $ conda activate solvgnn
->>>>>>> 9a692b17339ddbab24d2ecf1b102f00bb51f10cb
 ```
 
 ## ✨ Tutorials
