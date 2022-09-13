@@ -34,6 +34,13 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 > P-x-y Phase Diagram (VLE) at 298K
 
 <img src="./figure/readme_pxy_binary_v1_1.png" />
+<<<<<<< HEAD
+=======
+
+> P-x-y Phase Diagram (ternary mixture) at 298K
+
+<img src="./figure/readme_pxy_ternary_v1_1.png" />
+>>>>>>> 9a692b17339ddbab24d2ecf1b102f00bb51f10cb
 
 > Conterfactual
 
@@ -47,6 +54,10 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 $ git clone -b SolvGNN --single-branch https://github.com/zavalab/ML.git
 $ cd ML
 $ conda create -f environment.yml
+<<<<<<< HEAD
+=======
+$ conda activate solvgnn
+>>>>>>> 9a692b17339ddbab24d2ecf1b102f00bb51f10cb
 ```
 
 ## ✨ Tutorials
