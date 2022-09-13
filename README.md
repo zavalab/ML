@@ -17,40 +17,36 @@ SolvGNN is an open-source **computational framework and tool**. It can be direct
 
 > Publication
 
-- 👉 [Submitted Paper](https://github.com/zavalab/ML)
+- 👉 [Submitted Paper](https://doi.org/10.26434/chemrxiv-2022-3tq4c)
 
 <br />
 
 ## ✨ SolvGNN Architecture
 
 <br />
-<img src="SolvGNN/figure/readme_SolvGNN_architecture_v1_1_small.png" />
+<img src="./figure/readme_SolvGNN_architecture_v1_1_small.png" />
 <br />
 
 ## ✨ Sample Output Showcase
 
 <br />
 
-> P-x-y Phase Diagram (binary mixtures) at 298K
+> P-x-y Phase Diagram (VLE) at 298K
 
-<img src="SolvGNN/figure/readme_pxy_binary_v1_1.png" />
-
-> P-x-y Phase Diagram (ternary mixture) at 298K
-
-<img src="SolvGNN/figure/readme_pxy_ternary_v1_1.png" />
+<img src="./figure/readme_pxy_binary_v1_1.png" />
 
 > Conterfactual
 
-<img src="SolvGNN/figure/readme_counterfactual_v1_1_small.png" />
+<img src="./figure/readme_counterfactual_v1_1_small.png" />
 
 <br />
 
 ## ✨ Implementation and Development
 
 ```bash
+$ git clone -b SolvGNN --single-branch https://github.com/zavalab/ML.git
+$ cd ML
 $ conda create -f environment.yml
-$ git clone https://github.com/zavalab/ML.git
-$ cd ML/SolvGNN
 ```
 
 ## ✨ Tutorials
@@ -58,7 +54,7 @@ $ cd ML/SolvGNN
 For detailed usage, navigate to the `notebook` directory.
 
 
-## ✨ Credits & Links
+## ✨ Links
 
 - [Zavalab](https://zavalab.engr.wisc.edu/)
 - [VanLehnGroup](https://vanlehngroup.che.wisc.edu/)

@@ -1,0 +1,11 @@
+beautifulsoup4
+dgl-cuda10.0==0.4.3.post2
+matplotlib
+networkx==2.2
+numpy
+pandas
+requests
+scikit-learn
+scipy
+torch==1.2.0
+torchvision==0.4.0
