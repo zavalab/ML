@@ -15,7 +15,7 @@
 
 # Mono auto generated files
 mono_crash.*
-
+_*.py
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
