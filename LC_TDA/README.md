@@ -17,6 +17,9 @@ Chemoresponsive liquid crystals (LCs) can be engineered to generate information-
 
 ## ✨ Implementation and Development
 
+### Download Data
+The data is publicly available at [here](https://drive.google.com/drive/folders/1WoAo3ZRYJFHvIxjLGjpWLuylf_lKTigi?usp=sharing).
+
 ```bash
 $ git clone -b LC_TDA --single-branch https://github.com/zavalab/ML.git
 $ cd ML/LC_TDA
