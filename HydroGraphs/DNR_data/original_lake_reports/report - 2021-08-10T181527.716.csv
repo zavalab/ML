@@ -1,0 +1,793 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Crooked Lake,Oconto,462000,NE,43,,433072,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/16/1976,,,,,10,,46,,,,,,
+1,04/29/1976,7.4,,2.25,,,48,,,,,,,
+1,07/27/1976,11.5,,3.5,,,42,,,,,,,
+1,10/27/1976,10.7,,3.25,,,43,,,,,,,
+8190156,05/06/1993,13.5,NO,4.1,3.36,,40,,44,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190156,06/25/1993,12,NO,3.6,4.99,,41,,47,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190156,07/22/1993,13,NO,4,2.66,,40,,42,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,08/25/1993,12,NO,3.6,2.87,,41,,43,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,09/15/1993,10.5,NO,3.2,6.06,,43,,48,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/11/1993,,,,6.98,,,,49,,,,,
+8190156,10/11/1993,9.25,NO,2.8,,9,45,45,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,05/18/1994,,,,2.32,,,,41,,,,,
+8190156,05/18/1994,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190156,06/20/1994,24,NO,7.3,,,31,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,06/22/1994,,,,4.33,10,,46,46,,,,,
+8190156,07/26/1994,10.5,NO,3.2,4.95,10,43,46,47,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190156,08/24/1994,10,NO,3,2.52,10,44,46,42,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190156,09/20/1994,11.5,NO,3.5,2.77,10,42,46,43,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190156,05/24/1995,13,NO,4,1.7,9,40,45,39,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190156,06/27/1995,10,NO,3,3.93,10,44,46,45,,,,GREEN,2-Very minor aesthetic problems
+1,07/24/1995,,,,0.04,11,,47,10,,,,,
+8190156,07/24/1995,11.5,NO,3.5,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190156,08/22/1995,12,NO,3.6,1.5,10,41,46,38,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190156,09/20/1995,12,NO,3.6,3.01,7,41,43,43,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189547,05/22/1996,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,05/25/1996,,,,2.96,14,,49,43,,,,,
+8190156,06/25/1996,11,NO,3.3,5.88,10,43,46,48,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,07/17/1996,10.75,NO,3.3,3.73,9,43,45,45,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190156,08/27/1996,12.5,NO,3.8,2.65,7,41,43,42,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,09/18/1996,10,NO,3,6.62,11,44,47,49,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,05/27/1997,11.5,NO,3.5,,25,42,53,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,06/25/1997,9.5,NO,2.9,4.02,9,45,45,45,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,07/22/1997,10,NO,3,3.79,24,44,53,45,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190156,08/27/1997,11,NO,3.3,3.94,16,43,50,45,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190156,09/22/1997,12,NO,3.6,5.71,0,41,,48,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190156,05/27/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,06/22/1998,9,NO,2.7,4.86,,45,,47,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,07/15/1998,10.5,NO,3.2,3.42,14,43,49,44,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,08/25/1998,10.5,NO,3.2,3.48,14,43,49,44,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190156,10/07/1998,8.5,NO,2.6,5.68,17,46,50,48,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190156,05/26/1999,12,NO,3.6,,16,41,50,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,06/26/1999,14,NO,4.3,1.24,8,39,44,36,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,07/26/1999,10.5,NO,3.2,0.56,8,43,44,30,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,08/25/1999,12,NO,3.6,1.47,14,41,49,38,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,10/09/1999,9.75,NO,3,4,11,44,47,45,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190156,05/25/2000,11.5,NO,3.5,,9,42,45,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/19/2000,11.5,NO,3.5,5,8,42,44,47,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,06/27/2000,12,NO,3.6,1.3,7,41,43,37,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,08/25/2000,11.25,NO,3.4,4,10,42,46,45,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,10/03/2000,11,NO,3.3,9,12,43,47,51,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,06/30/2001,14.5,NO,4.4,1,11,39,47,35,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,07/25/2001,11.75,NO,3.6,3,11,42,47,43,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,05/28/2002,18.75,NO,5.7,,9,35,45,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,06/25/2002,9.5,NO,2.9,0.65,11,45,47,32,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190156,07/16/2002,13,NO,4,0.91,9,40,45,34,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,08/26/2002,10,NO,3,3.93,15,44,49,45,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,10/07/2002,9.5,NO,2.9,5.99,18,45,51,48,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,05/08/2003,9.25,NO,2.8,,21,45,52,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190156,06/22/2003,12,NO,3.6,2.49,11,41,47,42,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,07/08/2003,9.5,NO,2.9,2.86,10,45,46,43,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,08/13/2003,11,NO,3.3,2.16,10,43,46,41,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,05/26/2004,13.5,NO,4.1,,15,40,49,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,06/23/2004,12,NO,3.6,4.68,12,41,47,46,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,07/14/2004,11.5,NO,3.5,2.52,13,42,48,42,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,08/25/2004,10,NO,3,3.23,12,44,47,44,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190156,10/06/2004,9,NO,2.7,6.32,16,45,50,49,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190156,05/24/2005,13.5,NO,4.1,,21,40,52,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190156,06/27/2005,9.5,NO,2.9,2.4,11,45,47,41,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190156,07/20/2005,10.25,NO,3.1,2.62,14,44,49,42,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,08/23/2005,10.25,NO,3.1,3.68,12,44,47,45,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190156,10/10/2005,8.5,NO,2.6,5.13,15,46,49,47,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+10418843,05/30/2006,7,NO,2.1,,1,49,28,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+10418843,06/20/2006,10,NO,3,,14,44,49,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418843,07/18/2006,9.5,NO,2.9,2.02,13,45,48,40,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10418843,08/15/2006,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10418843,08/21/2006,9.75,NO,3,2.27,10,44,46,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418843,09/08/2006,11.75,NO,3.6,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189983,04/20/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418843,05/14/2007,17.25,NO,5.2,,10,36,46,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418843,06/11/2007,12.5,NO,3.8,1.56,21,41,52,38,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418843,07/16/2007,8.75,NO,2.7,3.42,9,46,45,44,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+10418843,08/26/2007,10.75,NO,3.3,3.38,11,43,47,44,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189983,09/26/2007,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189983,10/20/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,05/19/2008,10.5,NO,3.2,,17,43,50,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25650224,05/19/2008,,,,,,,,,,,,,
+25650224,06/16/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,06/17/2008,,,,5.39,14,,49,48,,,,,
+23047125,07/22/2008,10,NO,3,2.67,12,44,47,42,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25650224,07/22/2008,,,,,,,,,,,,,
+25650224,08/11/2008,10,NO,3,4.49,38,44,56,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,09/22/2008,9,NO,2.7,15.7,16,45,50,56,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+25650224,09/22/2008,,,,,,,,,,,,,
+23047125,05/29/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,06/16/2009,10,NO,3,2.34,11,44,47,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,06/16/2009,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/20/2009,9.6,NO,2.9,3.78,11,45,47,45,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190526,07/20/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/17/2009,9.5,NO,2.9,2.57,10,45,46,42,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,08/17/2009,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,09/15/2009,10.5,NO,3.2,2.12,15,43,49,40,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+25650224,05/12/2010,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,06/21/2010,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+25650224,06/21/2010,10.5,NO,3.2,2.87,10,43,46,43,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,07/12/2010,10,NO,3,2.84,8,44,44,43,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25650224,07/13/2010,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,08/09/2010,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25650224,08/09/2010,10,NO,3,2.29,15,44,49,41,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,09/13/2010,7,NO,2.1,6.72,16,49,50,49,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+25650224,09/13/2010,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+23047125,05/18/2011,8,NO,2.4,,24,47,53,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25475335,05/18/2011,,,,,,,,,,,,,
+23047125,06/13/2011,9,NO,2.7,5.03,15,45,49,47,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25475335,06/13/2011,1,NO,0.3,,,77,,,HIGH,,CLEAR,GREEN,
+23047125,07/11/2011,9,NO,2.7,1.99,9,45,45,40,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23047125,08/29/2011,10,NO,3,2.67,11,44,47,42,HIGH,,MURKY,BROWN,
+23047125,08/30/2011,,NO,,,,,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,05/13/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,05/14/2012,,,,,8,,44,,,,,,
+23047125,06/12/2012,10,NO,3,2.59,12,44,47,42,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23047125,06/13/2012,1,NO,0.3,,,77,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23047125,07/22/2012,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+23047125,07/23/2012,8,NO,2.4,1.9,13,47,48,40,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/27/2012,,,,1.32,12,,47,37,,,,,
+23047125,08/27/2012,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23047125,05/13/2013,7,NO,2.1,,20.9,49,52,,HIGH,,MURKY,BROWN,
+23047125,06/18/2013,9,NO,2.7,3.61,9.54,45,46,45,HIGH,,CLEAR,GREEN,
+23047125,07/13/2013,,,,2.9,5.29,,41,43,,,,,
+23047125,07/14/2013,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,
+23047125,07/17/2013,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,
+23047125,08/19/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23047125,08/20/2013,,,,1.81,9.5,,46,39,,,,,
+23047125,05/11/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,
+37156760,05/11/2014,,,,,,,,,,,,,
+23047125,06/24/2014,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,
+37156760,06/26/2014,,,,4.46,11.1,,47,46,,,,,
+23047125,07/13/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+37156760,07/13/2014,,,,1.71,8.12,,44,39,,,,,
+1,09/07/2014,,,,2.64,10.7,,47,42,,,,,
+23047125,09/07/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+23047125,06/16/2015,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,
+23047125,06/23/2015,,,,1.61,14.4,,49,38,,,,,
+23047125,07/19/2015,11,NO,3.3,1.86,6.65,43,43,39,HIGH,,CLEAR,BROWN,
+1,09/21/2015,,,,1.77,22.7,,52,39,,,,,
+23047125,09/21/2015,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,
+1,04/26/2016,11.5,N,3.5,5.27,13.4,42,48,47,,,,,
+37156760,05/02/2016,,,,,13.5,,48,,,,,,
+130973110,06/26/2016,,,,3.76,16.9,,50,45,,,,,
+1,06/30/2016,11.5,N,3.5,,,42,,,,,,,
+1,07/25/2016,,,,,,,,,,,,,
+16073539,07/25/2016,9.4,N,2.9,2.7,11.6,45,47,42,,,,,
+37156760,07/25/2016,,,,2.7,15.3,,49,42,,,,,
+1,08/21/2016,,,,,,,,,,,,,
+125010629,08/21/2016,,,,2.95,17.7,,50,43,,,,,
+1,11/07/2016,8.2,N,2.5,6.58,20.1,47,51,49,,,,,
+1,02/13/2017,9,N,2.7,,29.2,45,54,,,,,,
+125010629,06/24/2017,,,,5.24,16,,50,47,,,,,
+125010629,07/30/2017,,,,2.53,20.2,,51,42,,,,,
+125010629,08/31/2017,,,,4.21,16.7,,50,46,,,,,
+125010629,06/17/2018,,,,4.28,13,,48,46,,,,,
+125010629,08/05/2018,,,,4.1,7.92,,44,45,,,,,
+125010629,09/08/2018,,,,3.1,16.6,,50,43,,,,,
+125010629,08/02/2019,,,,2.95,12.3,,48,43,,,,,
+125010629,07/11/2020,,,,4.52,11.2,,47,46,,,,,
+125010629,08/29/2020,,,,3.56,14.1,,49,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/16/1976,,,1.5,C,6.6,MG/L
+04/29/1976,,,8.7,C,10.4,MG/L
+07/27/1976,,,20,C,6.1,MG/L
+10/27/1976,,,6.8,C,9.6,MG/L
+06/25/1993,1,FEET,73,DEGREES F,,
+06/25/1993,31,FEET,50,DEGREES F,,
+07/22/1993,1,FEET,76,DEGREES F,,
+07/22/1993,33,FEET,51,DEGREES F,,
+08/25/1993,1,FEET,78,DEGREES F,,
+08/25/1993,33,FEET,55,DEGREES F,,
+09/15/1993,1,FEET,63,DEGREES F,,
+09/15/1993,31,FEET,50,DEGREES F,,
+10/11/1993,1,FEET,50,DEGREES F,,
+10/11/1993,30,FEET,50,DEGREES F,,
+05/18/1994,1,FEET,60,DEGREES F,,
+05/18/1994,33,FEET,50,DEGREES F,,
+06/20/1994,1,FEET,79,DEGREES F,,
+06/20/1994,31,FEET,50,DEGREES F,,
+07/26/1994,3,FEET,75,DEGREES F,,
+07/26/1994,31,FEET,53,DEGREES F,,
+08/24/1994,3,FEET,70,DEGREES F,,
+08/24/1994,32,FEET,53,DEGREES F,,
+09/20/1994,3,FEET,69,DEGREES F,,
+09/20/1994,32,FEET,53,DEGREES F,,
+05/24/1995,3,FEET,60,DEGREES F,,
+05/24/1995,32,FEET,47,DEGREES F,,
+06/27/1995,3,FEET,80,DEGREES F,,
+06/27/1995,30,FEET,50,DEGREES F,,
+07/24/1995,3,FEET,78,DEGREES F,,
+07/24/1995,30,FEET,50,DEGREES F,,
+08/22/1995,3,FEET,77,DEGREES F,,
+08/22/1995,34,FEET,50,DEGREES F,,
+09/20/1995,3,FEET,62,DEGREES F,,
+09/20/1995,33,FEET,51,DEGREES F,,
+05/22/1996,3,FEET,62,DEGREES F,,
+05/22/1996,33,FEET,42,DEGREES F,,
+06/25/1996,3,FEET,66,DEGREES F,,
+06/25/1996,33,FEET,43,DEGREES F,,
+07/17/1996,3,FEET,73,DEGREES F,,
+07/17/1996,33,FEET,45,DEGREES F,,
+08/27/1996,3,FEET,72,DEGREES F,,
+08/27/1996,33,FEET,47,DEGREES F,,
+09/18/1996,3,FEET,62,DEGREES F,,
+09/18/1996,33,FEET,48,DEGREES F,,
+05/27/1997,3,FEET,58,DEGREES F,,
+05/27/1997,30,FEET,46,DEGREES F,,
+06/25/1997,3,FEET,76,DEGREES F,,
+06/25/1997,29,FEET,48,DEGREES F,,
+07/22/1997,3,FEET,77,DEGREES F,,
+07/22/1997,32,FEET,48,DEGREES F,,
+08/27/1997,27,FEET,50,DEGREES F,,
+09/22/1997,3,FEET,62,DEGREES F,,
+09/22/1997,31,FEET,50,DEGREES F,,
+05/27/1998,1,FEET,70,DEGREES F,,
+05/27/1998,26,FEET,49,DEGREES F,,
+06/22/1998,1,FEET,75,DEGREES F,,
+06/22/1998,25,FEET,51,DEGREES F,,
+07/15/1998,1,FEET,80,DEGREES F,,
+07/15/1998,27,FEET,52,DEGREES F,,
+08/25/1998,1,FEET,78,DEGREES F,,
+08/25/1998,33,FEET,50,DEGREES F,,
+10/07/1998,1,FEET,59,DEGREES F,,
+10/07/1998,31,FEET,52,DEGREES F,,
+05/26/1999,1,FEET,57,DEGREES F,,
+05/26/1999,34,FEET,47,DEGREES F,,
+06/26/1999,1,FEET,76,DEGREES F,,
+06/26/1999,33,FEET,50,DEGREES F,,
+07/26/1999,1,FEET,82,DEGREES F,,
+07/26/1999,31,FEET,50,DEGREES F,,
+08/25/1999,1,FEET,74,DEGREES F,,
+08/25/1999,31,FEET,50,DEGREES F,,
+10/09/1999,1,FEET,55,DEGREES F,,
+10/09/1999,32,FEET,50,DEGREES F,,
+05/25/2000,1,FEET,62,DEGREES F,,
+05/25/2000,33,FEET,45,DEGREES F,,
+06/19/2000,1,FEET,72,DEGREES F,,
+06/19/2000,31,FEET,50,DEGREES F,,
+06/27/2000,1,FEET,72,DEGREES F,,
+06/27/2000,34,FEET,49,DEGREES F,,
+08/25/2000,1,FEET,76,DEGREES F,,
+08/25/2000,34,FEET,51,DEGREES F,,
+10/03/2000,1,FEET,61,DEGREES F,,
+10/03/2000,30,FEET,55,DEGREES F,,
+06/30/2001,1,FEET,78,DEGREES F,,
+06/30/2001,31,FEET,52,DEGREES F,,
+07/25/2001,1,FEET,78,DEGREES F,,
+07/25/2001,33,FEET,51,DEGREES F,,
+05/28/2002,1,FEET,60,DEGREES F,,
+05/28/2002,35,FEET,50,DEGREES F,,
+06/25/2002,1,FEET,74,DEGREES F,,
+06/25/2002,34,FEET,50,DEGREES F,,
+07/16/2002,1,FEET,80,DEGREES F,,
+07/16/2002,35,FEET,48,DEGREES F,,
+08/26/2002,1,FEET,72,DEGREES F,,
+08/26/2002,36,FEET,48,DEGREES F,,
+10/07/2002,1,FEET,57,DEGREES F,,
+10/07/2002,36,FEET,48,DEGREES F,,
+05/08/2003,1,FEET,56,DEGREES F,,
+05/08/2003,30,FEET,44,DEGREES F,,
+06/22/2003,1,FEET,76,DEGREES F,,
+06/22/2003,34,FEET,43,DEGREES F,,
+07/08/2003,1,FEET,78,DEGREES F,,
+07/08/2003,35,FEET,1,DEGREES F,,
+08/13/2003,1,FEET,76,DEGREES F,,
+08/13/2003,34,FEET,45,DEGREES F,,
+05/26/2004,1,FEET,57,DEGREES F,,
+05/26/2004,33,FEET,42,DEGREES F,,
+06/23/2004,1,FEET,69,DEGREES F,,
+06/23/2004,35,FEET,43,DEGREES F,,
+07/14/2004,1,FEET,73,DEGREES F,,
+07/14/2004,34,FEET,50,DEGREES F,,
+08/25/2004,1,FEET,70,DEGREES F,,
+08/25/2004,34,FEET,46,DEGREES F,,
+10/06/2004,1,FEET,57,DEGREES F,,
+10/06/2004,35,FEET,43,DEGREES F,,
+05/24/2005,1,FEET,65,DEGREES F,,
+05/24/2005,36,FEET,46,DEGREES F,,
+06/27/2005,1,FEET,77,DEGREES F,,
+06/27/2005,35,FEET,46,DEGREES F,,
+07/20/2005,1,FEET,80,DEGREES F,,
+07/20/2005,34,FEET,46,DEGREES F,,
+08/23/2005,1,FEET,72,DEGREES F,,
+08/23/2005,34,FEET,46,DEGREES F,,
+10/10/2005,1,FEET,58,DEGREES F,,
+10/10/2005,34,FEET,48,DEGREES F,,
+05/30/2006,1,FEET,77,DEGREES F,,
+05/30/2006,35,FEET,46,DEGREES F,,
+06/20/2006,1,FEET,76,DEGREES F,,
+06/20/2006,33,FEET,48,DEGREES F,,
+07/18/2006,1,FEET,81.6,DEGREES F,,
+07/18/2006,33,FEET,50,DEGREES F,,
+08/15/2006,1,FEET,78.1,DEGREES F,,
+08/21/2006,1,FEET,74.6,DEGREES F,,
+08/21/2006,34,FEET,49,DEGREES F,,
+04/20/2007,1,FEET,51,DEGREES F,10.6,MG/L
+04/20/2007,6,FEET,50,DEGREES F,10.5,MG/L
+04/20/2007,34,FEET,44,DEGREES F,,
+05/14/2007,1,FEET,62.5,DEGREES F,9.0,MG/L
+05/14/2007,6,FEET,62.0,DEGREES F,9.0,MG/L
+05/14/2007,34,FEET,45.0,DEGREES F,11.0,MG/L
+06/11/2007,1,FEET,74.0,DEGREES F,6.8,MG/L
+06/11/2007,6,FEET,72.0,DEGREES F,6.9,MG/L
+06/11/2007,15,FEET,68.0,DEGREES F,7.0,MG/L
+06/11/2007,25,FEET,49.0,DEGREES F,9.8,MG/L
+06/11/2007,33,FEET,44.0,DEGREES F,10.5,MG/L
+07/16/2007,1,FEET,75.0,DEGREES F,6.2,MG/L
+07/16/2007,6,FEET,74.0,DEGREES F,6.3,MG/L
+07/16/2007,15,FEET,68.0,DEGREES F,7.0,MG/L
+07/16/2007,25,FEET,47.0,DEGREES F,9.8,MG/L
+07/16/2007,33,FEET,45.0,DEGREES F,11.2,MG/L
+08/26/2007,1,FEET,74.0,DEGREES F,6.3,MG/L
+08/26/2007,6,FEET,76.0,DEGREES F,6.4,MG/L
+08/26/2007,15,FEET,74.0,DEGREES F,6.3,MG/L
+08/26/2007,25,FEET,58.0,DEGREES F,8.1,MG/L
+08/26/2007,31,FEET,54.0,DEGREES F,8.9,MG/L
+10/20/2007,1,FEET,58.0,DEGREES F,7.9,MG/L
+10/20/2007,6,FEET,58.2,DEGREES F,8.0,MG/L
+10/20/2007,15,FEET,58.0,DEGREES F,8.1,MG/L
+05/19/2008,1,FEET,60,DEGREES F,,
+05/19/2008,6,FEET,59,DEGREES F,,
+05/19/2008,15,FEET,52,DEGREES F,,
+05/19/2008,25,FEET,44,DEGREES F,,
+05/19/2008,33,FEET,44,DEGREES F,,
+06/16/2008,1,FEET,68,DEGREES F,,
+06/16/2008,6,FEET,68,DEGREES F,,
+06/16/2008,15,FEET,66,DEGREES F,,
+06/16/2008,25,FEET,50,DEGREES F,50,MG/L
+06/16/2008,33,FEET,45,DEGREES F,,
+07/22/2008,1,FEET,78,DEGREES F,,
+07/22/2008,6,FEET,78,DEGREES F,,
+07/22/2008,15,FEET,70,DEGREES F,,
+07/22/2008,25,FEET,46,DEGREES F,,
+07/22/2008,33,FEET,43,DEGREES F,,
+08/11/2008,1,FEET,75,DEGREES F,,
+08/11/2008,6,FEET,75,DEGREES F,,
+08/11/2008,15,FEET,73,DEGREES F,,
+08/11/2008,25,FEET,53,DEGREES F,,
+08/11/2008,33,FEET,45,DEGREES F,,
+09/22/2008,1,FEET,65,DEGREES F,,
+09/22/2008,5,FEET,64,DEGREES F,,
+09/22/2008,6,FEET,64,DEGREES F,,
+09/22/2008,15,FEET,64,DEGREES F,,
+09/22/2008,25,FEET,55,DEGREES F,,
+09/22/2008,33,FEET,50,DEGREES F,,
+05/29/2009,1,FEET,64.5,DEGREES F,,
+05/29/2009,6,FEET,63.6,DEGREES F,,
+05/29/2009,11,FEET,64.0,Deg. F,,
+05/29/2009,15,FEET,62,DEGREES F,,
+05/29/2009,25,FEET,49.2,DEGREES F,,
+05/29/2009,30,FEET,47.6,DEGREES F,,
+06/16/2009,1,FEET,71.0,DEGREES F,,
+06/16/2009,6,FEET,71.4,DEGREES F,,
+06/16/2009,15,FEET,62.6,DEGREES F,,
+06/16/2009,25,FEET,50.3,DEGREES F,,
+06/16/2009,30,FEET,48.9,DEGREES F,,
+07/20/2009,1,FEET,70.0,DEGREES F,,
+07/20/2009,6,FEET,70.0,DEGREES F,,
+07/20/2009,15,FEET,69,DEGREES F,,
+07/20/2009,25,FEET,52,DEGREES F,,
+07/20/2009,30,FEET,50,DEGREES F,,
+07/20/2009,,,69.0,Deg. F,,
+08/17/2009,1,FEET,79,DEGREES F,,
+08/17/2009,6,FEET,76,DEGREES F,,
+08/17/2009,15,FEET,71,DEGREES F,,
+08/17/2009,25,FEET,55,DEGREES F,,
+08/17/2009,30,FEET,51,DEGREES F,,
+09/15/2009,1,FEET,73,DEGREES F,,
+09/15/2009,6,FEET,73,DEGREES F,,
+09/15/2009,15,FEET,69,DEGREES F,,
+09/15/2009,25,FEET,58,DEGREES F,,
+09/15/2009,30,FEET,52.0,Deg. F,,
+09/15/2009,51,FEET,52,DEGREES F,,
+05/12/2010,1,FEET,65,DEGREES F,,
+05/12/2010,6,FEET,64,DEGREES F,,
+05/12/2010,15,FEET,62,DEGREES F,,
+05/12/2010,25,FEET,49,DEGREES F,,
+05/12/2010,30,FEET,47,DEGREES F,,
+07/12/2010,1,FEET,78,DEGREES F,,
+07/12/2010,6,FEET,78.4,DEGREES F,,
+07/13/2010,1,FEET,78,DEGREES F,,
+07/13/2010,6,FEET,78.4,DEGREES F,,
+07/13/2010,15,FEET,59.8,DEGREES F,,
+07/13/2010,25,FEET,54.6,DEGREES F,,
+07/13/2010,30,FEET,52.5,DEGREES F,,
+08/09/2010,1,FEET,79.5,DEGREES F,,
+08/09/2010,6,FEET,78.6,DEGREES F,,
+08/09/2010,15,FEET,75.7,DEGREES F,,
+08/09/2010,25,FEET,56.1,DEGREES F,,
+08/09/2010,30,FEET,52.8,DEGREES F,,
+09/13/2010,1,FEET,64.7,DEGREES F,,
+09/13/2010,6,FEET,64.5,DEGREES F,,
+09/13/2010,15,FEET,64.2,DEGREES F,,
+09/13/2010,25,FEET,58.4,DEGREES F,,
+09/13/2010,30,FEET,53.6,DEGREES F,,
+05/18/2011,1,FEET,55.7,DEGREES F,,
+05/18/2011,6,FEET,55.9,DEGREES F,,
+05/18/2011,15,FEET,47.4,DEGREES F,,
+05/18/2011,25,FEET,45.6,DEGREES F,,
+05/18/2011,30,FEET,44.9,DEGREES F,,
+06/13/2011,1,FEET,68,DEGREES F,,
+06/13/2011,6,FEET,66.9,DEGREES F,,
+06/13/2011,15,FEET,57.3,DEGREES F,,
+06/13/2011,25,FEET,46.7,DEGREES F,,
+06/13/2011,30,FEET,46,DEGREES F,,
+07/11/2011,1,FEET,79.1,DEGREES F,,
+07/11/2011,6,FEET,79.1,DEGREES F,,
+07/11/2011,15,FEET,63.3,DEGREES F,,
+07/11/2011,25,FEET,48,DEGREES F,,
+07/11/2011,30,FEET,46.7,DEGREES F,,
+08/29/2011,1,FEET,74.1,DEGREES F,,
+08/29/2011,6,FEET,73.4,DEGREES F,,
+08/29/2011,15,FEET,71.6,DEGREES F,,
+08/29/2011,25,FEET,50,DEGREES F,,
+08/29/2011,30,FEET,48.2,DEGREES F,,
+05/13/2012,1,FEET,63.6,DEGREES F,,
+05/13/2012,5,FEET,62.7,DEGREES F,,
+05/13/2012,10,FEET,61.1,DEGREES F,,
+05/13/2012,15,FEET,54.5,DEGREES F,,
+05/13/2012,20,FEET,51.6,DEGREES F,,
+05/13/2012,25,FEET,49.6,DEGREES F,,
+05/13/2012,30,FEET,49.2,DEGREES F,,
+06/12/2012,1,FEET,73.2,DEGREES F,,
+06/12/2012,6,FEET,73.3,DEGREES F,,
+06/12/2012,15,FEET,73.5,DEGREES F,,
+06/12/2012,25,FEET,53.9,DEGREES F,,
+06/12/2012,30,FEET,51.2,DEGREES F,,
+06/13/2012,1,FEET,73.2,DEGREES F,,
+06/13/2012,6,FEET,73.3,DEGREES F,,
+06/13/2012,15,FEET,65.6,DEGREES F,,
+06/13/2012,25,FEET,51.2,DEGREES F,,
+06/13/2012,30,FEET,50.5,DEGREES F,,
+07/22/2012,1,FEET,81.3,DEGREES F,,
+07/22/2012,6,FEET,80.7,DEGREES F,,
+07/22/2012,15,FEET,73.5,DEGREES F,,
+07/22/2012,25,FEET,53.9,DEGREES F,,
+07/22/2012,30,FEET,51.2,DEGREES F,,
+08/27/2012,1,FEET,73.9,DEGREES F,,
+08/27/2012,6,FEET,73.7,DEGREES F,,
+08/27/2012,15,FEET,71,DEGREES F,,
+08/27/2012,25,FEET,54.3,DEGREES F,,
+08/27/2012,30,FEET,51.8,DEGREES F,,
+05/13/2013,1,FEET,55.7,DEGREES F,,
+05/13/2013,5,FEET,55.9,DEGREES F,,
+05/13/2013,15,FEET,43.4,DEGREES F,,
+05/13/2013,25,FEET,45.6,DEGREES F,,
+05/13/2013,30,FEET,44.9,DEGREES F,,
+06/18/2013,1,FEET,69.2,DEGREES F,,
+06/18/2013,5,FEET,69.9,DEGREES F,,
+06/18/2013,15,FEET,58.1,DEGREES F,,
+06/18/2013,25,FEET,44.3,DEGREES F,,
+06/18/2013,30,FEET,44.4,DEGREES F,,
+07/14/2013,1,FEET,78.2,DEGREES F,,
+07/14/2013,5,FEET,78,DEGREES F,,
+07/14/2013,15,FEET,63.8,DEGREES F,,
+07/14/2013,25,FEET,46.4,DEGREES F,,
+07/14/2013,30,FEET,45.3,DEGREES F,,
+07/17/2013,1,FEET,78.2,DEGREES F,,
+07/17/2013,5,FEET,78,DEGREES F,,
+07/17/2013,15,FEET,63.8,DEGREES F,,
+07/17/2013,25,FEET,46.4,DEGREES F,,
+07/17/2013,30,FEET,45.3,DEGREES F,,
+05/11/2014,0,FEET,55.4,DEGREES F,,
+05/11/2014,5,FEET,52.8,DEGREES F,,
+05/11/2014,15,FEET,47.6,DEGREES F,,
+05/11/2014,25,FEET,42.6,DEGREES F,,
+05/11/2014,30,FEET,42,DEGREES F,,
+06/24/2014,0,FEET,72.6,DEGREES F,,
+06/24/2014,5,FEET,70.5,DEGREES F,,
+06/24/2014,15,FEET,57.9,DEGREES F,,
+06/24/2014,25,FEET,48.9,DEGREES F,,
+06/24/2014,30,FEET,44,DEGREES F,,
+07/13/2014,0,FEET,73.4,DEGREES F,,
+07/13/2014,5,FEET,73.2,DEGREES F,,
+07/13/2014,15,FEET,69.2,DEGREES F,,
+07/13/2014,25,FEET,46.2,DEGREES F,,
+07/13/2014,30,FEET,45.1,DEGREES F,,
+09/07/2014,0,FEET,69.9,DEGREES F,,
+09/07/2014,5,FEET,69.6,DEGREES F,,
+09/07/2014,15,FEET,68.7,DEGREES F,,
+09/07/2014,25,FEET,55,DEGREES F,,
+09/07/2014,30,FEET,50.3,DEGREES F,,
+06/16/2015,0,FEET,70,DEGREES F,,
+06/16/2015,5,FEET,70.5,DEGREES F,,
+06/16/2015,15,FEET,62.9,DEGREES F,,
+06/16/2015,25,FEET,47.4,DEGREES F,,
+06/16/2015,30,FEET,47,DEGREES F,,
+07/19/2015,0,FEET,78.2,DEGREES F,,
+07/19/2015,5,FEET,77.7,DEGREES F,,
+07/19/2015,15,FEET,69,DEGREES F,,
+07/19/2015,25,FEET,49.7,DEGREES F,,
+07/19/2015,30,FEET,48,DEGREES F,,
+09/21/2015,0,FEET,69.2,DEGREES F,,
+09/21/2015,5,FEET,69,DEGREES F,,
+09/21/2015,15,FEET,67.6,DEGREES F,,
+09/21/2015,25,FEET,52.5,DEGREES F,,
+09/21/2015,30,FEET,49.6,DEGREES F,,
+04/26/2016,,,5.7,C,11.4,MG/L
+06/30/2016,,,24.6,C,9.0,MG/L
+07/25/2016,,,27.5,C,0.1,MG/L
+08/21/2016,,,63,C,,
+11/07/2016,,,10.2,C,10.1,MG/L
+02/13/2017,,,2.8,C,0.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/16/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/29/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/27/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/06/1993,Ice off- clear day.    
+06/25/1993,Clear day- algae blooms- weeds showing.    
+08/25/1993,Clear day- high weed growth    
+09/15/1993,Partly cloudy- high weed growth    
+10/11/1993,Clear day- windy- 40 degree temp.    
+05/18/1994,Ice off about 1 month- ducks and geese are on the lake.    
+06/20/1994,Very warm- weeds are growing rapidly on the lake- boat traffic was heavy over the weekend.    
+08/24/1994,Partly cloudy- windy and high weeds.    
+09/20/1994,Partly cloudy- muskrats- trees are turning color- winds are calm.    
+05/24/1995,Partly cloudy- 58 degrees- no plant growth- too early.    
+06/27/1995,Mostly cloudy- weeds high.    
+07/24/1995,North bay secchi was 11 feet.  Partly cloudy- lots of floating weeds.    
+08/22/1995,Full sunlight- weeds heavy- lake is calm.    
+09/20/1995,Clear- cool- 48 degrees- weeds are down.    
+05/22/1996,Clear- ice out three weeks- no weed growth yet.    
+06/25/1996,Clear-sunny.  Few weeds. 2 3/4" rain since 6/17/96.  Water cold 66 degrees F 3' level.    
+07/17/1996,Partly cloudy-moderate wind-high weeds-presently are harvesting weeds.    
+08/27/1996,Partly sunny- some high weeds.    
+09/18/1996,Clear-sunny.    
+05/27/1997,LAKE SAMPLE    
+06/25/1997,Partly cloudy- warm.  Weeds low.  Rain gauge reading from 6/2 to 6/25=2.75 inches.    
+07/22/1997,Partly cloudy.  70 degrees.  Weeds remain low.    
+08/27/1997,Algal- weeds high- muskrats active- 2 inch rain between 8/14/97-8/27/97    
+09/22/1997,LAKE SAMPLE    
+05/27/1998,Clear and sunny.  Early weeds.  Saw muskrats.    
+06/22/1998,Clear sunny and windy.    
+07/15/1998,Partly cloudy and windy.  Some high weeds.    
+08/25/1998,Partly cloudy and windy.  Two inches of rain in the last two weeks.    
+10/07/1998,Cloudy.  1 1/2 inches of rain in the last three days.    
+05/26/1999,Clear blue sky- 60 F- light wind- no algae- low weeds    
+06/26/1999,Clear blue sky- no wind- no algae- weeds are getting higher + being cut.    
+07/26/1999,Mostly cloudy- light wind- no algae- weeds high- 3" rain last 10 days- 90 F + week.    
+08/25/1999,Clear day- no wind- no algae- light rain last 2 weeks- weeds low due to cutting.    
+10/09/1999,Clear day. 1/2" rain yesterday.  Cool 50 F.  Few boats on lake.    
+05/25/2000,Windy- clear sky- 65 degrees F- and the weeds are just starting.    
+06/19/2000,Clear and calm- temperature below normal- 38 degrees F at 6:00 pm- weeds high and being cut.    
+06/27/2000,Windy- partly cloudy- 70 degrees F- and very light traffic on the lake.    
+08/25/2000,Partly cloudy- warm- 80+ degrees- weeds being cut- and some algae.    
+10/03/2000,Some clouds- cool- 60 degrees F- lots of leaves on the lake- and no boats.    
+06/30/2001,SOUTH BAY-DEEP HOLE    
+07/25/2001,SOUTH BAY-DEEP HOLE    
+05/28/2002,Hazy clouds- low weeds.    
+06/25/2002,Mostly cloudy- breezy. Cutting weeds    
+07/16/2002,Clear- calm- floating weeds. Still cutting    
+08/26/2002,Partly cloudy- calm. No algae. Eurasian water milfoil in Bass Lake    
+10/07/2002,Clear- slight wind. Lots of rain last few days. Frost this morning.    
+05/08/2003,30' temperature 44 F.  1' temperature 56 F.  Sky partly cloudy- cool.  No weeds.    
+06/22/2003,34' temperature 43 F.  1' temperature 76 F.  Clear sky.  84 F.  Heavy boat traffic.    
+07/08/2003,35' temperature 43 F- 1' temperature 78 F.  Hazy sky.  High weeds.    
+08/13/2003,34.5' temperature 45 F.  1' temperature 76 F.  Clear- calm.    
+05/26/2004,Partly cloudy- calm.  Heavy rain last week.    
+06/23/2004,Partly cloudy- slight wind- very few weeds.  Too cold.    
+07/14/2004,Sunny but cool.  Low weed growth.  Not much cutting.    
+08/25/2004,Mostly cloudy - slight rain last night.    
+10/06/2004,Sunny- cool- 48 F.  Hard freeze yesterday.  24 F- calm.    
+05/24/2005,Partly sunny- calm- little boat traffic.  Outside air low 45 F.    
+06/27/2005,Partly cloudy- warm.  Slight wind.  Few boats.    
+07/20/2005,Clear skies- slight wind.  Some weeds showing.    
+08/23/2005,Clear skies- 50 F.  No boats- some floating weeds.     
+10/10/2005,Partly cloudy- slight wind- 56 F.  Heavy rain last 2 weeks 9".    
+05/30/2006,Heavy Boat traffic on weekend and Monday
+06/20/2006,Sunny- 69F- No boats- weed growing out top water
+07/18/2006,Clear sky- sunny- 80F- lots of weeds- heavy boat traffic on weekend
+08/15/2006,Satellite Path 23 Sunny- 84F
+08/21/2006,Temp 71F- pvercast- no boats today
+09/08/2006,Satellite Path 24- Partly sunny- breezy- 71.5F- water temp @ 1ft: 73F
+04/20/2007,Ice out April 2.  Loons are back.  Sunny.  Temp. 65.3 F.
+05/14/2007,Temp. 66.4 F.  Sunny- calm.
+06/11/2007,Sunny- light breeze.  80 F temp.
+07/16/2007,Sunny- light breeze.  75 F temp.  
+08/26/2007,Sunny- light breeze.  68.8 F.  Heavy boat use all summer.
+09/26/2007,Sunny- light breeze.  Temp 66.4 F.  No boats today.  Loons are gone.
+10/20/2007,Partly sunny.  Lite breeze.  No boats today.  72.2 F temperature.
+05/19/2008,Sunny- 50 degrees F- windy. Ice out 4/28/2008
+06/16/2008,Sunny- 51 degrees- windy. 
+07/22/2008,Cloudy- 60 degrees. 
+08/11/2008,Sunny- 60 degrees.
+05/29/2009,sunny and windy
+06/16/2009,partly cloudy
+07/20/2009,sunny and clear
+08/17/2009,partly cloudy
+09/15/2009,sunny and clear
+09/13/2010,Very windy.
+06/13/2011,sunny
+08/29/2011,sunny
+05/13/2012,ice out 03.20.2012
+06/12/2012,windy and cold
+06/13/2012,windy + cold
+08/27/2012,sunny and nice
+05/11/2014,Ice out on 05/03/2014
+06/16/2015,71797
+07/19/2015,71797
+09/21/2015,71797
+
+
+
+
+Start Date,Group Name,Project Name
+02/16/1976,Data Collectors,Migrated from STORET Legacy
+04/29/1976,Data Collectors,Migrated from STORET Legacy
+07/27/1976,Data Collectors,Migrated from STORET Legacy
+10/27/1976,Data Collectors,Migrated from STORET Legacy
+05/06/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/25/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/22/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/25/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/15/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/11/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/11/1993,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/18/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/18/1994,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/20/1994,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/22/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/26/1994,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/24/1994,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/20/1994,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/24/1995,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/27/1995,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/24/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/24/1995,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/22/1995,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/20/1995,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/22/1996,Dick Firehammer And Harvey Tengler,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/25/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/25/1996,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/17/1996,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/27/1996,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/18/1996,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/27/1997,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/25/1997,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/22/1997,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/27/1997,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/22/1997,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/27/1998,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/22/1998,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/15/1998,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/25/1998,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/07/1998,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/26/1999,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/26/1999,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/26/1999,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/25/1999,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/09/1999,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/25/2000,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/19/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/27/2000,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/25/2000,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/03/2000,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/30/2001,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/25/2001,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/28/2002,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/25/2002,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/16/2002,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/26/2002,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/07/2002,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/08/2003,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/22/2003,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/08/2003,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/13/2003,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/26/2004,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/23/2004,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/14/2004,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/25/2004,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/06/2004,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/24/2005,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/27/2005,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/20/2005,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/23/2005,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/10/2005,Dick Firehammer,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/30/2006,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/20/2006,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/18/2006,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/15/2006,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/21/2006,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/08/2006,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+04/20/2007,Richard Ahern,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/14/2007,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/11/2007,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/16/2007,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/26/2007,Arliss Ausloos,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/26/2007,Richard Ahern,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+10/20/2007,Richard Ahern,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/19/2008,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/19/2008,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/16/2008,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/17/2008,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/22/2008,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/22/2008,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/11/2008,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/22/2008,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/22/2008,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/29/2009,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/16/2009,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/16/2009,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/20/2009,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/20/2009,Robert Ramlow,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/17/2009,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/17/2009,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/15/2009,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/12/2010,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/21/2010,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/21/2010,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/12/2010,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/13/2010,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/09/2010,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/09/2010,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/13/2010,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/13/2010,Ken Kerkoff and Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/18/2011,Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/18/2011,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/13/2011,Dell Lubewski,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/13/2011,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/11/2011,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/29/2011,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/30/2011,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/13/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/14/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/12/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/13/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/22/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/23/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/27/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/27/2012,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/13/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/18/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/13/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/14/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/17/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/19/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/19/2013,Ken Kerkhoff,Citizen Lake Monitoring Network QA/QC - 2013
+08/20/2013,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/20/2013,Ken Kerkhoff,Citizen Lake Monitoring Network QA/QC - 2013
+05/11/2014,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+05/11/2014,Ken Kerkoff ,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/24/2014,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/26/2014,Ken Kerkoff ,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/13/2014,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/13/2014,Ken Kerkoff ,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/07/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/07/2014,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/16/2015,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/23/2015,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/19/2015,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/21/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/21/2015,Ken Kerkhoff,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+04/26/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+05/02/2016,Ken Kerkoff ,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/26/2016,Ken Kerkhoff and Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/30/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+07/25/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+07/25/2016,Ken Kerkoff ,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/25/2016,Tim Hoyman - Onterra- LLC,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+08/21/2016,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/21/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+11/07/2016,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+02/13/2017,Data Collectors,CROOKED LAKES AREA LAKES PRTCTN + REHAB DIST: Crooked Lake Management Plan
+06/24/2017,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/30/2017,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/31/2017,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+06/17/2018,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/05/2018,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+09/08/2018,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/02/2019,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+07/11/2020,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole
+08/29/2020,Curt Hoffman,Citizen Lake Monitoring - Water Quality - Crooked Lake; South Bay-Deep Hole

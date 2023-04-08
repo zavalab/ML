@@ -1,0 +1,621 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hartlaub Lake,Manitowoc,67200,NE,36,,363229,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,11/06/1980,,,,34,80,,62,61,,,,,
+1,07/22/1981,,,,9,20,,51,51,,,,,
+1,11/18/1981,,,,12,80,,62,54,,,,,
+1,02/08/1982,,,,5,120,,65,47,,,,,
+1,05/05/1982,,,,70,140,,66,67,,,,,
+1,02/08/1996,,,,,276,,72,,,,,,
+1,04/24/1996,,,,194,284,,72,75,,,,,
+1,06/12/1996,9,,2.74,10.2,71,45,61,52,,,,,
+1,07/10/1996,3.9,,1.2,43.2,57,57,59,63,,,,,
+1,08/08/1996,,,,21.7,40,,57,58,,,,,
+8189746,08/27/1996,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,09/03/1996,3.25,NO,1,,,60,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,09/10/1996,3.75,NO,1.1,,,58,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189746,09/24/1996,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+1,02/25/1997,,,,,340,,73,,,,,,
+1,04/23/1997,2.6,,0.8,161,260,63,71,73,,,,,
+8189746,05/11/1997,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,06/05/1997,,,,6.32,52,,59,49,,,,,
+8189746,06/07/1997,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189746,06/17/1997,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189746,06/20/1997,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/15/1997,,,,13.7,34,,55,55,,,,,
+8189746,07/19/1997,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,07/26/1997,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/12/1997,,,,16.2,20,,51,56,,,,,
+1,02/03/1998,,,,,59,,60,,,,,,
+1,04/22/1998,,,,69.2,125,,66,67,,,,,
+8189746,05/05/1998,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189746,05/12/1998,15.5,NO,4.7,,,38,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189746,05/19/1998,16.75,NO,5.1,,,37,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189746,05/28/1998,7,NO,2.1,,,49,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189746,06/03/1998,5.5,NO,1.7,,,53,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189746,06/12/1998,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,06/19/1998,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189746,07/01/1998,3.75,NO,1.1,,,58,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189746,07/15/1998,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189746,07/21/1998,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189746,08/02/1998,6,NO,1.8,,,51,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189746,08/14/1998,7,NO,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189746,08/22/1998,9,NO,2.7,,,45,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189746,09/04/1998,9.5,NO,2.9,,,45,,,,,,BLUE,3-Enjoyment somewhat impaired (algae)
+8189746,09/11/1998,10,NO,3,,,44,,,,,,BLUE,2-Very minor aesthetic problems
+8189746,09/20/1998,10,NO,3,,,44,,,,,,BLUE,1-Beautiful, could not be nicer
+8189746,05/02/1999,11,YES,3.3,,,43,,,HIGH,,CLEAR,BLUE,
+8189746,05/09/1999,11,YES,3.3,,,43,,,HIGH,,CLEAR,BLUE,
+8189746,05/23/1999,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,
+8189746,06/06/1999,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,
+8189746,06/13/1999,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,
+8189746,06/27/1999,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+8189746,07/04/1999,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,
+8189746,07/18/1999,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,GREEN,
+8189746,07/25/1999,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,
+8189746,08/01/1999,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,
+8189746,08/08/1999,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,
+8189746,08/15/1999,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN/BROWN,
+8189746,08/29/1999,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,
+8189746,09/05/1999,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,
+8189746,09/12/1999,7.75,NO,2.4,,,48,,,LOW,,MURKY,GREEN,
+8189746,09/26/1999,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,
+8189746,10/03/1999,9.5,NO,2.9,,,45,,,LOW,,MURKY,GREEN,
+8189746,04/13/2002,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189746,05/05/2002,14.75,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189746,05/07/2002,0.75,NO,0.2,,,81,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189746,06/05/2002,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,06/30/2002,10,NO,3,,,44,,,,,,,
+8189746,07/20/2002,,,,,,,,,,,,,
+8189746,07/21/2002,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189746,08/23/2002,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189746,11/10/2002,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,11/12/2002,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,05/04/2003,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189746,05/11/2003,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189746,06/16/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189746,06/17/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189746,07/18/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189746,08/30/2003,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189746,09/15/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189746,05/16/2004,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189746,07/24/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189746,08/27/2004,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189746,09/26/2004,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189746,05/07/2005,18,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189746,05/15/2005,17,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189746,06/03/2005,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189746,06/15/2005,,,,,,,,,,,,,
+8189746,06/26/2005,9.25,NO,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189746,07/23/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189746,08/27/2005,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+34982050,04/20/2012,16,NO,4.9,,,37,,,,,,BLUE,1-Beautiful, could not be nicer
+34982050,05/06/2012,1.5,NO,0.5,,,71,,,,,,,5-Enjoyment substantially impaired (algae)
+34982050,05/18/2012,8,NO,2.4,,,47,,,,,,,2-Very minor aesthetic problems
+34982050,05/28/2012,8,NO,2.4,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+34982050,06/05/2012,7.5,NO,2.3,,,48,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,06/17/2012,7.5,NO,2.3,,,48,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/16/2012,,,,6.42,33,,55,49,,,,,
+34982050,08/05/2012,4,NO,1.2,,,57,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/19/2012,,,,7.83,22,,52,50,,,,,
+1,09/15/2012,,,,4.85,21,,52,47,,,,,
+34982050,09/15/2012,7,NO,2.1,,,49,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,04/27/2013,,,,,113,,65,,,,,,
+34982050,05/31/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,06/16/2013,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,07/07/2013,,,,5.34,21.5,,52,47,,,,,
+34982050,07/15/2013,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,08/05/2013,8, ,2.4,6.21,19.2,47,51,49,,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+34982050,09/05/2013,8.5, ,2.6,4.67,20.2,46,51,46,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+34982050,04/21/2014,2,NO,0.6,,150,57,67,,,,MURKY,BROWN,
+34982050,05/19/2014,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34982050,06/03/2014,2.5, ,0.8,,,64,,,,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+34982050,06/19/2014,6.5,NO,2,,,50,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,06/26/2014,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,07/03/2014,2.75, ,0.8,,,63,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,08/02/2014,5, ,1.5,,,54,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,08/13/2014,6, ,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+34982050,08/18/2014,7, ,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+34982050,08/23/2014,6, ,1.8,,,51,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000093,08/24/2014,6,,1.8,10.2,29.4,51,54,52,,,,,3-Enjoyment somewhat impaired (algae)
+34982050,09/05/2014,7,NO,2.1,,,49,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+34982050,09/09/2014,7,NO,2.1,,,49,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+34982050,04/02/2015,5,,1.5,,101,54,64,,,,,,
+34982050,05/11/2015,13, ,4,,,40,,,,,,,1-Beautiful, could not be nicer
+34982050,06/02/2015,13, ,4,,,40,,,,,,,1-Beautiful, could not be nicer
+34982050,06/08/2015,13, ,4,,,40,,,,,,,1-Beautiful, could not be nicer
+34982050,06/16/2015,10, ,3,,,44,,,,,,,
+34982050,06/18/2015,7, ,2.1,,,49,,,,,,,2-Very minor aesthetic problems
+34982050,06/20/2015,4, ,1.2,,,57,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,06/21/2015,3.5, ,1.1,,62.6,59,60,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,06/23/2015,3,NO,0.9,,,61,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,06/27/2015,2.5,NO,0.8,,,64,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,06/28/2015,2,NO,0.6,,,67,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,07/18/2015,6,NO,1.8,,,51,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,07/24/2015,8,NO,2.4,,,47,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+34982050,07/27/2015,9,NO,2.7,,,45,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+34982050,07/28/2015,,,,,29.8,,54,,,,,,
+34982050,08/02/2015,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+34982050,08/06/2015,5,,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,08/19/2015,5,,1.5,,,54,,,,,,,4-Would not swim but boating OK (algae)
+34982050,08/23/2015,5,,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,09/14/2015,6,NO,1.8,,31.3,51,55,,,,CLEAR,,2-Very minor aesthetic problems
+34982050,03/19/2016,,,,,128,,66,,,,,,
+34982050,03/20/2016,7,,2.1,,,49,,,NORMAL,,MURKY,,
+34982050,05/24/2016,3,,0.9,,,61,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+34982050,05/31/2016,3,,0.9,,,61,,,,,,,
+34982050,06/12/2016,12,,3.6,,,41,,,,,,BLUE,1-Beautiful, could not be nicer
+34982050,06/16/2016,6,,1.8,,,51,,,,,,BROWN,4-Would not swim but boating OK (algae)
+34982050,06/22/2016,6.5,,2,,,50,,,,,,BROWN,4-Would not swim but boating OK (algae)
+34982050,06/24/2016,4.5,,1.4,,,55,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34982050,06/27/2016,3.5,,1.1,,,59,,,,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+34982050,06/30/2016,2.5,,0.8,21.3,38.2,64,56,58,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,07/12/2016,6,,1.8,,,51,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,07/17/2016,6,,1.8,,,51,,,,,MURKY,GREEN,
+34982050,07/29/2016,5,,1.5,,,54,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,08/03/2016,3,,0.9,,,61,,,,,MURKY,GREEN,
+131123815,08/03/2016,4.5,NO,1.4,11.4,28.4,55,54,53,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+131123815,09/06/2016,6,NO,1.8,7.53,19.2,51,51,50,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,09/20/2016,6,,1.8,,,51,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+131123815,04/04/2017,,,,,87.6,,63,,,,,,
+131123815,06/06/2017,,,,4.77,42.3,,57,47,,,,,
+131123815,07/10/2017,,,,3.99,25.7,,53,45,,,,,
+131123815,08/02/2017,,,,10.8,35.3,,56,53,,,,,
+34982050,06/09/2018,10,NO,3,,,44,,,,,CLEAR,,1-Beautiful, could not be nicer
+34982050,07/01/2018,8,NO,2.4,,,47,,,,,CLEAR,,2-Very minor aesthetic problems
+34982050,07/02/2018,5,NO,1.5,,,54,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,07/13/2018,6.5,NO,2,,,50,,,,,CLEAR,,2-Very minor aesthetic problems
+34982050,07/18/2018,,,,13.3,37.9,,56,54,,,,,
+34982050,07/30/2018,4,NO,1.2,,,57,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,08/04/2018,3,NO,0.9,,,61,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,08/10/2018,3.5,NO,1.1,,,59,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,08/16/2018,,,,9.99,24.1,,53,52,,,,,
+34982050,08/20/2018,3.5,NO,1.1,,,59,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,09/03/2018,3,NO,0.9,,,61,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,09/13/2018,2.5,NO,0.8,,,64,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,09/21/2018,2.5,NO,0.8,,,64,,,,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34982050,10/03/2018,6,NO,1.8,,,51,,,,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+34982050,11/01/2018,9.5,NO,2.9,,,45,,,,,CLEAR,,2-Very minor aesthetic problems
+34982050,04/14/2019,,,,,168,,68,,,,,,
+200241328,07/01/2019,10.5,,3.2,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+200241328,07/08/2019,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+131123815,07/09/2019,,,,10.9,90.8,,63,53,,,,,
+200241328,07/22/2019,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,04/26/2020,12,,3.6,,,41,,,,,,,
+34982050,06/02/2020,7,,2.1,,,49,,,,,,,
+34982050,06/14/2020,2.5,,0.8,,,64,,,,,,,5-Enjoyment substantially impaired (algae)
+34982050,06/19/2020,1.5,,0.5,,,71,,,,,MURKY,,5-Enjoyment substantially impaired (algae)
+34982050,06/21/2020,,,,91.6,62.7,,60,69,,,,,
+34982050,06/29/2020,6,,1.8,,,51,,,,,,GREEN,
+34982050,07/07/2020,3.5,,1.1,,,59,,,,,MURKY,,4-Would not swim but boating OK (algae)
+34982050,07/27/2020,,,,41.7,51.4,,59,63,,,,,
+34982050,08/17/2020,2,,0.6,,,67,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,08/31/2020,2.5,,0.8,,,64,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,09/01/2020,,,,25.9,41.7,,57,59,,,,,
+34982050,09/21/2020,4,,1.2,,,57,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34982050,10/01/2020,4,,1.2,,,57,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/06/1980,,,10,C,7.8,MG/L
+07/22/1981,,,10,C,0,MG/L
+11/18/1981,,,5,C,4.7,MG/L
+02/08/1982,,,.5,C,4.8,MG/L
+05/05/1982,,,14,C,1,MG/L
+02/08/1996,,,1.01,C,0.19,MG/L
+06/12/1996,,,19.3,C,0.15,MG/L
+07/10/1996,,,22.7,C,0.11,MG/L
+02/25/1997,,,1.7,C,0.4,MG/L
+06/05/2002,5,FEET,62,DEGREES F,9,MG/L
+06/05/2002,15,FEET,56,DEGREES F,5,MG/L
+06/05/2002,20,FEET,51,DEGREES F,4,MG/L
+06/05/2002,25,FEET,51,DEGREES F,4,MG/L
+06/05/2002,30,FEET,45,DEGREES F,2,MG/L
+06/05/2002,40,FEET,42,DEGREES F,2,MG/L
+06/05/2002,50,FEET,42,DEGREES F,0,MG/L
+07/20/2002,5,FEET,82,DEGREES F,10,MG/L
+07/20/2002,10,FEET,76,DEGREES F,11,MG/L
+07/20/2002,15,FEET,66,DEGREES F,2,MG/L
+07/20/2002,20,FEET,59,DEGREES F,1,MG/L
+07/20/2002,30,FEET,47,DEGREES F,0,MG/L
+07/20/2002,40,FEET,45,DEGREES F,0,MG/L
+07/20/2002,50,FEET,41,DEGREES F,0,MG/L
+11/10/2002,5,FEET,44,DEGREES F,13,MG/L
+11/10/2002,15,FEET,42,DEGREES F,11,MG/L
+11/10/2002,20,FEET,43,DEGREES F,10,MG/L
+11/10/2002,30,FEET,42,DEGREES F,8,MG/L
+11/10/2002,40,FEET,42,DEGREES F,4,MG/L
+11/10/2002,50,FEET,42,DEGREES F,3,MG/L
+06/17/2003,5,FEET,66,DEGREES F,9.2,MG/L
+06/17/2003,10,FEET,65,DEGREES F,8.8,MG/L
+06/17/2003,15,FEET,55,DEGREES F,3.7,MG/L
+06/17/2003,20,FEET,53,DEGREES F,1.2,MG/L
+06/17/2003,30,FEET,44,DEGREES F,0,MG/L
+06/17/2003,40,FEET,43,DEGREES F,0,MG/L
+06/17/2003,50,FEET,40,DEGREES F,0,MG/L
+07/18/2003,5,FEET,78,DEGREES F,7.8,MG/L
+07/18/2003,10,FEET,72,DEGREES F,6.8,MG/L
+07/18/2003,15,FEET,59,DEGREES F,3.4,MG/L
+07/18/2003,20,FEET,57,DEGREES F,.9,MG/L
+07/18/2003,30,FEET,46,DEGREES F,2.1,MG/L
+07/18/2003,40,FEET,44,DEGREES F,0,MG/L
+07/18/2003,50,FEET,42,DEGREES F,.6,MG/L
+08/30/2003,5,FEET,74,DEGREES F,7.2,MG/L
+08/30/2003,10,FEET,73,DEGREES F,6.7,MG/L
+08/30/2003,15,FEET,67,DEGREES F,1.1,MG/L
+08/30/2003,20,FEET,48,DEGREES F,0,MG/L
+08/30/2003,30,FEET,46,DEGREES F,0,MG/L
+08/30/2003,40,FEET,44,DEGREES F,0,MG/L
+08/30/2003,50,FEET,44,DEGREES F,0,MG/L
+09/15/2003,5,FEET,74,DEGREES F,7.2,MG/L
+09/15/2003,10,FEET,73,DEGREES F,6.7,MG/L
+09/15/2003,15,FEET,67,DEGREES F,1.1,MG/L
+09/15/2003,20,FEET,48,DEGREES F,0,MG/L
+09/15/2003,30,FEET,46,DEGREES F,0,MG/L
+09/15/2003,40,FEET,45,DEGREES F,0,MG/L
+09/15/2003,50,FEET,44,DEGREES F,0,MG/L
+05/16/2004,5,FEET,69,DEGREES F,8.2,MG/L
+05/16/2004,15,FEET,57,DEGREES F,3.4,MG/L
+05/16/2004,20,FEET,52,DEGREES F,0,MG/L
+05/16/2004,30,FEET,45,DEGREES F,0,MG/L
+05/16/2004,40,FEET,40,DEGREES F,0,MG/L
+05/16/2004,50,FEET,40,DEGREES F,0,MG/L
+07/24/2004,5,FEET,78,DEGREES F,9.6,MG/L
+07/24/2004,15,FEET,63,DEGREES F,1.3,MG/L
+07/24/2004,20,FEET,57,DEGREES F,.8,MG/L
+07/24/2004,30,FEET,45,DEGREES F,.9,MG/L
+07/24/2004,40,FEET,44,DEGREES F,.6,MG/L
+07/24/2004,50,FEET,41,DEGREES F,0,MG/L
+08/27/2004,5,FEET,69,DEGREES F,7.4,MG/L
+08/27/2004,15,FEET,63,DEGREES F,2.6,MG/L
+08/27/2004,20,FEET,56,DEGREES F,0,MG/L
+08/27/2004,30,FEET,46,DEGREES F,0,MG/L
+08/27/2004,40,FEET,44,DEGREES F,0,MG/L
+08/27/2004,50,FEET,42,DEGREES F,0,MG/L
+09/26/2004,5,FEET,69,DEGREES F,6.9,MG/L
+09/26/2004,15,FEET,67,DEGREES F,4.9,MG/L
+09/26/2004,20,FEET,59,DEGREES F,1.1,MG/L
+09/26/2004,30,FEET,46,DEGREES F,0,MG/L
+09/26/2004,40,FEET,44,DEGREES F,0,MG/L
+09/26/2004,50,FEET,42,DEGREES F,0,MG/L
+06/15/2005,5,FEET,76,DEGREES F,7.4,MG/L
+06/15/2005,10,FEET,74,DEGREES F,8,MG/L
+06/15/2005,15,FEET,66,DEGREES F,5.8,MG/L
+06/15/2005,20,FEET,50,DEGREES F,.2,MG/L
+06/15/2005,30,FEET,45,DEGREES F,0,MG/L
+06/15/2005,40,FEET,45,DEGREES F,0,MG/L
+07/23/2005,5,FEET,77,DEGREES F,7.8,MG/L
+07/23/2005,10,FEET,76,DEGREES F,8.2,MG/L
+07/23/2005,15,FEET,70,DEGREES F,1.9,MG/L
+07/23/2005,20,FEET,58,DEGREES F,.4,MG/L
+07/23/2005,30,FEET,45,DEGREES F,0,MG/L
+07/23/2005,40,FEET,44,DEGREES F,0,MG/L
+08/27/2005,5,FEET,75,DEGREES F,7.6,MG/L
+08/27/2005,10,FEET,74,DEGREES F,9.4,MG/L
+08/27/2005,15,FEET,69,DEGREES F,2.8,MG/L
+08/27/2005,20,FEET,60,DEGREES F,1.6,MG/L
+08/27/2005,30,FEET,44,DEGREES F,0,MG/L
+08/27/2005,40,FEET,40,DEGREES F,0,MG/L
+04/21/2014,5,FEET,40,DEGREES F,,
+04/21/2014,10,FEET,40,DEGREES F,,
+04/21/2014,15,FEET,42,DEGREES F,,
+04/21/2014,20,FEET,39,DEGREES F,,
+04/21/2014,25,FEET,41,DEGREES F,,
+04/21/2014,30,FEET,39,DEGREES F,,
+08/23/2014,3,FEET,68,DEGREES F,12.6,MG/L
+08/23/2014,6,FEET,67,DEGREES F,11.6,MG/L
+08/23/2014,9,FEET,67,DEGREES F,8.9,MG/L
+08/23/2014,12,FEET,66,DEGREES F,4.3,MG/L
+08/23/2014,15,FEET,58,DEGREES F,.4,MG/L
+08/23/2014,18,FEET,53,DEGREES F,.3,MG/L
+08/23/2014,21,FEET,49,DEGREES F,.3,MG/L
+08/23/2014,24,FEET,46,DEGREES F,.3,MG/L
+08/23/2014,27,FEET,45,DEGREES F,.3,MG/L
+08/23/2014,30,FEET,44,DEGREES F,.3,MG/L
+08/24/2014,3,FEET,68,DEGREES F,12.6,MG/L
+08/24/2014,6,FEET,68,DEGREES F,11.6,MG/L
+08/24/2014,9,FEET,67,DEGREES F,8.9,MG/L
+08/24/2014,12,FEET,66,DEGREES F,4.3,MG/L
+08/24/2014,15,FEET,58,DEGREES F,.4,MG/L
+08/24/2014,18,FEET,53,DEGREES F,.3,MG/L
+08/24/2014,21,FEET,49,DEGREES F,.3,MG/L
+08/24/2014,24,FEET,46,DEGREES F,.3,MG/L
+08/24/2014,27,FEET,45,DEGREES F,.3,MG/L
+08/24/2014,30,FEET,44,DEGREES F,.3,MG/L
+04/02/2015,0,FEET,43,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+11/06/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/22/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/18/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/08/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/05/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/08/1996,HARTLAUB LAKE FISHKILL FOLLOW-UP    
+06/12/1996,HARTLAUB LAKE FISHKILL FOLLOW-UP    
+07/10/1996,FISHKILL FOLLOW-UP    
+06/17/1997,Algal blooms.    
+07/26/1997,The main algae in the water is a brown clump ranging in size from a pea to a golf ball.  When struck- the algae ball will break up into dust.    
+05/05/1998,Calm.    
+05/12/1998,Calm.    
+05/19/1998,Calm.    
+05/28/1998,Calm.    
+06/03/1998,Calm.    
+06/12/1998,Choppy.    
+06/19/1998,Calm.    
+07/01/1998,Calm. bloom - gross!    
+07/15/1998,Calm. bloom    
+07/21/1998,Calm. bloom    
+08/02/1998,Calm. less bloom    
+08/14/1998,Choppy bloom pretty well gone.    
+08/22/1998,Choppy clear.    
+09/04/1998,Calm.    
+09/11/1998,Calm.    
+09/20/1998,Calm.    
+04/13/2002,Surface is covered with clumps of black goo.    
+05/07/2002,Heavy rain last night.  Runoff effects already seen in color and clarity.    
+08/23/2002,Slight algae bloom in process.    
+11/12/2002,An algae bloom in progress.  Only slight.    
+05/11/2003,Heavy rain - lots of runoff muddied the entire lake.    
+04/20/2012,Partly Cloudy Very little snow past winter.   Melt was early and fairly gradual...water had a chance to settle in soil.  
+05/06/2012,Received a combined 5 inches rain the previous two days.  Lake went from beautiful to a color of coffee with a little cream added.  Terrible Received a combined 5 inches rain the previous two days.  Lake went from beautiful to a color of coffee with a little cream added.  Terrible
+05/18/2012,No additional rain... sediment had chance to settle out
+05/28/2012,Water temperature 
+5 feet    71   
+10 feet  67
+20 feet  49
+06/05/2012,Algae starting to accumulate especially on milfoil
+06/17/2012,Breezy with pending storm 
+08/05/2012,Going Green 
+09/15/2012,Swimmers indicate this has been a "better than normal year for water quality"   
+05/31/2013,Water is starting to fill with algae.   
+09/05/2013,Excessive amount of HWM and coontail 
+06/03/2014,Received 2.6 inches rain 6 days prior to secchi reading.   Rapid reduction in clarity  
+06/19/2014,3.25 inches rain in the past 48 hours.   Heavy filamentous algae.  
+06/26/2014,Water temp 71 surface....lots filamentous algae.....not as much HWM as last year  
+07/03/2014,Received 3.6 inches rain within 36 hours on June 16th + 17th
+08/02/2014,Received only 0.75 inches rain all of July...Secchi much improved 
+08/13/2014,Continued generally dry...light precipitation 
+08/18/2014,3.2 inches rain all of August and spread out.   Lake level did not raise.  
+08/23/2014,Bloom just starting.   Looks like green ink released in spurts
+08/24/2014,Filamentous dying/HWM less populous- very pale pink stems. Bloom just starting. 
+Winds out of east at 5mph
+SLH field number : HL-1
+YSI
+09/05/2014,Water temperature now at 70 degrees in 2 feet water next to shore   
+09/09/2014,Substantially less HWM compared to previous years.... 
+2012 rake throw would be a "3" rating.    2014 rake throw would be a 0.5 or perhaps "1" at the most.   
+04/02/2015,Bottom Temp 39.5F.
+06/02/2015,1.7 inches rain last night.   Ground was dry and rain soaked in 
+06/18/2015,Received and additional 1/4 inches rain.  Ground was already saturated from rain earlier in week.   Losing water clarity.   
+06/20/2015,Clarity deteriorating due to the last rain  
+06/23/2015,Received 0.5" inches rain    
+06/27/2015,Surface temp  72 F   and Bloom Starting   
+07/18/2015,0.7" rain but on dry land   
+07/27/2015,Continued Dry 
+08/02/2015,Continued Dry 
+08/06/2015,continued dry 
+08/19/2015,1.5 inches rain over past 2 days but on dry ground.   
+Blue / Green algae forming on edges   
+08/23/2015,Algae gone from edges....algae in water column remains   
+06/16/2016,Hard rain of 1.6 inches yesterday.   Streams of sediment entering lake
+06/24/2016,After 1.6 inches on "open" agricultural land- Secchi readings have decreased from 12 to 4.5 in just 8 days.   
+06/27/2016,One additional rain yesterday....further reducing visibility
+06/30/2016,Additional 1.2 inches rain    
+07/12/2016,light rain past 2 weeks....
+07/29/2016,2 inches rain 4 days ago...July 24
+08/03/2016,BTI first Secchi recording- instruction by Gene Weyer.
+Skies clear- 56ft depth- 5mph winds from west.
+09/06/2016,Skies clear- 84 degrees- wsw wind at 15mph.
+07/01/2019,depth 10.5- sunny
+06/14/2020,6" rain on June 4th....incoming stream brown
+
+
+
+
+Start Date,Group Name,Project Name
+11/06/1980,Data Collectors,Migrated from STORET Legacy
+07/22/1981,Data Collectors,Migrated from STORET Legacy
+11/18/1981,Data Collectors,Migrated from STORET Legacy
+02/08/1982,Data Collectors,Migrated from STORET Legacy
+05/05/1982,Data Collectors,Migrated from STORET Legacy
+02/08/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/24/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/12/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/10/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/08/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/27/1996,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/03/1996,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/10/1996,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/24/1996,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+02/25/1997,Data Collectors,LAKE EVALUATION
+04/23/1997,Data Collectors,LAKE EVALUATION
+05/11/1997,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/05/1997,Data Collectors,LAKE EVALUATION
+06/07/1997,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/17/1997,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/20/1997,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/15/1997,Data Collectors,LAKE EVALUATION
+07/19/1997,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/26/1997,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/12/1997,Data Collectors,LAKE EVALUATION
+02/03/1998,Data Collectors,LAKE EVALUATION
+04/22/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/05/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/12/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/19/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/28/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/03/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/12/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/19/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/01/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/15/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/21/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/02/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/14/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/22/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/04/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/11/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/20/1998,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/02/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/09/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/23/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/06/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/13/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/27/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/04/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/18/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/25/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/01/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/08/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/15/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/29/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/05/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/12/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/26/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+10/03/1999,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/13/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/05/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/07/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/05/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/30/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/20/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/21/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/23/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+11/10/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+11/12/2002,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/04/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/11/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/16/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/17/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/18/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/30/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/15/2003,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/16/2004,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/24/2004,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/27/2004,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/26/2004,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/07/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/15/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/03/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/15/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/26/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/23/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/27/2005,Steve Strieter,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/20/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/06/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/18/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/28/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/05/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/17/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/16/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/05/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/19/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/15/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/15/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/27/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+05/31/2013,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/16/2013,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/07/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+07/15/2013,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/05/2013,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/05/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+09/05/2013,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/05/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/21/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/21/2014,Gene Weyer,English Lake - Manitowoc County- Extra Sampling
+04/21/2014,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+05/19/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/03/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/19/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/26/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/03/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/02/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/13/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/18/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/23/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/24/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+09/05/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/09/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/02/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+05/11/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/02/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/08/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/16/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/18/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/20/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/21/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/23/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/27/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/28/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/18/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/24/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/27/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/28/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/02/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/06/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/19/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/23/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/14/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+03/19/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+03/20/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/24/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+05/31/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/12/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/16/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/22/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/24/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/27/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/30/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/12/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/17/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/29/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/03/2016,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/03/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/06/2016,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/20/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/04/2017,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/06/2017,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/10/2017,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/02/2017,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/09/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/01/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/02/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/13/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/18/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/30/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/04/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/10/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/16/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/20/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/03/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/13/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/21/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+10/03/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+11/01/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/14/2019,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/01/2019,Brue Wernli,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/08/2019,Brue Wernli,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/09/2019,Brian Ingersoll,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/22/2019,Brue Wernli,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+04/26/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/02/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/14/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/19/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/21/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+06/29/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/07/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+07/27/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/17/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+08/31/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/01/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+09/21/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole
+10/01/2020,Gene Weyer,Citizen Lake Monitoring - Water Quality - Hartlaub Lake; Deep Hole

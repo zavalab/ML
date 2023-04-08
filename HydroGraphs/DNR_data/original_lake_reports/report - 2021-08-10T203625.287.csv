@@ -1,0 +1,756 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Elkhart Lake,Sheboygan,46000,SE,60,,603441,SW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/06/1979,,,,5.21,20,,51,47,,,,,
+1,07/21/1988,12.5,,3.8,4,16,41,50,45,,,,,
+1,08/30/1988,9,,2.75,11,14,45,49,53,,,,,
+1,08/23/1994,15.7,,4.8,3.62,12,37,47,45,,,,,
+8189381,07/26/1998,10.5,NO,3.2,,,43,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,08/02/1998,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/09/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/16/1998,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,08/23/1998,8.5,NO,2.6,,,46,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,08/30/1998,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,09/06/1998,9.5,NO,2.9,,,45,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,09/10/1998,10.5,NO,3.2,,,43,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,09/21/1998,10.5,NO,3.2,,,43,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,09/27/1998,10,NO,3,,,44,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,10/04/1998,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,10/11/1998,11,NO,3.3,,,43,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,10/18/1998,11.5,NO,3.5,,,42,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,10/25/1998,13,NO,4,,,40,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/01/1998,12.5,NO,3.8,,,41,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/08/1998,13,NO,4,,,40,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/15/1998,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/22/1998,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/29/1998,10.5,NO,3.2,,,43,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,05/01/1999,12.5,NO,3.8,,,41,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,05/15/1999,13,NO,4,,,40,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,06/12/1999,13,NO,4,,,40,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,06/19/1999,13.5,NO,4.1,,,40,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189390,07/11/1999,14,NO,4.3,,,39,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,07/18/1999,13.5,NO,4.1,,,40,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,08/22/1999,14.5,NO,4.4,,,39,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,09/04/1999,12,NO,3.6,,,41,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189381,09/19/1999,10.5,NO,3.2,,,43,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189390,09/26/1999,12,NO,3.6,,,41,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189381,10/03/1999,14,NO,4.3,,,39,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,10/10/1999,12.5,NO,3.8,,,41,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189390,10/17/1999,12,NO,3.6,,,41,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189390,10/24/1999,12.5,NO,3.8,,,41,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/06/1999,10.5,NO,3.2,,,43,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/14/1999,10,NO,3,,,44,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,11/25/1999,10.5,NO,3.2,,,43,,,NO CHANGE,,MURKY,RED,
+8189391,05/07/2000,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/11/2000,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/20/2000,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/22/2000,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,08/08/2000,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,09/07/2000,9,NO,2.7,5,27,45,54,47,,,,,3-Enjoyment somewhat impaired (algae)
+8189381,09/09/2000,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,09/23/2000,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,10/08/2000,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,10/15/2000,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,11/19/2000,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,04/24/2003,18,NO,5.5,,17,35,50,,,,,,2-Very minor aesthetic problems
+8189390,06/07/2003,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189390,06/14/2003,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189390,06/22/2003,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189390,06/28/2003,14,NO,4.3,,,39,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189390,07/20/2003,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189390,07/27/2003,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189390,08/10/2003,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,08/12/2003,6.2,NO,1.9,18.5,28,51,54,57,,,,,2-Very minor aesthetic problems
+8189390,08/16/2003,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189390,08/22/2003,9.5,NO,2.9,,,45,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189390,09/01/2003,9.5,NO,2.9,,,45,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+7000066,09/08/2003,,,,8.07,24,,53,51,,,,,
+8189381,10/03/2003,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189391,05/16/2004,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189391,06/09/2004,10.5,NO,3.2,,,43,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,06/27/2004,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,07/15/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189391,08/07/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+7000045,08/11/2004,12,NO,3.6,,18,41,51,,,,,,2-Very minor aesthetic problems
+8189391,08/29/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189391,09/04/2004,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189391,09/05/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189391,10/10/2004,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188487,05/07/2005,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188487,05/15/2005,9.5,NO,2.9,,,45,,,HIGH,,,,
+8188487,05/22/2005,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188487,06/03/2005,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188487,07/17/2005,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188487,08/17/2005,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188487,08/27/2005,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,05/07/2006,12.5,NO,3.8,,,41,,,NORMAL,17,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,05/29/2006,13,NO,4,,,40,,,NORMAL,22,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/04/2006,14,NO,4.3,,,39,,,NORMAL,23,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/17/2006,14,NO,4.3,,,39,,,NORMAL,21,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/24/2006,15,NO,4.6,,,38,,,NORMAL,20,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/03/2006,13,NO,4,,,40,,,NORMAL,21,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/08/2006,13,NO,4,,,40,,,NORMAL,19,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/21/2006,12.5,NO,3.8,,,41,,,NORMAL,18,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/29/2006,12,NO,3.6,,,41,,,NORMAL,17,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,09/02/2006,12,NO,3.6,,,41,,,NORMAL,12,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,09/16/2006,15,NO,4.6,,,38,,,NORMAL,14,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,05/20/2007,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/02/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/16/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,07/07/2007,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188630,07/10/2007,14.6,NO,4.45,2.71,18,39,51,42,,,,,
+8189391,07/28/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,07/30/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,08/18/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,09/03/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,09/23/2007,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,10/07/2007,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189381,05/13/2008,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/21/2008,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/04/2008,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,07/15/2008,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/15/2008,12.5,NO,3.8,,,41,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/23/2008,13,,4,,,40,,,,,,,
+8189381,10/18/2008,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,05/21/2009,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189381,05/25/2009,12,NO,3.6,,,41,,,HIGH,,MURKY,BROWN,
+8189381,06/13/2009,16.5,NO,5,,,37,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189381,07/01/2009,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,08/22/2009,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189381,10/17/2009,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189381,05/23/2010,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189381,06/19/2010,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/08/2010,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,10/03/2010,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,10/24/2010,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,05/29/2011,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,06/08/2011,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/03/2011,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/06/2011,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/23/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/30/2011,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,09/17/2011,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,10/07/2011,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,05/15/2012,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,05/25/2012,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,06/04/2012,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,06/27/2012,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/07/2012,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/31/2012,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,08/04/2012,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,08/11/2012,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,08/25/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,10/06/2012,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,10/28/2012,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,04/28/2013,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,05/26/2013,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,06/25/2013,15,NO,4.6,,,38,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,07/15/2013,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,08/17/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,08/24/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,09/04/2013,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,10/06/2013,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189381,10/19/2013,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,11/02/2013,12.5,NO,3.8,,,41,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,04/18/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,05/31/2014,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189381,06/14/2014,15,NO,4.6,,,38,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,06/27/2014,15,NO,4.6,,,38,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189381,07/05/2014,15,NO,4.6,,,38,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,08/17/2014,14.5,NO,4.4,,,39,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189381,09/06/2014,14,NO,4.3,,,39,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189381,10/06/2014,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189381,10/12/2014,12.5,NO,3.8,,,41,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189381,10/26/2014,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189381,05/15/2015,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/10/2015,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/15/2015,14,NO,4.3,,,39,,,HIGH,,,,
+8189381,06/27/2015,14.5,NO,4.4,,,39,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/20/2015,15,NO,4.6,,,38,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/28/2015,15.5,NO,4.7,,,38,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/06/2015,14,NO,4.3,,,39,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/14/2015,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,08/15/2015,13,NO,4,,,40,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,09/13/2015,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189381,10/21/2015,15.5,NO,4.7,,,38,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189391,05/28/2016,12.5,NO,3.8,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/04/2016,13,NO,4,,,40,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/20/2016,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/21/2016,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,07/02/2016,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,07/18/2016,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,07/30/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,08/03/2016,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,08/10/2016,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,08/29/2016,8,NO,2.4,,,47,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,10/18/2016,2,,0.6,,,67,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,05/28/2017,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,06/09/2017,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,
+8189381,06/21/2017,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/19/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,07/25/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,,
+8189381,07/29/2017,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8189381,09/25/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,10/08/2017,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189381,11/20/2017,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/02/2018,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,06/16/2018,8,,2.4,,,47,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,06/30/2018,10,,3,,,44,,,HIGH,,,,
+8189391,07/07/2018,11,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,07/13/2018,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,07/19/2018,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,08/14/2018,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,08/25/2018,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189391,09/04/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,10/07/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/08/2019,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/22/2019,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189391,06/28/2019,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,07/01/2019,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,07/06/2019,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,07/12/2019,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,07/25/2019,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,08/02/2019,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,08/17/2019,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,09/10/2019,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189391,10/24/2019,17,NO,5.2,,,36,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189381,05/25/2020,9,NO,2.7,,,45,,,HIGH,9,MURKY,BROWN,2-Very minor aesthetic problems
+8189381,06/15/2020,11,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+247049313,06/21/2020,,,,4.08,21.1,,52,45,,,,,
+8189381,07/06/2020,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+247049313,07/20/2020,,,,4.42,16.8,,50,46,,,,,
+8189381,07/25/2020,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189381,08/01/2020,9,NO,2.7,,,45,,,HIGH,,MURKY,,3-Enjoyment somewhat impaired (algae)
+8189381,08/15/2020,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189381,08/22/2020,10,,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+247049313,08/29/2020,,,,3.97,17.1,,50,45,,,,,
+8189381,09/16/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189381,10/06/2020,12,NO,3.6,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189381,11/07/2020,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/06/1979,,,,,8.92,MG/L
+07/21/1988,,,12.0,C,0.0,MG/L
+08/30/1988,,,14.5,C,0.4,MG/L
+08/23/1994,,,17.0,C,0.0,MG/L
+09/07/2000,1,FEET,21.21,DEGREES C,7.63,MG/L
+09/07/2000,3,FEET,21.19,DEGREES C,7.59,MG/L
+09/07/2000,6,FEET,21.2,DEGREES C,7.53,MG/L
+09/07/2000,9,FEET,21.2,DEGREES C,7.52,MG/L
+09/07/2000,12,FEET,21.18,DEGREES C,7.46,MG/L
+09/07/2000,15,FEET,20.72,DEGREES C,6.55,MG/L
+04/24/2003,3,FEET,11.08,DEGREES C,10.95,MG/L
+04/24/2003,6,FEET,10.83,DEGREES C,10.8,MG/L
+04/24/2003,9,FEET,10.21,DEGREES C,1039,MG/L
+04/24/2003,12,FEET,10.04,DEGREES C,10.51,MG/L
+04/24/2003,15,FEET,9.81,DEGREES C,10.32,MG/L
+04/24/2003,18,FEET,9.32,DEGREES C,10.06,MG/L
+04/24/2003,21,FEET,6.1,DEGREES C,10.14,MG/L
+04/24/2003,24,FEET,5.55,DEGREES C,5.61,MG/L
+04/24/2003,,,11.1,C,10.95,MG/L
+08/12/2003,1,FEET,24.09,DEGREES C,7.89,MG/L
+08/12/2003,3,FEET,23.59,DEGREES C,7.92,MG/L
+08/12/2003,6,FEET,23.29,DEGREES C,7.56,MG/L
+08/12/2003,7,FEET,24.1,C,7.9,MG/L
+08/12/2003,9,FEET,23.23,DEGREES C,7,MG/L
+08/12/2003,12,FEET,23.08,DEGREES C,6.4,MG/L
+08/12/2003,15,FEET,22.78,DEGREES C,3.7,MG/L
+08/12/2003,18,FEET,15.99,DEGREES C,.12,MG/L
+08/12/2003,24,FEET,12.91,DEGREES C,.1,MG/L
+08/12/2003,,,24.1,C,7.9,MG/L
+08/11/2004,3,FEET,20.84,DEGREES C,8.03,MG/L
+08/11/2004,6,FEET,20.84,DEGREES C,7.9,MG/L
+08/11/2004,9,FEET,20.84,DEGREES C,7.91,MG/L
+08/11/2004,12,FEET,20.83,DEGREES C,7.96,MG/L
+08/11/2004,18,FEET,20.81,DEGREES C,8,MG/L
+08/11/2004,21,FEET,18.6,DEGREES C,2.75,MG/L
+08/11/2004,24,FEET,16.52,DEGREES C,1.42,MG/L
+08/11/2004,,,20.8,C,8.0,MG/L
+07/10/2007,0.5,METERS,27.2,DEGREES C,8.3,MG/L
+07/10/2007,1,METERS,27.1,DEGREES C,8.4,MG/L
+07/10/2007,2,METERS,26.8,DEGREES C,8.4,MG/L
+07/10/2007,3,METERS,26.6,DEGREES C,8,MG/L
+07/10/2007,4,METERS,24,DEGREES C,8.7,MG/L
+07/10/2007,5,METERS,19,DEGREES C,10.9,MG/L
+07/10/2007,6,METERS,13.8,DEGREES C,0.5,MG/L
+07/10/2007,6.5,METERS,12.1,DEGREES C,0.3,MG/L
+06/21/2020,0,FEET,78.6,DEGREES F,,
+06/21/2020,2,FEET,78.4,DEGREES F,,
+06/21/2020,4,FEET,77.9,DEGREES F,,
+06/21/2020,6,FEET,77.7,DEGREES F,,
+06/21/2020,8,FEET,75,DEGREES F,,
+06/21/2020,10,FEET,70.1,DEGREES F,,
+06/21/2020,12,FEET,67.8,DEGREES F,,
+06/21/2020,14,FEET,64.4,DEGREES F,,
+06/21/2020,16,FEET,61.5,DEGREES F,,
+06/21/2020,18,FEET,59,DEGREES F,,
+06/21/2020,20,FEET,56.1,DEGREES F,,
+07/20/2020,0,FEET,79.7,DEGREES F,,
+07/20/2020,2,FEET,79.7,DEGREES F,,
+07/20/2020,4,FEET,79.5,DEGREES F,,
+07/20/2020,6,FEET,79.5,DEGREES F,,
+07/20/2020,8,FEET,79.1,DEGREES F,,
+07/20/2020,10,FEET,76.4,DEGREES F,,
+07/20/2020,12,FEET,72.6,DEGREES F,,
+07/20/2020,14,FEET,68,DEGREES F,,
+07/20/2020,16,FEET,63.3,DEGREES F,,
+07/20/2020,18,FEET,60.2,DEGREES F,,
+07/20/2020,20,FEET,57.3,DEGREES F,,
+08/29/2020,0,FEET,77,DEGREES F,,
+08/29/2020,2,FEET,76.8,DEGREES F,,
+08/29/2020,4,FEET,76.8,DEGREES F,,
+08/29/2020,6,FEET,76.4,DEGREES F,,
+08/29/2020,8,FEET,76.6,DEGREES F,,
+08/29/2020,10,FEET,76.4,DEGREES F,,
+08/29/2020,12,FEET,75.5,DEGREES F,,
+08/29/2020,14,FEET,71.4,DEGREES F,,
+08/29/2020,16,FEET,68.5,DEGREES F,,
+08/29/2020,18,FEET,63.8,DEGREES F,,
+08/29/2020,20,FEET,59.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/06/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/26/1998,Illegal power boat.  The water color is greenish brown- and the water is down 3.5".    
+08/02/1998,One boat.  Small bluegill.    
+08/09/1998,Heavy rain past week.    
+08/16/1998,School of fish surface feeding.    
+08/23/1998,One crane- and heavy rain the night before.    
+08/30/1998,Lots of fishermen.    
+09/06/1998,Cool wind- and geese in bay.    
+09/10/1998,Very quiet.    
+09/21/1998,No boats at all.    
+09/27/1998,Breezy and warm.    
+10/04/1998,Windy- murky cloudy appearance.    
+10/11/1998,Calm- sunny- and full fall color peak.    
+10/18/1998,Clear- crisp- and lots of geese.    
+10/25/1998,Warm- 70 degrees- and no boat (motor) traffic as late.    
+11/01/1998,Windy- partly lcoudy- and no fish caught.    
+11/08/1998,Choppy- nice- and warm.    
+11/15/1998,Very windy.    
+11/22/1998,Mild warm 50 temperature.    
+11/29/1998,Peaceful and cold.    
+05/01/1999,Warm- fish in shallows.    
+05/15/1999,Calm and quiet.    
+06/12/1999,Partly cloudy.    
+06/19/1999,Warm.  Fish not biting.    
+07/11/1999,Bugs everywhere.    
+07/18/1999,Busy lake today.    
+08/22/1999,Clear- no boats.    
+09/04/1999,Weeds getting bad.    
+09/19/1999,Water very warm.    
+09/26/1999,Lots of weed matter.    
+10/03/1999,Autumn color change    
+10/10/1999,Nice colors    
+10/17/1999,Wind 15-20 mph.    
+10/24/1999,Geese.    
+11/06/1999,Cool- 60 degrees.    
+11/14/1999,Murky- evil looking water. water is brownish red.    
+11/25/1999,Sunny- 50 degrees.  Ice forming. water is brownish red.    
+05/07/2000,Lots of rain and runoff.    
+06/11/2000,Pleasant breeze.    
+06/20/2000,Water warming- 72 degrees- swim also.    
+07/22/2000,Sunny- windy- weeds getting thicker.    
+08/08/2000,Lots of rain and murky.    
+09/07/2000,INTEGRATED WATER COLUMN AT: 0 TO 3M     
+09/09/2000,Sunny- 80 degrees- and saw a crane.    
+09/23/2000,Cloudy and  green water at shore (algae ).    
+10/08/2000,Cloudy and 48 degrees.    
+10/15/2000,Partly cloudy and weeds are dying.    
+11/19/2000,Cold- 28 degrees- ice forming on shore- and water is 40 degrees.    
+04/24/2003,DEEP SPOT     
+06/07/2003,Lots of boat traffic- weedy.    
+06/14/2003,Thousands of 1/2 inch fish by shoreline. Weedy.    
+06/22/2003,Sunny- 80 degrees and humid. Buggy. weedy.    
+06/28/2003,Partly sunny. Strong west wind. Water cooler- but clear looking-    
+07/20/2003,Skiers and Lake traffic up lately. Weeds better.    
+07/27/2003,Water cloudy. Fishing is good. Busy place everyday lately.    
+08/10/2003,Sunny- calm- no fish biting.    
+08/12/2003,DEEP SPOT @ 25FT     
+08/16/2003,Sunny- hot. Lot of weed bits. Power boating.    
+08/22/2003,Sunny- hot. Lot of action on the lake.    
+09/01/2003,Sunny- fairly choppy. Cranes in shoreline. Lots of boats-    
+09/08/2003,DEEP HOLE    
+10/03/2003,Lake getting very low.  Hard to use dock.  Water color green-brown.    
+05/16/2004,Heavy rains made water cloudy.  Lots of boats.  7 turtles seen.    
+06/09/2004,Water high 19" on my gauge.  Lots of algae.  No tadpoles seen yet.    
+06/27/2004,Large bluegill caught.  Partly cloudy.  Slight wind.  Water 65 F.    
+07/15/2004,Went swimming.  Water warm.    
+08/07/2004,Clear skies- 76 F.  Little traffic.  2 cranes seen.    
+08/11/2004,DEEP SPOT @ 24FT - INTEGRATED WATER COLUMN      
+08/29/2004,Partly cloudy- 73 F.  Frog alert - "lots" of frogs by shoreline   Why     
+09/04/2004,Hazy 83 F.  Bubba rowed.  Nice swimming.  Lots of skiers.    
+09/05/2004,Sunny- slight haze.  82 F.  No boat traffic (Sunday).  Algae clouds forming.    
+10/10/2004,Sunny- 65 F.  Quiet.  no real wind.  Water getting colder.    
+05/07/2005,lots of action (algae bloom "clouds") was cleare 2 days ago    
+05/15/2005,mostly R.A. partly cloudy    
+05/22/2005,choppy- lots of fish in shallows    
+06/03/2005,cloudy- noisy from R.A. but still nice    
+07/17/2005,HOT!! Noisy again- no rain- water still fairly high    
+08/17/2005,fishing today- where are the big ones.    
+08/27/2005,water sample taken    
+05/07/2006,clear skies- west wind- choppy- little boat traffic- one crane
+05/29/2006,Hot 90+ degrees- lots of recent rain- large bass seen- algae clouds
+06/04/2006,frogs making noise- cycle races too- algae clouds- lots of people fishing "free"
+06/17/2006,Hot 90F impending rain went for swim- road america noise loud
+06/24/2006,Pt. Cloudy- june sprints- very clear- almost no boat traffic
+07/03/2006,Pt. Cloudy- lots of boats on lake- fishing poor- nice swim
+07/08/2006,Sunny- light power boat traffic- fishing fair
+07/21/2006,Cloudy- cool- 72F- calm- 1 adult crane; 3 young on dock
+07/29/2006,Mostly sunny- Hot- 92F- weeds taking over- quiet lake
+09/02/2006,Water cooler for swimming- quite a lot of boat traffic
+09/16/2006,No boat traffic today- water changing- that's it!
+05/20/2007,Busy fishing day.  Cold water.  Fish spawning "shallows".
+06/02/2007,Little traffic.  Water warm.  Lots of fish (small ones).
+06/16/2007,Nice swimming day.  Little traffic.  One turtle.
+07/07/2007,Water warm.  Lots of pontoons out.  Perfect for swimming.
+07/28/2007,Water warmer still.  Perfectly matched for swimming in + out.
+07/30/2007,90 F.  Hot out.  Busy.  Ski boat.  Lots of chopped up weeds.  
+08/18/2007,Big snapping turtle sighted - 25 pounds maybe.
+09/03/2007,Hot again.  Water warm down to about 8 ft.
+09/23/2007,Nice day.  Very quiet.  Go Pack!  Lots of color.
+10/07/2007,Warm.  Last swim of year.  Water temp. 65 F.  Fish not biting.
+05/13/2008,Quiet- few boats- fish not biting much
+06/21/2008,Water high- seems litke a turtle population explosion Water high- seems like a turtle population explosion
+07/04/2008,Lots of boat traffic- chopped weeds. Saw a big northern.
+07/15/2008,Beautiful hot day- warm water saw a big northern
+08/15/2008,Millfoil invasion taking place. Lots of frogs on my shore
+08/23/2008,Little boat traffic- water seems colder. Fishing poor.
+10/18/2008,Weeds clearing. Water 60 F very calm
+05/21/2009,Nice sunny warm day. Water still cold. Fishing poor.
+05/25/2009,Lots of boats. Turbulence from tubing and boating.
+06/13/2009,Lots of algae yet water is clear. Warm - 76 degrees. Partly cloudy. No boat traffic.
+07/01/2009,Lots of boating action.
+08/22/2009,Cool- 69 degrees. Getting more weedy. Fishing is poor.
+10/17/2009,Cool- 50 degrees. Water looking dark and ominous. No swim.
+06/19/2010,Very little traffic (boat) - loud NASCAR races.
+10/03/2010,Last swim - water cold.
+10/24/2010,Fishing awful (nothing) - overcast.
+05/29/2011,water still cold but looks inviting
+06/08/2011,warmer water - good for swimming 
+lots of cotton
+07/03/2011,swim time with grandkids. Lots of boats and jetskis. Green algae clouds
+07/06/2011,sunny- less boats - stll some algae. weeds getting more thick
+07/23/2011,sunny and hot. jet skis active. busy place
+07/30/2011,lots of lilypads (what the heck ) help!
+09/17/2011,very warm. active boats. fishing good
+10/07/2011,very warm and sunny. too cold for swimming
+05/15/2012,water clear- fishing poor
+05/25/2012,sunny- warm- time for a swim - water cold 65 degrees or so
+06/04/2012,sunny- clear- algae making water cloudy- "what's up "
+06/27/2012,sunny- hot- lake clearer now; saw three bass (secret)
+07/07/2012,Algae bloomer- cooler- water very warm- fishing fair- grandaughter Lyra helped today
+07/31/2012,warm water and air- algae and weeds a nuisance now- heavy rain recently
+08/04/2012,algae bloomm hot storm brewing- water very thick and warm
+08/11/2012,boat motor problems- water very warm- went for a swim
+08/25/2012,boat ok- water very warm- no more swimming
+10/06/2012,poor fishing- BIRTHDAY!
+10/28/2012,crisp- clear- 50 degrees- last one- GO PACK!
+04/28/2013,Very late ice- warm today- 70f sunny- quiet- no weeds
+05/26/2013,Few frogs- very few weeds Overcast- very little boat traffic- quiet- weeds growing
+06/25/2013,Overcast- very little boat traffic- quiet- weeds growing
+07/15/2013,hot- sunny- recent weed control- almost caught huge "catfish"
+08/17/2013,hot sunny- more weed control- nice swimming
+08/24/2013,79f- sunny- busy lake today- 8 frogs on shore
+09/04/2013,Partly cloudy- warm- nice swimming temp- little traffic
+10/06/2013,Sunny- "birthday"- fairly busy- water too cold for swim
+10/19/2013,Sunny- cool- 45f- beautiful colors- no traffic- dark and murky water
+11/02/2013,Partly sunny- one other boat- big northern seen
+04/18/2014,only sign of life is lily pads; lots of dead fish such as big bass- northern- and pan
+06/14/2014,weed treatment this week; sunny
+06/27/2014,sunny
+07/05/2014,heavy boat traffic; no fish seen; algae growing
+08/17/2014,water becoming colder; amphibians on shoreline
+09/06/2014,no boats on lake; many dragonflies present
+10/06/2014,air temp 55F
+10/26/2014,some fish present by island
+05/15/2015,Lots of algae- where are the fish we planted?
+06/10/2015,Warm swim- water cold- lots of small stuff in the water
+06/15/2015,Rain cleared water- warm- sunny- Northern are hitting spinners 16-18 in.
+06/27/2015,Clear sky- try fishing with granddaughter- pleasant 73F
+07/20/2015,Warm- windy- caught a 22" Northern- lost a fishing pole
+07/28/2015,Warm- sunny- 85 F- lots of frogs in Wehmeyer Bay
+08/06/2015,Very calm water warm and like glass
+08/14/2015,Hot- no other boats- lake to myself- weeds getting big
+08/15/2015,Partly cloudy- storms coming- ducks a plenty- lots of weeds
+09/13/2015,Nice swim yet- bass and bluegills- also spotted turtles
+10/21/2015,Really clear- no boats- no fish seen- partly cloudy skies
+05/28/2016,Lots of geese- no boats on lake
+06/04/2016,Ok for swim. Crane ate something. Mudpuppy
+06/20/2016,Grandkids here pleasure cruise- swim- fish
+06/21/2016,Checked for difference- algae growth? What's up?
+07/02/2016,Lots of boat activity. Char? Clumps coming up caught northern
+07/18/2016,Lots of kayaks. Big northern by dock. 25-30 in.
+07/30/2016,Busy lake. Cloudy water becoming very cloudy lots of algae Busy lake. Cloudy water. Caught a 16 in bass only real hit
+08/03/2016,Only one on lake. Water becoming very cloudy lots of algae
+08/10/2016,Very quiet again- cloudy water- hot- humid. No one else on lake swim
+08/29/2016,Man catching northern. Looking clearer. One crane
+10/18/2016,Only person on lake. Water much clearer. Lots of geese
+08/25/2018,SATELLITE
+06/08/2019,lots of algae
+06/22/2019,warm- partly cloudy
+06/28/2019,warm- mostly sunny- rain last night
+07/01/2019,warm water
+07/06/2019,lots of boats- some algae
+08/02/2019,warm water- some clouds
+08/17/2019,lots of boats
+09/10/2019,1 boat- sunny- cool water
+10/24/2019,partly sunny
+05/25/2020,1st swim- memorial day- cold water
+06/15/2020,Nice- sunny- water warm- fishing poor
+06/21/2020,Clear and sunny day
+07/06/2020,Sunny- partly cloudy- storm coming- fishing poor
+07/20/2020,Clear sunny day
+07/25/2020,Mostly sunny- clear
+08/01/2020,Looks clear- but algae apparent- very quiet
+08/15/2020,Lots of activity and fishing
+08/22/2020,Clear water- thought sechi would read higher
+08/29/2020,Clear and sunny day
+09/16/2020,Little boat noise- track noise
+10/06/2020,Last swim- water cold lots of leaf color
+11/07/2020,Lots of fishing- beautiful 73 degree weather bright sun. 
+
+
+
+
+Start Date,Group Name,Project Name
+08/06/1979,Data Collectors,Migrated from STORET Legacy
+07/21/1988,Data Collectors,
+08/30/1988,Data Collectors,NONPOINT SOURCE
+08/23/1994,Data Collectors,
+07/26/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/02/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/09/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/16/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/23/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/30/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/06/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/10/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/21/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/27/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/04/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/11/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/18/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/25/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/01/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/08/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/15/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/22/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/29/1998,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/01/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/15/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/12/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/19/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/11/1999,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/18/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/22/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/04/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/19/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/26/1999,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/03/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/10/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/17/1999,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/24/1999,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/06/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/14/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/25/1999,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/07/2000,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/11/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/20/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/22/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/08/2000,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/07/2000,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+09/07/2000,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+09/09/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/23/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/08/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/15/2000,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/19/2000,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+04/24/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/24/2003,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+06/07/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/14/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/22/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/28/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/20/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/27/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/10/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/12/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/12/2003,Heidi Bunk,Lakes Baseline and Trends Monitoring
+08/12/2003,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+08/16/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/22/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/01/2003,John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/08/2003,JENNIFER HAUXWELL,MACROPHYTES AS BIOCRITERIA
+10/03/2003,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/16/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/09/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/27/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/15/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/07/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/11/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/11/2004,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+08/29/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/04/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/05/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/10/2004,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/07/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/15/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/22/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/03/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/17/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/17/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/27/2005,Mike McGill,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/07/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/29/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/04/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/17/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/24/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/03/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/08/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/21/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/29/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/02/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/16/2006,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/20/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/02/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/16/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/07/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/10/2007,USGS,National Lake Survey - Index Sampling
+07/28/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/30/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/18/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/03/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/23/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/07/2007,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/13/2008,John Selak,
+06/21/2008,John Selak,
+07/04/2008,John Selak,
+07/15/2008,John Selak,
+08/15/2008,John Selak,
+08/23/2008,John Selak,
+10/18/2008,John Selak,
+05/21/2009,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/25/2009,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/13/2009,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/01/2009,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/22/2009,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/17/2009,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/23/2010,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/19/2010,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/08/2010,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/03/2010,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/24/2010,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/29/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/08/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/03/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/06/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/23/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/30/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/17/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/07/2011,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/15/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/25/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/04/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/27/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/07/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/31/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/04/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/11/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/25/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/06/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/28/2012,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+04/28/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/26/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/25/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/15/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/17/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/24/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/04/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/06/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/19/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/02/2013,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+04/18/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/31/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/14/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/27/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/05/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/17/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/06/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/06/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/12/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/26/2014,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/15/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/10/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/15/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/27/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/20/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/28/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/06/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/14/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/15/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/13/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/21/2015,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/28/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/04/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/20/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/21/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/02/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/18/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/30/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/03/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/10/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/29/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/18/2016,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/28/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/09/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/21/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/19/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/25/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/29/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/25/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/08/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/20/2017,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/02/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/16/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/30/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/07/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/13/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/19/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/14/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/25/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/04/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/07/2018,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/08/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/22/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/28/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/01/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/06/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/12/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/25/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/02/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/17/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/10/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/24/2019,John And John Paul Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+05/25/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/15/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+06/21/2020,Frank Miller,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/06/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/20/2020,Frank Miller,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+07/25/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/01/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/15/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/22/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+08/29/2020,Frank Miller,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+09/16/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+10/06/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole
+11/07/2020,John Selak,Citizen Lake Monitoring - Water Quality - Little Elkhart Lake; Deep Hole

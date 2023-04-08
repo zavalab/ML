@@ -1,0 +1,157 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Buffalo Lake,Oneida,974200,NO,44,,443065,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/27/1979,,,,,,,,,,,,,
+145711555,08/02/2017,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+162913835,06/08/2018,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+162913835,06/28/2018,12.25,NO,3.7,3.7,8.53,41,45,45,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+162913835,07/06/2018,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+162913835,07/19/2018,14,NO,4.3,1.51,ND*,39,,38,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162913835,08/15/2018,14,NO,4.3,,,39,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+162913835,09/03/2018,14.5,NO,4.4,2.58,8.36,39,45,42,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+1,05/07/2019,,,,,11.7,,47,,,,,,
+162913835,05/07/2019,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+162913835,05/25/2019,14,NO,4.3,,,39,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+143167470,06/30/2019,,,,1.39,10.5,,46,37,,,,,
+162913835,06/30/2019,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+143167470,07/31/2019,,,,2.05,9.75,,46,40,,,,,
+162913835,07/31/2019,15,NO,4.6,,,38,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+143167470,08/27/2019,,,,4.12,10.9,,47,46,,,,,
+162913835,08/27/2019,13,NO,4,,,40,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+238423506,06/16/2020,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/27/1979,,,21,C,,
+08/02/2017,2,FEET,75.9,DEGREES F,8.11,MG/L
+08/02/2017,4,FEET,76.5,DEGREES F,8.18,MG/L
+08/02/2017,6,FEET,76.6,DEGREES F,7.93,MG/L
+08/02/2017,8,FEET,76.7,DEGREES F,7.91,MG/L
+08/02/2017,10,FEET,76.8,DEGREES F,7.89,MG/L
+08/02/2017,12,FEET,73.9,DEGREES F,7.64,MG/L
+08/02/2017,14,FEET,66.9,DEGREES F,7.85,MG/L
+08/02/2017,16,FEET,60.9,DEGREES F,4.86,MG/L
+08/02/2017,18,FEET,56.2,DEGREES F,.14,MG/L
+06/28/2018,1,FEET,77.1,DEGREES F,,
+06/28/2018,3,FEET,75.9,DEGREES F,,
+06/28/2018,6,FEET,75.2,DEGREES F,,
+06/28/2018,9,FEET,73.5,DEGREES F,,
+06/28/2018,12,FEET,69,DEGREES F,,
+06/28/2018,15,FEET,59.1,DEGREES F,,
+06/28/2018,18,FEET,52.1,DEGREES F,,
+06/28/2018,21,FEET,48.7,DEGREES F,,
+06/28/2018,24,FEET,46.7,DEGREES F,,
+07/19/2018,1,FEET,77,DEGREES F,,
+07/19/2018,3,FEET,77,DEGREES F,,
+07/19/2018,6,FEET,77,DEGREES F,,
+07/19/2018,9,FEET,76.8,DEGREES F,,
+07/19/2018,12,FEET,76.5,DEGREES F,,
+07/19/2018,15,FEET,66,DEGREES F,,
+07/19/2018,18,FEET,56.4,DEGREES F,,
+07/19/2018,21,FEET,51.6,DEGREES F,,
+07/19/2018,24,FEET,48.9,DEGREES F,,
+09/03/2018,1,FEET,71.9,DEGREES F,,
+09/03/2018,3,FEET,71.4,DEGREES F,,
+09/03/2018,6,FEET,71.2,DEGREES F,,
+09/03/2018,9,FEET,70.8,DEGREES F,,
+09/03/2018,12,FEET,70.5,DEGREES F,,
+09/03/2018,15,FEET,69.4,DEGREES F,,
+09/03/2018,18,FEET,64.2,DEGREES F,,
+09/03/2018,21,FEET,57.2,DEGREES F,,
+09/03/2018,24,FEET,52.4,DEGREES F,,
+05/07/2019,1,FEET,53,DEGREES F,,
+05/07/2019,3,FEET,52.1,DEGREES F,,
+05/07/2019,6,FEET,51,DEGREES F,,
+05/07/2019,9,FEET,49.1,DEGREES F,,
+05/07/2019,12,FEET,45.3,DEGREES F,,
+05/07/2019,15,FEET,43.5,DEGREES F,,
+05/07/2019,18,FEET,42.6,DEGREES F,,
+05/07/2019,21,FEET,42.1,DEGREES F,,
+05/07/2019,24,FEET,42.1,DEGREES F,,
+05/25/2019,1,FEET,57.2,DEGREES F,,
+05/25/2019,3,FEET,56.3,DEGREES F,,
+05/25/2019,6,FEET,56.1,DEGREES F,,
+05/25/2019,9,FEET,55.2,DEGREES F,,
+05/25/2019,12,FEET,53.4,DEGREES F,,
+05/25/2019,15,FEET,52.5,DEGREES F,,
+05/25/2019,18,FEET,50.3,DEGREES F,,
+05/25/2019,21,FEET,45.3,DEGREES F,,
+05/25/2019,24,FEET,44.4,DEGREES F,,
+06/30/2019,1,FEET,73.7,DEGREES F,,
+06/30/2019,3,FEET,74.1,DEGREES F,,
+06/30/2019,6,FEET,74.3,DEGREES F,,
+06/30/2019,9,FEET,72.3,DEGREES F,,
+06/30/2019,12,FEET,68.7,DEGREES F,,
+06/30/2019,15,FEET,63.5,DEGREES F,,
+06/30/2019,18,FEET,54.3,DEGREES F,,
+06/30/2019,21,FEET,51.8,DEGREES F,,
+06/30/2019,24,FEET,50.1,DEGREES F,,
+07/31/2019,1,FEET,78.6,DEGREES F,,
+07/31/2019,3,FEET,77.1,DEGREES F,,
+07/31/2019,6,FEET,76.1,DEGREES F,,
+07/31/2019,9,FEET,75,DEGREES F,,
+07/31/2019,12,FEET,74.6,DEGREES F,,
+07/31/2019,15,FEET,74.1,DEGREES F,,
+07/31/2019,18,FEET,63.3,DEGREES F,,
+07/31/2019,21,FEET,57,DEGREES F,,
+07/31/2019,24,FEET,54.6,DEGREES F,,
+08/27/2019,1,FEET,66.5,DEGREES F,,
+08/27/2019,3,FEET,68.7,DEGREES F,,
+08/27/2019,6,FEET,69.4,DEGREES F,,
+08/27/2019,9,FEET,69.8,DEGREES F,,
+08/27/2019,12,FEET,69.9,DEGREES F,,
+08/27/2019,15,FEET,69.9,DEGREES F,,
+08/27/2019,18,FEET,69.6,DEGREES F,,
+08/27/2019,21,FEET,61.5,DEGREES F,,
+08/27/2019,24,FEET,57,DEGREES F,,
+06/16/2020,2,FEET,68.6,DEGREES F,9.19,MG/L
+06/16/2020,4,FEET,68.1,DEGREES F,9.18,MG/L
+06/16/2020,6,FEET,67.9,DEGREES F,9.2,MG/L
+06/16/2020,8,FEET,67.8,DEGREES F,9.41,MG/L
+06/16/2020,10,FEET,67.6,DEGREES F,9.22,MG/L
+06/16/2020,12,FEET,67.4,DEGREES F,9.22,MG/L
+06/16/2020,14,FEET,61.3,DEGREES F,11.34,MG/L
+06/16/2020,16,FEET,57.1,DEGREES F,11.44,MG/L
+06/16/2020,18,FEET,55.8,DEGREES F,11.34,MG/L
+06/16/2020,20,FEET,54.5,DEGREES F,11.2,MG/L
+06/16/2020,22,FEET,53.4,DEGREES F,11.29,MG/L
+06/16/2020,24,FEET,51.3,DEGREES F,2.51,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/27/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/02/2017,Deep hole can be found at Oneida County GIS. Conditions were cloudy- windy- and a slight chop on the water surface.
+
+
+
+
+Start Date,Group Name,Project Name
+08/27/1979,Data Collectors,Migrated from STORET Legacy
+08/02/2017,Aubrey Nycz- Derek Thorn- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+06/08/2018,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+06/28/2018,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+06/28/2018,Elizabeth Gauthier- Dennis Gauthier,Directed Lakes 2018 Gauthier
+07/06/2018,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+07/19/2018,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+07/19/2018,Elizabeth Gauthier- Dennis Gauthier,Directed Lakes 2018 Gauthier
+08/15/2018,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+09/03/2018,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+09/03/2018,Elizabeth Gauthier- Dennis Gauthier,Directed Lakes 2018 Gauthier
+05/07/2019,Data Collectors,Directed Lakes 2017 Johnson
+05/07/2019,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+05/25/2019,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+06/30/2019,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+06/30/2019,ZANA SIJAN,Directed Lakes 2018 Smith
+07/31/2019,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+07/31/2019,ZANA SIJAN,
+08/27/2019,Elizabeth Gauthier- Dennis Gauthier,Citizen Lake Monitoring - Water Quality - Buffalo Lake - Deep Hole
+08/27/2019,ZANA SIJAN,
+06/16/2020,Aubrey Nycz- Rachel Cook,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

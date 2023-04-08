@@ -1,0 +1,39 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Oneida,1138400,NO,44,,443414,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189673,06/02/1996,8,NO,2.4,,,47,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+238423506,08/05/2020,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/05/2020,2,FEET,73.2,DEGREES F,81.9,MG/L
+08/05/2020,4,FEET,71.5,DEGREES F,81.1,MG/L
+08/05/2020,6,FEET,70.6,DEGREES F,73.9,MG/L
+08/05/2020,8,FEET,68.7,DEGREES F,24.5,MG/L
+08/05/2020,10,FEET,59.8,DEGREES F,2.8,MG/L
+08/05/2020,12,FEET,54.7,DEGREES F,.9,MG/L
+08/05/2020,14,FEET,51.1,DEGREES F,.5,MG/L
+08/05/2020,16,FEET,48,DEGREES F,.4,MG/L
+08/05/2020,18,FEET,46.5,DEGREES F,.3,MG/L
+08/05/2020,20,FEET,45.1,DEGREES F,.3,MG/L
+08/05/2020,22,FEET,44.5,DEGREES F,.3,MG/L
+08/05/2020,24,FEET,43.7,DEGREES F,.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/02/1996,Sunny- beavers active.    
+
+
+
+
+Start Date,Group Name,Project Name
+06/02/1996,Eleanor Kinnunen,Citizen Lake Monitoring - Water Quality - Hawk Lake - At Max Depth - Middle
+08/05/2020,Aubrey Nycz- Rachel Cook,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

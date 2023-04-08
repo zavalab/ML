@@ -1,0 +1,430 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Presque Isle Lake,Vilas,2956500,NO,64,,643420,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190370,07/05/1989,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,07/14/1989,27.5,NO,8.4,,,29,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,05/27/1990,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/01/1990,32,NO,9.7,,,27,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/24/1990,26.75,NO,8.1,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/25/1990,21.75,NO,6.6,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,10/06/1990,14.75,NO,4.5,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,05/04/1991,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,06/07/1991,37.5,NO,11.4,,,25,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/04/1991,23,NO,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/19/1991,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,09/02/1991,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/30/1992,23.25,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,09/06/1992,21,NO,6.4,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,06/04/1993,23.25,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190015,06/12/1993,18.5,NO,5.6,,,35,,,40 FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/03/1993,39,NO,11.9,,,24,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190015,07/07/1993,16.5,NO,5,,,37,,,40 FEET,40,CLEAR,BLUE,2-Very minor aesthetic problems
+8190015,07/19/1993,16,NO,4.9,,,37,,,40 FEET,40,CLEAR,BLUE,2-Very minor aesthetic problems
+8190015,07/27/1993,15,NO,4.6,,,38,,,40',40,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,08/07/1993,25,NO,7.6,,,31,,,FEET,25,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190015,08/09/1993,20.5,NO,6.2,,,34,,,40',40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191058,09/19/1993,15.5,NO,4.7,,,38,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,09/25/1993,17.75,NO,5.4,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,05/22/1994,25,NO,7.6,,,31,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,05/28/1994,35.75,NO,10.9,,,26,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,06/25/1994,22.25,NO,6.8,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/03/1994,25,NO,7.6,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,07/10/1994,14,NO,4.3,,,39,,,GAUGE,45,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,08/11/1994,26.5,NO,8.1,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,08/25/1994,15,NO,4.6,,,38,,,40' @ DISC SITE,40,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190370,05/29/1995,29,NO,8.8,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,06/04/1995,20,NO,6.1,,,34,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,06/14/1995,20,NO,6.1,,,34,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,07/08/1995,15,NO,4.6,,,38,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,07/23/1995,19,NO,5.8,,,35,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,08/12/1995,19.5,NO,5.9,,,34,,,40 FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,08/23/1995,12.75,NO,3.9,,,40,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191133,09/04/1995,18.5,NO,5.6,,,35,,,FEET,40,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,10/22/1995,17.25,NO,5.2,3.1,8,36,44,43,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,07/16/1996,21,NO,6.4,1.41,ND*,33,,37,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,08/21/1996,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,09/24/1996,18.5,NO,5.6,2.29,7,35,43,41,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,06/25/1997,28,NO,8.5,0.91,,29,,34,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,07/20/1997,16.5,NO,5,1.05,47,37,58,35,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,08/12/1997,24.5,NO,7.4,,,31,,,,,,,
+8190310,08/24/1997,19.5,NO,5.9,1.23,12,34,47,36,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,09/14/1997,21.5,NO,6.5,1.17,18,33,51,36,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,10/20/1997,16.5,NO,5,3.46,19,37,51,44,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,04/18/1998,,,,,20,,51,,,,,,
+8190370,06/30/1998,25,NO,7.6,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190310,07/02/1998,,,,0.85,,,,34,,,,,
+8190370,07/25/1998,27.25,NO,8.3,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/18/2000,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/21/2001,23,NO,7,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/17/2001,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/03/2002,28.75,NO,8.7,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/22/2002,18.5,NO,5.6,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/27/2003,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/13/2003,32.5,NO,9.9,,,27,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,07/10/2004,19.5,NO,5.9,,,34,,,,,,,1-Beautiful, could not be nicer
+8190370,07/30/2004,26.5,NO,8.1,,,30,,,,,,,1-Beautiful, could not be nicer
+8190370,07/07/2005,24.5,NO,7.4,,,31,,,,,,,1-Beautiful, could not be nicer
+8190370,07/29/2005,21.5,NO,6.5,,,33,,,,,,,1-Beautiful, could not be nicer
+8190370,08/28/2005,19.5,NO,5.9,,,34,,,,,,,
+8190370,06/22/2006,22.5,NO,6.8,,,32,,,,,,,
+8190370,08/02/2006,22,NO,6.7,,,33,,,,,,,
+8190370,08/20/2006,20.5,NO,6.2,,,34,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190370,07/05/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/27/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/29/2008,22.5,,6.8,,,32,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8190370,08/28/2008,18,,5.5,,,35,,,,,,,2-Very minor aesthetic problems
+8190370,07/11/2009,20,,6.1,,,34,,,,,,BLUE,1-Beautiful, could not be nicer
+8190370,08/05/2009,17.5,,5.3,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/07/2010,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,06/16/2011,27.5,NO,8.4,,,29,,,,,,,1-Beautiful, could not be nicer
+8190370,08/11/2011,25,NO,7.6,,,31,,,,,,,2-Very minor aesthetic problems
+8190370,06/15/2012,22.5,NO,6.8,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/03/2012,22.5,NO,6.8,,,32,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,07/19/2012,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/30/2012,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,06/13/2013,23, ,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/23/2013,18.5, ,5.6,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/31/2013,18.5, ,5.6,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/30/2014,23, ,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/26/2014,22, ,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/25/2015,24.5, ,7.4,,,31,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190370,08/16/2015,23.5, ,7.1,,,32,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190370,07/02/2017,24,NO,7.3,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/16/2017,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/13/2017,24.5,NO,7.4,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,09/09/2017,24.5,NO,7.4,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/14/2018,29,,8.8,,,29,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/18/2018,25,,7.6,,,31,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,09/06/2018,21,,6.4,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,06/09/2019,15.5,NO,4.7,,,38,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190370,07/14/2019,23,NO,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/27/2019,20.5,NO,6.2,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34997658,08/07/2019,23,NO,7,,9.64,32,46,,,,,,
+8190370,09/14/2019,16,NO,4.9,,,37,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190370,06/30/2020,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,07/17/2020,25.5,NO,7.8,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,08/09/2020,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190370,08/30/2020,24,NO,7.3,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190370,09/23/2020,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/22/1995,3,FEET,4,DEGREES F,9,MG/L
+10/22/1995,10,FEET,4,DEGREES F,9,MG/L
+10/22/1995,20,FEET,4,DEGREES F,9,MG/L
+10/22/1995,30,FEET,4,DEGREES F,9,MG/L
+10/22/1995,40,FEET,4,DEGREES F,9,MG/L
+10/22/1995,50,FEET,4,DEGREES F,10,MG/L
+10/22/1995,70,FEET,4,DEGREES F,12,MG/L
+07/16/1996,3,FEET,68,DEGREES F,10,MG/L
+07/16/1996,10,FEET,68,DEGREES F,10,MG/L
+07/16/1996,20,FEET,66,DEGREES F,11,MG/L
+07/16/1996,30,FEET,49,DEGREES F,10,MG/L
+07/16/1996,40,FEET,45,DEGREES F,8,MG/L
+07/16/1996,50,FEET,44,DEGREES F,8,MG/L
+07/16/1996,60,FEET,44,DEGREES F,7,MG/L
+07/16/1996,70,FEET,43,DEGREES F,7,MG/L
+07/16/1996,80,FEET,43,DEGREES F,5,MG/L
+07/16/1996,90,FEET,43,DEGREES F,5,MG/L
+08/21/1996,3,FEET,71,DEGREES F,9,MG/L
+08/21/1996,10,FEET,70,DEGREES F,10,MG/L
+08/21/1996,20,FEET,70,DEGREES F,8,MG/L
+08/21/1996,30,FEET,58,DEGREES F,8,MG/L
+08/21/1996,40,FEET,48,DEGREES F,5,MG/L
+08/21/1996,50,FEET,46,DEGREES F,5,MG/L
+08/21/1996,60,FEET,45,DEGREES F,4,MG/L
+08/21/1996,70,FEET,44,DEGREES F,4,MG/L
+08/21/1996,80,FEET,44,DEGREES F,2,MG/L
+08/21/1996,90,FEET,43,DEGREES F,3,MG/L
+09/24/1996,3,FEET,60,DEGREES F,10,MG/L
+09/24/1996,10,FEET,58,DEGREES F,11,MG/L
+09/24/1996,20,FEET,57,DEGREES F,10,MG/L
+09/24/1996,30,FEET,57,DEGREES F,10,MG/L
+09/24/1996,40,FEET,44,DEGREES F,1,MG/L
+09/24/1996,50,FEET,43,DEGREES F,2,MG/L
+09/24/1996,60,FEET,43,DEGREES F,4,MG/L
+09/24/1996,70,FEET,43,DEGREES F,1,MG/L
+09/24/1996,80,FEET,43,DEGREES F,1,MG/L
+09/24/1996,90,FEET,43,DEGREES F,1,MG/L
+06/25/1997,3,FEET,68,DEGREES F,6,MG/L
+06/25/1997,10,FEET,67,DEGREES F,9,MG/L
+06/25/1997,20,FEET,59,DEGREES F,9,MG/L
+06/25/1997,30,FEET,48,DEGREES F,10,MG/L
+06/25/1997,40,FEET,47,DEGREES F,7,MG/L
+06/25/1997,50,FEET,45,DEGREES F,10,MG/L
+06/25/1997,60,FEET,45,DEGREES F,11,MG/L
+06/25/1997,70,FEET,45,DEGREES F,9,MG/L
+06/25/1997,80,FEET,75,DEGREES F,9,MG/L
+06/25/1997,90,FEET,45,DEGREES F,9,MG/L
+07/20/1997,3,FEET,72,DEGREES F,8,MG/L
+07/20/1997,10,FEET,72,DEGREES F,8,MG/L
+07/20/1997,20,FEET,67,DEGREES F,9,MG/L
+07/20/1997,30,FEET,55,DEGREES F,10,MG/L
+07/20/1997,40,FEET,48,DEGREES F,8,MG/L
+07/20/1997,50,FEET,47,DEGREES F,8,MG/L
+07/20/1997,60,FEET,47,DEGREES F,7,MG/L
+07/20/1997,70,FEET,46,DEGREES F,7,MG/L
+07/20/1997,80,FEET,45,DEGREES F,7,MG/L
+07/20/1997,90,FEET,45,DEGREES F,6,MG/L
+08/24/1997,3,FEET,64,DEGREES F,9,MG/L
+08/24/1997,10,FEET,64,DEGREES F,9,MG/L
+08/24/1997,20,FEET,63,DEGREES F,9,MG/L
+08/24/1997,30,FEET,60,DEGREES F,9,MG/L
+08/24/1997,40,FEET,49,DEGREES F,6,MG/L
+08/24/1997,50,FEET,46,DEGREES F,4,MG/L
+08/24/1997,60,FEET,45,DEGREES F,4,MG/L
+08/24/1997,70,FEET,45,DEGREES F,3,MG/L
+08/24/1997,80,FEET,45,DEGREES F,2,MG/L
+08/24/1997,90,FEET,45,DEGREES F,2,MG/L
+09/14/1997,3,FEET,65,DEGREES F,9,MG/L
+09/14/1997,10,FEET,64,DEGREES F,9,MG/L
+09/14/1997,20,FEET,63,DEGREES F,9,MG/L
+09/14/1997,30,FEET,63,DEGREES F,9,MG/L
+09/14/1997,40,FEET,51,DEGREES F,4,MG/L
+09/14/1997,50,FEET,48,DEGREES F,3,MG/L
+09/14/1997,60,FEET,46,DEGREES F,3,MG/L
+09/14/1997,70,FEET,46,DEGREES F,2,MG/L
+09/14/1997,80,FEET,46,DEGREES F,2,MG/L
+09/14/1997,90,FEET,45,DEGREES F,1,MG/L
+10/20/1997,3,FEET,53,DEGREES F,9,MG/L
+10/20/1997,10,FEET,53,DEGREES F,5,MG/L
+10/20/1997,20,FEET,53,DEGREES F,4,MG/L
+10/20/1997,30,FEET,53,DEGREES F,9,MG/L
+10/20/1997,40,FEET,53,DEGREES F,8,MG/L
+10/20/1997,50,FEET,52,DEGREES F,6,MG/L
+10/20/1997,60,FEET,52,DEGREES F,7,MG/L
+10/20/1997,70,FEET,52,DEGREES F,5,MG/L
+10/20/1997,80,FEET,45,DEGREES F,1,MG/L
+10/20/1997,90,FEET,45,DEGREES F,0,MG/L
+08/07/2019,0,METERS,25,DEGREES C,9.04,MG/L
+08/07/2019,1,METERS,24.7,DEGREES C,9.14,MG/L
+08/07/2019,2,METERS,24.5,DEGREES C,9.16,MG/L
+08/07/2019,3,METERS,24.4,DEGREES C,9.19,MG/L
+08/07/2019,4,METERS,24.2,DEGREES C,9.17,MG/L
+08/07/2019,5,METERS,24,DEGREES C,9.18,MG/L
+08/07/2019,6,METERS,22.6,DEGREES C,8.95,MG/L
+08/07/2019,7,METERS,22.2,DEGREES C,9,MG/L
+08/07/2019,8,METERS,16.3,DEGREES C,8.38,MG/L
+08/07/2019,9,METERS,13.2,DEGREES C,8.1,MG/L
+08/07/2019,10,METERS,12.6,DEGREES C,8.27,MG/L
+08/07/2019,11,METERS,10.3,DEGREES C,5.65,MG/L
+08/07/2019,12,METERS,10,DEGREES C,5.58,MG/L
+08/07/2019,13,METERS,9.5,DEGREES C,5.37,MG/L
+08/07/2019,14,METERS,8.9,DEGREES C,4.43,MG/L
+08/07/2019,15,METERS,10,DEGREES C,5.4,MG/L
+08/07/2019,,,25.0,C,9.04,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/05/1989,Moderate breeze and sunny.  North shoreline had blue-green algae bloom in localized areas during week of July 3+10th.  When wind was blowing from south bloom became very dense at times.    
+07/14/1989,Calm wind and sunny.    
+07/01/1990,Exceptional clarity- calm wind- and the secchi line was too short!    
+07/24/1990,Very clear and calm wind.    
+08/25/1990,Has minor amounts of big algae colonies in water.  They were concentrated down the shoreline.    
+10/06/1990,Cloudy and 15 mph wind.    
+05/04/1991,The water is very cold.  Overcast with at southeast wind at 8-10 mph.    
+06/07/1991,Calm and sunny.    
+08/04/1991,Calm and sunny.    
+08/19/1991,Sunny with a gentle breeze.    
+09/02/1991,Partly sunny with wind at 8-12 mph.    
+07/30/1992,Slight breeze and cloudy.    
+09/06/1992,Calm and sunny.    
+06/04/1993,Overcast and calm.    
+06/12/1993,Light green/cloudy algae (surface) extending 1-2' from shore at various areas.    
+07/03/1993,Sunny with slight haze and calm.    
+07/07/1993,Partly cloudy    
+07/19/1993,Partly cloudy- windy.    
+07/27/1993,Partly cloudy.    
+08/07/1993,Sunny and gentle breeze.    
+08/09/1993,Beautiful sunny day.    
+09/19/1993,Cool day- windy- and sunny.    
+09/25/1993,Sunny and calm.    
+05/29/1995,Sunny and light wind.    
+06/04/1995,Sunny day- only one other boa (fishing) visible.    
+06/14/1995,Again- beautiful- sunny- warm day- the lake is clear and calm.    
+07/08/1995,Mostly cloudy.  This date sent to national secchi disc depth on 7/8/95.    
+07/23/1995,Mostly sunny day.  Vegetation level in shallow water levels higher this year than in past three years.    
+08/12/1995,Warm- mostly cloudy day.  The water is calm.    
+08/23/1995,Fall sun.  Moderate waves.    
+09/04/1995,Partly sunny and the water is calm.  Very little traffic on this lake over labor day weekend.    
+10/22/1995,Very cool- the temperature is 42 degrees- slight northwest wind with snow showers.  Could not hold the boat with anchor in deep spot.  Used trolling motor- bottom sampler rope verticle- messenger did not always work.    
+07/16/1996,Slight NW wind @ 5-10 mph.    
+08/21/1996,Slight SW wind.  Beautiful clear day- above normal rainy-cloudy days- rainfall is about normal.    
+09/24/1996,August was quite warm and dry.  Lake was clear today- but most of the past 2 weeks has been cloudy.    
+06/25/1997,West wind 10-15 mph.  Partly cloudy.  1.1 inches of rain in the past 24 hours.  28 feet for secchi is the least in 2 years.    
+07/20/1997,Light west wind.  Partly cloudy.  No rain in the past four days.    
+08/12/1997,Breezy- cloudy.    
+08/24/1997,Partly cloudy- becoming mostly fair.  Light southeast wind at 5 mph- the temperature is 63 degrees.  July to early August was very dry- 20 days with less than one inch of rain.  Summer is over.    
+09/14/1997,Beautiful day- clear sky- mildly warm.  Swimming weather.  Light WNW wind at 5-10 mph.    
+10/20/1997,Cold day- the temperature is 38 degrees.  WSW wind at 8-10 mph.  Mostly cloudy- water was dark.  Lowest Secchi reading of the year.  Lake has just completed turnover.  Assisted by Jim Kliefgen of Bayview Lodge.  The last 30 days have been rainy.    
+04/18/1998,LAKE SAMPLE    
+07/02/1998,LAKE SAMPLE    
+07/03/2002,Sunny
+
+    
+08/22/2002,Sunny- light breeze
+
+    
+07/27/2003,Sunny- breezy    
+08/13/2003,Sunny- calm.  Water clear but small balls of algae present    
+07/10/2004,Sunny- light breeze
+07/30/2004,Sunny- light breeze
+07/07/2005,Sunny- light breeze
+07/29/2005,Sunny
+08/28/2005,Partly sunny- windy
+06/22/2006,Sunny- moderate wind
+08/02/2006,Calm- overcast
+08/20/2006,Sunny
+07/05/2007,Sunny- moderate NW wind
+07/27/2007,Sunny- breezy
+08/28/2008,Sunny- some Gleotrichia
+07/11/2009,Sunny- breezy- NW wind
+08/05/2009,Sunny- NW wind 10-12 mph
+07/07/2010,Sunny- calm- Gleotrichia colony balls in water
+06/16/2011,overcast- calm
+08/11/2011,NW wind 5-7 mph- Gleotrichia present in water
+06/15/2012,sunny with slight haze- light winds from SW
+07/03/2012,Sunnym SW winds 3-5 mph- Gleotrichia "balls" present
+07/19/2012,Sunny- calm winds.  Some Gleotrichia "balls" present
+08/30/2012,Partly sunny- hazy overcast.  Winds 10-12 SW
+06/13/2013,Sunny- breezy.  Wind 10-12 mph
+07/23/2013,Sunny- NW wind 7-9 mph
+08/31/2013,Sunny- breezy.  Wind N 10-12 mph
+07/30/2014,Sunny- wind 3-5 mph from SW Sunny- wind 3-5 mph from SW- a few Gleotrichia colonies observed
+08/26/2014,Sunny- wind 8-10 from NW- few Gleotrichia colonies present
+07/25/2015,100% sunny- wind SW 6-8 mph
+08/16/2015,Sunny- windy 12-15 mph
+07/02/2017,Sunny- Wind NW 10-12 mph
+07/16/2017,Sunny- Wind N 7-9 mph
+08/13/2017,Partly sunny with thin clouds.  Wind SW 5-7 mph
+09/09/2017,Sunny- Wind S-SW 12-15 mph
+07/14/2018,Sunny- calm sunny- calm
+08/18/2018,calm- hazy sunshine calm- hazy sunshine
+09/06/2018,calm- sunny calm- sunny
+06/09/2019,Overcast- south wind 7-9 mph. Water greenish color with spring phytoplankton
+07/14/2019,Sunny- breezy- SSW wind 12-15 mph
+07/27/2019,Sunny- windy- wind NW 12-15 mph
+09/14/2019,Brownish yellow algae in water. Wind west 8-10 mph
+06/30/2020,Sunny- south wind 8-10 mph
+07/17/2020,Sunny- south wind 3-5 mph
+08/09/2020,Sunny- wind south southwest 3-5 mph.  Gleotrichia colony balls in water
+08/30/2020,Sunny- wind southwest 6-8 mph
+09/23/2020,Partly sunny- southwest wind 5-7 mph
+
+
+
+
+Start Date,Group Name,Project Name
+07/05/1989,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/14/1989,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+05/27/1990,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/01/1990,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/24/1990,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/25/1990,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+10/06/1990,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+05/04/1991,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/07/1991,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/04/1991,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/19/1991,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/02/1991,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/30/1992,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/06/1992,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/04/1993,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/12/1993,Joan Benedict,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/03/1993,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/07/1993,Joan Benedict,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/19/1993,Joan Benedict,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/27/1993,Joan Benedict,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/07/1993,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/09/1993,Joan Benedict,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/19/1993,Joan And Geri Benedict,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/25/1993,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+05/22/1994,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+05/28/1994,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/25/1994,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/03/1994,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/10/1994,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/11/1994,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/25/1994,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+05/29/1995,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/04/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/14/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/08/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/23/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/12/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/23/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/04/1995,Joan Benedict And Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+10/22/1995,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/16/1996,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/21/1996,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/24/1996,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/25/1997,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/20/1997,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/12/1997,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/24/1997,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/14/1997,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+10/20/1997,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+04/18/1998,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/30/1998,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/02/1998,Renn Karl,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/25/1998,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/18/2000,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/21/2001,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/17/2001,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/03/2002,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/22/2002,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/27/2003,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/13/2003,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/10/2004,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/30/2004,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/07/2005,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/29/2005,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/28/2005,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/22/2006,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/02/2006,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/20/2006,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/05/2007,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/27/2007,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/29/2008,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/28/2008,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/11/2009,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/05/2009,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/07/2010,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/16/2011,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/11/2011,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/15/2012,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/03/2012,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/19/2012,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/30/2012,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/13/2013,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/23/2013,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/31/2013,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/30/2014,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/26/2014,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/25/2015,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/16/2015,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/02/2017,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/16/2017,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/13/2017,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/09/2017,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/14/2018,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/18/2018,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/06/2018,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/09/2019,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/14/2019,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/27/2019,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/07/2019,Angie Stine,TOWN OF PRESQUE ISLE: Wilderness Waters: Averill- Presque Isle- + Wildcat Lakes
+09/14/2019,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+06/30/2020,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+07/17/2020,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/09/2020,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+08/30/2020,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole
+09/23/2020,Richard Lathrop,Citizen Lake Monitoring - Water Quality - Presque Isle Lake; Deep Hole

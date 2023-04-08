@@ -1,0 +1,108 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Europe Lake,Door,93100,NE,15,,153120,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/27/1973,,,,,50,,58,,,,,,
+1,10/29/1973,,,,,110,,65,,,,,,
+1,02/04/1974,,,,,20,,51,,,,,,
+1,04/30/1974,,,,,20,,51,,,,,,
+1,08/30/1974,,,,,40,,57,,,,,,
+1,10/22/1974,,,,,100,,64,,,,,,
+1,03/01/1994,,,,,3,,37,,,,,,
+1,04/19/1994,8.2,,2.5,0.941,4,47,39,34,,,,,
+1,06/21/1994,8.8,,2.67,1.64,4,46,39,39,,,,,
+1,07/28/1994,6.9,,2.1,3.09,8,49,44,43,,,,,
+1,08/29/1994,6.6,,2,1.31,7,50,43,37,,,,,
+18137668,08/03/2007,,,,,11,,47,,,,,,
+116239333,11/14/2009,,,,,10,,46,,,,,,
+116239333,04/12/2010,,,,,6,,42,,,,,,
+116239333,11/16/2010,,,,,9,,45,,,,,,
+116239333,05/02/2011,,,,,10,,46,,,,,,
+116239333,10/31/2011,,,,,16,,50,,,,,,
+116239333,04/08/2012,,,,,6,,42,,,,,,
+116239333,10/29/2012,,,,,11,,47,,,,,,
+116239333,05/05/2013,,,,,17,,50,,,,,,
+116239333,11/04/2013,,,,,7,,43,,,,,,
+116239333,05/27/2014,,,,,17,,50,,,,,,
+1,11/09/2015,,,,,8,,44,,,,,,
+1,04/18/2016,,,,,18,,51,,,,,,
+1,11/05/2019,,,,,9,,45,,,,,,
+1,06/08/2020,,,,,18,,51,,,,,,
+7000093,07/16/2020,8,YES,2.4,1.66,10.7,47,47,39,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000093,08/12/2020,7,YES,2.1,0.891,12.8,49,48,34,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000093,09/11/2020,8,YES,2.4,0.678,14,47,49,32,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/27/1973,,,24.7222,C,7.9,MG/L
+10/29/1973,,,49,C,10.6,MG/L
+02/04/1974,,,.277778,C,6.6,MG/L
+04/30/1974,,,14.4444,C,9.4,MG/L
+08/30/1974,,,20,C,8.9,MG/L
+10/22/1974,,,43,C,13.6,MG/L
+03/01/1994,,,3.8,C,8.1,MG/L
+04/19/1994,,,9.2,C,10.9,MG/L
+06/21/1994,,,24.6,C,7.05,MG/L
+07/28/1994,,,23.1,C,7.13,MG/L
+08/29/1994,,,21.1,C,7.08,MG/L
+04/12/2010,,,50,F,,
+05/02/2011,,,55,F,,
+05/05/2013,,,60,F,,
+07/16/2020,1,METERS,23.6,DEGREES C,8.3,MG/L
+07/16/2020,2,METERS,23.5,DEGREES C,8.5,MG/L
+08/12/2020,1,METERS,25,DEGREES C,8.3,MG/L
+08/12/2020,2,METERS,24.9,DEGREES C,8.5,MG/L
+09/11/2020,1,METERS,14.8,DEGREES C,9.9,MG/L
+09/11/2020,2,METERS,14.8,DEGREES C,9.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/27/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/29/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/04/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/30/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/30/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/22/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/01/1994,MID DEPTH SAMPLE    
+
+
+
+
+Start Date,Group Name,Project Name
+07/27/1973,Data Collectors,Migrated from STORET Legacy
+10/29/1973,Data Collectors,Migrated from STORET Legacy
+02/04/1974,Data Collectors,Migrated from STORET Legacy
+04/30/1974,Data Collectors,Migrated from STORET Legacy
+08/30/1974,Data Collectors,Migrated from STORET Legacy
+10/22/1974,Data Collectors,Migrated from STORET Legacy
+03/01/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/19/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/21/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/28/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/29/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/03/2007,Steve Uglinica,Citizen Lake Monitoring - Water Quality - Europe Lake; Deep Hole
+11/14/2009,Michael Bernklau,
+04/12/2010,Michael Bernklau,
+11/16/2010,Michael Bernklau,
+05/02/2011,Michael Bernklau,
+10/31/2011,Michael Bernklau,
+04/08/2012,Michael Bernklau,
+10/29/2012,Michael Bernklau,
+05/05/2013,Michael Bernklau,
+11/04/2013,Michael Bernklau,
+05/27/2014,Michael Bernklau,
+11/09/2015,Data Collectors,
+04/18/2016,Data Collectors,
+11/05/2019,Data Collectors,
+06/08/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Europe Lake; Deep Hole
+07/16/2020,Mary Gansberg,Directed Lakes 2020 Gansberg
+08/12/2020,Mary Gansberg,Directed Lakes 2020 Gansberg
+09/11/2020,Mary Gansberg,Citizen Lake Monitoring - Water Quality - Europe Lake; Deep Hole
+09/11/2020,Mary Gansberg,Directed Lakes 2020 Gansberg

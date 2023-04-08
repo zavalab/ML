@@ -1,0 +1,81 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Black Brook Flowage,Polk,2621900,NO,49,,494003,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/06/1979,,,,8.45,66,,61,51,,,,,
+1,04/27/2004,6,NO,1.8,,52,51,59,,,,,,
+199028768,07/15/2019,5.75,NO,1.7,,,52,,,,,,,
+49230085,07/17/2019,,,,10.3,78.4,,62,52,,,,,
+49230085,08/14/2019,6.25,,1.9,6.9,69.6,51,61,49,,,,,
+49230085,09/13/2019,8.5,,2.6,2.47,48.3,46,58,42,,,,,
+146987459,07/20/2020,4,,1.2,48.8,112,57,65,64,,,,,
+146987459,08/18/2020,10.5,NO,3.2,6.99,54.9,43,59,50,,,,,
+146987459,09/09/2020,13,NO,4,3.08,38.3,40,45,43,,5.7,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/27/2004,,,9.4,C,11.4,MG/L
+07/15/2019,0,FEET,26.2,DEGREES C,7.25,MG/L
+07/15/2019,1,FEET,25.7,DEGREES C,6.19,MG/L
+07/15/2019,2,FEET,25.5,DEGREES C,5.83,MG/L
+07/15/2019,3,FEET,25.1,DEGREES C,5.11,MG/L
+07/15/2019,4,FEET,24.9,DEGREES C,4.62,MG/L
+08/14/2019,0,FEET,23,DEGREES C,6.53,MG/L
+08/14/2019,1,FEET,23,DEGREES C,6.28,MG/L
+08/14/2019,2,FEET,22.9,DEGREES C,5.58,MG/L
+08/14/2019,3,FEET,22.8,DEGREES C,5.2,MG/L
+08/14/2019,4,FEET,22.7,DEGREES C,4.51,MG/L
+09/13/2019,0,FEET,16.5,DEGREES C,6.77,MG/L
+09/13/2019,1,FEET,16.5,DEGREES C,6.67,MG/L
+09/13/2019,2,FEET,16.4,DEGREES C,6.63,MG/L
+09/13/2019,3,FEET,16.4,DEGREES C,6.42,MG/L
+09/13/2019,4,FEET,16.4,DEGREES C,6.39,MG/L
+07/20/2020,0,FEET,26.1,DEGREES C,13.98,MG/L
+07/20/2020,1,FEET,25.1,DEGREES C,8.61,MG/L
+07/20/2020,2,FEET,25,DEGREES C,7.77,MG/L
+07/20/2020,3,FEET,24.8,DEGREES C,6.88,MG/L
+07/20/2020,4,FEET,24.4,DEGREES C,5.85,MG/L
+07/20/2020,5,FEET,24.3,DEGREES C,5.4,MG/L
+07/20/2020,6,FEET,20,DEGREES C,.14,MG/L
+08/18/2020,0,METERS,23.3,DEGREES C,8.19,MG/L
+08/18/2020,1,METERS,23.1,DEGREES C,8.1,MG/L
+08/18/2020,2,METERS,22.7,DEGREES C,7.72,MG/L
+08/18/2020,3,METERS,22.3,DEGREES C,7.14,MG/L
+08/18/2020,4,METERS,21.8,DEGREES C,6.14,MG/L
+08/18/2020,5,METERS,21.6,DEGREES C,5.68,MG/L
+08/18/2020,6,METERS,21.6,DEGREES C,4.94,MG/L
+09/09/2020,0,METERS,16.2,DEGREES C,8.12,MG/L
+09/09/2020,1,METERS,16.2,DEGREES C,7.82,MG/L
+09/09/2020,2,METERS,16.2,DEGREES C,7.67,MG/L
+09/09/2020,3,METERS,15.7,DEGREES C,7.64,MG/L
+09/09/2020,4,METERS,15.5,DEGREES C,7.99,MG/L
+09/09/2020,5,METERS,15.5,DEGREES C,8.05,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/06/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/14/2019,filtered: 200ml- light breeze
+09/13/2019,Filtered: 200 ml 
+windy
+09/09/2020,cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+08/06/1979,Data Collectors,Migrated from STORET Legacy
+04/27/2004,Data Collectors,
+07/15/2019,Katelin Anderson- Jeremy Williamson- Noah Wieczorek,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+07/17/2019,Katelin Anderson and Jeremy Williamson,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+08/14/2019,Katelin Anderson and Jeremy Williamson,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+09/13/2019,Katelin Anderson and Jeremy Williamson,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+07/20/2020,Katelin Anderson- Colton Sorensen,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+08/18/2020,Katelin Anderson- Colton Sorensen,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+09/09/2020,Katelin Anderson- Colton Sorensen,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible

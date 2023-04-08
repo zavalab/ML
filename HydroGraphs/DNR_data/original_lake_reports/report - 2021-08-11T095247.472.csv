@@ -1,0 +1,57 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Warner Lake,Washburn,2599600,NO,66,,10051323,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+164643193,07/07/2018,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+164643193,07/24/2018,9,NO,2.7,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+164643193,08/19/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+164643193,09/16/2018,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+164643193,05/28/2019,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+164643193,06/16/2019,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+164643193,07/27/2019,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+164643193,09/27/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+164643193,05/24/2020,10,NO,3,,,44,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+164643193,06/26/2020,12,NO,3.6,,,41,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+164643193,08/07/2020,10,NO,3,,,44,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+164643193,09/26/2020,11,NO,3.3,,,43,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/07/2018,Sunny day.  breezy wind from the south at approx. 10 mph 
+07/24/2018,Mostly sunny- 76 degrees- fairly calm winds.
+08/19/2018,Smoky overcast. Light SW Winds
+09/16/2018,Beautiful day.  West wind approx. 10-15 mph.  not green- beautiful to swim.  82 degrees
+05/28/2019,Beautiful Weather- partly cloudy- water seems crystal clear. calm winds.
+07/27/2019,Full Sun!  Breezy- 10-15 mph winds.
+09/27/2019,E Winds approx. 10 mph.  Water appears to be more brown than usual.  Temp mid 50's.  Partly Cloudy.
+05/24/2020,Mostly Cloudy- light breeze from SE.  Light brown color. 76 degrees F.
+06/26/2020,Partly cloudy.  Brown tint in color.
+08/07/2020,South Winds approx 10-15 MPH.  Overcast cloud cover.  80 degrees- brown tint in color.
+09/26/2020,Overcast- no sun- light breeze from the East.  water color looks the same- has brown tint.
+
+
+
+
+Start Date,Group Name,Project Name
+07/07/2018,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+07/24/2018,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+08/19/2018,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+09/16/2018,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+05/28/2019,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+06/16/2019,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+07/27/2019,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+09/27/2019,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+05/24/2020,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+06/26/2020,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+08/07/2020,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake
+09/26/2020,Jeff Angel,Citizen Lake Monitoring - Water Quality - Warner Lake - Center of Lake

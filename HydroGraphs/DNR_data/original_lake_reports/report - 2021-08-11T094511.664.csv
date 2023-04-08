@@ -1,0 +1,2425 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Whitewater Lake,Walworth,816800,SE,65,,653126,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/18/1973,,,,,80,,62,,,,,,
+1,11/28/1973,,,,,130,,66,,,,,,
+1,02/13/1974,,,,,40,,57,,,,,,
+1,04/04/1974,,,,,60,,60,,,,,,
+1,07/17/1974,,,,,90,,63,,,,,,
+1,11/12/1974,,,,,60,,60,,,,,,
+1,02/26/1975,,,,,40,,57,,,,,,
+41731863,07/17/1978,3,NO,0.9,,,61,,,,,,,
+41731863,02/14/1980,,,,,,,,,,,,,
+1,06/10/1980,5.6,,1.7,13,,52,,54,,,,,
+1,09/09/1980,8.5,,2.6,64,,46,,66,,,,,
+1,09/14/1981,2,,0.6,49,,67,,64,,,,,
+8188525,04/21/1986,2.25,NO,0.7,,,65,,,,,,,
+8188525,06/24/1986,3.25,NO,1,,,60,,,,,,,
+8188525,07/10/1986,3.25,NO,1,,,60,,,,,,,
+8190954,07/17/1986,3,NO,0.9,,,61,,,,,,GREEN,
+8190954,08/09/1986,2,NO,0.6,,,67,,,,,,GREEN,
+8188525,08/13/1986,2.25,NO,0.7,,,65,,,,,,,
+8188525,02/25/1987,6.5,NO,2,,,50,,,,,,,
+8188525,04/07/1987,4.25,NO,1.3,,,56,,,,,,,
+8190954,05/01/1987,7,NO,2.1,,,49,,,3.5" OVER DAM,,,GREEN,
+8190954,06/08/1987,4,NO,1.2,,,57,,,1.5" OVER THE DAM,,,BROWN,
+8190954,07/17/1987,3.75,NO,1.1,,,58,,,EVEN WITH SPILLWAY,,,LIGHT GREEN,
+8188525,07/22/1987,4.25,NO,1.3,,,56,,,,,,,
+8190954,08/04/1987,3,NO,0.9,,,61,,,2" BELOW SPILLWAY,,,GREEN,
+8190954,08/15/1987,2.75,NO,0.8,,,63,,,1.5" ABOVE SPILLWAY,,,GREEN,
+8188525,08/19/1987,2.25,NO,0.7,,,65,,,,,,,
+8190954,09/12/1987,1.5,NO,0.5,,,71,,,1.07,1.07,,GREEN,
+8190954,10/13/1987,3.25,NO,1,,,60,,,HIGH,1,,GREEN,
+8188525,02/17/1988,8,NO,2.4,,,47,,,,,,,
+8190954,03/16/1988,,,,,,,,,+0.117,,,,
+8188525,04/14/1988,3.25,NO,1,,,60,,,,,,,
+8190954,04/16/1988,,,,,,,,,+0.125,,CLEAR,,
+8188525,06/08/1988,3.25,NO,1,,,60,,,,,,,
+8190954,06/16/1988,4,NO,1.2,,,57,,,-0.67,,CLEAR,,
+8190954,07/17/1988,3.75,NO,1.1,,,58,,,-0.625,,CLEAR,,
+8188525,07/18/1988,4.5,NO,1.4,11,27,55,54,53,,,,,
+8190954,07/30/1988,3.25,NO,1,,,60,,,-0.75,,,BROWN,
+8190954,08/11/1988,2.5,NO,0.8,,,64,,,-0.812,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,08/23/1988,3.25,NO,1,14,25,60,53,55,,,,,
+8190954,08/28/1988,3.5,NO,1.1,,,59,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190954,09/09/1988,,,,,,,,,-1.08,,CLEAR,,
+8190954,10/05/1988,4,NO,1.2,,,57,,,1.16' BELOW DAM SPILLWAY,,,BROWN,5-Enjoyment substantially impaired (algae)
+8188525,02/21/1989,7.4,NO,2.25,12,37,48,56,54,,,,,
+8190954,04/26/1989,,,,,,,,,8 INCHES BELOW DAM SPILLWAY,,CLEAR,BLUE,
+8188525,04/27/1989,9.2,NO,2.8,5,23,45,52,47,,,,,
+8190954,05/11/1989,8,NO,2.4,,,47,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190954,06/10/1989,8,NO,2.4,,,47,,,,,,,5-Enjoyment substantially impaired (algae)
+8188525,06/28/1989,4.5,NO,1.4,20,28,55,54,57,,,,,
+8188525,07/26/1989,4.5,NO,1.4,25,34,55,55,59,,,,,
+8190954,08/15/1989,4.5,NO,1.4,,,55,,,,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8188525,08/22/1989,3.9,NO,1.2,26,38,57,56,59,,,,,
+8190954,08/24/1989,4,NO,1.2,,,57,,,-15 IN.,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190954,09/03/1989,4,NO,1.2,,,57,,,,,,,5-Enjoyment substantially impaired (algae)
+8190954,09/18/1989,4,NO,1.2,,,57,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190954,10/07/1989,7,NO,2.1,,,49,,,-14 IN.,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8188525,02/26/1990,7.9,NO,2.4,4,16,47,50,45,,,,,
+8188525,04/10/1990,6.5,NO,2,9,25,50,53,51,,,,,
+8190954,05/28/1990,7,NO,2.1,,,49,,,11" BELOW SPILLWAY,,CLEAR,BLUE,
+8188525,06/25/1990,4,NO,1.2,26,35,57,56,59,,,,,
+8190954,06/26/1990,5,NO,1.5,,,54,,,,,CLEAR,BLUE,
+8188525,07/23/1990,3.5,NO,1.1,19,37,59,56,57,,,,,
+8190954,08/05/1990,3,NO,0.9,,,61,,,,,CLEAR,BLUE,
+8188525,08/23/1990,3,NO,0.9,36,36,61,56,62,,,,,
+8188525,03/04/1991,5.9,NO,1.8,1,15,51,49,35,,,,,
+8188525,04/25/1991,4.9,NO,1.5,12,25,54,53,54,,,,,
+8190401,05/15/1991,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,
+8190401,05/25/1991,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+8190401,06/03/1991,10,NO,3,,,44,,,,,CLEAR,BLUE,
+8190401,06/08/1991,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+8190401,06/14/1991,7,NO,2.1,,,49,,,,,CLEAR,BLUE,
+8188525,06/18/1991,11.5,NO,3.5,4,21,42,52,45,,,,,
+8190401,06/27/1991,6,NO,1.8,,,51,,,,,CLEAR,BLUE,
+8190401,07/07/1991,6.5,NO,2,,,50,,,,,CLEAR,BLUE,
+8190401,07/14/1991,5,NO,1.5,,,54,,,,,CLEAR,BLUE,
+8190401,07/19/1991,3.5,NO,1.1,,,59,,,,,CLEAR,GREEN,
+8188525,07/22/1991,3.25,NO,1,46,44,60,57,64,,,,,
+8190401,07/27/1991,3,NO,0.9,,,61,,,,,,GREEN,
+8190401,08/02/1991,2.25,NO,0.7,,,65,,,,,,GREEN,
+8190401,08/09/1991,2,NO,0.6,,,67,,,,,,GREEN/BROWN,
+8190401,08/17/1991,2.5,NO,0.8,,,64,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,08/21/1991,2.25,NO,0.7,56,131,65,66,65,,,,,
+8190401,08/23/1991,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190401,09/01/1991,3,NO,0.9,,,61,,,,,CLEAR,GRAY,
+8190401,09/06/1991,3,NO,0.9,,,61,,,,,CLEAR,GRAY,
+8190401,09/15/1991,4,NO,1.2,,,57,,,,,CLEAR,GRAY,
+8190401,09/30/1991,4,NO,1.2,,,57,,,,,,BROWN,
+8190401,10/09/1991,4,NO,1.2,,,57,,,,,,GRAY,
+8188525,04/16/1992,6.5,NO,2,18,22,50,52,57,,,,,
+8190401,05/07/1992,4.5,NO,1.4,,,55,,,,,CLEAR,GRAY,
+8190401,06/02/1992,10.5,NO,3.2,,,43,,,,,,GRAY,
+8190401,06/11/1992,11,NO,3.3,,,43,,,,,,GRAY,
+8188525,06/18/1992,5.9,NO,1.8,15,26,51,53,55,,,,,
+8190401,07/01/1992,5,NO,1.5,,,54,,,,,,GRAY,
+8188525,07/15/1992,4.25,NO,1.3,,,56,,,,,,,
+8190401,07/18/1992,3.5,NO,1.1,,,59,,,,,,GREEN,
+8190401,07/29/1992,3,NO,0.9,,,61,,,,,,GREEN,
+8190401,08/17/1992,4.5,NO,1.4,,,55,,,,,,GREEN,
+8188525,09/01/1992,3.25,NO,1,25.9,41,60,57,59,,,,,
+8190401,09/01/1992,3.5,NO,1.1,,,59,,,,,,GREEN,
+8190401,09/23/1992,4,NO,1.2,,,57,,,,,,GREEN,
+8190401,10/03/1992,5,NO,1.5,,,54,,,,,,GRAY,
+8188525,02/17/1993,6.5,NO,2,3.83,23,50,52,45,,,,,
+8190264,04/20/1993,5,NO,1.5,20.9,25,54,53,58,,,,GREEN,1-Beautiful, could not be nicer
+8190401,05/09/1993,5.5,NO,1.7,,,53,,,,,CLEAR,GRAY,1-Beautiful, could not be nicer
+8188525,05/10/1993,9.2,NO,2.8,3.28,19,45,51,44,,,,,
+8190401,05/29/1993,7,NO,2.1,,,49,,,,,,GREEN/GRAY,
+8190401,06/13/1993,7,NO,2.1,,,49,,,,,,GRAY,
+8188525,06/14/1993,7.5,NO,2.3,4.89,14,48,49,47,,,,,
+8190264,06/16/1993,6.75,NO,2.1,6.65,17,50,50,49,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190401,06/23/1993,7,NO,2.1,,,49,,,,,,GRAY,
+8190401,07/11/1993,7,NO,2.1,,,49,,,,,,GREEN,
+8188525,07/14/1993,4.6,NO,1.4,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190264,07/14/1993,,,,12.1,,,,54,,,,,
+8188525,07/15/1993,4.5,NO,1.4,15.8,23,55,52,56,,,,,
+8190401,07/30/1993,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+8190264,08/10/1993,4,NO,1.2,,,57,,,,,,GREEN,2-Very minor aesthetic problems
+8190264,08/16/1993,,,,20.4,,,,58,,,,,
+8190401,08/16/1993,4,NO,1.2,,,57,,,,,,GREEN,2-Very minor aesthetic problems
+8188525,08/24/1993,4.5,NO,1.4,19.1,28,55,54,57,,,,,
+8190401,09/01/1993,4,NO,1.2,,,57,,,,,,GREEN,
+8190264,09/18/1993,4.5,NO,1.4,24.1,32,55,55,59,,,,GREEN,2-Very minor aesthetic problems
+8190401,10/05/1993,5,NO,1.5,,,54,,,,,,GRAY,
+8190264,10/14/1993,5.25,NO,1.6,21.4,31,53,55,58,,,,GREEN,2-Very minor aesthetic problems
+8188525,02/22/1994,20,NO,6.1,1.71,15,34,49,39,,,,,
+8188525,04/21/1994,5.5,NO,1.7,,,53,,,,,,,
+8190401,05/16/1994,7,NO,2.1,,,49,,,,,CLEAR,GRAY,
+8190264,05/23/1994,10.5,NO,3.2,5.17,20,43,51,47,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190401,05/31/1994,8,NO,2.4,,,47,,,GAUGE,1,CLEAR,GRAY,1-Beautiful, could not be nicer
+8190401,06/11/1994,9,NO,2.7,,,45,,,GAUGE,9,CLEAR,GRAY,2-Very minor aesthetic problems
+8190264,06/15/1994,6.75,NO,2.1,7.14,24,50,53,50,,,,GREEN,1-Beautiful, could not be nicer
+8190401,06/25/1994,6,NO,1.8,,,51,,,,,CLEAR,GRAY,
+8188525,06/30/1994,6.5,NO,2,15.1,30,50,54,55,,,,,
+8190401,07/06/1994,5,NO,1.5,,,54,,,,,,GRAY,
+8190264,07/13/1994,4.5,NO,1.4,10.4,30,55,54,53,,,,GREEN,2-Very minor aesthetic problems
+8188525,08/01/1994,3,NO,0.9,12,26,61,53,54,,,,,
+8190264,08/15/1994,5,NO,1.5,11.4,27,54,54,53,,,,GREEN,2-Very minor aesthetic problems
+8190401,08/18/1994,6,NO,1.8,,,51,,,,,,BROWN GRAY,2-Very minor aesthetic problems
+8188525,09/06/1994,4.9,NO,1.5,12.7,22,54,52,54,,,,,
+8190401,09/07/1994,6,NO,1.8,,,51,,,,,,GREEN GRAY,
+8190401,09/25/1994,6,NO,1.8,,,51,,,,,,GREEN BROWN,
+8190401,10/14/1994,6,NO,1.8,,,51,,,,,,GREEN GRAY,
+8190264,10/17/1994,6,NO,1.8,10.9,29,51,54,53,,,,GREEN,2-Very minor aesthetic problems
+8188525,02/21/1995,19,NO,5.8,2.72,12,35,47,42,,,,,
+8188525,04/20/1995,5.7,NO,1.7,6.01,27,52,54,48,,,,,
+8190264,05/15/1995,7,NO,2.1,4.42,32,49,55,46,,,,,
+8190401,06/07/1995,10,NO,3,,,44,,,,,,GRAY,3-Enjoyment somewhat impaired (algae)
+8188525,06/20/1995,5.2,NO,1.6,6.25,18,53,51,49,,,,,
+8190264,06/20/1995,5.75,NO,1.7,7.14,,52,,50,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,07/04/1995,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,07/13/1995,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190264,07/19/1995,3.25,NO,1,12.3,,60,,54,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,07/24/1995,3.25,NO,1,13.1,33,60,55,54,,,,,
+8190401,07/28/1995,3,NO,0.9,,,61,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190264,08/16/1995,,,,74.2,,,,67,,,,,
+8190401,08/18/1995,2,NO,0.6,,,67,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190401,09/08/1995,2.5,NO,0.8,,,64,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8188525,09/19/1995,2,NO,0.6,48.5,55,67,59,64,,,,,
+8190401,09/28/1995,2.5,NO,0.8,,,64,,,,,,GREEN BROWN,
+8190264,10/11/1995,,,,38,53,,59,62,,,,,
+8188525,02/22/1996,6.5,NO,2,25.7,18,50,51,59,,,,,
+8188525,04/16/1996,4.9,NO,1.5,4.63,15,54,49,46,,,,,
+8190264,04/22/1996,,,,11.6,43,,57,53,,,,,
+8190264,05/09/1996,6,NO,1.8,,,51,,,,,,GRAY,1-Beautiful, could not be nicer
+8190401,05/29/1996,6,NO,1.8,,,51,,,,,CLEAR,GRAY,1-Beautiful, could not be nicer
+8190401,06/13/1996,10,NO,3,,,44,,,,,,,
+1,06/17/1996,10,NO,3,,,44,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190264,06/17/1996,,,,7.84,,,,50,,,,,
+8190665,06/25/1996,10,YES,3,1.36,,44,,37,3.5" BELOW DAM,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188525,06/26/1996,8.9,NO,2.7,3.75,15,45,49,45,,,,,
+8190401,06/27/1996,9,NO,2.7,,,45,,,,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8190264,07/16/1996,5,NO,1.5,6.78,22,54,52,49,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,07/19/1996,6,NO,1.8,,,51,,,,,,GREEN,
+8188525,07/22/1996,4.6,,1.4,8.35,23,55,52,51,,,,,
+8190401,08/14/1996,4,NO,1.2,,,57,,,,,,GREEN,2-Very minor aesthetic problems
+1,08/21/1996,4.25,NO,1.3,17.7,,56,,57,,,,GREEN,2-Very minor aesthetic problems
+8188525,08/27/1996,3.9,,1.2,17.8,27,57,54,57,,,,,
+8190401,09/03/1996,5,NO,1.5,,,54,,,,,,GREEN,
+8190401,09/19/1996,5,NO,1.5,,,54,,,,,,GREEN,
+8190264,10/14/1996,6,NO,1.8,11.8,,51,,53,,,,GREEN,2-Very minor aesthetic problems
+8188525,03/05/1997,6.2,NO,1.9,10.2,27,51,54,52,,,,,
+8188525,04/30/1997,3.25,NO,1,20.9,25,60,53,58,,,,,
+8190264,05/07/1997,,,,,29,,54,,,,,,
+8190401,05/07/1997,4,NO,1.2,,,57,,,,,,GRAY,
+8190401,06/02/1997,7,NO,2.1,,,49,,,,,,,
+1,06/17/1997,,,,5.04,,,,47,,,,,
+8190264,06/23/1997,6.25,NO,1.9,4.13,,51,,46,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,06/25/1997,8.9,NO,2.7,6.14,16,45,50,49,,,,,
+8190264,07/07/1997,6.25,NO,1.9,,,51,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,07/24/1997,6.5,NO,2,7.98,16,50,50,51,,,,,
+1,07/28/1997,5.5,NO,1.7,8.6,,53,,51,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,08/08/1997,4,NO,1.2,,,57,,,,,,,
+8190401,08/22/1997,4,NO,1.2,,,57,,,,,,BROWN,
+1,08/26/1997,3.25,NO,1,16.9,38,60,56,56,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,08/28/1997,2.5,NO,0.8,11.4,35,63,56,53,,,,,
+8190401,09/14/1997,4,NO,1.2,,,57,,,,,,BROWN,
+8190401,10/06/1997,5,NO,1.5,,,54,,,,,,,
+1,10/20/1997,5.25,NO,1.6,9,,53,,51,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188525,03/03/1998,7.9,,2.4,9.54,17,47,50,52,,,,,
+8190401,04/29/1998,5,NO,1.5,,,54,,,,,,,1-Beautiful, could not be nicer
+1,05/05/1998,5,NO,1.5,,20,54,51,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,05/13/1998,9,NO,2.7,,,45,,,HIGH,,CLEAR,,
+8190401,06/16/1998,6,NO,1.8,,,51,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+1,06/22/1998,5.75,NO,1.7,5.98,,52,,48,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,06/24/1998,7.5,NO,2.3,4.62,20,48,51,46,,,,,
+8190401,07/09/1998,6,NO,1.8,,,51,,,,,CLEAR,,2-Very minor aesthetic problems
+8190401,07/19/1998,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,GREEN,
+8188525,07/22/1998,7.9,,2.4,5.37,28,47,54,48,,,,,
+1,07/28/1998,5.5,NO,1.7,7.85,27,53,54,50,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,07/29/1998,5.5,NO,1.7,,,53,,,,,CLEAR,,2-Very minor aesthetic problems
+8190401,08/02/1998,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/26/1998,4.25,NO,1.3,,20,56,51,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188525,09/01/1998,3.6,NO,1.1,4.51,18,58,51,46,,,,,
+1,10/14/1998,5,NO,1.5,8.36,24,54,53,51,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188525,04/05/1999,7.9,,2.4,3.7,14,47,49,45,,,,,
+1,05/03/1999,8.5,NO,2.6,,18,46,51,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190401,05/16/1999,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188525,06/22/1999,5.6,,1.7,2.63,20,52,51,42,,,,,
+1,06/30/1999,7,NO,2.1,6.8,24,49,53,49,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,07/27/1999,5,NO,1.5,2.25,23,54,52,41,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188525,08/18/1999,5.2,,1.6,9,27,53,54,51,,,,,
+1,08/24/1999,4.5,NO,1.4,8,23,55,52,51,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/18/1999,6.75,NO,2.1,8,27,50,54,51,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188525,04/12/2000,6.9,,2.1,3,22,49,52,43,,,,,
+1,05/24/2000,9.25,NO,2.8,,33,45,55,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190401,05/27/2000,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,06/25/2000,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,07/05/2000,6,NO,1.8,4,23,51,52,45,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190401,07/24/2000,6.6,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/02/2000,5.75,NO,1.7,5,20,52,51,47,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+65277085,08/21/2000,6.2,,1.9,4,18,51,51,45,,,,,
+8190401,08/31/2000,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,09/06/2000,5.75,NO,1.7,4,22,52,52,45,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,09/19/2000,4.9,,1.5,,,54,,,,,,,
+8188525,09/19/2000,5,NO,1.5,,,54,,,,,,,4-Would not swim but boating OK (algae)
+8190264,09/24/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190401,09/27/2000,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,10/17/2000,7.75,NO,2.4,6,24,48,53,48,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000045,03/01/2001,0.9,,0.3,20,19,79,51,57,,,,,
+8188525,03/01/2001,3,NO,0.9,,,61,,,,,,,3-Enjoyment somewhat impaired (algae)
+7000045,05/10/2001,7.872,NO,2.4,5,31,47,55,47,,,,,
+8188525,05/10/2001,8,NO,2.4,,,47,,,,,,,3-Enjoyment somewhat impaired (algae)
+8190401,05/16/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190401,06/22/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188525,06/25/2001,6,NO,1.8,,,51,,,,,,,4-Would not swim but boating OK (algae)
+8190264,06/25/2001,,NO,,7,29,,54,50,,,,,
+8190264,06/26/2001,5.25,NO,1.6,8,,52,,51,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190401,07/16/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/01/2001,4.75,NO,1.4,11,,55,,53,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,08/04/2001,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190264,08/10/2001,3,NO,0.9,,,61,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,08/16/2001,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/28/2001,3.5,NO,1.1,18,,59,,57,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,09/03/2001,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190401,09/20/2001,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,10/09/2001,4.5,NO,1.4,3.3,,55,,44,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190401,10/09/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189491,05/01/2002,7,NO,2.1,,22,49,52,,NORMAL,,CLEAR,GREEN,
+8189491,05/18/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+8189491,05/26/2002,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,
+8189491,06/02/2002,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,
+8189491,06/16/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+1,06/25/2002,5,NO,1.5,1.51,22,54,52,38,NORMAL,,CLEAR,GREEN,
+8189491,06/28/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,
+8189491,07/14/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,
+8189491,07/19/2002,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,
+8189491,07/24/2002,4,NO,1.2,10.7,31,57,55,53,NORMAL,,CLEAR,GREEN,
+8189491,08/02/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,
+8189491,08/11/2002,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,
+8189491,08/18/2002,4.25,NO,1.3,12.8,27,56,54,54,NORMAL,,CLEAR,GREEN,
+8189491,08/28/2002,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,
+8189491,09/03/2002,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,
+8189491,09/13/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,
+8189491,09/21/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+8189491,09/28/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+8189491,10/16/2002,7,NO,2.1,5.17,32,49,55,47,NORMAL,,CLEAR,GREEN,
+8189491,05/18/2003,7,NO,2.1,,25,49,53,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/26/2003,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/01/2003,8,NO,2.4,,,47,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/13/2003,8,NO,2.4,,,47,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/19/2003,7,NO,2.1,,,49,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/22/2003,7,NO,2.1,6.26,30,49,54,49,GAUGE,.65,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/18/2003,6.25,NO,1.9,,,51,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/20/2003,5,NO,1.5,10.2,30,54,54,52,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/25/2003,5.5,NO,1.7,,,53,,,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/17/2003,5.75,NO,1.7,8.77,29,52,54,51,GAUGE,.7,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/28/2003,4.5,NO,1.4,,,55,,,,.12,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/07/2003,4.25,NO,1.3,,,56,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/21/2003,5.5,NO,1.7,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/12/2003,8,NO,2.4,6.84,26,47,53,49,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/08/2004,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/16/2004,9.75,NO,3,,25,44,53,,,10.65,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/28/2004,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/11/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/22/2004,5.75,NO,1.7,11.4,26,52,53,53,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189491,06/25/2004,5.75,NO,1.7,,,52,,,,11.05,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/02/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/11/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/16/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/18/2004,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/25/2004,5.5,NO,1.7,12.5,30,53,54,54,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000045,08/03/2004,3.6,NO,1.1,,25,55,53,,,,,,5-Enjoyment substantially impaired (algae)
+8189491,08/06/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/13/2004,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/20/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/22/2004,4.5,NO,1.4,13.1,28,55,54,54,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/27/2004,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/12/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/19/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/26/2004,5.75,NO,1.7,,,52,,,,10.63,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/17/2004,7.5,NO,2.3,7.82,40,48,57,50,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189491,05/15/2005,7,NO,2.1,,35,49,56,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189491,06/07/2005,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189491,06/19/2005,5.75,NO,1.7,13.1,29,52,54,54,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/24/2005,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/01/2005,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/31/2005,4.5,NO,1.4,15.8,28,55,54,56,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/06/2005,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/14/2005,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/21/2005,4.5,NO,1.4,20.3,30,55,54,58,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/10/2005,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/30/2005,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/16/2005,,,,10.1,28,,54,52,,,,,
+8189491,10/17/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/07/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/14/2006,8.5,NO,2.6,,28,46,54,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/18/2006,5.5,NO,1.7,10,29,53,54,52,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/04/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/30/2006,4.5,NO,1.4,14.6,30,55,54,55,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/06/2006,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/12/2006,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/20/2006,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/29/2006,4.25,NO,1.3,21.5,40,56,57,58,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/03/2006,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/15/2006,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/24/2006,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/17/2006,6.25,NO,1.9,8.8,30,51,54,51,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,04/15/2007,,,,,25,,53,,,,,,
+8189491,06/24/2007,3.5,NO,1.1,19.6,42,59,57,57,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/29/2007,3.25,NO,1,,,60,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/01/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/22/2007,2.25,NO,0.7,23.2,53,65,59,59,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/29/2007,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/03/2007,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/10/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/25/2007,3,NO,0.9,26.5,34,61,55,60,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/26/2007,2.75,NO,0.8,,,63,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/02/2007,3.25,NO,1,,,60,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/08/2007,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/15/2007,3,NO,0.9,,,61,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,09/22/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/30/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,10/07/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/28/2007,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/18/2008,5.5,NO,1.7,,29,53,54,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/15/2008,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/22/2008,4,NO,1.2,11.5,34,57,55,53,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/27/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/06/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/12/2008,3,NO,0.9,,,61,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/18/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/27/2008,3,NO,0.9,18.1,53,61,59,57,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/09/2008,2.75,NO,0.8,,,63,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/17/2008,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/22/2008,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2008,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/01/2008,2.75,NO,0.8,15.7,52,63,59,56,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/17/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/17/2009,6.5,NO,2,,21,50,52,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/31/2009,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/14/2009,4.75,NO,1.4,5.2,19,55,51,47,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/28/2009,3.25,NO,1,,,60,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/04/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/12/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/26/2009,3.5,NO,1.1,19,36,59,56,57,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/05/2009,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/09/2009,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/23/2009,2.75,NO,0.8,27.7,40,63,57,60,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/30/2009,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/07/2009,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/16/2010,8.5,NO,2.6,,22,46,52,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/29/2010,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/05/2010,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/27/2010,3.75,NO,1.1,13.2,31,58,55,54,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/03/2010,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/11/2010,3.25,NO,1,,,60,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/01/2010,3,NO,0.9,16.4,34,61,55,56,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/15/2010,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/22/2010,3.25,NO,1,15.3,35,60,56,55,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/27/2010,3,NO,0.9,,,61,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/12/2010,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/20/2011,7,NO,2.1,,52,49,59,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/30/2011,6.75,NO,2.1,,,50,,,NORMAL,1.32,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/17/2011,4.5,NO,1.4,,,55,,,NORMAL,1.22,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/20/2011,,,,14.6,23,,52,55,,,,,
+8189491,06/25/2011,3.75,NO,1.1,,,58,,,NORMAL,1.22,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/03/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/10/2011,3.75,NO,1.1,10.9,30,58,54,53,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/24/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/10/2011,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/28/2011,3,NO,0.9,14.7,36,61,56,55,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,10/05/2011,6,NO,1.8,,,51,,,NORMAL,1.0,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/28/2012,7.5,NO,2.3,,22,48,52,,NORMAL,1.1,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/09/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/16/2012,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/17/2012,5.5,NO,1.7,7.22,25,53,53,50,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/06/2012,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/22/2012,3.25,NO,1,17.6,34,60,55,56,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/12/2012,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/19/2012,3.5,NO,1.1,13,38,59,56,54,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2012,4.5,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/16/2012,4.5,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/28/2012,4.5,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,04/21/2013,,,,,9,,45,,,,,,
+8189491,05/21/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/01/2013,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/08/2013,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,06/30/2013,4.25,NO,1.3,10.8,41.2,56,57,53,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/13/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/22/2013,3.75, ,1.1,10.9,35.7,58,56,53,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/11/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/16/2013,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/18/2013,5.5,NO,1.7,6.59,23.2,53,53,49,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/25/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2013,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/09/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,04/09/2014,,,,,20.2,,51,,,,,,
+8189491,06/19/2014,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/05/2014,5.25,NO,1.6,6.51,31.6,53,55,49,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/14/2014,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/26/2014,6.5,NO,2,6.42,26.6,50,54,49,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/03/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/10/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/24/2014,6.75,NO,2.1,7.11,30.4,50,55,50,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2014,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/21/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/28/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,10/09/2014,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,04/11/2015,,,,,24.8,,53,,,,,,
+8189491,05/16/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,05/19/2015,,,,,,,,,,,,,
+1,05/21/2015,,,,,,,,,,,,,
+1,05/22/2015,,,,,,,,,,,,,
+8189491,05/23/2015,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,05/24/2015,,,,,,,,,,,,,
+1,06/01/2015,,,,,,,,,,,,,
+1,06/08/2015,,,,,,,,,,,,,
+8189491,06/29/2015,6.75,NO,2.1,9.37,35.6,50,56,52,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/04/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/19/2015,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/26/2015,5.75,NO,1.7,7.7,41.1,52,57,50,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/02/2015,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/15/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/23/2015,4.25,NO,1.3,12.3,38.3,56,56,54,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/28/2015,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,03/29/2016,,,,,29,,54,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189491,05/30/2016,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/20/2016,4,NO,1.2,8.67,32.4,57,55,51,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/04/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/10/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,07/17/2016,4.75,NO,1.4,8.94,37.7,55,56,51,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/30/2016,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/07/2016,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/14/2016,6,NO,1.8,8.53,18.4,51,51,51,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/28/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,05/29/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/17/2017,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/24/2017,6,NO,1.8,5.7,24,51,53,48,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/01/2017,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/23/2017,,,,3.83,22.5,,52,45,,,,,
+8189491,07/29/2017,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/13/2017,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/18/2017,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/27/2017,6,NO,1.8,6.02,23,51,52,48,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/28/2018,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189491,07/01/2018,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/02/2018,,,,5.46,27.3,,54,48,,,,,
+8189491,07/08/2018,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/19/2018,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/23/2018,6,NO,1.8,10.4,24.9,51,53,53,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/12/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/27/2018,5.25,NO,1.6,11.1,23.3,53,53,53,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,09/16/2018,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,04/13/2019,6,NO,1.8,,22,51,52,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189491,05/27/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/17/2019,5,NO,1.5,17.8,27.6,54,54,57,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/22/2019,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/06/2019,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/22/2019,4,NO,1.2,15.8,28.7,57,54,56,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/23/2019,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/27/2019,4.25,NO,1.3,13.3,34.6,56,56,54,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,04/25/2020,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,05/24/2020,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/14/2020,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/21/2020,4,NO,1.2,8.56,25.4,57,53,51,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,06/27/2020,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,07/19/2020,4,NO,1.2,11.9,27.8,57,54,54,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/07/2020,4,NO,1.2,,,57,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/13/2020,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189491,08/24/2020,3.75,NO,1.1,12.4,29.9,58,54,54,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189491,08/31/2020,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/18/1973,,,13.0556,C,1.5,MG/L
+11/28/1973,,,42,C,11.4,MG/L
+02/13/1974,,,1.11111,C,4.1,MG/L
+04/04/1974,,,41,C,12.9,MG/L
+07/17/1974,,,12.2222,C,.4,MG/L
+11/12/1974,,,47,C,8.2,MG/L
+02/26/1975,,,1.66667,C,1.3,MG/L
+07/17/1978,0,FEET,26,DEGREES C,9.6,MG/L
+07/17/1978,7,FEET,26,DEGREES C,9.5,MG/L
+07/17/1978,8,FEET,26,DEGREES C,9.2,MG/L
+07/17/1978,10,FEET,24.5,DEGREES C,4.3,MG/L
+07/17/1978,11,FEET,24,DEGREES C,2,MG/L
+07/17/1978,12,FEET,23.5,DEGREES C,.5,MG/L
+07/17/1978,13,FEET,23,DEGREES C,.2,MG/L
+07/17/1978,14,FEET,23,DEGREES C,0,MG/L
+07/17/1978,16,FEET,22.5,DEGREES C,0,MG/L
+07/17/1978,19,FEET,22,DEGREES C,0,MG/L
+07/17/1978,20,FEET,21,DEGREES C,0,MG/L
+07/17/1978,21,FEET,20.5,DEGREES C,0,MG/L
+07/17/1978,22,FEET,20,DEGREES C,0,MG/L
+07/17/1978,23,FEET,19.5,DEGREES C,0,MG/L
+07/17/1978,24,FEET,19,DEGREES C,0,MG/L
+07/17/1978,25,FEET,18,DEGREES C,0,MG/L
+07/17/1978,26,FEET,17.5,DEGREES C,0,MG/L
+07/17/1978,27,FEET,17,DEGREES C,0,MG/L
+02/14/1980,0,FEET,2,DEGREES C,11.6,MG/L
+02/14/1980,2,FEET,2,DEGREES C,11,MG/L
+02/14/1980,4,FEET,2,DEGREES C,10.8,MG/L
+02/14/1980,6,FEET,2,DEGREES C,9.8,MG/L
+02/14/1980,7,FEET,3,DEGREES C,9.8,MG/L
+02/14/1980,8,FEET,3,DEGREES C,9.7,MG/L
+02/14/1980,12,FEET,3,DEGREES C,9.4,MG/L
+02/14/1980,13,FEET,4,DEGREES C,9.4,MG/L
+02/14/1980,14,FEET,4,DEGREES C,9.3,MG/L
+02/14/1980,16,FEET,4,DEGREES C,9.3,MG/L
+02/14/1980,18,FEET,4,DEGREES C,8.8,MG/L
+02/14/1980,20,FEET,4,DEGREES C,9.3,MG/L
+02/14/1980,22,FEET,4,DEGREES C,9,MG/L
+02/14/1980,24,FEET,4,DEGREES C,8.3,MG/L
+02/14/1980,31,FEET,4,DEGREES C,7.3,MG/L
+06/10/1980,,,21,C,,
+04/21/1986,0,FEET,10,DEGREES C,11,MG/L
+04/21/1986,5,FEET,10,DEGREES C,11,MG/L
+04/21/1986,10,FEET,10,DEGREES C,11,MG/L
+04/21/1986,15,FEET,10,DEGREES C,11,MG/L
+04/21/1986,20,FEET,10,DEGREES C,11.1,MG/L
+04/21/1986,25,FEET,10,DEGREES C,11,MG/L
+04/21/1986,30,FEET,10,DEGREES C,11,MG/L
+04/21/1986,35,FEET,9.2,DEGREES C,9.4,MG/L
+06/24/1986,0,FEET,23.4,DEGREES C,9.2,MG/L
+06/24/1986,5,FEET,23.2,DEGREES C,9.1,MG/L
+06/24/1986,10,FEET,23,DEGREES C,8.9,MG/L
+06/24/1986,15,FEET,22.5,DEGREES C,7.6,MG/L
+06/24/1986,20,FEET,19.3,DEGREES C,.8,MG/L
+06/24/1986,25,FEET,18.8,DEGREES C,.1,MG/L
+06/24/1986,30,FEET,15.5,DEGREES C,.08,MG/L
+06/24/1986,35,FEET,11,DEGREES C,.01,MG/L
+07/10/1986,0,FEET,24.5,DEGREES C,8,MG/L
+07/10/1986,5,FEET,24.5,DEGREES C,7.8,MG/L
+07/10/1986,10,FEET,24.5,DEGREES C,7.8,MG/L
+07/10/1986,15,FEET,24.1,DEGREES C,5.2,MG/L
+07/10/1986,20,FEET,21.5,DEGREES C,.5,MG/L
+07/10/1986,25,FEET,16.5,DEGREES C,.4,MG/L
+07/10/1986,28,FEET,16.8,DEGREES C,.3,MG/L
+08/13/1986,0,FEET,22.9,DEGREES C,7.9,MG/L
+08/13/1986,5,FEET,23,DEGREES C,7.9,MG/L
+08/13/1986,10,FEET,23,DEGREES C,8,MG/L
+08/13/1986,15,FEET,23,DEGREES C,7.7,MG/L
+08/13/1986,20,FEET,23,DEGREES C,7.8,MG/L
+08/13/1986,25,FEET,23,DEGREES C,7.5,MG/L
+08/13/1986,30,FEET,23,DEGREES C,7.3,MG/L
+08/13/1986,35,FEET,20,DEGREES C,.2,MG/L
+02/25/1987,1,FEET,4,DEGREES C,11,MG/L
+02/25/1987,5,FEET,4.5,DEGREES C,11.7,MG/L
+02/25/1987,10,FEET,5,DEGREES C,10,MG/L
+02/25/1987,15,FEET,5,DEGREES C,9,MG/L
+02/25/1987,20,FEET,4.8,DEGREES C,7.5,MG/L
+02/25/1987,25,FEET,4.5,DEGREES C,6.6,MG/L
+02/25/1987,30,FEET,4.2,DEGREES C,5.5,MG/L
+02/25/1987,35,FEET,4.5,DEGREES C,2.5,MG/L
+04/07/1987,0,FEET,23.1,DEGREES C,7.2,MG/L
+04/07/1987,5,FEET,23.1,DEGREES C,7.2,MG/L
+04/07/1987,10,FEET,22.4,DEGREES C,7,MG/L
+04/07/1987,15,FEET,20.1,DEGREES C,3.3,MG/L
+04/07/1987,20,FEET,16.3,DEGREES C,1.1,MG/L
+04/07/1987,25,FEET,12.5,DEGREES C,.1,MG/L
+04/07/1987,30,FEET,10.6,DEGREES C,.1,MG/L
+04/07/1987,35,FEET,9.3,DEGREES C,.15,MG/L
+04/07/1987,39,FEET,9.3,DEGREES C,.15,MG/L
+07/22/1987,0,FEET,28,DEGREES C,9,MG/L
+07/22/1987,5,FEET,27.6,DEGREES C,9.1,MG/L
+07/22/1987,10,FEET,26.9,DEGREES C,8.4,MG/L
+07/22/1987,15,FEET,26,DEGREES C,5.3,MG/L
+07/22/1987,20,FEET,20.5,DEGREES C,.1,MG/L
+07/22/1987,25,FEET,13.9,DEGREES C,.1,MG/L
+07/22/1987,30,FEET,11,DEGREES C,.1,MG/L
+07/22/1987,35,FEET,9.9,DEGREES C,.1,MG/L
+08/19/1987,1,FEET,25,DEGREES C,8.7,MG/L
+08/19/1987,5,FEET,24.8,DEGREES C,8.5,MG/L
+08/19/1987,10,FEET,24.5,DEGREES C,7.8,MG/L
+08/19/1987,15,FEET,24.5,DEGREES C,8.2,MG/L
+08/19/1987,20,FEET,22,DEGREES C,.2,MG/L
+08/19/1987,25,FEET,15,DEGREES C,.1,MG/L
+08/19/1987,30,FEET,11.5,DEGREES C,.1,MG/L
+08/19/1987,35,FEET,9.8,DEGREES C,.1,MG/L
+08/19/1987,38,FEET,9.5,DEGREES C,.1,MG/L
+02/17/1988,0,FEET,.8,DEGREES C,14.2,MG/L
+02/17/1988,5,FEET,2.9,DEGREES C,12.7,MG/L
+02/17/1988,10,FEET,4,DEGREES C,10.5,MG/L
+02/17/1988,15,FEET,4,DEGREES C,10,MG/L
+02/17/1988,20,FEET,4,DEGREES C,9.9,MG/L
+02/17/1988,25,FEET,4,DEGREES C,9.6,MG/L
+02/17/1988,30,FEET,4,DEGREES C,8.9,MG/L
+02/17/1988,35,FEET,4,DEGREES C,3.4,MG/L
+04/14/1988,0,FEET,10.9,DEGREES C,12.6,MG/L
+04/14/1988,5,FEET,11,DEGREES C,12.5,MG/L
+04/14/1988,10,FEET,11,DEGREES C,12.3,MG/L
+04/14/1988,15,FEET,11,DEGREES C,12.2,MG/L
+04/14/1988,20,FEET,11,DEGREES C,10.8,MG/L
+04/14/1988,25,FEET,10.6,DEGREES C,10.7,MG/L
+04/14/1988,30,FEET,10.6,DEGREES C,10.3,MG/L
+06/08/1988,0,FEET,24,DEGREES C,8.8,MG/L
+06/08/1988,5,FEET,24,DEGREES C,8.8,MG/L
+06/08/1988,10,FEET,24,DEGREES C,8.8,MG/L
+06/08/1988,15,FEET,21,DEGREES C,4.8,MG/L
+06/08/1988,20,FEET,15.2,DEGREES C,4.2,MG/L
+06/08/1988,25,FEET,10.9,DEGREES C,.2,MG/L
+06/08/1988,30,FEET,9.5,DEGREES C,.1,MG/L
+06/08/1988,35,FEET,9.1,DEGREES C,.1,MG/L
+07/18/1988,0,FEET,26.4,DEGREES C,7.9,MG/L
+07/18/1988,5,FEET,26.4,DEGREES C,7.9,MG/L
+07/18/1988,10,FEET,26.1,DEGREES C,7.3,MG/L
+07/18/1988,15,FEET,24.1,DEGREES C,1.6,MG/L
+07/18/1988,20,FEET,18.6,DEGREES C,.6,MG/L
+07/18/1988,25,FEET,12.8,DEGREES C,.6,MG/L
+07/18/1988,30,FEET,10,DEGREES C,.8,MG/L
+07/18/1988,35,FEET,9.1,DEGREES C,.8,MG/L
+07/18/1988,,,12.8,C,.6,MG/L
+08/23/1988,0,FEET,25.5,DEGREES C,8.2,MG/L
+08/23/1988,5,FEET,25.5,DEGREES C,7.8,MG/L
+08/23/1988,10,FEET,25,DEGREES C,7.2,MG/L
+08/23/1988,15,FEET,24.5,DEGREES C,7.2,MG/L
+08/23/1988,20,FEET,19.5,DEGREES C,.2,MG/L
+08/23/1988,25,FEET,14,DEGREES C,.1,MG/L
+08/23/1988,30,FEET,11,DEGREES C,.1,MG/L
+08/23/1988,35,FEET,10,DEGREES C,.1,MG/L
+08/23/1988,,,10.0,C,0.1,MG/L
+02/21/1989,0,FEET,2,DEGREES C,14.3,MG/L
+02/21/1989,5,FEET,4,DEGREES C,12.6,MG/L
+02/21/1989,10,FEET,4.2,DEGREES C,11.7,MG/L
+02/21/1989,15,FEET,4.5,DEGREES C,10.3,MG/L
+02/21/1989,20,FEET,4.4,DEGREES C,9.6,MG/L
+02/21/1989,25,FEET,4.5,DEGREES C,9.1,MG/L
+02/21/1989,30,FEET,4.4,DEGREES C,6.2,MG/L
+02/21/1989,33,FEET,4.4,DEGREES C,.3,MG/L
+02/21/1989,,,2.0,C,10.3,MG/L
+04/27/1989,0,FEET,14,DEGREES C,10.3,MG/L
+04/27/1989,5,FEET,13.9,DEGREES C,10.3,MG/L
+04/27/1989,10,FEET,13.9,DEGREES C,10.3,MG/L
+04/27/1989,15,FEET,12,DEGREES C,10.4,MG/L
+04/27/1989,20,FEET,11,DEGREES C,9.7,MG/L
+04/27/1989,25,FEET,10,DEGREES C,9.1,MG/L
+04/27/1989,30,FEET,9.7,DEGREES C,8.5,MG/L
+04/27/1989,35,FEET,9.1,DEGREES C,6.2,MG/L
+04/27/1989,38,FEET,9,DEGREES C,4.7,MG/L
+04/27/1989,,,14.0,C,10.3,MG/L
+06/28/1989,0,FEET,25.6,DEGREES C,10.5,MG/L
+06/28/1989,5,FEET,25.6,DEGREES C,10.7,MG/L
+06/28/1989,10,FEET,21.9,DEGREES C,10.3,MG/L
+06/28/1989,15,FEET,18.7,DEGREES C,4.3,MG/L
+06/28/1989,20,FEET,16.8,DEGREES C,1.8,MG/L
+06/28/1989,25,FEET,12.9,DEGREES C,.3,MG/L
+06/28/1989,30,FEET,10.9,DEGREES C,.2,MG/L
+06/28/1989,35,FEET,10,DEGREES C,.2,MG/L
+06/28/1989,,,10.0,C,0.2,MG/L
+07/26/1989,0,FEET,25,DEGREES C,12.1,MG/L
+07/26/1989,5,FEET,24.9,DEGREES C,12.9,MG/L
+07/26/1989,10,FEET,21.6,DEGREES C,9.5,MG/L
+07/26/1989,15,FEET,20.6,DEGREES C,.8,MG/L
+07/26/1989,20,FEET,16.5,DEGREES C,.2,MG/L
+07/26/1989,25,FEET,13.8,DEGREES C,.2,MG/L
+07/26/1989,30,FEET,10.9,DEGREES C,.2,MG/L
+07/26/1989,35,FEET,10.2,DEGREES C,.2,MG/L
+07/26/1989,,,10.2,C,0.2,MG/L
+08/22/1989,0,FEET,24.25,DEGREES C,8.5,MG/L
+08/22/1989,5,FEET,24,DEGREES C,8.2,MG/L
+08/22/1989,10,FEET,23,DEGREES C,5.3,MG/L
+08/22/1989,15,FEET,22.5,DEGREES C,2.7,MG/L
+08/22/1989,20,FEET,17,DEGREES C,.2,MG/L
+08/22/1989,25,FEET,14,DEGREES C,.2,MG/L
+08/22/1989,30,FEET,12,DEGREES C,.1,MG/L
+08/22/1989,35,FEET,11,DEGREES C,.1,MG/L
+08/22/1989,,,10.5,C,0.1,MG/L
+02/26/1990,1,FEET,4,DEGREES C,16,MG/L
+02/26/1990,5,FEET,4.5,DEGREES C,15.4,MG/L
+02/26/1990,10,FEET,4.5,DEGREES C,10.4,MG/L
+02/26/1990,15,FEET,4.5,DEGREES C,6.9,MG/L
+02/26/1990,20,FEET,4.5,DEGREES C,5.8,MG/L
+02/26/1990,25,FEET,5,DEGREES C,3.2,MG/L
+02/26/1990,,,4.0,C,16.6,MG/L
+04/10/1990,0,FEET,6.5,DEGREES C,12,MG/L
+04/10/1990,5,FEET,6.5,DEGREES C,12.2,MG/L
+04/10/1990,10,FEET,6.5,DEGREES C,12.2,MG/L
+04/10/1990,15,FEET,6.5,DEGREES C,12.2,MG/L
+04/10/1990,20,FEET,6.5,DEGREES C,12.1,MG/L
+04/10/1990,25,FEET,6.5,DEGREES C,12,MG/L
+04/10/1990,30,FEET,6.5,DEGREES C,12,MG/L
+04/10/1990,35,FEET,6.5,DEGREES C,12,MG/L
+04/10/1990,,,6.5,C,12.0,MG/L
+06/25/1990,0,FEET,22,DEGREES C,11.6,MG/L
+06/25/1990,5,FEET,22,DEGREES C,11.8,MG/L
+06/25/1990,10,FEET,20,DEGREES C,7.3,MG/L
+06/25/1990,15,FEET,19.5,DEGREES C,7.2,MG/L
+06/25/1990,20,FEET,17,DEGREES C,4.2,MG/L
+06/25/1990,25,FEET,14,DEGREES C,1,MG/L
+06/25/1990,,,14.0,C,1.0,MG/L
+07/23/1990,0,FEET,24,DEGREES C,11.6,MG/L
+07/23/1990,5,FEET,23,DEGREES C,8.6,MG/L
+07/23/1990,10,FEET,21,DEGREES C,2.1,MG/L
+07/23/1990,15,FEET,20,DEGREES C,1.4,MG/L
+07/23/1990,20,FEET,18,DEGREES C,.6,MG/L
+07/23/1990,25,FEET,14,DEGREES C,.5,MG/L
+07/23/1990,30,FEET,11,DEGREES C,.4,MG/L
+07/23/1990,35,FEET,10,DEGREES C,.3,MG/L
+07/23/1990,,,10,C,0.3,MG/L
+08/23/1990,0,FEET,23.7,DEGREES C,7.8,MG/L
+08/23/1990,5,FEET,22.5,DEGREES C,7.8,MG/L
+08/23/1990,10,FEET,22,DEGREES C,4.3,MG/L
+08/23/1990,15,FEET,22,DEGREES C,2.2,MG/L
+08/23/1990,20,FEET,18,DEGREES C,.3,MG/L
+08/23/1990,25,FEET,15,DEGREES C,.2,MG/L
+08/23/1990,,,15,C,0.2,MG/L
+03/04/1991,0,FEET,1,DEGREES C,11.8,MG/L
+03/04/1991,5,FEET,4,DEGREES C,19.6,MG/L
+03/04/1991,10,FEET,4.5,DEGREES C,12.1,MG/L
+03/04/1991,15,FEET,3.6,DEGREES C,4.4,MG/L
+03/04/1991,20,FEET,3,DEGREES C,2.4,MG/L
+03/04/1991,25,FEET,3,DEGREES C,2,MG/L
+03/04/1991,30,FEET,3,DEGREES C,1.5,MG/L
+03/04/1991,35,FEET,3.3,DEGREES C,1,MG/L
+03/04/1991,40,FEET,3.8,DEGREES C,.5,MG/L
+03/04/1991,,,1.0,C,0.5,MG/L
+04/25/1991,0,FEET,11.5,DEGREES C,10.8,MG/L
+04/25/1991,5,FEET,11.5,DEGREES C,10.8,MG/L
+04/25/1991,10,FEET,11.5,DEGREES C,10.8,MG/L
+04/25/1991,15,FEET,10.5,DEGREES C,10,MG/L
+04/25/1991,20,FEET,10,DEGREES C,9.2,MG/L
+04/25/1991,25,FEET,9.5,DEGREES C,8.8,MG/L
+04/25/1991,30,FEET,9.5,DEGREES C,7.4,MG/L
+04/25/1991,,,11.5,C,10.8,MG/L
+06/18/1991,0,FEET,26,DEGREES C,8,MG/L
+06/18/1991,5,FEET,25,DEGREES C,8.5,MG/L
+06/18/1991,10,FEET,24,DEGREES C,6.2,MG/L
+06/18/1991,15,FEET,18,DEGREES C,3.7,MG/L
+06/18/1991,20,FEET,14,DEGREES C,1.4,MG/L
+06/18/1991,25,FEET,11.5,DEGREES C,.6,MG/L
+06/18/1991,30,FEET,10.5,DEGREES C,.6,MG/L
+06/18/1991,35,FEET,10,DEGREES C,.6,MG/L
+06/18/1991,,,10.0,C,0.6,MG/L
+07/22/1991,0,FEET,26,DEGREES C,8.7,MG/L
+07/22/1991,5,FEET,26,DEGREES C,8.6,MG/L
+07/22/1991,10,FEET,25,DEGREES C,5.6,MG/L
+07/22/1991,15,FEET,22.2,DEGREES C,1,MG/L
+07/22/1991,20,FEET,16,DEGREES C,.7,MG/L
+07/22/1991,25,FEET,12.5,DEGREES C,.85,MG/L
+07/22/1991,30,FEET,10.5,DEGREES C,.85,MG/L
+07/22/1991,35,FEET,10,DEGREES C,.85,MG/L
+07/22/1991,,,10,C,0.7,MG/L
+08/21/1991,0,FEET,20.5,DEGREES C,6.7,MG/L
+08/21/1991,5,FEET,20.5,DEGREES C,6.5,MG/L
+08/21/1991,10,FEET,20.1,DEGREES C,3.9,MG/L
+08/21/1991,15,FEET,20,DEGREES C,2.75,MG/L
+08/21/1991,20,FEET,16,DEGREES C,.25,MG/L
+08/21/1991,25,FEET,12.2,DEGREES C,.2,MG/L
+08/21/1991,30,FEET,10.2,DEGREES C,.25,MG/L
+08/21/1991,35,FEET,9.8,DEGREES C,.25,MG/L
+04/16/1992,0,FEET,4,DEGREES C,12.6,MG/L
+04/16/1992,5,FEET,4,DEGREES C,12.6,MG/L
+04/16/1992,10,FEET,4,DEGREES C,12.4,MG/L
+04/16/1992,15,FEET,4,DEGREES C,12.4,MG/L
+04/16/1992,20,FEET,3.8,DEGREES C,12.2,MG/L
+04/16/1992,25,FEET,3.5,DEGREES C,12.1,MG/L
+04/16/1992,30,FEET,3.4,DEGREES C,11.8,MG/L
+04/16/1992,35,FEET,3.4,DEGREES C,11.8,MG/L
+04/16/1992,,,3.4,C,11.8,MG/L
+06/18/1992,0,FEET,18,DEGREES C,11.6,MG/L
+06/18/1992,5,FEET,18,DEGREES C,11.2,MG/L
+06/18/1992,10,FEET,18,DEGREES C,10.9,MG/L
+06/18/1992,15,FEET,16,DEGREES C,8,MG/L
+06/18/1992,20,FEET,11,DEGREES C,3.8,MG/L
+06/18/1992,25,FEET,7,DEGREES C,3.7,MG/L
+06/18/1992,30,FEET,5.5,DEGREES C,3.8,MG/L
+06/18/1992,35,FEET,5,DEGREES C,3.8,MG/L
+06/18/1992,,,14,C,11.6,MG/L
+07/15/1992,0,FEET,18,DEGREES C,8.8,MG/L
+07/15/1992,5,FEET,17.4,DEGREES C,8.9,MG/L
+07/15/1992,10,FEET,17.2,DEGREES C,7.9,MG/L
+07/15/1992,15,FEET,16.9,DEGREES C,6.6,MG/L
+07/15/1992,20,FEET,11.7,DEGREES C,1.4,MG/L
+07/15/1992,25,FEET,7.5,DEGREES C,1.4,MG/L
+09/01/1992,0,FEET,22.1,DEGREES C,10.1,MG/L
+09/01/1992,5,FEET,20.6,DEGREES C,10.1,MG/L
+09/01/1992,10,FEET,20,DEGREES C,8.4,MG/L
+09/01/1992,15,FEET,19.9,DEGREES C,7.4,MG/L
+09/01/1992,20,FEET,19.1,DEGREES C,3.1,MG/L
+09/01/1992,25,FEET,13.7,DEGREES C,.4,MG/L
+09/01/1992,30,FEET,12.2,DEGREES C,.2,MG/L
+09/01/1992,,,12.2,C,0.2,MG/L
+04/20/1993,1,FEET,43,DEGREES F,,
+04/20/1993,5,FEET,43,DEGREES F,,
+04/20/1993,10,FEET,45,DEGREES F,,
+04/20/1993,15,FEET,45,DEGREES F,,
+05/10/1993,0,FEET,19.4,DEGREES C,9.1,MG/L
+05/10/1993,5,FEET,18.9,DEGREES C,9.2,MG/L
+05/10/1993,10,FEET,18.5,DEGREES C,8.4,MG/L
+05/10/1993,15,FEET,15.5,DEGREES C,7,MG/L
+05/10/1993,20,FEET,12,DEGREES C,5.8,MG/L
+05/10/1993,25,FEET,10.2,DEGREES C,4.1,MG/L
+05/10/1993,30,FEET,9.2,DEGREES C,3.3,MG/L
+05/10/1993,,,15.5,C,3.3,MG/L
+06/14/1993,0,FEET,22.5,DEGREES C,11,MG/L
+06/14/1993,5,FEET,21.5,DEGREES C,11.7,MG/L
+06/14/1993,10,FEET,19,DEGREES C,11,MG/L
+06/14/1993,15,FEET,18.1,DEGREES C,10,MG/L
+06/14/1993,20,FEET,17,DEGREES C,7.6,MG/L
+06/14/1993,25,FEET,12.9,DEGREES C,0,MG/L
+06/14/1993,30,FEET,11,DEGREES C,0,MG/L
+06/14/1993,35,FEET,8.3,DEGREES C,0,MG/L
+06/14/1993,,,12.9,C,0.0,MG/L
+06/16/1993,1,FEET,71,DEGREES F,,
+06/16/1993,5,FEET,70,DEGREES F,,
+06/16/1993,10,FEET,70,DEGREES F,,
+06/16/1993,15,FEET,68,DEGREES F,,
+06/16/1993,20,FEET,63,DEGREES F,,
+06/16/1993,25,FEET,59,DEGREES F,,
+06/16/1993,30,FEET,54,DEGREES F,,
+07/14/1993,1,FEET,77,DEGREES F,,
+07/14/1993,5,FEET,77,DEGREES F,,
+07/14/1993,10,FEET,76,DEGREES F,,
+07/14/1993,15,FEET,75,DEGREES F,,
+07/14/1993,20,FEET,72,DEGREES F,,
+07/14/1993,25,FEET,61,DEGREES F,,
+07/14/1993,30,FEET,56,DEGREES F,,
+07/14/1993,35,FEET,52,DEGREES F,,
+07/14/1993,,,18.8,C,0.2,MG/L
+07/15/1993,0,FEET,24,DEGREES C,9.4,MG/L
+07/15/1993,5,FEET,23.9,DEGREES C,9.4,MG/L
+07/15/1993,10,FEET,23.7,DEGREES C,9.2,MG/L
+07/15/1993,15,FEET,7.1,DEGREES C,23.1,MG/L
+07/15/1993,20,FEET,18.8,DEGREES C,.3,MG/L
+07/15/1993,25,FEET,14,DEGREES C,.2,MG/L
+07/15/1993,30,FEET,9,DEGREES C,.2,MG/L
+08/10/1993,1,FEET,78,DEGREES F,,
+08/10/1993,5,FEET,77,DEGREES F,,
+08/10/1993,10,FEET,76,DEGREES F,,
+08/10/1993,15,FEET,74,DEGREES F,,
+08/10/1993,20,FEET,70,DEGREES F,,
+08/10/1993,25,FEET,65,DEGREES F,,
+08/10/1993,30,FEET,56,DEGREES F,,
+08/10/1993,35,FEET,52,DEGREES F,,
+08/24/1993,0,FEET,25.5,DEGREES C,8.1,MG/L
+08/24/1993,5,FEET,25.5,DEGREES C,8,MG/L
+08/24/1993,10,FEET,24.9,DEGREES C,6.6,MG/L
+08/24/1993,15,FEET,24.4,DEGREES C,4.4,MG/L
+08/24/1993,20,FEET,21.5,DEGREES C,0,MG/L
+08/24/1993,25,FEET,17.5,DEGREES C,0,MG/L
+08/24/1993,30,FEET,13.1,DEGREES C,0,MG/L
+08/24/1993,35,FEET,11.6,DEGREES C,0,MG/L
+08/24/1993,,,11.6,C,0.0,MG/L
+09/18/1993,1,FEET,63,DEGREES F,,
+09/18/1993,5,FEET,64,DEGREES F,,
+09/18/1993,10,FEET,64,DEGREES F,,
+09/18/1993,15,FEET,64,DEGREES F,,
+09/18/1993,20,FEET,63,DEGREES F,,
+09/18/1993,25,FEET,63,DEGREES F,,
+09/18/1993,30,FEET,58,DEGREES F,,
+09/18/1993,35,FEET,54,DEGREES F,,
+10/14/1993,1,FEET,52,DEGREES F,,
+10/14/1993,5,FEET,53,DEGREES F,,
+10/14/1993,10,FEET,53,DEGREES F,,
+10/14/1993,15,FEET,54,DEGREES F,,
+10/14/1993,20,FEET,54,DEGREES F,,
+10/14/1993,25,FEET,53,DEGREES F,,
+10/14/1993,30,FEET,54,DEGREES F,,
+10/14/1993,35,FEET,53,DEGREES F,,
+02/22/1994,0,FEET,.3,DEGREES C,11.5,MG/L
+02/22/1994,5,FEET,3.2,DEGREES C,8.8,MG/L
+02/22/1994,10,FEET,3.2,DEGREES C,5.6,MG/L
+02/22/1994,15,FEET,3.1,DEGREES C,4,MG/L
+02/22/1994,20,FEET,3.1,DEGREES C,3.6,MG/L
+02/22/1994,25,FEET,3.1,DEGREES C,3.2,MG/L
+02/22/1994,30,FEET,3.1,DEGREES C,2.6,MG/L
+02/22/1994,35,FEET,3.2,DEGREES C,2.1,MG/L
+02/22/1994,40,FEET,3.4,DEGREES C,1.1,MG/L
+02/22/1994,,,3.1,C,1.1,MG/L
+04/21/1994,0,FEET,12.2,DEGREES C,10.6,MG/L
+04/21/1994,5,FEET,12.2,DEGREES C,10.5,MG/L
+04/21/1994,10,FEET,12.2,DEGREES C,10.4,MG/L
+04/21/1994,15,FEET,12.1,DEGREES C,10.4,MG/L
+04/21/1994,20,FEET,12.1,DEGREES C,10.3,MG/L
+04/21/1994,25,FEET,11.1,DEGREES C,9.9,MG/L
+04/21/1994,30,FEET,10.1,DEGREES C,8.8,MG/L
+04/21/1994,35,FEET,9.4,DEGREES C,6.7,MG/L
+05/23/1994,3,FEET,71,DEGREES F,,
+05/23/1994,5,FEET,70,DEGREES F,,
+05/23/1994,10,FEET,65,DEGREES F,,
+05/23/1994,15,FEET,64,DEGREES F,,
+05/23/1994,20,FEET,62,DEGREES F,,
+05/23/1994,25,FEET,59,DEGREES F,,
+05/23/1994,30,FEET,55,DEGREES F,,
+06/15/1994,3,FEET,78,DEGREES F,,
+06/15/1994,5,FEET,77,DEGREES F,,
+06/15/1994,10,FEET,77,DEGREES F,,
+06/15/1994,15,FEET,74,DEGREES F,,
+06/15/1994,20,FEET,68,DEGREES F,,
+06/15/1994,25,FEET,60,DEGREES F,,
+06/15/1994,29,FEET,58,DEGREES F,,
+06/30/1994,0,FEET,26.6,DEGREES C,8.5,MG/L
+06/30/1994,5,FEET,24.5,DEGREES C,8.7,MG/L
+06/30/1994,10,FEET,23.9,DEGREES C,7.9,MG/L
+06/30/1994,15,FEET,23.8,DEGREES C,7.7,MG/L
+06/30/1994,20,FEET,20.8,DEGREES C,.1,MG/L
+06/30/1994,25,FEET,13.6,DEGREES C,0,MG/L
+06/30/1994,30,FEET,11.3,DEGREES C,0,MG/L
+06/30/1994,35,FEET,10.3,DEGREES C,0,MG/L
+06/30/1994,37,FEET,10.1,DEGREES C,0,MG/L
+06/30/1994,,,10.1,C,0.0,MG/L
+07/13/1994,3,FEET,78,DEGREES F,,
+07/13/1994,5,FEET,75,DEGREES F,,
+07/13/1994,10,FEET,75,DEGREES F,,
+07/13/1994,15,FEET,75,DEGREES F,,
+07/13/1994,20,FEET,72,DEGREES F,,
+07/13/1994,25,FEET,62,DEGREES F,,
+07/13/1994,30,FEET,58,DEGREES F,,
+07/13/1994,35,FEET,54,DEGREES F,,
+08/01/1994,0,FEET,25.4,DEGREES C,8.49,MG/L
+08/01/1994,5,FEET,25.1,DEGREES C,8.51,MG/L
+08/01/1994,10,FEET,24.6,DEGREES C,7.79,MG/L
+08/01/1994,15,FEET,24.3,DEGREES C,6.7,MG/L
+08/01/1994,20,FEET,23.4,DEGREES C,1.76,MG/L
+08/01/1994,25,FEET,16.8,DEGREES C,.13,MG/L
+08/01/1994,30,FEET,12.2,DEGREES C,.11,MG/L
+08/01/1994,,,12.2,C,0.11,MG/L
+08/15/1994,3,FEET,73,DEGREES F,,
+08/15/1994,5,FEET,71,DEGREES F,,
+08/15/1994,10,FEET,70,DEGREES F,,
+08/15/1994,15,FEET,70,DEGREES F,,
+08/15/1994,20,FEET,69,DEGREES F,,
+08/15/1994,25,FEET,68,DEGREES F,,
+08/15/1994,28,FEET,65,DEGREES F,,
+09/06/1994,0,FEET,19.8,DEGREES C,8.3,MG/L
+09/06/1994,5,FEET,19.7,DEGREES C,7.2,MG/L
+09/06/1994,10,FEET,19.6,DEGREES C,7.1,MG/L
+09/06/1994,15,FEET,19.6,DEGREES C,6.7,MG/L
+09/06/1994,20,FEET,19.5,DEGREES C,6,MG/L
+09/06/1994,25,FEET,19.8,DEGREES C,.3,MG/L
+09/06/1994,30,FEET,12.6,DEGREES C,.1,MG/L
+09/06/1994,35,FEET,11,DEGREES C,0,MG/L
+09/06/1994,,,11.0,C,0.0,MG/L
+10/17/1994,3,FEET,59,DEGREES F,,
+10/17/1994,5,FEET,59,DEGREES F,,
+10/17/1994,10,FEET,59,DEGREES F,,
+10/17/1994,15,FEET,58,DEGREES F,,
+10/17/1994,20,FEET,58,DEGREES F,,
+10/17/1994,25,FEET,58,DEGREES F,,
+10/17/1994,30,FEET,57,DEGREES F,,
+02/21/1995,0,FEET,3.9,DEGREES C,8.8,MG/L
+02/21/1995,5,FEET,4,DEGREES C,8.7,MG/L
+02/21/1995,10,FEET,4,DEGREES C,8.5,MG/L
+02/21/1995,15,FEET,4,DEGREES C,7.8,MG/L
+02/21/1995,20,FEET,4.1,DEGREES C,7.6,MG/L
+02/21/1995,25,FEET,4.7,DEGREES C,7.3,MG/L
+02/21/1995,30,FEET,4.2,DEGREES C,6.1,MG/L
+02/21/1995,,,3.9,C,6.1,MG/L
+04/20/1995,0,FEET,8.6,DEGREES C,11.3,MG/L
+04/20/1995,5,FEET,8.6,DEGREES C,11.3,MG/L
+04/20/1995,10,FEET,8.6,DEGREES C,11.3,MG/L
+04/20/1995,15,FEET,8.6,DEGREES C,11.3,MG/L
+04/20/1995,20,FEET,8.5,DEGREES C,11.3,MG/L
+04/20/1995,25,FEET,8.5,DEGREES C,11.2,MG/L
+04/20/1995,30,FEET,8.4,DEGREES C,11.2,MG/L
+04/20/1995,35,FEET,8.4,DEGREES C,11.2,MG/L
+04/20/1995,,,8.4,C,11.2,MG/L
+06/20/1995,0,FEET,27.1,DEGREES C,11.1,MG/L
+06/20/1995,3,FEET,81,DEGREES F,,
+06/20/1995,5,FEET,27,DEGREES C,11,MG/L
+06/20/1995,10,FEET,23.6,DEGREES C,8.4,MG/L
+06/20/1995,15,FEET,20.6,DEGREES C,7.2,MG/L
+06/20/1995,20,FEET,17.6,DEGREES C,2.2,MG/L
+06/20/1995,25,FEET,14.6,DEGREES C,.05,MG/L
+06/20/1995,30,FEET,12.9,DEGREES C,.03,MG/L
+06/20/1995,35,FEET,52,DEGREES F,,
+06/20/1995,38,FEET,51,DEGREES F,,
+06/20/1995,,,12.93,C,0.0,MG/L
+07/19/1995,3,FEET,80,DEGREES F,,
+07/19/1995,5,FEET,79,DEGREES F,,
+07/19/1995,10,FEET,79,DEGREES F,,
+07/19/1995,15,FEET,74,DEGREES F,,
+07/19/1995,20,FEET,68,DEGREES F,,
+07/19/1995,25,FEET,64,DEGREES F,,
+07/19/1995,30,FEET,56,DEGREES F,,
+07/19/1995,35,FEET,52,DEGREES F,,
+07/24/1995,0,FEET,27.1,DEGREES C,10.4,MG/L
+07/24/1995,5,FEET,26.8,DEGREES C,10.5,MG/L
+07/24/1995,10,FEET,25.6,DEGREES C,6.3,MG/L
+07/24/1995,15,FEET,23.2,DEGREES C,0,MG/L
+07/24/1995,20,FEET,18.1,DEGREES C,0,MG/L
+07/24/1995,25,FEET,14.9,DEGREES C,0,MG/L
+07/24/1995,30,FEET,11.9,DEGREES C,0,MG/L
+07/24/1995,35,FEET,10.9,DEGREES C,0,MG/L
+07/24/1995,,,10.9,C,0.0,MG/L
+09/19/1995,0,FEET,19.7,DEGREES C,8.6,MG/L
+09/19/1995,5,FEET,19.7,DEGREES C,8.6,MG/L
+09/19/1995,10,FEET,19.7,DEGREES C,8.6,MG/L
+09/19/1995,15,FEET,19.7,DEGREES C,8.5,MG/L
+09/19/1995,20,FEET,19.6,DEGREES C,8.3,MG/L
+09/19/1995,25,FEET,19.6,DEGREES C,8.2,MG/L
+09/19/1995,30,FEET,17.1,DEGREES C,.02,MG/L
+09/19/1995,35,FEET,13.2,DEGREES C,0,MG/L
+09/19/1995,40,FEET,11.7,DEGREES C,0,MG/L
+09/19/1995,45,FEET,10.8,DEGREES C,0,MG/L
+09/19/1995,,,12.2,C,0.0,MG/L
+02/22/1996,1,FEET,3.86,DEGREES C,8.8,MG/L
+02/22/1996,5,FEET,4.6,DEGREES C,9,MG/L
+02/22/1996,10,FEET,5,DEGREES C,8,MG/L
+02/22/1996,15,FEET,4.5,DEGREES C,5.2,MG/L
+02/22/1996,20,FEET,4.2,DEGREES C,3.6,MG/L
+02/22/1996,25,FEET,4.2,DEGREES C,3.2,MG/L
+02/22/1996,30,FEET,4.2,DEGREES C,3,MG/L
+02/22/1996,35,FEET,4.1,DEGREES C,2.2,MG/L
+02/22/1996,,,3.9,C,2.2,MG/L
+04/16/1996,1,FEET,7.4,DEGREES C,11.1,MG/L
+04/16/1996,5,FEET,7.4,DEGREES C,10.9,MG/L
+04/16/1996,10,FEET,7.4,DEGREES C,10.9,MG/L
+04/16/1996,15,FEET,74,DEGREES C,10.8,MG/L
+04/16/1996,20,FEET,7.4,DEGREES C,10.8,MG/L
+04/16/1996,25,FEET,7.4,DEGREES C,10.8,MG/L
+04/16/1996,30,FEET,7.4,DEGREES C,10.7,MG/L
+04/16/1996,,,7.4,C,10.7,MG/L
+06/17/1996,3,FEET,72,DEGREES F,,
+06/17/1996,5,FEET,72,DEGREES F,,
+06/17/1996,10,FEET,70,DEGREES F,,
+06/17/1996,15,FEET,66,DEGREES F,,
+06/17/1996,20,FEET,64,DEGREES F,,
+06/17/1996,25,FEET,59,DEGREES F,,
+06/17/1996,30,FEET,55,DEGREES F,,
+06/17/1996,35,FEET,54,DEGREES F,,
+06/25/1996,1,FEET,73,DEGREES F,,
+06/25/1996,3,FEET,73,DEGREES F,,
+06/25/1996,5,FEET,73,DEGREES F,,
+06/25/1996,7,FEET,73,DEGREES F,,
+06/25/1996,9,FEET,73,DEGREES F,,
+06/26/1996,0,FEET,24.1,DEGREES C,10.6,MG/L
+06/26/1996,5,FEET,24,DEGREES C,10.5,MG/L
+06/26/1996,10,FEET,22.8,DEGREES C,9.2,MG/L
+06/26/1996,15,FEET,19,DEGREES C,6,MG/L
+06/26/1996,20,FEET,15.9,DEGREES C,2.2,MG/L
+06/26/1996,25,FEET,14,DEGREES C,.6,MG/L
+06/26/1996,30,FEET,11.8,DEGREES C,.1,MG/L
+06/26/1996,,,11.8,C,0.1,MG/L
+07/16/1996,3,FEET,77,DEGREES F,,
+07/16/1996,5,FEET,76,DEGREES F,,
+07/16/1996,10,FEET,76,DEGREES F,,
+07/16/1996,15,FEET,75,DEGREES F,,
+07/16/1996,20,FEET,68,DEGREES F,,
+07/16/1996,25,FEET,64,DEGREES F,,
+07/16/1996,30,FEET,63,DEGREES F,,
+07/16/1996,35,FEET,57,DEGREES F,,
+07/16/1996,36,FEET,56,DEGREES F,,
+07/22/1996,,,10.78,C,0.08,MG/L
+08/21/1996,3,FEET,78,DEGREES F,,
+08/21/1996,5,FEET,78,DEGREES F,,
+08/21/1996,10,FEET,77,DEGREES F,,
+08/21/1996,15,FEET,75,DEGREES F,,
+08/21/1996,20,FEET,73,DEGREES F,,
+08/21/1996,25,FEET,64,DEGREES F,,
+08/21/1996,30,FEET,61,DEGREES F,,
+08/21/1996,35,FEET,53,DEGREES F,,
+08/21/1996,36,FEET,53,DEGREES F,,
+08/27/1996,0,FEET,24.6,DEGREES C,8.1,MG/L
+08/27/1996,3,FEET,24.6,DEGREES C,8,MG/L
+08/27/1996,8.5,FEET,24.4,DEGREES C,7.7,MG/L
+08/27/1996,13,FEET,24.2,DEGREES C,7.1,MG/L
+08/27/1996,18,FEET,20.2,DEGREES C,.1,MG/L
+08/27/1996,24,FEET,14.6,DEGREES C,.1,MG/L
+08/27/1996,28,FEET,12,DEGREES C,.1,MG/L
+08/27/1996,33.5,FEET,10.4,DEGREES C,.1,MG/L
+08/27/1996,36,FEET,10.1,DEGREES C,.1,MG/L
+08/27/1996,,,10.1,C,0.1,MG/L
+10/14/1996,3,FEET,58,DEGREES F,,
+10/14/1996,5,FEET,56,DEGREES F,,
+10/14/1996,10,FEET,56,DEGREES F,,
+10/14/1996,15,FEET,55,DEGREES F,,
+10/14/1996,20,FEET,55,DEGREES F,,
+10/14/1996,25,FEET,54,DEGREES F,,
+10/14/1996,30,FEET,54,DEGREES F,,
+10/14/1996,35,FEET,54,DEGREES F,,
+03/05/1997,1,FEET,4.3,DEGREES C,10.3,MG/L
+03/05/1997,5,FEET,4.9,DEGREES C,9.9,MG/L
+03/05/1997,10,FEET,4.9,DEGREES C,6.8,MG/L
+03/05/1997,15,FEET,4.7,DEGREES C,2.5,MG/L
+03/05/1997,20,FEET,4.6,DEGREES C,1.4,MG/L
+03/05/1997,25,FEET,4.6,DEGREES C,.6,MG/L
+03/05/1997,30,FEET,4.6,DEGREES C,.4,MG/L
+03/05/1997,,,4.3,C,0.6,MG/L
+04/30/1997,0,FEET,12.8,DEGREES C,10.7,MG/L
+04/30/1997,5,FEET,12.8,DEGREES C,10.5,MG/L
+04/30/1997,10,FEET,12.8,DEGREES C,10.4,MG/L
+04/30/1997,15,FEET,11.1,DEGREES C,10.2,MG/L
+04/30/1997,20,FEET,9.5,DEGREES C,9.3,MG/L
+04/30/1997,25,FEET,8.1,DEGREES C,8,MG/L
+04/30/1997,,,12.8,C,10.7,MG/L
+06/23/1997,1,FEET,80,DEGREES F,,
+06/23/1997,5,FEET,79,DEGREES F,,
+06/23/1997,10,FEET,76,DEGREES F,,
+06/23/1997,15,FEET,73,DEGREES F,,
+06/23/1997,20,FEET,63,DEGREES F,,
+06/23/1997,25,FEET,61,DEGREES F,,
+06/23/1997,30,FEET,60,DEGREES F,,
+06/23/1997,35,FEET,58,DEGREES F,,
+06/25/1997,0,FEET,25.8,DEGREES C,8.4,MG/L
+06/25/1997,5,FEET,25.5,DEGREES C,8.6,MG/L
+06/25/1997,10,FEET,24.8,DEGREES C,8.1,MG/L
+06/25/1997,15,FEET,21.5,DEGREES C,5.3,MG/L
+06/25/1997,20,FEET,17,DEGREES C,2.8,MG/L
+06/25/1997,25,FEET,14.7,DEGREES C,1.5,MG/L
+06/25/1997,30,FEET,13.5,DEGREES C,.1,MG/L
+06/25/1997,35,FEET,12.3,DEGREES C,.1,MG/L
+06/25/1997,,,12.3,C,0.1,MG/L
+07/24/1997,1,FEET,25.5,DEGREES C,8.5,MG/L
+07/24/1997,5,FEET,25.2,DEGREES C,8.5,MG/L
+07/24/1997,10,FEET,25.1,DEGREES C,8.4,MG/L
+07/24/1997,15,FEET,24.5,DEGREES C,4.9,MG/L
+07/24/1997,20,FEET,19.5,DEGREES C,.2,MG/L
+07/24/1997,25,FEET,15.7,DEGREES C,.1,MG/L
+07/24/1997,30,FEET,13.3,DEGREES C,.1,MG/L
+07/24/1997,35,FEET,12.4,DEGREES C,.1,MG/L
+07/24/1997,,,12.4,C,0.1,MG/L
+07/28/1997,1,FEET,81,DEGREES F,,
+07/28/1997,5,FEET,80,DEGREES F,,
+07/28/1997,10,FEET,80,DEGREES F,,
+07/28/1997,15,FEET,78,DEGREES F,,
+07/28/1997,20,FEET,71,DEGREES F,,
+07/28/1997,25,FEET,66,DEGREES F,,
+07/28/1997,30,FEET,61,DEGREES F,,
+07/28/1997,35,FEET,57,DEGREES F,,
+08/26/1997,1,FEET,76,DEGREES F,,
+08/26/1997,5,FEET,73,DEGREES F,,
+08/26/1997,10,FEET,72,DEGREES F,,
+08/26/1997,15,FEET,71,DEGREES F,,
+08/26/1997,20,FEET,70,DEGREES F,,
+08/26/1997,25,FEET,65,DEGREES F,,
+08/26/1997,30,FEET,60,DEGREES F,,
+08/26/1997,35,FEET,58,DEGREES F,,
+08/28/1997,0,FEET,23.5,DEGREES C,10.4,MG/L
+08/28/1997,5,FEET,23.2,DEGREES C,10.4,MG/L
+08/28/1997,10,FEET,21.7,DEGREES C,8.8,MG/L
+08/28/1997,15,FEET,21.4,DEGREES C,6.5,MG/L
+08/28/1997,20,FEET,20.7,DEGREES C,3.5,MG/L
+08/28/1997,25,FEET,16.3,DEGREES C,.2,MG/L
+08/28/1997,30,FEET,13.98,DEGREES C,.1,MG/L
+08/28/1997,35,FEET,12.2,DEGREES C,.1,MG/L
+08/28/1997,,,12.18,C,0.10,MG/L
+10/20/1997,1,FEET,54,DEGREES F,,
+10/20/1997,5,FEET,54,DEGREES F,,
+10/20/1997,10,FEET,54,DEGREES F,,
+10/20/1997,15,FEET,55,DEGREES F,,
+10/20/1997,20,FEET,55,DEGREES F,,
+10/20/1997,25,FEET,55,DEGREES F,,
+10/20/1997,30,FEET,54,DEGREES F,,
+10/20/1997,35,FEET,54,DEGREES F,,
+03/03/1998,,,4.9,C,11.8,MG/L
+05/05/1998,0,FEET,60,DEGREES F,,
+05/05/1998,1,FEET,60,DEGREES F,,
+05/05/1998,5,FEET,59,DEGREES F,,
+05/05/1998,10,FEET,58,DEGREES F,,
+05/05/1998,15,FEET,56,DEGREES F,,
+05/05/1998,20,FEET,56,DEGREES F,,
+05/05/1998,25,FEET,55,DEGREES F,,
+05/05/1998,30,FEET,55,DEGREES F,,
+06/22/1998,1,FEET,79,DEGREES F,,
+06/22/1998,3,FEET,79,DEGREES F,,
+06/22/1998,5,FEET,79,DEGREES F,,
+06/22/1998,10,FEET,77,DEGREES F,,
+06/22/1998,15,FEET,77,DEGREES F,,
+06/22/1998,20,FEET,68,DEGREES F,,
+06/22/1998,25,FEET,61,DEGREES F,,
+06/22/1998,27,FEET,49,DEGREES F,0,MG/L
+06/22/1998,30,FEET,58,DEGREES F,,
+06/22/1998,79,FEET,79,DEGREES F,,
+06/24/1998,1,FEET,26.8,DEGREES C,9.5,MG/L
+06/24/1998,5,FEET,26.7,DEGREES C,9.6,MG/L
+06/24/1998,10,FEET,25.8,DEGREES C,6.5,MG/L
+06/24/1998,15,FEET,21.4,DEGREES C,4.9,MG/L
+06/24/1998,20,FEET,17.4,DEGREES C,.3,MG/L
+06/24/1998,25,FEET,14.3,DEGREES C,.2,MG/L
+06/24/1998,30,FEET,11.4,DEGREES C,.2,MG/L
+06/24/1998,,,11.4,C,0.2,MG/L
+07/22/1998,1,FEET,27.9,DEGREES C,8.3,MG/L
+07/22/1998,5,FEET,27.9,DEGREES C,8.1,MG/L
+07/22/1998,10,FEET,27.8,DEGREES C,8.1,MG/L
+07/22/1998,15,FEET,27.4,DEGREES C,6.7,MG/L
+07/22/1998,20,FEET,19.9,DEGREES C,.3,MG/L
+07/22/1998,25,FEET,14.5,DEGREES C,.2,MG/L
+07/22/1998,30,FEET,11.9,DEGREES C,.2,MG/L
+07/22/1998,35,FEET,10.8,DEGREES C,.2,MG/L
+07/22/1998,,,10.7,C,0.1,MG/L
+07/28/1998,0,FEET,78,DEGREES F,,
+07/28/1998,5,FEET,78,DEGREES F,,
+07/28/1998,10,FEET,78,DEGREES F,,
+07/28/1998,15,FEET,78,DEGREES F,,
+07/28/1998,20,FEET,74,DEGREES F,,
+07/28/1998,25,FEET,72,DEGREES F,,
+07/28/1998,30,FEET,60,DEGREES F,,
+08/26/1998,0,FEET,78,DEGREES F,,
+08/26/1998,5,FEET,78,DEGREES F,,
+08/26/1998,10,FEET,78,DEGREES F,,
+08/26/1998,15,FEET,77,DEGREES F,,
+08/26/1998,20,FEET,74,DEGREES F,,
+08/26/1998,25,FEET,64,DEGREES F,,
+08/26/1998,30,FEET,60,DEGREES F,,
+08/26/1998,35,FEET,57,DEGREES F,,
+09/01/1998,1,FEET,25.6,DEGREES C,10.1,MG/L
+09/01/1998,5,FEET,25.6,DEGREES C,10,MG/L
+09/01/1998,10,FEET,25.1,DEGREES C,10.8,MG/L
+09/01/1998,15,FEET,24.8,DEGREES C,7.4,MG/L
+09/01/1998,20,FEET,22.8,DEGREES C,.3,MG/L
+09/01/1998,25,FEET,15.7,DEGREES C,.2,MG/L
+09/01/1998,,,11.65,C,0.1,MG/L
+10/14/1998,0,FEET,58,DEGREES F,,
+10/14/1998,5,FEET,58,DEGREES F,,
+10/14/1998,10,FEET,58,DEGREES F,,
+10/14/1998,15,FEET,58,DEGREES F,,
+10/14/1998,20,FEET,58,DEGREES F,,
+10/14/1998,25,FEET,58,DEGREES F,,
+10/14/1998,30,FEET,58,DEGREES F,,
+04/05/1999,,,11.56,C,10.07,MG/L
+05/03/1999,0,FEET,60,DEGREES F,,
+05/03/1999,5,FEET,59,DEGREES F,,
+05/03/1999,10,FEET,57,DEGREES F,,
+05/03/1999,15,FEET,56,DEGREES F,,
+05/03/1999,20,FEET,55,DEGREES F,,
+05/03/1999,25,FEET,54,DEGREES F,,
+05/03/1999,30,FEET,52,DEGREES F,,
+05/03/1999,35,FEET,52,DEGREES F,,
+05/03/1999,38,FEET,51,DEGREES F,,
+06/22/1999,,,10.7,C,0.1,MG/L
+06/30/1999,0,FEET,78,DEGREES F,,
+06/30/1999,5,FEET,77,DEGREES F,,
+06/30/1999,10,FEET,77,DEGREES F,,
+06/30/1999,15,FEET,74,DEGREES F,,
+06/30/1999,20,FEET,71,DEGREES F,,
+06/30/1999,25,FEET,66,DEGREES F,,
+06/30/1999,30,FEET,61,DEGREES F,,
+06/30/1999,35,FEET,58,DEGREES F,,
+07/27/1999,0,FEET,84,DEGREES F,,
+07/27/1999,5,FEET,83,DEGREES F,,
+07/27/1999,10,FEET,81,DEGREES F,,
+07/27/1999,15,FEET,80,DEGREES F,,
+07/27/1999,20,FEET,76,DEGREES F,,
+07/27/1999,25,FEET,66,DEGREES F,,
+07/27/1999,30,FEET,61,DEGREES F,,
+07/27/1999,35,FEET,59,DEGREES F,,
+08/18/1999,3.28,FEET,,,9.6,MG/L
+08/18/1999,,,23.3,C,9.6,MG/L
+08/24/1999,0,FEET,73,DEGREES F,,
+08/24/1999,5,FEET,72,DEGREES F,,
+08/24/1999,10,FEET,72,DEGREES F,,
+08/24/1999,15,FEET,72,DEGREES F,,
+08/24/1999,20,FEET,72,DEGREES F,,
+08/24/1999,25,FEET,71,DEGREES F,,
+08/24/1999,30,FEET,62,DEGREES F,,
+08/24/1999,35,FEET,60,DEGREES F,,
+10/18/1999,0,FEET,54,DEGREES F,,
+10/18/1999,5,FEET,54,DEGREES F,,
+10/18/1999,10,FEET,54,DEGREES F,,
+10/18/1999,15,FEET,55,DEGREES F,,
+10/18/1999,20,FEET,55,DEGREES F,,
+10/18/1999,25,FEET,55,DEGREES F,,
+10/18/1999,30,FEET,55,DEGREES F,,
+10/18/1999,35,FEET,55,DEGREES F,,
+04/12/2000,,,6.8,C,10.9,MG/L
+05/24/2000,0,FEET,65,DEGREES F,,
+05/24/2000,5,FEET,65,DEGREES F,,
+05/24/2000,10,FEET,56,DEGREES F,,
+05/24/2000,15,FEET,56,DEGREES F,,
+05/24/2000,20,FEET,55,DEGREES F,,
+05/24/2000,25,FEET,54,DEGREES F,,
+05/24/2000,30,FEET,52,DEGREES F,,
+05/24/2000,35,FEET,52,DEGREES F,,
+07/05/2000,0,FEET,78,DEGREES F,,
+07/05/2000,5,FEET,77,DEGREES F,,
+07/05/2000,10,FEET,76,DEGREES F,,
+07/05/2000,15,FEET,75,DEGREES F,,
+07/05/2000,20,FEET,70,DEGREES F,,
+07/05/2000,25,FEET,65,DEGREES F,,
+07/05/2000,30,FEET,58,DEGREES F,,
+07/05/2000,35,FEET,52,DEGREES F,,
+07/05/2000,39,FEET,54,DEGREES F,,
+08/02/2000,0,FEET,75,DEGREES F,,
+08/02/2000,5,FEET,76,DEGREES F,,
+08/02/2000,10,FEET,75,DEGREES F,,
+08/02/2000,15,FEET,75,DEGREES F,,
+08/02/2000,20,FEET,73,DEGREES F,,
+08/02/2000,25,FEET,66,DEGREES F,,
+08/02/2000,30,FEET,56,DEGREES F,,
+08/02/2000,35,FEET,53,DEGREES F,,
+09/06/2000,0,FEET,71,DEGREES F,,
+09/06/2000,5,FEET,71,DEGREES F,,
+09/06/2000,10,FEET,72,DEGREES F,,
+09/06/2000,15,FEET,71,DEGREES F,,
+09/06/2000,20,FEET,71,DEGREES F,,
+09/06/2000,25,FEET,68,DEGREES F,,
+09/06/2000,30,FEET,54,DEGREES F,,
+09/06/2000,35,FEET,52,DEGREES F,,
+09/19/2000,1,FEET,20.04,DEGREES C,9.57,MG/L
+09/19/2000,3,FEET,20.03,DEGREES C,9.55,MG/L
+09/19/2000,6,FEET,20.04,DEGREES C,9.54,MG/L
+09/19/2000,9,FEET,20.02,DEGREES C,9.47,MG/L
+09/19/2000,12,FEET,20.01,DEGREES C,9.48,MG/L
+09/19/2000,15,FEET,20,DEGREES C,9.47,MG/L
+09/19/2000,18,FEET,19.99,DEGREES C,9.53,MG/L
+09/19/2000,21,FEET,19.97,DEGREES C,9.57,MG/L
+09/19/2000,24,FEET,18.7,DEGREES C,5.69,MG/L
+09/19/2000,,,20.0,C,9.6,MG/L
+10/17/2000,0,FEET,60,DEGREES F,,
+10/17/2000,5,FEET,57,DEGREES F,,
+10/17/2000,10,FEET,55,DEGREES F,,
+10/17/2000,15,FEET,55,DEGREES F,,
+10/17/2000,20,FEET,55,DEGREES F,,
+10/17/2000,25,FEET,54,DEGREES F,,
+10/17/2000,30,FEET,54,DEGREES F,,
+10/17/2000,35,FEET,53,DEGREES F,,
+03/01/2001,0,FEET,2.9,DEGREES C,11.29,MG/L
+03/01/2001,5,FEET,3.74,DEGREES C,11.01,MG/L
+03/01/2001,10,FEET,3.88,DEGREES C,9.7,MG/L
+03/01/2001,15,FEET,3.93,DEGREES C,2.5,MG/L
+03/01/2001,20,FEET,4.06,DEGREES C,.88,MG/L
+03/01/2001,25,FEET,4.01,DEGREES C,.45,MG/L
+03/01/2001,30,FEET,4.07,DEGREES C,.34,MG/L
+03/01/2001,35,FEET,4.12,DEGREES C,.31,MG/L
+03/01/2001,,,2.96,C,0.29,MG/L
+05/10/2001,1,FEET,17.75,DEGREES C,8.3,MG/L
+05/10/2001,3,FEET,17.79,DEGREES C,8.27,MG/L
+05/10/2001,6,FEET,17.76,DEGREES C,8.27,MG/L
+05/10/2001,9,FEET,17.67,DEGREES C,8.25,MG/L
+05/10/2001,12,FEET,17.64,DEGREES C,8.21,MG/L
+05/10/2001,15,FEET,17.59,DEGREES C,8.21,MG/L
+05/10/2001,18,FEET,17.52,DEGREES C,8.12,MG/L
+05/10/2001,21,FEET,17.07,DEGREES C,7.55,MG/L
+05/10/2001,24,FEET,16.06,DEGREES C,4.6,MG/L
+05/10/2001,27,FEET,13.1,DEGREES C,5.38,MG/L
+05/10/2001,30,FEET,12.64,DEGREES C,1,MG/L
+05/10/2001,33,FEET,12.33,DEGREES C,.58,MG/L
+05/10/2001,,,12.6,C,1.0,MG/L
+06/25/2001,0,FEET,23.79,DEGREES C,9.34,MG/L
+06/25/2001,3,FEET,23.78,DEGREES C,9.26,MG/L
+06/25/2001,5,FEET,23.76,DEGREES C,9.27,MG/L
+06/25/2001,10,FEET,20.63,DEGREES C,6.1,MG/L
+06/25/2001,15,FEET,16.35,DEGREES C,3.6,MG/L
+06/25/2001,20,FEET,15.22,DEGREES C,1.94,MG/L
+06/25/2001,25,FEET,14.56,DEGREES C,.25,MG/L
+06/25/2001,30,FEET,13.1,DEGREES C,.19,MG/L
+06/25/2001,35,FEET,11.39,DEGREES C,.14,MG/L
+06/26/2001,3,FEET,,,9,MG/L
+06/26/2001,6,FEET,,,9,MG/L
+06/26/2001,9,FEET,,,9,MG/L
+06/26/2001,15,FEET,,,7,MG/L
+06/26/2001,20,FEET,,,5,MG/L
+06/26/2001,25,FEET,,,5,MG/L
+06/26/2001,30,FEET,,,3,MG/L
+06/26/2001,,,11.4,C,0.1,MG/L
+08/01/2001,3,FEET,,,5,MG/L
+08/01/2001,6,FEET,,,5,MG/L
+08/01/2001,9,FEET,,,6,MG/L
+08/01/2001,15,FEET,,,4,MG/L
+08/01/2001,20,FEET,,,4,MG/L
+08/01/2001,25,FEET,,,3,MG/L
+08/01/2001,30,FEET,,,2,MG/L
+08/28/2001,3,FEET,,,6,MG/L
+08/28/2001,6,FEET,,,6,MG/L
+08/28/2001,9,FEET,,,6,MG/L
+08/28/2001,15,FEET,,,5,MG/L
+08/28/2001,20,FEET,,,3,MG/L
+08/28/2001,25,FEET,,,2,MG/L
+08/28/2001,30,FEET,,,2,MG/L
+08/28/2001,35,FEET,,,1,MG/L
+10/09/2001,3,FEET,,,6,MG/L
+10/09/2001,6,FEET,,,6,MG/L
+10/09/2001,9,FEET,,,6,MG/L
+10/09/2001,15,FEET,,,6,MG/L
+10/09/2001,20,FEET,,,6,MG/L
+10/09/2001,25,FEET,,,6,MG/L
+10/09/2001,30,FEET,,,6,MG/L
+05/01/2002,5,FEET,53,DEGREES F,7,MG/L
+05/01/2002,10,FEET,53,DEGREES F,7,MG/L
+05/01/2002,15,FEET,52,DEGREES F,7,MG/L
+05/01/2002,20,FEET,51,DEGREES F,7,MG/L
+05/01/2002,25,FEET,51,DEGREES F,6,MG/L
+05/01/2002,30,FEET,50,DEGREES F,6,MG/L
+05/01/2002,35,FEET,43,DEGREES F,6,MG/L
+05/01/2002,38,FEET,,,6,MG/L
+06/25/2002,1,FEET,82,DEGREES F,,
+06/25/2002,8,FEET,81,DEGREES F,7,MG/L
+06/25/2002,15,FEET,74,DEGREES F,5,MG/L
+06/25/2002,24,FEET,66,DEGREES F,1,MG/L
+06/25/2002,32,FEET,58,DEGREES F,1,MG/L
+06/25/2002,38,FEET,54,DEGREES F,1,MG/L
+07/24/2002,8,FEET,79,DEGREES F,8,MG/L
+07/24/2002,15,FEET,78,DEGREES F,3,MG/L
+07/24/2002,24,FEET,74,DEGREES F,1,MG/L
+07/24/2002,30,FEET,59,DEGREES F,1,MG/L
+08/18/2002,5,FEET,75,DEGREES F,8,MG/L
+08/18/2002,10,FEET,75,DEGREES F,5,MG/L
+08/18/2002,15,FEET,74,DEGREES F,5,MG/L
+08/18/2002,20,FEET,62,DEGREES F,1,MG/L
+08/18/2002,25,FEET,55,DEGREES F,1,MG/L
+08/18/2002,30,FEET,52,DEGREES F,1,MG/L
+08/18/2002,35,FEET,50,DEGREES F,1,MG/L
+08/18/2002,40,FEET,50,DEGREES F,1,MG/L
+10/16/2002,5,FEET,55,DEGREES F,,
+10/16/2002,10,FEET,55,DEGREES F,,
+10/16/2002,15,FEET,55,DEGREES F,,
+10/16/2002,20,FEET,55,DEGREES F,,
+05/18/2003,5,FEET,62,DEGREES F,,
+05/18/2003,10,FEET,61,DEGREES F,,
+05/18/2003,15,FEET,65,DEGREES F,,
+05/18/2003,20,FEET,55,DEGREES F,,
+05/18/2003,25,FEET,56,DEGREES F,,
+05/18/2003,30,FEET,55,DEGREES F,,
+06/22/2003,5,FEET,73,DEGREES F,,
+06/22/2003,10,FEET,72,DEGREES F,,
+06/22/2003,15,FEET,67,DEGREES F,,
+06/22/2003,20,FEET,61,DEGREES F,,
+06/22/2003,25,FEET,58,DEGREES F,,
+06/22/2003,30,FEET,54,DEGREES F,,
+06/22/2003,35,FEET,51,DEGREES F,,
+06/22/2003,40,FEET,48,DEGREES F,,
+07/20/2003,5,FEET,76,DEGREES F,6,MG/L
+07/20/2003,10,FEET,76,DEGREES F,6,MG/L
+07/20/2003,15,FEET,73,DEGREES F,4,MG/L
+07/20/2003,20,FEET,64,DEGREES F,2,MG/L
+07/20/2003,25,FEET,57,DEGREES F,1,MG/L
+07/20/2003,30,FEET,53,DEGREES F,1,MG/L
+07/20/2003,35,FEET,50,DEGREES F,1,MG/L
+08/17/2003,5,FEET,79,DEGREES F,7,MG/L
+08/17/2003,10,FEET,77,DEGREES F,7,MG/L
+08/17/2003,15,FEET,74,DEGREES F,5,MG/L
+08/17/2003,20,FEET,67,DEGREES F,3,MG/L
+08/17/2003,25,FEET,59,DEGREES F,2,MG/L
+08/17/2003,30,FEET,54,DEGREES F,1,MG/L
+08/17/2003,35,FEET,52,DEGREES F,1,MG/L
+08/17/2003,40,FEET,51,DEGREES F,1,MG/L
+10/12/2003,5,FEET,60,DEGREES F,,
+10/12/2003,10,FEET,55,DEGREES F,,
+10/12/2003,15,FEET,55,DEGREES F,,
+10/12/2003,20,FEET,55,DEGREES F,,
+10/12/2003,25,FEET,54,DEGREES F,,
+10/12/2003,30,FEET,53,DEGREES F,,
+05/16/2004,5,FEET,64,DEGREES F,8,MG/L
+05/16/2004,10,FEET,63,DEGREES F,8,MG/L
+05/16/2004,15,FEET,58,DEGREES F,6,MG/L
+05/16/2004,20,FEET,56,DEGREES F,5,MG/L
+05/16/2004,25,FEET,56,DEGREES F,5,MG/L
+05/16/2004,30,FEET,55,DEGREES F,4,MG/L
+05/16/2004,35,FEET,55,DEGREES F,4,MG/L
+06/25/2004,5,FEET,71,DEGREES F,6,MG/L
+06/25/2004,10,FEET,69,DEGREES F,6,MG/L
+06/25/2004,15,FEET,67,DEGREES F,4,MG/L
+06/25/2004,20,FEET,62,DEGREES F,2,MG/L
+06/25/2004,25,FEET,58,DEGREES F,2,MG/L
+06/25/2004,30,FEET,55,DEGREES F,2,MG/L
+06/25/2004,35,FEET,53,DEGREES F,1,MG/L
+07/25/2004,5,FEET,75,DEGREES F,7,MG/L
+07/25/2004,10,FEET,74,DEGREES F,5,MG/L
+07/25/2004,15,FEET,71,DEGREES F,3,MG/L
+07/25/2004,20,FEET,63,DEGREES F,1,MG/L
+07/25/2004,25,FEET,59,DEGREES F,1,MG/L
+07/25/2004,30,FEET,56,DEGREES F,1,MG/L
+07/25/2004,35,FEET,53,DEGREES F,1,MG/L
+08/03/2004,3,FEET,26.17,DEGREES C,9.27,MG/L
+08/03/2004,6,FEET,25.56,DEGREES C,9.3,MG/L
+08/03/2004,9,FEET,24.98,DEGREES C,9.45,MG/L
+08/03/2004,12,FEET,24.26,DEGREES C,4.86,MG/L
+08/03/2004,15,FEET,23.12,DEGREES C,4.11,MG/L
+08/03/2004,18,FEET,20.96,DEGREES C,1.29,MG/L
+08/03/2004,21,FEET,17.42,DEGREES C,.62,MG/L
+08/03/2004,24,FEET,15.33,DEGREES C,.44,MG/L
+08/03/2004,27,FEET,14.19,DEGREES C,.4,MG/L
+08/03/2004,30,FEET,15.33,DEGREES C,.37,MG/L
+08/03/2004,33,FEET,12.12,DEGREES C,.35,MG/L
+08/03/2004,36,FEET,11.68,DEGREES C,.33,MG/L
+08/03/2004,,,26.2,C,9.3,MG/L
+08/22/2004,5,FEET,71,DEGREES F,8,MG/L
+08/22/2004,10,FEET,70,DEGREES F,6,MG/L
+08/22/2004,15,FEET,68,DEGREES F,4,MG/L
+08/22/2004,20,FEET,66,DEGREES F,1,MG/L
+08/22/2004,25,FEET,58,DEGREES F,1,MG/L
+08/22/2004,30,FEET,55,DEGREES F,1,MG/L
+08/22/2004,35,FEET,53,DEGREES F,1,MG/L
+08/22/2004,40,FEET,52,DEGREES F,1,MG/L
+10/17/2004,5,FEET,54,DEGREES F,5,MG/L
+10/17/2004,10,FEET,54,DEGREES F,5,MG/L
+10/17/2004,15,FEET,53,DEGREES F,5,MG/L
+10/17/2004,20,FEET,53,DEGREES F,4,MG/L
+10/17/2004,25,FEET,53,DEGREES F,4,MG/L
+10/17/2004,30,FEET,53,DEGREES F,4,MG/L
+10/17/2004,35,FEET,53,DEGREES F,4,MG/L
+06/19/2005,1,FEET,75,DEGREES F,,
+06/19/2005,10,FEET,,,8,MG/L
+06/19/2005,20,FEET,,,2,MG/L
+07/31/2005,1,FEET,81,DEGREES F,,
+07/31/2005,5,FEET,79,DEGREES F,,
+07/31/2005,10,FEET,77,DEGREES F,7,MG/L
+07/31/2005,15,FEET,74,DEGREES F,6,MG/L
+07/31/2005,20,FEET,60,DEGREES F,2,MG/L
+07/31/2005,25,FEET,54,DEGREES F,,
+07/31/2005,30,FEET,51,DEGREES F,,
+07/31/2005,35,FEET,49,DEGREES F,,
+08/21/2005,1,FEET,78,DEGREES F,,
+08/21/2005,5,FEET,78,DEGREES F,,
+08/21/2005,10,FEET,78,DEGREES F,8,MG/L
+08/21/2005,15,FEET,77,DEGREES F,4,MG/L
+08/21/2005,20,FEET,63,DEGREES F,3,MG/L
+08/21/2005,25,FEET,54,DEGREES F,,
+08/21/2005,30,FEET,52,DEGREES F,1,MG/L
+08/21/2005,35,FEET,49,DEGREES F,,
+10/17/2005,5,FEET,59,DEGREES F,,
+10/17/2005,10,FEET,58,DEGREES F,5,MG/L
+10/17/2005,15,FEET,58,DEGREES F,,
+10/17/2005,20,FEET,58,DEGREES F,,
+10/17/2005,25,FEET,58,DEGREES F,,
+10/17/2005,30,FEET,53,DEGREES F,,
+06/18/2006,5,FEET,74,DEGREES F,,
+06/18/2006,15,FEET,70,DEGREES F,,
+06/18/2006,20,FEET,59,DEGREES F,,
+06/18/2006,30,FEET,53,DEGREES F,,
+06/18/2006,40,FEET,48,DEGREES F,,
+10/17/2006,5,FEET,50,DEGREES F,5,MG/L
+10/17/2006,10,FEET,50,DEGREES F,,
+10/17/2006,15,FEET,50,DEGREES F,,
+10/17/2006,20,FEET,50,DEGREES F,,
+10/17/2006,30,FEET,48,DEGREES F,6,MG/L
+07/22/2007,5,FEET,76,DEGREES F,,
+07/22/2007,10,FEET,76,DEGREES F,6,MG/L
+07/22/2007,15,FEET,75,DEGREES F,,
+07/22/2007,20,FEET,62,DEGREES F,1,MG/L
+07/22/2007,25,FEET,54,DEGREES F,,
+07/22/2007,30,FEET,46,DEGREES F,,
+07/22/2007,35,FEET,45,DEGREES F,0,MG/L
+08/25/2007,5,FEET,75,DEGREES F,,
+08/25/2007,10,FEET,74,DEGREES F,8,MG/L
+08/25/2007,15,FEET,71,DEGREES F,,
+08/25/2007,20,FEET,69,DEGREES F,4,MG/L
+08/25/2007,25,FEET,55,DEGREES F,,
+08/25/2007,30,FEET,48,DEGREES F,1,MG/L
+08/25/2007,35,FEET,46,DEGREES F,,
+05/18/2008,3,FEET,61,DEGREES F,,
+05/18/2008,10,FEET,60,DEGREES F,,
+05/18/2008,20,FEET,60,DEGREES F,,
+05/18/2008,30,FEET,48,DEGREES F,,
+06/22/2008,5,FEET,75,DEGREES F,,
+07/27/2008,5,FEET,78,DEGREES F,,
+07/27/2008,10,FEET,77,DEGREES F,6,MG/L
+07/27/2008,15,FEET,74,DEGREES F,,
+07/27/2008,20,FEET,66,DEGREES F,,
+07/27/2008,25,FEET,58,DEGREES F,1,MG/L
+07/27/2008,30,FEET,52,DEGREES F,,
+07/27/2008,35,FEET,49,DEGREES F,,
+09/01/2008,5,FEET,75,DEGREES F,,
+09/01/2008,10,FEET,75,DEGREES F,6,MG/L
+09/01/2008,15,FEET,74,DEGREES F,,
+09/01/2008,20,FEET,71,DEGREES F,1,MG/L
+09/01/2008,25,FEET,60,DEGREES F,,
+09/01/2008,30,FEET,54,DEGREES F,,
+09/01/2008,35,FEET,50,DEGREES F,,
+05/16/2010,3,FEET,58,DEGREES F,9.5,MG/L
+05/16/2010,5,FEET,58,DEGREES F,,
+05/16/2010,10,FEET,58,DEGREES F,,
+05/16/2010,15,FEET,58,DEGREES F,,
+05/16/2010,20,FEET,55,DEGREES F,,
+05/16/2010,25,FEET,55,DEGREES F,,
+05/16/2010,30,FEET,55,DEGREES F,,
+05/16/2010,35,FEET,52,DEGREES F,,
+05/16/2010,40,FEET,45,DEGREES F,,
+08/01/2010,5,FEET,79,DEGREES F,8.2,MG/L
+08/01/2010,10,FEET,78,DEGREES F,7.2,MG/L
+08/01/2010,12,FEET,78,DEGREES F,6.2,MG/L
+08/01/2010,15,FEET,77,DEGREES F,2.2,MG/L
+08/01/2010,20,FEET,64,DEGREES F,.2,MG/L
+08/01/2010,25,FEET,57,DEGREES F,,
+08/01/2010,30,FEET,54,DEGREES F,,
+08/01/2010,35,FEET,51,DEGREES F,,
+08/22/2010,5,FEET,79,DEGREES F,7.8,MG/L
+08/22/2010,10,FEET,78,DEGREES F,7.1,MG/L
+08/22/2010,12,FEET,,,5.5,MG/L
+08/22/2010,15,FEET,76,DEGREES F,2,MG/L
+08/22/2010,16,FEET,,,.9,MG/L
+08/22/2010,20,FEET,68,DEGREES F,,
+08/22/2010,25,FEET,59,DEGREES F,,
+08/22/2010,30,FEET,54,DEGREES F,,
+08/22/2010,35,FEET,52,DEGREES F,,
+07/10/2011,5,FEET,82,DEGREES F,8.4,MG/L
+07/10/2011,10,FEET,80,DEGREES F,7.8,MG/L
+07/10/2011,15,FEET,76,DEGREES F,.2,MG/L
+07/10/2011,20,FEET,67,DEGREES F,,
+07/10/2011,25,FEET,60,DEGREES F,,
+07/10/2011,30,FEET,54,DEGREES F,,
+07/10/2011,35,FEET,51,DEGREES F,,
+07/10/2011,40,FEET,50,DEGREES F,,
+08/28/2011,5,FEET,77,DEGREES F,8,MG/L
+08/28/2011,10,FEET,77,DEGREES F,7.9,MG/L
+08/28/2011,15,FEET,77,DEGREES F,6.8,MG/L
+08/28/2011,20,FEET,73,DEGREES F,,
+08/28/2011,25,FEET,62,DEGREES F,3.5,MG/L
+08/28/2011,30,FEET,57,DEGREES F,,
+08/28/2011,35,FEET,52,DEGREES F,,
+07/22/2012,5,FEET,80,DEGREES F,7.8,MG/L
+07/22/2012,10,FEET,80,DEGREES F,7.6,MG/L
+07/22/2012,15,FEET,80,DEGREES F,7.2,MG/L
+07/22/2012,20,FEET,65,DEGREES F,1.3,MG/L
+07/22/2012,25,FEET,58,DEGREES F,,
+07/22/2012,30,FEET,54,DEGREES F,,
+07/22/2012,35,FEET,53,DEGREES F,,
+08/19/2012,5,FEET,73,DEGREES F,8.5,MG/L
+08/19/2012,10,FEET,73,DEGREES F,8.2,MG/L
+08/19/2012,15,FEET,72,DEGREES F,6.5,MG/L
+08/19/2012,20,FEET,71,DEGREES F,2,MG/L
+08/19/2012,25,FEET,60,DEGREES F,1.8,MG/L
+08/19/2012,30,FEET,54,DEGREES F,1.5,MG/L
+08/19/2012,32,FEET,53,DEGREES F,1.5,MG/L
+07/22/2013,5,FEET,28.3,DEGREES C,8,MG/L
+07/22/2013,10,FEET,27.8,DEGREES C,6.6,MG/L
+07/22/2013,15,FEET,25.5,DEGREES C,1.3,MG/L
+08/18/2013,5,FEET,24.2,DEGREES C,7.9,MG/L
+08/18/2013,10,FEET,24,DEGREES C,7.6,MG/L
+08/18/2013,15,FEET,23.3,DEGREES C,6.4,MG/L
+08/18/2013,25,FEET,18,DEGREES C,2,MG/L
+08/18/2013,35,FEET,15.8,DEGREES C,2,MG/L
+07/05/2014,1,FEET,76,DEGREES F,7.6,MG/L
+07/05/2014,5,FEET,76,DEGREES F,7.5,MG/L
+07/05/2014,10,FEET,76,DEGREES F,7.5,MG/L
+07/05/2014,15,FEET,75,DEGREES F,5.7,MG/L
+07/05/2014,25,FEET,66,DEGREES F,1.7,MG/L
+07/26/2014,5,FEET,77,DEGREES F,8.3,MG/L
+07/26/2014,10,FEET,75,DEGREES F,8.1,MG/L
+07/26/2014,15,FEET,75,DEGREES F,7.9,MG/L
+07/26/2014,20,FEET,69,DEGREES F,2.5,MG/L
+07/26/2014,25,FEET,60,DEGREES F,1.8,MG/L
+07/26/2014,30,FEET,54,DEGREES F,,
+07/26/2014,35,FEET,52,DEGREES F,,
+05/19/2015,,,12.7,C,,
+05/21/2015,,,13.2,C,,
+05/22/2015,,,14.6,C,,
+05/24/2015,,,13.1,C,,
+06/01/2015,,,13.3,C,,
+06/08/2015,,,17.2,C,,
+06/20/2016,5,FEET,80,DEGREES F,,
+06/20/2016,10,FEET,78,DEGREES F,,
+06/20/2016,15,FEET,69,DEGREES F,,
+06/20/2016,20,FEET,61,DEGREES F,,
+06/20/2016,25,FEET,55,DEGREES F,,
+06/20/2016,30,FEET,51,DEGREES F,,
+06/20/2016,35,FEET,47,DEGREES F,,
+07/17/2016,5,FEET,78,DEGREES F,8.1,MG/L
+07/17/2016,10,FEET,78,DEGREES F,8.1,MG/L
+07/17/2016,15,FEET,77,DEGREES F,8.1,MG/L
+07/17/2016,20,FEET,61,DEGREES F,,
+07/17/2016,25,FEET,61,DEGREES F,,
+07/17/2016,30,FEET,50,DEGREES F,,
+08/14/2016,5,FEET,82,DEGREES F,8,MG/L
+08/14/2016,10,FEET,81,DEGREES F,7.8,MG/L
+08/14/2016,15,FEET,80,DEGREES F,4,MG/L
+08/14/2016,20,FEET,66,DEGREES F,,
+08/14/2016,25,FEET,55,DEGREES F,,
+08/14/2016,30,FEET,51,DEGREES F,,
+06/24/2017,5,FEET,75,DEGREES F,7.4,MG/L
+06/24/2017,10,FEET,75,DEGREES F,7.3,MG/L
+06/24/2017,16,FEET,73,DEGREES F,2.8,MG/L
+06/24/2017,25,FEET,57,DEGREES F,,
+06/24/2017,35,FEET,53,DEGREES F,,
+08/27/2017,5,FEET,73,DEGREES F,8.1,MG/L
+08/27/2017,10,FEET,72,DEGREES F,8,MG/L
+08/27/2017,15,FEET,72,DEGREES F,7.6,MG/L
+08/27/2017,25,FEET,60,DEGREES F,,
+08/27/2017,30,FEET,57,DEGREES F,,
+07/23/2018,5,FEET,77,DEGREES F,6.8,MG/L
+07/23/2018,10,FEET,76,DEGREES F,6.6,MG/L
+07/23/2018,15,FEET,76,DEGREES F,6.4,MG/L
+07/23/2018,35,FEET,,,1,MG/L
+08/27/2018,5,FEET,77,DEGREES F,7.8,MG/L
+08/27/2018,10,FEET,76,DEGREES F,7.4,MG/L
+08/27/2018,35,FEET,54,DEGREES F,1,MG/L
+06/17/2019,5,FEET,69,DEGREES F,9.4,MG/L
+06/17/2019,10,FEET,68,DEGREES F,9,MG/L
+06/17/2019,15,FEET,68,DEGREES F,8.5,MG/L
+07/22/2019,5,FEET,81,DEGREES F,7.7,MG/L
+07/22/2019,10,FEET,81,DEGREES F,7.7,MG/L
+07/22/2019,15,FEET,81,DEGREES F,7.6,MG/L
+08/27/2019,5,FEET,75,DEGREES F,7.05,MG/L
+08/27/2019,10,FEET,74,DEGREES F,6.9,MG/L
+08/27/2019,15,FEET,74,DEGREES F,6.9,MG/L
+06/21/2020,5,FEET,76,DEGREES F,8.4,MG/L
+06/21/2020,10,FEET,76,DEGREES F,6.8,MG/L
+06/21/2020,15,FEET,71,DEGREES F,5,MG/L
+06/21/2020,20,FEET,64,DEGREES F,,
+06/21/2020,25,FEET,56,DEGREES F,,
+06/21/2020,30,FEET,54,DEGREES F,,
+06/21/2020,35,FEET,50,DEGREES F,1,MG/L
+08/24/2020,5,FEET,78,DEGREES F,8.3,MG/L
+08/24/2020,10,FEET,78,DEGREES F,8.2,MG/L
+08/24/2020,15,FEET,77,DEGREES F,3.8,MG/L
+08/24/2020,20,FEET,71,DEGREES F,,
+08/24/2020,25,FEET,66,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/18/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/28/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/13/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/04/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/17/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/12/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/14/1980,15" ice.
+06/10/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/09/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/14/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/17/1986,Hot- sunny- mild breeze- no recent rain.    
+08/09/1986,Sunny- last rain 2" on 8/6.    
+05/01/1987,Sunny- ice off- no algae.    
+06/08/1987,Partly sunny- warm- and no obvious algae.    
+07/17/1987,Sunny and hot.  There is little boat traffic.    
+08/04/1987,Warm- partly cloudy- little boat traffic.    
+08/15/1987,Clear- warm- 2" of rain on 8/14/87.    
+09/12/1987,Clear- sunny- few boats- water has been very green for past 3 weeks.    
+10/13/1987,Sunny- windy- cool- last reading of the year.    
+03/16/1988,No secchi data.    
+04/16/1988,No secchi data.    
+07/17/1988,2" rain on 7/16.    
+08/11/1988,Hot- sunny- lots of weeds- very clear water in weed beds.    
+08/28/1988,Lots of weds- water clear in weed beds.    
+10/05/1988,Opinion effected by weeds- sunny and pleasant.    
+04/26/1989,No secchi reading.    
+05/11/1989,Weeds- Eurasian milfoil.    
+06/10/1989,Weeds.    
+08/15/1989,Weeds.    
+08/24/1989,Weeds.    
+09/18/1989,Weeds.    
+10/07/1989,Weeds.    
+05/28/1990,Lots of weeds- little algae.    
+06/26/1990,Weeds.    
+08/05/1990,Weeds.    
+05/15/1991,Floating weeds along shore.    
+06/14/1991,Weed problem.    
+07/19/1991,W lobe of lake turning green.    
+05/09/1993,Lake level is 13" higher than last fall.    
+05/29/1993,Turning green on East Lobe    
+06/16/1993,Nuisance weed conditions exist.    
+07/30/1993,Floating weeds.    
+08/16/1993,Floating weed - algae.    
+09/18/1993,No card to check.    
+10/14/1993,Cold and rainy.    
+05/23/1994,Water is so clear- thought we might find Dan's billfold but no luck.    
+05/31/1994,So far no algae- the weeds are minimal.    
+06/15/1994,Warm- windy days.    
+09/25/1994,Since the month of August the weeds grew a lot in low areas.    
+10/14/1994,The last check for 1994.    
+10/17/1994,Cloudy- cool and raining intermittently.    
+06/07/1995,Public perception 3 in some areas and 5 in others.  Some parts of lake are green.    
+06/20/1995,Beautiful sunny day- lots of floating weeds at shore lines.    
+07/19/1995,Sunny beautiful day with few clouds.  Many floating weeds and lots of algae.    
+09/08/1995,Weeds-floating weeds.    
+09/28/1995,The floating weeds are main problem at this time.    
+04/16/1996,AMBIENT LAKE MONITORING PROG.     
+05/29/1996,Water color gray. small portions started- weeds growing.    
+06/13/1996,Weeds started to grow fast in east lobe of the lake.    
+06/17/1996,Cloudy- algae less- few floating weeds- high lake level with water flowing over the dam.    
+06/25/1996,Bright sunny day.  Recent rains raised water level.  Top sample- no depth reported- assumed 1'.  Bottom sample- no depth reported- assumed 9'.    
+06/27/1996,Water clear gray and part green. floating weeds.    
+07/16/1996,Beautiful day- sunny- algae has increased and considerable floating weeds.    
+07/19/1996,No wake zone.    
+07/22/1996,AMB LK MONIT PROG    
+08/21/1996,Sunny- some floating weeds and algae increased.    
+10/14/1996,Beautiful fall day.    
+05/07/1997,LAKE SAMPLE    
+05/07/1997,Lake temp 55 degrees F.    
+06/02/1997,Lake level high- going over the dam.  Still cold.  60 degrees.    
+06/23/1997,LAKE SAMPLE    
+07/28/1997,LAKE SAMPLE    
+08/08/1997,Gray water.    
+08/22/1997,Water is brownish gray.    
+08/26/1997,LAKE SAMPLE    
+08/28/1997,AMBIENT LAKE MONITORING PROGRAM     
+10/06/1997,The water is mostly gray- but partly green.    
+10/20/1997,LAKE SAMPLE    
+03/03/1998,AMBIENT LAKE MONITORING PROGRAM - SPRING TURNOVER SAMPLE    
+04/29/1998,The lake level is high over the dam.  The water is gray.    
+05/05/1998,Cloudy.    
+05/13/1998,Lake level high over the dam.  The water is gray.    
+06/16/1998,Occasional floating weeds.    
+06/22/1998,Sunny high clouds.    
+06/24/1998,AMBIENT LAKE MONITORING     
+07/28/1998,Sunny windy.    
+08/26/1998,Sunny floating weeds.    
+10/14/1998,Cloudy and cold.    
+04/05/1999,AMBIENT LAKE MONITORING PROGRAM    
+05/03/1999,LAKE SAMPLE    
+06/22/1999,AMBIENT LAKE PROGRAM    
+04/12/2000,AMBIENT LAKE MONITORING PROGRAM    
+09/19/2000,INTEGRATED WATER COLUMN 0-18FT    
+03/01/2001,DEEP HOLE- 37FT    
+05/10/2001,DEEP SPOT    
+06/25/2001,DEEP SPOT @ 40FT    
+06/25/2001,DEEP SPOT @ 40FT- 6FT INTEGRATED WATER COLUMN    
+06/26/2001,DEEP HOLE    
+06/26/2001,DEEP SPOT @ 40FT    
+08/01/2001,DEEP HOLE    
+08/28/2001,DEEP HOLE    
+10/09/2001,DEEP HOLE    
+10/09/2001,The reason Whitewater Lake is more murky this year is due to last winter's heavy ice and snow- which retarded the growth of weeds in the lake. Therefore- the lack of weeds made the lake more murky. I base this on 10 years + experience of lake measurements.    
+05/01/2002,A-DEEP HOLE- CENTER OF LK - 6FT INTEGRATED SAMPLE    
+06/25/2002,A-DEEP HOLE- CENTER OF OK - 6FT INTEGRATED SAMPLE    
+07/24/2002,Hit bottom at 30 feet.    
+08/18/2002,A-DEEP HOLE- CENTER OF LK - 6FT INTEGRATED SAMPLE    
+10/16/2002,Hit bottom at 20 feet.    
+05/18/2003,A-DEEP HOLE- CENTER OF LK - 6FT INTEGRATED SAMPLE    
+06/13/2003,calm- no waves
+    
+06/22/2003,A-DEEP HOLE- CENTER OF LK - 6FT INTEGRATED SAMPLE    
+07/20/2003,A-DEEP HOLE- CENTER OF LK - 6FT INTEGRATED SAMPLE    
+07/25/2003,windy    
+08/17/2003,A-CENTER OF LK-DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/12/2003,A-DEEP HOLE- CENTER OF LK - 6FT INTEGRATED SAMPLE    
+05/08/2004,Phytoplankton is present    
+05/16/2004,A-CENTER OF LK-DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/22/2004,A-CENTER OF LK - DEEP HOLE-6FT INTEGRATED SAMPLE    
+07/25/2004,A-CENTER OF LK- DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/03/2004,DEEP SPOT @ 37FT     
+08/22/2004,very windy and wavy    
+10/17/2004,A-CENTER OF LAKE- DEEP HOLE - 6FT INTEGRATED SAMPLE    
+05/15/2005,A - DEEP HOLE- CENTER OF LAKE - INTEGRATED SAMPLE    
+06/19/2005,A-CENTER OF LAKE - DEEP HOLE - INTEGRATED SAMPLE    
+07/31/2005,A-CENTER OF LK - DEEP HOLE    
+08/21/2005,A-CENTER OF LK - DEEP HOLE    
+10/16/2005,A-CENTER OF LAKE - DEEP HOLE    
+10/17/2005,A-CENTER OF LAKE - DEEP HOLE    
+05/07/2006,algae already blooming
+10/28/2007,Phytoplankton still abundant
+07/06/2008,Brown-green color to water
+08/09/2008,Few macrophytes lakewide - not seen this few aquatic vegetation ever (8 years).
+03/29/2016,Collected water sample from kayak so no Secchi- temperature or DO readings.
+07/17/2016,Water collection container (name of Van Dorn ) broken and could not collect samples at depth.
+08/14/2016,broken Van Dorn - could not collect deep samples (same for previous dates)
+
+
+
+
+Start Date,Group Name,Project Name
+09/18/1973,Data Collectors,Migrated from STORET Legacy
+11/28/1973,Data Collectors,Migrated from STORET Legacy
+02/13/1974,Data Collectors,Migrated from STORET Legacy
+04/04/1974,Data Collectors,Migrated from STORET Legacy
+07/17/1974,Data Collectors,Migrated from STORET Legacy
+11/12/1974,Data Collectors,Migrated from STORET Legacy
+02/26/1975,Data Collectors,Migrated from STORET Legacy
+07/17/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/14/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+06/10/1980,Data Collectors,Migrated from STORET Legacy
+09/09/1980,Data Collectors,Migrated from STORET Legacy
+09/14/1981,Data Collectors,Migrated from STORET Legacy
+04/21/1986,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/24/1986,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/10/1986,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/17/1986,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/09/1986,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/13/1986,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+02/25/1987,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/07/1987,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/01/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/08/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/17/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/1987,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/04/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/15/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/19/1987,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/12/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/13/1987,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/17/1988,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+03/16/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/14/1988,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/16/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/08/1988,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/16/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/17/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/18/1988,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/18/1988,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/30/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/11/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/23/1988,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/23/1988,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/28/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/09/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/05/1988,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/21/1989,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+02/21/1989,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/26/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/27/1989,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/27/1989,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/11/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/10/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/28/1989,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/28/1989,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/26/1989,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/26/1989,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/15/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/22/1989,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/1989,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/24/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/03/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/18/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/07/1989,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/26/1990,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+02/26/1990,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/10/1990,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/10/1990,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/28/1990,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/1990,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/25/1990,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/26/1990,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/23/1990,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/23/1990,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/05/1990,William Norris,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/23/1990,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/23/1990,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+03/04/1991,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+03/04/1991,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/25/1991,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/25/1991,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/15/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/25/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/03/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/08/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/14/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/18/1991,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/18/1991,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/27/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/07/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/14/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/1991,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/1991,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/27/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/02/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/09/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/17/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/21/1991,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/21/1991,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/23/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/01/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/06/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/15/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/30/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/09/1991,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/16/1992,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/16/1992,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/07/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/02/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/11/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/18/1992,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/18/1992,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/01/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/15/1992,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/18/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/29/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/17/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/01/1992,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+09/01/1992,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/01/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/23/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/03/1992,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/17/1993,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+02/17/1993,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/20/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/09/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/10/1993,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+05/10/1993,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/29/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/13/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/14/1993,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/14/1993,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/16/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/23/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/11/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/14/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/14/1993,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/15/1993,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/15/1993,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/30/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/10/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/16/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/16/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/24/1993,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/24/1993,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/01/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/18/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/05/1993,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/14/1993,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/22/1994,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+02/22/1994,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/21/1994,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/16/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/23/1994,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/31/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/11/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/15/1994,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/30/1994,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/30/1994,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/06/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/13/1994,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/01/1994,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/01/1994,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+08/15/1994,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/18/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/06/1994,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+09/06/1994,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/07/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/25/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/14/1994,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/17/1994,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/21/1995,Bob Wakeman,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+02/21/1995,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/20/1995,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/20/1995,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/15/1995,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/07/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/20/1995,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/20/1995,Bob Holland,Lake Baseline Monitoring- DNR (1970s-2006)
+06/20/1995,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/20/1995,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/04/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/13/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/1995,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/24/1995,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/24/1995,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/28/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/16/1995,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/18/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/08/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/19/1995,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+09/19/1995,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/28/1995,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/11/1995,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+02/22/1996,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+02/22/1996,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/16/1996,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/16/1996,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/22/1996,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/09/1996,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/29/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/13/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/1996,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/1996,Bernard Tangney,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/26/1996,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/26/1996,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/27/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/16/1996,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/1996,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/21/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/27/1996,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/1996,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/03/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/19/1996,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/14/1996,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+03/05/1997,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+03/05/1997,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+04/30/1997,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/30/1997,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/07/1997,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/07/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/02/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/1997,Data Collectors,Citizen Lake Monitoring
+06/23/1997,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/1997,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/25/1997,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/07/1997,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/24/1997,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/24/1997,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/28/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/08/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/22/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/26/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/1997,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/28/1997,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/14/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/06/1997,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/20/1997,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+03/03/1998,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+04/29/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/05/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/13/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/16/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/24/1998,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/24/1998,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/09/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/1998,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/1998,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+07/28/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/29/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/02/1998,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/26/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/01/1998,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+09/01/1998,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+10/14/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/05/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+05/03/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/16/1999,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+06/30/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/27/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/18/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/24/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/18/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/12/2000,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+05/24/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/27/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/05/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/24/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/02/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/21/2000,Kathy Webster,GMU LAKE CLASS STUDY
+08/31/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/06/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/19/2000,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+09/19/2000,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+09/24/2000,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/27/2000,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/17/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+03/01/2001,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+03/01/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+05/10/2001,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+05/10/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+05/16/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/2001,Bob Holland,
+06/25/2001,Bob Wakeman,Proposed SER Legacy and Historical Data Entry - East District 
+06/26/2001,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/26/2001,Bob Holland,Lake Baseline Monitoring- DNR (1970s-2006)
+07/16/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/01/2001,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/04/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/10/2001,Bob Holland,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/16/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/2001,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/03/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/20/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/09/2001,Boris Marohnich,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/09/2001,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/01/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/18/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/26/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/02/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/16/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/2002,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/28/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/14/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/24/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/02/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/11/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/18/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/03/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/13/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/21/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/28/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/16/2002,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/18/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/26/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/01/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/13/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/19/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/18/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/20/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/25/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/17/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/07/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/21/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/12/2003,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/08/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/16/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/28/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/11/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/02/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/11/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/16/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/18/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/25/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/03/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/03/2004,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+08/06/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/13/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/20/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/22/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/27/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/12/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/19/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/26/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/17/2004,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/15/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/07/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/19/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/24/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/01/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/31/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/06/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/14/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/21/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/10/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/30/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/16/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/17/2005,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/07/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/14/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/18/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/04/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/30/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/06/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/12/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/20/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/29/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/03/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/15/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/24/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/17/2006,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/15/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/24/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/29/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/01/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/29/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/03/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/10/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/25/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/25/2007,Tom Ganfield,Citizen Lake Monitoring Network QA/QC - 2007
+08/26/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/02/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/08/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/15/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/22/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/30/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/07/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/28/2007,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/18/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/15/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/27/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/06/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/12/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/18/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/27/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/09/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/17/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/22/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/31/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/01/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/17/2008,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/17/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/31/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/14/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/28/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/04/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/12/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/26/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/05/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/09/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/23/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/30/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/07/2009,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/16/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/29/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/05/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/27/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/03/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/11/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/01/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/15/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/22/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/27/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/12/2010,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/20/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/30/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/20/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/25/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/03/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/10/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/24/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/10/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/05/2011,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/28/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/09/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/16/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/06/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/12/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/19/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/31/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/16/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/28/2012,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/21/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/21/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/01/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/08/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/30/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/13/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/11/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/16/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/18/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/25/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/31/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/09/2013,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/09/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/19/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/05/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/14/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/26/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/03/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/10/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/24/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/31/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/21/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/28/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+10/09/2014,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/11/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/16/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/19/2015,Data Collectors,Herbicide Concentration Monitoring
+05/21/2015,Data Collectors,Herbicide Concentration Monitoring
+05/22/2015,Data Collectors,Herbicide Concentration Monitoring
+05/23/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/24/2015,Data Collectors,Herbicide Concentration Monitoring
+06/01/2015,Data Collectors,Herbicide Concentration Monitoring
+06/08/2015,Data Collectors,Herbicide Concentration Monitoring
+06/29/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/04/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/26/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/02/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/15/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/23/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/2015,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+03/29/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/30/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/20/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/04/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/10/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/17/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/30/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/07/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/14/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/28/2016,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/29/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/24/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/01/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/23/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/29/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/13/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/18/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/27/2017,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/28/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/01/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/02/2018,Data Collectors,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/08/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/23/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/12/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/27/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+09/16/2018,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/13/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/27/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/17/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/22/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/06/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/22/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/23/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/27/2019,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+04/25/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+05/24/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/14/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/21/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+06/27/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+07/19/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/07/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/13/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/24/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake
+08/31/2020,Tom Ganfield,Citizen Lake Monitoring - Water Quality - Whitewater Lake; A-Deep Hole- Center Of Lake

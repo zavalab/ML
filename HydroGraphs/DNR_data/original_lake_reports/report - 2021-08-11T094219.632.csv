@@ -1,0 +1,724 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Eagle Spring Lake,Waukesha,768600,SE,68,,683258,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/10/1980,4.9,,1.5,8,,54,,51,,,,,
+8190802,07/05/1991,11.25,NO,3.4,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190802,07/18/1991,8,NO,2.4,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190802,08/01/1991,8,NO,2.4,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190802,08/14/1991,8,NO,2.4,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190802,08/29/1991,6.75,NO,2.1,,,50,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190887,09/27/1991,10,NO,3,,,44,,,,,,GREEN/BROWN,1-Beautiful, could not be nicer
+8190342,07/15/1992,13,NO,4,,,40,,,LITTLE HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190342,08/03/1992,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,08/14/1992,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,08/28/1992,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190525,09/04/1992,6.5,YES,2,,,50,,,DOWN 5",,,GREEN,1-Beautiful, could not be nicer
+8190525,09/11/1992,6.5,YES,2,,,50,,,DOWN 5-6",,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,09/18/1992,6.5,YES,2,,,50,,,DOWN 4",,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,09/25/1992,6,YES,1.8,,,51,,,LITTLE HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/03/1992,6,YES,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/09/1992,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/16/1992,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,10/24/1992,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/31/1992,6,YES,1.8,,,51,,,DOWN 5",,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,11/05/1992,6,YES,1.8,,,51,,,DOWN 5-6",,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,04/17/1993,5.75,NO,1.7,,,52,,,DOWN 4",,,GREEN,2-Very minor aesthetic problems
+8190525,04/23/1993,6,YES,1.8,,,51,,,LITTLE HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,04/30/1993,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/07/1993,6,YES,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/14/1993,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/21/1993,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,05/28/1993,5.25,NO,1.6,,,53,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190525,06/05/1993,5.5,NO,1.7,,,53,,,DOWN 5",,,GREEN,2-Very minor aesthetic problems
+8190525,06/11/1993,5.5,NO,1.7,,,53,,,DOWN 5-6",,,GREEN,2-Very minor aesthetic problems
+8190525,06/18/1993,5.25,NO,1.6,,,53,,,DOWN 4",,,GREEN,2-Very minor aesthetic problems
+8190525,06/26/1993,5.75,NO,1.7,,,52,,,LITTLE HIGH,,,GREEN,2-Very minor aesthetic problems
+8190525,07/02/1993,6,NO,1.8,,,51,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190525,07/09/1993,6.5,YES,2,,,50,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190525,07/15/1993,6,YES,1.8,5.94,,51,,48,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190525,07/23/1993,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/30/1993,6.5,YES,2,,,50,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190525,08/06/1993,5.75,NO,1.7,,,52,,,DOWN 5",,,GREEN,2-Very minor aesthetic problems
+1,08/09/1993,,,,10.7,,,,53,,,,,
+8190525,08/20/1993,5.5,NO,1.7,,,53,,,DOWN 5-6",,,GREEN,2-Very minor aesthetic problems
+8190525,08/27/1993,6,NO,1.8,,,51,,,DOWN 4",,,GREEN,2-Very minor aesthetic problems
+8190525,09/09/1993,5,YES,1.5,,,54,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,09/10/1993,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,09/17/1993,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,09/24/1993,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,09/27/1993,6.5,YES,2,3.12,,50,,43,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/01/1993,6.5,YES,2,,,50,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,04/16/1994,6.5,YES,2,,,50,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,04/23/1994,5.5,NO,1.7,,,53,,,,,,GREEN,
+8190525,04/30/1994,5.75,NO,1.7,,,52,,,,,,GREEN,
+8190525,05/06/1994,6.5,YES,2,,,50,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,05/13/1994,6.5,YES,2,,,50,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,05/20/1994,5.25,NO,1.6,,,53,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,05/31/1994,6.5,YES,2,2.87,14,50,49,43,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,06/10/1994,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,06/17/1994,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,06/24/1994,4.5,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,06/27/1994,4.5,NO,1.4,6.97,11,55,47,49,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/08/1994,5.25,NO,1.6,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/15/1994,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/22/1994,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/29/1994,5.75,NO,1.7,,,52,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,08/05/1994,5.25,NO,1.6,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,08/07/1994,5,NO,1.5,8.34,21,54,52,51,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,08/11/1994,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,08/19/1994,6.25,NO,1.9,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,08/26/1994,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,09/02/1994,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,09/06/1994,6.5,YES,2,6.44,14,50,49,49,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,09/10/1994,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,09/17/1994,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,09/24/1994,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,10/01/1994,6.5,NO,2,,,50,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/04/1994,6.5,YES,2,8.03,18,50,51,51,,,,GREEN,2-Very minor aesthetic problems
+8190525,05/02/1995,6.25,YES,1.9,5.26,15,51,49,47,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/12/1995,6.25,NO,1.9,,,51,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/19/1995,5.75,NO,1.7,,,52,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,05/26/1995,5.5,NO,1.7,,,53,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/09/1995,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/12/1995,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,04/16/1996,4.9,,1.5,5.14,10,54,46,47,,,,,
+1,06/26/1996,8.9,,2.7,3.25,14,46,49,44,,,,,
+8190525,07/05/1996,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/17/1996,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,07/19/1996,5,NO,1.5,,,54,,,,,,GREEN,2-Very minor aesthetic problems
+1,07/25/1996,3.6,,1.1,8.73,19,59,51,51,,,,,
+1,07/28/1996,,,,16.4,,,,56,,,,,
+8190525,07/28/1996,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8190525,08/09/1996,6,NO,1.8,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,08/16/1996,5.75,NO,1.7,,,52,,,,,,GREEN,2-Very minor aesthetic problems
+8190525,08/23/1996,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+1,08/27/1996,3.6,,1.1,8.02,11,59,47,51,,,,,
+8190525,08/30/1996,6,NO,1.8,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,04/26/1997,6.5,YES,2,,,50,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/04/1997,6.25,YES,1.9,,,51,,,,,CLEAR,BLUE,
+8190525,05/10/1997,6.25,YES,1.9,,,51,,,,,CLEAR,BLUE,
+8190525,05/17/1997,6.25,YES,1.9,,,51,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/30/1997,6.25,YES,1.9,,,51,,,,,CLEAR,BLUE,
+8190525,06/07/1997,6,NO,1.8,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,06/14/1997,6,NO,1.8,,,51,,,,,MURKY,BLUE,2-Very minor aesthetic problems
+8189283,06/23/1997,5,NO,1.5,5.73,29,54,54,48,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,07/11/1997,5.5,NO,1.7,,,53,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,07/18/1997,5,NO,1.5,,,54,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189282,07/30/1997,4.75,NO,1.4,7.88,,55,,50,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,09/27/1997,6.5,YES,2,,,50,,,,,CLEAR,,2-Very minor aesthetic problems
+8190525,10/04/1997,6.5,YES,2,,,50,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190525,10/10/1997,6.5,YES,2,,,50,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/01/1998,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/08/1998,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/15/1998,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/22/1998,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,05/29/1998,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,06/05/1998,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,06/19/1998,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,06/26/1998,5.25,NO,1.6,,,53,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,07/04/1998,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,07/10/1998,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,07/17/1998,4.25,NO,1.3,,,56,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,07/24/1998,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,07/29/1998,4,NO,1.2,6.6,18,57,51,49,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189283,05/14/1999,6.5,YES,2,,,50,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,05/21/1999,6.5,YES,2,,,50,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190525,05/28/1999,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190525,06/03/1999,5.75,NO,1.7,,,52,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190525,06/11/1999,5.5,NO,1.7,,,53,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,06/18/1999,5.5,NO,1.7,,,53,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189283,06/24/1999,5.25,NO,1.6,,,53,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189283,07/02/1999,,,,,,,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,07/09/1999,5.25,NO,1.6,,,53,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,07/15/1999,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188525,08/26/1999,6.2,,1.9,2.81,21,51,52,43,,,,,
+8189283,05/04/2000,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/12/2000,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/19/2000,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/24/2000,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,06/01/2000,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,06/08/2000,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,06/11/2000,,,,,33,,55,,,,,,
+8190525,06/16/2000,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,06/23/2000,5.34,NO,1.6,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190525,07/04/2000,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190525,07/14/2000,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189283,07/23/2000,4.75,NO,1.4,3.7,28,55,54,45,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/31/2000,4.3,,1.3,7,17,54,50,50,,,,,
+8190525,05/04/2001,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+7000045,05/10/2001,5.2,NO,1.6,,16,53,50,,,,,,4-Would not swim but boating OK (algae)
+8190525,05/11/2001,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,05/18/2001,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,05/25/2001,5.75,NO,1.7,,,52,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8190525,06/01/2001,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,06/07/2001,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8190525,06/15/2001,5.75,NO,1.7,,,52,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8190525,06/23/2001,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/29/2001,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8190525,07/04/2001,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8190525,07/08/2001,4.5,NO,1.4,6,,55,,48,LOW,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+7000045,08/06/2001,3.9,NO,1.2,5.4,22,57,52,48,,,,,4-Would not swim but boating OK (algae)
+8190525,05/17/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,05/24/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,05/30/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/07/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/14/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/20/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,06/28/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,07/04/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,07/19/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190525,07/26/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000045,04/14/2003,3.9,NO,1.2,,37,57,56,,,,,,4-Would not swim but boating OK (algae)
+8190525,05/02/2003,6,YES,1.8,,,51,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,05/09/2003,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,05/16/2003,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,05/23/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,05/30/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,06/07/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190525,06/13/2003,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,06/20/2003,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,06/28/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,07/04/2003,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,07/25/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,08/02/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,08/08/2003,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000045,08/19/2003,4.5,NO,1.4,6.41,20,55,51,49,,,,,4-Would not swim but boating OK (algae)
+8190525,08/22/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,08/30/2003,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,09/06/2003,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,09/12/2003,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190525,09/26/2003,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/04/2003,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/10/2003,6.5,YES,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/18/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190525,10/25/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000045,04/13/2004,4.9,NO,1.5,,16,54,50,,,,,,3-Enjoyment somewhat impaired (algae)
+7000045,08/09/2004,4.25,NO,1.3,6.66,18,56,51,49,,,,,3-Enjoyment somewhat impaired (algae)
+8190525,05/06/2005,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,05/13/2005,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,05/21/2005,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,05/28/2005,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,06/04/2005,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,06/10/2005,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,06/17/2005,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,06/24/2005,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,07/01/2005,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190525,07/08/2005,5.25,NO,1.6,,,53,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36799815,05/20/2011,5,YES,1.5,,10,54,46,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,06/03/2011,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,06/11/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,06/27/2011,3.5,NO,1.1,12.5,17,59,50,54,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,07/21/2011,3.25,NO,1,7.19,26,60,53,50,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,08/12/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,08/29/2011,5.75,YES,1.7,5.4,23,52,52,48,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,05/16/2012,5.75,YES,1.7,,14,52,49,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,06/06/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,06/26/2012,4.75,NO,1.4,3.08,22,55,52,43,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,07/24/2012,5,NO,1.5,3.91,18,54,51,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/31/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,08/22/2012,6.25,YES,1.9,2.83,19,51,51,43,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,05/15/2013,5.5,NO,1.7,,18.2,53,51,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,06/25/2013,6,YES,1.8,4.41,15.6,51,49,46,NORMAL,9.6,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,07/23/2013,5.5,NO,1.7,3.82,14.3,53,49,45,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,08/28/2013,5.5,YES,1.7,3.22,17,53,50,44,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+36799815,09/17/2013,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,05/21/2014,5,NO,1.5,,14.7,54,49,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36799815,06/25/2014,5.5,YES,1.7,3.34,18,53,51,44,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,07/23/2014,5.5,NO,1.7,3.23,13.7,53,48,44,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,08/18/2014,6.25,YES,1.9,3.15,16.8,51,50,43,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,09/17/2014,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,05/28/2015,6,YES,1.8,,24.2,51,53,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,06/24/2015,6,YES,1.8,3.84,14.6,51,49,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/22/2015,6,NO,1.8,4.44,23.2,51,53,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,08/26/2015,5.75,YES,1.7,2.24,20.1,52,51,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,09/23/2015,6,YES,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,06/02/2016,5.75,YES,1.7,,24.4,52,53,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799815,06/29/2016,5.25,NO,1.6,5.78,25.8,53,53,48,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+36799815,07/25/2016,3.5,NO,1.1,7.6,25.9,59,53,50,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+36799815,08/22/2016,5.5,YES,1.7,3.05,22.1,53,52,43,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+36799815,05/31/2017,4.25,NO,1.3,,20.7,56,52,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+36799815,07/11/2017,5.25,NO,1.6,2.74,20.7,53,52,42,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/28/2017,5.75,NO,1.7,4.77,19.3,52,51,47,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,09/01/2017,5.5,YES,1.7,1.43,13.2,53,48,38,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+36799815,06/11/2018,5.75,NO,1.7,,15.6,52,49,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+36799815,06/28/2018,4,NO,1.2,3.29,21.5,57,52,44,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/27/2018,3.75,NO,1.1,3.87,17.9,58,50,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,08/30/2018,4.75,NO,1.4,3.93,15.8,55,50,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/03/2019,5,NO,1.5,2.38,12.4,54,48,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/30/2019,4,NO,1.2,4.37,16.1,57,50,46,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799815,08/27/2019,6,YES,1.8,3.56,11.5,51,47,44,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/01/2020,5,NO,1.5,5.12,17.5,54,50,47,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,07/22/2020,4.75,NO,1.4,7.04,17.1,55,50,50,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36799815,08/26/2020,3.75,NO,1.1,5.36,21,58,52,47,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/15/1993,1,FEET,75,DEGREES F,,
+07/15/1993,3,FEET,75,DEGREES F,,
+07/15/1993,4,FEET,75,DEGREES F,,
+07/15/1993,6,FEET,75,DEGREES F,,
+09/09/1993,1,FEET,74,DEGREES F,,
+09/09/1993,3,FEET,73,DEGREES F,,
+09/09/1993,4,FEET,73,DEGREES F,,
+09/09/1993,5,FEET,73,DEGREES F,,
+09/27/1993,1,FEET,55,DEGREES F,,
+09/27/1993,2,FEET,55,DEGREES F,,
+09/27/1993,3,FEET,55,DEGREES F,,
+09/27/1993,4,FEET,55,DEGREES F,,
+09/27/1993,5,FEET,55,DEGREES F,,
+09/27/1993,6,FEET,55,DEGREES F,,
+05/31/1994,1,FEET,73,DEGREES F,,
+05/31/1994,2,FEET,73,DEGREES F,,
+05/31/1994,3,FEET,73,DEGREES F,,
+05/31/1994,4,FEET,73,DEGREES F,,
+05/31/1994,5,FEET,73,DEGREES F,,
+06/27/1994,1,FEET,77,DEGREES F,,
+06/27/1994,2,FEET,77,DEGREES F,,
+06/27/1994,3,FEET,77,DEGREES F,,
+06/27/1994,4,FEET,77,DEGREES F,,
+06/27/1994,5,FEET,77,DEGREES F,,
+06/27/1994,6,FEET,77,DEGREES F,,
+08/07/1994,1,FEET,74,DEGREES F,,
+08/07/1994,2,FEET,74,DEGREES F,,
+08/07/1994,3,FEET,74,DEGREES F,,
+08/07/1994,4,FEET,74,DEGREES F,,
+08/07/1994,5,FEET,74,DEGREES F,,
+09/06/1994,1,FEET,66,DEGREES F,,
+09/06/1994,3,FEET,66,DEGREES F,,
+09/06/1994,5,FEET,66,DEGREES F,,
+09/06/1994,6,FEET,66,DEGREES F,,
+10/04/1994,1,FEET,58,DEGREES F,,
+10/04/1994,2,FEET,58,DEGREES F,,
+10/04/1994,3,FEET,58,DEGREES F,,
+10/04/1994,4,FEET,58,DEGREES F,,
+10/04/1994,5,FEET,58,DEGREES F,,
+10/04/1994,6,FEET,58,DEGREES F,,
+05/02/1995,1,FEET,57,DEGREES F,,
+05/02/1995,2,FEET,54,DEGREES F,,
+05/02/1995,3,FEET,54,DEGREES F,,
+05/02/1995,4,FEET,54,DEGREES F,,
+05/02/1995,5,FEET,54,DEGREES F,,
+05/02/1995,6,FEET,54,DEGREES F,,
+06/12/1995,1,FEET,71,DEGREES F,,
+06/12/1995,2,FEET,71,DEGREES F,,
+06/12/1995,3,FEET,71,DEGREES F,,
+06/12/1995,4,FEET,71,DEGREES F,,
+04/16/1996,,,7.4,C,12.0,MG/L
+06/26/1996,,,24.1,C,8.6,MG/L
+07/25/1996,,,23.41,C,9.01,MG/L
+07/28/1996,1,FEET,75,DEGREES F,,
+07/28/1996,2,FEET,75,DEGREES F,,
+07/28/1996,3,FEET,75,DEGREES F,,
+07/28/1996,4,FEET,75,DEGREES F,,
+07/28/1996,5,FEET,75,DEGREES F,,
+08/27/1996,,,24.6,C,9.6,MG/L
+06/23/1997,1,FEET,81,DEGREES F,,
+06/23/1997,2,FEET,81,DEGREES F,,
+06/23/1997,5,FEET,80,DEGREES F,,
+07/30/1997,1,FEET,79,DEGREES F,,
+07/30/1997,2,FEET,79,DEGREES F,,
+07/30/1997,4,FEET,79,DEGREES F,,
+07/29/1998,1,FEET,80,DEGREES F,,
+07/29/1998,2,FEET,80,DEGREES F,,
+07/29/1998,3,FEET,80,DEGREES F,,
+07/29/1998,4,FEET,80,DEGREES F,,
+08/26/1999,3.28,FEET,,,9,MG/L
+08/26/1999,,,22.8,C,9.0,MG/L
+07/23/2000,1,FEET,75,DEGREES F,,
+07/23/2000,2,FEET,75,DEGREES F,,
+07/23/2000,3,FEET,75,DEGREES F,,
+07/23/2000,4,FEET,75,DEGREES F,,
+05/10/2001,1,FEET,19.09,DEGREES C,10.1,MG/L
+05/10/2001,3,FEET,19.06,DEGREES C,10.07,MG/L
+05/10/2001,6,FEET,19.01,DEGREES C,10.05,MG/L
+05/10/2001,,,19.1,C,10.1,MG/L
+08/06/2001,1,FEET,29.38,DEGREES C,9.15,MG/L
+08/06/2001,3,FEET,29.33,DEGREES C,9.19,MG/L
+08/06/2001,,,29.4,C,9.2,MG/L
+04/14/2003,1,FEET,,,10.9,MG/L
+04/14/2003,3,FEET,11.43,DEGREES C,11.51,MG/L
+04/14/2003,,,11.5,C,10.9,MG/L
+08/19/2003,1,FEET,27.51,DEGREES C,,
+08/19/2003,3,FEET,27.05,DEGREES C,10,MG/L
+08/19/2003,6,FEET,27.41,DEGREES C,9.99,MG/L
+08/19/2003,,,27.5,C,10.0,MG/L
+04/13/2004,1,FEET,,,14.3,MG/L
+04/13/2004,3,FEET,8.86,DEGREES C,14.29,MG/L
+04/13/2004,6,FEET,8.84,DEGREES C,13.73,MG/L
+04/13/2004,,,8.8,C,14.3,MG/L
+08/09/2004,1,FEET,,,9.9,MG/L
+08/09/2004,3,FEET,24.4,DEGREES C,9.91,MG/L
+08/09/2004,,,24.4,C,9.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/10/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/05/1991,Heavy recreational use on 7/4- 50% cloud cover- mid 80'sf    
+07/18/1991,Hot (90 F+) - 25% cloud cover    
+08/01/1991,Has been cool- wind at 5 mph- approximately 50% cloud cover    
+08/14/1991,Clear- low 80'sf- light to medium use lately    
+08/29/1991,Very warm for several days (90's) - traffic on lake has dropped significantly    
+08/14/1992,Boat traffic low today.    
+09/04/1992,Boat traffic lower than normal.    
+09/11/1992,Boat traffic lower than normal.    
+09/18/1992,Boat traffic lower than normal.    
+09/25/1992,Low boat traffic.    
+10/03/1992,Low boat traffic.    
+10/09/1992,Once again low boat traffic.  Seems to be the boats that cause the water clarity problem.    
+10/16/1992,Very windy with bottom turn up.  It was hard to do the test- too windy.    
+04/17/1993,Ice off on 4/7/93.    
+04/23/1993,Very nice water.    
+05/07/1993,No boat action- bottom not turned up- carp are moving around.    
+05/14/1993,No boats/skiers    
+05/21/1993,Rough windy day    
+05/28/1993,Windy with boat action    
+06/05/1993,Clear- wind at 8-10mph    
+06/11/1993,Overcast- weed harvesting the previous day    
+07/02/1993,We found a deeper part of the lake    
+07/09/1993,Used test disk 6.5'- and regular disk 6.25'    
+07/15/1993,Very windy can not hold in the deep hole area    
+07/23/1993,New disk works great in the wind because it drops so quickly    
+07/30/1993,Lake is beautiful today.    
+09/10/1993,Very low boat traffic- could see a dime on the bottom.    
+09/24/1993,Partly cloudy- NW wind 10mph    
+04/16/1994,Ice off 4-4-94.  Let the fun begin!    
+04/23/1994,Swimming + aesthetic enjoyment slightly impaired because of bottom sediment.  Bad weather- lots of wind throughout week.    
+04/30/1994,Sediment in lake- lots of waves    
+05/06/1994,Nice day    
+05/20/1994,Windy on the lake.    
+06/17/1994,There was a lot of boat action throughout the week.    
+06/24/1994,Very poor water clarity- a lot of boat action.    
+07/15/1994,Water level lower than normal.    
+07/22/1994,Water level still low.    
+07/29/1994,Water level still low - better is starting to rise.    
+08/05/1994,Water level back to normal.    
+08/11/1994,This summer seems to be poor water clarity of our lake.    
+06/09/1995,Somewhat windy.    
+07/28/1996,Top sample- no depth reported- assumed 1'.    
+08/09/1996,Very low boat traffic throughout the week.    
+08/16/1996,Moderate boat traffic throughout the week.    
+08/23/1996,Moderate boat traffic.    
+08/30/1996,Very low boat traffic throughout the week.    
+06/23/1997,LAKE SAMPLE    
+07/30/1997,LAKE SAMPLE    
+07/29/1998,LAKE SAMPLE    
+07/23/2000,Very busy boat traffic.    
+05/10/2001,6FT MIDDLE OF LAKE     
+07/08/2001,DEEP HOLE    
+08/06/2001,MAIN BASIN- INTEGRATED WATER COLUMN     
+04/14/2003,SOUTH CENTRAL - DEEP SPOT    
+08/19/2003,SOUTHWEST SIDE OF LAKE - 6FT DEEP    
+04/13/2004,DEEP SPOT @ 6FT    
+08/09/2004,5FT HOLE NEAR LAUNCH - SURFACE GRAB    
+05/20/2011,First  measurement; training with Laura Herman.
+06/03/2011,EWM made seeing disc difficult. 
+06/11/2011,Overcast- breezy- difficult to see disc although water seemed clear.
+06/27/2011,Overcast and breezy. Lake still somewhat stirred up from weekend boat traffic.
+07/21/2011,Hot- humid- sunny- westerly breeze.
+08/12/2011,Partly cloudy- somewhat overcast. Light breeze- water was calm.
+08/29/2011,Bright- calm day; helped by granddaughters- Grace + Lilly.
+05/16/2012,Clear- sunny- light winds. Helped by wife- Julie. 
+06/06/2012,Beautiful- sunny day. Breeze out of the east. Lake seemed "stirred up"- although it had not been busy with boats or windy for the last several days. 
+06/26/2012,With Julie; sunny- mild. light breeze out of SE.
+07/24/2012,Overcast- breeze out of Southwest.  Granddaughter- Lilly Cobb helped.
+07/31/2012,Light Breeze- sunny.
+08/22/2012,Beautiful day low 70s; helped by Julie. Eelgrass is quite thick and going to seed.
+05/15/2013,w/Julie. Lots of EWM and suspended particles but  water is fairly clear. Sunny- light breeze- upper 70s.
+06/25/2013,Helped by granddaughters Grace and Lilly. Weather unsettled and overcast - over an inch of rain last night. 
+07/23/2013,Partly cloudy- breezy- low 70s. Wife Julie helped. Lots of milfoil this year. Secchi got buried in the plants. Appearance of algae in water column close to shore where it is calm.
+08/28/2013,Sunny- fairly calm- with wife- Julie. We now appear to have a resident seagull! The eel grass is flourishing. The secchi disc gets lost in the plants and hard to read as a result.
+05/21/2014,Calm- sunny day - low 70s. EWM not up in most areas yet- except Pickerel Bay. With Tom Day. Plenty of carp. Algae was evident.
+06/25/2014,Overcast- 70- light breeze. difficult to tell water color. Helped by wife- Julie. EWM seems less aggressive this year.
+07/23/2014,Weather is clear in low 70s with north breeze. Wife- Julie helped. Secchi got wrapped in eelgrass before it hit bottom so reading depth understates the clarity. Weather is clear in low 70s with north breeze. Wife- Julie helped. Secchi got wrapped in eelgrass before it hit bottom so reading depth understates the clarity.
+08/18/2014,Clear- sunny- mild. Eelgrass is going to seed and very thick- hopefully crowding out the EWM. By hunting for an open spot (few tall plants) I was able to see the secchi all the way to the bottom.
+09/17/2014,Mid 60s- sunny- beautiful day.Eel grass is uprooting. Secchi depth reading limited by depth and plants. Clarity is excellent.
+05/28/2015,Sunny- with Tom Day- saw a couple of heron.
+06/24/2015,Very calm and sunny. Helped by granddaughters. 
+07/22/2015,Partly cloudy- mild. With Julie Mann
+08/26/2015,Cloudy- overcast- cool. With Julie Mann. Lots of eel grace going to seed.
+06/02/2016,Beautiful day - sunny- breezy- low 70s. Wife Julie helped.
+06/29/2016,Beautiful day - sunny- 75- little wind. With Julie Mann. Greenish/yellow algae is quite visible. 
+07/25/2016,84 degrees- clear skies- breeze out of NNW. With Julie Mann. Algae is quite prevalent along shore and in water column. 
+08/22/2016,Beautiful day - clear sky- mid 70s- wind NW. With Wife- Julie.
+05/31/2017,sunny- breezy- Tom Day helped.
+07/11/2017,Cloudy- rain in forecast.  Cloudy- rain in forecast.  Recent heavy (over 3") rain night before last.
+07/28/2017,Beautiful day- with wife Julie. Breeze out of Northeast.
+09/01/2017,Beautiful fall day. Lake is quite clear. Helped by Greg H. Beautiful fall day. Lake is quite clear. Helped by Greg H. This is my August sample and it will be refrigerated until Tuesday. 
+06/11/2018,Cloudy- mid 60s- light chop.
+06/28/2018,81 degrees- calm- clear. With Julie.
+07/27/2018,Partly cloudy- breeze out of the North; light chop- 70 degrees. With Julie.
+08/30/2018,Cool- sunny- light wind from north; with Julie.
+07/03/2019,Cloudy- overcast- very little wind. With Tom Day.
+07/30/2019,Partly cloudy- breezy- out of the north. Very nice day.
+08/27/2019,Mostly sunny- breezy; w/Julie. We had 1 3/4" of rain within last 24 hours.
+07/01/2020,Sunny- hot- and breezy. Light boat traffic but no more than a normal week day. 
+07/22/2020,Sunny- hot- and breezy. With Julie.
+08/26/2020,Sunny- hot- light breeze. W/Julie
+
+
+
+
+Start Date,Group Name,Project Name
+09/10/1980,Data Collectors,Migrated from STORET Legacy
+07/05/1991,Al Byla,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/18/1991,Al Byla,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/01/1991,Al Byla,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/14/1991,Al Byla,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/29/1991,Al Byla,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/27/1991,Kristen Karpf,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/15/1992,Glen Kreinbrink,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/03/1992,Glen Kreinbrink,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/14/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/28/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/04/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/11/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/18/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/25/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/03/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/09/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/16/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/24/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/31/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+11/05/1992,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/17/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/23/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/30/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/07/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/14/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/21/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/28/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/05/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/11/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/18/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/26/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/02/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/09/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/15/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/23/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/30/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/06/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/09/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/20/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/27/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/09/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/10/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/17/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/24/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/27/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/01/1993,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/16/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/23/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/30/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/06/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/13/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/20/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/31/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/10/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/17/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/24/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/27/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/08/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/15/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/22/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/29/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/05/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/07/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/11/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/19/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/26/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/02/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/06/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/10/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/17/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/24/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/01/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/04/1994,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/02/1995,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/12/1995,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/19/1995,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/26/1995,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/09/1995,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/12/1995,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/16/1996,Data Collectors,LAKE MANAGEMENT 95/96
+06/26/1996,Data Collectors,Nonpoint Source Evaluation 1996
+07/05/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/17/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/19/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/25/1996,Data Collectors,LAKE EVALUATION
+07/28/1996,Data Collectors,Citizen Lake Monitoring
+07/28/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/09/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/16/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/23/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/27/1996,Data Collectors,NONPOINT SOURCE
+08/30/1996,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/26/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/04/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/10/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/17/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/30/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/07/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/14/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/23/1997,John And Patti Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/11/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/18/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/30/1997,John Rageth And Steve James,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/27/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/04/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/10/1997,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/01/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/08/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/15/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/22/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/29/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/05/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/19/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/26/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/04/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/10/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/17/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/24/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/29/1998,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/14/1999,John And Patti Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/21/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/28/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/03/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/11/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/18/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/24/1999,John And Patti Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/02/1999,John And Patti Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/09/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/15/1999,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/26/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+05/04/2000,John And Patti Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/12/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/19/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/24/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/01/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/08/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/11/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/16/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/23/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/04/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/14/2000,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/23/2000,John And Patti Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/31/2000,Data Collectors,GMU LAKE CLASS STUDY
+05/04/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/10/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+05/10/2001,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+05/11/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/18/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/25/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/01/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/07/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/15/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/23/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/29/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/04/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/08/2001,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/06/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/06/2001,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+05/17/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/24/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/30/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/07/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/14/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/20/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/28/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/04/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/19/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/26/2002,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/14/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/14/2003,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+05/02/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/09/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/16/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/23/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/30/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/07/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/13/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/20/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/28/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/04/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/25/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/02/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/08/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/19/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/19/2003,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+08/22/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/30/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/06/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/12/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/26/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/04/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/10/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/18/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+10/25/2003,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+04/13/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/13/2004,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+08/09/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/09/2004,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+05/06/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/13/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/21/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/28/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/04/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/10/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/17/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/24/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/01/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/08/2005,John Rageth,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/20/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/03/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/11/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/27/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/21/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/12/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/29/2011,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/16/2012,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/06/2012,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/26/2012,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/24/2012,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/31/2012,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/22/2012,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/15/2013,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/25/2013,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/23/2013,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/28/2013,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/17/2013,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/21/2014,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/25/2014,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/23/2014,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/18/2014,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/17/2014,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/28/2015,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/24/2015,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/22/2015,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/26/2015,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/23/2015,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/02/2016,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/29/2016,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/25/2016,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/22/2016,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+05/31/2017,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/11/2017,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/28/2017,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+09/01/2017,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/11/2018,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+06/28/2018,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/27/2018,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/30/2018,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/03/2019,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/30/2019,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/27/2019,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/01/2020,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+07/22/2020,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole
+08/26/2020,John Mann,Citizen Lake Monitoring - Water Quality - Eagle Spring Lake; Deep Hole

@@ -1,0 +1,840 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mallalieu Lake,Saint Croix,2607100,WC,56,,563121,SW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/12/1973,,,,,30,,54,,,,,,
+1,11/06/1973,,,,,60,,60,,,,,,
+1,02/26/1974,,,,,90,,63,,,,,,
+1,05/01/1974,,,,,40,,57,,,,,,
+1,07/16/1974,,,,,80,,62,,,,,,
+1,10/08/1974,,,,,160,,67,,,,,,
+1,02/09/1975,,,,,40,,57,,,,,,
+1,06/25/1991,,,,123,59,,60,71,,,,,
+1,07/10/1991,,,,51,79,,62,65,,,,,
+1,08/07/1991,,,,104,83,,62,70,,,,,
+1,08/29/1991,,,,58,50,,58,65,,,,,
+1,09/12/1991,,,,12,280,,72,54,,,,,
+8188471,05/10/2001,,,,,97,,64,,,,,,
+8188467,07/23/2001,3.28,NO,1,39,89,60,63,62,,,,,
+8191153,05/18/2004,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,06/02/2004,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,06/23/2004,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,07/15/2004,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191153,08/03/2004,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,08/17/2004,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,06/16/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,07/06/2005,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,07/14/2005,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,07/26/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,08/03/2005,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,08/21/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,09/14/2005,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,10/25/2005,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,05/03/2006,2.25,NO,0.7,,53,65,59,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,05/22/2006,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,06/06/2006,2.5,NO,0.8,42.5,58,64,60,63,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,06/15/2006,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,06/29/2006,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,07/13/2006,2.75,NO,0.8,38.3,67,63,61,62,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,08/08/2006,2.25,NO,0.7,62.3,64,65,60,66,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,09/24/2006,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,10/14/2006,7.5,NO,2.3,8.68,20,48,51,51,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191153,05/21/2007,2.75,NO,0.8,,49,63,58,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,06/11/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,06/20/2007,2.25,NO,0.7,46.9,86,65,63,64,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,07/12/2007,3,NO,0.9,52.5,88,61,63,65,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,07/30/2007,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,10/12/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191153,05/31/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,06/30/2008,1.5,NO,0.5,44.7,92,71,63,64,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191153,07/07/2008,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,07/30/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,07/31/2008,,,,29.1,69,,61,60,,,,,
+8191153,09/02/2008,2.25,NO,0.7,66.2,52,65,59,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,09/18/2008,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,09/28/2008,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,10/31/2008,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191153,05/24/2009,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,
+8191153,05/26/2009,,,,,56,,59,,,,,,
+8191153,07/07/2009,3,NO,0.9,63.8,80,61,62,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,07/27/2009,2.5,NO,0.8,81.2,108,64,64,68,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191153,08/10/2009,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191153,09/02/2009,2.5,NO,0.8,62.1,53,64,59,66,NORMAL,,MURKY,GREEN,
+8191153,11/05/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191153,06/07/2010,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191153,06/16/2010,4.5,NO,1.4,26,40,55,57,59,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191153,08/01/2010,,,,85.9,95,,63,68,,,,,
+8191153,08/02/2010,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191153,08/23/2010,2,NO,0.6,64.2,252,67,71,66,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191153,09/06/2010,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191153,10/22/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,05/03/2011,2.5,NO,0.8,,95,64,63,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/08/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/21/2011,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+48236569,06/21/2011,,,,27.8,60,,60,60,,,,,
+46693412,06/25/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+46693412,07/04/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+46693412,08/02/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+48236569,08/02/2011,,,,60.7,74,,61,66,,,,,
+46693412,08/22/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+48236569,08/22/2011,,,,47.3,66,,61,64,,,,,
+46693412,04/03/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,04/14/2012,2.25,NO,0.7,,64,65,60,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/18/2012,3.5,NO,1.1,39.4,44,59,57,63,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,07/17/2012,4.5,NO,1.4,16.4,42,55,57,56,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,08/20/2012,3,NO,0.9,36.9,46,61,58,62,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,09/25/2012,,,,21.6,33,,55,58,,,,,
+46693412,09/26/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,10/09/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,04/29/2013,3,NO,0.9,,165,61,68,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,07/23/2013,2.5,NO,0.8,44.2,60,64,60,63,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46693412,08/21/2013,2.25,NO,0.7,47.6,19.1,65,51,64,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,04/10/2014,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,05/07/2014,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,05/24/2014,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,05/31/2014,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,06/02/2014,2,NO,0.6,54.7,75.2,67,62,65,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/04/2014,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/08/2014,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/16/2014,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,06/30/2014,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,07/08/2014,2.25,NO,0.7,123,143,65,67,71,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,07/18/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,08/02/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,08/05/2014,3,NO,0.9,48.8,53.9,61,59,64,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,08/14/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,08/27/2014,3.25,NO,1,,,60,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+46693412,09/09/2014,2.75,NO,0.8,75.5,158,63,67,67,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,04/04/2015,3,NO,0.9,,50.6,61,59,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,04/17/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,04/22/2015,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+46693412,05/19/2015,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/23/2015,3,NO,0.9,65.8,61.8,61,60,66,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,07/21/2015,2.25,NO,0.7,2.96,137,65,66,43,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,08/25/2015,3,NO,0.9,9.38,108,61,64,52,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,10/02/2015,1.25,NO,0.4,,,74,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+46693412,10/05/2015,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+46693412,04/27/2016,2.5,NO,0.8,,70,64,61,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,05/04/2016,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46693412,05/07/2016,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46693412,06/13/2016,,,,56.5,71.7,,61,65,,,,,
+46693412,07/19/2016,,,,185,90.3,,63,74,,,,,
+46693412,08/08/2016,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46693412,08/16/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+46693412,08/22/2016,,,,61.3,75.6,,62,66,,,,,
+46693412,09/09/2016,2,,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,09/19/2016,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+46693412,10/03/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,04/11/2017,,,,,57.4,,60,,,,,,
+46693412,04/12/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+46693412,05/23/2017,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46693412,05/30/2017,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+46693412,06/16/2017,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,06/19/2017,2.25,NO,0.7,96,74.8,65,62,69,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+46693412,07/10/2017,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,07/18/2017,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,07/26/2017,2.5,NO,0.8,46.4,84.7,64,63,64,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,08/11/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,08/21/2017,2.25,NO,0.7,50.1,42.8,65,57,64,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+46693412,09/12/2017,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+46693412,09/28/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161641648,04/22/2018,3,NO,0.9,,141,61,66,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,05/26/2018,,NO,,,,,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,06/10/2018,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+46693412,06/18/2018,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/30/2018,,,,40.6,69.5,,61,63,,,,,
+161641648,06/30/2018,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,07/03/2018,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,07/05/2018,3,NO,0.9,,,61,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,07/28/2018,2,NO,0.6,117,137,67,66,71,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,08/06/2018,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,08/25/2018,2,NO,0.6,33.2,63.8,67,60,61,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,09/22/2018,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,10/21/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,04/09/2019,3.25,NO,1,,121,60,65,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,05/14/2019,4.25,NO,1.3,,,56,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,06/07/2019,2.75,NO,0.8,,,63,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,06/17/2019,,,,45.6,46.5,,58,64,,,,,
+161641648,07/24/2019,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+161641648,07/29/2019,3.25,NO,1,39.1,50.4,60,59,63,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+161641648,08/25/2019,2.5,NO,0.8,107,105,64,64,70,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+161641648,09/02/2019,0.75,NO,0.2,,,81,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+161641648,09/10/2019,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,09/18/2019,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,10/04/2019,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,10/08/2019,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,10/31/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,07/20/2020,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,07/27/2020,2.5,NO,0.8,49.6,68.3,64,61,64,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,08/19/2020,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161641648,08/22/2020,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,08/24/2020,3.25,NO,1,39.7,44,60,57,63,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,09/14/2020,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,09/21/2020,2.25,NO,0.7,62.5,40.7,65,57,66,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,10/06/2020,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161641648,10/26/2020,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/12/1973,,,19.1667,C,15.3,MG/L
+11/06/1973,,,3.88889,C,15.8,MG/L
+02/26/1974,,,1.66667,C,10.8,MG/L
+05/01/1974,,,15.8333,C,17.1,MG/L
+07/16/1974,,,20,C,12.8,MG/L
+10/08/1974,,,49,C,11.6,MG/L
+02/09/1975,,,1.94444,C,10,MG/L
+07/10/1991,,,24.0,C,18.0,MG/L
+08/07/1991,,,,,11.5,MG/L
+08/29/1991,,,21.5,C,14.5,MG/L
+09/12/1991,,,18.0,C,7.7,MG/L
+07/23/2001,0,FEET,,,11.7,MG/L
+07/23/2001,,,26.12,C,11.70,MG/L
+05/18/2004,3,FEET,63,DEGREES F,13.4,MG/L
+05/18/2004,7,FEET,60,DEGREES F,13.3,MG/L
+05/18/2004,10,FEET,59,DEGREES F,12.2,MG/L
+06/02/2004,3,FEET,65,DEGREES F,13.7,MG/L
+06/02/2004,7,FEET,61,DEGREES F,11.3,MG/L
+06/02/2004,10,FEET,60,DEGREES F,9.5,MG/L
+06/23/2004,3,FEET,68,DEGREES F,12.5,MG/L
+06/23/2004,7,FEET,68,DEGREES F,12.1,MG/L
+06/23/2004,10,FEET,67,DEGREES F,10.4,MG/L
+07/15/2004,3,FEET,76,DEGREES F,12.8,MG/L
+07/15/2004,7,FEET,76,DEGREES F,12.9,MG/L
+07/15/2004,10,FEET,74,DEGREES F,11.2,MG/L
+08/03/2004,3,FEET,72,DEGREES F,13.4,MG/L
+08/03/2004,7,FEET,71,DEGREES F,13.1,MG/L
+08/03/2004,10,FEET,70,DEGREES F,11.3,MG/L
+08/17/2004,3,FEET,71,DEGREES F,15,MG/L
+08/17/2004,7,FEET,70,DEGREES F,15.4,MG/L
+08/17/2004,10,FEET,66,DEGREES F,13.9,MG/L
+06/16/2005,3,FEET,21.4,DEGREES C,8.4,MG/L
+06/16/2005,6,FEET,21,DEGREES C,7.6,MG/L
+06/16/2005,9,FEET,20.3,DEGREES C,7.5,MG/L
+07/06/2005,3,FEET,22,DEGREES C,14.7,MG/L
+07/06/2005,6,FEET,21.7,DEGREES C,13.7,MG/L
+07/06/2005,9,FEET,21.2,DEGREES C,11.7,MG/L
+07/14/2005,3,FEET,28.3,DEGREES C,18.3,MG/L
+07/14/2005,6,FEET,25.5,DEGREES C,10.3,MG/L
+07/14/2005,9,FEET,23.8,DEGREES C,6.3,MG/L
+07/26/2005,3,FEET,24.7,DEGREES C,12,MG/L
+07/26/2005,6,FEET,24.4,DEGREES C,10.3,MG/L
+07/26/2005,9,FEET,23.3,DEGREES C,8.6,MG/L
+08/03/2005,3,FEET,27.1,DEGREES F,19.5,MG/L
+08/03/2005,6,FEET,24.5,DEGREES F,6.8,MG/L
+08/03/2005,9,FEET,23.4,DEGREES F,3.1,MG/L
+08/21/2005,3,FEET,22.2,DEGREES C,14.2,MG/L
+08/21/2005,6,FEET,22,DEGREES C,13,MG/L
+08/21/2005,9,FEET,21.6,DEGREES C,11,MG/L
+09/14/2005,3,FEET,21.5,DEGREES C,13.1,MG/L
+09/14/2005,6,FEET,20.8,DEGREES C,11.1,MG/L
+09/14/2005,9,FEET,20.5,DEGREES C,11.2,MG/L
+05/03/2006,3,FEET,59,DEGREES F,16.2,MG/L
+05/03/2006,6,FEET,59,DEGREES F,16.3,MG/L
+05/03/2006,9,FEET,56,DEGREES F,13.5,MG/L
+05/22/2006,3,FEET,61,DEGREES F,15.7,MG/L
+05/22/2006,6,FEET,59,DEGREES F,15.2,MG/L
+05/22/2006,9,FEET,59,DEGREES F,14.9,MG/L
+06/06/2006,3,FEET,75,DEGREES F,10.9,MG/L
+06/06/2006,6,FEET,74,DEGREES F,10.4,MG/L
+06/06/2006,9,FEET,73,DEGREES F,8.5,MG/L
+06/15/2006,3,FEET,72,DEGREES F,17.3,MG/L
+06/15/2006,6,FEET,71,DEGREES F,15.4,MG/L
+06/15/2006,9,FEET,66,DEGREES F,6.8,MG/L
+06/29/2006,3,FEET,76,DEGREES F,18.8,MG/L
+06/29/2006,6,FEET,73,DEGREES F,17.8,MG/L
+06/29/2006,9,FEET,71,DEGREES F,12.3,MG/L
+07/13/2006,3,FEET,80,DEGREES F,16.9,MG/L
+07/13/2006,6,FEET,79,DEGREES F,15,MG/L
+07/13/2006,9,FEET,74,DEGREES F,9.9,MG/L
+08/08/2006,3,FEET,78,DEGREES F,18.2,MG/L
+08/08/2006,6,FEET,76,DEGREES F,14.7,MG/L
+08/08/2006,9,FEET,73,DEGREES F,12.2,MG/L
+09/24/2006,3,FEET,57,DEGREES F,16.2,MG/L
+09/24/2006,6,FEET,57,DEGREES F,14.7,MG/L
+09/24/2006,9,FEET,56,DEGREES F,13.1,MG/L
+10/14/2006,3,FEET,43,DEGREES F,14,MG/L
+10/14/2006,6,FEET,43,DEGREES F,13.8,MG/L
+10/14/2006,9,FEET,43,DEGREES F,13.8,MG/L
+05/21/2007,3,FEET,64,DEGREES F,12.3,MG/L
+05/21/2007,6,FEET,63,DEGREES F,12.6,MG/L
+05/21/2007,9,FEET,61,DEGREES F,12,MG/L
+06/11/2007,3,FEET,74,DEGREES F,18.3,MG/L
+06/11/2007,6,FEET,71,DEGREES F,16.9,MG/L
+06/11/2007,9,FEET,69,DEGREES F,10.7,MG/L
+06/20/2007,3,FEET,74,DEGREES F,10.5,MG/L
+06/20/2007,6,FEET,73,DEGREES F,10.1,MG/L
+06/20/2007,9,FEET,72,DEGREES F,8.4,MG/L
+07/12/2007,3,FEET,74,DEGREES F,10.2,MG/L
+07/12/2007,6,FEET,74,DEGREES F,10.1,MG/L
+07/12/2007,9,FEET,73,DEGREES F,9.3,MG/L
+07/30/2007,3,FEET,81,DEGREES F,19.4,MG/L
+07/30/2007,6,FEET,78,DEGREES F,14.5,MG/L
+07/30/2007,9,FEET,76,DEGREES F,8.2,MG/L
+10/12/2007,3,FEET,54,DEGREES F,8.6,MG/L
+10/12/2007,6,FEET,54,DEGREES F,8.6,MG/L
+10/12/2007,9,FEET,53,DEGREES F,8.5,MG/L
+05/31/2008,3,FEET,68,DEGREES F,14.2,MG/L
+05/31/2008,6,FEET,65,DEGREES F,11,MG/L
+05/31/2008,9,FEET,63,DEGREES F,8,MG/L
+06/30/2008,3,FEET,74,DEGREES F,13.2,MG/L
+06/30/2008,6,FEET,71,DEGREES F,8.1,MG/L
+06/30/2008,9,FEET,70,DEGREES F,7.1,MG/L
+07/07/2008,3,FEET,77,DEGREES F,15.8,MG/L
+07/07/2008,6,FEET,75,DEGREES F,11.5,MG/L
+07/07/2008,9,FEET,72,DEGREES F,4.1,MG/L
+07/30/2008,3,FEET,78,DEGREES F,12.7,MG/L
+07/30/2008,6,FEET,77,DEGREES F,10.8,MG/L
+07/30/2008,9,FEET,74,DEGREES F,3.7,MG/L
+09/02/2008,3,FEET,74,DEGREES F,14.6,MG/L
+09/02/2008,6,FEET,73,DEGREES F,12.6,MG/L
+09/02/2008,9,FEET,71,DEGREES F,8.5,MG/L
+09/18/2008,3,FEET,66,DEGREES F,20,MG/L
+09/18/2008,6,FEET,65,DEGREES F,20,MG/L
+09/18/2008,9,FEET,62,DEGREES F,8.3,MG/L
+10/31/2008,3,FEET,46,DEGREES F,13.5,MG/L
+10/31/2008,6,FEET,45,DEGREES F,13.6,MG/L
+10/31/2008,9,FEET,45,DEGREES F,13.3,MG/L
+05/24/2009,3,FEET,21.1,DEGREES C,14.9,MG/L
+05/24/2009,6,FEET,19.9,DEGREES C,13.5,MG/L
+05/24/2009,9,FEET,19.3,DEGREES C,10.5,MG/L
+07/07/2009,3,FEET,74,DEGREES F,19.8,MG/L
+07/07/2009,6,FEET,72,DEGREES F,12.9,MG/L
+07/07/2009,9,FEET,69,DEGREES F,7.3,MG/L
+07/27/2009,3,FEET,74,DEGREES F,17.2,MG/L
+07/27/2009,6,FEET,73,DEGREES F,13,MG/L
+07/27/2009,9,FEET,71,DEGREES F,7.6,MG/L
+08/10/2009,3,FEET,75,DEGREES F,13.5,MG/L
+08/10/2009,6,FEET,74,DEGREES F,8.8,MG/L
+08/10/2009,9,FEET,71,DEGREES F,5,MG/L
+09/02/2009,3,FEET,44,DEGREES F,11.3,MG/L
+09/02/2009,6,FEET,43,DEGREES F,11.1,MG/L
+09/02/2009,9,FEET,43,DEGREES F,11.1,MG/L
+11/05/2009,3,FEET,44,DEGREES F,11.3,MG/L
+11/05/2009,6,FEET,43,DEGREES F,11.1,MG/L
+11/05/2009,9,FEET,43,DEGREES F,10.1,MG/L
+06/07/2010,3,FEET,22.8,DEGREES C,16.5,MG/L
+06/07/2010,6,FEET,21.1,DEGREES C,15.8,MG/L
+06/07/2010,9,FEET,20.1,DEGREES C,13.2,MG/L
+06/16/2010,3,FEET,19.2,DEGREES C,13.8,MG/L
+06/16/2010,6,FEET,18.8,DEGREES C,13,MG/L
+06/16/2010,9,FEET,17.8,DEGREES C,8.4,MG/L
+08/02/2010,3,FEET,24.6,DEGREES C,15.1,MG/L
+08/02/2010,6,FEET,23.5,DEGREES C,9.2,MG/L
+08/02/2010,9,FEET,21.6,DEGREES C,4.4,MG/L
+08/23/2010,3,FEET,24.6,DEGREES C,12.3,MG/L
+08/23/2010,6,FEET,22.7,DEGREES C,7.5,MG/L
+08/23/2010,9,FEET,21,DEGREES C,3.6,MG/L
+09/06/2010,3,FEET,18.7,DEGREES C,18.8,MG/L
+09/06/2010,6,FEET,18.4,DEGREES C,15.9,MG/L
+09/06/2010,9,FEET,17.8,DEGREES C,13.3,MG/L
+10/22/2010,3,FEET,10.6,DEGREES C,18.3,MG/L
+10/22/2010,6,FEET,9.8,DEGREES C,17.1,MG/L
+10/22/2010,9,FEET,9.6,DEGREES C,15.8,MG/L
+05/03/2011,0,FEET,9,DEGREES C,13.2,MG/L
+05/03/2011,3,FEET,8.6,DEGREES C,13.3,MG/L
+05/03/2011,6,FEET,8,DEGREES C,13,MG/L
+05/03/2011,9,FEET,7.9,DEGREES C,12.9,MG/L
+08/02/2011,0,FEET,25.6,DEGREES C,8.96,MG/L
+08/02/2011,3,FEET,25.5,DEGREES C,8.1,MG/L
+08/02/2011,6,FEET,25,DEGREES C,7.25,MG/L
+08/02/2011,9,FEET,22.8,DEGREES C,4.05,MG/L
+08/22/2011,0,FEET,25.2,DEGREES C,15.15,MG/L
+08/22/2011,3,FEET,24.2,DEGREES C,16.65,MG/L
+08/22/2011,6,FEET,22.6,DEGREES C,11.25,MG/L
+08/22/2011,9,FEET,21.4,DEGREES C,8.3,MG/L
+04/03/2012,0,FEET,13.5,DEGREES C,18.5,MG/L
+04/03/2012,3,FEET,13.3,DEGREES C,18.2,MG/L
+04/03/2012,6,FEET,12.8,DEGREES C,16.7,MG/L
+04/03/2012,9,FEET,12,DEGREES C,13.8,MG/L
+04/14/2012,0,FEET,12,DEGREES C,15.6,MG/L
+04/14/2012,3,FEET,11.3,DEGREES C,15.5,MG/L
+04/14/2012,6,FEET,10.6,DEGREES C,14,MG/L
+04/14/2012,9,FEET,10.4,DEGREES C,12.2,MG/L
+06/18/2012,0,FEET,23.8,DEGREES C,13.2,MG/L
+06/18/2012,3,FEET,21.3,DEGREES C,15.1,MG/L
+06/18/2012,6,FEET,20.4,DEGREES C,13,MG/L
+06/18/2012,9,FEET,19.2,DEGREES C,9.4,MG/L
+07/17/2012,0,FEET,29.7,DEGREES C,13.7,MG/L
+07/17/2012,3,FEET,28.8,DEGREES C,14.45,MG/L
+07/17/2012,6,FEET,27.4,DEGREES C,12.7,MG/L
+07/17/2012,9,FEET,26.7,DEGREES C,11.45,MG/L
+08/20/2012,0,FEET,22.7,DEGREES C,15.95,MG/L
+08/20/2012,3,FEET,21.9,DEGREES C,16.5,MG/L
+08/20/2012,6,FEET,20.5,DEGREES C,14.4,MG/L
+08/20/2012,9,FEET,19.9,DEGREES C,13.95,MG/L
+09/26/2012,0,FEET,14.8,DEGREES C,14.2,MG/L
+09/26/2012,3,FEET,14.8,DEGREES C,14.6,MG/L
+09/26/2012,6,FEET,14.1,DEGREES C,15.1,MG/L
+09/26/2012,9,FEET,13.5,DEGREES C,14.3,MG/L
+04/29/2013,0,FEET,16.2,DEGREES C,10.4,MG/L
+04/29/2013,3,FEET,14.2,DEGREES C,10.14,MG/L
+04/29/2013,6,FEET,12.8,DEGREES C,10.75,MG/L
+04/29/2013,9,FEET,12.5,DEGREES C,10.3,MG/L
+07/23/2013,0,FEET,26.7,DEGREES C,16.52,MG/L
+07/23/2013,3,FEET,26.6,DEGREES C,16.05,MG/L
+07/23/2013,6,FEET,24.8,DEGREES C,12.77,MG/L
+07/23/2013,9,FEET,23.8,DEGREES C,10.4,MG/L
+04/10/2014,0,FEET,40.4,DEGREES F,12.04,MG/L
+04/10/2014,3,FEET,40.3,DEGREES F,11.88,MG/L
+04/10/2014,6,FEET,40.1,DEGREES F,11.77,MG/L
+04/10/2014,9,FEET,39.9,DEGREES F,11.7,MG/L
+05/07/2014,0,FEET,56.7,DEGREES F,10.18,MG/L
+05/07/2014,3,FEET,56.6,DEGREES F,10.04,MG/L
+05/07/2014,6,FEET,56.3,DEGREES F,9.76,MG/L
+05/07/2014,9,FEET,56,DEGREES F,9.69,MG/L
+06/02/2014,0,FEET,71.3,DEGREES F,11.45,MG/L
+06/02/2014,3,FEET,71,DEGREES F,10.77,MG/L
+06/02/2014,6,FEET,67,DEGREES F,7.17,MG/L
+06/02/2014,9,FEET,66.7,DEGREES F,7.1,MG/L
+06/16/2014,0,FEET,70.3,DEGREES F,10,MG/L
+06/16/2014,3,FEET,68.3,DEGREES F,9.75,MG/L
+06/16/2014,6,FEET,66,DEGREES F,8.96,MG/L
+06/16/2014,9,FEET,64.5,DEGREES F,7.45,MG/L
+06/30/2014,0,FEET,72.6,DEGREES F,8.27,MG/L
+06/30/2014,3,FEET,72.4,DEGREES F,7.8,MG/L
+06/30/2014,6,FEET,72.3,DEGREES F,7.5,MG/L
+06/30/2014,9,FEET,71.9,DEGREES F,7.25,MG/L
+07/08/2014,0,FEET,74.9,DEGREES F,15.4,MG/L
+07/08/2014,3,FEET,74.9,DEGREES F,14.95,MG/L
+07/08/2014,6,FEET,70.8,DEGREES F,7.75,MG/L
+07/08/2014,9,FEET,69.8,DEGREES F,7.5,MG/L
+07/18/2014,0,FEET,73.3,DEGREES F,18.25,MG/L
+07/18/2014,3,FEET,70.3,DEGREES F,17.95,MG/L
+07/18/2014,6,FEET,67.6,DEGREES F,13.1,MG/L
+07/18/2014,9,FEET,66,DEGREES F,8,MG/L
+08/05/2014,0,FEET,77.1,DEGREES F,15.5,MG/L
+08/05/2014,3,FEET,77,DEGREES F,14.4,MG/L
+08/05/2014,6,FEET,74,DEGREES F,12.3,MG/L
+08/05/2014,9,FEET,71.6,DEGREES F,6.4,MG/L
+09/09/2014,0,FEET,67.6,DEGREES F,12.35,MG/L
+09/09/2014,3,FEET,66.5,DEGREES F,11.45,MG/L
+09/09/2014,6,FEET,65,DEGREES F,8.55,MG/L
+09/09/2014,9,FEET,64.2,DEGREES F,6.75,MG/L
+04/04/2015,3,FEET,49.9,DEGREES F,17.1,MG/L
+04/04/2015,6,FEET,49.3,DEGREES F,16.8,MG/L
+04/04/2015,9,FEET,48.6,DEGREES F,15.55,MG/L
+04/22/2015,3,FEET,57.1,DEGREES F,15.9,MG/L
+04/22/2015,6,FEET,53.2,DEGREES F,14.8,MG/L
+04/22/2015,9,FEET,52.8,DEGREES F,14.1,MG/L
+05/19/2015,3,FEET,59.4,DEGREES F,13.85,MG/L
+05/19/2015,6,FEET,55.7,DEGREES F,12.65,MG/L
+05/19/2015,9,FEET,53.7,DEGREES F,11.55,MG/L
+06/23/2015,3,FEET,74.9,DEGREES F,14.7,MG/L
+06/23/2015,6,FEET,71.8,DEGREES F,10.3,MG/L
+06/23/2015,9,FEET,70,DEGREES F,8.3,MG/L
+07/21/2015,3,FEET,75.6,DEGREES F,10.9,MG/L
+07/21/2015,6,FEET,72.1,DEGREES F,6.75,MG/L
+07/21/2015,9,FEET,71,DEGREES F,5.9,MG/L
+08/25/2015,3,FEET,63.7,DEGREES F,8.3,MG/L
+08/25/2015,6,FEET,61.6,DEGREES F,7.75,MG/L
+08/25/2015,9,FEET,61.2,DEGREES F,7.55,MG/L
+10/02/2015,3,FEET,57,DEGREES F,7.9,MG/L
+10/02/2015,6,FEET,56.2,DEGREES F,8.05,MG/L
+10/02/2015,9,FEET,55.6,DEGREES F,8.25,MG/L
+10/05/2015,3,FEET,54.9,DEGREES F,8.48,MG/L
+10/05/2015,6,FEET,54.2,DEGREES F,8.73,MG/L
+10/05/2015,9,FEET,53.6,DEGREES F,8.87,MG/L
+04/27/2016,3,FEET,51.3,DEGREES F,12.3,MG/L
+04/27/2016,6,FEET,51.3,DEGREES F,12.05,MG/L
+04/27/2016,9,FEET,51.1,DEGREES F,12,MG/L
+09/19/2016,3,FEET,66.8,DEGREES F,18.2,MG/L
+09/19/2016,6,FEET,63.6,DEGREES F,10.7,MG/L
+09/19/2016,9,FEET,62.4,DEGREES F,8.3,MG/L
+06/19/2017,3,FEET,70.7,DEGREES F,15.5,MG/L
+06/19/2017,6,FEET,67.2,DEGREES F,12.1,MG/L
+07/26/2017,3,FEET,74.4,DEGREES F,10.2,MG/L
+07/26/2017,6,FEET,72.3,DEGREES F,8.1,MG/L
+07/26/2017,9,FEET,70.3,DEGREES F,5.85,MG/L
+08/21/2017,3,FEET,71.4,DEGREES F,17.5,MG/L
+08/21/2017,6,FEET,68,DEGREES F,14.1,MG/L
+08/21/2017,9,FEET,65.9,DEGREES F,9.3,MG/L
+04/22/2018,3,FEET,48.2,DEGREES F,12,MG/L
+04/22/2018,6,FEET,47.7,DEGREES F,11.9,MG/L
+04/22/2018,9,FEET,47.4,DEGREES F,11.7,MG/L
+05/26/2018,3,FEET,72,DEGREES F,12.5,MG/L
+05/26/2018,6,FEET,70,DEGREES F,8.9,MG/L
+05/26/2018,8.9,FEET,69,DEGREES F,9.2,MG/L
+06/10/2018,3,FEET,68.1,DEGREES F,15.9,MG/L
+06/10/2018,6,FEET,66.4,DEGREES F,11.9,MG/L
+06/10/2018,7,FEET,66.3,DEGREES F,9.7,MG/L
+06/30/2018,3,FEET,75.8,DEGREES F,12.6,MG/L
+06/30/2018,6,FEET,72.3,DEGREES F,5.5,MG/L
+06/30/2018,7,FEET,72.2,DEGREES F,4.8,MG/L
+07/28/2018,3,FEET,71.2,DEGREES F,,
+07/28/2018,6,FEET,67.8,DEGREES F,,
+07/28/2018,7,FEET,65.5,DEGREES F,,
+08/25/2018,2,FEET,66,DEGREES F,10.2,MG/L
+08/25/2018,3,FEET,64.6,DEGREES F,8.7,MG/L
+08/25/2018,6,FEET,62.5,DEGREES F,6.6,MG/L
+08/25/2018,7,FEET,62.3,DEGREES F,5.2,MG/L
+09/22/2018,1,FEET,58.4,DEGREES F,9.4,MG/L
+09/22/2018,3,FEET,57.4,DEGREES F,9.1,MG/L
+09/22/2018,6,FEET,56.8,DEGREES F,8.9,MG/L
+09/22/2018,7,FEET,56.8,DEGREES F,8.8,MG/L
+10/21/2018,1,FEET,45.1,DEGREES F,10.2,MG/L
+10/21/2018,3,FEET,45,DEGREES F,10,MG/L
+10/21/2018,6,FEET,43.1,DEGREES F,10.1,MG/L
+10/21/2018,7,FEET,43.1,DEGREES F,10.1,MG/L
+04/09/2019,1,FEET,49.6,DEGREES F,10.98,MG/L
+04/09/2019,3,FEET,46.8,DEGREES F,10.35,MG/L
+04/09/2019,6,FEET,46.4,DEGREES F,9.9,MG/L
+05/14/2019,1,FEET,60.9,DEGREES F,14.48,MG/L
+05/14/2019,3,FEET,60.4,DEGREES F,14.4,MG/L
+05/14/2019,6,FEET,55,DEGREES F,12.2,MG/L
+05/14/2019,8,FEET,53.9,DEGREES F,11.6,MG/L
+06/07/2019,1,FEET,68.5,DEGREES F,16.8,MG/L
+06/07/2019,3,FEET,67.2,DEGREES F,14.8,MG/L
+06/07/2019,6,FEET,66.9,DEGREES F,13.8,MG/L
+06/07/2019,9,FEET,66.1,DEGREES F,12.8,MG/L
+07/29/2019,1,FEET,75.2,DEGREES F,15,MG/L
+07/29/2019,3,FEET,75.2,DEGREES F,15.8,MG/L
+07/29/2019,6,FEET,73,DEGREES F,10,MG/L
+07/29/2019,9,FEET,70.6,DEGREES F,8.32,MG/L
+08/25/2019,1,FEET,70.2,DEGREES F,19.6,MG/L
+08/25/2019,3,FEET,70.2,DEGREES F,19.3,MG/L
+08/25/2019,6,FEET,70,DEGREES F,17.7,MG/L
+08/25/2019,9,FEET,66.2,DEGREES F,9.9,MG/L
+09/18/2019,1,FEET,70.3,DEGREES F,10.1,MG/L
+09/18/2019,3,FEET,69,DEGREES F,10.2,MG/L
+09/18/2019,6,FEET,68.2,DEGREES F,9.45,MG/L
+09/18/2019,9,FEET,66.1,DEGREES F,9.9,MG/L
+07/27/2020,0,FEET,77.9,DEGREES F,18.4,MG/L
+07/27/2020,3,FEET,76.5,DEGREES F,17,MG/L
+07/27/2020,6,FEET,70.8,DEGREES F,8.85,MG/L
+07/27/2020,9,FEET,70,DEGREES F,7.8,MG/L
+08/24/2020,0,FEET,77.4,DEGREES F,16,MG/L
+08/24/2020,3,FEET,77.4,DEGREES F,16,MG/L
+08/24/2020,6,FEET,75.2,DEGREES F,14.6,MG/L
+08/24/2020,9,FEET,71.7,DEGREES F,10.7,MG/L
+09/21/2020,0,FEET,59.3,DEGREES F,20.2,MG/L
+09/21/2020,3,FEET,58.9,DEGREES F,18.7,MG/L
+09/21/2020,6,FEET,58.8,DEGREES F,18.5,MG/L
+09/21/2020,9,FEET,58.7,DEGREES F,15.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/12/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/06/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/16/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/09/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/25/1991,Bac-T    
+09/12/1991,bacterial analysis    
+05/10/2001,SPRING SAMPLE- SURFACE 0M    
+07/23/2001,SPRING SAMPLE- SURFACE 0M    
+07/15/2004,Water clearer than normal- but lots of floating clumps of brown/green algae.    
+08/03/2004,Most floating algae clumps are gone- water not as clear as 7/15/04    
+06/16/2005,Have had 6-8" of rain in last 2 weeks. Cool weather- high flowage through Lake Mallalieu.    
+07/14/2005,Several days of 90F dry weather prior to this sampling.    
+07/26/2005,Lots of rain the preceding two weeks    
+08/03/2005,Very hot weather- dry- preceding 10 days    
+10/25/2005,No zebra mussels on collection plate.    
+06/15/2006,Sunny- breezy day
+06/29/2006,82 degrees- partly sunny
+07/13/2006,90 degrees- partly sunny
+08/08/2006,80 degrees- sunny- dry
+09/24/2006,65 degrees- clear- rain last two days
+10/14/2006,60 degrees- sunny- dry week previous
+06/20/2007,87 degrees  F- Sunny- windy last 4-5 days- slight amount of rain in past week.
+07/12/2007,74 degrees  F- sunny- windy after a weekend with heavy boating activity
+07/30/2007,Sunny- dry and very hot for past several days.
+
+Numerous bryozoa (pectinatella magnifica) in lake this year- most I have ever seen.
+10/12/2007,Weather cool for past several days- lots of rain- about 4 inches in last 10 days-
+05/31/2008,Sunny- 70 degrees  F-  1 1/2 inches rain in the last two days.
+07/07/2008,Cloudy
+07/30/2008,Sunny- 80 degrees  F
+09/02/2008,Humid- 75  degrees F
+09/18/2008,Sunny- 75  degrees F- clear.   The DO readings at 3 and 6 feet were higher than I have ever seen- actually they were 20+- higher than the meter can read. I would suspect these readings- but the calibration readings were normal and the 9 foot readings were reasonable.
+09/28/2008,Cloudy and 62  degrees F
+10/31/2008,Beautiful clear- dry- sunny day- 54  degrees F.   It has been dry- no rain for several days. Clear day- 54 Degrees F.
+05/24/2009,76F- clear-  calm. 
+07/27/2009,Cloudy day- 75 degrees F
+08/10/2009,Heavy rain the last 3 days- 2.5 inches total
+09/02/2009,75 degrees  F and sunny.
+06/16/2010,Overcast- 63 degrees F- 1.5 in rain past week.
+08/02/2010,Very green water- bad algae bloom.  Had lots of rain in past 2 weeks- very hot. (Usually- with a lot of rain- the algae gets flushed out- but not this year. In spite of high flow through impoundment- alge bloom was severe.)
+08/23/2010,Sunny- 83 degrees F.  Water had been very green and murky. In the last few days- there was a sudden turn to brown murky color
+09/06/2010,Cloudy and 69 degrees F.  Lots of algae again
+10/22/2010,Sunny- 65 degrees F- have had no rain for about 3 weeks.
+05/03/2011,Partly Cloudy- light wind-  58 degrees F  Doug Meyers and Les Berg
+06/08/2011,Sunny- NW wind a 15 mph- 75 degrees F.
+06/21/2011,Partly cloudy- Strong east wind- 70 degrees F.
+06/25/2011,Partly cloudy- calm wind-  64 degrees F.
+07/04/2011,Sunny- 75 degrees- WSW wind @ 3 mph
+Heavy boating use for the last 2 days
+08/02/2011,Overcast- 77 degrees- NW wind @ 7 mph.
+3+ inches of rain in last 24 hours
+08/22/2011,Sunny- 79 degrees- South wind @ 6 mph.
+04/03/2012,Sunny- East wind @ 8 mph- 62 degrees F-  Ice out was 3/12/2012. Sunny.....62 degrees.....East wind at 8 mph
+Ice out was March 12th this year.
+04/14/2012,Sunny......60 degrees......Wind is calm
+06/18/2012,Sunny....90 degrees with West wind at 5 mph
+07/17/2012,Sunny and 84 degrees.....Wind is calm from the South......90+ temps the last couple of weeks with minimal rainfall.
+08/20/2012,Sunny - 76 degrees - WNW wind @ 6 mph.
+09/26/2012,Sunny- North wind @ 7 mph.
+Less than .45 inches of precipitation in September
+Assisted by Kirsten Fristad.
+10/09/2012,Mostly cloudy-  light west wind.  45 degrees
+04/29/2013,Sunny- Light East Wind- Temp. 71 degrees
+07/23/2013,Sunny- Light NE Wind- Temp. 72 degrees-  mid-90 temps most of previous week
+08/21/2013,Overcast- 87 degrees- SW Wind @ 7 mph.  High humidity today.  No rain within last 10 days.
+DO/Temp meter is malfunctioning.  Requesting new meter from Lake Mallalieu Association for 2014 evaluations.
+04/10/2014,Partly Cloudy-  60 degrees- WNW Winds @ 12 mph-  Ice Out occurred 4/9/14!
+05/07/2014,Cloudy- 60 degrees.  East wind @ 10 mph
+05/24/2014,Partly cloudy. Calm winds
+05/31/2014,Cloudy- 81 degrees.  Se wind @ 12 mph
+06/02/2014,Mostly sunny- 77 degrees.  WSW wind @ 15 mph.  4+" of rain fell between Saturday pm and Sunday pm.
+06/04/2014,Muddy!  Lake dropped to approx. 687.0 from normal level of 689.0.  Raised back to approximately 690 by 6 pm on June 4th.  Back approximately to normal level (689.0) by 5 pm on June 5th
+06/08/2014,Sunny and 75 degrees.  Calm wind.  Lake level is back to approximately 689.0 (Normal).
+06/16/2014,81 degrees- Hot + humid.  Cloudy- wind is calm.  3.5" of rain on 6/14/14.  More expected tonight.
+06/30/2014,Rainfall in June was 2nd highest since recording began!
+70 degrees- Dewpoint 61 degrees- 72% humidity.  South wind @ 13 mph.  Partly Cloudy.
+07/08/2014,73 degrees and Mostly cloudy.  NW wind @ 14- gusting to 23 mph.  .5" of rain on 7/7/14.  Dew point 55 degrees.  Humidity @ 52%.
+07/18/2014,Partly Sunny  74 degrees  SSE wind @ 7 mph  Humidity @ 63%
+08/05/2014,Mostly Cloudy  73 degrees  NE wind @ 4 mph  Humidity @ 65%  Dew point @ 60 degrees.
+Jim Loeffler helped monitor.
+08/14/2014,Significant algae bloom in main part of lake.
+09/09/2014,Cloudy  72 degres  South wind @ 10 mph  Dew Point @ 64 degrees
+04/04/2015,Sunny- WNW wind @9 mph- Dew point @23 degrees- Humidity @ 34%
+04/17/2015,Sunny- calm winds-  75 degrees
+04/22/2015,Sunny- 63 degrees- NNW wind @ 6 mph- Dew point @ 30 degrees- Humidity @ 29%-  Very little precipitation in April this year.
+05/19/2015,Sunny- NW Wind 4-9 mph- Dew Point = 34 degrees- Humidity = 53%
+06/23/2015,Sunny- NNW wind @ 4 mph- Dew Point = 54 degrees- Humidity = 43%
+Drawdown of Little Falls Lake began 6/15/15.  Water clarity on Mallalieu appears to unaffected to this date.
+07/21/2015,Sunny- 75 degrees-  Wind WNW @ 8 mph.  Dew Point = 55 degress.  Humidity = 49%
+08/25/2015,Sunny- 68 degrees.  NNW Winds @ 10-15 mph.  Dew point = 52 degrees.  Humidity = 55%
+10/02/2015,Breach of Little Fallls Dam began on September 28th.  Secchi disc reading indicated heavy silt- mainly fines- has been entering Lake Mallalieu since the breach. Water quality is severely impaired due to fines....NOT an algae issue.
+10/05/2015,Still heavy fines being sent into Mallalieau from the breach of Little Falls Lake Dam.  Poor perception is due to the silt/fines release- not an algae issue.
+
+Weather is partly cloudy and 57 degrees.  Calm SSE winds.  Humidity = 67%.  Dewpoint = 46 degrees.
+04/27/2016,Sunny- 43 degrees.  ENE Winds @ 16-22 mph-  Humidity 52%-  Dew point 27 degrees
+05/04/2016,Sunny 60 degrees.  N Winds @ 13-20 mph.  Very poor perception/visibility due to heavy silt loading.
+05/07/2016,55 degrees.  Hazy sun due to heavy smoke from Canadian and No/ MN wildfires.  NW Winds @ 4-7 mph. No rain for last 7 days.  55Degrees.  Heavy Haze due to wildfires in Canada and No. MN.  NW Winds @ 4-7 mph.  No rain for last 7 days.  Perception is based on silt levels- NOT algae growth.
+08/08/2016,Sunny 83 degrees  South wind @ 10 mph  Dew Point = 63 degrees
+09/19/2016,Sunny  75 degrees-  SW winds @ 8 mph  Dew point = 54 degrees
+04/12/2017,Overcast- 55 degrees  East wind @ 6 mph
+05/30/2017,Sunny- 70 degrees.  NNW Wind @ 4 mph.
+06/16/2017,Partly cloudy- 80 degrees. Calm wind.  50% Humidity.  Dew point = 59 degrees.   
+06/19/2017,Partly Sunny  71 degrees.  NNW Wind @ 8 mph
+07/26/2017,Cloudy- 73 degrees.  WSW Wind @ 5 mph
+08/21/2017,Sunny.  79 degrees  East Wind @ 4 mph.    Solar Eclipse (85%) @ 1:00 pm
+09/12/2017,Sunny and 78 degrees.  Warm temps and high humidity this week.  Calm winds.
+09/28/2017,Calm wind- Partly cloudy
+04/22/2018,I sampled the location that was used in previous years by Doug Meyer.  The latitude/longitude of this location was 44.98736111 N- -92.7552778 W (44*59'14.5" N- -92*45'19.4"). 
+The "deep hole" location is listed in the DNR Lake Map as 44.984575 N- -92.74612 W which is further E and slightly further N.  All samplings after 4-22-2018 were done very close to the "deep hole" location.  This location is more centrally located in the lake- but is only 7-8 feet deep.  So the deepest D.O./temp. readings tend to be 7 ft.
+05/26/2018,Air temp was 82 F.
+06/10/2018,Air temp. was 77 F.
+07/03/2018,Assisted by my wife (Deb) and daughter (Kirsten).  Air temp. is 75 F.
+07/28/2018,The D.O. readings are very high.  I must have mis-calibrated the D.O. meter. 
+08/25/2018,Air temp. was 75 F.
+09/22/2018,Air temp. was 61 F.
+04/09/2019,April 9 is about 9 days after "ice-off".  Official "ice-off" is difficult to determine in Lake Mallalieu because ice leaves the northern end of the lake where the Willow River enters very early; however- all the ice in the more southern end of the lake leaves significantly later.  I use the "ice-off" date when the main southern part of the lake is ice-free.  the Little Falls dam had a breach during its reconstruction 2 weeks earlier and a lot of sediment flowed into the lake. 
+05/14/2019,Water was clearer than in April- one foot deeper on the Secchi measurement.  A warm day- 78 deg F!
+06/07/2019,Sunny evening.  Algae floating in the shallow areas of the lake (northern end).  Water clarity is reduced from last month.
+07/24/2019,Sunny
+07/29/2019,Sunny- blue sky- scattered clouds.
+08/25/2019,Partly cloudy- dry the past week and windy.
+09/02/2019,Very Strong growth of algae in the main deep part of the lake.  This is the first month I have noticed algae throughout the water column.  The NE end of the lake did not have this green colored algae growth.
+09/10/2019,The bright green algae in the water column that was noted last month is GONE.  The water now has the "normal" brown color.  Sunny day.
+09/18/2019,Rained in the morning.  Partly cloudy during measurement time.
+10/04/2019,Cloudy day.  The water column is clearing up now in the Fall.
+10/08/2019,Sunny day
+10/31/2019,Kristin Rathbun visited several days earlier and we determined that the YSI D.O. meter I have been using all summer- is not responding correctly to the D.O. (at least in slightly turbid lake water).  We changed the membrane on the YSI meter- but this still did not give values that matched the D.O. meter Kristin brought as the "control" meter.  My YSI meter reads well above saturation (i.e. about 130% of saturation).  Therefore- all the values reported this summer may be suspect.  Strangely- when I use the YSI meter to measure the D.O. in very clear water (i.e. tap water or Willow River water)- it seems to give values that are much more believable (i.e. 70-100% saturation).
+07/20/2020,Hot- sunny day (83 deg. F). The last two days have been 90-95 deg. F.  Due to COVID there were no materials for collecting water samples until July.  I was gone 3 weeks in June to mid-July due to my daughter breaking her collarbone and four ribs and I had to help her out in Anchorage AK.  So this was the first measurement day of 2020.
+07/27/2020,Warm.  Note the D.O. measurement are erroneous as always in the murky lake water.  The meter gives reasonable values in clear water.
+08/19/2020,Some floating green/black algae blobs in the lake.
+08/22/2020,More green/black blobs of floating algae in the lake.
+08/24/2020,Overcast sky.  Same problem with the D.O. meter giving very high values in the murky lake water.  It gives reasonable values in clear water.
+09/21/2020,There was less blue-green algae blobs floating in the lake than in the previous couple of weeks- now that it is later in the Fall.  I submitted a water sample for Phosphorous and chlorophyll as there was no Spring sample taken because of the COVID situation.  No collection materials had been sent out.
+
+Today was sunny and warm for late Sept. (66 deg. F).  D.O. data is obviously erroneous.  The D.O. meter gives believable results in CLEAR water- but gives unbelievably high values in algae-filled lake water.  The meter seems to read correctly in tap water- in clear aquarium water and in clear Willow River water.
+10/06/2020,Sunny- a few clouds.
+10/26/2020,Last reading for the year.  Taking the pontoon boat out today as the overnight low was about 20 deg. F.  Clear sky- but COLD driving across the lake to the boat launch.  The water clarity is the best of the year- now that it has gotten quite cold.
+
+
+
+
+Start Date,Group Name,Project Name
+09/12/1973,Data Collectors,Migrated from STORET Legacy
+11/06/1973,Data Collectors,Migrated from STORET Legacy
+02/26/1974,Data Collectors,Migrated from STORET Legacy
+05/01/1974,Data Collectors,Migrated from STORET Legacy
+07/16/1974,Data Collectors,Migrated from STORET Legacy
+10/08/1974,Data Collectors,Migrated from STORET Legacy
+02/09/1975,Data Collectors,Migrated from STORET Legacy
+06/25/1991,Data Collectors,LAKE MGT PROJECTS
+07/10/1991,Data Collectors,LAKE MGT PROJECTS
+08/07/1991,Data Collectors,LAKE MGT PROJECTS
+08/29/1991,Data Collectors,LAKE MGT PROJECTS
+09/12/1991,Data Collectors,LAKE MGT PROJECTS
+05/10/2001,_ Michalek,Lake Baseline Monitoring- DNR (1970s-2006)
+07/23/2001,_ Parkhurst and _ Chwala,Lake Baseline Monitoring- DNR (1970s-2006)
+05/18/2004,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/02/2004,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/23/2004,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/15/2004,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/03/2004,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/17/2004,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/16/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/06/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/14/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/26/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/03/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/21/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/14/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/25/2005,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/03/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/22/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/06/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/15/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/29/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/13/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/08/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/24/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/14/2006,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/21/2007,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/11/2007,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/20/2007,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/12/2007,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/30/2007,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/12/2007,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/31/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/30/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/07/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/30/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/31/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/02/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/18/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/28/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/31/2008,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/24/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/26/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/07/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/27/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/10/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/02/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+11/05/2009,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/07/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/16/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/01/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/02/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/23/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/06/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/22/2010,Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/03/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/08/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/21/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/21/2011,Doug Meyers- Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/25/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/04/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/02/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/02/2011,Doug Meyers- Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/22/2011,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/22/2011,Doug Meyers- Les Berg,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/03/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/14/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/18/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/18/2012,Doug Meyers,Citizen Lake Monitoring Network QA/QC - 2012
+07/17/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/20/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/25/2012,Doug Meyers,
+09/26/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/09/2012,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/29/2013,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/23/2013,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/21/2013,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/10/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/07/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/24/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/31/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/02/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/04/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/08/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/16/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/30/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/08/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/18/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/02/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/05/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/14/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/27/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/09/2014,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/04/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/17/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/22/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/19/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/23/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/23/2015,Doug Meyers,Citizen Lake Monitoring Network QA/QC - 2015
+07/21/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/25/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/02/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/05/2015,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/27/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/04/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/07/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/13/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/19/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/08/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/16/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/22/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/09/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/19/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/03/2016,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/11/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/12/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/23/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/30/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/16/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/19/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/10/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/18/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/26/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/11/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/21/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/12/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/28/2017,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/22/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/26/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/10/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/18/2018,Doug Meyers,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/30/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/30/2018,Data Collectors,
+07/03/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/05/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/28/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/06/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/25/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/22/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/21/2018,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+04/09/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+05/14/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/07/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+06/17/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/24/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/29/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/25/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/02/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/10/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/18/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/04/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/08/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/31/2019,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/20/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+07/27/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/19/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/22/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+08/24/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/14/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+09/21/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/06/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole
+10/26/2020,Bill Fristad,Citizen Lake Monitoring - Water Quality - Lake Mallalieu; Deep Hole

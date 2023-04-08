@@ -1,0 +1,142 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Upper Nemahbin Lake,Waukesha,827100,SE,68,,683135,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/17/1973,,,,,10,,46,,,,,,
+1,11/19/1973,,,,,80,,62,,,,,,
+1,02/07/1974,,,,,40,,57,,,,,,
+1,04/01/1974,,,,,50,,58,,,,,,
+1,07/08/1974,,,,,120,,63,,,,,,
+1,11/18/1974,,,,,70,,61,,,,,,
+1,02/17/1975,,,,,120,,65,,,,,,
+1,02/18/1975,,,,,50,,58,,,,,,
+1,04/21/1975,,,,,40,,57,,,,,,
+41731863,02/20/1981,25,NO,7.6,,,31,,,,,,,
+1,09/14/1981,9.8,,3,4.3,,44,,46,,,,,
+1,04/26/1994,,,,4.91,9,,45,47,,,,,
+1,06/21/1994,,,,0.976,7,,43,35,,,,,
+1,07/25/1994,,,,2.52,10,,46,42,,,,,
+1,08/24/1994,,,,2.69,9,,45,42,,,,,
+1,04/25/1995,,,,7.81,11,,47,50,,,,,
+1,06/19/1995,,,,0.76,ND*,,,33,,,,,
+1,07/26/1995,,,,0.33,7,,43,26,,,,,
+1,08/23/1995,,,,1.98,8,,44,40,,,,,
+7000045,09/14/2000,17.5,NO,5.3,,,36,,,,,,,4-Would not swim but boating OK (algae)
+8188630,04/13/2005,,,,2.16,14,,49,41,,,,,
+8188630,06/08/2005,,,,1.46,12,,47,38,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/17/1973,,,17.7778,C,0,MG/L
+11/19/1973,,,42.5,C,8.3,MG/L
+02/07/1974,,,.277778,C,10.9,MG/L
+04/01/1974,,,2.5,C,11.4,MG/L
+07/08/1974,,,17.5,C,0,MG/L
+11/18/1974,,,44.5,C,6.8,MG/L
+02/17/1975,,,.833333,C,11.2,MG/L
+02/18/1975,,,.555556,C,12,MG/L
+04/21/1975,,,2.5,C,11.3,MG/L
+02/20/1981,0,FEET,1,DEGREES C,12,MG/L
+02/20/1981,2,FEET,1,DEGREES C,11.9,MG/L
+02/20/1981,4,FEET,1.5,DEGREES C,11.2,MG/L
+02/20/1981,12,FEET,1.5,DEGREES C,11.1,MG/L
+02/20/1981,20,FEET,1.5,DEGREES C,11,MG/L
+02/20/1981,26,FEET,1.5,DEGREES C,10.8,MG/L
+02/20/1981,28,FEET,1.5,DEGREES C,10.5,MG/L
+02/20/1981,29,FEET,1.5,DEGREES C,,
+02/20/1981,30,FEET,1.5,DEGREES C,10.2,MG/L
+02/20/1981,32,FEET,1.5,DEGREES C,10,MG/L
+02/20/1981,34,FEET,1.5,DEGREES C,9.8,MG/L
+02/20/1981,36,FEET,1.5,DEGREES C,9.5,MG/L
+02/20/1981,38,FEET,1.5,DEGREES C,9.2,MG/L
+02/20/1981,40,FEET,1.5,DEGREES C,9.1,MG/L
+02/20/1981,42,FEET,1.5,DEGREES C,8.6,MG/L
+02/20/1981,44,FEET,1.5,DEGREES C,8.3,MG/L
+02/20/1981,46,FEET,1.5,DEGREES C,7.6,MG/L
+02/20/1981,48,FEET,1.5,DEGREES C,7.1,MG/L
+02/20/1981,50,FEET,1.5,DEGREES C,6.4,MG/L
+02/20/1981,52,FEET,2,DEGREES C,5.6,MG/L
+02/20/1981,54,FEET,2,DEGREES C,2.7,MG/L
+02/20/1981,56,FEET,2,DEGREES C,.6,MG/L
+02/20/1981,58,FEET,2,DEGREES C,.5,MG/L
+02/20/1981,59.5,FEET,2.5,DEGREES C,.5,MG/L
+04/26/1994,,,11.9,C,10.9,MG/L
+06/21/1994,,,26.3,C,0.8,MG/L
+07/25/1994,,,25.4,C,8.4,MG/L
+08/24/1994,,,22.8,C,0.8,MG/L
+04/25/1995,,,6.2,C,11.5,MG/L
+06/19/1995,,,25.2,C,0.5,MG/L
+07/26/1995,,,26.4,C,0.5,MG/L
+08/23/1995,,,26.4,C,0.4,MG/L
+09/14/2000,1,FEET,24.4,DEGREES C,10.59,MG/L
+09/14/2000,3,FEET,21.4,DEGREES C,10.62,MG/L
+09/14/2000,6,FEET,21.41,DEGREES C,10.5,MG/L
+09/14/2000,9,FEET,21.35,DEGREES C,10.41,MG/L
+09/14/2000,12,FEET,21.33,DEGREES C,10.4,MG/L
+09/14/2000,15,FEET,21.31,DEGREES C,10.36,MG/L
+09/14/2000,18,FEET,21.23,DEGREES C,10.25,MG/L
+09/14/2000,21,FEET,21.23,DEGREES C,10.09,MG/L
+09/14/2000,24,FEET,21.05,DEGREES C,9.87,MG/L
+09/14/2000,27,FEET,19.93,DEGREES C,8.22,MG/L
+09/14/2000,30,FEET,14.48,DEGREES C,1.63,MG/L
+09/14/2000,33,FEET,11.13,DEGREES C,.91,MG/L
+09/14/2000,36,FEET,10.2,DEGREES C,.35,MG/L
+09/14/2000,39,FEET,9.64,DEGREES C,.26,MG/L
+09/14/2000,42,FEET,9.28,DEGREES C,.22,MG/L
+09/14/2000,45,FEET,8.79,DEGREES C,.19,MG/L
+09/14/2000,48,FEET,8.3,DEGREES C,.18,MG/L
+09/14/2000,51,FEET,8.19,DEGREES C,.17,MG/L
+09/14/2000,54,FEET,8.17,DEGREES C,.16,MG/L
+09/14/2000,57,FEET,8.14,DEGREES C,.15,MG/L
+09/14/2000,60,FEET,8.16,DEGREES C,.14,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/17/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/19/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/01/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/18/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/17/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/18/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/21/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/20/1981,Kaas and Bruch.  Ice depth = 15 inches.  No snow cover.  Foggy.
+09/14/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/26/1995,430400088254900    
+09/14/2000,INTEGRATED WATER COLUMN 0-24 FEET     
+
+
+
+
+Start Date,Group Name,Project Name
+09/17/1973,Data Collectors,Migrated from STORET Legacy
+11/19/1973,Data Collectors,Migrated from STORET Legacy
+02/07/1974,Data Collectors,Migrated from STORET Legacy
+04/01/1974,Data Collectors,Migrated from STORET Legacy
+07/08/1974,Data Collectors,Migrated from STORET Legacy
+11/18/1974,Data Collectors,Migrated from STORET Legacy
+02/17/1975,Data Collectors,Migrated from STORET Legacy
+02/18/1975,Data Collectors,Migrated from STORET Legacy
+04/21/1975,Data Collectors,Migrated from STORET Legacy
+02/20/1981,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+09/14/1981,Data Collectors,Migrated from STORET Legacy
+04/26/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+06/21/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+07/25/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/24/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+04/25/1995,Data Collectors,LAKE MANAGEMENT PROJECTS
+06/19/1995,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/26/1995,Data Collectors,LAKE MANAGEMENT 95/96
+08/23/1995,Data Collectors,LAKE MANAGEMENT 95/96
+09/14/2000,Heidi Bunk,GMU LAKE CLASS STUDY
+09/14/2000,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+04/13/2005,USGS,UPPER NEMAHBIN LAKE MANAGEMENT DISTRICT: Assessment of WQ in Bark River-Upper Nemahbin
+06/08/2005,USGS,UPPER NEMAHBIN LAKE MANAGEMENT DISTRICT: Assessment of WQ in Bark River-Upper Nemahbin

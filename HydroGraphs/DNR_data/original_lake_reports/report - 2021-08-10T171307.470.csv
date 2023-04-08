@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bernice Lake,Fond du Lac,40900,NE,20,,203078,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000093,07/15/2020,4.5,NO,1.4,6.27,156,55,67,49,,,,BROWN,
+7000093,08/14/2020,6.5,NO,2,22.7,73.2,50,61,58,,,,BROWN,
+7000093,09/10/2020,7.5,,2.3,7.78,74.9,48,62,50,,,,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/15/2020,1,METERS,23,DEGREES C,3.5,MG/L
+07/15/2020,2,METERS,21.8,DEGREES C,.5,MG/L
+07/15/2020,3,METERS,16.6,DEGREES C,.1,MG/L
+07/15/2020,4,METERS,14.3,DEGREES C,.1,MG/L
+08/14/2020,1,METERS,21.9,DEGREES C,5.3,MG/L
+08/14/2020,2,METERS,19.6,DEGREES C,5.4,MG/L
+08/14/2020,3,METERS,17.2,DEGREES C,.2,MG/L
+09/10/2020,1,METERS,14.1,DEGREES C,7.3,MG/L
+09/10/2020,2,METERS,12.7,DEGREES C,7.3,MG/L
+09/10/2020,3,METERS,12.1,DEGREES C,6.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/15/2020,Mary Gansberg,Directed Lakes 2020 Gansberg
+08/14/2020,Mary Gansberg,Directed Lakes 2020 Gansberg
+09/10/2020,Mary Gansberg,Directed Lakes 2020 Gansberg

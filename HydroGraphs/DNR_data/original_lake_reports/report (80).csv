@@ -1,0 +1,48 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Crooked Lake,Burnett,2459200,NO,7,,10049259,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+149420250,06/01/2018,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,06/07/2018,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,06/21/2018,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,07/21/2018,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,08/06/2018,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,05/31/2019,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+149420250,06/13/2019,,NO,,,,,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,06/21/2019,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,06/29/2019,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+149420250,05/20/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+149420250,06/04/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+05/31/2019,Crystal Clear water visibility down to 13.5 feet. Very clean water
+06/13/2019,Clear visibility. Surface dust- pollen- bugs- but water clarity is very high. Loons and loon eggs on nest. 
+06/21/2019,Less visibility but still very clean and clear water. More boat traffic could be the reason for less visibility. 
+06/29/2019,Lots of bugs (knats) on the lake surface this morning. A lot more jet ski and boat activity noted in the past week as well. Swimming near the shore line does not have the visibility it has had the last two weeks (water was cooler so have not been swimming every day) . The water is more murky with visibility only about three to four feet. Floating dust and light algea. Temperature is considerably warmer and more comfortable for swimming. Boat monitor temp reading is 82 versus 74 a week ago. 
+
+
+
+
+Start Date,Group Name,Project Name
+06/01/2018,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+06/07/2018,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+06/21/2018,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+07/21/2018,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+08/06/2018,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+05/31/2019,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+06/13/2019,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+06/21/2019,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+06/29/2019,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+05/20/2020,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole
+06/04/2020,Curt Reiss,Citizen Lake Monitoring - Water Quality - Crooked Lake - Deep Hole

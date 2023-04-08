@@ -1,0 +1,872 @@
+lakename,county,WBIC,lake_index,COMID
+Lake Arrowhead,Adams,1377700.0,0,14704062
+Friendship Lake,Adams,1352000.0,1,14708476
+Twentysix Lake,Burnett,2672500.0,2,2262767
+Goose Lake,Adams,103600.0,3,6866481
+Jordan Lake,Adams,104000.0,4,6866553
+Mason Lake,Adams,175700.0,5,6866613
+McGinnis Lake,Adams,179100.0,6,6866439
+Parker Lake,Adams,106500.0,7,6866503
+Patrick Lake,Adams,106600.0,8,6866401
+Peppermill Lake,Adams,178700.0,9,6866487
+Wolf Lake,Adams,117500.0,10,6866485
+Augustine Lake,Ashland,2410400.0,11,13117608
+Big Roche a Cri,Adams,1374800.0,12,14704120
+Butternut Lake,Price,2283300.0,13,13349262
+Lake Galilee,Ashland,2935500.0,14,1813701
+Mineral Lake,Ashland,2916900.0,15,1813677
+Bass Lake,Barron,1832800.0,16,13081355
+Bear Lake,Barron,2105100.0,17,13078811
+Beaver Dam Lake,Barron,2081200.0,18,13080639
+Big Dummy Lake,Barron,1835100.0,19,13079049
+Big Moon Lake,Barron,2079000.0,20,13083967
+Camelot Lake,Adams,1378100.0,21,0
+Echo Lake,Barron,2630200.0,22,2646522
+Granite Lake,Barron,2100800.0,23,13080609
+Hemlock Lake,Barron,2109800.0,24,13078817
+Horseshoe Lake,Barron,2469800.0,25,2267181
+Horseshoe Lake,Polk,2630100.0,26,2646504
+Kirby Lake,Barron,1858200.0,27,13080589
+Lake Desair,Barron,2104500.0,28,13079127
+Lake Montanis,Barron,2103200.0,29,13081037
+Little Dummy Lake,Barron,1861400.0,30,13079029
+Little Sand Lake,Barron,2661600.0,31,2267407
+Crooked Lake,Adams,102600.0,32,6866511
+Loon Lake,Barron,2478600.0,33,2646420
+Lower Turtle Lake,Barron,2079700.0,34,13083933
+Lower Vermillion Lake,Barron,2098200.0,35,13079193
+North Lake,Barron,2630800.0,36,2644234
+Poskin Lake,Barron,2098000.0,37,0
+Prairie Lake,Barron,2094100.0,38,13081151
+Red Cedar Lake,Barron,2109600.0,39,13078817
+Sand Lake,Barron,2661100.0,40,2267269
+Silver Lake,Barron,1881100.0,41,13078961
+Staples Lake,Barron,2631200.0,42,167120756
+Upper Turtle Lake,Barron,2079800.0,43,13083895
+Bass Lake,Bayfield,2901100.0,44,1816151
+Buskey Bay,Bayfield,2903800.0,45,1813379
+Cranberry Lake,Bayfield,2741700.0,46,2260991
+Eagle Lake,Bayfield,2902900.0,47,1813431
+Flynn Lake,Bayfield,2902800.0,48,0
+Half Moon Lake,Bayfield,2762700.0,49,1797479
+Hart Lake,Bayfield,2903200.0,50,1813379
+Kelly Lake,Bayfield,2472000.0,51,2260817
+Lake Wilipyro,Bayfield,2473600.0,52,1849519
+Deep Lake,Adams,102800.0,53,6866499
+Long Lake,Bayfield,2767100.0,54,1797425
+Lower Eau Claire Lake,Bayfield,2741600.0,55,2260969
+Middle Eau Claire Lake,Bayfield,2742100.0,56,2260935
+Lake Millicent,Bayfield,2903700.0,57,1813379
+Garden Lake,Bayfield,2735500.0,58,1849605
+Pigeon Lake,Bayfield,2489400.0,59,2260841
+Robinson Lake,Bayfield,2743300.0,60,2260893
+Samoset Lake,Bayfield,2494800.0,61,1849503
+Lake Tahkodah,Bayfield,2473500.0,62,1849523
+Twin Lakes,Bayfield,2731800.0,63,1849655
+Easton Lake,Adams,1343600.0,64,14708526
+Upper Eau Claire Lake,Bayfield,2742700.0,65,2260889
+Benoit Lake,Burnett,2678300.0,66,2266291
+Big Bear Lake,Burnett,2705700.0,67,1851975
+Big Doctor Lake,Burnett,2453400.0,68,2266639
+McKenzie Lake,Washburn,2706800.0,69,1855411
+Big Sand Lake,Burnett,2676800.0,70,2266515
+Big Trade Lake,Burnett,2638700.0,71,2643810
+Birch Island Lake,Burnett,2453500.0,72,2266007
+Cadotte Lake,Burnett,2673600.0,73,2265939
+Cranberry Lake,Burnett,2670700.0,74,167120698
+Fawn Lake,Adams,1301300.0,75,14708556
+Crooked Lake,Burnett,2459200.0,76,2265995
+Deer Lake,Burnett,2460700.0,77,2262653
+Des Moines Lake,Burnett,2674200.0,78,1855083
+Falk Lake,Burnett,2670900.0,79,2265947
+Gull Lake,Burnett,2671100.0,80,2265923
+Johnson Lake,Burnett,2471600.0,81,2266053
+Lipsett Lake,Burnett,2678100.0,82,2266341
+Little Trade Lake,Burnett,2639300.0,83,2643810
+Little Wood Lake,Burnett,2650900.0,84,2643660
+Long Lake,Burnett,2674100.0,85,1855081
+Fenner Lake,Adams,103400.0,86,6866429
+Loon Lake ,Burnett,2673500.0,87,2265939
+Lower McKenzie Lake,Washburn,2706300.0,88,1855143
+Middle McKenzie Lake,Burnett,2706500.0,89,1855289
+Minerva Lake,Burnett,2670600.0,90,167120698
+Mud Hen Lake,Burnett,2649500.0,91,2643622
+Oak Lake,Burnett,2486600.0,92,2266119
+Poquettes Lake,Burnett,2491100.0,93,2266577
+Sand Lake,Burnett,2495100.0,94,2266151
+Spirit Lake,Burnett,2650300.0,95,2643738
+Tabor Lake,Burnett,2671700.0,96,2262691
+Viola Lake,Burnett,2598600.0,97,2266553
+Webb Lake,Burnett,2705400.0,98,0
+Webb Lake,Burnett,2705400.0,99,0
+Becker Lake,Calumet,77300.0,100,12174544
+Lake Winnebago,Fond du Lac,131100.0,101,166766701
+Axhandle Lake,Chippewa,2092500.0,102,13124126
+Chain Lake,Rusk,2350500.0,103,13124042
+Lake Hallie- Lake Hallie 2,Chippewa,2150200.0,104,13105805
+Long Lake,Chippewa,2351400.0,105,13124170
+Loon Lake,Chippewa,1863000.0,106,13124204
+Lake Wissota,Chippewa,2152800.0,107,13105755
+Round Lake,Chippewa,2169200.0,108,13124182
+Sand Lake,Rusk,2353600.0,109,13124084
+Two Island Lake,Chippewa,1887500.0,110,13124244
+Mead Lake,Clark,2143900.0,111,13096378
+Lake Wisconsin,Sauk,1260600.0,112,13631537
+Lazy Lake (Fall R Millpond),Columbia,843400.0,113,13284124
+Park Lake,Columbia,180300.0,114,6866681
+Lake Kegonsa,Dane,802600.0,115,13296360
+Lake Koshkonong,Jefferson,808700.0,116,167120945
+Lake Mendota,Dane,805400.0,117,13293262
+Lake Monona,Dane,804600.0,118,167120949
+Lake Waubesa,Dane,803700.0,119,167120949
+Lake Wingra,Dane,805000.0,120,13293322
+Unnamed,Dane,3000513.0,121,13293336
+,Dane,,122,0
+Rice Lake,Dane,779500.0,123,13296408
+Tiedemans Pond,Dane,783740.0,124,13293302
+Beaver Dam Lake,Dodge,835100.0,125,0
+Lake Emily,Dodge,161600.0,126,6864997
+Clark Lake,Door,97700.0,127,13062917
+Europe Lake,Door,93100.0,128,13062495
+Kangaroo Lake,Door,98600.0,129,13062673
+Amnicon Lake,Douglas,2858100.0,130,1803579
+Dowling Lake,Douglas,2858300.0,131,1803593
+Lake Minnesuing,Douglas,2866200.0,132,1801939
+Lake Nebagamon,Douglas,2865000.0,133,166766569
+Lower Eau Claire Lake,Bayfield,2741600.0,134,2260969
+Minong Flowage,Washburn,2692900.0,135,1849725
+Person Lake,Douglas,2488600.0,136,1849735
+Red Lake,Douglas,2492100.0,137,1849757
+St Croix Flowage ,Douglas,2740300.0,138,2260997
+St Croix Flowage ,Douglas,2740300.0,139,2260997
+Altoona Lake,Eau Claire,2128100.0,140,13097728
+Bass Lake ,Florence,584200.0,141,6842487
+Ellwood Lake,Florence,650500.0,142,6842473
+Frog Lake,Florence,585700.0,143,6842483
+Halsey Lake,Florence,679300.0,144,6842481
+Keyes Lake,Florence,672900.0,145,6842339
+Lost Lake,Florence,588000.0,146,6842413
+Lost Lake,Florence,588000.0,147,6842413
+North Lake,Florence,703000.0,148,6842347
+Patten Lake,Florence,653700.0,149,6842477
+Porcupine Lake,Florence,590800.0,150,6842245
+Reisner Lake,Florence,676700.0,151,6842367
+Van Zile Lake,Forest,608400.0,152,6842669
+West Lake,Florence,703500.0,153,6842359
+Auburn Lake,Fond du Lac,42400.0,154,12161232
+Bernice Lake,Fond du Lac,40900.0,155,0
+DeNeveu Lake,Fond du Lac,139300.0,156,12009942
+Dickman Lake,Fond du Lac,41900.0,157,12161274
+Forest Lake,Fond du Lac,8900.0,158,12161210
+Kettle Moraine Lake,Fond du Lac,43900.0,159,12161140
+Lake Winnebago,Fond du Lac,131100.0,160,166766701
+Long Lake,Fond du Lac,38700.0,161,12161108
+Mauthe Lake,Fond du Lac,38200.0,162,12161226
+Wolf Lake,Fond du Lac,60800.0,163,12176166
+Bear Lake,Forest,552100.0,164,6817254
+Butternut Lake,Forest,692400.0,165,166766657
+Crane Lake,Forest,388500.0,166,9026429
+Crystal Lake,Langlade,184200.0,167,9026483
+Franklin Lake,Forest,692900.0,168,166766656
+Jungle Lake,Forest,377900.0,169,9026377
+Kentuck Lake,Vilas,716800.0,170,14445790
+Lake Lucerne,Forest,396500.0,171,9022741
+Metonga Lake,Forest,394400.0,172,9022733
+Lily Lake,Forest,376900.0,173,9026405
+Little Sand Lake,Forest,389700.0,174,9026347
+Pine Lake,Forest,406900.0,175,9022639
+Roberts Lake,Forest,378400.0,176,9026373
+Sevenmile Lake,Oneida,1605800.0,177,13393947
+Trump Lake,Forest,479300.0,178,6807740
+Van Zile Lake,Forest,608400.0,179,6842669
+Walsh Lake,Forest,240300.0,180,9026383
+Grand Lake (Millpond),Green Lake,161100.0,181,6866589
+Green Lake,Green Lake,146100.0,182,166766677
+Little Green Lake,Green Lake,162500.0,183,6864901
+Puckaway Lake,Green Lake,158700.0,184,6866527
+Blackhawk Lake,Iowa,1239400.0,185,13634457
+Helen Lake,Iowa,1242400.0,186,13634413
+Ludden Lake,Iowa,930700.0,187,13411474
+Twin Valley Lake,Iowa,1245800.0,188,13634451
+Charnley Lake,Iron,1840400.0,189,12987579
+Circle Lily Lake,Vilas,2326700.0,190,13343450
+First Black Lake,Iron,2298500.0,191,13345522
+Fisher Lake,Iron,2307300.0,192,13343174
+Gile Flowage,Iron,2942300.0,193,1813525
+Grand Portage Lake,Iron,2314100.0,194,13345478
+Island Lake,Iron,2945500.0,195,1813717
+Lake of the Falls,Iron,2298300.0,196,13345498
+Little Pike Lake,Iron,2313100.0,197,13345520
+Little Pine Lake,Iron,2949500.0,198,1813781
+Long Lake,Iron,2303500.0,199,13345292
+Martha Lake,Iron,2314300.0,200,13345472
+Mercer Lake,Iron,2313600.0,201,13345510
+Pine Lake,Iron,2949200.0,202,1813727
+Rice Lake,Iron,2300600.0,203,13345458
+Spider Lake,Iron,2306300.0,204,13345378
+Turtle Flambeau Flowage,Iron,2294900.0,205,13345552
+Turtle Flambeau Flowage,Iron,2294900.0,206,13345552
+Turtle Flambeau Flowage,Iron,2294900.0,207,13345552
+Trude Lake,Iron,2295200.0,208,13345596
+Wilson Lake,Iron,2297000.0,209,13345594
+Wazee Lake,Jackson,1670030.0,210,0
+Blue Spring Lake,Jefferson,819800.0,211,13294594
+Golden Lake,Waukesha,775900.0,212,13291006
+Lake Koshkonong,Jefferson,808700.0,213,167120945
+Lake Ripley,Jefferson,809600.0,214,167120947
+Spring Lake,Jefferson,820800.0,215,13294582
+Mud Lake,Jefferson,830800.0,216,13282794
+Red Cedar Lake,Jefferson,813100.0,217,13294420
+Rock Lake,Jefferson,830700.0,218,13282702
+Decorah Lake,Juneau,1304600.0,219,0
+Lake Mary,Kenosha,743000.0,220,14768096
+Benet Lake,Kenosha,734800.0,221,167122230
+Lilly Lake,Kenosha,740900.0,222,14768052
+Paddock Lake,Kenosha,737900.0,223,14783883
+Powers Lake,Kenosha,744200.0,224,14768066
+Silver Lake,Kenosha,747900.0,225,14768064
+Voltz Lake,Kenosha,746300.0,226,14768118
+East Alaska Lake,Kewaunee,94200.0,227,13063029
+West Alaska Lake,Kewaunee,94300.0,228,13063031
+Hidden Valley Lake 1,Lafayette,903450.0,229,13409638
+Yellowstone Lake,Lafayette,903700.0,230,13409634
+Big Twin Lake,Langlade,182200.0,231,9026511
+Boulder Lake,Oconto,491800.0,232,6808572
+Crystal Lake,Langlade,184200.0,233,9026483
+Little Partridge Lake,Langlade,999700.0,234,14726360
+Partridge Lake,Langlade,1009500.0,235,14726374
+Saddlebag Lake,Langlade,1448400.0,236,14726402
+Bullhead Lake,Langlade,1450800.0,237,14726356
+Lower Wolf Lake,Langlade,1450600.0,238,14726322
+Upper Wolf Lake,Langlade,1450700.0,239,14726312
+Duck Lake,Langlade,981500.0,240,14726264
+Dynamite Lake,Langlade,1451700.0,241,14726286
+Horseshoe Lake,Langlade,1448600.0,242,14726384
+Jessie Lake,Langlade,188700.0,243,9026583
+Lawrence Lake,Langlade,997300.0,244,14725496
+Little Sand Lake,Forest,389700.0,245,9026347
+Lower Clear Lake,Langlade,1002400.0,246,14726488
+Mary Lake,Langlade,496300.0,247,6808166
+Moose Lake,Langlade,337600.0,248,9029045
+Rolling Stone Lake,Langlade,389300.0,249,9026391
+Rose Lake,Langlade,494200.0,250,6808414
+Sawyer Lake,Langlade,198100.0,251,9026587
+Unnamed,Langlade,1448300.0,252,14726406
+White Lake,Langlade,365500.0,253,9026649
+Bass Lake,Lincoln,969600.0,254,13399231
+Clear Lake,Lincoln,1555400.0,255,13395373
+Deer Lake,Lincoln,1519600.0,256,13395257
+Halfmoon Lake,Lincoln,988000.0,257,13395401
+Hilts Lake,Lincoln,1564600.0,258,13395421
+Lake Mohawksin,Lincoln,1515400.0,259,120052157
+Lake Nokomis,Oneida,1516500.0,260,13395357
+Lake Nokomis,Lincoln,1516500.0,261,13395357
+Lake Pesobic,Lincoln,1481600.0,262,14726662
+Long Lake,Lincoln,1001000.0,263,13399231
+Pickerel Lake,Lincoln,1558400.0,264,13399225
+Seven Island Lake,Lincoln,1490300.0,265,14726148
+Spirit River Flowage,Lincoln,1506800.0,266,13399099
+Tug Lake,Lincoln,1482400.0,267,14726480
+Bullhead Lake,Manitowoc,68300.0,268,12174574
+Carstens Lake,Manitowoc,66800.0,269,12173086
+Cedar Lake,Manitowoc,45100.0,270,12175132
+English Lake,Manitowoc,68100.0,271,12173068
+Gass Lake,Manitowoc,67100.0,272,12173066
+Harpt Lake,Manitowoc,84600.0,273,12172970
+Hartlaub Lake,Manitowoc,67200.0,274,12173070
+Horseshoe Lake,Manitowoc,64200.0,275,12175128
+Kasbaum Lake,Manitowoc,45800.0,276,12173062
+Long Lake,Manitowoc,77500.0,277,12174540
+Pigeon Lake,Manitowoc,64000.0,278,12175084
+Shoe Lake,Manitowoc,46700.0,279,12175120
+Tuma Lake,Manitowoc,87900.0,280,12172978
+Weyers Lake,Manitowoc,49400.0,281,12173074
+Wilke Lake,Manitowoc,58000.0,282,12175102
+Big Bass Lake,Marathon,1405200.0,283,14701714
+Big Eau Pleine Reservoir,Marathon,1427400.0,284,14730156
+Pike Lake,Marathon,1406300.0,285,14701628
+Bass Lake,Marinette,521400.0,286,6819874
+Newton Lake,Marinette,498800.0,287,6819534
+Caldron Falls Reservoir*,Marinette,545400.0,288,6819514
+Gilas Lake,Marinette,523300.0,289,6819790
+Lake Noquebay,Marinette,525900.0,290,6818344
+Little Newton Lake,Marinette,502300.0,291,6819538
+Lake Mary,Marinette,530500.0,292,6818330
+Thunder Lake,Marinette,533600.0,293,6819690
+Town Corner Lake,Marinette,617900.0,294,6842959
+Twin Lakes,Marquette,103100.0,295,6866377
+Fenner Lake,Adams,103400.0,296,6866429
+Lake Sharon,Marquette,104700.0,297,6866319
+Mason Lake,Adams,175700.0,298,6866613
+Pleasant Lake,Waushara,106900.0,299,6866301
+Puckaway Lake,Green Lake,158700.0,300,6866527
+Sandy Lake,Marquette,107400.0,301,6866335
+Tuttle Lake,Marquette,108200.0,302,6866369
+Twin Lakes,Marquette,117000.0,303,6866375
+White Lake,Marquette,163970.0,304,6866471
+Unnamed,Marquette,168190.0,305,0
+Wood Lake,Marquette,117600.0,306,6866313
+Berry Lake,Oconto,418300.0,307,6810874
+Blacksmith Lake,Menominee,340500.0,308,6810820
+Little Blacksmith Lake,Menominee,340400.0,309,6810820
+Unnamed,Menominee,5535807.0,310,6810820
+Pestiga Lake,Menominee,340200.0,311,6810820
+Pywaosit Lake,Menominee,341000.0,312,6810820
+Sapokesick Lake,Menominee,340900.0,313,6810820
+Skice Lake,Menominee,339900.0,314,6810820
+Spring Lake,Menominee,340100.0,315,6810820
+Skice Lake,Menominee,339900.0,316,6810820
+Moshawquit Lake,Menominee,454200.0,317,6810864
+Upper Kelly Lake,Waukesha,7100.0,318,12169509
+Lake Tomah,Monroe,1342100.0,319,14710140
+Anderson Lake,Oconto,458700.0,320,6808690
+Archibald Lake,Oconto,417400.0,321,6808194
+Bass Lake,Oconto,417900.0,322,6808210
+Bear Lake,Oconto,471200.0,323,6808112
+Bear Paw Lake,Oconto,418000.0,324,6808506
+Berry Lake,Oconto,418300.0,325,6810874
+Boot Lake,Oconto,418700.0,326,6808248
+Boulder Lake,Oconto,491800.0,327,6808572
+Caldron Falls Reservoir*,Marinette,545400.0,328,6819514
+Chain Lake,Oconto,464700.0,329,6808156
+Chute Pond,Oconto,462520.0,330,6808620
+Cooley Lake,Oconto,447200.0,331,6808844
+Crooked Lake,Oconto,462000.0,332,6808374
+Explosion Lake,Oconto,466900.0,333,6808090
+Green Lake,Oconto,459900.0,334,6808562
+Grindle Lake,Oconto,421600.0,335,6808422
+Hoerth Lake,Oconto,447400.0,336,6808822
+Horn Lake,Oconto,467100.0,337,6808088
+Kelly Lake,Oconto,446600.0,338,6808842
+Klaus Lake,Oconto,445800.0,339,6810770
+Little Horn Lake,Oconto,466800.0,340,6808090
+Little Pickerel Lake,Oconto,475000.0,341,6808046
+Machickanee Flowage (Stiles),Oconto,448200.0,342,0
+Maiden Lake,Oconto,487500.0,343,6808236
+Makholm Lake,Oconto,447300.0,344,6808834
+Mary Lake,Langlade,496300.0,345,6808166
+Munger Lake,Oconto,470900.0,346,6808092
+Nelligan Lake,Oconto,425300.0,347,6808442
+Paya Lake,Oconto,425600.0,348,6808218
+Pecor Lake,Oconto,447100.0,349,6808812
+Pickerel Lake,Oconto,474900.0,350,6808028
+Porcupine Lake,Oconto,443500.0,351,166766621
+Ranch Lake,Oconto,426400.0,352,6808540
+Round Lake,Oconto,446700.0,353,6808828
+Smoke Lake,Oconto,427500.0,354,6808056
+Star Lake,Oconto,427900.0,355,6808430
+Surprise Lake,Oconto,428100.0,356,6808042
+Underwood Lake,Oconto,519700.0,357,6819976
+Waubee Lake,Oconto,439500.0,358,6808062
+Wheeler Lake,Oconto,439800.0,359,6808108
+White Lake,Oconto,447000.0,360,6808826
+White Potato Lake,Oconto,515100.0,361,6819818
+Wiscobee Lake,Oconto,481700.0,362,6808852
+Aldridge Lake,Oneida,967400.0,363,13394033
+Alva Lake,Oneida,968100.0,364,13394773
+Bass Lake T37n R09e S30,Oneida,1580300.0,365,13394777
+Bear Lake,Oneida,1527800.0,366,13394447
+Bearskin Lake,Oneida,1523600.0,367,13394649
+Big Fork Lake,Oneida,1610700.0,368,13393943
+Big Lake,Oneida,1613000.0,369,13394529
+Big Stone Lake,Oneida,1612200.0,370,13393943
+Birch Lake,Oneida,1523800.0,371,13394675
+Bird Lake,Oneida,972000.0,372,13394319
+Bolger Lake,Oneida,973000.0,373,13394119
+Boom Lake,Oneida,1580200.0,374,13394777
+Buffalo Lake,Oneida,974200.0,375,13393935
+Chain Lake,Oneida,1598000.0,376,13394145
+Clearwater Lake,Oneida,1616400.0,377,13394117
+Cranberry Lake,Oneida,1603800.0,378,13393737
+Crescent Lake,Oneida,1564200.0,379,13395159
+Mud Lake,Oneida,1612500.0,380,13393943
+Dam Lake,Oneida,1596900.0,381,13393999
+Deer Lake,Oneida,1612300.0,382,13393943
+Deer Lake,Oneida,1612300.0,383,13393943
+Diamond Lake,Oneida,1537100.0,384,13393891
+Dog Lake,Oneida,1612900.0,385,13393943
+Dorothy Lake,Oneida,981200.0,386,13394213
+Twin Lakes,Oneida,982400.0,387,13394509
+Emma Lake,Oneida,983500.0,388,13395229
+Fifth Lake,Oneida,1571100.0,389,13395039
+Flannery Lake,Oneida,985300.0,390,13394965
+Fourmile Lake,Oneida,1610800.0,391,13393943
+Franklin Lake,Oneida,986000.0,392,13393937
+Fuller Lake,Oneida,2272000.0,393,12988617
+George Lake,Oneida,1569600.0,394,13395173
+Gilmore Lake,Oneida,1589300.0,395,13394023
+Hancock Lake,Oneida,1517900.0,396,13395123
+Hanson Lake,Oneida,988200.0,397,13395085
+Hasbrook Lake,Oneida,1589100.0,398,13394155
+Unnamed,Oneida,1138400.0,399,13394619
+Hemlock Lake,Oneida,989200.0,400,13393939
+Hill Lake,Oneida,990200.0,401,13393873
+Horsehead Lake,Oneida,1588000.0,402,13394367
+Island Lake,Oneida,1610500.0,403,13393943
+Kathan Lake,Oneida,1598300.0,404,13393985
+Kawaguesaga Lake,Oneida,1542300.0,405,13393881
+Lake Julia,Oneida,995000.0,406,13395147
+Lake Nokomis,Oneida,1516500.0,407,13395357
+Lake Nokomis,Lincoln,1516500.0,408,13395357
+Lake Thompson,Oneida,1569900.0,409,13395097
+Laurel Lake,Oneida,1611800.0,410,13393943
+Laurel Lake,Oneida,1611800.0,411,13393943
+Lee Lake,Oneida,997400.0,412,13394383
+Little Bearskin Lake,Oneida,1523500.0,413,13394761
+Little Tomahawk Lake,Oneida,1543900.0,414,13394077
+Lone Stone Lake,Oneida,1605600.0,415,13394067
+Long Lake,Oneida,1609000.0,416,13393943
+Long Lake,Oneida,1001300.0,417,13394733
+Lower Kaubashine Lake,Oneida,1534800.0,418,13394239
+Lower Ninemile Lake,Vilas,1605200.0,419,13393859
+Manson Lake,Oneida,1517200.0,420,13395309
+Maple Lake,Oneida,1609900.0,421,13394351
+Medicine Lake,Oneida,1611700.0,422,13393943
+Meta Lake,Vilas,1004400.0,423,13393903
+Mid Lake,Oneida,1542600.0,424,13394003
+Mildred Lake,Oneida,1004600.0,425,13394913
+Moen Lake,Oneida,1573800.0,426,13394953
+Oneida Lake,Oneida,1518200.0,427,13395071
+Pelican Lake,Oneida,1579900.0,428,167120863
+Perch Lake,Oneida,1010800.0,429,13395103
+Perch Lake,Oneida,1011100.0,430,13393961
+Pickerel Lake,Oneida,1590400.0,431,13393863
+Planting Ground Lake,Oneida,1609100.0,432,13393943
+Rainbow Flowage,Oneida,1595300.0,433,13393923
+Range Line Lake,Oneida,1610300.0,434,13394249
+Rice Lake,Oneida,1617200.0,435,13394251
+Sand Lake,Oneida,1597000.0,436,13394099
+Second Lake,Oneida,1572300.0,437,13394953
+Sevenmile Lake,Oneida,1605800.0,438,13393947
+Shepard Lake,Oneida,1576100.0,439,13394963
+Shishebogama Lake,Vilas,1539600.0,440,13393729
+Spirit Lake,Oneida,1612000.0,441,13394359
+Spur Lake,Oneida,1571800.0,442,13394765
+Squash Lake,Oneida,1019500.0,443,13395195
+Amber Lake,Oneida,2271600.0,444,167120812
+Squirrel Lake,Oneida,1536300.0,445,13393787
+Stella Lake,Oneida,1575700.0,446,13394785
+Sugar Camp Lake,Oneida,1020400.0,447,13394325
+Sureshot Lake,Oneida,1021000.0,448,13394111
+Swamp Lake,Oneida,1522400.0,449,13395019
+Third Lake,Oneida,1572200.0,450,13394953
+Thunder Lake,Oneida,1580400.0,451,13394777
+Tom Doyle Lake,Oneida,1586800.0,452,13394501
+Tomahawk Lake,Oneida,1542700.0,453,13394077
+Townline Lake,Oneida,1023100.0,454,13395027
+Townline Lake,Oneida,1609600.0,455,13393943
+Unnamed,Oneida,5583266.0,456,13394183
+Upper Kaubashine Lake,Oneida,1535000.0,457,13394339
+Velvet Lake,Oneida,1176500.0,458,13394965
+Virgin Lake,Oneida,1614100.0,459,13394431
+Washburn Lake,Oneida,1178000.0,460,13395143
+West Horsehead Lake,Oneida,1522900.0,461,13394819
+Whitefish Lake,Oneida,1613500.0,462,13394459
+Whitefish Lake,Oneida,1613500.0,463,13394459
+Willow Flowage,Oneida,1528300.0,464,13394473
+Apple River Flowage,Polk,2624200.0,465,2646764
+Balsam Lake,Polk,2620600.0,466,2646368
+Bear Trap Lake,Polk,2618100.0,467,2646860
+Big Blake Lake,Polk,2627000.0,468,167120751
+Big Butternut Lake,Polk,2641000.0,469,2644088
+Big Lake,Polk,2615900.0,470,13105149
+Big Round Lake,Polk,2627400.0,471,2644214
+Black Brook Flowage,Polk,2621900.0,472,0
+Bone Lake,Polk,2628100.0,473,2644120
+Cedar Lake,Polk,2615100.0,474,2647328
+Church Pine Lake,Polk,2616100.0,475,13105149
+Twin Lakes,Polk,2457400.0,476,2644282
+Pickerel Lake,Polk,2458900.0,477,2267435
+Deer Lake,Polk,2619400.0,478,2646644
+Freedom Lakes,Polk,2641500.0,479,2643916
+Half Moon Lake,Polk,2621100.0,480,2646336
+Horseshoe Lake,Polk,2630100.0,481,2646504
+Lamont Lake,Polk,2668500.0,482,2267363
+Largon Lake,Polk,2668100.0,483,2267225
+Little Butternut Lake,Polk,2640700.0,484,2644102
+Long Lake,Polk,2478200.0,485,2646486
+Long Trade Lake,Polk,2640500.0,486,2643924
+Loveless Lake,Polk,2620000.0,487,2646540
+Mud Lake,Polk,2619100.0,488,2646734
+North Pipe Lake,Polk,2485700.0,489,2644204
+White Ash Lake,Polk,2628800.0,490,2646446
+Pipe Lake,Polk,2490500.0,491,2644256
+Round Lake,Polk,2616400.0,492,2647022
+Staples Lake,Barron,2631200.0,493,167120756
+Swede Lake,Polk,2500500.0,494,2647214
+Vincent Lake,Polk,2598500.0,495,2644186
+Wapogasset Lake,Polk,2618000.0,496,2646860
+Ward Lake,Polk,2599400.0,497,2267263
+White Ash Lake,Polk,2628600.0,498,2646514
+Wind Lake,Polk,2616000.0,499,13105149
+Adams Lake,Portage,267800.0,500,9035799
+Collins Lake,Portage,270200.0,501,9032697
+Ebert Lake,Portage,267700.0,502,9035789
+Glisezinski Lake,Portage,987100.0,503,14701820
+Ell Lake,Portage,186000.0,504,9035743
+Lake Emily,Portage,189800.0,505,9035735
+Lake Helen,Portage,287200.0,506,9032673
+McDill Pond,Portage,1403200.0,507,0
+Penny Lake,Portage,195500.0,508,9032635
+Rinehart Lake,Portage,278600.0,509,9032837
+Sunset Lake,Portage,199700.0,510,9032807
+Tree Lake,Portage,289400.0,511,9032625
+Bass Lake,Price,2279800.0,512,13349370
+Big Dardis Lake,Price,2244200.0,513,12991537
+Butternut Lake,Price,2283300.0,514,13349262
+Cochran Lake,Price,2264000.0,515,12990909
+Duroy Lake,Price,2240100.0,516,12991623
+Elk Lake,Price,2240000.0,517,12991623
+Lac Sault Dore,Price,2236800.0,518,12991607
+Long Lake,Price,2239300.0,519,12991627
+Musser Flowage,Price,2245100.0,520,12991513
+North Spirit Lake,Price,1515200.0,521,13400551
+Pike Lake,Price,2268300.0,522,12991001
+Round Lake,Price,2267800.0,523,12991001
+Schnur Lake,Price,2284000.0,524,13349304
+Solberg Lake,Price,2242500.0,525,12991467
+Spirit Lake,Taylor,1513000.0,526,13400551
+Turner Lake,Price,2268500.0,527,12991001
+Wilson Lake,Price,2239400.0,528,12991677
+Browns Lake,Racine,750300.0,529,14767930
+Lake Denoon,Waukesha,761300.0,530,14767756
+Eagle Lake,Racine,759800.0,531,14767924
+Tichigan Lake,Racine,763600.0,532,14767802
+Wind Lake,Racine,761700.0,533,14767798
+Long Lake,Sauk,1236600.0,534,13634411
+Clear Lake,Rock,775000.0,535,13294738
+Lake Koshkonong,Jefferson,808700.0,536,167120945
+Leota Lake,Rock,884700.0,537,13424965
+Amacoy Lake,Rusk,2359700.0,538,13123946
+Chain Lake,Rusk,2350500.0,539,13124042
+Clear Lake,Rusk,2350600.0,540,13124042
+Dairyland Reservoir (Flambeau),Rusk,2229200.0,541,0
+Island Lake,Rusk,2350200.0,542,13124042
+McCann Lake,Rusk,2350400.0,543,13124042
+Pulaski Lake,Rusk,1875900.0,544,13124014
+Sand Lake,Rusk,2353600.0,545,13124084
+Cedar Lake,Polk,2615100.0,546,2647328
+Mallalieu Lake,Saint Croix,2607100.0,547,2651308
+Devils Lake,Sauk,980900.0,548,13653704
+Dutch Hollow Lake,Sauk,1286500.0,549,13652604
+Lake Redstone,Sauk,1280400.0,550,13652598
+Lake Wisconsin,Sauk,1260600.0,551,13631537
+Long Lake,Sauk,1236600.0,552,13634411
+White Mound Lake,Sauk,1258100.0,553,13634335
+Birch Lake,Washburn,2113000.0,554,13078713
+Black Dan Lake,Sawyer,2381900.0,555,13119508
+Callahan Lake,Sawyer,2434700.0,556,167800979
+Clear Lake,Sawyer,1841300.0,557,13118896
+Connors Lake,Sawyer,2275100.0,558,13349716
+Grindstone Lake,Sawyer,2391200.0,559,13120940
+Hunter Lake,Sawyer,2400600.0,560,167800980
+Lac Courte Oreilles,Sawyer,2390800.0,561,13120978
+Lac Courte Oreilles,Sawyer,2390800.0,562,13120978
+Lac Courte Oreilles,Sawyer,2390800.0,563,13120978
+Lake Chetac,Sawyer,2113300.0,564,13078315
+Lake Placid,Sawyer,2436500.0,565,13118882
+Lake of the Pines,Sawyer,2275300.0,566,13349678
+Little Sissabagama Lake,Sawyer,2394100.0,567,13121246
+Lost Land Lake,Sawyer,2418600.0,568,13118762
+Lower Clam Lake,Sawyer,2429300.0,569,13117748
+Moose Lake,Sawyer,2420600.0,570,167800984
+Mud Lake,Sawyer,2434800.0,571,167800979
+Nelson Lake,Sawyer,2704200.0,572,1849955
+Sand Lake,Sawyer,2393200.0,573,13121108
+Clear Lake,Sawyer,2435800.0,574,13118764
+Fawn Lake,Sawyer,2435900.0,575,13118764
+North Lake,Sawyer,2436000.0,576,13118750
+Teal Lake,Sawyer,2417000.0,577,13118762
+Whitefish Lake,Sawyer,2392000.0,578,13121080
+Windigo Lake,Sawyer,2046600.0,579,13120970
+Bahr Lake,Shawano,325300.0,580,9029765
+Beaulieu Lake,Shawano,182000.0,581,9029637
+Big Lake,Shawano,345100.0,582,9029605
+Bowler Pond,Shawano,303600.0,583,0
+Grass Lake,Shawano,299200.0,584,9029899
+Kolpack Lake,Shawano,189400.0,585,9029589
+Koonz Lake,Shawano,189500.0,586,9029637
+Korth Lake,Shawano,325400.0,587,9029771
+Long Lake,Shawano,321300.0,588,9029889
+Loon Lake,Shawano,323800.0,589,9029755
+Lulu Lake,Shawano,324000.0,590,9029757
+Pella Pond,Shawano,300900.0,591,9029843
+Pensaukee Lakes,Shawano,415000.0,592,6800772
+Pensaukee Lakes,Shawano,415000.0,593,6800772
+Pine Lake,Shawano,299100.0,594,9029899
+Round Lake,Shawano,299300.0,595,9029899
+Schoenick Lake,Shawano,321100.0,596,9029895
+Shawano Lake,Shawano,322800.0,597,9029767
+Tilleda Pond,Shawano,302300.0,598,9029775
+White Clay Lake,Shawano,326400.0,599,9029805
+White Lake,Shawano,240800.0,600,9029911
+Crystal Lake,Sheboygan,45200.0,601,12176206
+Elkhart Lake,Sheboygan,59300.0,602,12176188
+Lake Ellen,Sheboygan,32500.0,603,12161150
+Little Elkhart Lake,Sheboygan,46000.0,604,12175156
+Long Lake,Fond du Lac,38700.0,605,12161108
+Random Lake,Sheboygan,30300.0,606,12160852
+Chequamegon Waters Flowage,Taylor,2160700.0,607,13102599
+Esadore Lake,Taylor,1764000.0,608,13131941
+North Spirit Lake,Price,1515200.0,609,13400551
+Spirit Lake,Taylor,1513000.0,610,13400551
+Sidie Hollow Lake,Vernon,1641400.0,611,13205684
+Alder Lake,Vilas,2329600.0,612,13343802
+Aldridge Lake,Oneida,967400.0,613,13394033
+Alma Lake,Vilas,967900.0,614,13393757
+Amik Lake,Vilas,2268600.0,615,12991001
+Anderson Lake,Vilas,968500.0,616,13391465
+Annabelle Lake,Vilas,2953800.0,617,6792319
+Anvil Lake,Vilas,968800.0,618,13393597
+Armour Lake,Vilas,2953200.0,619,6792255
+Baker Lake,Vilas,1626400.0,620,13391709
+Ballard Lake,Vilas,2340700.0,621,13343982
+Ballard Lake,Vilas,2340700.0,622,13343982
+Bass Lake,Vilas,1604200.0,623,13393673
+Beaver Lake,Vilas,2960600.0,624,6792441
+Benson Lake,Vilas,2327100.0,625,13343604
+Big Arbor Vitae Lake,Vilas,1545600.0,626,13393577
+Big Lake,Vilas,2334700.0,627,13343454
+Big Muskellunge Lake,Vilas,1835300.0,628,13344170
+Big Portage Lake,Vilas,1629500.0,629,13391565
+Big Sand Lake,Vilas,1602600.0,630,167120869
+Big Saint Germain Lake,Vilas,1591100.0,631,13393595
+Birch Lake,Vilas,2311100.0,632,13343260
+Black Oak Lake,Vilas,1630100.0,633,13391477
+Bobidosh Lake,Vilas,1836100.0,634,13346426
+Boot Lake,Vilas,1619100.0,635,13393453
+Boulder Lake,Vilas,2338300.0,636,13343660
+Broken Bow Lake,Vilas,1837300.0,637,12988397
+Carlin Lake,Vilas,2757900.0,638,6792433
+Carpenter Lake,Vilas,976100.0,639,13393591
+Circle Lily Lake,Vilas,2326700.0,640,13343450
+Clearwater Lake,Oneida,1616400.0,641,13394117
+Cochran Lake,Vilas,2963500.0,642,11950185
+Crab Lake,Vilas,2953500.0,643,6792409
+Cranberry Lake,Oneida,1603800.0,644,13393737
+Crawling Stone Lake,Vilas,2322800.0,645,13346740
+Dads Lake,Vilas,979700.0,646,13393329
+Dead Pike Lake,Vilas,2316600.0,647,13343744
+Deerskin Lake,Vilas,1601300.0,648,13393431
+Duck Lake,Vilas,1599900.0,649,13396007
+Escanaba Lake,Vilas,2339900.0,650,13343954
+Fawn Lake,Vilas,1591000.0,651,13393681
+Fawn Lake,Vilas,2328900.0,652,13343614
+Finger Lake,Vilas,984700.0,653,13393501
+Fishtrap Lake,Vilas,2343200.0,654,13343602
+Flambeau Lake,Vilas,2320500.0,655,13346562
+Forest Lake,Vilas,2762200.0,656,11950445
+Found Lake,Vilas,1593800.0,657,13393533
+Frank Lake,Vilas,985900.0,658,13391779
+Gunlock Lake,Vilas,1539700.0,659,13393651
+Harris Lake,Vilas,2958500.0,660,6791805
+Hiawatha Lake,Vilas,2328400.0,661,13343320
+High Lake,Vilas,2344000.0,662,13343496
+Horsehead Lake,Vilas,2953100.0,663,6792137
+Imogene Lake,Vilas,586800.0,664,14446864
+Irving Lake,Vilas,2340900.0,665,13343976
+Island Lake,Vilas,2334400.0,666,13343626
+Katinka Lake,Vilas,2957000.0,667,13343288
+Kentuck Lake,Vilas,716800.0,668,14445790
+Lac Vieux Desert,Vilas,1631900.0,669,13391511
+Little Arbor Vitae Lake,Vilas,1545300.0,670,13393683
+Little Crab Lake,Vilas,2955900.0,671,6792583
+Little Crawling Stone Lake,Vilas,2324000.0,672,13346842
+Little Crooked Lake,Vilas,2335500.0,673,13343540
+Little Portage Lake,Vilas,1629200.0,674,13391559
+Little Spider Lake,Vilas,1540400.0,675,13393397
+Little Tamarack Flowage,Vilas,1626200.0,676,13391661
+Long Lake,Vilas,1602300.0,677,167120868
+Lost Lake,Vilas,1593400.0,678,13393449
+Lower Buckatabon Lake,Vilas,1621000.0,679,13391805
+Lower Ninemile Lake,Vilas,1605200.0,680,13393859
+Lower Sugarbush Lake,Vilas,2317600.0,681,13344046
+Lynx Lake,Vilas,1600000.0,682,13396007
+Lynx Lake,Vilas,2954500.0,683,6792411
+Manitowish Lake,Vilas,2329400.0,684,13343686
+Mann Lake,Vilas,2332000.0,685,13346476
+McCullough Lake,Vilas,2960400.0,686,6792463
+McDonald Lake,Vilas,1003700.0,687,13393813
+Meta Lake,Vilas,1004400.0,688,13393903
+Middle Sugarbush Lake,Vilas,2317700.0,689,13344114
+Moon Lake,Vilas,1005800.0,690,13393705
+Moss Lake,Vilas,2322500.0,691,13346652
+Muskellunge Lake,Vilas,1596600.0,692,13393521
+Myrtle Lake,Vilas,1626000.0,693,13391681
+North Crab Lake,Vilas,2953400.0,694,6792393
+North Turtle Lake,Vilas,2310400.0,695,13343156
+Twin Lakes (North),Vilas,1623800.0,696,13391717
+Twin Lakes (North),Vilas,1623800.0,697,13391717
+Otter Lake,Vilas,1600100.0,698,13396007
+Oxbow Lake,Vilas,2954800.0,699,6792027
+Papoose Lake,Vilas,2328700.0,700,13343310
+Pickerel Lake,Vilas,1619700.0,701,13393429
+Pioneer Lake,Vilas,1623400.0,702,13391833
+Plum Lake,Vilas,1592400.0,703,167120870
+Presque Isle Lake,Vilas,2956500.0,704,6792133
+Rainbow Lake,Vilas,2310800.0,705,13343206
+Razorback Lake,Vilas,1013800.0,706,13391819
+Red Bass Lake,Vilas,2954700.0,707,6792483
+Rest Lake,Vilas,2327500.0,708,13343530
+Roach Lake,Vilas,1014000.0,709,13393489
+Rock Lake,Vilas,2311700.0,710,13343156
+Rosalind Lake,Vilas,1877900.0,711,13343366
+Rush Lake,Vilas,2343600.0,712,13343496
+Scattering Rice Lake,Vilas,1600300.0,713,13396013
+Shishebogama Lake,Vilas,1539600.0,714,13393729
+Silver Lake,Vilas,1599800.0,715,13393717
+Smoky Lake,Vilas,1018300.0,716,13390399
+Snipe Lake,Vilas,1018500.0,717,13393613
+South Turtle Lake,Vilas,2310200.0,718,13343252
+Twin Lakes (South),Vilas,1623700.0,719,13391717
+Spectacle Lake,Vilas,717400.0,720,120052561
+Spider Lake,Vilas,2329300.0,721,13343614
+Spirit Lake,Vilas,1019000.0,722,13393497
+Little Tamarack Flowage,Vilas,1626200.0,723,13391661
+Amber Lake,Oneida,2271600.0,724,167120812
+Squirrel Lake,Oneida,1536300.0,725,13393787
+Starrett Lake,Vilas,1019800.0,726,13344152
+Statehouse Lake,Vilas,1883700.0,727,13343552
+Stone Lake,Vilas,2328800.0,728,13343614
+Sunset Lake,Vilas,1020900.0,729,13393657
+Towanda Lake,Vilas,1022900.0,730,13393567
+Turner Lake,Price,2268500.0,731,12991001
+Upper Buckatabon Lake,Vilas,1621800.0,732,13391805
+Upper Gresham Lake,Vilas,2330800.0,733,13343914
+Middle Sugarbush Lake,Vilas,2317700.0,734,13344114
+White Birch Lake,Vilas,2340500.0,735,13343968
+White Sand Lake,Vilas,2339100.0,736,13343830
+Wild Rice Lake,Vilas,2329800.0,737,69885924
+Wildcat Lake,Vilas,2336800.0,738,13343420
+Yellow Birch Lake,Vilas,1599600.0,739,13396007
+Booth Lake,Walworth,740400.0,740,14767842
+Comus Lake,Walworth,794200.0,741,13294882
+Delavan Lake,Walworth,793600.0,742,13294910
+Eagle Spring Lake,Waukesha,768600.0,743,14767720
+Geneva Lake,Walworth,758300.0,744,14768018
+Green Lake,Walworth,755800.0,745,14767870
+Honey Lake (Vienna),Walworth,752300.0,746,14767914
+Lake Beulah,Walworth,766600.0,747,14767784
+Lake Lorraine,Walworth,777500.0,748,13294814
+Middle Lake,Walworth,755700.0,749,14767870
+Mill Lake,Walworth,755600.0,750,14767870
+Pleasant Lake,Walworth,741500.0,751,14767864
+Powers Lake,Kenosha,744200.0,752,14768066
+Rice Lake,Walworth,816600.0,753,13294782
+Turtle Lake,Walworth,795100.0,754,13294824
+Whitewater Lake,Walworth,816800.0,755,13294786
+Balsam Lake,Washburn,2112800.0,756,0
+Balsam Lake,Washburn,2112800.0,757,0
+Bass Lake,Washburn,2451900.0,758,1852643
+Bass Lake,Washburn,2451300.0,759,1852779
+Bear Lake,Barron,2105100.0,760,13078811
+McKenzie Lake,Washburn,2706800.0,761,1855411
+Birch Lake,Washburn,2113000.0,762,13078713
+Deep Lake,Washburn,1844000.0,763,13078193
+Gilmore Lake,Washburn,2695800.0,764,1849929
+Horseshoe Lake,Washburn,2470000.0,765,1850033
+Island Lake,Washburn,2470600.0,766,1852599
+Lake Nancy,Washburn,2691500.0,767,0
+Long Lake,Washburn,2106800.0,768,13078143
+Lower Kimball Lake,Washburn,2691800.0,769,1849969
+Lower McKenzie Lake,Washburn,2706300.0,770,1855143
+Matthews Lake,Washburn,2710800.0,771,1850235
+McLain Lake,Washburn,2481600.0,772,1850151
+Middle Kimball Lake,Washburn,2691900.0,773,1849951
+Middle McKenzie Lake,Burnett,2706500.0,774,1855289
+Minong Flowage,Washburn,2692900.0,775,1849725
+No Mans Lake,Washburn,2486300.0,776,2262491
+North Twin Lake- Twin Lakes,Washburn,2485900.0,777,1850095
+Potato Lake,Washburn,2714500.0,778,1853025
+Red Cedar Lake,Barron,2109600.0,779,13078817
+Shell Lake,Washburn,2496300.0,780,2264553
+Silver Lake,Washburn,2496900.0,781,1852475
+South Twin Lake-Twin Lakes ,Washburn,2494500.0,782,1850109
+Spider Lake,Washburn,1882100.0,783,13078455
+Spider Lake,Washburn,1882200.0,784,13078487
+Spider Lake,Washburn,1882300.0,785,13078497
+Spider Lake,Washburn,1882400.0,786,13078519
+Spider Lake,Washburn,1882500.0,787,13078533
+Spider Lake,Washburn,1882500.0,788,13078533
+Spider Lake,Washburn,1882500.0,789,13078533
+Stone Lake,Washburn,1884100.0,790,13121114
+Tozer Lake,Washburn,2502000.0,791,2264213
+Unnamed,Washburn,2536900.0,792,2264689
+Upper Kimball Lake,Washburn,2692000.0,793,1849927
+Warner Lake,Washburn,2599600.0,794,2262497
+Bark Lake,Washington,828600.0,795,13290742
+Cedar Lake,Washington,25300.0,796,12162854
+Druid Lake,Washington,855200.0,797,13290696
+Friess Lake,Washington,853200.0,798,13290718
+Green Lake,Washington,28100.0,799,12162796
+Lake Five,Washington,777400.0,800,13290754
+Little Friess Lake,Washington,853100.0,801,13290726
+Pike Lake,Washington,858300.0,802,13290674
+Silver Lake (Paradise Valley),Washington,36200.0,803,12162886
+Ashippun Lake,Waukesha,854300.0,804,13290786
+Crooked Lake,Waukesha,826800.0,805,13290978
+Lake Denoon,Waukesha,761300.0,806,14767756
+Eagle Spring Lake,Waukesha,768600.0,807,14767720
+Fowler Lake,Waukesha,849400.0,808,13290870
+Golden Lake,Waukesha,775900.0,809,13291006
+Lac La Belle,Waukesha,848800.0,810,13290818
+Lake Five,Washington,777400.0,811,13290754
+Little Muskego Lake,Waukesha,762700.0,812,14767666
+Lower Nashotah Lake,Waukesha,827300.0,813,13290938
+Lower Nemahbin Lake,Waukesha,827000.0,814,13290984
+Lower Phantom Lake,Waukesha,765800.0,815,14767708
+Moose Lake,Waukesha,778400.0,816,13290834
+Nagawicka Lake,Waukesha,828000.0,817,13290920
+North Lake,Waukesha,850800.0,818,13290790
+Oconomowoc Lake,Waukesha,849600.0,819,13290898
+Oconomowoc Lake,Waukesha,849600.0,820,13290898
+Okauchee Lake,Waukesha,850300.0,821,13290832
+Ottawa Lake,Waukesha,822200.0,822,13294494
+Pewaukee Lake,Waukesha,772000.0,823,14767156
+Pine Lake,Waukesha,779200.0,824,13290840
+Pretty Lake,Waukesha,779300.0,825,13294464
+School Section Lake,Waukesha,825000.0,826,13294422
+Silver Lake,Waukesha,779800.0,827,13290942
+Spring Lake,Waukesha,770600.0,828,14767668
+Upper Kelly Lake,Waukesha,7100.0,829,12169509
+Upper Nemahbin Lake,Waukesha,827100.0,830,13290958
+Upper Nemahbin Lake,Waukesha,827100.0,831,13290958
+Bear Lake,Waupaca,279700.0,832,9033701
+Beasley Lake,Waupaca,262300.0,833,9035981
+Columbia Lake,Waupaca,262400.0,834,9035981
+Hatch Lake,Waupaca,282800.0,835,9032817
+Long Lake,Waupaca,261200.0,836,9035981
+Marl Lake,Waupaca,264100.0,837,9036005
+Mirror Lake,Waupaca,258700.0,838,9035941
+North Lake,Waupaca,279400.0,839,9032763
+Old Taylor Lake,Waupaca,195000.0,840,9035959
+Otter Lake,Waupaca,265700.0,841,9035945
+Pope Lake,Waupaca,262900.0,842,9035997
+Round Lake,Waupaca,265000.0,843,9035945
+School Section Lake,Waupaca,283600.0,844,9030051
+Shadow Lake,Waupaca,258600.0,845,9035957
+Silver Lake,Waupaca,198800.0,846,9035757
+Stratton Lake,Waupaca,259600.0,847,9036035
+White Lake,Waupaca,272900.0,848,9033749
+Youngs Lake,Waupaca,264300.0,849,9035979
+Alpine Lake,Waushara,245650.0,850,9036279
+Hills Lake,Waushara,182100.0,851,9036217
+Bughs Lake,Waushara,102100.0,852,6864375
+Gilbert Lake,Waushara,186400.0,853,9036139
+Johns Lake,Waushara,245800.0,854,9036267
+Kusel Lake,Waushara,189600.0,855,9036197
+Lake Morris,Waushara,246500.0,856,9036249
+Hills Lake,Waushara,105200.0,857,6864391
+Long Lake,Waushara,1000800.0,858,14704072
+Marl Lake,Waushara,105800.0,859,6864321
+Pine Lake,Waushara,1012000.0,860,14704108
+Plainfield Lake,Waushara,1012500.0,861,14704074
+Pleasant Lake,Waushara,106900.0,862,6866301
+Porters Lake,Waushara,246900.0,863,9036257
+Round Lake,Waushara,197300.0,864,9036213
+Silver Lake,Waushara,247700.0,865,9036199
+Silver Lake,Waushara,107900.0,866,6864383
+White River Fl (Lower Pond),Waushara,151500.0,867,0
+Wilson Lake,Waushara,250000.0,868,9036185
+Lake Winnebago,Fond du Lac,131100.0,869,166766701
+Arkdale Lake,Adams,1374300.0,870,14704124

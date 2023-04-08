@@ -1,0 +1,812 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pickerel Lake,Oconto,474900,NE,43,,433248,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/07/1979,,,,,20,,51,,,,,,
+1,07/23/1979,,,,5,2,,34,47,,,,,
+1,11/06/1979,,,,,20,,51,,,,,,
+1,02/17/1993,,,,,6,,42,,,,,,
+1,05/03/1993,9.5,,2.9,9.9,14,45,49,52,,,,,
+1,06/17/1993,12.5,,3.81,3.55,7,41,43,44,,,,,
+1,07/12/1993,6.4,,1.94,2.44,9,50,45,42,,,,,
+1,08/17/1993,,,,2.75,7,,43,42,,,,,
+18137035,06/11/2013,,,,1.44,13.7,,48,38,,,,,
+34972183,04/14/2015,,,,,,,,,,,,,
+34972241,04/14/2015,10.5,N,3.2,9.5,30.4,43,55,52,,,,,
+130435685,04/14/2015,,,,,,,,,,,,,
+18136832,04/23/2015,,,,,22.4,,52,,,,,,
+130435685,06/11/2015,,,,,,,,,,,,,
+130839548,06/11/2015,8.5,N,2.6,6.24,19.8,46,51,49,,,,,
+34972183,07/13/2015,7.3,N,2.2,4.06,24.3,48,53,45,,,,,
+130435685,07/13/2015,,,,,,,,,,,,,
+34972183,08/27/2015,10.5,NO,3.2,2.62,25,43,53,42,,,,,
+130435685,08/27/2015,,,,,,,,,,,,,
+34972236,10/27/2015,13.2,YES,4,1.59,21.1,40,52,38,,,,,
+130435685,10/27/2015,,,,,,,,,,,,,
+18136832,01/21/2016,,,,,,,,,,,,,
+130435685,01/21/2016,,,,,,,,,NORMAL,,,,
+130435685,01/30/2016,,,,,,,,,NORMAL,,,,
+34972236,02/16/2016,5.9,NO,1.8,,17.7,52,50,,,,,,
+130435685,02/16/2016,,,,,,,,,,,,,
+130435685,02/21/2016,,,,,,,,,,,,,
+130435685,03/06/2016,,,,,,,,,,,,,
+130435685,04/11/2016,12,NO,3.6,,,41,,,NORMAL,14.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,05/03/2016,12.75,NO,3.9,,16,40,50,,NORMAL,14.0,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,06/21/2016,12,NO,3.6,2.65,17.9,41,50,42,NORMAL,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,07/18/2016,10.75,NO,3.3,1.02,20.3,43,51,35,NORMAL,14,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,08/22/2016,11.75,NO,3.6,1.01,19,42,51,35,NORMAL,14.0,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,09/02/2016,13.9,YES,4.2,,,39,,,NORMAL,13.9,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,09/17/2016,14,NO,4.3,,,39,,,NORMAL,14.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,10/09/2016,13.3,NO,4,,,40,,,NORMAL,14.0,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,12/28/2016,,,,,,,,,NORMAL,,CLEAR,,
+130435685,12/30/2016,,,,,,,,,NORMAL,,CLEAR,,
+130435685,01/09/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,01/22/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,02/04/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,02/18/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,02/27/2017,,,,,,,,,NORMAL,,CLEAR,,
+130435685,04/13/2017,6,NO,1.8,,,51,,,NORMAL,14.0,CLEAR,BROWN,1-Beautiful, could not be nicer
+157734507,04/13/2017,,,,,27.5,,54,,,,,,
+130435685,06/22/2017,6.5,NO,2,7.63,25.6,50,53,50,NORMAL,13.5,CLEAR,,1-Beautiful, could not be nicer
+130435685,07/21/2017,8.7,NO,2.6,2.33,20.5,46,52,41,NORMAL,14.0,CLEAR,,1-Beautiful, could not be nicer
+130435685,08/21/2017,11,NO,3.3,2.98,14.8,43,49,43,NORMAL,14.2,CLEAR,BROWN,1-Beautiful, could not be nicer
+130435685,10/13/2017,13.1,NO,4,,,40,,,NORMAL,14.0,CLEAR,,1-Beautiful, could not be nicer
+130435685,01/02/2018,,,,,,,,,,,,,
+130435685,01/09/2018,,,,,,,,,,,,,
+130435685,01/17/2018,,,,,,,,,,,,,
+130435685,01/25/2018,,,,,,,,,,,,,
+130435685,02/04/2018,,,,,,,,,,,,,
+130435685,02/19/2018,,,,,,,,,,,,,
+130435685,03/05/2018,,,,,,,,,,,,,
+130435685,03/17/2018,,,,,,,,,,,,,
+130435685,04/02/2018,,,,,,,,,,,,,
+130435685,04/09/2018,,,,,,,,,,,,,
+130435685,04/19/2018,,,,,,,,,,,,,
+130435685,05/08/2018,8.5,NO,2.6,,16.9,46,50,,NORMAL,14.0,CLEAR,,1-Beautiful, could not be nicer
+130435685,06/20/2018,8,NO,2.4,4.73,18.3,47,51,47,NORMAL,14.2,CLEAR,,1-Beautiful, could not be nicer
+130435685,07/02/2018,6.2,NO,1.9,,,51,,,NORMAL,14.0,MURKY,GREEN,2-Very minor aesthetic problems
+130435685,07/26/2018,8,NO,2.4,6.95,14.5,47,49,49,NORMAL,13.8,CLEAR,,1-Beautiful, could not be nicer
+130435685,08/20/2018,7,NO,2.1,7.41,20.2,49,51,50,NORMAL,14.0,CLEAR,,2-Very minor aesthetic problems
+130435685,09/07/2018,8.9,NO,2.7,,,46,,,NORMAL,14.5,CLEAR,,1-Beautiful, could not be nicer
+130435685,12/15/2018,,,,,,,,,,,,,
+130435685,01/02/2019,,,,,,,,,,14.8,,,
+130435685,01/10/2019,,,,,,,,,,14.5,,,
+130435685,02/03/2019,,,,,,,,,,14.5,,,
+130435685,03/17/2019,,,,,,,,,,14.5,,,
+130435685,05/04/2019,10.75,NO,3.3,,19.1,43,51,,HIGH,15,CLEAR,BLUE,1-Beautiful, could not be nicer
+130435685,06/19/2019,8,NO,2.4,8.24,61,47,60,51,HIGH,14.5,CLEAR,,1-Beautiful, could not be nicer
+130435685,07/16/2019,6.5,NO,2,7.75,20.2,50,51,50,NORMAL,13.9,MURKY,,2-Very minor aesthetic problems
+130435685,08/19/2019,6,NO,1.8,6.32,19.1,51,51,49,NORMAL,14.0,MURKY,,2-Very minor aesthetic problems
+130435685,10/20/2019,10,NO,3,,,44,,,NORMAL,14.0,CLEAR,,2-Very minor aesthetic problems
+130435685,12/17/2019,,,,,,,,,,14.7,,,
+130435685,12/27/2019,,,,,,,,,,14.5,,,
+130435685,01/17/2020,,,,,,,,,,14.7,,,
+130435685,02/06/2020,,,,,,,,,,14.5,,,
+130435685,03/05/2020,,,,,,,,,,14.4,,,
+130435685,03/21/2020,,,,,,,,,,,,,
+130435685,06/25/2020,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+148112004,06/25/2020,8.5,NO,2.6,2.55,14.6,46,49,42,,,,,
+130435685,07/20/2020,7,NO,2.1,3.68,13.3,49,48,45,NORMAL,14.0,MURKY,,2-Very minor aesthetic problems
+130435685,08/27/2020,12,NO,3.6,2.51,16.8,41,50,42,NORMAL,14.0,CLEAR,,1-Beautiful, could not be nicer
+18137035,11/06/2020,9.5,NO,2.9,,,45,,,,,,,
+79323097,11/06/2020,9.5,NO,2.9,,,45,,,HIGH,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/17/1993,,,3.0,C,0.6,MG/L
+05/03/1993,,,10.5,C,8.9,MG/L
+06/17/1993,,,19.0,C,7.0,MG/L
+07/12/1993,,,22.8,C,4.7,MG/L
+08/17/1993,,,22.8,C,0.7,MG/L
+04/14/2015,1,FEET,8.8,DEGREES C,10.2,MG/L
+04/14/2015,2,FEET,8.3,DEGREES C,10.4,MG/L
+04/14/2015,3,FEET,8.3,DEGREES C,10.4,MG/L
+04/14/2015,4,FEET,8.2,DEGREES C,10.4,MG/L
+04/14/2015,5,FEET,8.2,DEGREES C,10.4,MG/L
+04/14/2015,6,FEET,8.2,DEGREES C,10.4,MG/L
+04/14/2015,7,FEET,8.1,DEGREES C,10.4,MG/L
+04/14/2015,8,FEET,8.1,DEGREES C,10.4,MG/L
+04/14/2015,9,FEET,8,DEGREES C,10.3,MG/L
+04/14/2015,10,FEET,7.9,DEGREES C,10.3,MG/L
+04/14/2015,11,FEET,7.9,DEGREES C,10.3,MG/L
+04/14/2015,12,FEET,7.9,DEGREES C,10.3,MG/L
+04/14/2015,13,FEET,7.9,DEGREES C,9.4,MG/L
+04/14/2015,14,FEET,7.9,DEGREES C,1.5,MG/L
+04/14/2015,,,7.9,C,10.3,MG/L
+06/11/2015,1,FEET,20.7,DEGREES C,9.7,MG/L
+06/11/2015,3,FEET,21,DEGREES C,9.6,MG/L
+06/11/2015,5,FEET,21.1,DEGREES C,9.5,MG/L
+06/11/2015,7,FEET,21.2,DEGREES C,9.5,MG/L
+06/11/2015,9,FEET,21.2,DEGREES C,9.5,MG/L
+06/11/2015,11,FEET,20.9,DEGREES C,8.6,MG/L
+06/11/2015,13,FEET,20.3,DEGREES C,4.4,MG/L
+06/11/2015,,,20.9,C,8.6,MG/L
+07/13/2015,1,FEET,26.6,DEGREES C,8.8,MG/L
+07/13/2015,3,FEET,26.5,DEGREES C,8.8,MG/L
+07/13/2015,5,FEET,25.6,DEGREES C,9.4,MG/L
+07/13/2015,7,FEET,25.4,DEGREES C,9.4,MG/L
+07/13/2015,9,FEET,25.2,DEGREES C,9.3,MG/L
+07/13/2015,11,FEET,24,DEGREES C,7.9,MG/L
+07/13/2015,13,FEET,23.5,DEGREES C,6.7,MG/L
+07/13/2015,,,24.0,C,7.9,MG/L
+08/27/2015,1,FEET,18.1,DEGREES C,9.2,MG/L
+08/27/2015,2,FEET,18.4,DEGREES C,9.1,MG/L
+08/27/2015,3,FEET,18.4,DEGREES C,9.1,MG/L
+08/27/2015,4,FEET,18.5,DEGREES C,9.1,MG/L
+08/27/2015,5,FEET,18.5,DEGREES C,9.1,MG/L
+08/27/2015,6,FEET,18.5,DEGREES C,9.2,MG/L
+08/27/2015,7,FEET,18.6,DEGREES C,9.2,MG/L
+08/27/2015,8,FEET,18.6,DEGREES C,9.2,MG/L
+08/27/2015,9,FEET,18.6,DEGREES C,9.2,MG/L
+08/27/2015,10,FEET,18.6,DEGREES C,8.9,MG/L
+08/27/2015,11,FEET,18.5,DEGREES C,8.6,MG/L
+08/27/2015,12,FEET,18.6,DEGREES C,8.6,MG/L
+08/27/2015,13,FEET,18.6,DEGREES C,8.6,MG/L
+08/27/2015,,,18.4,C,8.6,MG/L
+10/27/2015,1,FEET,10.1,DEGREES C,11.3,MG/L
+10/27/2015,3,FEET,10,DEGREES C,11.3,MG/L
+10/27/2015,5,FEET,10,DEGREES C,11.4,MG/L
+10/27/2015,7,FEET,10,DEGREES C,11.4,MG/L
+10/27/2015,9,FEET,10,DEGREES C,11.4,MG/L
+10/27/2015,11,FEET,10,DEGREES C,11.4,MG/L
+10/27/2015,13,FEET,9.9,DEGREES C,11.4,MG/L
+10/27/2015,,,10.0,C,11.3,MG/L
+01/21/2016,1,FEET,1.2,DEGREES C,13.1,MG/L
+01/21/2016,4,FEET,1.6,DEGREES C,12.8,MG/L
+01/21/2016,7,FEET,1.9,DEGREES C,12.5,MG/L
+01/21/2016,10,FEET,2.4,DEGREES C,10.7,MG/L
+01/30/2016,1,FEET,1.3,DEGREES C,12.4,MG/L
+01/30/2016,4,FEET,1.8,DEGREES C,11.6,MG/L
+01/30/2016,7,FEET,2.1,DEGREES C,11.2,MG/L
+01/30/2016,10,FEET,2.4,DEGREES C,11.1,MG/L
+02/16/2016,1,FEET,1,DEGREES C,10.2,MG/L
+02/16/2016,3,FEET,1.6,DEGREES C,9.5,MG/L
+02/16/2016,5,FEET,1.9,DEGREES C,8.5,MG/L
+02/16/2016,7,FEET,2.1,DEGREES C,8.3,MG/L
+02/16/2016,9,FEET,2.1,DEGREES C,8.1,MG/L
+02/16/2016,11,FEET,2.5,DEGREES C,6.3,MG/L
+02/16/2016,13,FEET,3.2,DEGREES C,2.3,MG/L
+02/16/2016,,,1.6,C,6.3,MG/L
+02/21/2016,1,FEET,1,DEGREES C,10.2,MG/L
+02/21/2016,3,FEET,1.6,DEGREES C,9.5,MG/L
+02/21/2016,5,FEET,1.9,DEGREES C,8.5,MG/L
+02/21/2016,7,FEET,2.1,DEGREES C,8.3,MG/L
+02/21/2016,9,FEET,2.1,DEGREES C,8.1,MG/L
+02/21/2016,11,FEET,2.5,DEGREES C,6.3,MG/L
+02/21/2016,13,FEET,3.2,DEGREES C,2.3,MG/L
+03/06/2016,1,FEET,1.5,DEGREES C,9,MG/L
+03/06/2016,3,FEET,2.1,DEGREES C,7.3,MG/L
+03/06/2016,5,FEET,2.6,DEGREES C,6.6,MG/L
+03/06/2016,7,FEET,2.8,DEGREES C,6.1,MG/L
+03/06/2016,9,FEET,2.8,DEGREES C,5.8,MG/L
+03/06/2016,11,FEET,3,DEGREES C,5.2,MG/L
+04/11/2016,1,FEET,2.9,DEGREES C,12.9,MG/L
+04/11/2016,3,FEET,3.4,DEGREES C,12.5,MG/L
+04/11/2016,5,FEET,3.4,DEGREES C,12.4,MG/L
+04/11/2016,7,FEET,3.4,DEGREES C,12.4,MG/L
+04/11/2016,9,FEET,3.4,DEGREES C,12.4,MG/L
+04/11/2016,11,FEET,3.5,DEGREES C,12.4,MG/L
+04/11/2016,13,FEET,3.5,DEGREES C,12.4,MG/L
+05/03/2016,1,FEET,12.2,DEGREES C,11.1,MG/L
+05/03/2016,3,FEET,12.1,DEGREES C,12,MG/L
+05/03/2016,5,FEET,12.1,DEGREES C,12,MG/L
+05/03/2016,7,FEET,12,DEGREES C,12,MG/L
+05/03/2016,9,FEET,12,DEGREES C,12,MG/L
+05/03/2016,11,FEET,11.9,DEGREES C,11.9,MG/L
+05/03/2016,13,FEET,11.7,DEGREES C,11.7,MG/L
+06/21/2016,1,FEET,24,DEGREES C,10.6,MG/L
+06/21/2016,3,FEET,23.6,DEGREES C,10.8,MG/L
+06/21/2016,5,FEET,23.6,DEGREES C,10.8,MG/L
+06/21/2016,7,FEET,23.6,DEGREES C,10.8,MG/L
+06/21/2016,9,FEET,23.5,DEGREES C,10.9,MG/L
+06/21/2016,11,FEET,23.5,DEGREES C,10.9,MG/L
+06/21/2016,13,FEET,23.3,DEGREES C,10.9,MG/L
+06/21/2016,15,FEET,22,DEGREES C,6.6,MG/L
+07/18/2016,1,FEET,24.1,DEGREES C,8.4,MG/L
+07/18/2016,3,FEET,24.1,DEGREES C,8.5,MG/L
+07/18/2016,5,FEET,24,DEGREES C,8.5,MG/L
+07/18/2016,7,FEET,23.9,DEGREES C,8.5,MG/L
+07/18/2016,9,FEET,23.8,DEGREES C,8.6,MG/L
+07/18/2016,11,FEET,23.8,DEGREES C,8.6,MG/L
+07/18/2016,13,FEET,23.8,DEGREES C,7.4,MG/L
+08/22/2016,1,FEET,23,DEGREES C,7.3,MG/L
+08/22/2016,3,FEET,23.4,DEGREES C,6.9,MG/L
+08/22/2016,5,FEET,23.3,DEGREES C,6.9,MG/L
+08/22/2016,7,FEET,23.2,DEGREES C,6.8,MG/L
+08/22/2016,9,FEET,23.1,DEGREES C,6.9,MG/L
+08/22/2016,11,FEET,23,DEGREES C,6.9,MG/L
+08/22/2016,13,FEET,23,DEGREES C,7,MG/L
+09/02/2016,1,FEET,22,DEGREES C,9.6,MG/L
+09/02/2016,3,FEET,22.2,DEGREES C,9.6,MG/L
+09/02/2016,5,FEET,22.3,DEGREES C,9.6,MG/L
+09/02/2016,7,FEET,22.3,DEGREES C,9.6,MG/L
+09/02/2016,9,FEET,22.3,DEGREES C,9.6,MG/L
+09/02/2016,11,FEET,22.3,DEGREES C,9.7,MG/L
+09/02/2016,13,FEET,22.3,DEGREES C,9.7,MG/L
+09/17/2016,1,FEET,20.3,DEGREES C,8.3,MG/L
+09/17/2016,3,FEET,20.2,DEGREES C,8.3,MG/L
+09/17/2016,5,FEET,20.2,DEGREES C,8.3,MG/L
+09/17/2016,7,FEET,20.2,DEGREES C,8.3,MG/L
+09/17/2016,9,FEET,20.2,DEGREES C,8.2,MG/L
+09/17/2016,11,FEET,20.2,DEGREES C,8.2,MG/L
+09/17/2016,13,FEET,20.2,DEGREES C,8.2,MG/L
+09/17/2016,14,FEET,20.2,DEGREES C,8.3,MG/L
+10/09/2016,1,FEET,15.6,DEGREES C,9.6,MG/L
+10/09/2016,3,FEET,15.1,DEGREES C,9.8,MG/L
+10/09/2016,5,FEET,14.9,DEGREES C,9.8,MG/L
+10/09/2016,7,FEET,14.8,DEGREES C,9.8,MG/L
+10/09/2016,9,FEET,14.7,DEGREES C,9.9,MG/L
+10/09/2016,11,FEET,14.7,DEGREES C,10,MG/L
+10/09/2016,13,FEET,14.6,DEGREES C,10.1,MG/L
+10/09/2016,14,FEET,14.6,DEGREES C,10.1,MG/L
+12/28/2016,1,FEET,.8,DEGREES C,12.4,MG/L
+12/28/2016,4,FEET,1.3,DEGREES C,12.1,MG/L
+12/28/2016,7,FEET,1.7,DEGREES C,10,MG/L
+12/28/2016,10,FEET,2.4,DEGREES C,7.6,MG/L
+12/28/2016,12,FEET,2.8,DEGREES F,5.4,MG/L
+12/28/2016,13,FEET,2.8,DEGREES F,5.4,MG/L
+12/28/2016,15,FEET,3.5,DEGREES F,2.8,MG/L
+12/30/2016,1,FEET,.9,DEGREES C,11.8,MG/L
+12/30/2016,3,FEET,1.6,DEGREES C,11.1,MG/L
+12/30/2016,5,FEET,1.7,DEGREES C,10.6,MG/L
+12/30/2016,7,FEET,1.8,DEGREES C,10.2,MG/L
+12/30/2016,9,FEET,2.2,DEGREES C,9.2,MG/L
+12/30/2016,11,FEET,2.8,DEGREES C,6.2,MG/L
+12/30/2016,13,FEET,3.4,DEGREES C,2.3,MG/L
+12/30/2016,14,FEET,3.7,DEGREES C,1.2,MG/L
+01/09/2017,1,FEET,.5,DEGREES C,11.3,MG/L
+01/09/2017,3,FEET,1.7,DEGREES C,10.2,MG/L
+01/09/2017,5,FEET,1.9,DEGREES C,9.2,MG/L
+01/09/2017,7,FEET,2,DEGREES C,9,MG/L
+01/09/2017,9,FEET,2.3,DEGREES C,8.3,MG/L
+01/09/2017,11,FEET,3.3,DEGREES C,2.7,MG/L
+01/09/2017,13,FEET,3.5,DEGREES C,1.4,MG/L
+01/22/2017,1,FEET,.5,DEGREES C,9.5,MG/L
+01/22/2017,3,FEET,1.9,DEGREES C,8,MG/L
+01/22/2017,5,FEET,2.1,DEGREES C,7.4,MG/L
+01/22/2017,7,FEET,2.2,DEGREES C,7.1,MG/L
+01/22/2017,9,FEET,2.7,DEGREES C,6.5,MG/L
+01/22/2017,11,FEET,3.2,DEGREES C,1.1,MG/L
+01/22/2017,13,FEET,3.5,DEGREES C,0,MG/L
+02/04/2017,1,FEET,.5,DEGREES C,7.9,MG/L
+02/04/2017,3,FEET,1.8,DEGREES C,5.9,MG/L
+02/04/2017,5,FEET,2.1,DEGREES C,5.3,MG/L
+02/04/2017,7,FEET,2.3,DEGREES C,5.1,MG/L
+02/04/2017,9,FEET,2.5,DEGREES C,4.7,MG/L
+02/04/2017,11,FEET,3.2,DEGREES C,.9,MG/L
+02/04/2017,13,FEET,3.6,DEGREES C,.1,MG/L
+02/18/2017,1,FEET,.4,DEGREES C,4.9,MG/L
+02/18/2017,3,FEET,1.9,DEGREES C,4,MG/L
+02/18/2017,5,FEET,2.2,DEGREES C,3.4,MG/L
+02/18/2017,7,FEET,2.3,DEGREES C,3.1,MG/L
+02/18/2017,9,FEET,2.8,DEGREES C,2.4,MG/L
+02/18/2017,11,FEET,3.8,DEGREES C,.2,MG/L
+02/18/2017,13,FEET,4.5,DEGREES C,0,MG/L
+02/27/2017,1,FEET,.9,DEGREES C,6,MG/L
+02/27/2017,2,FEET,2.5,DEGREES C,3.3,MG/L
+02/27/2017,3,FEET,2.8,DEGREES C,2.9,MG/L
+02/27/2017,5,FEET,3,DEGREES C,2.7,MG/L
+02/27/2017,7,FEET,3.1,DEGREES C,2.5,MG/L
+02/27/2017,9,FEET,3.2,DEGREES C,2.3,MG/L
+02/27/2017,11,FEET,3.8,DEGREES C,.3,MG/L
+02/27/2017,13,FEET,4.4,DEGREES C,0,MG/L
+04/13/2017,1,FEET,8.3,DEGREES C,11.4,MG/L
+04/13/2017,3,FEET,8.3,DEGREES C,11.4,MG/L
+04/13/2017,5,FEET,8.2,DEGREES C,11.4,MG/L
+04/13/2017,7,FEET,8.2,DEGREES C,11.4,MG/L
+04/13/2017,9,FEET,8.1,DEGREES C,11.4,MG/L
+04/13/2017,11,FEET,7.9,DEGREES C,11.3,MG/L
+04/13/2017,13,FEET,7.7,DEGREES C,10.8,MG/L
+06/22/2017,1,FEET,22.6,DEGREES C,9.4,MG/L
+06/22/2017,3,FEET,22.6,DEGREES C,9.5,MG/L
+06/22/2017,5,FEET,22.6,DEGREES C,9.5,MG/L
+06/22/2017,7,FEET,22.5,DEGREES C,9.5,MG/L
+06/22/2017,9,FEET,22.5,DEGREES C,9.4,MG/L
+06/22/2017,11,FEET,22.3,DEGREES C,8.9,MG/L
+06/22/2017,13,FEET,21.8,DEGREES C,3.5,MG/L
+07/21/2017,1,FEET,26,DEGREES C,9.7,MG/L
+07/21/2017,3,FEET,25.9,DEGREES C,9.8,MG/L
+07/21/2017,5,FEET,25.8,DEGREES C,9.9,MG/L
+07/21/2017,7,FEET,25.8,DEGREES C,9.9,MG/L
+07/21/2017,9,FEET,25.3,DEGREES C,9.6,MG/L
+07/21/2017,11,FEET,24.2,DEGREES C,7.3,MG/L
+07/21/2017,13,FEET,23.3,DEGREES C,3.8,MG/L
+08/21/2017,1,FEET,23.1,DEGREES C,9.7,MG/L
+08/21/2017,3,FEET,23.1,DEGREES C,9.7,MG/L
+08/21/2017,5,FEET,23,DEGREES C,9.8,MG/L
+08/21/2017,7,FEET,23,DEGREES C,9.7,MG/L
+08/21/2017,9,FEET,22.6,DEGREES C,10.2,MG/L
+08/21/2017,11,FEET,22.3,DEGREES C,9.9,MG/L
+08/21/2017,13,FEET,22.2,DEGREES C,8.4,MG/L
+10/13/2017,1,FEET,14.4,DEGREES C,9.3,MG/L
+10/13/2017,3,FEET,14.5,DEGREES C,9.3,MG/L
+10/13/2017,5,FEET,14.5,DEGREES C,9.3,MG/L
+10/13/2017,7,FEET,14.5,DEGREES C,9.3,MG/L
+10/13/2017,9,FEET,14.5,DEGREES C,9.3,MG/L
+10/13/2017,11,FEET,14.5,DEGREES C,9.3,MG/L
+10/13/2017,13,FEET,14.6,DEGREES C,9.2,MG/L
+10/13/2017,14,FEET,14.6,DEGREES C,7.7,MG/L
+01/02/2018,1,FEET,-.1,DEGREES C,12.1,MG/L
+01/02/2018,3,FEET,1,DEGREES C,107,MG/L
+01/02/2018,5,FEET,1.3,DEGREES C,10.6,MG/L
+01/02/2018,7,FEET,1.5,DEGREES C,9.8,MG/L
+01/02/2018,9,FEET,1.8,DEGREES C,9.3,MG/L
+01/02/2018,11,FEET,2.6,DEGREES C,4.6,MG/L
+01/02/2018,13,FEET,2.7,DEGREES C,5,MG/L
+01/09/2018,1,FEET,.6,DEGREES C,11.2,MG/L
+01/09/2018,3,FEET,1.7,DEGREES C,10.2,MG/L
+01/09/2018,5,FEET,1.9,DEGREES C,9,MG/L
+01/09/2018,7,FEET,2,DEGREES C,8.8,MG/L
+01/09/2018,9,FEET,1.9,DEGREES C,8.7,MG/L
+01/09/2018,11,FEET,2.7,DEGREES C,5.1,MG/L
+01/09/2018,13,FEET,3.3,DEGREES C,3,MG/L
+01/17/2018,1,FEET,.5,DEGREES C,9.8,MG/L
+01/17/2018,3,FEET,1.7,DEGREES C,9.4,MG/L
+01/17/2018,5,FEET,2.1,DEGREES C,8.8,MG/L
+01/17/2018,7,FEET,1.9,DEGREES C,8.2,MG/L
+01/17/2018,9,FEET,2.3,DEGREES C,7.5,MG/L
+01/17/2018,11,FEET,2.8,DEGREES C,5.5,MG/L
+01/17/2018,13,FEET,2.9,DEGREES C,3.4,MG/L
+01/25/2018,1,FEET,.6,DEGREES C,8.6,MG/L
+01/25/2018,3,FEET,1.9,DEGREES C,7.7,MG/L
+01/25/2018,5,FEET,2,DEGREES C,7.3,MG/L
+01/25/2018,7,FEET,2.2,DEGREES C,6.9,MG/L
+01/25/2018,9,FEET,2.3,DEGREES C,6.6,MG/L
+01/25/2018,11,FEET,2.9,DEGREES C,4.8,MG/L
+01/25/2018,13,FEET,3,DEGREES C,1.3,MG/L
+02/04/2018,1,FEET,.1,DEGREES C,8.5,MG/L
+02/04/2018,3,FEET,1.4,DEGREES C,7.1,MG/L
+02/04/2018,5,FEET,1.9,DEGREES C,5.9,MG/L
+02/04/2018,7,FEET,2.1,DEGREES C,5.7,MG/L
+02/04/2018,9,FEET,2.3,DEGREES C,5.5,MG/L
+02/04/2018,11,FEET,3.2,DEGREES C,1.5,MG/L
+02/04/2018,13,FEET,3.1,DEGREES C,.2,MG/L
+02/19/2018,1,FEET,.3,DEGREES C,6.2,MG/L
+02/19/2018,3,FEET,1.5,DEGREES C,5.2,MG/L
+02/19/2018,5,FEET,1.9,DEGREES C,4.2,MG/L
+02/19/2018,7,FEET,2.2,DEGREES C,3.8,MG/L
+02/19/2018,9,FEET,2.3,DEGREES C,3.3,MG/L
+02/19/2018,11,FEET,3,DEGREES C,1.9,MG/L
+02/19/2018,13,FEET,3.2,DEGREES C,.3,MG/L
+03/05/2018,1,FEET,.1,DEGREES C,5.6,MG/L
+03/05/2018,3,FEET,1.4,DEGREES C,3.9,MG/L
+03/05/2018,5,FEET,1.8,DEGREES C,2.8,MG/L
+03/05/2018,7,FEET,2.1,DEGREES C,2.5,MG/L
+03/05/2018,9,FEET,2.2,DEGREES C,2.2,MG/L
+03/05/2018,11,FEET,2.7,DEGREES C,.7,MG/L
+03/05/2018,13,FEET,3.2,DEGREES C,.1,MG/L
+03/17/2018,1,FEET,.8,DEGREES C,3.6,MG/L
+03/17/2018,3,FEET,1.8,DEGREES C,2.3,MG/L
+03/17/2018,5,FEET,2.2,DEGREES C,1.6,MG/L
+03/17/2018,7,FEET,2.3,DEGREES C,1.5,MG/L
+03/17/2018,9,FEET,2.4,DEGREES C,1.3,MG/L
+03/17/2018,11,FEET,2.4,DEGREES C,1,MG/L
+03/17/2018,13,FEET,3.4,DEGREES C,.1,MG/L
+04/02/2018,1,FEET,.7,DEGREES C,3.6,MG/L
+04/02/2018,3,FEET,2.7,DEGREES C,2.6,MG/L
+04/02/2018,5,FEET,3,DEGREES C,2.1,MG/L
+04/02/2018,7,FEET,3.3,DEGREES C,2,MG/L
+04/02/2018,9,FEET,3.4,DEGREES C,1.9,MG/L
+04/02/2018,11,FEET,3.4,DEGREES C,1.7,MG/L
+04/02/2018,13,FEET,4.2,DEGREES C,.2,MG/L
+04/09/2018,1,FEET,.5,DEGREES C,4.2,MG/L
+04/09/2018,3,FEET,2.9,DEGREES C,1.9,MG/L
+04/09/2018,5,FEET,3.1,DEGREES C,1.7,MG/L
+04/09/2018,7,FEET,3.3,DEGREES C,1.6,MG/L
+04/09/2018,9,FEET,3.5,DEGREES C,1,MG/L
+04/09/2018,11,FEET,3.7,DEGREES C,.3,MG/L
+04/09/2018,13,FEET,4.1,DEGREES C,.4,MG/L
+04/19/2018,1,FEET,.5,DEGREES C,4.5,MG/L
+04/19/2018,3,FEET,2.7,DEGREES C,1.7,MG/L
+04/19/2018,5,FEET,3.1,DEGREES C,1,MG/L
+04/19/2018,7,FEET,3.2,DEGREES C,.9,MG/L
+04/19/2018,9,FEET,3.4,DEGREES C,.6,MG/L
+04/19/2018,11,FEET,3.9,DEGREES C,.1,MG/L
+04/19/2018,13,FEET,4.5,DEGREES C,.3,MG/L
+05/08/2018,1,FEET,14.5,DEGREES C,10.7,MG/L
+05/08/2018,3,FEET,14.2,DEGREES C,10.7,MG/L
+05/08/2018,5,FEET,14,DEGREES C,10.7,MG/L
+05/08/2018,7,FEET,13.9,DEGREES C,10.7,MG/L
+05/08/2018,9,FEET,13.8,DEGREES C,10.5,MG/L
+05/08/2018,11,FEET,9.4,DEGREES C,7.7,MG/L
+05/08/2018,13,FEET,9.1,DEGREES C,6.5,MG/L
+06/20/2018,1,FEET,24.1,DEGREES C,8.8,MG/L
+06/20/2018,3,FEET,23.6,DEGREES C,8.8,MG/L
+06/20/2018,5,FEET,23.2,DEGREES C,9.1,MG/L
+06/20/2018,7,FEET,23,DEGREES C,8.7,MG/L
+06/20/2018,9,FEET,22.6,DEGREES C,6.5,MG/L
+06/20/2018,11,FEET,21.6,DEGREES C,4.7,MG/L
+06/20/2018,13,FEET,20.7,DEGREES C,.7,MG/L
+07/26/2018,1,FEET,23.6,DEGREES C,9.1,MG/L
+07/26/2018,3,FEET,23.8,DEGREES C,9,MG/L
+07/26/2018,5,FEET,23.8,DEGREES C,9,MG/L
+07/26/2018,7,FEET,23.9,DEGREES C,9,MG/L
+07/26/2018,9,FEET,23.9,DEGREES C,9,MG/L
+07/26/2018,11,FEET,23.9,DEGREES C,8.8,MG/L
+07/26/2018,13,FEET,23,DEGREES C,.8,MG/L
+08/20/2018,1,FEET,25.3,DEGREES C,9.4,MG/L
+08/20/2018,3,FEET,25.5,DEGREES C,9.4,MG/L
+08/20/2018,5,FEET,25.5,DEGREES C,9.4,MG/L
+08/20/2018,7,FEET,25.6,DEGREES C,9.3,MG/L
+08/20/2018,9,FEET,25.6,DEGREES C,9.3,MG/L
+08/20/2018,11,FEET,25.6,DEGREES C,9.1,MG/L
+08/20/2018,13,FEET,25.1,DEGREES C,1.6,MG/L
+09/07/2018,1,FEET,21.4,DEGREES C,8.3,MG/L
+09/07/2018,3,FEET,21.4,DEGREES C,8.2,MG/L
+09/07/2018,5,FEET,21.4,DEGREES C,8,MG/L
+09/07/2018,7,FEET,21.4,DEGREES C,7.8,MG/L
+09/07/2018,9,FEET,21.3,DEGREES C,7.8,MG/L
+09/07/2018,11,FEET,21.3,DEGREES C,7.8,MG/L
+09/07/2018,13,FEET,21.3,DEGREES C,7.9,MG/L
+12/15/2018,2,FEET,2.7,DEGREES C,11.4,MG/L
+12/15/2018,4,FEET,3,DEGREES C,11,MG/L
+12/15/2018,6,FEET,3.1,DEGREES C,10.8,MG/L
+12/15/2018,8,FEET,3.1,DEGREES C,10.5,MG/L
+12/15/2018,10,FEET,3.3,DEGREES C,10.5,MG/L
+01/02/2019,2,FEET,2.1,DEGREES C,9.8,MG/L
+01/02/2019,4,FEET,2.7,DEGREES C,8.4,MG/L
+01/02/2019,6,FEET,2.7,DEGREES C,8.3,MG/L
+01/02/2019,8,FEET,3.1,DEGREES C,7,MG/L
+01/02/2019,10,FEET,3.2,DEGREES C,6.8,MG/L
+01/02/2019,12,FEET,3.5,DEGREES C,5.5,MG/L
+01/02/2019,14,FEET,4.2,DEGREES C,1.2,MG/L
+01/10/2019,2,FEET,1.6,DEGREES C,7.5,MG/L
+01/10/2019,4,FEET,2.5,DEGREES C,6.9,MG/L
+01/10/2019,6,FEET,2.7,DEGREES C,6.6,MG/L
+01/10/2019,8,FEET,2.8,DEGREES C,6.6,MG/L
+01/10/2019,10,FEET,2.8,DEGREES C,6.5,MG/L
+01/10/2019,12,FEET,3.3,DEGREES C,5.4,MG/L
+01/10/2019,14,FEET,3.7,DEGREES C,2.2,MG/L
+02/03/2019,2,FEET,.9,DEGREES C,5.8,MG/L
+02/03/2019,4,FEET,2,DEGREES C,4.7,MG/L
+02/03/2019,6,FEET,2.3,DEGREES C,4.6,MG/L
+02/03/2019,8,FEET,2.3,DEGREES C,4,MG/L
+02/03/2019,10,FEET,2.5,DEGREES C,3.7,MG/L
+02/03/2019,12,FEET,2.9,DEGREES C,1.9,MG/L
+02/03/2019,14,FEET,3.3,DEGREES C,.5,MG/L
+03/17/2019,2,FEET,.7,DEGREES C,2.4,MG/L
+03/17/2019,4,FEET,1.9,DEGREES C,2.1,MG/L
+03/17/2019,7,FEET,1.9,DEGREES C,1.4,MG/L
+03/17/2019,10,FEET,1.9,DEGREES C,1.1,MG/L
+03/17/2019,12,FEET,2.1,DEGREES C,.9,MG/L
+03/17/2019,14,FEET,3,DEGREES C,-.1,MG/L
+05/04/2019,1,FEET,10.1,DEGREES C,12.6,MG/L
+05/04/2019,3,FEET,9.8,DEGREES C,12.8,MG/L
+05/04/2019,5,FEET,9.4,DEGREES C,12.8,MG/L
+05/04/2019,7,FEET,8.5,DEGREES C,13.9,MG/L
+05/04/2019,9,FEET,8.3,DEGREES C,13.6,MG/L
+05/04/2019,11,FEET,8,DEGREES C,13.3,MG/L
+05/04/2019,13,FEET,7.9,DEGREES C,13.1,MG/L
+05/04/2019,14,FEET,7.9,DEGREES C,13.1,MG/L
+06/19/2019,1,FEET,21.5,DEGREES C,10.9,MG/L
+06/19/2019,3,FEET,21.1,DEGREES C,11,MG/L
+06/19/2019,5,FEET,20.9,DEGREES C,11,MG/L
+06/19/2019,7,FEET,20,DEGREES C,10.5,MG/L
+06/19/2019,9,FEET,19.4,DEGREES C,9.5,MG/L
+06/19/2019,11,FEET,19,DEGREES C,8,MG/L
+06/19/2019,13,FEET,18.4,DEGREES C,5.9,MG/L
+07/16/2019,1,FEET,25.9,DEGREES C,9,MG/L
+07/16/2019,3,FEET,25.9,DEGREES C,9,MG/L
+07/16/2019,5,FEET,25.8,DEGREES C,9,MG/L
+07/16/2019,7,FEET,25.8,DEGREES C,9,MG/L
+07/16/2019,9,FEET,25.6,DEGREES C,8.9,MG/L
+07/16/2019,11,FEET,25.4,DEGREES C,8.1,MG/L
+07/16/2019,13,FEET,23.5,DEGREES C,1.6,MG/L
+08/19/2019,1,FEET,23.7,DEGREES C,8.6,MG/L
+08/19/2019,3,FEET,23.5,DEGREES C,8.6,MG/L
+08/19/2019,5,FEET,22.8,DEGREES C,8.8,MG/L
+08/19/2019,7,FEET,22.5,DEGREES C,8.7,MG/L
+08/19/2019,9,FEET,22.4,DEGREES C,8.6,MG/L
+08/19/2019,11,FEET,22.4,DEGREES C,8.3,MG/L
+08/19/2019,13,FEET,22.4,DEGREES C,8.3,MG/L
+10/20/2019,1,FEET,9.7,DEGREES C,11,MG/L
+10/20/2019,3,FEET,9.4,DEGREES C,11.1,MG/L
+10/20/2019,5,FEET,9.1,DEGREES C,11.2,MG/L
+10/20/2019,7,FEET,9.1,DEGREES C,11.2,MG/L
+10/20/2019,9,FEET,9,DEGREES C,11.2,MG/L
+10/20/2019,11,FEET,9,DEGREES C,11.2,MG/L
+10/20/2019,13,FEET,9,DEGREES C,11.1,MG/L
+12/17/2019,2,FEET,2.6,DEGREES C,10,MG/L
+12/17/2019,4,FEET,2.8,DEGREES C,9.3,MG/L
+12/17/2019,6,FEET,3,DEGREES C,8.8,MG/L
+12/17/2019,8,FEET,3.1,DEGREES C,8.8,MG/L
+12/17/2019,10,FEET,3.2,DEGREES C,8.6,MG/L
+12/17/2019,12,FEET,3.9,DEGREES C,5.7,MG/L
+12/17/2019,14,FEET,3.6,DEGREES C,3.3,MG/L
+12/27/2019,2,FEET,2.7,DEGREES C,8,MG/L
+12/27/2019,4,FEET,2.9,DEGREES C,7.6,MG/L
+12/27/2019,6,FEET,3,DEGREES C,7.4,MG/L
+12/27/2019,8,FEET,3.1,DEGREES C,7,MG/L
+12/27/2019,10,FEET,3.1,DEGREES C,6.9,MG/L
+12/27/2019,12,FEET,3.7,DEGREES C,5.6,MG/L
+12/27/2019,14,FEET,3.8,DEGREES C,2.1,MG/L
+01/17/2020,2,FEET,1.5,DEGREES C,5.6,MG/L
+01/17/2020,4,FEET,2.2,DEGREES C,4.6,MG/L
+01/17/2020,6,FEET,2.4,DEGREES C,4.3,MG/L
+01/17/2020,8,FEET,2.5,DEGREES C,4.2,MG/L
+01/17/2020,10,FEET,2.7,DEGREES C,3.9,MG/L
+01/17/2020,12,FEET,2.9,DEGREES C,2.5,MG/L
+01/17/2020,14,FEET,3.2,DEGREES C,.5,MG/L
+02/06/2020,2,FEET,2.9,DEGREES C,2.7,MG/L
+02/06/2020,4,FEET,2.9,DEGREES C,2.5,MG/L
+02/06/2020,6,FEET,2.7,DEGREES C,2.2,MG/L
+02/06/2020,8,FEET,2.6,DEGREES C,2,MG/L
+02/06/2020,10,FEET,2.6,DEGREES C,2,MG/L
+02/06/2020,12,FEET,2.8,DEGREES C,1.6,MG/L
+02/06/2020,14,FEET,3.5,DEGREES C,.2,MG/L
+03/05/2020,2,FEET,1.8,DEGREES C,1,MG/L
+03/05/2020,4,FEET,2.3,DEGREES C,1,MG/L
+03/05/2020,6,FEET,2.3,DEGREES C,1.1,MG/L
+03/05/2020,8,FEET,2.2,DEGREES C,1.1,MG/L
+03/05/2020,10,FEET,2.4,DEGREES C,.5,MG/L
+03/05/2020,12,FEET,2.7,DEGREES C,.1,MG/L
+03/05/2020,14,FEET,3,DEGREES C,0,MG/L
+03/21/2020,2,FEET,2.3,DEGREES C,1.3,MG/L
+03/21/2020,4,FEET,2.5,DEGREES C,1.3,MG/L
+03/21/2020,6,FEET,2.6,DEGREES C,1.3,MG/L
+03/21/2020,8,FEET,2.6,DEGREES C,1.2,MG/L
+03/21/2020,10,FEET,2.6,DEGREES C,1.2,MG/L
+03/21/2020,12,FEET,2.7,DEGREES C,1,MG/L
+03/21/2020,14,FEET,2.9,DEGREES C,.7,MG/L
+06/25/2020,1,FEET,22.5,DEGREES C,8.5,MG/L
+06/25/2020,3,FEET,22.4,DEGREES C,8.5,MG/L
+06/25/2020,5,FEET,22.4,DEGREES C,8.5,MG/L
+06/25/2020,7,FEET,22.3,DEGREES C,8.5,MG/L
+06/25/2020,9,FEET,22.2,DEGREES C,8.5,MG/L
+06/25/2020,11,FEET,22,DEGREES C,8.2,MG/L
+06/25/2020,13,FEET,21.7,DEGREES C,7.2,MG/L
+06/25/2020,,,22.4,C,,
+07/20/2020,1,FEET,25.2,DEGREES C,8.2,MG/L
+07/20/2020,3,FEET,25.3,DEGREES C,8.2,MG/L
+07/20/2020,5,FEET,25.3,DEGREES C,8.2,MG/L
+07/20/2020,7,FEET,25.2,DEGREES C,8.2,MG/L
+07/20/2020,9,FEET,25.2,DEGREES C,8.2,MG/L
+07/20/2020,11,FEET,25.1,DEGREES C,8.1,MG/L
+07/20/2020,13,FEET,25.1,DEGREES C,7.9,MG/L
+08/27/2020,1,FEET,25.3,DEGREES C,9.3,MG/L
+08/27/2020,3,FEET,25.3,DEGREES C,9.3,MG/L
+08/27/2020,5,FEET,25.2,DEGREES C,9.3,MG/L
+08/27/2020,7,FEET,25.2,DEGREES C,9.3,MG/L
+08/27/2020,9,FEET,24.9,DEGREES C,9.5,MG/L
+08/27/2020,11,FEET,24.7,DEGREES C,9.2,MG/L
+08/27/2020,13,FEET,24.4,DEGREES C,8.1,MG/L
+11/06/2020,2,FEET,6.4,DEGREES C,12.16,MG/L
+11/06/2020,5,FEET,5.4,DEGREES C,12.64,MG/L
+11/06/2020,10,FEET,5.2,DEGREES C,12.64,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/07/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/06/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/14/2015,Data collected by Onterra
+06/11/2015,Data collected by Onterra
+Data entered by Jim Lamers
+07/13/2015,Data collected by Onterra
+Data entered by Jim Lamers
+08/27/2015,Data collected by Onterra.
+Data entered by Jim Lamers on 10-4-16
+10/27/2015,Data collected by Onterra.
+Data entered by Jim Lamers 10-4-16
+01/21/2016,Data measured by Steve Heimerman.  Data entered by Jim Lamers
+01/21/2016,Pickerel #2 location Pickerel #3 location
+01/30/2016,Data measured by Steve Heimerman.  Data entered by Jim Lamers Data colle4cted by Steve Heimerman.  Data entered by JimLamers
+02/16/2016,Data collected by Onterra.
+Data entered by Jim Lamers 10-9-2016
+02/21/2016,Data collected by Onterra.
+Data entered by Jim Lamers
+03/06/2016,Data measured by Steve Heimerman.  Data entered by Jim Lamers
+04/11/2016,Cloudy- windy.   Assisted by Steve Heimerman. No phosphorous sample taken.
+05/03/2016,Breezy-  sunny with some clouds.   Assisted by Steve Heimerman.
+06/21/2016,Breezy- partly cloudy.  Assisted by Jerry Gonnering and Steve Heimerman
+07/18/2016,Sunny- few clouds.  Assisted by Jerry Gonnering
+08/22/2016,Weather- sunny- clear- breezy.    Sampling assistant by Jerry Gonnering.
+09/02/2016,Weather - Sunny and calm conditions
+
+
+09/17/2016,Weather - Partly sunny- light breeze
+Measurements by Jim Lamers
+10/09/2016,Weather - party sunny- light breeze
+12/28/2016,Ice thickness - 10";  snow depth - 1/2"; water depth -15'
+12/30/2016,Ice thickness - 10";   snow depth - 1/2"
+01/09/2017,Ice thickness - 12";   snow depth - 3"; depth 14'
+Weather - cloudy- light wind
+01/09/2017,Ice thickness - 12";  snow depth - 2";  water depth - 13'
+Weather - cloudy- light wind
+01/22/2017,Ice thickness - 13" ;  snow depth - 5" ; water depth - 14'
+Weather - cloudy- calm;  air temp - 38 F
+02/04/2017,Ice thickness = 15";  snow depth = 3"; water depth = 14'
+Weather - cloudy- calm
+02/18/2017,Ice thickness - 15" ; Snow depth - 2" ; air temp - 40 F
+Weather - sunny- calm
+02/27/2017,Ice thickness - 14" ; Snow depth - 3" ; water depth - 14'
+Weather - Sunny- light breeze; Air temp - 38 F
+04/13/2017,Sampling by Jim Lamers and Jerry Gonnering
+Weather:  Pty cloudy- light wind- temp. 50 F
+Ice out for 2017 on April 8th
+
+06/22/2017,Weather - Partly cloudy- light breeze
+Sampled by Jim Lamers and Jerry Gonnering
+07/21/2017,Weather: Cloudy- light breeze
+Sampling by Jim Lamers and Jerry Gonnering
+08/21/2017,Testing by Jim Lamers and Jerry Gonnering.
+Weather - Partly cloudy- sunny- calm
+10/13/2017,Data collected by Jim Lamers
+Weather-  cloudy- light breeze
+01/02/2018,Ice thickness - 12";  Snow depth - 1"; Weather - sunny- windy- cold; Air temp - 6 deg. F Ice thickness - 13.5"; Snow depth - 1"; Weather - sunny- windy;  Air temp - 6 deg F
+01/09/2018,Ice thickness - 15"; Snow depth: 0-1";
+Air temp:  27 deg F
+Weather:  cloudy- light breeze
+01/17/2018,Ice thickness: 17";  snow depth:  1";  Air temp:  24 deg F; 
+Weather:  pty cloudy- windy
+01/25/2018,Ice thickness:  17";  snow depth:  3"; Air temp: 24 deg F;
+Weather:  cloudy- calm Ice thickness:  17";  snow depth:  3";  Air temp:  24 deg F;
+Weather:  cloudy- calm
+Water depth:  14.5'
+02/04/2018,Ice thickness: 21";  snow depth:  7"  Air temp:  8 deg F
+Weather: clear- windy
+Water depth:  14.5'
+02/19/2018,Ice thickness:  23";  Snow depth:  3"; Air temp: 23 deg F;
+Weather:  cloudy- light breeze
+03/05/2018,Ice thickness:  23";  Snow depth:  4":  Air temp:  28 deg F
+Weather:  cloudy- windy
+Water depth:  14.5'
+
+03/17/2018,Ice thickness: 22"; snow depth: 5"; Air temp: 38 deg F; Weather: sunny- clear- calm; Water depth: 14.5'
+04/02/2018,Ice thickness:  22";  Snow depth:  4";  Air temp:  25 deg F; Weather: partly cloudy- breezy; Water depth: 14.5'
+04/09/2018,Ice thickness:  22"; Snow depth:  6"; weather:  Partly cloudy- light breeze: Air temp: 30 deg F; Water depth: 14'
+04/19/2018,Ice thickness:  22";  Snow depth:  4"; Air temp: 55 deg F; Weather:  Sunny- clear- light breeze; Water depth:  14.5'
+05/08/2018,Weather:  Partly cloudy- light breeze;  Air temp 75 deg F
+Ice out on 5-3-18
+06/20/2018,Weather:  Partly cloudy- light breeze
+Testing by Jim Lamers and Jerry Gonnering
+07/02/2018,Sechhi disk measurement by Jim Lamers
+Sunny- clear- light breeze
+Water has green tint.   Weather was hot and humid prior two days.   
+07/26/2018,Sampling by Jim Lamers and Jerry Gonnering
+Weather:  Partly cloudy- breezy
+Air temp:  67 degree F
+08/20/2018,Sampling by Jim Lamers and Jerry Gonnering.
+Weather:  Cloudy- calm.
+Temperature:  65 deg F
+09/07/2018,Weather:  Sunny- partly cloudy- light breeze; air temp 65 deg F
+12/15/2018,
+  Ice Thickness:  7"; Snow depth:  2"; Weather:  sunny- calm- mild
+DO and temp readings checked with PCLA and WDNR meters by Chip Long and Jim Lamers
+DNR comparison readings:  2'  DO = 11.3- temp = 37.0;  4' DO = 10.6- temp = 37.4;  6' DO = 10.8- temp = 37.6;
+                                             8'  DO = 10.1- temp = 37.7
+01/02/2019,Ice thickness:  12";  Snow depth:  0";  Weather:  Cloudy- light breeze;  Air temp:  23 deg F; Water depth:  14.8'
+01/10/2019,Ice thickness:  13"- Snow depth:  1-2";  Weather:  Cloudy- calm; Air temp:  20 deg F
+Water depth:  14.5'
+02/03/2019,Ice thickness:  21";  Snow depth:  4";  Weather: cloudy- calm- foggy;  Air temp:  35 deg F
+Water depth:  14.5'
+03/17/2019,Ice thickness:  27" total with 4" ice layer over 3" slush/water layer over remaining 20" ice layer;  Snow depth: 1";
+Weather:  Sunny- clear- light breeze; Air temp: 40 deg F
+05/04/2019,Weather:  clear- sunny- light breeze;  Air temp: +/- 55 deg F
+Sampling by Jim Lamers;   DO and temp readings taken with YSI Pro ODO meter
+Pickerel Lake ice out for 2019 on 4/23/2019
+06/19/2019,Sampling and readings taken by Jim Lamers and Jerry Gonnering.
+Weather:  Sunny- partly cloudy- breezy.
+07/16/2019,Weather:   Sunny and clear- light breeze.
+Water condition:   Somewhat cloudy- murky.  (Rain the day prior- but not windy.  Murky condition may be due to very warm temperatures over past week.)
+Chlorophyll sample took much longer than normal for the 250 ml of sample water to drain through the filter element.
+Water depth at sample location = 13.9'.
+Sampling and testing measurements taken by Jim Lamers and Jerry Gonnering.
+08/19/2019,Sampling by Jim Lamers and Jerry Gonnering.
+Weather:  Clear- light breeze- mild
+Water condition:   clear with slight murky appearance
+10/20/2019,Measurements by Jim Lamers;  Weather:  clear- sunny- calm;  Air temp:  50 deg F;  
+Water condition:  slighty murky appearance
+12/17/2019,Ice thickness:  8"; Snow depth: 6"; Weather:  partly cloudy- breezy; Air temp:  21 deg F; Water depth:  14.7';   Measurements by Jim Lamers
+12/27/2019,Ice thickness:  8"; Snow depth:  2" ; Weather:  Partly Cloudy- light wind;  Air temp:  35 deg F;  Water depth:  14.5' ; Measurements by Jim Lamers
+01/17/2020,Ice thickness: 12"; Snow depth: 2";  Weather: Cloudy- light breeze; Air temp: 18 deg F; Water depth: 14.7'; Measurements by Jim Lamers
+02/06/2020,Ice thickness: 14"; Snow depth:  2"; Weather: Sunny- clear- calm; Air temp: 28 deg F; Water depth: 14.5'; Measurements by Jim Lamers
+03/05/2020,Ice thickness:  17";  Snow depth:  3";  Weather:  Cloudy- light breeze;  Air temp:  37 deg F; Water depth:  14.5';  Measurements by Jim Lamers
+03/21/2020,Ice thickness:  14"; Snow depth:  0" (no snow cover since 3/12/2020); Weather:  Sunny- calm- party cloudy; Air temp:  30 deg F; Water depth:  15.0'; Measurements by Jim Lamers
+06/25/2020,Weather - Clear- sunny- light wind- 5% clouds; Air temp - 75 deg F; Water condition - slightly cloudy; Water depth - 14.5 ft; Sampling and recording by Jim Lamers and Jerry Gonnering
+07/20/2020,Weather - Sunny- partly cloudy- light breeze; Air temp - 71 deg F; Water condition - minor cloudy to normal; Sampling and recording by Jim Lamers and Jerry Gonnering 
+08/27/2020,Weather - Partly cloudy- sunny with 50% cloud cover- light breeze;  Air temp - 75 deg F; Water condition - Clear- normal;  Water depth - 14.0 feet; Sampling and measurements by Jim Lamers and Jerry Gonnering
+Duplicate water sample for Quality Assurance program taken today on Pickerel Lake.
+
+
+
+
+Start Date,Group Name,Project Name
+05/07/1979,Data Collectors,Migrated from STORET Legacy
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+11/06/1979,Data Collectors,Migrated from STORET Legacy
+02/17/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/03/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/17/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/12/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/17/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/11/2013,Brenda Nordin,Response Monitoring
+04/14/2015,Dan Cibulka - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+04/14/2015,Dan Cibulka and Todd Hanke - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+04/14/2015,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+04/23/2015,Steve Heimerman,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+06/11/2015,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+06/11/2015,Todd Hanke (Onterra LLC) and Steve Fosheim,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+07/13/2015,Dan Cibulka - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+07/13/2015,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+08/27/2015,Dan Cibulka - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+08/27/2015,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+10/27/2015,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+10/27/2015,Todd Hanke - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+01/21/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/21/2016,Steve Heimerman,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+01/30/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/16/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+02/16/2016,Todd Hanke - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+02/21/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+03/06/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+04/11/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+05/03/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+06/21/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/18/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+08/22/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+09/02/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+09/17/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+10/09/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+12/28/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+12/30/2016,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/09/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/22/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/04/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/18/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/27/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+04/13/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+04/13/2017,Jim Lamers- Steve Heimerman,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+06/22/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/21/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+08/21/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+10/13/2017,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+01/02/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/09/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/17/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/25/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/04/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/19/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+03/05/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+03/17/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+04/02/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+04/09/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+04/19/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+05/08/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+06/20/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/02/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/26/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+08/20/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+09/07/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+12/15/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+12/15/2018,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/02/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/10/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/03/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+03/17/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+05/04/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+06/19/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/16/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+08/19/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+10/20/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+12/17/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+12/27/2019,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+01/17/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+02/06/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+03/05/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+03/21/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Winter Temperature/D.O. Monitoring
+06/25/2020,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2020 Nordin
+06/25/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/20/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+07/20/2020,Jim Lamers,Directed Lakes 2020 Nordin
+08/27/2020,Jim Lamers,Citizen Lake Monitoring - Water Quality - Pickerel Lake - Deepest Spot
+08/27/2020,Jim Lamers,Citizen Lake Monitoring Network QA/QC - 2020
+11/06/2020,Brenda Nordin,Oconto County Lake Studies
+11/06/2020,Ryan Haney,Oconto County Lake Studies

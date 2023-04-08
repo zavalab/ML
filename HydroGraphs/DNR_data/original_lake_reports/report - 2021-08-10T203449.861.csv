@@ -1,0 +1,58 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+White Lake,Shawano,240800,NE,59,,593039,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/09/1977,,,,,290,,72,,,,,,
+1,05/18/1977,3.3,,1,,40,60,57,,,,,,
+1,08/03/1977,3.3,,1,,40,60,57,,,,,,
+1,10/17/1977,,,,,60,,60,,,,,,
+1,06/18/1997,,,,,34,,55,,,,,,
+130849166,06/25/2020,5.7,NO,1.7,,,52,,,,,,,
+130849166,07/26/2020,4.9,NO,1.5,,,54,,,,,,,
+130849166,08/31/2020,6.6,NO,2,,,50,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/09/1977,,,4,C,.5,MG/L
+05/18/1977,,,24,C,10.3,MG/L
+08/03/1977,,,21.3,C,10.2,MG/L
+10/17/1977,,,9,C,10.2,MG/L
+06/25/2020,1,FEET,23.5,DEGREES C,6.47,MG/L
+06/25/2020,2,FEET,23.5,DEGREES C,6.97,MG/L
+06/25/2020,5,FEET,23,DEGREES C,7.05,MG/L
+06/25/2020,7,FEET,22.6,DEGREES C,2.1,MG/L
+07/26/2020,1,FEET,24.7,DEGREES C,4.73,MG/L
+07/26/2020,3,FEET,27.5,DEGREES C,4.72,MG/L
+07/26/2020,5,FEET,27.2,DEGREES C,4.93,MG/L
+07/26/2020,7,FEET,27,DEGREES C,4.98,MG/L
+07/26/2020,9,FEET,26.8,DEGREES C,5,MG/L
+08/31/2020,1,FEET,22.2,DEGREES C,5.17,MG/L
+08/31/2020,3,FEET,22.3,DEGREES C,5,MG/L
+08/31/2020,5,FEET,22.4,DEGREES C,4.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/09/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/18/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/03/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/17/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+02/09/1977,Data Collectors,Migrated from STORET Legacy
+05/18/1977,Data Collectors,Migrated from STORET Legacy
+08/03/1977,Data Collectors,Migrated from STORET Legacy
+10/17/1977,Data Collectors,Migrated from STORET Legacy
+06/18/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/25/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty
+07/26/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty
+08/31/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty

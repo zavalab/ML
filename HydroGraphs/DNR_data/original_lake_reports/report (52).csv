@@ -1,0 +1,131 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Buskey Bay,Bayfield,2903800,NO,4,,10020502,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/31/1991,18.4,,5.6,2,7,35,43,40,,,,,
+1,05/28/1997,18.7,,5.7,,54,35,59,,,,,,
+1,08/07/1997,19.7,,6,,10,34,46,,,,,,
+18639535,04/25/2007,20.2,NO,6.1,1.55,11,34,47,38,,,,,
+16073539,06/25/2007,17,NO,5.2,1.83,10,36,46,39,,,,,
+21928803,07/24/2007,15.2,NO,4.6,0.74,16,38,50,33,,,,,
+21928796,08/28/2007,15.5,NO,4.7,1.96,14,38,49,40,,,,,
+18069694,11/08/2007,19.2,NO,5.8,1.75,17,35,50,39,,,,,
+16073539,02/21/2008,14,NO,4.3,,11,39,47,,,,,,
+31846018,08/05/2009,21.25,NO,6.5,,,33,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,08/26/2009,21.25,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,09/07/2009,22.75,NO,6.9,,,32,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,06/20/2010,19.75,NO,6,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/14/2010,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,08/06/2010,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+31846018,09/20/2010,27.25,NO,8.3,,,30,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+31846018,06/29/2011,22.25,NO,6.8,,,32,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/09/2011,21.75,NO,6.6,,,33,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/16/2011,22,NO,6.7,,,33,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,08/02/2011,18.5,NO,5.6,,,35,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+31846018,08/28/2011,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/01/2012,21.75,NO,6.6,,,33,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/21/2012,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+31846018,08/27/2012,24.75,NO,7.5,,,31,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+31846018,07/15/2013,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31846018,07/03/2014,20.75,NO,6.3,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31846018,07/26/2014,20.4,NO,6.2,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31846018,08/02/2014,24.75,NO,7.5,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31846018,06/16/2015,28.8,NO,8.8,,,29,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+31846018,07/10/2015,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+31846018,07/21/2015,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/26/2015,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+31846018,07/15/2016,17,NO,5.2,,,36,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+31846018,07/31/2016,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31846018,08/09/2016,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+31846018,07/14/2017,17.9,NO,5.4,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+31846018,07/31/2018,20.8,NO,6.3,,,33,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+31846018,07/11/2019,21.7,NO,6.6,,,33,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+31846018,07/24/2019,21.5,NO,6.5,,,33,,,,,MURKY,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/31/1991,,,21.5,C,0.4,MG/L
+05/28/1997,,,13.0,C,10.5,MG/L
+08/07/1997,,,24.8,C,8.3,MG/L
+04/25/2007,,,11.2,C,0.6,MG/L
+06/25/2007,,,23.4,C,0.4,MG/L
+07/24/2007,,,24.0,C,0.2,MG/L
+08/28/2007,,,21.9,C,8.5,MG/L
+11/08/2007,,,6.8,C,9.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/31/1991,IF TP  more than  0.2 RUN AT HIGH LEVEL    
+08/05/2009,no boat traffic- 1 loon. calm- mostly sunny day- 70 degrees- slight breeze- unseasonably cool.
+08/26/2009,2  loons- no boat traffic.mostly sunny- light breeze- 68 degrees. water depth 10 feet deeper than last reading.
+09/07/2009,1 boat almost dead calm. sunny- unseasonably warm.
+06/20/2010,slight breeze- sunny- 80 degrees- 40ft of water- one loon- wore new tinted glasses.
+07/14/2010,slight breeze- ripple-scant clouds warm temp- wore new tinted glasses.
+08/06/2010,48 ft bottom water temp 75 degrees- north breeze ripples- scant clouds- wore new tinted glasses.
+09/20/2010,50 feet bottom of water depth- slight breeze- ripple- wore old glasses with no tint. suspect may have gotten deeper secchi readings on three previous reading in jun/jul/aug but not sure how many feet deeper.
+06/29/2011,Breezey and ripple on water- scattered clouds- 1 pontoon- 1 boat- and 1 jetski. No loons.
+07/09/2011,slight breeze- very sunny. Several boats on the lake.
+07/16/2011,Breeze- 6 kts with slight ripple- no loons.
+08/02/2011,Slight breeze- 2 hours after heavy rain. Visible particles suspended in water.
+08/28/2011,Calm- no wind- scatered clouds- no boats- no loons- noducks- no geese.
+07/01/2012,water temp 76- 1 loon- no baot traffic- wind dead calm- no clouds
+07/21/2012,2 loons- few clouds- slight breeze ripple on water
+08/27/2012,2 loons- scatter clouds- slight wind (4mph)- ripple on water- water temp75.4 degrees F.
+07/10/2015,slight breeze- ripple on water- water temp 75.4 * F.
+07/21/2015,no boats- water temp 77.4 F- wind WNW- 10mph- 1 loon.
+07/26/2015,calm sunny day. water temp 80.4 degrees F.
+07/15/2016,Overcast sky's-water temp 74.5 F- slight breeze WSW 2 mph- 1 loon- assisted by Susan Viggiano
+07/31/2016,Clears sky's- water temp 78 F- 1 loon.
+07/11/2019,Slight ripple in water. wind North at 4 mph. water temp 77*. air temp 79*. 2 loons flying.
+07/24/2019,2 loons on the water. slight ripple on the water. water temp 76- air temp 80.
+
+
+
+
+Start Date,Group Name,Project Name
+07/31/1991,Data Collectors,LAKE EVALUATION
+05/28/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+08/07/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+04/25/2007,Tim Hoyman and Eddie Heath - Onterra- LLC,IRON RIVER PIKE CHAIN OF LAKES ASSOCIATION: Pike Chain of Lakes-Management Planning Project-Buskey Bay-#2
+06/25/2007,Tim Hoyman - Onterra- LLC,IRON RIVER PIKE CHAIN OF LAKES ASSOCIATION: Pike Chain of Lakes-Management Planning Project-Buskey Bay-#2
+07/24/2007,Brenton Butterfield and Craig Stettner - Onterra- LLC,IRON RIVER PIKE CHAIN OF LAKES ASSOCIATION: Pike Chain of Lakes-Management Planning Project-Buskey Bay-#2
+08/28/2007,Brenton Butterfield - Onterra- LLC,IRON RIVER PIKE CHAIN OF LAKES ASSOCIATION: Pike Chain of Lakes-Management Planning Project-Buskey Bay-#2
+11/08/2007,Eddie Heath - Onterra- LLC,IRON RIVER PIKE CHAIN OF LAKES ASSOCIATION: Pike Chain of Lakes-Management Planning Project-Buskey Bay-#2
+02/21/2008,Tim Hoyman - Onterra- LLC,IRON RIVER PIKE CHAIN OF LAKES ASSOCIATION: Pike Chain of Lakes-Management Planning Project-Buskey Bay-#2
+08/05/2009,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/26/2009,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+09/07/2009,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+06/20/2010,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/14/2010,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/06/2010,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+09/20/2010,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+06/29/2011,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/09/2011,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/16/2011,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/02/2011,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/28/2011,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/01/2012,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/21/2012,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/27/2012,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/15/2013,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/03/2014,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/26/2014,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/02/2014,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+06/16/2015,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/10/2015,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/21/2015,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/26/2015,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/15/2016,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/31/2016,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+08/09/2016,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/14/2017,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/31/2018,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/11/2019,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole
+07/24/2019,Glenn Viggiano,Citizen Lake Monitoring - Water Quality - Buskey Bay - Deep Hole

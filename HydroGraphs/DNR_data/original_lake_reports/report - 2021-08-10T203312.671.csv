@@ -1,0 +1,114 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pensaukee Lakes,Shawano,415000,NE,59,,593040,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/09/1977,,,,,,,,,,,,,
+1,05/18/1977,,,,,,,,,,,,,
+1,08/10/1977,8.2,,2.5,,,47,,,,,,,
+1,10/16/1977,,,,,,,,,,,,,
+1,04/25/1995,5.9,,1.8,14.3,29,52,54,55,,,,,
+1,06/29/1995,20.3,,6.2,,12,34,47,,,,,,
+1,07/13/1995,,,,0.04,10,,46,10,,,,,
+1,08/21/1995,,,,6.64,17,,50,49,,,,,
+8188638,07/28/2003,,,,,19,,51,,,,,,
+8188637,08/27/2003,11.5,NO,3.5,3.62,23,42,52,45,,,,,
+18137035,05/07/2013,,,,,33.5,,55,,,,,,
+18137035,07/09/2013,11,N,3.3,1.91,12.1,43,47,40,,,,,
+18137035,09/03/2013,,,,,,,,,,,CLEAR,,1-Beautiful, could not be nicer
+148112004,05/17/2017,7.5,NO,2.3,,,48,,,,,,,
+18137035,06/28/2018,13.5,NO,4.1,,,40,,,,,CLEAR,RED,1-Beautiful, could not be nicer
+18137035,02/26/2020,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/09/1977,,,5,C,2.5,MG/L
+05/18/1977,,,14,C,4.8,MG/L
+08/10/1977,,,18,C,3.4,MG/L
+10/16/1977,,,9,C,7.5,MG/L
+04/25/1995,,,10,C,14.0,MG/L
+06/29/1995,,,26.2,C,0.1,MG/L
+08/27/2003,,,26.4,C,7.1,MG/L
+07/09/2013,,,30.05,C,,
+09/03/2013,3,FEET,11.15,DEGREES C,10.39,MG/L
+09/03/2013,6,FEET,11.1,DEGREES C,10.33,MG/L
+09/03/2013,9,FEET,5.51,DEGREES C,7.47,MG/L
+09/03/2013,12,FEET,4.61,DEGREES C,.64,MG/L
+09/03/2013,15,FEET,4.34,DEGREES C,0,MG/L
+09/03/2013,18,FEET,4.21,DEGREES C,0,MG/L
+09/03/2013,21,FEET,4.17,DEGREES C,0,MG/L
+09/03/2013,24,FEET,4.16,DEGREES C,0,MG/L
+09/03/2013,27,FEET,4.4,DEGREES C,0,MG/L
+05/17/2017,3,FEET,20.17,DEGREES C,12.3,MG/L
+05/17/2017,6,FEET,18.11,DEGREES C,14.17,MG/L
+05/17/2017,9,FEET,14.35,DEGREES C,21.28,MG/L
+05/17/2017,12,FEET,11.23,DEGREES C,18.78,MG/L
+05/17/2017,15,FEET,9.78,DEGREES C,9.51,MG/L
+05/17/2017,18,FEET,8.39,DEGREES C,8.76,MG/L
+05/17/2017,21,FEET,6.63,DEGREES C,3.28,MG/L
+05/17/2017,24,FEET,5.46,DEGREES C,2.24,MG/L
+05/17/2017,27,FEET,4.77,DEGREES C,2.37,MG/L
+05/17/2017,30,FEET,4.64,DEGREES C,2.58,MG/L
+05/17/2017,33,FEET,4.46,DEGREES C,2.39,MG/L
+05/17/2017,36,FEET,4.41,DEGREES C,2.39,MG/L
+05/17/2017,39,FEET,4.39,DEGREES C,1.84,MG/L
+05/17/2017,42,FEET,4.29,DEGREES C,.08,MG/L
+05/17/2017,45,FEET,4.26,DEGREES C,0,MG/L
+06/28/2018,3,FEET,25.15,DEGREES C,10.94,MG/L
+06/28/2018,6,FEET,23.81,DEGREES C,10.35,MG/L
+06/28/2018,9,FEET,20.22,DEGREES C,6.38,MG/L
+06/28/2018,12,FEET,13.54,DEGREES C,1.16,MG/L
+06/28/2018,15,FEET,8.95,DEGREES C,.14,MG/L
+06/28/2018,18,FEET,5.74,DEGREES C,0,MG/L
+06/28/2018,21,FEET,5.25,DEGREES C,0,MG/L
+06/28/2018,24,FEET,4.77,DEGREES C,0,MG/L
+06/28/2018,27,FEET,4.56,DEGREES C,0,MG/L
+06/28/2018,30,FEET,4.45,DEGREES C,0,MG/L
+06/28/2018,33,FEET,4.39,DEGREES C,0,MG/L
+06/28/2018,36,FEET,4.38,DEGREES C,0,MG/L
+06/28/2018,39,FEET,4.36,DEGREES C,0,MG/L
+06/28/2018,42,FEET,4.36,DEGREES C,0,MG/L
+06/28/2018,45,FEET,4.42,DEGREES C,0,MG/L
+02/26/2020,0,FEET,2.21,DEGREES C,,
+02/26/2020,3,FEET,2.4,DEGREES C,,
+02/26/2020,6,FEET,2.56,DEGREES C,,
+02/26/2020,9,FEET,2.65,DEGREES C,,
+02/26/2020,12,FEET,2.73,DEGREES C,,
+02/26/2020,15,FEET,2.85,DEGREES C,,
+02/26/2020,18,FEET,3.05,DEGREES C,,
+
+
+
+Start Date,Fieldwork Comment
+02/09/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/18/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/10/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/16/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/28/2003,DEEP HOLE    
+08/27/2003,SHALLOW - MIDDLE OF LAKE    
+
+
+
+
+Start Date,Group Name,Project Name
+02/09/1977,Data Collectors,Migrated from STORET Legacy
+05/18/1977,Data Collectors,Migrated from STORET Legacy
+08/10/1977,Data Collectors,Migrated from STORET Legacy
+10/16/1977,Data Collectors,Migrated from STORET Legacy
+04/25/1995,Data Collectors,LAKE EVALUATION
+06/29/1995,Data Collectors,LAKE EVALUATION
+07/13/1995,Data Collectors,LAKE EVALUATION
+08/21/1995,Data Collectors,LAKE EVALUATION
+07/28/2003,Crystal Olson,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/2003,Jim Reyburn,Lake Baseline Monitoring- DNR (1970s-2006)
+05/07/2013,Brenda Nordin,Response Monitoring
+07/09/2013,Brenda Nordin,Response Monitoring
+09/03/2013,Brenda Nordin,Response Monitoring
+05/17/2017,Brenda L Nordin- BRIAN D ZALAY,Response Monitoring
+06/28/2018,Brenda Nordin,Response Monitoring
+02/26/2020,Brenda Nordin,Response Monitoring

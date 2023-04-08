@@ -1,0 +1,454 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fawn Lake,Adams,1301300,WC,1,,10021087,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18137361,06/23/2003,6.5,NO,2,,,50,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,08/01/2003,2.5,NO,0.8,,,64,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,04/14/2004,5.5,NO,1.7,,,53,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,06/29/2004,5.5,NO,1.7,,,53,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,08/24/2004,6,NO,1.8,,,51,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,09/17/2004,8,NO,2.4,,,47,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,11/09/2004,7,NO,2.1,,,49,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,02/09/2005,,,,,,,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,04/18/2005,7.3,NO,2.2,,,48,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,07/01/2005,4.5,NO,1.4,,,55,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,07/22/2005,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,08/15/2005,6.3,NO,1.9,,,51,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,09/01/2005,2,NO,0.6,,,67,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137361,09/02/2005,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,09/15/2005,7,NO,2.1,,,49,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,09/19/2005,2.5,NO,0.8,,,64,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137361,11/14/2005,4,NO,1.2,,,57,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,04/20/2006,7.5,NO,2.3,,,48,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,07/05/2006,6,NO,1.8,,,51,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,07/27/2006,4.5,NO,1.4,,,55,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,09/08/2006,1.5,NO,0.5,,,71,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+25386599,07/18/2008,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,
+25646697,07/18/2008,,,,4.87,22,,52,47,,,,,
+25386603,08/16/2008,12.1,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,
+26007621,08/16/2008,,,,0.84,19,,51,33,,,,,
+25386603,05/23/2009,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+26007621,06/27/2009,9,NO,2.7,4.93,25,45,53,47,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+26007621,07/25/2009,10,NO,3,2.94,20,44,51,43,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+26007621,08/22/2009,8.5,NO,2.6,18.7,33,46,55,57,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+25386603,09/26/2009,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+25386603,05/22/2010,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+26007621,06/20/2010,7.25,NO,2.2,6.64,21,49,52,49,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+25386603,07/31/2010,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+26007621,08/21/2010,,,,,37,,56,,,,,,
+25386603,09/04/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+26007621,09/05/2010,,,,3.24,ND*,,,44,,,,,
+18137361,05/16/2011,8.5,NO,2.6,,24,46,53,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25386603,05/21/2011,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+26007621,06/18/2011,8.5,NO,2.6,6.03,30,46,54,48,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+26007621,07/16/2011,,,,4.52,23,,52,46,,,,,
+26007621,07/17/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+26007621,08/13/2011,11,NO,3.3,6.52,19,43,51,49,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25386599,08/15/2011,,,,,,,,,,,,,
+25386603,10/01/2011,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+18137361,04/06/2012,13,NO,4,,21,40,52,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25386599,06/02/2012,,,,,,,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+26007621,06/09/2012,11,NO,3.3,2.68,ND*,43,,42,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+25386603,07/22/2012,11.5,NO,3.5,1.99,21,42,52,40,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+25386603,08/18/2012,11,NO,3.3,3.74,18,43,51,45,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+18137361,05/14/2013,8,NO,2.4,,34.5,47,56,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+26007621,06/07/2013,9,NO,2.7,5.54,40,45,57,48,HIGH,,CLEAR,BROWN,
+26007621,07/07/2013,6,NO,1.8,22.2,29.8,51,54,58,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25386603,08/19/2013,12.5,NO,3.8,2.94,14.8,41,49,43,NORMAL,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+25386603,05/17/2014,, ,,,,,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+25386603,05/24/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+25386603,06/28/2014,12,NO,3.6,2.86,24.2,41,53,43,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+25386603,07/11/2014,11,NO,3.3,3.34,16.1,43,50,44,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+25386603,08/28/2014,10.5,NO,3.2,7.79,26.6,43,54,50,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,04/17/2015,10,NO,3,,32.2,44,55,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+25386603,06/20/2015,11,NO,3.3,4.55,30.4,43,55,46,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+25386603,07/25/2015,10,NO,3,10.8,31.6,44,55,53,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+25386603,08/29/2015,,,,4.67,20.6,,52,46,,,,,
+25386603,08/30/2015,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,03/22/2016,9.3,NO,2.8,,37.3,45,56,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+25386603,06/18/2016,10.5,NO,3.2,8.11,31.6,43,55,51,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+25386603,07/24/2016,9,YES,2.7,16.5,59.4,45,60,56,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+25386603,08/15/2016,10,NO,3,5.46,24.8,44,53,48,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+29569968,05/15/2018,11.6,YES,3.5,,22.3,42,52,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25386603,08/12/2018,11,YES,3.3,3.08,15.8,43,50,43,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+25386603,06/23/2019,8,NO,2.4,13.1,22.9,47,52,54,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+25386603,07/28/2019,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+25386603,09/02/2019,8,NO,2.4,4.65,23.5,47,53,46,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+25386603,05/31/2020,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25386603,06/29/2020,11.5,NO,3.5,3.47,24.5,42,53,44,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+25386603,07/26/2020,12,NO,3.6,5.92,19.3,41,51,48,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+25386603,09/07/2020,10.5,NO,3.2,3.24,20,43,51,44,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/2003,3,FEET,76.51,DEGREES F,9.45,MG/L
+06/23/2003,5,FEET,75.83,DEGREES F,8.9,MG/L
+06/23/2003,7,FEET,73.53,DEGREES F,5.9,MG/L
+06/23/2003,10,FEET,67.53,DEGREES F,6.15,MG/L
+08/01/2003,1,FEET,82.58,DEGREES F,11.25,MG/L
+08/01/2003,3,FEET,79.05,DEGREES F,11.6,MG/L
+08/01/2003,5,FEET,70.66,DEGREES F,6.3,MG/L
+04/14/2004,7,FEET,49.34,DEGREES F,11.7,MG/L
+04/14/2004,10,FEET,48.45,DEGREES F,11.85,MG/L
+06/29/2004,3,FEET,49.68,DEGREES F,11.9,MG/L
+06/29/2004,5,FEET,49.68,DEGREES F,11.9,MG/L
+06/29/2004,6,FEET,68.45,DEGREES F,10.9,MG/L
+08/24/2004,3,FEET,67.6,DEGREES F,13.45,MG/L
+08/24/2004,5,FEET,67.53,DEGREES F,12.45,MG/L
+08/24/2004,10,FEET,67.03,DEGREES F,9.8,MG/L
+08/24/2004,13,FEET,65.48,DEGREES F,1.65,MG/L
+09/17/2004,3,FEET,68.32,DEGREES F,10.6,MG/L
+09/17/2004,5,FEET,68.14,DEGREES F,9.6,MG/L
+09/17/2004,10,FEET,67.73,DEGREES F,8.2,MG/L
+11/09/2004,3,FEET,45.84,DEGREES F,11.05,MG/L
+11/09/2004,5,FEET,48.84,DEGREES F,11.05,MG/L
+11/09/2004,7,FEET,45.61,DEGREES F,11.05,MG/L
+11/09/2004,10,FEET,45.73,DEGREES F,11.3,MG/L
+02/09/2005,3,FEET,39.76,DEGREES F,4.05,MG/L
+02/09/2005,5,FEET,39.78,DEGREES F,4.05,MG/L
+02/09/2005,10,FEET,39.69,DEGREES F,4.15,MG/L
+02/09/2005,13,FEET,39.38,DEGREES F,4.8,MG/L
+04/18/2005,3,FEET,61.79,DEGREES F,11.55,MG/L
+04/18/2005,5,FEET,59.38,DEGREES F,11.6,MG/L
+04/18/2005,10,FEET,55.71,DEGREES F,10.6,MG/L
+04/18/2005,13,FEET,54.91,DEGREES F,9.95,MG/L
+07/01/2005,3,FEET,76.93,DEGREES F,8.35,MG/L
+07/01/2005,5,FEET,76.73,DEGREES F,6.8,MG/L
+07/01/2005,10,FEET,75.14,DEGREES F,5.45,MG/L
+07/01/2005,13,FEET,76.08,DEGREES F,5.5,MG/L
+07/22/2005,3,FEET,80.22,DEGREES F,9,MG/L
+07/22/2005,5,FEET,79.97,DEGREES F,8.7,MG/L
+07/22/2005,10,FEET,78.24,DEGREES F,5.45,MG/L
+07/22/2005,13,FEET,77.9,DEGREES F,5,MG/L
+08/15/2005,3,FEET,74.71,DEGREES F,11.2,MG/L
+08/15/2005,5,FEET,74.53,DEGREES F,10.8,MG/L
+08/15/2005,10,FEET,74.84,DEGREES F,10.8,MG/L
+08/15/2005,13,FEET,73.69,DEGREES F,9.6,MG/L
+09/01/2005,3,FEET,70.93,DEGREES F,9.17,MG/L
+09/01/2005,5,FEET,70.77,DEGREES F,10.35,MG/L
+09/01/2005,10,FEET,69.48,DEGREES F,9.33,MG/L
+09/01/2005,13,FEET,69.33,DEGREES F,9.09,MG/L
+09/02/2005,3,FEET,73.15,DEGREES F,6.3,MG/L
+09/02/2005,5,FEET,72.99,DEGREES F,9.2,MG/L
+09/02/2005,10,FEET,71.83,DEGREES F,9.2,MG/L
+09/15/2005,3,FEET,72.03,DEGREES F,6.7,MG/L
+09/15/2005,5,FEET,71.82,DEGREES F,6.7,MG/L
+09/15/2005,10,FEET,71.44,DEGREES F,7,MG/L
+09/19/2005,3,FEET,62.38,DEGREES F,7.51,MG/L
+09/19/2005,5,FEET,62.33,DEGREES F,7.63,MG/L
+09/19/2005,10,FEET,61.97,DEGREES F,7.37,MG/L
+11/14/2005,3,FEET,44.52,DEGREES F,8.45,MG/L
+11/14/2005,5,FEET,44.51,DEGREES F,4.2,MG/L
+11/14/2005,10,FEET,44.22,DEGREES F,9.3,MG/L
+04/20/2006,5,FEET,56.44,DEGREES F,11.15,MG/L
+04/20/2006,10,FEET,55.69,DEGREES F,11.2,MG/L
+07/05/2006,3,FEET,77.54,DEGREES F,9.17,MG/L
+07/05/2006,5,FEET,77.45,DEGREES F,7.59,MG/L
+07/05/2006,8,FEET,77.34,DEGREES F,6.07,MG/L
+07/27/2006,3,FEET,81.75,DEGREES F,8.18,MG/L
+07/27/2006,5,FEET,79.63,DEGREES F,6.75,MG/L
+09/08/2006,3,FEET,71.71,DEGREES F,9.35,MG/L
+09/08/2006,5,FEET,71.15,DEGREES F,7.92,MG/L
+09/08/2006,10,FEET,68.63,DEGREES F,9.7,MG/L
+09/08/2006,13,FEET,68.14,DEGREES F,9.15,MG/L
+07/18/2008,0,FEET,78.6,DEGREES F,,
+07/18/2008,5,FEET,76.4,DEGREES F,,
+07/18/2008,10,FEET,66.5,DEGREES F,,
+07/18/2008,12,FEET,64.7,DEGREES F,,
+08/16/2008,0,FEET,73,DEGREES F,20.43,MG/L
+08/16/2008,5,FEET,72.6,DEGREES F,15.31,MG/L
+08/16/2008,10,FEET,65.4,DEGREES F,13.91,MG/L
+08/16/2008,13,FEET,63.8,DEGREES F,13.98,MG/L
+05/23/2009,1,FEET,69.6,DEGREES F,,
+05/23/2009,5,FEET,68.7,DEGREES F,,
+05/23/2009,10,FEET,63.3,DEGREES F,,
+05/23/2009,15,FEET,61.1,DEGREES F,,
+06/27/2009,1,FEET,80.4,DEGREES F,,
+06/27/2009,5,FEET,80.4,DEGREES F,,
+06/27/2009,10,FEET,66,DEGREES F,,
+06/27/2009,15,FEET,62.4,DEGREES F,,
+07/25/2009,1,FEET,71.9,DEGREES F,,
+07/25/2009,5,FEET,71.4,DEGREES F,,
+07/25/2009,10,FEET,69.6,DEGREES F,,
+07/25/2009,14,FEET,65.3,DEGREES F,,
+08/22/2009,1,FEET,71.9,DEGREES F,,
+08/22/2009,5,FEET,70.7,DEGREES F,,
+08/22/2009,10,FEET,69.6,DEGREES F,,
+08/22/2009,14,FEET,69.2,DEGREES F,,
+09/26/2009,1,FEET,67.4,DEGREES F,,
+09/26/2009,5,FEET,67.4,DEGREES F,,
+09/26/2009,10,FEET,67.1,DEGREES F,,
+09/26/2009,13,FEET,66.5,DEGREES F,,
+05/22/2010,1,FEET,66.2,DEGREES F,,
+05/22/2010,5,FEET,66.2,DEGREES F,,
+05/22/2010,10,FEET,62,DEGREES F,,
+05/22/2010,13,FEET,58.8,DEGREES F,,
+06/20/2010,1,FEET,75.2,DEGREES F,,
+06/20/2010,5,FEET,74.6,DEGREES F,,
+06/20/2010,10,FEET,69.2,DEGREES F,,
+06/20/2010,14,FEET,67.6,DEGREES F,,
+07/31/2010,1,FEET,78,DEGREES F,,
+07/31/2010,5,FEET,77.7,DEGREES F,,
+07/31/2010,10,FEET,75.5,DEGREES F,,
+07/31/2010,14,FEET,73.5,DEGREES F,,
+09/04/2010,1,FEET,68,DEGREES F,,
+09/04/2010,5,FEET,67.4,DEGREES F,,
+09/04/2010,10,FEET,66.9,DEGREES F,,
+09/04/2010,14,FEET,66.3,DEGREES F,,
+05/16/2011,0,FEET,62.6,DEGREES F,,
+05/16/2011,5,FEET,62,DEGREES F,,
+05/16/2011,10,FEET,60.8,DEGREES F,,
+05/21/2011,1,FEET,65.1,DEGREES F,,
+05/21/2011,5,FEET,64.9,DEGREES F,,
+05/21/2011,10,FEET,60.2,DEGREES F,,
+05/21/2011,13,FEET,58.4,DEGREES F,,
+06/18/2011,1,FEET,75.2,DEGREES F,,
+06/18/2011,5,FEET,74.7,DEGREES F,,
+06/18/2011,10,FEET,67.2,DEGREES F,,
+06/18/2011,13,FEET,64.7,DEGREES F,,
+07/17/2011,1,FEET,77,DEGREES F,,
+07/17/2011,5,FEET,76.6,DEGREES F,,
+07/17/2011,10,FEET,74.4,DEGREES F,,
+07/17/2011,14,FEET,71.9,DEGREES F,,
+08/13/2011,1,FEET,75,DEGREES F,,
+08/13/2011,5,FEET,74.8,DEGREES F,,
+08/13/2011,10,FEET,74.4,DEGREES F,,
+08/13/2011,13,FEET,74.1,DEGREES F,,
+08/15/2011,1,FEET,78.7,DEGREES F,9.39,MG/L
+08/15/2011,5,FEET,76.4,DEGREES F,9.93,MG/L
+08/15/2011,10,FEET,75.1,DEGREES F,13.24,MG/L
+10/01/2011,1,FEET,59.7,DEGREES F,,
+10/01/2011,5,FEET,57.7,DEGREES F,,
+10/01/2011,10,FEET,56.4,DEGREES F,,
+10/01/2011,13,FEET,56.3,DEGREES F,,
+04/06/2012,0,FEET,55.2,DEGREES F,,
+04/06/2012,5,FEET,54.8,DEGREES F,,
+04/06/2012,10,FEET,54.3,DEGREES F,,
+06/02/2012,1,FEET,74.3,DEGREES F,9.13,MG/L
+06/02/2012,5,FEET,70.6,DEGREES F,9.56,MG/L
+06/02/2012,10,FEET,69.5,DEGREES F,8.95,MG/L
+06/09/2012,1,FEET,75.2,DEGREES F,,
+06/09/2012,5,FEET,73,DEGREES F,,
+06/09/2012,10,FEET,68.1,DEGREES F,,
+06/09/2012,13,FEET,65.6,DEGREES F,,
+07/22/2012,1,FEET,79.1,DEGREES F,,
+07/22/2012,5,FEET,78.9,DEGREES F,,
+07/22/2012,10,FEET,76.8,DEGREES F,,
+07/22/2012,13,FEET,76.1,DEGREES F,,
+08/18/2012,1,FEET,74.1,DEGREES F,,
+08/18/2012,5,FEET,71.9,DEGREES F,,
+08/18/2012,10,FEET,71,DEGREES F,,
+08/18/2012,11,FEET,70.8,DEGREES F,,
+05/14/2013,0,FEET,61.1,DEGREES F,,
+05/14/2013,5,FEET,58.2,DEGREES F,,
+05/14/2013,10,FEET,56.4,DEGREES F,,
+05/14/2013,12,FEET,52.8,DEGREES F,,
+06/07/2013,1,FEET,65.4,DEGREES F,,
+06/07/2013,5,FEET,63.3,DEGREES F,,
+06/07/2013,10,FEET,61.1,DEGREES F,,
+06/07/2013,13,FEET,58.8,DEGREES F,,
+07/07/2013,1,FEET,78.8,DEGREES F,,
+07/07/2013,5,FEET,75.5,DEGREES F,,
+07/07/2013,10,FEET,68.7,DEGREES F,,
+07/07/2013,13,FEET,62.4,DEGREES F,,
+08/19/2013,1,FEET,74.1,DEGREES F,,
+08/19/2013,5,FEET,72.8,DEGREES F,,
+08/19/2013,10,FEET,70.8,DEGREES F,,
+08/19/2013,14,FEET,70.1,DEGREES F,,
+05/17/2014,1,FEET,58.1,DEGREES F,,
+05/17/2014,5,FEET,57.2,DEGREES F,,
+05/17/2014,10,FEET,56.8,DEGREES F,,
+05/17/2014,13,FEET,56.4,DEGREES F,,
+05/24/2014,1,FEET,70.1,DEGREES F,,
+05/24/2014,5,FEET,67.6,DEGREES F,,
+05/24/2014,10,FEET,61.5,DEGREES F,,
+05/24/2014,13,FEET,59.7,DEGREES F,,
+06/28/2014,1,FEET,80.6,DEGREES F,,
+06/28/2014,5,FEET,77.7,DEGREES F,,
+06/28/2014,10,FEET,72.5,DEGREES F,,
+06/28/2014,13,FEET,69,DEGREES F,,
+07/11/2014,1,FEET,76.2,DEGREES F,,
+07/11/2014,5,FEET,75,DEGREES F,,
+07/11/2014,10,FEET,73.4,DEGREES F,,
+07/11/2014,13,FEET,71.4,DEGREES F,,
+08/28/2014,1,FEET,77,DEGREES F,,
+08/28/2014,5,FEET,76.2,DEGREES F,,
+08/28/2014,10,FEET,74.1,DEGREES F,,
+08/28/2014,13,FEET,72.6,DEGREES F,,
+04/17/2015,0,FEET,61.1,DEGREES F,,
+04/17/2015,5,FEET,58.4,DEGREES F,,
+04/17/2015,10,FEET,57.5,DEGREES F,,
+06/20/2015,1,FEET,75.9,DEGREES F,,
+06/20/2015,5,FEET,75.5,DEGREES F,,
+06/20/2015,10,FEET,71,DEGREES F,,
+06/20/2015,13,FEET,69.6,DEGREES F,,
+07/25/2015,1,FEET,82.7,DEGREES F,,
+07/25/2015,5,FEET,79.7,DEGREES F,,
+07/25/2015,10,FEET,75.3,DEGREES F,,
+07/25/2015,13,FEET,73.4,DEGREES F,,
+08/30/2015,1,FEET,69.6,DEGREES F,,
+08/30/2015,5,FEET,67.8,DEGREES F,,
+08/30/2015,10,FEET,67.2,DEGREES F,,
+08/30/2015,12,FEET,67.1,DEGREES F,,
+03/22/2016,0,FEET,45.6,DEGREES F,,
+03/22/2016,5,FEET,45.6,DEGREES F,,
+03/22/2016,8,FEET,45.6,DEGREES F,,
+06/18/2016,1,FEET,80.9,DEGREES F,,
+06/18/2016,5,FEET,78,DEGREES F,,
+06/18/2016,10,FEET,71.6,DEGREES F,,
+06/18/2016,13,FEET,65.6,DEGREES F,,
+07/24/2016,1,FEET,83.1,DEGREES F,,
+07/24/2016,5,FEET,80.4,DEGREES F,,
+07/24/2016,10,FEET,77,DEGREES F,,
+08/15/2016,1,FEET,78.2,DEGREES F,,
+08/15/2016,5,FEET,78.2,DEGREES F,,
+08/15/2016,10,FEET,76.2,DEGREES F,,
+08/15/2016,13,FEET,71.6,DEGREES F,,
+05/15/2018,3,FEET,66.9,DEGREES F,,
+05/15/2018,6,FEET,61.3,DEGREES F,,
+05/15/2018,9,FEET,58.1,DEGREES F,,
+08/12/2018,1,FEET,78.6,DEGREES F,,
+08/12/2018,5,FEET,76.1,DEGREES F,,
+08/12/2018,10,FEET,72.6,DEGREES F,,
+06/23/2019,1,FEET,71.4,DEGREES F,,
+06/23/2019,5,FEET,69.2,DEGREES F,,
+06/23/2019,10,FEET,62.6,DEGREES F,,
+06/23/2019,12,FEET,61.7,DEGREES F,,
+07/28/2019,1,FEET,79.5,DEGREES F,,
+07/28/2019,5,FEET,77,DEGREES F,,
+07/28/2019,10,FEET,71.6,DEGREES F,,
+09/02/2019,1,FEET,75,DEGREES F,,
+09/02/2019,5,FEET,69.4,DEGREES F,,
+09/02/2019,10,FEET,66.2,DEGREES F,,
+05/31/2020,1,FEET,69.9,DEGREES F,,
+05/31/2020,5,FEET,69.9,DEGREES F,,
+05/31/2020,10,FEET,63.3,DEGREES F,,
+05/31/2020,13,FEET,61.3,DEGREES F,,
+06/29/2020,1,FEET,80.2,DEGREES F,,
+06/29/2020,5,FEET,78.2,DEGREES F,,
+06/29/2020,10,FEET,69.2,DEGREES F,,
+06/29/2020,13,FEET,66.9,DEGREES F,,
+07/26/2020,1,FEET,82.9,DEGREES F,,
+07/26/2020,5,FEET,80.2,DEGREES F,,
+07/26/2020,10,FEET,75.2,DEGREES F,,
+09/07/2020,1,FEET,71,DEGREES F,,
+09/07/2020,5,FEET,70.5,DEGREES F,,
+09/07/2020,10,FEET,70.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+02/09/2005,with Martin Billings--sample taken through hole in ice-covered lake
+07/18/2008,also present:  Reesa Evans- Dave Sura- Bob Prei
+sunny- somewhat overcast- light wind
+08/16/2008,also assisting:  Debra Jensen- Robert Prei- Reesa Evans
+05/23/2009,Robert Prei helper Overcast
+06/27/2009,partly cloudy
+07/25/2009,Breezy- mostly cloudy
+08/22/2009,Partly sunny- breezy
+09/26/2009,mostly cloudy
+05/22/2010,mostly cloudy- calm winds-avg. temps
+06/20/2010,sunny-light W winds-avg. temps lake level still low but rising
+07/31/2010,cloudy  Judy Sura helper water level at recent highs weed numbers still low except 
+toward east end  some elodea and native milfoil  some algae globs starting to form
+
+
+05/16/2011,sunny- breezy- beautiful--one man shore fishing
+05/21/2011,cloudy-  breezy from east
+06/18/2011,cloudy- breezy from east
+08/15/2011,Reesa Evans trained Debra D.O. monitor
+04/06/2012,windy- sunny- chilly--big growth of both EWM and CLP- both at treatment growth level
+06/02/2012,temp and DO only
+05/14/2013,Anna Moyer of WDNR present--beautiful warm day with almost no breeze--aquatic plant growth in Fawn Lake is incredibly advanced compared to the other 8 lakes I've been on in last 10 days--EWM definitely ready to treat and is heaviest towards dam--as we went east- there were fewer big patches of EWM- but more patches of CLP--map sent to chemical applicator- Scott Provost- + Fawn District Board--milfoil sample taken for DNA testing--these plants are definitely ready to treat NOW--instructions + supplies for residue testing were given to Dave Sura last Saturday- so if treatment occurs soon- Lake District should be ready to do testing--also took sample of Lymnothamnus barbatus (I think)- pulling up a big patch
+07/07/2013,significant amounts of elodea- clarity reduced
+04/17/2015,sunny with slight wind--lake is very low--boat launch very slimy--air temp 78.8 F
+03/22/2016,air temp in mid 40s F- about the same as the water--lots of dead algae floating on surface
+06/23/2019,cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+06/23/2003,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/01/2003,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+04/14/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/29/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/24/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/17/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+11/09/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+02/09/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+04/18/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/01/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/22/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/15/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/01/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/02/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/15/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/19/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+11/14/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+04/20/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/05/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/27/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/08/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/18/2008,Debra Jensen,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/18/2008,Reesa Evans- Debra Jensen- Robert Prei- Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/16/2008,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/16/2008,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/23/2009,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/27/2009,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/25/2009,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/22/2009,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/26/2009,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/22/2010,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/20/2010,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/31/2010,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/31/2010,Dave Sura,Citizen Lake Monitoring Network QA/QC - 2010
+08/21/2010,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/04/2010,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/05/2010,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/16/2011,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/21/2011,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/18/2011,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/16/2011,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/17/2011,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/13/2011,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/15/2011,Debra Jensen,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+10/01/2011,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+04/06/2012,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/02/2012,Debra Jensen,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/09/2012,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/22/2012,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/18/2012,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/14/2013,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/07/2013,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/07/2013,Debra Jensen and Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/19/2013,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/17/2014,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/24/2014,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/28/2014,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/11/2014,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/28/2014,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+04/17/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/20/2015,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/25/2015,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/29/2015,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/30/2015,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+03/22/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/18/2016,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/24/2016,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/15/2016,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/15/2018,Kason Morley,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+08/12/2018,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/23/2019,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/28/2019,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/02/2019,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+05/31/2020,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+06/29/2020,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+07/26/2020,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 
+09/07/2020,Dave Sura,Citizen Lake Monitoring - Water Quality - Fawn Lake - Deepest Area- Near Dam 

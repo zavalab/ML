@@ -1,0 +1,158 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Comus Lake,Walworth,794200,SE,65,,653286,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+41731863,07/17/1978,1,NO,0.3,,,77,,,,,,,
+41731863,02/19/1980,,,,,,,,,,,,,
+7000045,08/22/2000,1,NO,0.3,76,206,77,69,68,,,,,2-Very minor aesthetic problems
+7000045,07/30/2002,0.7,NO,0.2,145,305,81,72,72,,,,,5-Enjoyment substantially impaired (algae)
+66594602,07/16/2018,1.25,NO,0.4,,,74,,,NORMAL,5.5,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+66594602,08/13/2018,1.25,NO,0.4,,,74,,,NORMAL,5.5,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+66594602,09/17/2018,1,NO,0.3,,,77,,,NORMAL,5.5,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+66594602,10/15/2018,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+66594602,04/22/2019,1.5,NO,0.5,,118,71,65,,NORMAL,5.5,MURKY,BROWN,4-Would not swim but boating OK (algae)
+66594602,05/15/2019,1.25,NO,0.4,,,74,,,HIGH,5.75,MURKY,BROWN,4-Would not swim but boating OK (algae)
+66594602,06/17/2019,1.25,NO,0.4,72,143,74,67,67,NORMAL,5.5,MURKY,BROWN,4-Would not swim but boating OK (algae)
+66594602,07/18/2019,1.25,NO,0.4,113,171,74,68,71,NORMAL,5.75,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+66594602,08/20/2019,1.2,NO,0.4,123,147,74,67,71,NORMAL,5.75,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+66594602,09/20/2019,2,NO,0.6,,,67,,,NORMAL,5.75,MURKY,BROWN,4-Would not swim but boating OK (algae)
+66594602,10/10/2019,3,NO,0.9,,,61,,,NORMAL,5.75,MURKY,BROWN,4-Would not swim but boating OK (algae)
+228500157,04/01/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+228500157,04/12/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+228500157,05/01/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+228500157,05/13/2020,,NO,,,,,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+228500157,05/27/2020,,NO,,,,,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,06/09/2020,,,,,,,,,,,,,
+228500157,06/12/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,07/11/2020,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,07/23/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,07/27/2020,,,,92.3,141,,66,69,,,,,
+228500157,08/06/2020,,NO,,,,,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,08/11/2020,,,,,,,,,,,,,
+228500157,08/25/2020,1,NO,0.3,125,151,77,67,71,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,09/12/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+228500157,10/08/2020,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1978,0,FEET,25.5,DEGREES C,9.5,MG/L
+07/17/1978,1,FEET,25.5,DEGREES C,9.4,MG/L
+07/17/1978,3,FEET,25.5,DEGREES C,9.4,MG/L
+07/17/1978,4,FEET,25,DEGREES C,9.4,MG/L
+07/17/1978,5,FEET,25,DEGREES C,9.2,MG/L
+02/19/1980,0,FEET,1,DEGREES C,9.1,MG/L
+02/19/1980,1,FEET,1,DEGREES C,9,MG/L
+02/19/1980,2.5,FEET,1,DEGREES C,8.4,MG/L
+08/22/2000,1,FEET,22.22,DEGREES C,14.94,MG/L
+08/22/2000,3,FEET,21.99,DEGREES C,11.93,MG/L
+08/22/2000,6,FEET,21.62,DEGREES C,9.82,MG/L
+07/30/2002,3,FEET,26.96,DEGREES C,11.84,MG/L
+07/30/2002,,,27.0,C,11.9,MG/L
+07/16/2018,3,FEET,81,DEGREES F,8.6,MG/L
+08/13/2018,0.5,FEET,83.9,DEGREES F,15.75,MG/L
+08/13/2018,1.5,FEET,82.4,DEGREES F,17.7,MG/L
+08/13/2018,2.5,FEET,81.5,DEGREES F,16.85,MG/L
+08/13/2018,3.5,FEET,80.8,DEGREES F,14.54,MG/L
+08/13/2018,4.5,FEET,79,DEGREES F,13.65,MG/L
+08/13/2018,5.5,FEET,78.2,DEGREES F,12.14,MG/L
+09/17/2018,0.5,FEET,25.1,DEGREES C,22.35,MG/L
+09/17/2018,1.5,FEET,24.6,DEGREES C,19.59,MG/L
+09/17/2018,2.5,FEET,23.1,DEGREES C,15.8,MG/L
+09/17/2018,3.5,FEET,22.6,DEGREES C,11.59,MG/L
+09/17/2018,4.5,FEET,21.8,DEGREES C,4.05,MG/L
+09/17/2018,5.5,FEET,21.7,DEGREES C,.5,MG/L
+10/15/2018,0.5,FEET,8.7,DEGREES C,9.52,MG/L
+10/15/2018,2,FEET,8.7,DEGREES C,9.42,MG/L
+10/15/2018,3,FEET,8.7,DEGREES C,9.37,MG/L
+10/15/2018,4,FEET,8.6,DEGREES C,9.34,MG/L
+10/15/2018,5,FEET,8.6,DEGREES C,7.52,MG/L
+04/22/2019,1,FEET,60.2,DEGREES F,,
+04/22/2019,2,FEET,60,DEGREES F,,
+04/22/2019,3,FEET,60,DEGREES F,,
+04/22/2019,4,FEET,60,DEGREES F,,
+04/22/2019,5,FEET,59.9,DEGREES F,,
+04/22/2019,5.5,FEET,59.7,DEGREES F,,
+05/15/2019,1,FEET,20.3,DEGREES C,18.73,MG/L
+05/15/2019,2,FEET,17.4,DEGREES C,18.17,MG/L
+05/15/2019,3,FEET,16.6,DEGREES C,16.87,MG/L
+05/15/2019,4,FEET,15.4,DEGREES C,12.98,MG/L
+05/15/2019,5,FEET,13.8,DEGREES C,5.76,MG/L
+07/18/2019,1,FEET,26.4,DEGREES C,8.87,MG/L
+07/18/2019,2,FEET,26.4,DEGREES C,9,MG/L
+07/18/2019,3,FEET,26.3,DEGREES C,9,MG/L
+07/18/2019,4,FEET,26.2,DEGREES C,8.5,MG/L
+07/18/2019,5,FEET,26,DEGREES C,7.55,MG/L
+08/20/2019,1,FEET,23.8,DEGREES C,12.4,MG/L
+08/20/2019,2,FEET,23.9,DEGREES C,11.23,MG/L
+08/20/2019,3,FEET,23.8,DEGREES C,10.8,MG/L
+08/20/2019,4,FEET,23.8,DEGREES C,11.04,MG/L
+08/20/2019,5,FEET,23.6,DEGREES C,9.4,MG/L
+09/20/2019,1,FEET,20.1,DEGREES C,10.4,MG/L
+09/20/2019,2,FEET,21.1,DEGREES C,8.91,MG/L
+09/20/2019,3,FEET,20.7,DEGREES C,8.65,MG/L
+09/20/2019,4,FEET,20.2,DEGREES C,6.3,MG/L
+09/20/2019,5,FEET,20.1,DEGREES C,5.1,MG/L
+10/10/2019,1,FEET,14.7,DEGREES C,6.7,MG/L
+10/10/2019,2,FEET,14.6,DEGREES C,6.64,MG/L
+10/10/2019,3,FEET,13.8,DEGREES C,5.69,MG/L
+10/10/2019,4,FEET,13.6,DEGREES C,5.4,MG/L
+10/10/2019,5,FEET,13.6,DEGREES C,4.8,MG/L
+06/09/2020,3,FEET,70.7,DEGREES F,10.8,MG/L
+07/11/2020,3,FEET,79.7,DEGREES F,16.5,MG/L
+08/11/2020,3,FEET,75,DEGREES F,8.75,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/19/1980,6" ice.  Drawn down about 2.5 feet.
+08/22/2000,INTEGRATED WATER COLUMN: 0 TO 6FT     
+07/30/2002,MIDDLE OF BASIN- INTEGRATED WATER COLUMN     
+09/17/2018,The weather was dry and sunny.  It has been dry and sunny the past several days.  The water is very brown looking.  No life in the water where I was sampling.  Very little wildlife activity;  observed a Great Blue Heron and a sea gull.  A TP sample was collected 3 feet under water.  Sample taken to WalCoMet.  
+10/15/2018,Lake looked brown in color- water a little clearer- and water was much colder.  Approximately 40 sea gulls floating on the water.  No other wildlife noticed on or near the water.  on North shore a beaver had gone up on shore to cut some Aspen branches.  The same hole is monitored- but the water level is always 5.5 feet- even when the feeder streams are flooding. 
+04/22/2019,WDNR Rachel Sabre assisted.  Water body # 794200.  Phosphate sample was collected and sent to State Department of Hygiene.  Lake water was turbid- had a SW wind at about 5 mph.   
+06/17/2019,Weather was cloudy and calm.  Lake Comus continues to be dirty looking with no vegetation growing in the water.  
+08/20/2019,Tony Vidas assisted me with Lake monitoring.  We observed a Osprey carrying a fish to a nest on top of a large light pole in a near by park.  Lake had a greenish brown appearance.  It started to rain lightly while we were doing monitoring. 
+09/20/2019,Tony Vidas assisted in collecting data.  Water was very brown- but the D.O. content was about normal.  D.O. very low about 1 1/2 miles upstream by Dam Road- 2.17 mg/l D.O.  A lot of crap jumping in lake.
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/19/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+08/22/2000,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/2000,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+07/30/2002,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+07/30/2002,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+07/16/2018,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+08/13/2018,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+09/17/2018,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+10/15/2018,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+04/22/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+05/15/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+06/17/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+07/18/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+08/20/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+09/20/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+10/10/2019,Larry Meyer,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+04/01/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+04/12/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+05/01/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+05/13/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+05/27/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+06/09/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+06/12/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+07/11/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+07/23/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+07/27/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+08/06/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+08/11/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+08/25/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+09/12/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole
+10/08/2020,Thomas Vidas,Citizen Lake Monitoring - Water Quality - Lake Comus - Deep Hole

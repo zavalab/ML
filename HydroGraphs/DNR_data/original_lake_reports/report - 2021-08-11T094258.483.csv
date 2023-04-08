@@ -1,0 +1,104 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Honey Lake (Vienna),Walworth,752300,SE,65,,653289,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+41731863,07/24/1978,1,NO,0.3,,,77,,,,,,,
+41731863,02/11/1980,,,,,,,,,,,,,
+99459667,03/24/2016,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+99459667,05/15/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+99459667,05/19/2016,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99459667,05/22/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+99459667,05/31/2016,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99459667,06/10/2016,2.5,NO,0.8,,,64,,,LOW,6.5,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+99459667,06/18/2016,3,NO,0.9,,,61,,,NORMAL,6,MURKY,GREEN,4-Would not swim but boating OK (algae)
+99459667,08/27/2016,2.5,NO,0.8,,,64,,,HIGH,6.5,MURKY,BROWN,2-Very minor aesthetic problems
+99459667,09/20/2016,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+99459667,10/05/2016,3,NO,0.9,,,61,,,NORMAL,6.5,CLEAR,YELLOW,2-Very minor aesthetic problems
+99459667,10/29/2016,2,NO,0.6,,,67,,,LOW,6,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+99459667,05/20/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+99459667,06/17/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+99459667,10/01/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99459667,06/04/2018,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99459667,07/08/2018,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99459667,08/08/2018,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99459667,08/27/2018,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+99459667,09/14/2018,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99459667,09/17/2018,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+99459667,05/26/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+99459667,06/03/2020,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+99459667,06/11/2020,2.25,NO,0.7,,,65,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99459667,06/19/2020,2,NO,0.6,,,67,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+99459667,06/28/2020,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+99459667,07/05/2020,2,NO,0.6,,,67,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+99459667,07/12/2020,3,NO,0.9,,,61,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+99459667,07/29/2020,2.5,NO,0.8,,,64,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+99459667,08/06/2020,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+99459667,08/13/2020,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99459667,08/22/2020,1.5,NO,0.5,,,71,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+99459667,08/30/2020,2.25,NO,0.7,,,65,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/24/1978,0,FEET,23,DEGREES C,5.9,MG/L
+07/24/1978,1,FEET,21.5,DEGREES C,5.5,MG/L
+07/24/1978,2,FEET,20,DEGREES C,6.4,MG/L
+07/24/1978,3,FEET,20,DEGREES C,6.4,MG/L
+07/24/1978,4.5,FEET,19.5,DEGREES C,6.1,MG/L
+02/11/1980,0,FEET,0,DEGREES C,12.8,MG/L
+02/11/1980,2,FEET,0,DEGREES C,12.2,MG/L
+02/11/1980,3,FEET,0,DEGREES C,12,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/24/1978,Heavy ( 2-3 " ) rain in the past 5 days. Young of year bullheads seen.
+07/08/2018,sunny- slight north wind- 70's
+08/08/2018,sunny- calm sunny- calm- depth to bottom 6.5'
+08/27/2018,sunny- calm- depth to bottom 5.5'
+09/14/2018,depth to bottom 6'
+09/17/2018,Depth to bottom 7 feet. Weather: clear- calm- 78
+
+
+
+
+Start Date,Group Name,Project Name
+07/24/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/11/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+03/24/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+05/15/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+05/19/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+05/22/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+05/31/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/10/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/18/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/27/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+09/20/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+10/05/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+10/29/2016,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+05/20/2017,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/17/2017,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+10/01/2017,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/04/2018,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+07/08/2018,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/08/2018,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/27/2018,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+09/14/2018,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+09/17/2018,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+05/26/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/03/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/11/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/19/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+06/28/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+07/05/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+07/12/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+07/29/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/06/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/13/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/22/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake
+08/30/2020,Shelley Hildebrandt,Citizen Lake Monitoring - Water Quality - Honey Lake

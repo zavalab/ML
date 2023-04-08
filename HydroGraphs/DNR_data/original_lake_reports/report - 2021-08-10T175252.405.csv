@@ -1,0 +1,568 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Pesobic,Lincoln,1481600,NO,35,,353179,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190900,08/11/1986,3.25,NO,1,,,60,,,,,,BROWN,
+8190900,08/19/1986,4.5,NO,1.4,,,55,,,,,,GREEN,1-Beautiful, could not be nicer
+8190900,09/08/1986,7.25,NO,2.2,,,49,,,GAUGE,1.06,,BROWN,2-Very minor aesthetic problems
+8190900,10/07/1986,2.5,NO,0.8,,,64,,,GAUGE,1.46,,BROWN,1-Beautiful, could not be nicer
+8190900,10/13/1986,7.5,NO,2.3,,,48,,,GAUGE,1.7,,BROWN,2-Very minor aesthetic problems
+8190900,10/19/1986,7.75,NO,2.4,,,48,,,GAUGE,1.5,,BROWN,1-Beautiful, could not be nicer
+8190900,05/12/1987,6.25,NO,1.9,,,51,,,GAUGE,1,,BROWN,1-Beautiful, could not be nicer
+8190900,06/09/1987,7.25,NO,2.2,,,49,,,GAUGE,.6,,BROWN,2-Very minor aesthetic problems
+8190900,06/25/1987,7.5,NO,2.3,,,48,,,GAUGE,.5,,BROWN,2-Very minor aesthetic problems
+8190900,07/19/1987,7.25,NO,2.2,,,49,,,GAUGE,.32,,BROWN,2-Very minor aesthetic problems
+8190900,09/11/1987,7.5,NO,2.3,,,48,,,,,,GREEN,2-Very minor aesthetic problems
+8190900,10/17/1987,6.75,NO,2.1,,,50,,,GAUGE,.18,,,
+8190900,06/10/1988,7.25,NO,2.2,,,49,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8190900,07/04/1988,7.25,NO,2.2,,,49,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190900,07/25/1988,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190900,08/31/1988,7.25,NO,2.2,,,49,,,,,CLEAR,BLUE,
+8190900,10/04/1988,7.5,NO,2.3,,,48,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8190900,10/26/1988,3.25,NO,1,,,60,,,BELOW STAFF ABOUT 2 FT.,,,BROWN,1-Beautiful, could not be nicer
+8190900,05/07/1989,8.25,NO,2.5,,,47,,,GAUGE,.9,,BROWN/GREEN,1-Beautiful, could not be nicer
+8190900,06/06/1989,4,NO,1.2,,,57,,,GAUGE,1.9,,BROWN,2-Very minor aesthetic problems
+8190900,06/17/1989,5.25,NO,1.6,,,53,,,GAUGE,2.1,,BROWN,2-Very minor aesthetic problems
+8190900,07/12/1989,5,NO,1.5,,,54,,,GAUGE,.72,,BROWN,2-Very minor aesthetic problems
+8190900,07/27/1989,4.75,NO,1.4,,,55,,,GAUGE,.6,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190900,08/22/1989,3.75,NO,1.1,,,58,,,GAUGE,.0336,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190900,09/10/1989,2.25,NO,0.7,,,65,,,GAUGE,.02,,GREEN,4-Would not swim but boating OK (algae)
+8190900,10/01/1989,2.25,NO,0.7,,,65,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190900,10/13/1989,2.25,NO,0.7,,,65,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8190900,05/13/1990,2.25,NO,0.7,,,65,,,GAUGE,.64,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190900,05/24/1990,2,NO,0.6,,,67,,,GAUGE,1.2,,BROWN,4-Would not swim but boating OK (algae)
+8190900,06/10/1990,3.25,NO,1,,,60,,,GAUGE,1.12,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190900,06/20/1990,4.25,NO,1.3,,,56,,,GAUGE,2.1,,BROWN,2-Very minor aesthetic problems
+8190900,07/06/1990,4.5,NO,1.4,,,55,,,GAUGE,1.82,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190900,07/30/1990,4,NO,1.2,,,57,,,GAUGE,1.82,,BROWN,4-Would not swim but boating OK (algae)
+8190900,08/27/1990,4,NO,1.2,,,57,,,GAUGE,2.88,,BROWN,4-Would not swim but boating OK (algae)
+8190900,09/18/1990,4.25,NO,1.3,,,56,,,GAUGE,2.36,,BROWN,2-Very minor aesthetic problems
+8190900,10/14/1990,4.5,NO,1.4,,,55,,,GAUGE,2.2,,BROWN,
+8190900,10/30/1990,2,NO,0.6,,,67,,,GAUGE,2,,,
+8190900,04/20/1991,4,NO,1.2,,,57,,,GAUGE,2.76,,BROWN,
+8190900,05/15/1991,4.25,NO,1.3,,,56,,,GAUGE,2.62,,BROWN,1-Beautiful, could not be nicer
+8190900,06/05/1991,4.25,NO,1.3,,,56,,,GAUGE,2.68,,BROWN,1-Beautiful, could not be nicer
+8190900,07/14/1991,4.5,NO,1.4,,,55,,,GAUGE,2.06,,BROWN,2-Very minor aesthetic problems
+8190900,08/14/1991,4.25,NO,1.3,,,56,,,GAUGE,3.22,,BROWN,
+8190900,09/01/1991,4.25,NO,1.3,,,56,,,GAUGE,3.02,,BROWN,2-Very minor aesthetic problems
+8190900,10/03/1991,4.25,NO,1.3,,,56,,,GAUGE,1.92,,BROWN,2-Very minor aesthetic problems
+8190900,05/04/1992,4.75,NO,1.4,,,55,,,,,,BROWN,1-Beautiful, could not be nicer
+8190900,05/18/1992,5.25,NO,1.6,,,53,,,GAUGE,1.78,,BROWN,1-Beautiful, could not be nicer
+8190900,06/14/1992,5.25,NO,1.6,,,53,,,GAUGE,.98,,BROWN,2-Very minor aesthetic problems
+8190900,07/07/1992,4.5,NO,1.4,,,55,,,GAUGE,1.81,,BROWN,2-Very minor aesthetic problems
+8190900,05/10/1993,5.33,NO,1.6,,20,53,51,,HIGH; TOTAL DEPTH 10',,,BROWN,1-Beautiful, could not be nicer
+8190900,05/25/1993,6.25,NO,1.9,,,51,,,GAUGE,1.98,,BROWN,2-Very minor aesthetic problems
+8190717,04/21/1994,10,NO,3,5.45,,44,,48,,,,BROWN,1-Beautiful, could not be nicer
+8190717,05/25/1994,10,NO,3,7.92,,44,,50,,,,BROWN,2-Very minor aesthetic problems
+1,06/27/1994,,,,,34,,55,,,,,,
+8190717,06/27/1994,5.5,NO,1.7,22.4,,53,,58,,,,BROWN,1-Beautiful, could not be nicer
+1,07/28/1994,,,,,21,,52,,,,,,
+8190717,07/28/1994,8,NO,2.4,12.2,,47,,54,,,,BROWN,2-Very minor aesthetic problems
+1,08/31/1994,,,,,17,,50,,,,,,
+8190717,08/31/1994,6.5,NO,2,23.8,,50,,59,,,,BROWN,2-Very minor aesthetic problems
+8190717,09/30/1994,9,NO,2.7,5.15,19,45,51,47,,,,BROWN,1-Beautiful, could not be nicer
+8190717,05/31/1995,5.5,NO,1.7,,,53,,,,,,BROWN,1-Beautiful, could not be nicer
+8190717,06/30/1998,7.25,NO,2.2,4.36,15,49,49,46,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190717,07/31/1998,7,NO,2.1,,118,49,65,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190717,08/24/1998,6,NO,1.8,,16,51,50,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190717,06/07/1999,3,NO,0.9,10.7,41,61,57,53,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190717,08/25/1999,5.5,NO,1.7,13,34,53,55,54,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190717,10/31/1999,6,NO,1.8,0.46,22,51,52,29,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190717,05/16/2000,,,,,16,,50,,NORMAL,,CLEAR,BROWN,
+8190717,06/02/2000,,,,3.4,16,,50,44,NORMAL,,CLEAR,BROWN,
+1,07/30/2000,,,,1.6,13,,48,38,,,,,
+1,08/29/2000,,,,,20,,45,,,,,,
+8190717,08/30/2000,10,NO,3,2.3,8,44,44,41,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,04/24/2001,6,NO,1.8,5,,51,,47,,,,,
+8190717,05/26/2001,7,NO,2.1,,,49,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190717,07/25/2001,,,,8,26,,53,51,,,,,
+8190717,08/22/2001,8.5,NO,2.6,5.3,24,46,53,47,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190717,06/25/2002,,,,3.28,33,,55,44,,,,,
+8190717,08/31/2002,,,,45.3,29,,54,64,,,,,
+8190717,06/30/2003,,,,11.6,25,,53,53,,,,,
+26051649,07/30/2003,,,,9.29,27,,54,52,,,,,
+8190717,09/03/2003,,,,11.9,23,,52,54,,,,,
+8190717,07/27/2004,,,,2.76,24,,53,42,,,,,
+8190717,09/01/2004,,,,4.98,24,,53,47,,,,,
+1,09/30/2006,,,,5.19,18,,51,47,,,,,
+8190717,06/17/2007,,,,6.26,24,,53,49,,,,,
+8190717,07/30/2007,,,,3.71,16,,50,45,,,,,
+8190717,08/27/2007,,,,4.11,15,,49,45,,,,,
+8190717,10/08/2007,,,,3.37,18,,51,44,,,,,
+26051649,09/01/2008,8,NO,2.4,6.79,17,47,50,49,LOW,,CLEAR,GREEN,
+26051649,04/18/2009,9,NO,2.7,,38,45,56,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+26051649,06/26/2009,7,NO,2.1,1.32,18,49,51,37,NORMAL,11,CLEAR,BLUE,1-Beautiful, could not be nicer
+26051649,07/31/2009,9,NO,2.7,2.15,15,45,49,41,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+26051649,09/07/2009,10,YES,3,1.75,5,44,41,39,LOW,11,CLEAR,GREEN,2-Very minor aesthetic problems
+26051649,04/28/2010,9,YES,2.7,,18,45,51,,LOW,9,CLEAR,BLUE,2-Very minor aesthetic problems
+26051649,06/13/2010,8,YES,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+26051649,06/14/2010,,,,1.25,14,,49,36,,,,,
+26051649,07/25/2010,8,YES,2.4,3.88,15,47,49,45,LOW,10,MURKY,BLUE,2-Very minor aesthetic problems
+26051649,08/23/2010,8,YES,2.4,3.09,13,47,48,43,LOW,9,CLEAR,BLUE,2-Very minor aesthetic problems
+34972236,04/28/2011,3.4,NO,1,2.3,30,59,54,41,,,,,
+26051649,05/23/2011,6,NO,1.8,,38,51,56,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,06/26/2011,3.5,NO,1.1,17.6,37,59,56,56,HIGH,10,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,07/31/2011,5,NO,1.5,9.58,,54,,52,HIGH,9.5,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,08/25/2011,3,NO,0.9,8.37,37,61,56,51,HIGH,10,MURKY,BROWN,2-Very minor aesthetic problems
+34972236,11/10/2011,4.7,NO,1.4,2.69,23,55,52,42,,,,,
+41886196,03/07/2012,4.9,NO,1.5,,28,54,54,,,,,,
+26051649,04/29/2012,5,NO,1.5,,28,54,54,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,06/24/2012,5,NO,1.5,14,44,54,57,55,HIGH,9,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,07/22/2012,5.5,NO,1.7,10.2,26,53,53,52,NORMAL,10,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,08/31/2012,7,NO,2.1,5.36,22,49,52,47,NORMAL,3,CLEAR,BLUE,2-Very minor aesthetic problems
+26051649,05/27/2013,5,NO,1.5,,26.2,54,53,,HIGH,11,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/19/2013,5,NO,1.5,9.82,31.9,54,55,52,HIGH,11,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,07/31/2013,6,NO,1.8,11,20.7,51,52,53,NORMAL,10,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,08/25/2013,7,YES,2.1,21.1,33.3,49,55,58,NORMAL,9,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,05/26/2014,5,NO,1.5,,32.4,54,55,,HIGH,12,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,06/21/2014,,,,15.5,33.6,,55,56,,,,,
+26051649,06/24/2014,5,NO,1.5,,,54,,,HIGH,11,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,07/31/2014,5,NO,1.5,12.7,36,54,56,54,NORMAL,10,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,09/07/2014,4,NO,1.2,11.3,32.5,57,55,53,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,04/28/2015,6,NO,1.8,,23.3,51,53,,HIGH,12,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/12/2015,6.5,NO,2,,,50,,,HIGH,12,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/13/2015,,,,5.23,29.3,,54,47,,,,,
+26051649,08/09/2015,6,NO,1.8,7.96,41.2,51,57,50,HIGH,11,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,08/30/2015,7,NO,2.1,7.52,23.5,49,53,50,NORMAL,10,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/30/2016,7,NO,2.1,5.73,29.4,49,54,48,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,07/23/2016,7,NO,2.1,,,49,,,HIGH,11,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,07/25/2016,,,,4.54,26.8,,54,46,,,,,
+26051649,08/28/2016,8,NO,2.4,4.29,21.4,47,52,46,HIGH,12,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/16/2017,6,YES,1.8,4.94,25,51,53,47,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,07/30/2017,,,,11.2,25.3,,53,53,,,,,
+26051649,09/09/2017,7,NO,2.1,5.77,20.8,49,52,48,NORMAL,10,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,05/18/2018,7,NO,2.1,,17.7,49,50,,HIGH,10,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/20/2018,,NO,,6.49,23.7,,53,49,HIGH,10,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,07/30/2018,8,NO,2.4,9.05,20.2,47,51,51,NORMAL,9,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+26051649,08/25/2018,7,NO,2.1,,,49,,,LOW,9,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,08/26/2018,,,,6.02,16.6,,50,48,,,,,
+26051649,05/26/2019,5,YES,1.5,,27.8,54,54,,HIGH,10,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,06/22/2019,6,NO,1.8,5.56,24.3,51,53,48,HIGH,10,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,07/30/2019,7,NO,2.1,5.63,27.3,49,54,48,NORMAL,9,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,08/20/2019,7,NO,2.1,7.61,23.7,49,53,50,NORMAL,9,CLEAR,BROWN,2-Very minor aesthetic problems
+26051649,06/28/2020,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,06/29/2020,,,,5.57,22,,52,48,,,,,
+26051649,08/05/2020,,NO,,7,25.4,,53,50,HIGH,5,MURKY,BROWN,2-Very minor aesthetic problems
+26051649,08/30/2020,6,NO,1.8,7.86,25.4,51,53,50,NORMAL,9,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/10/1993,2,FEET,64,DEGREES F,,
+05/10/1993,8,FEET,62,DEGREES F,,
+04/21/1994,2,FEET,52,DEGREES F,,
+04/21/1994,6,FEET,52,DEGREES F,,
+04/21/1994,10,FEET,51,DEGREES F,,
+05/25/1994,2,FEET,70,DEGREES F,,
+05/25/1994,4,FEET,70,DEGREES F,,
+05/25/1994,6,FEET,70,DEGREES F,,
+05/25/1994,8,FEET,69,DEGREES F,,
+06/27/1994,2,FEET,79,DEGREES F,,
+07/28/1994,2,FEET,75,DEGREES F,,
+07/28/1994,8,FEET,71,DEGREES F,,
+08/31/1994,2,FEET,67,DEGREES F,,
+08/31/1994,6,FEET,64,DEGREES F,,
+09/30/1994,2,FEET,57,DEGREES F,,
+09/30/1994,6,FEET,56,DEGREES F,,
+05/31/1995,2,FEET,69,DEGREES F,,
+05/31/1995,11,FEET,62,DEGREES F,,
+04/24/2001,,,9.7,C,9.9,MG/L
+09/01/2008,10,FEET,74,DEGREES F,8,MG/L
+04/18/2009,3,FEET,59,DEGREES F,6,MG/L
+04/18/2009,6,FEET,56,DEGREES F,9,MG/L
+04/18/2009,9,FEET,55,DEGREES F,,
+04/18/2009,12,FEET,55,DEGREES F,,
+06/26/2009,3,FEET,84,DEGREES F,,
+06/26/2009,6,FEET,79,DEGREES F,,
+06/26/2009,9,FEET,66,DEGREES F,,
+06/26/2009,12,FEET,65,DEGREES F,,
+07/31/2009,3,FEET,70.5,DEGREES F,,
+07/31/2009,6,FEET,69,DEGREES F,,
+07/31/2009,9,FEET,69,DEGREES F,,
+07/31/2009,12,FEET,69,DEGREES F,,
+09/07/2009,3,FEET,71.4,DEGREES F,,
+09/07/2009,6,FEET,70.1,DEGREES F,,
+09/07/2009,9,FEET,69.4,DEGREES F,,
+09/07/2009,11,FEET,69.2,DEGREES F,,
+04/28/2010,3,FEET,60,DEGREES F,,
+04/28/2010,6,FEET,58,DEGREES F,,
+04/28/2010,9,FEET,57,DEGREES F,,
+06/13/2010,3,FEET,66,DEGREES F,,
+06/13/2010,6,FEET,65,DEGREES F,,
+06/13/2010,8,FEET,65,DEGREES F,,
+07/25/2010,3,FEET,78,DEGREES F,,
+07/25/2010,6,FEET,75,DEGREES F,,
+07/25/2010,9,FEET,74.6,DEGREES F,,
+08/23/2010,3,FEET,75,DEGREES F,,
+08/23/2010,6,FEET,73.4,DEGREES F,,
+08/23/2010,9,FEET,72,DEGREES F,,
+04/28/2011,,,7.7,C,9.7,MG/L
+05/23/2011,0,FEET,67,DEGREES F,,
+05/23/2011,3,FEET,66,DEGREES F,,
+05/23/2011,6,FEET,65,DEGREES F,,
+05/23/2011,9,FEET,60,DEGREES F,,
+06/26/2011,0,FEET,72,DEGREES F,,
+06/26/2011,3,FEET,71,DEGREES F,,
+06/26/2011,6,FEET,70.5,DEGREES F,,
+06/26/2011,9,FEET,65.4,DEGREES F,,
+07/31/2011,0,FEET,83,DEGREES F,,
+07/31/2011,3,FEET,83,DEGREES F,,
+07/31/2011,6,FEET,82,DEGREES F,,
+07/31/2011,9,FEET,77,DEGREES F,,
+08/25/2011,0,FEET,75.5,DEGREES F,,
+08/25/2011,3,FEET,76,DEGREES F,,
+08/25/2011,6,FEET,73,DEGREES F,,
+08/25/2011,9,FEET,71.5,DEGREES F,,
+11/10/2011,,,3.9,C,11.7,MG/L
+03/07/2012,,,1.8,C,1.9,MG/L
+04/29/2012,3,FEET,55.2,DEGREES F,,
+04/29/2012,6,FEET,55,DEGREES F,,
+04/29/2012,9,FEET,52.5,DEGREES F,,
+06/24/2012,0,FEET,77.5,DEGREES F,,
+06/24/2012,3,FEET,77.5,DEGREES F,,
+07/22/2012,0,FEET,84,DEGREES F,,
+07/22/2012,3,FEET,84,DEGREES F,,
+07/22/2012,6,FEET,82,DEGREES F,,
+07/22/2012,9,FEET,78,DEGREES F,,
+08/31/2012,0,FEET,77,DEGREES F,,
+08/31/2012,3,FEET,76.5,DEGREES F,,
+08/31/2012,6,FEET,76.5,DEGREES F,,
+08/31/2012,9,FEET,76,DEGREES F,,
+05/27/2013,0,FEET,64.5,DEGREES F,,
+05/27/2013,3,FEET,63.8,DEGREES F,,
+05/27/2013,6,FEET,63.6,DEGREES F,,
+05/27/2013,9,FEET,62,DEGREES F,,
+06/19/2013,0,FEET,74.6,DEGREES F,,
+06/19/2013,3,FEET,74.3,DEGREES F,,
+06/19/2013,6,FEET,73.2,DEGREES F,,
+06/19/2013,9,FEET,66,DEGREES F,,
+07/31/2013,0,FEET,72,DEGREES F,,
+07/31/2013,3,FEET,72,DEGREES F,,
+07/31/2013,6,FEET,71,DEGREES F,,
+07/31/2013,9,FEET,66,DEGREES F,,
+08/25/2013,0,FEET,77,DEGREES F,,
+08/25/2013,3,FEET,76.4,DEGREES F,,
+08/25/2013,6,FEET,76.2,DEGREES F,,
+08/25/2013,9,FEET,74,DEGREES F,,
+05/26/2014,0,FEET,72,DEGREES F,,
+05/26/2014,3,FEET,71.4,DEGREES F,,
+05/26/2014,6,FEET,66.5,DEGREES F,,
+05/26/2014,9,FEET,59.1,DEGREES F,,
+06/24/2014,0,FEET,74.4,DEGREES F,,
+06/24/2014,3,FEET,71,DEGREES F,,
+06/24/2014,6,FEET,70.1,DEGREES F,,
+06/24/2014,9,FEET,69.6,DEGREES F,,
+07/31/2014,0,FEET,77.7,DEGREES F,,
+07/31/2014,3,FEET,77.3,DEGREES F,,
+07/31/2014,6,FEET,72.3,DEGREES F,,
+07/31/2014,9,FEET,70.5,DEGREES F,,
+09/07/2014,0,FEET,69.8,DEGREES F,,
+09/07/2014,3,FEET,69.6,DEGREES F,,
+09/07/2014,6,FEET,69.6,DEGREES F,,
+09/07/2014,9,FEET,69,DEGREES F,,
+04/28/2015,0,FEET,57.5,DEGREES F,,
+04/28/2015,3,FEET,57.2,DEGREES F,,
+04/28/2015,6,FEET,56.8,DEGREES F,,
+04/28/2015,9,FEET,52.8,DEGREES F,,
+06/12/2015,0,FEET,74.4,DEGREES F,,
+06/12/2015,3,FEET,73.8,DEGREES F,,
+06/12/2015,6,FEET,69.7,DEGREES F,,
+06/12/2015,9,FEET,68.7,DEGREES F,,
+08/09/2015,0,FEET,74.4,DEGREES F,,
+08/09/2015,3,FEET,74.4,DEGREES F,,
+08/09/2015,6,FEET,74.4,DEGREES F,,
+08/09/2015,9,FEET,73.5,DEGREES F,,
+08/30/2015,0,FEET,70,DEGREES F,,
+08/30/2015,3,FEET,67.2,DEGREES F,,
+08/30/2015,6,FEET,66.5,DEGREES F,,
+08/30/2015,9,FEET,65.6,DEGREES F,,
+06/30/2016,0,FEET,78.6,DEGREES F,,
+06/30/2016,3,FEET,77.7,DEGREES F,,
+06/30/2016,6,FEET,74.6,DEGREES F,,
+06/30/2016,9,FEET,72.1,DEGREES F,,
+07/23/2016,0,FEET,81.3,DEGREES F,,
+07/23/2016,3,FEET,80.9,DEGREES F,,
+07/23/2016,6,FEET,80.9,DEGREES F,,
+07/23/2016,9,FEET,77.7,DEGREES F,,
+08/28/2016,0,FEET,75.3,DEGREES F,,
+08/28/2016,3,FEET,74.6,DEGREES F,,
+08/28/2016,6,FEET,73.5,DEGREES F,,
+08/28/2016,9,FEET,71.9,DEGREES F,,
+06/16/2017,0,FEET,76.4,DEGREES F,,
+06/16/2017,3,FEET,76.2,DEGREES F,,
+06/16/2017,6,FEET,75.9,DEGREES F,,
+06/16/2017,9,FEET,74.8,DEGREES F,,
+09/09/2017,0,FEET,67,DEGREES F,,
+09/09/2017,3,FEET,65.4,DEGREES F,,
+09/09/2017,6,FEET,64.9,DEGREES F,,
+09/09/2017,9,FEET,63.6,DEGREES F,,
+05/18/2018,0,FEET,69.6,DEGREES F,,
+05/18/2018,3,FEET,67.2,DEGREES F,,
+05/18/2018,6,FEET,66.2,DEGREES F,,
+05/18/2018,9,FEET,63.8,DEGREES F,,
+06/20/2018,0,FEET,78.2,DEGREES F,,
+06/20/2018,3,FEET,77.7,DEGREES F,,
+06/20/2018,6,FEET,74.6,DEGREES F,,
+06/20/2018,9,FEET,73.5,DEGREES F,,
+07/30/2018,0,FEET,79.5,DEGREES F,,
+07/30/2018,3,FEET,78.2,DEGREES F,,
+07/30/2018,6,FEET,73.7,DEGREES F,,
+07/30/2018,9,FEET,71.9,DEGREES F,,
+08/25/2018,0,FEET,73.2,DEGREES F,,
+08/25/2018,3,FEET,72.6,DEGREES F,,
+08/25/2018,6,FEET,70.5,DEGREES F,,
+08/25/2018,9,FEET,69.2,DEGREES F,,
+05/26/2019,0,FEET,64.5,DEGREES F,,
+05/26/2019,3,FEET,61.5,DEGREES F,,
+05/26/2019,6,FEET,59.7,DEGREES F,,
+05/26/2019,9,FEET,59.1,DEGREES F,,
+06/22/2019,0,FEET,73.7,DEGREES F,,
+06/22/2019,3,FEET,73.4,DEGREES F,,
+06/22/2019,6,FEET,73.2,DEGREES F,,
+06/22/2019,9,FEET,64.2,DEGREES F,,
+07/30/2019,0,FEET,78.6,DEGREES F,,
+07/30/2019,3,FEET,77,DEGREES F,,
+07/30/2019,6,FEET,75,DEGREES F,,
+07/30/2019,9,FEET,73.7,DEGREES F,,
+08/20/2019,0,FEET,74,DEGREES F,,
+08/20/2019,3,FEET,73.5,DEGREES F,,
+08/20/2019,6,FEET,73.4,DEGREES F,,
+08/20/2019,9,FEET,73.4,DEGREES F,,
+06/28/2020,0,FEET,80.4,DEGREES F,,
+06/28/2020,3,FEET,79.5,DEGREES F,,
+06/28/2020,6,FEET,75.5,DEGREES F,,
+06/28/2020,9,FEET,72.5,DEGREES F,,
+08/05/2020,0,FEET,75.9,DEGREES F,,
+08/05/2020,3,FEET,75.3,DEGREES F,,
+08/05/2020,6,FEET,71.9,DEGREES F,,
+08/05/2020,9,FEET,71,DEGREES F,,
+08/30/2020,0,FEET,79.7,DEGREES F,,
+08/30/2020,3,FEET,77.7,DEGREES F,,
+08/30/2020,6,FEET,75.5,DEGREES F,,
+08/30/2020,9,FEET,75,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/11/1986,Lots of rain - lake seems murky    
+08/19/1986,Lake getting green.    
+09/08/1986,Staff gauge installed 8/28 at depth of 1.20.    
+10/13/1986,Highest level I've have ever seen for Pesabic Lake.    
+10/19/1986,Last test.    
+05/12/1987,Lake is lowest he's ever seen    
+06/09/1987,Clear- cool- and lake dropping slowly to lowest level in year.    
+06/25/1987,Partly cloudy- calm- lake continues to drop- and it rained some during the morning.    
+07/19/1987,Lake still going down.    
+09/11/1987,Cloudy- no more bloom- water level about 1" below mark.    
+10/17/1987,Algae blooms- lake is still going down in spite of recent rains.    
+06/10/1988,Weeds better than previous years.- water so low gage is out of water    
+07/04/1988,Clear- sunny- some areas that are usually weed covered are clear- weeds in spots- lake level too low to measure.    
+07/25/1988,Lake is very clear due to lack of runoff    
+08/31/1988,Weeds dying- gauge reset at 0.    
+10/04/1988,Last report.    
+10/26/1988,Ice on lake about 95% of surface- lake still going down.    
+05/07/1989,Ice out 4/28- nicest day so far.    
+06/06/1989,Lake up- clouded with run-off from rains.    
+06/17/1989,Recent rain has raised level somewhat- still low    
+07/12/1989,Lake level so low that can't get close to gauge- reading taken from distance.    
+07/27/1989,Lake dropping fast- a little above last year- weeds.    
+10/13/1989,Last report- took boat out due to low water.    
+05/13/1990,Clear- calm- lots of floating weeds    
+05/24/1990,About 6" rain recently- lots of floating weeds make visibility difficult    
+06/10/1990,Sunny- clear- grass clippings in lake- can't find source    
+06/20/1990,Sunny- warm- still weeds + grass clippings- fishing good    
+07/06/1990,Clear- sunny- calm- algae starting to bloom    
+07/30/1990,Clear- sunny- slight wind    
+08/27/1990,Not ideal conditions for reading    
+09/18/1990,Clear- little wind- weeds along shore turning brown    
+10/14/1990,Sunny- lt. wind- weeds dying    
+04/20/1991,Ice out: 4/7- level highest in 6 years.    
+05/15/1991,Water clear- few weeds- little swimming.    
+06/05/1991,No swimming    
+09/01/1991,Weeds are dying- not much swimming    
+10/03/1991,Cold- lake dropping dramatically    
+05/04/1992,Ice out 4/27/92.    
+06/14/1992,Sunny.    
+05/10/1993,Ice out 4/23/93- cloudy sky.    
+05/25/1993,Clear- sunshine- slight breeze- much clearer lake than before.    
+09/30/1994,Air temp is 63 degrees- sunny and light breeze.    
+05/31/1995,Winds are southwest and it is 83 degrees.    
+06/30/1998,Ice off April 5th- 1998- weather 86 degrees F- partly cloudy- and west/southwest wind.    
+07/31/1998,Good weather.    
+08/24/1998,LAKE SAMPLE    
+06/07/1999,Mid 80s- west winds- and 10-20 mph wind.    
+08/25/1999,Temperature is 76 degrees and southwest wind.    
+10/31/1999,Temperature in the 60s- beautiful Halloween.    
+05/16/2000,Ice off March 23- 2000.    
+08/30/2000,The temperature is 82 degrees F- water surface temperature is 73.4 degrees and bottom temperature is 72.5 degrees.    
+04/24/2001,MAX DEPTH    
+05/26/2001,The temperature is 78 degrees.  Ice off on 4/16/2001.    
+07/25/2001,DEEP HOLE- 6FT INTEGRATED SAMPLE    
+08/22/2001,The temperature is 84 degrees F.    
+06/25/2002,DEEP HOLE    
+08/31/2002,DEEP HOLE - 3FT VAN DORN SAMPLE    
+06/30/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/30/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE     
+09/03/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/27/2004,DEEP HOLE    
+09/01/2004,DEEP HOLE    
+09/30/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+09/07/2009,Lots of weed growth to the surface
+06/24/2012,After heavy rains
+05/27/2013,Late ice out- 04/29/2013
+High Water levels- lots of rain
+09/09/2017,Water very clear
+06/20/2018,6 inches of rain 6/13 - 6/17
+
+
+
+
+Start Date,Group Name,Project Name
+08/11/1986,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/19/1986,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/08/1986,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/07/1986,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/13/1986,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/19/1986,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/12/1987,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/09/1987,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/25/1987,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/19/1987,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/11/1987,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/17/1987,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/10/1988,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/04/1988,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/25/1988,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/31/1988,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/04/1988,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/26/1988,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/07/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/06/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/17/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/12/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/27/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/22/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/10/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/01/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/13/1989,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/13/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/24/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/10/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/20/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/06/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/27/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/18/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/14/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/30/1990,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/20/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/15/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/05/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/14/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/14/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/01/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/03/1991,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/04/1992,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/18/1992,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/14/1992,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/07/1992,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/10/1993,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/25/1993,Robert Knapstein,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/21/1994,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/25/1994,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/27/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/27/1994,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/28/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/28/1994,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/31/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/31/1994,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/30/1994,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/31/1995,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/30/1998,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/31/1998,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/24/1998,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/07/1999,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/25/1999,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/31/1999,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/16/2000,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/02/2000,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/29/2000,Data Collectors,General Surface Water Monitoring 1999-2001
+08/30/2000,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/24/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+05/26/2001,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/25/2001,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/22/2001,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/25/2002,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/31/2002,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/30/2003,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/2003,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/03/2003,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/27/2004,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/01/2004,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/30/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/17/2007,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/2007,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/27/2007,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+10/08/2007,Joe Weix,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/01/2008,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/18/2009,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/26/2009,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/31/2009,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/07/2009,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/28/2010,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/13/2010,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/14/2010,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/25/2010,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/23/2010,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/28/2011,Todd Hanke - Onterra- LLC,PESOBIC LAKE ASSOC: Pesobic Lake Management Planning Project- Phase 1
+05/23/2011,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/26/2011,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/31/2011,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/31/2011,Scott Voigt,PESOBIC LAKE ASSOC: Pesobic Lake Management Planning Project- Phase 1
+08/25/2011,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+11/10/2011,Todd Hanke - Onterra- LLC,PESOBIC LAKE ASSOC: Pesobic Lake Management Planning Project- Phase 1
+03/07/2012,Todd Hanke and Tim Hoyman - Onterra- LLC,PESOBIC LAKE ASSOC: Pesobic Lake Management Planning Project- Phase 1
+04/29/2012,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/24/2012,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/22/2012,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/31/2012,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/27/2013,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/19/2013,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/31/2013,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/25/2013,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/26/2014,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/21/2014,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/24/2014,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/31/2014,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/07/2014,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+04/28/2015,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/12/2015,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/13/2015,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/09/2015,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/30/2015,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/30/2016,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/23/2016,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/25/2016,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/28/2016,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/16/2017,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/2017,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+09/09/2017,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/18/2018,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/20/2018,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/2018,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/25/2018,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/26/2018,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+05/26/2019,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/22/2019,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+07/30/2019,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/20/2019,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/28/2020,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+06/29/2020,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/05/2020,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole
+08/30/2020,Scott Voigt,Citizen Lake Monitoring - Water Quality - Lake Pesobic; Deep Hole

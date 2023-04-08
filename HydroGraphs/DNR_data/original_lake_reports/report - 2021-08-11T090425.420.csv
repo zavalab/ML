@@ -1,0 +1,315 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Beaver Lake,Vilas,2960600,NO,64,,643192,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/21/1979,,,,26.73,19,,51,60,,,,,
+8190377,07/15/1990,6,NO,1.8,,,51,,,9 INCHES,9,,BROWN,2-Very minor aesthetic problems
+8190377,07/21/1990,6.5,NO,2,,,50,,,10.5 INCHES,10.5,,BROWN,4-Would not swim but boating OK (algae)
+8190377,07/31/1990,7,NO,2.1,,,49,,,10 INCHES,10,,BROWN,4-Would not swim but boating OK (algae)
+8190377,08/10/1990,6.5,NO,2,,,50,,,10 INCHES,10,,BROWN,4-Would not swim but boating OK (algae)
+8190377,08/26/1990,7.25,NO,2.2,,,49,,,10.5 INCHES,10.5,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,09/02/1990,6.25,NO,1.9,,,51,,,10 INCHES,10,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,09/16/1990,5.75,NO,1.7,,,52,,,15 INCHES,15,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,09/25/1990,6,NO,1.8,,,51,,,15.5 INCHES,15.5,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,05/30/1991,6,NO,1.8,,,51,,,12 INCHES,12,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,06/23/1991,6,NO,1.8,,,51,,,13 INCHES,13,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,07/21/1991,5.5,NO,1.7,,,53,,,13 INCHES,13,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190377,08/22/1991,4.5,NO,1.4,,,55,,,14 INCHES,14,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190213,08/20/1997,6,NO,1.8,,,51,,,,,,,
+8189307,08/24/1998,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189307,09/07/1998,3.5,NO,1.1,,,59,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189307,10/07/1998,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189947,07/23/2001,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189947,08/05/2001,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189947,08/22/2001,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189947,09/06/2001,5,NO,1.5,,,54,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189947,09/17/2001,5.5,NO,1.7,,,53,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189947,09/29/2001,5,NO,1.5,,,54,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189947,10/15/2001,5.5,NO,1.7,,,53,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189947,10/23/2001,5.25,NO,1.6,,,53,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191219,08/24/2003,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,
+8191219,06/06/2004,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,
+8191219,06/13/2004,6.83,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,
+8191219,07/10/2004,4.83,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,
+8191219,07/24/2004,5.08,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,
+8191219,08/09/2004,4.67,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,
+8191219,08/14/2004,5.83,NO,1.8,,,52,,,NORMAL,,MURKY,BROWN,
+8191219,08/22/2004,5.83,NO,1.8,,,52,,,NORMAL,,MURKY,BROWN,
+8191219,05/14/2005,10.5,NO,3.2,,,43,,,NORMAL,,,BROWN,
+8191219,05/21/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,
+8191219,05/30/2005,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,
+8191219,06/10/2005,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,
+8191219,06/18/2005,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,
+8191219,06/24/2005,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BROWN,
+8191219,07/09/2005,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,
+8191219,07/16/2005,,,,4.83,17,,50,47,,,,,
+8191219,07/17/2005,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,
+8191219,07/25/2005,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+1,05/07/2006,,,,,49,,58,,,,,,
+1,06/18/2006,,,,9.16,27,,54,52,,,,,
+1,07/24/2006,,,,14.9,27,,54,55,,,,,
+1,08/14/2006,,,,22.4,21,,52,58,,,,,
+1,11/12/2006,,,,9.07,29,,54,51,,,,,
+18897698,05/07/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,
+18897698,05/28/2007,7.5,,2.3,,,48,,,,,,,
+18897698,06/10/2007,7,NO,2.1,4.86,14,49,49,47,NORMAL,,CLEAR,BROWN,
+18897698,07/29/2007,12,NO,3.6,1.35,12,41,47,37,NORMAL,,CLEAR,BROWN,
+18897698,08/19/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,
+18897698,09/02/2007,9,NO,2.7,9.89,33,45,55,52,NORMAL,,CLEAR,BROWN,
+18897698,06/01/2008,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,
+18897698,06/21/2008,,,,7.01,27,,54,50,,,,,
+18897698,07/20/2008,7.5,NO,2.3,15.3,30,48,54,55,HIGH,,CLEAR,BROWN,
+18897698,09/01/2008,6.5,NO,2,14,23,50,52,55,NORMAL,,CLEAR,BROWN,
+18897698,11/01/2008,9,NO,2.7,9.74,15,45,49,52,NORMAL,,CLEAR,BROWN,
+18897698,06/20/2010,,,,3.64,17,,50,45,,,,,
+18897698,07/31/2010,,,,4.87,23,,52,47,,,,,
+18897698,08/22/2010,,,,,36,,56,,,,,,
+1,07/31/2018,4,N,1.2,,,57,,,,,,,
+34997658,07/31/2018,4,NO,1.2,,,57,,,,,,,
+1,05/11/2020,,,,,21.7,,52,,,,,,
+67689798,06/29/2020,6.25,NO,1.9,8.28,24.8,51,53,51,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67689798,08/23/2020,5,NO,1.5,35.8,37.5,54,56,62,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/21/1979,,,,,12.6,MG/L
+05/07/2007,1,FEET,59.9,DEGREES F,,
+05/07/2007,3,FEET,55.7,DEGREES F,,
+05/07/2007,6,FEET,53.9,DEGREES F,,
+05/07/2007,9,FEET,53,DEGREES F,,
+05/07/2007,10,FEET,52.8,DEGREES F,,
+05/07/2007,12,FEET,52.8,DEGREES F,,
+05/07/2007,15,FEET,52.5,DEGREES F,,
+05/28/2007,1,FEET,62,DEGREES F,,
+05/28/2007,2,FEET,61.7,DEGREES F,,
+05/28/2007,3,FEET,61.5,DEGREES F,,
+05/28/2007,4,FEET,61.5,DEGREES F,,
+05/28/2007,5,FEET,60,DEGREES F,,
+05/28/2007,6,FEET,60,DEGREES F,,
+05/28/2007,7,FEET,60.2,DEGREES F,,
+05/28/2007,8,FEET,59.5,DEGREES F,,
+05/28/2007,9,FEET,59,DEGREES F,,
+05/28/2007,10,FEET,59,DEGREES F,,
+05/28/2007,11,FEET,58,DEGREES F,,
+05/28/2007,12,FEET,58,DEGREES F,,
+05/28/2007,13,FEET,58,DEGREES F,,
+05/28/2007,14,FEET,58,DEGREES F,,
+05/28/2007,15,FEET,58,DEGREES F,,
+05/28/2007,16,FEET,58,DEGREES F,,
+06/10/2007,1,FEET,68,DEGREES F,,
+06/10/2007,2,FEET,67,DEGREES F,,
+06/10/2007,3,FEET,66.5,DEGREES F,,
+06/10/2007,4,FEET,66,DEGREES F,,
+06/10/2007,5,FEET,65.5,DEGREES F,,
+06/10/2007,6,FEET,65.4,DEGREES F,,
+06/10/2007,7,FEET,65.1,DEGREES F,,
+06/10/2007,8,FEET,65.1,DEGREES F,,
+06/10/2007,9,FEET,64.4,DEGREES F,,
+06/10/2007,10,FEET,63.6,DEGREES F,,
+06/10/2007,11,FEET,61.1,DEGREES F,,
+06/10/2007,12,FEET,59,DEGREES F,,
+06/10/2007,13,FEET,56.4,DEGREES F,,
+06/10/2007,14,FEET,54.4,DEGREES F,,
+06/10/2007,15,FEET,52.3,DEGREES F,,
+06/10/2007,16,FEET,51,DEGREES F,,
+07/29/2007,1,FEET,80.5,DEGREES F,,
+07/29/2007,3,FEET,79.1,DEGREES F,,
+07/29/2007,6,FEET,78,DEGREES F,,
+07/29/2007,9,FEET,72.6,DEGREES F,,
+07/29/2007,10,FEET,70,DEGREES F,,
+07/29/2007,12,FEET,68,DEGREES F,,
+07/29/2007,15,FEET,60.9,DEGREES F,,
+08/19/2007,1,FEET,68,DEGREES F,,
+08/19/2007,3,FEET,68,DEGREES F,,
+08/19/2007,6,FEET,68,DEGREES F,,
+08/19/2007,9,FEET,68,DEGREES F,,
+08/19/2007,10,FEET,68,DEGREES F,,
+08/19/2007,12,FEET,68,DEGREES F,,
+08/19/2007,15,FEET,67.6,DEGREES F,,
+09/02/2007,1,FEET,70.5,DEGREES F,,
+09/02/2007,3,FEET,69.8,DEGREES F,,
+09/02/2007,6,FEET,69.2,DEGREES F,,
+09/02/2007,9,FEET,68.9,DEGREES F,,
+09/02/2007,10,FEET,68.9,DEGREES F,,
+09/02/2007,12,FEET,67.1,DEGREES F,,
+09/02/2007,15,FEET,64.4,DEGREES F,,
+06/01/2008,3,FEET,698.8,DEGREES F,,
+06/01/2008,5,FEET,68.9,DEGREES F,,
+06/01/2008,6,FEET,68,DEGREES F,,
+06/01/2008,7,FEET,65.4,DEGREES F,,
+06/01/2008,8,FEET,64.2,DEGREES F,,
+06/01/2008,9,FEET,66,DEGREES F,,
+06/01/2008,11,FEET,61.5,DEGREES F,,
+06/01/2008,13,FEET,62.5,DEGREES F,,
+06/01/2008,14,FEET,58.1,DEGREES F,,
+06/01/2008,15,FEET,56.2,DEGREES F,,
+07/20/2008,1,FEET,76.5,DEGREES F,,
+07/20/2008,2,FEET,75.5,DEGREES F,,
+07/20/2008,3,FEET,75.2,DEGREES F,,
+07/20/2008,4,FEET,74.4,DEGREES F,,
+07/20/2008,5,FEET,72.8,DEGREES F,,
+07/20/2008,6,FEET,71.6,DEGREES F,,
+07/20/2008,7,FEET,71.2,DEGREES F,,
+07/20/2008,8,FEET,69.2,DEGREES F,,
+07/20/2008,9,FEET,68,DEGREES F,,
+07/20/2008,10,FEET,68,DEGREES F,,
+07/20/2008,11,FEET,66.2,DEGREES F,,
+07/20/2008,12,FEET,66,DEGREES F,,
+07/20/2008,13,FEET,64.2,DEGREES F,,
+07/20/2008,14,FEET,62,DEGREES F,,
+07/20/2008,15,FEET,60.5,DEGREES F,,
+09/01/2008,2,FEET,73,DEGREES F,,
+09/01/2008,3,FEET,72.6,DEGREES F,,
+09/01/2008,4,FEET,72.5,DEGREES F,,
+09/01/2008,5,FEET,72.5,DEGREES F,,
+09/01/2008,6,FEET,71.9,DEGREES F,,
+09/01/2008,7,FEET,71.4,DEGREES F,,
+09/01/2008,8,FEET,70.5,DEGREES F,,
+09/01/2008,9,FEET,69.6,DEGREES F,,
+09/01/2008,10,FEET,68.5,DEGREES F,,
+09/01/2008,11,FEET,68.3,DEGREES F,,
+09/01/2008,12,FEET,68,DEGREES F,,
+09/01/2008,13,FEET,67,DEGREES F,,
+09/01/2008,14,FEET,67,DEGREES F,,
+11/01/2008,1,FEET,45,DEGREES F,,
+11/01/2008,2,FEET,43.8,DEGREES F,,
+11/01/2008,4,FEET,43.5,DEGREES F,,
+11/01/2008,5,FEET,43.1,DEGREES F,,
+11/01/2008,6,FEET,42.9,DEGREES F,,
+11/01/2008,7,FEET,42.8,DEGREES F,,
+07/31/2018,0,METERS,25.5,DEGREES C,8.52,MG/L
+07/31/2018,1,METERS,23.9,DEGREES C,8.37,MG/L
+07/31/2018,2,METERS,21.9,DEGREES C,6.55,MG/L
+07/31/2018,3,METERS,19,DEGREES C,.38,MG/L
+07/31/2018,4,METERS,14,DEGREES C,.24,MG/L
+07/31/2018,5,METERS,11.8,DEGREES C,.08,MG/L
+07/31/2018,,,25.5,C,8.25,MG/L
+08/23/2020,3,FEET,74.5,DEGREES F,,
+08/23/2020,6,FEET,73.7,DEGREES F,,
+08/23/2020,9,FEET,71.4,DEGREES F,,
+08/23/2020,12,FEET,62,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/21/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/24/1998,4 inches low.  Drought conditions most of the summer.    
+09/07/1998,4 inches low.  Partly cloudy wind from the NW.    
+10/07/1998,2 inches low.  10 days ago algae present in lake and halfway through the narrows.  Mccullough Lake was clear.    
+07/23/2001,Sunny- wind 3 mph.    
+08/05/2001,Sunny- wind 5 mph.    
+08/22/2001,Sunny- wind 5 mph.  Algae in water.    
+09/06/2001,Partly sunny.  Wind 5 mph.    
+09/17/2001,Cloudy- wind calm.    
+09/29/2001,Sunny.  Calm.    
+10/15/2001,10 mph.    
+10/23/2001,Rain- calm.    
+06/06/2004,Sunny- no wind.  Water temp. 64 F.  Lake depth 16'.  Water normal.  Spring rains.    
+06/13/2004,Water temp 72 F.  Pollen from pine trees.  Sunny.    
+07/10/2004,Water temp 68 F.  Lake in bloom.  Air temp. 72 F.  Sunny- no wind.    
+07/24/2004,Water temp. 77 F.  Air 76 F.  Bloom strongest in 4 years.  Heavy weed growth.  Satellite path 24.    
+08/09/2004,Satellite 24.  Partly cloudy- water temp. 72 F.  Air temp. 74 F.  Lake in heavy bloom.    
+08/14/2004,Air temp 62 F.  Water temp 66 F.  Lake bloom dissipating.  Lake down a little.  Satellite path 25.    
+08/22/2004,Air temp. 74 F.  Water 64 F.  Less lake bloom.  Windy.    
+05/14/2005,Air 55 F- water 62 F.  Very clear- very calm.
+05/21/2005,Light overcast- air 72 F- water 60 F.  Water level normal.
+05/30/2005,Air temp 66 F- water temp 64 F- creek running after rain- particles suspended in water.
+06/10/2005,Air 84 F- water 77 F.  Very clear water.  A little algae.  Rain this week.
+06/18/2005,Air 84 F- water 74 F.  Water 3" high.  Very clear - slight wind.
+06/24/2005,Air 80 F- water 75 F.  Water level normal- down 3"- no wind.
+07/09/2005,Air 90 F- humid.  Water 82 F.  Light wind.  Water very clear.  Partly cloudy.
+07/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/17/2005,Air 84 F- water 82 F.  Very clear - good weed growth.  Water down 2-3".
+07/25/2005,Air 84 F- water 72 F.  Had heavy rain 7/23.  No major runoff into lake.
+05/07/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/18/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/24/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/14/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+11/12/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+05/07/2007,Sunny- air 68 F.  Water level down about 4" from ice out.  Lake depth 16'.
+05/28/2007,7.5 ft visibility. 
+06/10/2007,71 F air temp.  Visiblity 7 ft.  Sunny- calm.  Water level normal.  65 F water.
+07/29/2007,Sunny- light breeze.  Water is down 6".  Water is the clearest we have seen.
+08/19/2007,Slightly cloudy.  Water very clear.  No bloom all summer.  Air temp 64 F.
+09/02/2007,Sunny- calm.  Air 74 F.  Water is getting warmer.
+06/01/2008,Air temp 72F- surface 69.8. Water color more normal after spring runoff
+07/20/2008,Air temp 82.3F. Water color much clearer after all the rain last month.
+11/01/2008,Water very clear
+
+
+
+
+Start Date,Group Name,Project Name
+08/21/1979,Data Collectors,Migrated from STORET Legacy
+07/15/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/21/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/31/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/10/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/26/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/02/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/16/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/25/1990,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/30/1991,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/23/1991,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/21/1991,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/22/1991,Theodore Lochmann,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/20/1997,Inge Grosso,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/24/1998,Arne Torkelson,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/07/1998,Arne Torkelson,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+10/07/1998,Arne Torkelson,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/23/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/05/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/22/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/06/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/17/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/29/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+10/15/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+10/23/2001,Gary Geurts,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/24/2003,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/06/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/13/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/10/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/24/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/09/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/14/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/22/2004,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/14/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/21/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/30/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/10/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/18/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/24/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/09/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/16/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/17/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/25/2005,Gary Geurts and Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/07/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/18/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/24/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/14/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+11/12/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/07/2007,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+05/28/2007,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/10/2007,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/29/2007,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/19/2007,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/02/2007,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/01/2008,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/21/2008,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/20/2008,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+09/01/2008,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+11/01/2008,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/20/2010,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/31/2010,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/22/2010,Andy Janik,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+07/31/2018,Angie Stine,TOWN OF PRESQUE ISLE: Wilderness Waters: McCullough- Morton- Dunn + Beaver Lakes
+07/31/2018,Data Collectors,TOWN OF PRESQUE ISLE: Wilderness Waters: McCullough- Morton- Dunn + Beaver Lakes
+05/11/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+06/29/2020,Jack Klein,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole
+08/23/2020,Jack Klein,Citizen Lake Monitoring - Water Quality - Beaver Lake; Deep Hole

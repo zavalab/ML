@@ -1,0 +1,561 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Moss Lake,Vilas,2322500,NO,64,,643487,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190148,05/01/1998,12.25,NO,3.7,,,41,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,05/11/1998,16.25,NO,4.9,,12,37,47,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/08/1998,10.75,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/17/1998,13.25,NO,4,,,40,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190148,06/30/1998,14,NO,4.3,2.88,10,39,46,43,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190148,07/17/1998,12.5,NO,3.8,,,41,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190148,07/21/1998,12.5,NO,3.8,3.94,13,41,48,45,NO CHANGE,,MURKY,,2-Very minor aesthetic problems
+8190148,07/31/1998,10,NO,3,,,44,,,NO CHANGE,,MURKY,,2-Very minor aesthetic problems
+8190148,08/20/1998,10.25,NO,3.1,4.27,13,44,48,46,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,09/08/1998,8.75,NO,2.7,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,09/28/1998,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190148,10/08/1998,7.25,NO,2.2,,,49,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,10/20/1998,8.25,NO,2.5,11,21,47,52,53,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,06/29/1999,12,NO,3.6,,,41,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190148,07/10/1999,11.25,NO,3.4,,,42,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190148,07/26/1999,13.5,NO,4.1,2.15,14,40,49,41,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190148,08/14/1999,11,NO,3.3,,,43,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190148,08/25/1999,14.5,NO,4.4,4,14,39,49,45,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190148,09/06/1999,13.25,NO,4,,,40,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,09/16/1999,10.25,NO,3.1,,,44,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,06/25/2000,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190148,07/19/2000,11.75,NO,3.6,3,8,42,44,43,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,08/10/2000,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,09/25/2000,9.75,NO,3,8,20,44,51,51,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,05/06/2001,8,NO,2.4,6,,47,,48,,,,,
+8190148,06/22/2001,13.25,NO,4,,,40,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/28/2001,11,NO,3.3,2.1,16,43,50,40,,,,,
+8190148,06/30/2001,12.5,NO,3.8,1.4,12,41,47,37,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,07/08/2001,14.25,NO,4.3,,,39,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/23/2001,9,NO,2.7,2.9,11,45,47,43,,,,,
+8190148,08/07/2001,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,08/20/2001,13.75,NO,4.2,,,39,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/26/2001,13,NO,4,3.7,9,40,45,45,,,,,
+8190148,08/26/2001,13.75,NO,4.2,3,12,39,47,43,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,10/01/2001,12.25,NO,3.7,6,14,41,49,48,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190148,07/03/2002,14.75,NO,4.5,,,38,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,07/08/2002,14.75,NO,4.5,2.38,10,38,46,41,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,07/13/2002,12.75,NO,3.9,,,40,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,08/09/2002,13.25,NO,4,,,40,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,08/25/2002,,,,2.15,16,,50,41,,,,,
+8190148,10/05/2002,11.5,NO,3.5,13.7,23,42,52,55,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190148,08/01/2003,11.25,NO,3.4,,,42,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190148,08/17/2003,12.5,NO,3.8,2.66,12,41,47,42,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37045197,08/09/2010,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,08/19/2010,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,08/25/2010,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37045197,09/01/2010,13,NO,4,,,40,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+18137125,06/13/2011,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137125,06/25/2011,10.8,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,07/28/2011,13.8,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,08/04/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,08/10/2011,12.3,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,08/20/2011,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,09/02/2011,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137125,09/19/2011,9.7,NO,2.9,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,07/09/2012,12.5,NO,3.8,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,07/16/2012,12.5,NO,3.8,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,07/23/2012,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,06/14/2013,17,NO,5.2,,,36,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37045197,06/30/2013,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,07/08/2013,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,07/14/2013,11.5,NO,3.5,,,42,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+37045197,07/16/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,
+37045197,07/22/2013,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,08/25/2013,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,09/05/2013,11.5,NO,3.5,5.13,15.1,42,49,47,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+84078288,05/17/2014,,,,,23.5,,53,,,,,,
+37045197,06/29/2014,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,07/07/2014,10.5,NO,3.2,4.58,12.6,43,48,46,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,07/29/2014,11,NO,3.3,5.72,15.9,43,50,48,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,09/02/2014,,,,3.38,22.1,,52,44,,,,,
+37045197,09/02/2014,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,06/29/2015,13.5,NO,4.1,5.06,16.6,40,50,47,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,07/22/2015,,,,2.46,14.9,,49,42,,,,,
+37045197,08/17/2015,,,,3.02,17.8,,50,43,,,,,
+84078382,08/17/2015,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,06/22/2016,9,NO,2.7,5.7,25.9,45,53,48,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,07/08/2016,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,07/24/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,07/25/2016,14.5,NO,4.4,2.58,13.3,39,48,42,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,08/10/2016,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,08/17/2016,12.2,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,08/25/2016,12.2,NO,3.7,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,08/30/2016,11.2,NO,3.4,3.96,11.6,42,47,45,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,09/03/2016,12.3,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+37045197,07/03/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+37045197,07/11/2017,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,07/20/2017,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,07/24/2017,5,NO,1.5,15.1,18.7,54,51,55,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+37045197,08/05/2017,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+37045197,08/08/2017,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/15/2017,9.25,NO,2.8,,,45,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/19/2017,11.5,NO,3.5,,,42,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/21/2017,,,,3.55,17.1,,50,44,,,,,
+37045197,08/22/2017,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/29/2017,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+147809600,05/21/2018,,,,,15.8,,50,,,,,,
+37045197,06/25/2019,30,NO,9.1,3.35,17.7,28,50,44,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,07/23/2019,30,,9.1,4.39,14.2,28,49,46,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+37045197,07/30/2019,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/02/2019,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/24/2019,9,NO,2.7,,,45,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+37045197,08/29/2019,9.5,NO,2.9,9,20,45,51,51,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,03/17/2020,9.5,NO,2.9,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+37045197,08/06/2020,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+37045197,08/27/2020,11.5,NO,3.5,,,42,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/11/1998,10,FEET,64,DEGREES F,,
+05/11/1998,20,FEET,52,DEGREES F,,
+05/11/1998,30,FEET,48,DEGREES F,,
+06/30/1998,10,FEET,74,DEGREES F,,
+06/30/1998,20,FEET,60,DEGREES F,,
+06/30/1998,30,FEET,51,DEGREES F,,
+07/21/1998,3,FEET,77,DEGREES F,,
+07/21/1998,10,FEET,77,DEGREES F,,
+07/21/1998,20,FEET,63,DEGREES F,,
+07/21/1998,30,FEET,54,DEGREES F,,
+08/20/1998,3,FEET,74,DEGREES F,,
+08/20/1998,10,FEET,73,DEGREES F,,
+08/20/1998,20,FEET,65,DEGREES F,,
+08/20/1998,28,FEET,55,DEGREES F,,
+10/20/1998,3,FEET,50,DEGREES F,,
+10/20/1998,10,FEET,50,DEGREES F,,
+10/20/1998,20,FEET,50,DEGREES F,,
+10/20/1998,28,FEET,50,DEGREES F,,
+06/29/1999,3,FEET,71,DEGREES F,,
+06/29/1999,10,FEET,70,DEGREES F,,
+06/29/1999,20,FEET,58,DEGREES F,,
+06/29/1999,30,FEET,58,DEGREES F,,
+07/26/1999,3,FEET,81,DEGREES F,,
+07/26/1999,10,FEET,70,DEGREES F,,
+07/26/1999,20,FEET,60,DEGREES F,,
+07/26/1999,30,FEET,52,DEGREES F,,
+08/25/1999,3,FEET,73,DEGREES F,,
+08/25/1999,10,FEET,71,DEGREES F,,
+08/25/1999,20,FEET,64,DEGREES F,,
+08/25/1999,30,FEET,54,DEGREES F,,
+07/19/2000,3,FEET,72,DEGREES F,,
+07/19/2000,10,FEET,71,DEGREES F,,
+07/19/2000,20,FEET,62,DEGREES F,,
+07/19/2000,30,FEET,51,DEGREES F,,
+09/25/2000,3,FEET,59,DEGREES F,,
+09/25/2000,10,FEET,58,DEGREES F,,
+09/25/2000,20,FEET,57,DEGREES F,,
+09/25/2000,30,FEET,56,DEGREES F,,
+05/06/2001,,,13.7,C,9.7,MG/L
+06/28/2001,,,10.0,C,4.23,MG/L
+06/30/2001,3,FEET,77,DEGREES F,,
+06/30/2001,10,FEET,73,DEGREES F,,
+06/30/2001,20,FEET,61,DEGREES F,,
+06/30/2001,30,FEET,48,DEGREES F,,
+07/23/2001,,,10.2,C,0.72,MG/L
+08/26/2001,3,FEET,73,DEGREES F,,
+08/26/2001,10,FEET,72,DEGREES F,,
+08/26/2001,20,FEET,64,DEGREES F,,
+08/26/2001,30,FEET,53,DEGREES F,,
+08/26/2001,,,11.6,C,0.0,MG/L
+10/01/2001,3,FEET,58,DEGREES F,,
+10/01/2001,10,FEET,58,DEGREES F,,
+10/01/2001,20,FEET,58,DEGREES F,,
+10/01/2001,30,FEET,57,DEGREES F,,
+07/08/2002,5,FEET,79,DEGREES F,,
+08/17/2003,5,FEET,78,DEGREES F,,
+08/17/2003,10,FEET,75,DEGREES F,,
+08/17/2003,20,FEET,58.8,DEGREES F,,
+08/17/2003,30,FEET,51.2,DEGREES F,,
+09/05/2013,1,FEET,72.8,DEGREES F,,
+09/05/2013,3,FEET,71.2,DEGREES F,,
+09/05/2013,6,FEET,69.8,DEGREES F,,
+09/05/2013,12,FEET,68.7,DEGREES F,,
+09/05/2013,15,FEET,62.9,DEGREES F,,
+09/05/2013,18,FEET,57.5,DEGREES F,,
+09/05/2013,21,FEET,52.5,DEGREES F,,
+09/05/2013,24,FEET,49.8,DEGREES F,,
+09/05/2013,27,FEET,48.2,DEGREES F,,
+09/05/2013,30,FEET,47.6,DEGREES F,,
+05/17/2014,3,FEET,51.8,DEGREES F,,
+05/17/2014,6,FEET,51.6,DEGREES F,,
+05/17/2014,9,FEET,51.2,DEGREES F,,
+05/17/2014,12,FEET,49.8,DEGREES F,,
+05/17/2014,15,FEET,49.4,DEGREES F,,
+05/17/2014,18,FEET,48.2,DEGREES F,,
+05/17/2014,21,FEET,46.4,DEGREES F,,
+05/17/2014,24,FEET,45.6,DEGREES F,,
+05/17/2014,27,FEET,45.5,DEGREES F,,
+05/17/2014,29,FEET,45.5,DEGREES F,,
+07/07/2014,1,FEET,74.1,DEGREES F,,
+07/07/2014,3,FEET,72.6,DEGREES F,,
+07/07/2014,6,FEET,72.5,DEGREES F,,
+07/07/2014,9,FEET,72.4,DEGREES F,,
+07/07/2014,12,FEET,68,DEGREES F,,
+07/07/2014,15,FEET,55.2,DEGREES F,,
+07/07/2014,18,FEET,49.2,DEGREES F,,
+07/07/2014,21,FEET,45.8,DEGREES F,,
+07/07/2014,24,FEET,44,DEGREES F,,
+07/07/2014,27,FEET,43.8,DEGREES F,,
+07/07/2014,30,FEET,43.5,DEGREES F,,
+07/29/2014,1,FEET,70.8,DEGREES F,,
+07/29/2014,3,FEET,70.3,DEGREES F,,
+07/29/2014,6,FEET,69.9,DEGREES F,,
+07/29/2014,9,FEET,69.8,DEGREES F,,
+07/29/2014,12,FEET,69.2,DEGREES F,,
+07/29/2014,15,FEET,59.1,DEGREES F,,
+07/29/2014,18,FEET,51,DEGREES F,,
+07/29/2014,21,FEET,46.7,DEGREES F,,
+07/29/2014,24,FEET,44.9,DEGREES F,,
+07/29/2014,27,FEET,44.4,DEGREES F,,
+07/29/2014,30,FEET,44,DEGREES F,,
+09/02/2014,1,FEET,70.1,DEGREES F,7.92,MG/L
+09/02/2014,3,FEET,70.2,DEGREES F,7.9,MG/L
+09/02/2014,6,FEET,70,DEGREES F,7.87,MG/L
+09/02/2014,9,FEET,69.6,DEGREES F,7.9,MG/L
+09/02/2014,12,FEET,69.2,DEGREES F,7.86,MG/L
+09/02/2014,15,FEET,64.5,DEGREES F,.84,MG/L
+09/02/2014,18,FEET,55.8,DEGREES F,.33,MG/L
+09/02/2014,21,FEET,49.6,DEGREES F,.23,MG/L
+09/02/2014,24,FEET,47,DEGREES F,.4,MG/L
+09/02/2014,27,FEET,45.9,DEGREES F,.01,MG/L
+09/02/2014,30,FEET,44.9,DEGREES F,0,MG/L
+06/29/2015,3,FEET,73.7,DEGREES F,,
+06/29/2015,6,FEET,73.2,DEGREES F,,
+06/29/2015,9,FEET,71.2,DEGREES F,,
+06/29/2015,12,FEET,67.4,DEGREES F,,
+06/29/2015,15,FEET,60.9,DEGREES F,,
+06/29/2015,18,FEET,53.6,DEGREES F,,
+06/29/2015,21,FEET,50.7,DEGREES F,,
+06/29/2015,24,FEET,48.7,DEGREES F,,
+06/29/2015,27,FEET,48.2,DEGREES F,,
+06/29/2015,30,FEET,47.4,DEGREES F,,
+08/17/2015,3,FEET,76.2,DEGREES F,,
+08/17/2015,6,FEET,76.4,DEGREES F,,
+08/17/2015,9,FEET,74.8,DEGREES F,,
+08/17/2015,12,FEET,72.3,DEGREES F,,
+08/17/2015,15,FEET,69.6,DEGREES F,,
+08/17/2015,18,FEET,62.4,DEGREES F,,
+08/17/2015,21,FEET,54.5,DEGREES F,,
+08/17/2015,24,FEET,50.6,DEGREES F,,
+08/17/2015,27,FEET,49.4,DEGREES F,,
+08/17/2015,30,FEET,48.7,DEGREES F,,
+06/22/2016,3,FEET,74.4,DEGREES F,,
+06/22/2016,6,FEET,72.8,DEGREES F,,
+06/22/2016,9,FEET,71.7,DEGREES F,,
+06/22/2016,12,FEET,63.6,DEGREES F,,
+06/22/2016,15,FEET,56.8,DEGREES F,,
+06/22/2016,18,FEET,53,DEGREES F,,
+06/22/2016,21,FEET,50.3,DEGREES F,,
+06/22/2016,24,FEET,48,DEGREES F,,
+06/22/2016,27,FEET,47.3,DEGREES F,,
+06/22/2016,30,FEET,46.9,DEGREES F,,
+07/25/2016,3,FEET,79.1,DEGREES F,,
+07/25/2016,6,FEET,78.1,DEGREES F,,
+07/25/2016,9,FEET,77.3,DEGREES F,,
+07/25/2016,12,FEET,71.9,DEGREES F,,
+07/25/2016,15,FEET,63.5,DEGREES F,,
+07/25/2016,18,FEET,55.7,DEGREES F,,
+07/25/2016,21,FEET,51.8,DEGREES F,,
+07/25/2016,24,FEET,49.1,DEGREES F,,
+07/25/2016,27,FEET,48.3,DEGREES F,,
+07/25/2016,30,FEET,47.7,DEGREES F,,
+07/11/2017,3,FEET,75.3,DEGREES F,,
+07/11/2017,6,FEET,73.7,DEGREES F,,
+07/11/2017,9,FEET,71,DEGREES F,,
+07/11/2017,12,FEET,66.7,DEGREES F,,
+07/11/2017,15,FEET,61.8,DEGREES F,,
+07/11/2017,18,FEET,54.6,DEGREES F,,
+07/11/2017,21,FEET,51.4,DEGREES F,,
+07/11/2017,24,FEET,49.8,DEGREES F,,
+07/11/2017,27,FEET,49.23,DEGREES F,,
+07/11/2017,30,FEET,48.7,DEGREES F,,
+07/24/2017,3,FEET,75,DEGREES F,,
+07/24/2017,6,FEET,74.1,DEGREES F,,
+07/24/2017,9,FEET,72.6,DEGREES F,,
+07/24/2017,12,FEET,66.5,DEGREES F,,
+07/24/2017,15,FEET,61.8,DEGREES F,,
+07/24/2017,18,FEET,54.8,DEGREES F,,
+07/24/2017,21,FEET,51,DEGREES F,,
+07/24/2017,24,FEET,50,DEGREES F,,
+07/24/2017,27,FEET,47.4,DEGREES F,,
+07/24/2017,30,FEET,48.9,DEGREES F,,
+08/08/2017,3,FEET,,,8.28,MG/L
+08/08/2017,6,FEET,,,8.22,MG/L
+08/08/2017,9,FEET,,,8.13,MG/L
+08/08/2017,12,FEET,,,7.29,MG/L
+08/08/2017,15,FEET,,,.75,MG/L
+08/08/2017,18,FEET,,,.5,MG/L
+08/08/2017,21,FEET,,,.14,MG/L
+08/08/2017,24,FEET,,,.09,MG/L
+08/08/2017,27,FEET,,,.08,MG/L
+08/08/2017,30,FEET,,,.07,MG/L
+08/29/2017,3,FEET,68.9,DEGREES F,8.11,MG/L
+08/29/2017,6,FEET,67.8,DEGREES F,8.25,MG/L
+08/29/2017,9,FEET,66.7,DEGREES F,8.17,MG/L
+08/29/2017,12,FEET,66.5,DEGREES F,7.97,MG/L
+08/29/2017,15,FEET,66,DEGREES F,6.17,MG/L
+08/29/2017,18,FEET,60,DEGREES F,.5,MG/L
+08/29/2017,21,FEET,52.7,DEGREES F,.2,MG/L
+08/29/2017,24,FEET,50.5,DEGREES F,.11,MG/L
+08/29/2017,27,FEET,49.8,DEGREES F,.07,MG/L
+08/29/2017,30,FEET,49.4,DEGREES F,.06,MG/L
+06/25/2019,3,FEET,69.8,DEGREES F,,
+06/25/2019,6,FEET,69.6,DEGREES F,,
+06/25/2019,9,FEET,69.4,DEGREES F,,
+06/25/2019,12,FEET,69.2,DEGREES F,,
+06/25/2019,15,FEET,59,DEGREES F,,
+06/25/2019,18,FEET,54.8,DEGREES F,,
+06/25/2019,21,FEET,48.7,DEGREES F,,
+06/25/2019,24,FEET,46.4,DEGREES F,,
+06/25/2019,27,FEET,45.6,DEGREES F,,
+06/25/2019,30,FEET,44.9,DEGREES F,,
+07/23/2019,3,FEET,75.7,DEGREES F,,
+07/23/2019,6,FEET,75.2,DEGREES F,,
+07/23/2019,9,FEET,75,DEGREES F,,
+07/23/2019,12,FEET,73.4,DEGREES F,,
+07/23/2019,15,FEET,61.1,DEGREES F,,
+07/23/2019,18,FEET,55.2,DEGREES F,,
+07/23/2019,21,FEET,50.7,DEGREES F,,
+07/23/2019,24,FEET,47.6,DEGREES F,,
+07/23/2019,27,FEET,46.7,DEGREES F,,
+07/23/2019,30,FEET,46.7,DEGREES F,,
+07/30/2019,3,FEET,,,7.4,MG/L
+07/30/2019,6,FEET,,,7.38,MG/L
+07/30/2019,9,FEET,,,7.31,MG/L
+07/30/2019,12,FEET,,,7.32,MG/L
+07/30/2019,15,FEET,,,1.01,MG/L
+07/30/2019,18,FEET,,,.17,MG/L
+07/30/2019,21,FEET,,,.06,MG/L
+07/30/2019,24,FEET,,,.03,MG/L
+07/30/2019,27,FEET,,,.02,MG/L
+07/30/2019,30,FEET,,,0,MG/L
+08/29/2019,3,FEET,66,DEGREES F,6.76,MG/L
+08/29/2019,6,FEET,65.6,DEGREES F,6.84,MG/L
+08/29/2019,9,FEET,65.4,DEGREES F,6.85,MG/L
+08/29/2019,12,FEET,65.4,DEGREES F,6.89,MG/L
+08/29/2019,15,FEET,65.3,DEGREES F,6.89,MG/L
+08/29/2019,18,FEET,58.8,DEGREES F,.62,MG/L
+08/29/2019,21,FEET,51.8,DEGREES F,.15,MG/L
+08/29/2019,24,FEET,49.4,DEGREES F,.1,MG/L
+08/29/2019,27,FEET,48.2,DEGREES F,.06,MG/L
+08/29/2019,30,FEET,47.4,DEGREES F,.04,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/11/1998,LAKE SAMPLE    
+06/30/1998,LAKE SAMPLE    
+07/21/1998,LAKE SAMPLE    
+08/20/1998,LAKE SAMPLE    
+10/20/1998,LAKE SAMPLE    
+09/16/1999,Last observation for the season.    
+05/06/2001,DEEP HOLE    
+06/28/2001,DEEP HOLE    
+06/30/2001,DEEP HOLE    
+07/23/2001,DEEP HOLE    
+08/26/2001,DEEP HOLE    
+10/01/2001,DEEP HOLE    
+07/03/2002,Pollen floating    
+07/08/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/09/2002,SLIGHTLY HAZY SKY- RIPPLES ON WATER
+
+    
+08/25/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/05/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/17/2003,Hazy sky and ripples on water.    
+08/09/2010,Sunny day- air temperature  low 80's.  Water flat calm.  No boat traffic.  2-1/2 inches of rain 30 hours prior to testing.  Lake water levels appeared to be at normal levels.
+
+Marked increase in the last several weeks- of emergent vegetation of numerous types along the south and east shores of the eastern half of the lake - more than observed in 20+ years.  
+
+Three loons observed on the lake all day.  They stayed in a very tight group and would rarely dive. One loon had rusty-colored breast feathers as opposed to the normal white- like the other two.  
+
+Four eagles were seen perched close together in the top on the same pine tree on the southeast shoreline- all with adult plumage.  It may be the family group from a nest a short distance inland on the same shore.  It may be that the juveniles that have been in that area for several years finally have gotten their adult feathers.
+08/19/2010,Sunny- water calm -slight ripple. Air temp 75 deg -water surface temp 72 deg.  Rare boat traffic. Windy previous day w/ 1/2" rain. Observed 1 Loon- 1 Blue Heron- 6 Turkey Vultures- 2 adult Eagles- 2 immature Eagles- one group of 73 Mallards- and another group with 1 adult female and 13 pre-flight adolescents.
+Saw several floating mats of vegetation about 20-30 ft in diameter and 3+ ft thick- primarily coontail- possibly uprooted as some plants on the surface had roots visible.  One bay on south side of the lake had widespread and continual gas bubble release from the weeds on the bottom- with no disturbance to initiate.
+08/25/2010,Sunny- water light ripple- surface temp 68 deg. Winds N 15mph- no boat traffic.  Observed 3 gulls- 1 Blue Heron- 2 groups of mallards totaling 53- about 1/2 appeared to be larger juveniles.  All birds sighted on north shorelines.  From the water- sighted about 4 small concentrations of flowering purple loosestrife sighted on the E side of the lake on the SE shoreline. Eliminated 1 accessible group.
+09/01/2010,Sunny- water minor ripple- wind NE @ 5mph. Air temp 71- surface water temp 74.  Rare boat traffic. Quite a bit of suspended green particulate matter making the overall appearance of the water somewhat murky- however the particle size was fairly large- and they were far enough apart that depth visibility was surprisingly good. Encountered more scattered floating mats of green coontail.  Observed 2 gulls- 1 heron- 115 mallards- and 1 juvenile eagle.  All were on the west side of the lake- primarily on the south shore.  
+06/13/2011,Sky clear- few clouds. 70 degrees F
+06/25/2011,Almost calm - few clouds.  Pine pollen covering lake surface.
+07/28/2011,Air temp 76 F- water temp 77.  Sunny with numerous clouds. Wind W 5 mph.  Water calm with slight ripple. No boat traffic.  Windy and raining all of the previous day.  Rain totaled about 1".  Numerous songbirds sighted including one female bluebird.  One osprey sighted and several groups of mallards including two groups of adolescents.  All of the shallow bays and shorelines have increased the area having emergent weeds from prior years- continuing a trend noticed over a number of years.  Pondweed has also noticeably increased along the shorelines in the same areas.  White water lilies are blooming.
+08/04/2011,Bright- slightly overcast- mild haze. Air temp 76 degrees- water 77 deg.  Water flat with slight ripple. Wind WSW  less than 5 mph. Almost no suspended matter in water. Two inches of rain in previous 48 hours. Intermittent boat and PWC traffic- with occasional tubing.  Wildlife absent except for 2 dozen mallards on SE shore. Suspect they are being fed there- as they are always in that exact area and are indifferent to boats children and dogs in close proximity. Both white and yellow water lilies in bloom.  No loosestrife apparent.
+08/10/2011,Sunny w/ scattered clouds. WInds W @ 10-15 mph. Air temp 70 degrees- water 73 degrees. No boat traffic.  Slight wave action. Water clear w/ no suspended matter.  1/4" of rain previous day.  Two dozen mallards sighted on all shores of east side of the lake only. Sighted four immature eagles and one mature one- one osprey- and one young blue heron.
+08/20/2011,Mostly sunny- air 70 degrees- water 73.5 with no floating particulates. Winds NNW @ 10-15 mph- water choppy. Minor boating activity.  Wildlife absent except for 8 mallards on NE shore.  Emergent weeds continue to expand noticeably over the last 2 weeks- especially watershield.  Purple loosestrife once again evident- and in bloom- on the SE shore  by the quonset hut style boathouse. Mostly sunny- air 70 degrees- water 73.5 with no floating particulates. Winds NNW @ 10-15 mph- water choppy. Minor boating activity.  Wildlife absent except for 8 mallards on NE shore.  Emergent weeds continue to expand noticeably over the last 2 weeks- especially watershield.  Purple loosestrife once again evident- and in bloom- on the SE shore  by the quonset hut style boathouse.
+09/02/2011,Bright overcast- air temp 76 degrees- water 73 degrees.  Wind NNE @ 10 mph.  No suspended particulates. Water slight ripple.  Minimal boat traffic.   4-5 dozen mallards present where being fed.  No other wildlife apparent.
+09/19/2011,Sunny- wind 5-10mph- air temp 58 degrees
+07/09/2012,Mostly sunny- wind NW@5- minor ripple on water- minimal boat traffic. Water temp 80 deg. Two pairs of mallards- and one pair of grebes sighted on SW shore.  No other wildlife.  Weeds more prevalent everywhere- both in area covered- thickness- and amount of emergent weeds.
+07/16/2012,Bright day with mild overcast.  Winds gusty from W at 15 MPH.  Water 79 degrees with a  light chop. No boat traffic- no wildlife sighted.  A few patches of floating weeds near downwind shores.
+07/23/2012,Wind NW at 15 mph- water light chop.  Air temp 85. water temp 80 degrees.  Bright sunny day- no boat traffic- no obvious wildlife sighted.  Quite a few floating clumps of floating weeds on downwind shores. They appear to originate from waterski/wakeboard activity done in shallower areas.  Props appear to be cutting them where weed growth is near the surface or emergent. 
+06/14/2013,Sunny- NE wind  less than 2 mph- lake almost flat calm.  Air temp 70- water 69 degrees. Minor boat activity on the lake.  Only about a third of the homes which normally have boats docked at the property- had them in the water. Lake bottom mostly dead/dormant weeds- but beginnings of new growth. Grass- watershield- lilies starting to break surface- mostly on the south and west shorelines.  Large flocks of Canada geese overhead- heading north.  Exceptional numbers of dragonflies feeding on the large concentrations of mosquitos.  Mostly spotted within several hundred feet of shore.  Small largemouth bass cruising near new weed growth in shallow water- along with schools of small bluegills.  A few small crappies were seen dead on the bottom with no external signs of any predation or disease. They were seen in the same areas where it looked like they( ) had previously been attempting to spawn.  No other wildlife activity noticable.
+06/30/2013,Sunny- scattered clouds.  Lake surface flat ripple- winds NE variable 5-15 mph.  Air temp 74- water 71.5 degrees. No boat traffic. Below normal water visibility almost certainly due to runoff from the significant rains -- almost daily for previous 2+ weeks. Ony wildlife -- 1 mature eagle- and 1 blue heron.  Substantial increase in weed growth in previous 2 weeks- especially emergent.  Now about 1/2 of peak summer level.  A few crappie or bass (no fish were on the beds at time of sighting) beds seen in 2 ft of water on south shore where the weeds were not as abundant.  
+07/08/2013,Sunny- partly cloudy. Air temp 79- water 78. Slight ripple. No traffic. Wind WSW@5mph. 15 mallards sighted and a blue heron.
+07/14/2013,Sunny - partly cloudy- slight ripple- no boat traffic.  Water temp 77.5- air 87 degrees. A pair of Canada geese spotted w/ 6 adolescents.  15 mallards sighted- 2 had 6-7 very young chicks.
+07/16/2013,Mostly sunny with numerous clouds surrounding.  Air temp 85 degrees- water 79. Wind SW@10-15- w/some higher gusts.  Light chop. No boat traffic. Sighted 1 turtle sunning- also 8 mallards.  One had 3 young chicks- and one had 5 adolescents. White water lilies appeared to be near peak bloom everywhere.
+07/22/2013,Bright + hazy. SW Winds variable 5-15 w/ occasional higher gusts. Very mild chop.  Water temp 74 -- air 76.  Sighted a pair of geese w/6 offspring.  Mostly full grown w/ adult markings.  One mallard w/ 5 adolescent young. Two eagles. One doe and a smaller spotted fawn.  More weed growth apparent along south shore- most reaching almost to the surface.  More than previous years.  White water lilies blooming even more abundantly.
+08/25/2013,Sunny- breezy- SW winds 12-20mph- light chop. Air temp 87- water temp 74. No boat traffic. Water generally clear except for very murky along shallow shorelines out 50-100 feet- primarily on the east side of the lake on the northeast- east- and south shores. Never seen this before- and no explanation.  Massive amounts of yellow green algae attached to mostly submergent weeds on the northeast and east- which is the closest shore to the sewage trearment plant. This has been spotted for several weeks- at least. As of this sighting- the area covered is at least the size of a football field. This has never been seen by lake residents before and is highly disturbing.  Substantial increases of both emergent and submergent weed growth in the same areas.  Weed growth everywhere on the lake continues to increase yearly- most noticable in the distance emergent weeds are being found from shore.  Former spawning areas for bass- bluegill- and crappies- are too choked with weeds to attract them any longer. As a long-time resident- this appears to be too big of a change- too fast- for a natural occurrance.  This fact is commonly discussed among residents- and continues to feed the common belief that the treatment plant is the cause of the problems- in spite of assurances that it is not a factor.  Large patches of dying and yellowing weeds (some attached to the bottom- some floating) are also spotted randomly around shallow areas- and are occasionally heavy enough concentrations to stall an outboard motor.  This seems too early for a natural die-off- and no obvious explanation. It would appear that serious research on this should be undertaken without delay.
+
+Several small patches of Purple Loosestrife in flower sighted on the west shore of the east side of the lake- along with several patches on the south shore in areas where it has previously been spotted. About 8 patches in total.  Wildlife spotted: 4 eagles- 5 blue herons- 12 mallards- and 4 otters.
+
+Beavers have made another attempt to dam directly under the bridge to Long Lake.  In spite of someones effort to remove the dam- it was insufficient- or it has been rebuilt since.  The channel is currently impassable under power and has brought the effective depth of the water to about 12"- which is also going to stop all but the shallowest draft boats being pulled through naturally.  The channel on the Long Lake side is again posing passage problems- with more silting-in- and lower water levels there also.
+09/05/2013,Sunny- NE winds 3 mph- water flat- no boat traffic.  Air temp 70 degrees- water 71.  Water clear in deep water areas- murky in shallow water areas. No expanation as there has been low winds and no rain. Yellow-green filamentous algae continues to be observed in the NE and E shorelines out about 100 yards.  Two mallards the only wildlife apparent.  Accompanied by Sandy Wickman/DNR.
+06/29/2014,Sunny bright. Air temp 79 degrees -- water 74. Windy- winds WSW @ 20 mph- gusts to 30. Water choppy with occasional periods of whitecaps. Minimal boat traffic.  A substantial level of suspended particulates making the water murky - likely due to rains in the previous 3 days- and the strong winds. Sighted 4 mallards- 1 eagle- and 2 blue herons. A particular abundance of squirrels- especially reds.  Numerous fish beds seen tight against SW shore.  Due to wind conditions- unable to determine species.  White water lilies in bloom.  
+07/07/2014,Sunny- winds WSW 7-10mph. Water 74.1 degrees w/ light chop- air 75. Shoreline weed growth at levels normally seen in August. A lot of particulates suspended in water.  No boat traffic. One mature and one adolescent eagle sighted.
+07/29/2014,Mostly sunny with intermittent overcast.  Winds NW @10mph.  Water calm. Minimal boat traffic. Air temp 62- water temp 70.  Profuse blooming of white water lilies. Sighted two eagles one mallard- and one seagull.
+09/02/2014,Sunny- winds W at 5-10 mph. Water calm- no boat traffic. Water temp 70 degrees- air 75. Saw one flight of about 12 ducks flying overhead- no other wildlife. Purple loosestrife sighted on several properties on the SE shore.  Beetles have been introduced in these areas to control the plants but it appears that those areas still produce enough seeds to keep re-populating the areas downwind to the east. Water plants still thriving- and no visible change of color of the trees as yet.
+06/29/2015,Partly cloudy- air temp 73 deg- wind calm- minor ripple.  Minimal boat traffic. Surface water temp 73.4 deg.  Weed growth substantial- at levels normally seen later in summer.  Algae attached to most shallow water weed growth.  White water lilies blooming.  Wildlife observed -- two adults with two adolescents- and two more with three.  Two or three mallards sighted in solo flight- and two blue herons.
+08/17/2015,Surface temp 74.3 F- cloudy and overcast- no wind- no boat traffic. Emergent weeds on far eastern and southern shore continue to advance westward beyond what has been normal over the past 30+ years. Wildlife spotted were a number of crows- one blue heron- and one Canada goose.
+06/22/2016,Weather bright but partly cloudy. Winds 1-2mph from SSW - minor ripple on lake. No boat traffic.  Abnormally abundant weed growth has continued again this year with both emergent and almost emergent growth in excess of all previous years- even in August.  Crappie and bluegill spawning beds- once abundant all along the southeast shoreline are  barely existent- down to about 10-20% of levels as recently as 10 years ago.  Growth apparent everywhere- particularly on the east end of the lake nearest the sewage treatment plant.  Long time homeowners have noticed the pace of the advancing weeds and have for some time suspected the plant as the cause- especially as some say they have heard that it has been operating over capacity.  
+Wildlife observed -  4 diving ducks- and 10 mallards.
+07/08/2016,Patchy dark clouds and sun- winds calm- minor ripple- no boat traffic. Air temp 68 degrees- surface water 74. Substantial amounts of green algae covering weeds closer to shore on southeast and east shorelines - concerning because historically it has never been evident  besides the last several years.  Running the boat on the east 25% of lake- the boat would noticeably hit mats of submerged weeds and abruptly slow the boat- and threaten to stall the motor - again- atypical. White lily pads in bloom.  Wildlife spotted - one blue heron- one loon- three adult mallards and seven adolescents.
+07/24/2016,Sunny with some clouds- 82 degrees air- 79 surface water. Wind WNW @ 10mph. Minor ripple no boat traffic. Most weeds on the east and south shores covered with thick green algae in water to 3-4-feet- some evidence on northeastern shore also- nearest to treatment plant.  Algae of this type was never been seen prior to last year- and there has been a huge increase since then.  It has been noticed by many lake residents and commented on with considerable concern.  Most of algae seems to be in the eastern basin of the lake- however the proliferation of tall- almost emergent weeds- has been on the increase everywhere in the lake- also of great concern of residents. Wildlife seen was three mallards- and one eagle.  
+07/25/2016,Mostly sunny with clouds. Winds NW 10-15mph.  Air temp 83- surface water 80 degrees. No boat traffic.  Wildlife spotted: 1 eagle- 13 Canada Geese- 14 mallards- and 1 muskrat.
+08/10/2016,Mostly sunny- mild breeze from SW. Wildlife seen: 7 mallards. Sunny with clouds- mild breeze from SW.  One boat seen. Wildlife: 7 mallards.
+08/17/2016,Sunny with clouds- winds WSW at 5mph. Wildlife spotted: 11 mallards.
+08/25/2016,Bright and sunny with clouds- winds 10-15mph from WSW. Surface water temp 70.4 degrees with slight chop.  No boat traffic.  A few blooming purple loosetrife sighted on SE shoreline.  Wildlife: 18 Canada geese- 1 mallard.
+08/30/2016,Sunny with clouds- winds calm- Air  temp 77-  no boat traffic or wildlife. Some purple loosestrife on southeast shore- but no obvious increase from a week ago.
+09/03/2016,Sunny with some haze. Winds 5+ mph WSW. Wildlife: 18 mallards.
+07/03/2017,Sunny- light variable breeze- 75 degrees- light/moderate boat traffic.  Weed growth seemingly ahead of this time last year.  Slimy green algae attached to shallow weeds on furthest southwest and west shores- with some 4-6ft clumps seen floating on the surface.  This algae has only been present in any noticeable amount in the last few years (particularly prevalent last year)- and then- somewhat later in the season.  Current amount sighted is substantially greater than even late season last year.  Although not apparent in deeper water- it has become a deterrent to swimming- and makes fishing difficult in those areas due to bait fouling.  Crappie/bluegill  historically have spawned in these areas in fairly large numbers- but no longer- only one possible (unattended) bed sighted.  Speculate that it might be possible that due to the above average rainfall experienced- the sewage treatment plant next to the lake may have overflowed and added nutrients to allow the large increase in growth. No invasives noticed.
+Wildlife spotted: 26 Canada Geese.  Approx 4 adults- and the balance- still flightless juveniles.  Geese have only been sighted regularly in the last several years- and have been almost exactly doubling in numbers each year.
+07/11/2017,Sunny- bright haze. Winds calm. Minimal boat traffic. Air temp approx 80deg. Water particularly murky on the west side of the lake.  Visibility 12-18" in shallower water.  East side generally clear.  Murkiness appears to be similar to pollen- although limited to half the lake.  Even if windblown- one would expect it to some extent in the bay on the west side- which did not appear except in trace amounts.  Some new type of algae (?) has appeared on the east side shorelines. It appears as relatively dense accumulations of small floating clumps- mostly green with a blackish-brown center- similar to mold. Residents are choosing to avoid contact.
+Water testing on Moss Lake is required to be done at one point on the west side of the lake- which often displays different (and virtually always better) characteristics than the east side- which acts like a different lake.  Specific attention should be paid to the east side individually.
+Wildlife observed:  Several smaller fish breaking surface- 1 Blue Heron- 20 Canada geese- 2 mallards- 1 osprey- 2 eagles- 1 muskrat.
+07/20/2017,Sunny- air temp 82 deg- water surface 78- wind WSW 10 mph. Minimal boat traffic.  On both sides of the lake- water visibility worst ever seen in 40+ years.  On the east side the bottom cannot be seen in 2 feet of water due to algae and suspended matter.  West side clearer- as always. Some white water lilies in bloom.  No wildlife sighted.
+07/24/2017,Sunny- calm- air temp 77- minor boat traffic.  Water clarity continues to degrade.  Secchi in the west lake basin now 5ft.  The east basin- which is normally worse- is now 3 ft- and less than 2 ft near shore- and the water color is noticeably more yellow-green. Many floating clumps of weeds floating everywhere on the surface- which appear to have broken loose from the bottom.  Wildlife observed: 25 Canada geese- and 6 mallards.
+08/05/2017,Sunny winds W at 10mph- low boat traffic.  Floating mats of weeds less apparent.  Secchi clarity on shallower east side of lake improved a little- to 4.25 FT.  Wildlife -- two mallards.
+08/08/2017,Partly cloudy- winds WSW @15mph- moderate boat traffic.  Floating clumps of weeds which were a problem recently- seem to have blown up against the east shore.  Algae bloom which started in July- slowly clearing up. Secchi on east side showed minor improvement to 4.75ft.   Floating surface algae on shoreline- now gone.  No wildlife sighted.
+08/15/2017,Sunny- some clouds- air 74 degrees- surface water 71.4 degrees. Winds 5 mph SE. Minor boat traffic.
+No wildlife observed. Sunny- some clouds.  Air temp 74- surface water 71.4. Winds SE @ 5 mph. Minor boat traffic.  Water clarity on east lake basin improved slightly to 7 feet.  No wildlife observed.
+08/19/2017,Sunny- winds WSW @10mph- moderate boat traffic.  Water clarity continues to slowly improve on the lake's west side.  The east side clarity has not improved and actually has dropped slightly. It is still considerably worse (6.5ft) in comparison to the west side- presumably because the phosphorus load is trapped in the east basin and does not readily mix throughout the lake. Several purple loosetrife plant in bloom on SE shore.  No wildlife observed.
+08/22/2017,Partly cloudy- winds SW @ 20 mph.  Air temp 65 degrees.  Water light chop. No boat traffic. East side clarity slightly down- while west side has improved to 7ft.  Possibly this is due to waters from both sides slowly mixing. Clarity recovery now appears to be slowing.  No wildlife observed.
+08/29/2017,Partly cloudy- wind 5 mph- air temp 76 degrees- lake minor ripple- no boat traffic.  No change from last observation- except yellow-green algae present on the surface on the east side of the lake- along the SE shore.  Water clarity in these areas down to roughly two feet (unmeasured).  Water clarity for the rest of the east side of the lake- has shown no further recovery- holding at 6.5 feet.  Wildlife observed: one blue heron- and a (too brief of a sighting to be positive) kingfisher.
+06/25/2019,Winds WSW @15+- moderate chop- light boat traffic- partly cloudy. Wildlife - 1 Mallard (?) adult with 6 adolescents. Emergent weed growth ahead of schedule and still apparently still increasing yearly. Minor amounts of floating algae up against SE shoreline accompanied by 14 dead fish (2 crappie- 12 Bluegill).  Quite a bit of yellow pine pollen everywhere and suspended in the water.  Secchi visibility on east side in lake 2 feet less than west side (8.5' vs 10.5').
+07/23/2019,Winds Calm- partly cloudy. no boat traffic. Water condition difference immediately noticable transversing between the E and W side of lake.  Clarity measured on E side 6ft vs 20ft on west side 500 yards away.  White water lilies blooming.  Family of six mallards sighted- and one loon.
+07/30/2019,Partly cloudy- winds WNW @ 5- little boat traffic.  Definite and obvious difference between E and W basin of the lake.  W side is acceptably clear- E side a murky greenish yellow.  Clarity W side 9' and E side- 4.5'- and the difference happens in about 150 yards.  Wildlife: 23 Canada geese- which rarely have been sighted until a few years ago - now doubling in numbers sighted each year.  Surface weeds and lily pads continue to take over more area on E basin.
+08/02/2019,Partly cloudy- winds W @ 5-10mph.  Moderate boat traffic.  Water quality appears to be continually deteriorating both in color and clarity with the E side nearest the tribal treatment plant noticably worse.  W basin clarity down to 8.5"- and the E basin now 4' - the worst I have seen it.  Wildlife: 1 each - loon- eagle- osprey- and Box(?) turtle- and 15 likely mallard ducks.
+08/24/2019,Mostly sunny- winds ESE @5-10mph.  light boat traffic.  Lily pads seem to be expanding in the west basin of the lake now beginning to encrouch on the channel entrance and cover more area of the north shore.  The difference in water color and clarity between the east and west basin continues.  The west side continues to have about twice the clarity than the east.  (9ft on the west vs 5.5ft on the east) with the east side being a murky yellow green in comparison.  This difference is appearing to be permanent.  Wildlife: Bald Eagle- osprey- numerous pheobe- blue jays- robins- and flickers- all appearing to be feeding heavily.
+08/29/2019,Mostly sunny- air temp 66 deg- winds WNW @10-15- moderate chop- no boat traffic.  Clarity in east lake basin continues to be lower than west side (9.5ft vs 5ft).  Some initial signs of color change in trees.  No wildlife evident.  Helper with testing - Craig Napierala.
+03/17/2020,Cloudy and overcast- winds 15-20mph- water choppy- no boat traffic. Air temp low 70's. Wildlife sighted: 3 turkey vultures- 6 ducks- 3 seagulls- 12 Canada geese. Cloudy and overcast- winds 15-20mph- water choppy- no boat traffic. Air temp low 70's. Water clarity much improved due to reduction in algae presumably due to the colder temperatures.  West basin clarity 9.5'- east basin 10.5' - the first time the east side has had better clarity than the west.  I am assuming that in reality- both sides were probably the same as the east side reading- but due to the much rougher water conditions on the west the reading was likely somewhat impaired- while the east side was sheltered and calm.  Wildlife sighted: 3 turkey vultures- 6 ducks- 3 seagulls- 12 Canada geese.   
+08/06/2020,Bright w/some clouds- light breeze- minor boat traffic. Surface water temp 73.7 degrees. Substantial algae bloom over the previous weeks following the last drain-off of the Tribal treatment plant.  Noticeable improvement in the last several days coinciding with the much cooler air temperatures. Clarity differences remain between the east and west basins of the lake with the west being 10ft- and the east- half of that at 5ft and obviously greener and murkier.  Wildlife observed: one mature bald eagle- one mallard- one kingfisher. In contrast to what has been observed- I came to the realization that turtles- once very abundant all around the lake have been completely absent for the past few years- muskrats also formally abundant are comparatively rare- and beaver now practically non-existent except for one occasionally trying to dam up the channel to Long Interlachen lake.
+08/27/2020,Partly cloudy- air temp upper 70's- surface water temp 77 degrees- water calm- minimal boat traffic. Lake clarity  of west basin 11.5ft- while the east side still about half of that- at 6.5ft. 
+No wildlife sighted at this time.  As a general observation: in the past several weeks there has been a noticeable difference in bird sightings over many previous years.  Flickers normally seen every few days in numbers of 2-3- are now seen daily feeding in groups of 10-15 and sometimes over 20- mostly appearing to be females.  Blue Jays increased from normal 1-2 at a time every few days- to regular daily groups of 3-12.  Chickadees formerly almost always present in 3-4's- now seen only every few days.  Nuthatches also historically omnipresent- have been totally absent this summer.  Crows normally seen every morning in groups of 6-8- now in 3-4 groups and no longer daily.  Red squirrels seem to be present in greater numbers in general- particularly in a small area.   
+
+
+
+
+
+Start Date,Group Name,Project Name
+05/01/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+05/11/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/08/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/17/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/30/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/17/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/21/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/31/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/20/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/08/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/28/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+10/08/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+10/20/1998,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/29/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/10/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/26/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/14/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/25/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/06/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/16/1999,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/25/2000,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/19/2000,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/10/2000,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/25/2000,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+05/06/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+06/22/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/28/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+06/30/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/08/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/23/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+08/07/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/20/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/26/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+08/26/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+10/01/2001,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/03/2002,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/08/2002,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/13/2002,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/09/2002,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/25/2002,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+10/05/2002,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/01/2003,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/17/2003,James Evans,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/09/2010,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/19/2010,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/25/2010,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/01/2010,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/13/2011,Donna Roche,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/25/2011,Donna Roche,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/28/2011,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/04/2011,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/10/2011,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/20/2011,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/02/2011,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/19/2011,Donna Roche,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/09/2012,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/16/2012,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/23/2012,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/14/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/30/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/08/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/14/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/16/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/22/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/25/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/05/2013,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+05/17/2014,Chris Lund,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/29/2014,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/07/2014,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/29/2014,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/02/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/02/2014,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/29/2015,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/22/2015,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/17/2015,Brian Klaas,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/17/2015,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/22/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/08/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/24/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/25/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/10/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/17/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/25/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/30/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+09/03/2016,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/03/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/11/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/20/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/24/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/05/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/08/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/15/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/19/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/21/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/22/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/29/2017,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+05/21/2018,Doug Cleary,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+06/25/2019,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/23/2019,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+07/30/2019,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/02/2019,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/24/2019,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/29/2019,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+03/17/2020,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/06/2020,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole
+08/27/2020,Paul Hoppe,Citizen Lake Monitoring - Water Quality - Moss Lake - Deep Hole

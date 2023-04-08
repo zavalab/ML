@@ -1,0 +1,547 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Broken Bow Lake,Vilas,1837300,NO,64,,643194,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189806,06/20/1993,10.5,YES,3.2,,,43,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189806,07/10/1993,14,YES,4.3,,,39,,,HIGH (16' AT TEST SITE),,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189806,07/30/1993,12,YES,3.6,,,41,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189806,09/18/1993,12,YES,3.6,,,41,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,10/10/1993,12.5,YES,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189806,05/22/1994,15,YES,4.6,,,38,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8189806,06/18/1994,13.5,YES,4.1,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189806,07/04/1994,12.5,YES,3.8,,,41,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189806,07/16/1994,12,YES,3.6,,,41,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8189806,08/16/1994,12,YES,3.6,,,41,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189806,09/18/1994,20,YES,6.1,,,34,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189806,10/14/1994,18,YES,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189806,04/29/1995,13.5,YES,4.1,,,40,,,HIGH,,,GREEN BROWN,
+8189806,06/02/1995,11,YES,3.3,,,43,,,NORMAL,,,GREEN BROWN,1-Beautiful, could not be nicer
+8189806,06/24/1995,11,YES,3.3,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189806,07/04/1995,11,YES,3.3,,,43,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189806,08/20/1995,12,YES,3.6,,,41,,,LOW,,,GREEN BROWN,2-Very minor aesthetic problems
+8189806,09/10/1995,11.5,YES,3.5,,,42,,,LITTLE BELOW NORMAL,,,LIGHT BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,05/05/1996,13,YES,4,,,40,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189806,06/14/1996,14,YES,4.3,,,39,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,07/20/1996,12,YES,3.6,,,41,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189806,08/01/1996,16,YES,4.9,,,37,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8189806,09/09/1996,11.5,YES,3.5,,,42,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8189806,10/12/1996,13,YES,4,,,40,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189806,05/17/1997,13,YES,4,,,40,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189806,06/01/1997,15,YES,4.6,,,38,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,06/20/1997,14,YES,4.3,,,39,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,07/20/1997,14,YES,4.3,5.8,21,39,52,48,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,08/04/1997,13,YES,4,,,40,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189806,08/16/1997,13.5,YES,4.1,12.6,19,40,51,54,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8191068,08/30/1997,15,YES,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,09/13/1997,13,YES,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189806,10/05/1997,13.5,YES,4.1,,,40,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189806,10/17/1997,13,YES,4,26.7,,40,,60,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,05/03/1998,14,YES,4.3,,,39,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,05/17/1998,13,YES,4,,,40,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189806,06/06/1998,16,YES,4.9,,,37,,,NO CHANGE,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,06/23/1998,14,YES,4.3,3.17,17,39,50,44,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,07/04/1998,12.5,YES,3.8,,,41,,,NO CHANGE,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,07/27/1998,16,YES,4.9,5.18,,37,,47,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,08/30/1998,,,,4.65,9,,45,46,,,,,
+8189806,09/13/1998,13,YES,4,,,40,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,11/09/1998,15.5,YES,4.7,3.27,,38,,44,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,04/26/1999,,,,,15,,49,,,,,,
+8189806,04/26/1999,15,YES,4.6,,,38,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,05/16/1999,16,YES,4.9,,,37,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,05/31/1999,13,YES,4,,,40,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,06/29/1999,,,,1.8,13,,48,39,,,,,
+8189806,07/18/1999,14,YES,4.3,,,39,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,07/31/1999,15,YES,4.6,2.11,15,38,49,40,NO CHANGE,,CLEAR,BROWN,
+8189806,08/03/1999,15,YES,4.6,,,38,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,08/14/1999,13,YES,4,,,40,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190529,08/29/1999,15,YES,4.6,3,10,38,46,43,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189806,10/03/1999,15,YES,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,10/16/1999,13,YES,4,3,,40,,43,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,10/31/1999,14,YES,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,04/04/2000,16,YES,4.9,,,37,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189806,05/07/2000,17,YES,5.2,,16,36,50,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,05/21/2000,16,YES,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,06/10/2000,15,YES,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,06/19/2000,13,YES,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,06/27/2000,14,YES,4.3,2.8,,39,,43,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,07/20/2000,14,YES,4.3,,,39,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,07/23/2000,14,YES,4.3,6,20,39,51,48,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190529,08/22/2000,15,YES,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189806,08/27/2000,14.5,YES,4.4,3.5,14,39,49,44,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190529,09/06/2000,13,YES,4,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,09/24/2000,10.5,YES,3.2,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189806,10/08/2000,13,YES,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189806,11/05/2000,12.5,YES,3.8,8,19,41,51,51,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189806,05/13/2001,14,YES,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,05/30/2001,16,YES,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,06/09/2001,12,YES,3.6,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190529,06/20/2001,14,YES,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,07/08/2001,13,YES,4,,,40,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190529,07/24/2001,13,YES,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,08/24/2001,14.5,YES,4.4,,,39,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,09/02/2001,3.5,YES,1.1,,,59,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,09/11/2001,14.5,YES,4.4,,,39,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190529,09/25/2001,15.5,YES,4.7,,,38,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190529,10/11/2001,14.5,YES,4.4,,,39,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190529,06/16/2002,14,YES,4.3,,,39,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190529,07/04/2002,14,YES,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,07/20/2002,12.5,YES,3.8,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,08/10/2002,15,YES,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,09/04/2002,15.5,YES,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,10/01/2002,13,YES,4,,,40,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190529,10/09/2002,13.5,YES,4.1,,,40,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189806,05/04/2003,11.5,YES,3.5,,,42,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,05/17/2003,15.5,YES,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,06/29/2003,12.5,YES,3.8,,,41,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,07/12/2003,16.5,YES,5,,,37,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,07/30/2003,13.5,YES,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,08/14/2003,16,YES,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,09/02/2003,14.5,YES,4.4,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,09/25/2003,15,YES,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,10/02/2003,16,YES,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191068,05/18/2004,15,YES,4.6,,,38,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,06/06/2004,14,YES,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,06/27/2004,15.5,YES,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,07/08/2004,16,YES,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,07/15/2004,15.5,YES,4.7,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,07/23/2004,15,YES,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189806,07/31/2004,14.5,YES,4.4,,,39,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189806,08/17/2004,13.5,YES,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,09/01/2004,15,YES,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190529,09/09/2004,15,YES,4.6,,,38,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189806,06/08/2005,15.5,NO,4.7,,,38,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8190529,06/15/2005,14.5,NO,4.4,,,39,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8189806,06/18/2005,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190529,06/24/2005,15.5,NO,4.7,,,38,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+8189806,07/04/2005,15.5,NO,4.7,,,38,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+8189806,07/27/2005,15,NO,4.6,,,38,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189806,08/03/2005,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189806,08/12/2005,15,NO,4.6,,,38,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+129424995,06/02/2016,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+129424995,06/04/2016,5.1,NO,1.6,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,06/24/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,07/06/2016,5,NO,1.5,,,54,,,HIGH,5,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,07/23/2016,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,08/06/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,05/13/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,07/06/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,07/30/2017,5.2,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,08/13/2017,5.4,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,09/23/2017,6.2,,1.9,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,05/28/2018,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,07/07/2018,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,07/14/2018,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+165247270,08/18/2018,4.8,NO,1.5,,,55,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+130041177,09/09/2018,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+129424995,04/27/2019,,,,,36.5,,56,,,,,,
+130041177,04/27/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,05/17/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+130041177,05/26/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+129424995,06/22/2019,,,,6.3,30.4,,55,49,,,,,
+130041177,06/22/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+129424995,07/28/2019,,,,7.56,24.6,,53,50,,,,,
+130041177,07/28/2019,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+129424995,08/30/2019,,,,22.3,24.3,,53,58,,,,,
+130041177,08/30/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/20/1997,3,FEET,75,DEGREES F,,
+07/20/1997,6,FEET,75,DEGREES F,,
+07/20/1997,9,FEET,73,DEGREES F,,
+07/20/1997,12,FEET,68,DEGREES F,,
+07/20/1997,15,FEET,58,DEGREES F,,
+07/20/1997,18,FEET,55,DEGREES F,,
+07/20/1997,21,FEET,57,DEGREES F,,
+08/16/1997,3,FEET,73,DEGREES F,,
+08/16/1997,6,FEET,71,DEGREES F,,
+08/16/1997,9,FEET,70,DEGREES F,,
+08/16/1997,12,FEET,67,DEGREES F,,
+08/16/1997,15,FEET,66,DEGREES F,,
+08/16/1997,18,FEET,60,DEGREES F,,
+08/16/1997,21,FEET,55,DEGREES F,,
+10/17/1997,3,FEET,53,DEGREES F,,
+10/17/1997,6,FEET,52,DEGREES F,,
+10/17/1997,9,FEET,52,DEGREES F,,
+10/17/1997,12,FEET,52,DEGREES F,,
+10/17/1997,15,FEET,52,DEGREES F,,
+10/17/1997,18,FEET,52,DEGREES F,,
+10/17/1997,21,FEET,52,DEGREES F,,
+07/27/1998,3,FEET,73,DEGREES F,,
+07/27/1998,6,FEET,73,DEGREES F,,
+07/27/1998,9,FEET,73,DEGREES F,,
+07/27/1998,12,FEET,67,DEGREES F,,
+07/27/1998,15,FEET,66,DEGREES F,,
+07/27/1998,18,FEET,61,DEGREES F,,
+07/27/1998,21,FEET,61,DEGREES F,,
+11/09/1998,3,FEET,40,DEGREES F,,
+11/09/1998,6,FEET,40,DEGREES F,,
+11/09/1998,9,FEET,40,DEGREES F,,
+11/09/1998,12,FEET,40,DEGREES F,,
+11/09/1998,15,FEET,40,DEGREES F,,
+11/09/1998,18,FEET,40,DEGREES F,,
+11/09/1998,21,FEET,40,DEGREES F,,
+04/26/1999,0,FEET,46,DEGREES F,,
+04/26/1999,6,FEET,54,DEGREES F,,
+04/26/1999,9,FEET,48,DEGREES F,,
+04/26/1999,12,FEET,47,DEGREES F,,
+04/26/1999,15,FEET,46,DEGREES F,,
+04/26/1999,18,FEET,46,DEGREES F,,
+04/26/1999,21,FEET,48,DEGREES F,,
+07/31/1999,3,FEET,77,DEGREES F,,
+07/31/1999,6,FEET,76,DEGREES F,,
+07/31/1999,9,FEET,76,DEGREES F,,
+07/31/1999,12,FEET,75,DEGREES F,,
+07/31/1999,15,FEET,70,DEGREES F,,
+07/31/1999,18,FEET,65,DEGREES F,,
+07/31/1999,21,FEET,65,DEGREES F,,
+08/29/1999,3,FEET,74,DEGREES F,,
+08/29/1999,6,FEET,73,DEGREES F,,
+08/29/1999,9,FEET,73,DEGREES F,,
+08/29/1999,12,FEET,71,DEGREES F,,
+08/29/1999,15,FEET,70,DEGREES F,,
+08/29/1999,18,FEET,70,DEGREES F,,
+08/29/1999,21,FEET,69,DEGREES F,,
+10/16/1999,3,FEET,50,DEGREES F,,
+10/16/1999,6,FEET,50,DEGREES F,,
+10/16/1999,9,FEET,50,DEGREES F,,
+10/16/1999,12,FEET,50,DEGREES F,,
+10/16/1999,15,FEET,50,DEGREES F,,
+10/16/1999,18,FEET,50,DEGREES F,,
+10/16/1999,21,FEET,49,DEGREES F,,
+05/07/2000,3,FEET,70,DEGREES F,,
+05/07/2000,6,FEET,68,DEGREES F,,
+05/07/2000,9,FEET,60,DEGREES F,,
+05/07/2000,12,FEET,53,DEGREES F,,
+05/07/2000,15,FEET,50,DEGREES F,,
+05/07/2000,18,FEET,51,DEGREES F,,
+05/07/2000,21,FEET,51,DEGREES F,,
+06/27/2000,3,FEET,69,DEGREES F,,
+06/27/2000,6,FEET,69,DEGREES F,,
+06/27/2000,9,FEET,69,DEGREES F,,
+06/27/2000,12,FEET,69,DEGREES F,,
+06/27/2000,15,FEET,63,DEGREES F,,
+06/27/2000,18,FEET,63,DEGREES F,,
+06/27/2000,21,FEET,62,DEGREES F,,
+07/23/2000,3,FEET,73,DEGREES F,,
+07/23/2000,6,FEET,71,DEGREES F,,
+07/23/2000,9,FEET,70,DEGREES F,,
+07/23/2000,12,FEET,69,DEGREES F,,
+07/23/2000,15,FEET,68,DEGREES F,,
+07/23/2000,18,FEET,65,DEGREES F,,
+07/23/2000,21,FEET,63,DEGREES F,,
+08/27/2000,3,FEET,69,DEGREES F,,
+08/27/2000,6,FEET,69,DEGREES F,,
+08/27/2000,9,FEET,72,DEGREES F,,
+08/27/2000,12,FEET,71,DEGREES F,,
+08/27/2000,15,FEET,70,DEGREES F,,
+08/27/2000,18,FEET,70,DEGREES F,,
+08/27/2000,21,FEET,69,DEGREES F,,
+11/05/2000,3,FEET,48,DEGREES F,,
+11/05/2000,6,FEET,48,DEGREES F,,
+11/05/2000,9,FEET,48,DEGREES F,,
+11/05/2000,12,FEET,47,DEGREES F,,
+11/05/2000,15,FEET,47,DEGREES F,,
+11/05/2000,18,FEET,47,DEGREES F,,
+11/05/2000,21,FEET,47,DEGREES F,,
+04/27/2019,2,FEET,48,DEGREES F,,
+04/27/2019,3,FEET,47.1,DEGREES F,,
+04/27/2019,5,FEET,46.5,DEGREES F,,
+04/27/2019,7,FEET,45.8,DEGREES F,,
+04/27/2019,9,FEET,45.8,DEGREES F,,
+04/27/2019,10,FEET,45.3,DEGREES F,,
+06/22/2019,1,FEET,72.8,DEGREES F,,
+06/22/2019,2,FEET,72.1,DEGREES F,,
+06/22/2019,3,FEET,71.9,DEGREES F,,
+06/22/2019,4,FEET,71.6,DEGREES F,,
+06/22/2019,5,FEET,71,DEGREES F,,
+06/22/2019,6,FEET,69.4,DEGREES F,,
+06/22/2019,7,FEET,68.7,DEGREES F,,
+06/22/2019,8,FEET,66.9,DEGREES F,,
+06/22/2019,9,FEET,64.2,DEGREES F,,
+06/22/2019,10,FEET,61.1,DEGREES F,,
+06/22/2019,11,FEET,58.2,DEGREES F,,
+06/22/2019,12,FEET,55.7,DEGREES F,,
+06/22/2019,13,FEET,52.8,DEGREES F,,
+06/22/2019,14,FEET,50.7,DEGREES F,,
+06/22/2019,15,FEET,49.8,DEGREES F,,
+06/22/2019,16,FEET,48.9,DEGREES F,,
+06/22/2019,17,FEET,48.7,DEGREES F,,
+06/22/2019,18,FEET,48.2,DEGREES F,,
+06/22/2019,19,FEET,48.2,DEGREES F,,
+07/28/2019,1,FEET,78.2,DEGREES F,,
+07/28/2019,2,FEET,78,DEGREES F,,
+07/28/2019,3,FEET,78,DEGREES F,,
+07/28/2019,4,FEET,78,DEGREES F,,
+07/28/2019,5,FEET,77.9,DEGREES F,,
+07/28/2019,6,FEET,77.1,DEGREES F,,
+07/28/2019,7,FEET,76.4,DEGREES F,,
+07/28/2019,8,FEET,74.1,DEGREES F,,
+07/28/2019,9,FEET,69.9,DEGREES F,,
+07/28/2019,10,FEET,65.4,DEGREES F,,
+07/28/2019,11,FEET,61.5,DEGREES F,,
+07/28/2019,12,FEET,58.4,DEGREES F,,
+07/28/2019,13,FEET,56.3,DEGREES F,,
+07/28/2019,14,FEET,54.3,DEGREES F,,
+07/28/2019,15,FEET,52.8,DEGREES F,,
+07/28/2019,16,FEET,51.4,DEGREES F,,
+07/28/2019,17,FEET,50.4,DEGREES F,,
+07/28/2019,18,FEET,50.3,DEGREES F,,
+07/28/2019,19,FEET,49.8,DEGREES F,,
+07/28/2019,20,FEET,49.3,DEGREES F,,
+08/30/2019,1,FEET,66.9,DEGREES F,,
+08/30/2019,2,FEET,66.9,DEGREES F,,
+08/30/2019,3,FEET,66.9,DEGREES F,,
+08/30/2019,4,FEET,66.9,DEGREES F,,
+08/30/2019,5,FEET,66.7,DEGREES F,,
+08/30/2019,6,FEET,66.5,DEGREES F,,
+08/30/2019,7,FEET,66.5,DEGREES F,,
+08/30/2019,8,FEET,66.3,DEGREES F,,
+08/30/2019,9,FEET,66.3,DEGREES F,,
+08/30/2019,10,FEET,66.3,DEGREES F,,
+08/30/2019,11,FEET,66.2,DEGREES F,,
+08/30/2019,12,FEET,66.2,DEGREES F,,
+08/30/2019,13,FEET,65.4,DEGREES F,,
+08/30/2019,14,FEET,57,DEGREES F,,
+08/30/2019,15,FEET,55.7,DEGREES F,,
+08/30/2019,16,FEET,55.4,DEGREES F,,
+08/30/2019,17,FEET,54.3,DEGREES F,,
+08/30/2019,18,FEET,53.2,DEGREES F,,
+08/30/2019,19,FEET,52.5,DEGREES F,,
+08/30/2019,20,FEET,52.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/20/1993,Has rained for 6 days- stormed last night- cloudy day.    
+07/10/1993,Air temp 80- sunny- calm    
+07/30/1993,Air temp 82- slight wind- partly cloudy- 2 loons with babies- eagle out- 2 otters playing    
+09/18/1993,Cold nights- rain storm 4 days prior to reading- loons still on lake    
+10/10/1993,Green/blue- light snow- windy yesterday.    
+05/22/1994,Hot 85 degrees.    
+06/18/1994,Hot- heavy rain storm yesterday- calm.    
+07/04/1994,Overcast- slight wind- sent card to 1st secchi dip-in.    
+08/16/1994,Warm- windy.    
+09/18/1994,3 days record rainfall- 14" 1 night- windy.    
+04/29/1995,Water color in between green + brown.  Ice fell in 4/20/95.  Slight wind 45 degrees F.  Snowed all week.    
+06/02/1995,Warm- 85 degrees- no wind- some blooms on top of water.    
+06/24/1995,Hot 90 degrees weather- more weeds than last year.    
+07/04/1995,75-80 degrees- windy- cloudy.    
+08/20/1995,Windy- rainy.    
+09/10/1995,Lake smells like it's turning over- warm.    
+05/05/1996,Cold water- lake turning over- fall weather conditions- windy.    
+06/14/1996,Ice off 5/6/96. warm- sunny- 82 degrees.    
+07/20/1996,Cool nights 50 degrees- warm days- lots of rain.  Lake level: very high    
+08/01/1996,Cool.    
+09/09/1996,Cool nights- warm days- sunny- 80 degrees- some algae in water.    
+10/12/1996,2 days ago had 1st snowfall. Today very warm- 65 degrees- slight wind. Saw loon on lake still.    
+05/17/1997,Ice off 4-21-97- windy- 1 set of loons returned- saw 2 otters on lake.    
+06/01/1997,Warm- slight wind- 80 degrees.  Lake level: very high    
+06/20/1997,Lake turned over last week.  This week rained for 4 days.    
+07/20/1997,Partly sunny- slight wind.    
+08/04/1997,Windy- 1/2 inch of rain last night- hot- humid weather last week.    
+08/16/1997,Partly cloudy.  Heavy rains last night.  Lake level: very high    
+08/30/1997,Lots of rain yesterday- warm with slight breeze- beautiful day    
+10/17/1997,LAKE SAMPLE    
+06/23/1998,LAKE SAMPLE    
+07/27/1998,Sunny windy.    
+08/30/1998,LAKE SAMPLE    
+11/09/1998,Calm light snow flurries.  2 loons swimming flocks of ducks in water.    
+04/26/1999,LAKE SAMPLE    
+08/29/1999,Saw mom + baby loon.  Lot of algae clouds in water.    
+05/07/2000,2 loons- overcast- slight wind- lake very low.    
+06/27/2000,Windy- loons still on nest- lake is very low.    
+06/08/2005,Lake level very low.    
+06/15/2005,Very windy - lots of rain this past week 7 very warm temps until today - Loons hanging around nest - lake very murky - Lake level still low.    
+06/18/2005,Lake level extremely low.  Need rain.  Level down approx. 2 feet.    
+06/24/2005,Lake level very low - No rain in several weeks    
+07/04/2005,Loons off nest + egg is gone have not seen a baby may have been destroyed by a preditor!!!!Lots of fishermen on lake for holiday!!!    
+07/27/2005,level still very low - extreme algae bloom    
+08/03/2005,Lake level cont. to drop.  Lowest I have seen it in 18 years - boat travel getting very tricky dodging stumps and rocks!!!    
+08/12/2005,Lake level lowest its been in 25 years according to oldtime lake residents - hard to maneuver boat safely - very heavy algae bloom last several weeks.    
+06/02/2016,Cloudy- North Wind 10 mph- no boats on lake- no loon sighting.
+06/04/2016,Clear day- breezy day with small waves. Single loon out swimming- very low boat traffic
+06/24/2016,Partly sunny with a mild breeze.  No Boats- numerous geese out swimming- 1 loon out swimming/diving- Musk rat swimming- 1 kayaker fishing - many people out swimming and 1 snorkeler.
+07/06/2016,Mostly Sunny- mild wind- low boat traffic.  Very nice day
+07/23/2016,No Boats- Sunny- Calm- No Breeze- Fog/mist on lake- Saw ducks and geese. Saw 2 loons the night before.
+08/06/2016,Calm- clear blue sky- no boats
+05/13/2017,Partly Cloudy- breezy- no boats- quit- no Loons sighted- many ducks and some geese
+07/30/2017,Mostly cloudy and breezy.  It has been dry for about a week.  Water down a couple inches.  Two loons out- ducks- geese- numerous turtles and fish activity seems to be increasing.
+08/13/2017,Beautiful day- clear skies- no wind- lake was calm- no boats. 
+09/23/2017,Clear hazy day. Slight breeze but clam at the test site. No others boaters. Record heat almost 90 degrees in September.
+05/28/2018,Windy day- hazy- spotted loons- ducks- turtles.  However- reported winter fish kill- fishing no activity or fish spotted.
+07/07/2018,Breezy and hazy  - Not catching or seeing any fish.  Seeing loons- turtles- ducks- geese
+07/14/2018,Clear and calm
+08/18/2018,Clumps of what may be blue/green algae. Bladderwort present.
+09/09/2018,Beautiful weather - sunny- clear- slight breeze.  Saw loons- ducks- and turtles.  No other boats out.  Others on the lake report a few northern.  Our neighbor stated he caught a 9 in perch.  This was the first pan fish that I heard anyone caught all year.  We did see a couple pockets of small fish swirl at the top as our pontoon approach them.   
+04/27/2019,First ice off reading.  Collected water sample for PHOSPHORUS and sent to lab and recorded temperature readings.  Reports from lake owners - stated no fish kill- none floating or on shore this year.  Great News.  Water is still high but to the eye looks clearer.  Seccki disk readings better up to 7 feet from 5 feet last year.
+
+State lab reporting: 
+04/27/2019
+
+Sample Depth	Parameter	Result	Units
+	
+0-6 FEET	PHOSPHORUS TOTAL	0.0365	MG/L
+
+05/17/2019,Sunny- winding- very nice day.  Water looked great and was high - a lot of docks under water.  Saw a turtle- 3 loons- numerous ducks and eagles soaring over head.
+05/26/2019,Excellent day- clear- slight wind- loons out- ducks- turtles.  Catch a small northern.  No reports of any other fish being caught. 
+06/22/2019,Breezy day and sunny. Fishing reports from other lake owners were - No fish.  Saw Loons- turtles- beaver and ducks.  1 other boater.
+
+Collected June water sample and sent to state lab.  Also recorded water temperature. 
+ 
+07/28/2019,Blue Sky- Sunny- and calm.  Saw two sets of loons on each side of the lake.  One set had a baby loon and was doing well.  Reports from long time residents on lake state that this was the first baby loon that survived since the 1990's.
+
+Did the July water sample and sent to state lab.  Also did Secchi and temperature readings..
+08/30/2019,windy- sunny and cool.  Saw loons with baby.  Baby is getting big.  Caught some small pan fish and very small bass.
+
+
+
+
+Start Date,Group Name,Project Name
+06/20/1993,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/10/1993,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/30/1993,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/18/1993,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/10/1993,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/22/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/18/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/04/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/16/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/16/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/18/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/14/1994,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+04/29/1995,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/02/1995,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/24/1995,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/04/1995,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/20/1995,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/10/1995,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/05/1996,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/14/1996,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/20/1996,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/01/1996,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/09/1996,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/12/1996,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/17/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/01/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/20/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/20/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/04/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/16/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/30/1997,Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/13/1997,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/05/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/17/1997,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/03/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/17/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/06/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/23/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/04/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/27/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/30/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/13/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+11/09/1998,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+04/26/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+04/26/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/16/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/31/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/29/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/18/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/31/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/03/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/14/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/29/1999,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/03/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/16/1999,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/31/1999,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+04/04/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/07/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/21/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/10/2000,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/19/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/27/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/20/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/23/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/22/2000,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/27/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/06/2000,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/24/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/08/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+11/05/2000,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/13/2001,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/30/2001,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/09/2001,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/20/2001,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/08/2001,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/24/2001,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/24/2001,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/02/2001,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/11/2001,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/25/2001,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/11/2001,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/16/2002,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/04/2002,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/20/2002,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/10/2002,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/04/2002,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/01/2002,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/09/2002,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/04/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/17/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/29/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/12/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/30/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/14/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/02/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/25/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+10/02/2003,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/18/2004,Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/06/2004,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/27/2004,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/08/2004,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/15/2004,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/23/2004,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/31/2004,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/17/2004,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/01/2004,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/09/2004,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/08/2005,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/15/2005,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/18/2005,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/24/2005,Roy Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/04/2005,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/27/2005,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/03/2005,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/12/2005,Roy And Denise Redlich,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/02/2016,Dan Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/04/2016,Dan Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/24/2016,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/06/2016,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/23/2016,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/06/2016,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/13/2017,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/06/2017,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/30/2017,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/13/2017,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/23/2017,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/28/2018,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/07/2018,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/14/2018,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/18/2018,Tanya Maletz,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+09/09/2018,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+04/27/2019,Dan Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+04/27/2019,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/17/2019,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+05/26/2019,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/22/2019,Dan Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+06/22/2019,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/28/2019,Dan Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+07/28/2019,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/30/2019,Dan Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole
+08/30/2019,Dan and Kristy Pecosky,Citizen Lake Monitoring - Water Quality - Broken Bow Lake; Deep Hole

@@ -1,0 +1,284 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Green Lake,Oconto,459900,NE,43,,433282,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1982,,,,5,20,,51,47,,,,,
+1,10/25/1982,7.2,,2.2,11,20,49,51,53,,,,,
+1,02/16/1983,,,,1,20,,51,35,,,,,
+1,04/28/1983,12.1,,3.7,3,20,41,51,43,,,,,
+1,02/20/1984,,,,5,20,,51,47,,,,,
+1,05/14/1984,,,,5,20,,51,47,,,,,
+8189694,05/26/1997,12,NO,3.6,,,41,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189694,06/06/1997,14,NO,4.3,,,39,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,06/22/1997,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,07/04/1997,10,NO,3,,,44,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,07/21/1997,11.5,NO,3.5,,,42,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189694,08/02/1997,9.75,NO,3,,,44,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189694,08/18/1997,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189694,08/28/1997,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189694,09/04/1997,17.25,NO,5.2,,,36,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189694,09/13/1997,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+125862804,07/30/2016,,,,2.72,18.4,,51,42,,,,,
+139333015,07/30/2016,15,NO,4.6,,,38,,,NORMAL,6,CLEAR,YELLOW,2-Very minor aesthetic problems
+139333015,08/28/2016,15,NO,4.6,,,38,,,NORMAL,6,CLEAR,YELLOW,2-Very minor aesthetic problems
+139333015,09/30/2016,14,NO,4.3,,,39,,,NORMAL,6,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+18137035,08/09/2017,,,,4.34,16.8,,50,46,,,,,
+139333015,08/09/2017,10,NO,3,,,44,,,NORMAL,1,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+139333015,09/01/2017,12,NO,3.6,,,41,,,NORMAL,1,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18137035,09/04/2017,,,,3.4,19.8,,51,44,,,,,
+139333015,10/01/2017,12,NO,3.6,1.56,17.1,41,50,38,NORMAL,1,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+148112004,05/31/2018,14.5,NO,4.4,,,39,,,,,CLEAR,,1-Beautiful, could not be nicer
+139333015,07/08/2018,11,NO,3.3,,,43,,,NORMAL,6,CLEAR,BROWN,2-Very minor aesthetic problems
+148112004,07/08/2018,,,,2.13,16.8,,50,41,,,,,
+139333015,08/19/2018,14,NO,4.3,,,39,,,NORMAL,6,CLEAR,GREEN,2-Very minor aesthetic problems
+148112004,08/21/2018,15.75,,4.8,1.58,12.4,37,48,38,,,,,
+139333015,09/28/2018,14,NO,4.3,,,39,,,NORMAL,6,CLEAR,GREEN,2-Very minor aesthetic problems
+139333015,09/29/2018,,,,1.44,11,,47,38,,,,,
+79323097,11/07/2018,12,NO,3.6,,,41,,,,,,,
+79323097,02/13/2019,,,,,,,,,,,,,
+79323097,04/24/2019,14,NO,4.3,,,39,,,HIGH,,,,
+1,07/14/2019,14.6,NO,4.4,2.64,13.2,39,48,42,,,,,
+139333015,07/14/2019,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,08/15/2019,19.9,NO,6,1.64,12.5,34,48,39,,,,,
+139333015,08/15/2019,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+139333015,09/20/2019,17.5,N,5.3,0.88,11.1,36,47,34,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+143167470,08/05/2020,18.3,N,5.6,2.3,17.9,35,50,41,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/25/1982,,,8.5,C,10.1,MG/L
+02/16/1983,,,1.5,C,1,MG/L
+04/28/1983,,,14,C,11.8,MG/L
+02/20/1984,,,2,C,.2,MG/L
+05/14/1984,,,11,C,11.6,MG/L
+07/30/2016,3,FEET,76.4,DEGREES F,,
+07/30/2016,6,FEET,76.2,DEGREES F,,
+07/30/2016,9,FEET,75.9,DEGREES F,,
+07/30/2016,12,FEET,73.7,DEGREES F,,
+07/30/2016,15,FEET,68.3,DEGREES F,,
+07/30/2016,18,FEET,58.8,DEGREES F,,
+07/30/2016,21,FEET,53.4,DEGREES F,,
+07/30/2016,24,FEET,51.9,DEGREES F,,
+07/30/2016,27,FEET,51.4,DEGREES F,,
+08/28/2016,3,FEET,73.2,DEGREES F,,
+08/28/2016,6,FEET,73.4,DEGREES F,,
+08/28/2016,9,FEET,73.4,DEGREES F,,
+08/28/2016,12,FEET,70.5,DEGREES F,,
+08/28/2016,15,FEET,64.2,DEGREES F,,
+08/28/2016,18,FEET,56.1,DEGREES F,,
+08/28/2016,21,FEET,53.6,DEGREES F,,
+08/28/2016,24,FEET,53.6,DEGREES F,,
+08/28/2016,27,FEET,52.8,DEGREES F,,
+09/30/2016,3,FEET,63,DEGREES F,,
+09/30/2016,6,FEET,62.7,DEGREES F,,
+09/30/2016,9,FEET,62.6,DEGREES F,,
+09/30/2016,12,FEET,62.6,DEGREES F,,
+09/30/2016,15,FEET,62.6,DEGREES F,,
+09/30/2016,18,FEET,62.4,DEGREES F,,
+09/30/2016,21,FEET,61.1,DEGREES F,,
+09/30/2016,24,FEET,57.2,DEGREES F,,
+09/30/2016,27,FEET,56.4,DEGREES F,,
+08/09/2017,3,FEET,72.8,DEGREES F,,
+08/09/2017,6,FEET,72.6,DEGREES F,,
+08/09/2017,9,FEET,71.9,DEGREES F,,
+08/09/2017,12,FEET,71,DEGREES F,,
+08/09/2017,15,FEET,69.6,DEGREES F,,
+08/09/2017,18,FEET,63.8,DEGREES F,,
+08/09/2017,21,FEET,56.4,DEGREES F,,
+08/09/2017,24,FEET,54.8,DEGREES F,,
+08/09/2017,27,FEET,54.6,DEGREES F,,
+09/01/2017,3,FEET,69.2,DEGREES F,,
+09/01/2017,6,FEET,68.7,DEGREES F,,
+09/01/2017,9,FEET,68.3,DEGREES F,,
+09/01/2017,12,FEET,68,DEGREES F,,
+09/01/2017,15,FEET,67.8,DEGREES F,,
+09/01/2017,18,FEET,67.2,DEGREES F,,
+09/01/2017,21,FEET,60.6,DEGREES F,,
+09/01/2017,24,FEET,57.3,DEGREES F,,
+09/01/2017,27,FEET,56.4,DEGREES F,,
+10/01/2017,3,FEET,65.3,DEGREES F,,
+10/01/2017,6,FEET,65.1,DEGREES F,,
+10/01/2017,9,FEET,64.5,DEGREES F,,
+10/01/2017,12,FEET,64.2,DEGREES F,,
+10/01/2017,15,FEET,63.8,DEGREES F,,
+10/01/2017,18,FEET,63.8,DEGREES F,,
+10/01/2017,21,FEET,66.7,DEGREES F,,
+10/01/2017,24,FEET,60.2,DEGREES F,,
+10/01/2017,27,FEET,60,DEGREES F,,
+05/31/2018,3,FEET,24.4,DEGREES C,10.13,MG/L
+05/31/2018,6,FEET,22.9,DEGREES C,15.54,MG/L
+05/31/2018,9,FEET,19.1,DEGREES C,15.91,MG/L
+05/31/2018,12,FEET,14.8,DEGREES C,18.49,MG/L
+05/31/2018,15,FEET,12.35,DEGREES C,17.6,MG/L
+05/31/2018,18,FEET,10.7,DEGREES C,17.52,MG/L
+05/31/2018,21,FEET,9.8,DEGREES C,6.63,MG/L
+07/08/2018,3,FEET,80.6,DEGREES F,,
+07/08/2018,6,FEET,80,DEGREES F,,
+07/08/2018,9,FEET,79.5,DEGREES F,,
+07/08/2018,12,FEET,76.6,DEGREES F,,
+07/08/2018,15,FEET,73.2,DEGREES F,,
+07/08/2018,18,FEET,60,DEGREES F,,
+07/08/2018,21,FEET,57.2,DEGREES F,,
+07/08/2018,24,FEET,55.5,DEGREES F,,
+07/08/2018,27,FEET,54.8,DEGREES F,,
+08/19/2018,3,FEET,80.9,DEGREES F,,
+08/19/2018,6,FEET,79.3,DEGREES F,,
+08/19/2018,9,FEET,78.8,DEGREES F,,
+08/19/2018,12,FEET,78.2,DEGREES F,,
+08/19/2018,15,FEET,75.2,DEGREES F,,
+08/19/2018,18,FEET,70.1,DEGREES F,,
+08/19/2018,21,FEET,62.4,DEGREES F,,
+08/19/2018,24,FEET,60.6,DEGREES F,,
+08/19/2018,27,FEET,58.8,DEGREES F,,
+09/28/2018,3,FEET,61.1,DEGREES F,,
+09/28/2018,6,FEET,61.1,DEGREES F,,
+09/28/2018,9,FEET,60.9,DEGREES F,,
+09/28/2018,12,FEET,60.8,DEGREES F,,
+09/28/2018,15,FEET,60.6,DEGREES F,,
+09/28/2018,18,FEET,60.2,DEGREES F,,
+09/28/2018,21,FEET,60,DEGREES F,,
+09/28/2018,24,FEET,60,DEGREES F,,
+09/28/2018,27,FEET,60.8,DEGREES F,,
+11/07/2018,2,FEET,6.42,DEGREES C,11.72,MG/L
+11/07/2018,4,FEET,6.43,DEGREES C,11.81,MG/L
+11/07/2018,6,FEET,6.41,DEGREES C,11.88,MG/L
+11/07/2018,8,FEET,6.4,DEGREES C,11.87,MG/L
+11/07/2018,10,FEET,6.39,DEGREES C,11.85,MG/L
+11/07/2018,12,FEET,6.37,DEGREES C,11.9,MG/L
+11/07/2018,14,FEET,6.36,DEGREES C,11.85,MG/L
+11/07/2018,16,FEET,6.31,DEGREES C,11.85,MG/L
+11/07/2018,18,FEET,6.3,DEGREES C,11.82,MG/L
+11/07/2018,20,FEET,6.29,DEGREES C,11.68,MG/L
+11/07/2018,22,FEET,7.79,DEGREES C,8.79,MG/L
+02/13/2019,5,FEET,4.4,DEGREES C,4.67,MG/L
+02/13/2019,7,FEET,4.3,DEGREES C,2.52,MG/L
+02/13/2019,9,FEET,4.7,DEGREES C,.95,MG/L
+02/13/2019,11,FEET,5,DEGREES C,.63,MG/L
+02/13/2019,13,FEET,5.1,DEGREES C,.46,MG/L
+02/13/2019,15,FEET,5.2,DEGREES C,.4,MG/L
+02/13/2019,17,FEET,5.4,DEGREES C,.33,MG/L
+02/13/2019,19,FEET,5.6,DEGREES C,.3,MG/L
+02/13/2019,21,FEET,5.7,DEGREES C,.28,MG/L
+04/24/2019,2,FEET,10.79,DEGREES C,10.78,MG/L
+04/24/2019,4,FEET,10.25,DEGREES C,10.83,MG/L
+04/24/2019,6,FEET,10.15,DEGREES C,10.91,MG/L
+04/24/2019,8,FEET,9.75,DEGREES C,10.89,MG/L
+04/24/2019,10,FEET,8.23,DEGREES C,11.18,MG/L
+04/24/2019,12,FEET,7.34,DEGREES C,10.22,MG/L
+04/24/2019,14,FEET,7.11,DEGREES C,8.47,MG/L
+04/24/2019,16,FEET,7.4,DEGREES C,5.51,MG/L
+04/24/2019,18,FEET,7.26,DEGREES C,5.41,MG/L
+07/14/2019,3,FEET,78,DEGREES F,,
+07/14/2019,6,FEET,78,DEGREES F,,
+07/14/2019,9,FEET,77.9,DEGREES F,,
+07/14/2019,12,FEET,74.6,DEGREES F,,
+07/14/2019,15,FEET,67.1,DEGREES F,,
+07/14/2019,18,FEET,61.7,DEGREES F,,
+07/14/2019,21,FEET,59,DEGREES F,,
+07/14/2019,24,FEET,56.1,DEGREES F,,
+07/14/2019,27,FEET,55.5,DEGREES F,,
+07/14/2019,,,78,C,,
+08/15/2019,3,FEET,74.1,DEGREES F,,
+08/15/2019,6,FEET,73.9,DEGREES F,,
+08/15/2019,9,FEET,73.7,DEGREES F,,
+08/15/2019,12,FEET,73.5,DEGREES F,,
+08/15/2019,15,FEET,73.2,DEGREES F,,
+08/15/2019,18,FEET,68,DEGREES F,,
+08/15/2019,21,FEET,61.8,DEGREES F,,
+08/15/2019,24,FEET,58.2,DEGREES F,,
+08/15/2019,27,FEET,57.9,DEGREES F,,
+08/15/2019,,,73.9,C,,
+09/20/2019,3,FEET,69.8,DEGREES F,,
+09/20/2019,6,FEET,68,DEGREES F,,
+09/20/2019,9,FEET,65.6,DEGREES F,,
+09/20/2019,12,FEET,64.7,DEGREES F,,
+09/20/2019,15,FEET,64,DEGREES F,,
+09/20/2019,18,FEET,63.6,DEGREES F,,
+09/20/2019,21,FEET,62.9,DEGREES F,,
+09/20/2019,24,FEET,61.8,DEGREES F,,
+09/20/2019,27,FEET,61.7,DEGREES F,,
+09/20/2019,,,20,C,,
+08/05/2020,,,72.8,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/26/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/25/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/16/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/28/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/20/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/14/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/26/1997,Very windy- hard to tell what the color really was.    
+06/06/1997,Warm and nice.    
+06/22/1997,Heavy rain.    
+07/04/1997,Very windy and heavy rain.    
+07/21/1997,Small sections of lake bottom in shallows coming up- every year- same problem.  Very stinky.    
+08/02/1997,Lots of snails all over the lake shallows.  Water level: very low.    
+08/18/1997,Snails all over- small pike - no good.  No floating bogs.    
+08/28/1997,Lots of rain- fewer floating bogs.  Lots of snails all over everything.  Have to get the northern out- ruining our lake.    
+09/04/1997,No floating bogs.  Many snails- lot of northern - bad news.    
+09/13/1997,Very nice.  Snails all over everything.  Many small northern.    
+07/30/2016,wheather was good.  Lake was clear.  geese and ducks on the lake (always) 
+08/28/2016,clear day- clear water ducks and geese
+09/30/2016,clear weather clear lake ducks and geese
+07/08/2018,great weather.  4 geese.  Two years ago there were probably 44 geese on the lake regularly.  Very happy to see so few. 
+08/19/2018,weather was nice.  Sunny.  A few geese and ducks on the lake
+09/28/2018,cloudy and cool
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1982,Data Collectors,Migrated from STORET Legacy
+10/25/1982,Data Collectors,Migrated from STORET Legacy
+02/16/1983,Data Collectors,Migrated from STORET Legacy
+04/28/1983,Data Collectors,Migrated from STORET Legacy
+02/20/1984,Data Collectors,Migrated from STORET Legacy
+05/14/1984,Data Collectors,Migrated from STORET Legacy
+05/26/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+06/06/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+06/22/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/04/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/21/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/02/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/18/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/28/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/04/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/13/1997,Kenneth Willems,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/30/2016,Brenda L Nordin- TRAVIS J KINNING,Directed Lakes 2016 Nordin
+07/30/2016,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+07/30/2016,Pat Peeters,Directed Lakes 2016 Nordin
+08/28/2016,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/28/2016,Pat Peeters,Directed Lakes 2016 Nordin
+09/30/2016,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/30/2016,Pat Peeters,Directed Lakes 2016 Nordin
+08/09/2017,Brenda Nordin,East Proposed Projects 2016
+08/09/2017,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/01/2017,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/04/2017,Brenda Nordin,East Proposed Projects 2016
+10/01/2017,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+10/01/2017,Pat Peeters,Water Chemistry Data Analyses Tyler Forks- Upper Bad- and Potato River Watersheds 
+05/31/2018,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2018 Nordin
+07/08/2018,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2018 Nordin
+07/08/2018,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/19/2018,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/21/2018,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2018 Nordin
+09/28/2018,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/29/2018,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+11/07/2018,Ryan Haney,Oconto County Lake Studies
+02/13/2019,Ryan Haney,Oconto County Lake Studies
+04/24/2019,Ryan Haney,Oconto County Lake Studies
+07/14/2019,Data Collectors,Directed Lakes 2018 Nordin
+07/14/2019,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+08/15/2019,Data Collectors,Directed Lakes 2018 Nordin
+08/15/2019,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/20/2019,Pat Peeters,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)
+09/20/2019,Pat Peeters,Directed Lakes 2018 Nordin
+08/05/2020,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Green Lake - Deep Hole (Middle)

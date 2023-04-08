@@ -1,0 +1,56 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tilleda Pond,Shawano,302300,NE,59,,594006,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/30/1979,,,,7.25,34,,55,50,,,,,
+29190117,05/06/2013,, ,,,,,,,,,,,
+29190117,05/09/2013,, ,,,,,,,,,,,
+29190117,05/13/2013,, ,,,,,,,,,,,
+29190117,05/15/2013,, ,,,,,,,,,,,
+29190117,05/22/2013,, ,,,,,,,,,,,
+29190117,05/28/2013,, ,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/30/1979,,,,,7.8,MG/L
+05/06/2013,0,FEET,54.3,DEGREES F,,
+05/06/2013,3,FEET,52.4,DEGREES F,,
+05/06/2013,6,FEET,50.1,DEGREES F,,
+05/09/2013,0,FEET,54.7,DEGREES F,,
+05/09/2013,3,FEET,52.2,DEGREES F,,
+05/09/2013,6,FEET,50.1,DEGREES F,,
+05/13/2013,0,FEET,55.5,DEGREES F,,
+05/13/2013,3,FEET,53.2,DEGREES F,,
+05/13/2013,6,FEET,51.1,DEGREES F,,
+05/15/2013,0,FEET,56.1,DEGREES F,,
+05/15/2013,3,FEET,55.4,DEGREES F,,
+05/15/2013,6,FEET,53.4,DEGREES F,,
+05/22/2013,0,FEET,58.2,DEGREES F,,
+05/22/2013,3,FEET,57.7,DEGREES F,,
+05/22/2013,6,FEET,56.8,DEGREES F,,
+05/28/2013,0,FEET,58,DEGREES F,,
+05/28/2013,3,FEET,57.3,DEGREES F,,
+05/28/2013,6,FEET,56.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/30/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+07/30/1979,Data Collectors,Migrated from STORET Legacy
+05/06/2013,Jon Motquin,Water Quality Monitoring - Shawano County Land Conservation
+05/09/2013,Jon Motquin,Water Quality Monitoring - Shawano County Land Conservation
+05/13/2013,Jon Motquin,Water Quality Monitoring - Shawano County Land Conservation
+05/15/2013,Jon Motquin,Water Quality Monitoring - Shawano County Land Conservation
+05/22/2013,Jon Motquin,Water Quality Monitoring - Shawano County Land Conservation
+05/28/2013,Jon Motquin,Water Quality Monitoring - Shawano County Land Conservation

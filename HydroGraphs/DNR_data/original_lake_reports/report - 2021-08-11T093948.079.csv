@@ -1,0 +1,83 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Middle Sugarbush Lake,Vilas,2317700,NO,64,,10046810,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+129626225,07/08/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,07/30/2016,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,09/05/2016,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,09/30/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,07/03/2017,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,07/08/2017,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,07/22/2017,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,08/20/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,08/21/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+129626225,10/08/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,06/04/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+129626225,07/07/2018,7,NO,2.1,,,49,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+129626225,07/29/2018,9,NO,2.7,,,45,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+129626225,08/26/2018,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+129626225,06/21/2019,10,NO,3,,,44,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,07/08/2019,9,NO,2.7,,,45,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,07/27/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+129626225,09/20/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+129626225,07/03/2020,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+129626225,09/05/2020,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/30/2016,30 percent cloud cover- sunny- calm.
+This time- being a bit later- I had shade on the side of the boat where I tested. 
+It makes a difference!
+09/05/2016,70 percent cloud cover- windy.
+09/30/2016,sunny- light winds- shade side of boat
+07/03/2017,Sunny- light breeze. Previous days have been very windy. Lots of boat activity. Shade side of boat.
+07/08/2017,Sunny- light breeze. Lots of boat activity. Shade side of boat.
+07/22/2017,Mostly sunny- light breeze. Weather has been calm. Very little boat activity.
+08/20/2017,Sunny- windy- shade side of boat. Sunny- windy- shade side of boat. Sunny- windy- shade side of boat. 
+08/21/2017,Sunny- hazy- calm- during eclipse.
+10/08/2017,Clear and sunny- windy- sunny side of boat due to wind.
+06/04/2018,Sunny and windy. One Loon. 
+07/07/2018,Clear and sunny 
+07/29/2018,sunny- calm
+08/26/2018,Sunny- shade side. Sunny- shade side
+06/21/2019,Mostly sunny- light breeze
+07/08/2019,Sunny- calm
+07/27/2019,cloudy- light breeze
+09/20/2019,cloudy
+07/03/2020,calm- sunny- 25 percent cloud cover- busy lake- skiers- boat traffic
+09/05/2020,sunny- breezy- 25% cloud cover- no traffic 
+
+
+
+
+Start Date,Group Name,Project Name
+07/08/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/30/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+09/05/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+09/30/2016,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/03/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/08/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/22/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+08/20/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+08/21/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+10/08/2017,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+06/04/2018,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/07/2018,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/29/2018,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+08/26/2018,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+06/21/2019,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/08/2019,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/27/2019,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+09/20/2019,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+07/03/2020,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 
+09/05/2020,Mary Baade,Citizen Lake Monitoring - Water Quality - Middle Sugarbush Lake; West Bay;Deep Hole 

@@ -1,0 +1,456 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rock Lake,Vilas,2311700,NO,64,,643254,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/13/1984,4.9,,1.5,19,,54,,57,,,,,
+1,10/02/1985,6.2,,1.9,,31,51,55,,,,,,
+8189777,04/04/1991,4.25,NO,1.3,,,56,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189777,06/23/1991,4,NO,1.2,,,57,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189777,07/14/1991,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189777,09/02/1991,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189777,05/01/1992,5,NO,1.5,,,54,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,05/31/1992,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189777,06/21/1992,6.5,NO,2,,,50,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,07/08/1992,5,NO,1.5,,,54,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,09/27/1992,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,06/13/1993,8.33,NO,2.5,,,47,,,LITTLE ABOVE NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,07/10/1993,5.75,NO,1.7,,,52,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,08/29/1993,5.75,NO,1.7,,,52,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189777,05/07/1994,8.33,NO,2.5,,,47,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,05/22/1994,9.5,NO,2.9,,,45,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,07/10/1994,6,NO,1.8,,,51,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,06/11/1995,8.75,NO,2.7,,,46,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,07/09/1995,7,NO,2.1,,,49,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,08/12/1995,6,NO,1.8,,,51,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8189777,09/03/1995,6.5,NO,2,,,50,,,LITTLE BELOW NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190073,05/25/1996,5,NO,1.5,,,54,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190073,06/09/1996,4.5,,1.4,,,55,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190073,08/03/1996,4.25,NO,1.3,,,56,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189777,08/17/1996,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,10/06/1996,6.75,NO,2.1,,,50,,,LITTLE ABOVE NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189777,05/31/1997,8,NO,2.4,,,47,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189777,07/12/1997,6.5,NO,2,,,50,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190911,08/31/1997,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,05/01/1998,5,NO,1.5,,,54,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,05/02/1999,7,NO,2.1,,,49,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,06/13/1999,5,NO,1.5,,,54,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,07/06/1999,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190911,10/31/1999,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,06/25/2000,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,07/04/2000,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189777,08/27/2000,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189777,10/11/2000,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,06/17/2001,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,07/08/2001,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,07/07/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,08/10/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189777,09/01/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34982361,05/20/2005,,,,,26,,53,,,,,,
+34982355,06/05/2010,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982355,06/19/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34982355,07/04/2010,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34982355,08/09/2010,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18138689,05/19/2012,6,,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34982361,05/23/2013,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,06/07/2013,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,06/18/2013,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/26/2013,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,07/10/2013,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,07/19/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34982361,07/29/2013,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,08/09/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34982361,08/20/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/26/2013,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,09/06/2013,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,09/23/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,10/10/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,05/18/2014,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34982361,06/05/2014,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/22/2014,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/27/2014,, ,,,,,,,,,,,
+34982361,07/12/2014,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,07/30/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,08/14/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,08/21/2014,, ,,,,,,,,,,,
+34982361,08/26/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,09/04/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,09/18/2014,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,10/07/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,10/24/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,05/10/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,05/26/2015,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,06/15/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/29/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/12/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/27/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/11/2015,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34982361,08/25/2015,5.75,NO,1.7,,,52,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,09/14/2015,6,NO,1.8,,,51,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+34982361,10/01/2015,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+34982361,05/30/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,06/21/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/08/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/07/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/26/2016,6,NO,1.8,,,51,,,NORMAL,,CLEAR,,5-Enjoyment substantially impaired (algae)
+34982361,09/26/2016,6,NO,1.8,,,51,,,,,,,2-Very minor aesthetic problems
+34982361,10/21/2016,6.25,NO,1.9,,,51,,,NORMAL,,,YELLOW,1-Beautiful, could not be nicer
+34982361,06/06/2017,5.5,,1.7,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34982361,06/16/2017,,,,,,,,,,,,,
+34982361,06/27/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/11/2017,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/28/2017,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34982361,08/12/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/30/2017,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+34982361,09/25/2017,6,NO,1.8,,,51,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34982361,06/10/2018,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/26/2018,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,07/09/2018,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/24/2018,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/13/2018,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/28/2018,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,09/17/2018,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,06/12/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/27/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,07/09/2019,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/22/2019,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,08/12/2019,6.5,NO,2,,,50,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,08/28/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,09/25/2019,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,06/03/2020,6,NO,1.8,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+146351658,06/22/2020,,,,4.76,24.5,,53,47,,,,,
+34982361,06/24/2020,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34982361,07/13/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,07/27/2020,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+146351658,07/27/2020,,,,10.7,28.6,,54,53,,,,,
+34982361,08/11/2020,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+146351658,08/24/2020,,,,15.8,27.3,,54,56,,,,,
+34982361,08/27/2020,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34982361,09/11/2020,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+34982361,10/09/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/02/1985,,,8,C,8.3,MG/L
+05/23/2013,3,FEET,57.9,DEGREES F,9.36,MG/L
+05/23/2013,6,FEET,57.4,DEGREES F,8.72,MG/L
+05/23/2013,9,FEET,57,DEGREES F,8.56,MG/L
+05/23/2013,12,FEET,54.3,DEGREES F,7.66,MG/L
+05/23/2013,15,FEET,50.4,DEGREES F,5.32,MG/L
+05/23/2013,18,FEET,48.9,DEGREES F,3.44,MG/L
+06/26/2013,3,FEET,76.9,DEGREES F,7.63,MG/L
+06/26/2013,6,FEET,70.1,DEGREES F,4.69,MG/L
+06/26/2013,9,FEET,63.7,DEGREES F,1.24,MG/L
+06/26/2013,12,FEET,61.1,DEGREES F,.41,MG/L
+06/26/2013,15,FEET,59.2,DEGREES F,.24,MG/L
+06/26/2013,18,FEET,57.9,DEGREES F,.07,MG/L
+07/29/2013,3,FEET,65.3,DEGREES F,6.44,MG/L
+07/29/2013,6,FEET,64.4,DEGREES F,6.34,MG/L
+07/29/2013,9,FEET,63.8,DEGREES F,6.21,MG/L
+07/29/2013,12,FEET,63.6,DEGREES F,6.01,MG/L
+07/29/2013,15,FEET,63.1,DEGREES F,6.01,MG/L
+07/29/2013,18,FEET,57.7,DEGREES F,.41,MG/L
+08/26/2013,3,FEET,74.9,DEGREES F,7.37,MG/L
+08/26/2013,6,FEET,74.2,DEGREES F,7.22,MG/L
+08/26/2013,9,FEET,71.1,DEGREES F,2.6,MG/L
+08/26/2013,12,FEET,69,DEGREES F,.22,MG/L
+08/26/2013,15,FEET,67.1,DEGREES F,.08,MG/L
+08/26/2013,18,FEET,66.3,DEGREES F,.06,MG/L
+06/27/2014,3,FEET,70.1,DEGREES F,7.59,MG/L
+06/27/2014,6,FEET,69.2,DEGREES F,7.03,MG/L
+06/27/2014,9,FEET,65.1,DEGREES F,1.31,MG/L
+06/27/2014,12,FEET,60.9,DEGREES F,.69,MG/L
+06/27/2014,15,FEET,57,DEGREES F,.18,MG/L
+07/30/2014,3,FEET,71.9,DEGREES F,7.61,MG/L
+07/30/2014,6,FEET,71.2,DEGREES F,7.37,MG/L
+07/30/2014,9,FEET,69.8,DEGREES F,5.2,MG/L
+07/30/2014,12,FEET,68.7,DEGREES F,2.37,MG/L
+07/30/2014,15,FEET,66.5,DEGREES F,.24,MG/L
+07/30/2014,18,FEET,64.5,DEGREES F,.1,MG/L
+08/21/2014,3,FEET,69.1,DEGREES F,7.71,MG/L
+08/21/2014,6,FEET,69.3,DEGREES F,7.6,MG/L
+08/21/2014,9,FEET,68.6,DEGREES F,6.5,MG/L
+08/21/2014,12,FEET,67.9,DEGREES F,3.72,MG/L
+08/21/2014,15,FEET,66.6,DEGREES F,.27,MG/L
+08/21/2014,18,FEET,65.4,DEGREES F,.06,MG/L
+05/26/2015,3,FEET,65.5,DEGREES F,7.8,MG/L
+05/26/2015,6,FEET,64.3,DEGREES F,7.74,MG/L
+05/26/2015,9,FEET,60.7,DEGREES F,7.09,MG/L
+05/26/2015,12,FEET,59,DEGREES F,6.03,MG/L
+05/26/2015,15,FEET,57.1,DEGREES F,4.12,MG/L
+06/29/2015,3,FEET,73.6,DEGREES F,8.07,MG/L
+06/29/2015,6,FEET,70.5,DEGREES F,7.29,MG/L
+06/29/2015,9,FEET,67.1,DEGREES F,3.57,MG/L
+06/29/2015,12,FEET,65.7,DEGREES F,1.81,MG/L
+06/29/2015,15,FEET,63,DEGREES F,.22,MG/L
+07/27/2015,3,FEET,80.1,DEGREES F,7.48,MG/L
+07/27/2015,6,FEET,76.1,DEGREES F,6.75,MG/L
+07/27/2015,9,FEET,72.8,DEGREES F,3.2,MG/L
+07/27/2015,12,FEET,70.5,DEGREES F,.77,MG/L
+07/27/2015,15,FEET,67.8,DEGREES F,.23,MG/L
+06/16/2017,3,FEET,72.3,DEGREES F,7.77,MG/L
+06/16/2017,6,FEET,71.5,DEGREES F,7.61,MG/L
+06/16/2017,9,FEET,67.5,DEGREES F,4.41,MG/L
+06/16/2017,12,FEET,61.1,DEGREES F,1.69,MG/L
+06/16/2017,15,FEET,57.6,DEGREES F,.76,MG/L
+09/25/2017,3,FEET,69.4,DEGREES F,8.71,MG/L
+09/25/2017,6,FEET,68.8,DEGREES F,8.07,MG/L
+09/25/2017,9,FEET,66.4,DEGREES F,5.83,MG/L
+09/25/2017,12,FEET,65,DEGREES F,3.71,MG/L
+09/25/2017,15,FEET,64.6,DEGREES F,2.39,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/13/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/02/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/04/1991,Sunny- bright    
+06/23/1991,Partly cloudy- 1 loon- 1 eagle- little pollen on surface    
+07/14/1991,Sunny- loon- osprey    
+09/02/1991,Partly cloudy- choppy    
+05/01/1992,Ice off 4-29- saw 2 blue heron.    
+05/31/1992,Lake is 5" above normal- little pollen- 2 blue herons wading.    
+06/21/1992,Observed 2 blue herons on water- black ducks-9 babies- mallards-7 babies.    
+07/08/1992,Partly cloudy- ripples on the water.  Water level is high because of 5" of rain overnight.    
+09/27/1992,Clear skies- ripples on the water- Canadian geese flying south.    
+06/13/1993,Partly cloudy- SE breeze- small ripples- pollen on water- saw 2 eagles- 3 loon    
+07/10/1993,Partly cloudy- ripples on water    
+08/29/1993,High amount of pollen in the water.    
+05/07/1994,Ice out 4/22/94.  Clear blue skies.  Ripples on water.  Water was very clear.    
+05/22/1994,Clear sky- 78 degrees.  Gusty NW wind- ripples on water- saw a loon + 2 blue herons.  Pollen floating on surface.    
+07/10/1994,Partly cloudy- ripples on water.    
+06/11/1995,Ice off 4/21/95- partly cloudy- ripples on water.  2 large families of black ducks swimming the shore line.    
+07/09/1995,75 degrees- partly cloudy.    
+08/12/1995,Overcast day-75 degrees-ripples on the water.    
+09/03/1995,Clear blue sky- slight breeze- been a hot humid summer- temps. in 80's + 90's.    
+05/25/1996,Ice off 5/11. Slight breeze.    
+06/09/1996,Bright sunny day.  Observed a pair of loons.    
+08/03/1996,Breezy day- choppy water- water is very stirred up.    
+08/17/1996,Ripples on the surface- no clouds in the sky.    
+10/06/1996,Clear sky- ripple on water. Observed one loon. Leaf color just about at peak.    
+05/31/1997,Ice - out 4-26- beautiful sunny day- slight breeze.    
+07/12/1997,Partly cloudy.    
+08/31/1997,Beautiful sunny day- heavy boat traffic- ripples on the water- and 82 degrees    
+05/02/1999,Ice out 4/13.  Sunny day.    
+07/06/1999,Blue skies- breezy.    
+10/31/1999,Southern breeze- blue sky- 60 F.    
+06/25/2000,Beautiful- sunny day. 1st day without rain in about 2 weeks. 2 loons- pair of Canada geese with 2 babies.    
+07/04/2000,Partly cloudy.    
+08/27/2000,Perfect weather today. 78 degrees and slight breeze- sunny. 2 loons (not together).    
+10/11/2000,Beautiful sunny day    
+06/17/2001,Ice out on 4/20/01.  Beautiful day.  Sunny- the temperature is 72 degrees- slight ripple on the water- and saw a blue heron.    
+07/08/2001,Beautiful day- the temperature is 88 degrees- south breeze- and observed one loon.    
+07/07/2002,Lots of boat traffic- slight breeze    
+08/10/2002,Sunny- slight ripples.    
+09/01/2002,Partly cloudy- observed an eagle fishing from a tree branch    
+05/20/2005,DEEP HOLE - INTEGRATED SAMPLE     
+05/19/2012,Very nice day.  temps in the 60's. partly cloudy.  windy
+05/23/2013,sunny + clear; stiff breeze; surface temp.= 57.2 degrees
+06/07/2013,partly cloudy and calm; surface temp. = 61.4 degrees
+06/18/2013,sunny and light breeze; surface temp.= 68.4 degrees
+06/26/2013,partly cloudy and light breeze; surface temp.= 73.8 degrees
+07/10/2013,partly cloudy and light breeze; surface temp.= 72.6 degrees
+07/19/2013,partly cloudy and breezy; surface temp.= 78.9 degrees
+07/29/2013,sunny and calm; surface temp.= 68.3 degrees
+08/09/2013,PARTLY CLOUDY AND light breeze; surface temp.= 68.3 degrees
+08/20/2013,partly cloudy and light breeze; surface temp.= 71.6 degrees
+08/26/2013,mostly cloudy and calm; surface temp.= 73.5 degrees
+09/06/2013,mostly sunny and light breeze; surface temp.= 66.7 degrees
+09/23/2013,sunny and quite breezy; surface temp.= 58.1 degrees
+10/10/2013,partly cloudy and breezy; surface temp.= 56.8 degrees
+05/18/2014,Partly cloudy;  light breeze; surface temp.= 52.0 degrees
+06/05/2014,sunny; breezy; surface temp.= 71.3 degrees
+06/22/2014,mostly sunny; light breeze; surface temp.= 71.8 degrees
+07/12/2014,Mostly cloudy + calm; surface temp.= 72.0 degrees
+07/30/2014,Sunny and calm; surface temp.= 70.5 degrees
+08/14/2014,Mostly sunny and calm; surface temp. = 71.4 degrees
+08/26/2014,Mostly cloudy; light breeze; surface temp.= 69.4 degrees
+09/04/2014,mostly cloudy; light breeze; surface temp.= 70.8 degrees
+09/18/2014,Cloudy and light breeze; surface temp.= 55.8 degrees
+10/07/2014,Mostly sunny and calm; surface temp.= 49.3 degrees
+10/24/2014,Mostly sunny and light breeze; surface temp. = 45.2 degrees
+05/10/2015,Mostly cloudy + breezy; surface temp.= 59.0 degrees
+05/26/2015,cloudy + calm; surface temp.= 61.9 degrees
+06/15/2015,mostly cloudy and lite breeze; surface temp.= 68.8 degrees
+06/29/2015,Mostly sunny + light breeze; surface temp.= 71.8 degrees
+07/12/2015,Cloudy and breezy; surface temp.= 72.0 degrees
+07/27/2015,Bright sunshine; hot + calm; surface temp.= 77.8 degrees
+08/11/2015,Sunny and light breeze; surface temp.: 71.0 degrees
+08/25/2015,cloudy and light breeze; surface temp.= 63.1 degrees
+09/14/2015,Sunny. Warm and light breeze; surface temp.= 68.8 degrees
+10/01/2015,Sunny and light breeze; surface temp.= 59.2 degrees-
+05/30/2016,mostly sunny and light breeze; surface temp=67.2 degrees
+06/21/2016,partly sunny and breezy; surface temp=72.7 degrees
+07/08/2016,mostly cloudy and calm; surface temp=72.9 degrees
+08/07/2016,mostly sunny and calm; surface temp=77.4 degrees
+08/26/2016,mostly cloudy and light breeze; surface temp=69.0 degrees
+09/26/2016,mostly sunny and light breeze; surface temp= 58.5 degrees
+10/21/2016,mostly cloudy and calm
+06/06/2017,mostly sunny and calm; surface temp=67.8 degrees
+06/27/2017,mostly sunny and light breeze
+07/11/2017,sunny and calm; surface temp=72.6 degrees
+07/28/2017,mostly sunny and calm; surface temp=73.4 degrees
+08/12/2017,mostly sunny and light breeze; surface temp=73.8 degrees
+08/30/2017,mostly cloudy and light breeze; surface temp=66.7 degrees
+09/25/2017,partly cloudy and calm; surface temp=68.4 degrees partly cloudy and calm; surface temp=68.4 degrees
+06/10/2018,sunny and light breeze; surface temp=68.1 degrees
+06/26/2018,sunny and light breeze; surface temp=70.5 degrees
+07/09/2018,partly cloudy and light breeze; surface temp=75.7 degrees
+07/24/2018,partly sunny and light breeze; surface temp=74.2 degrees
+08/13/2018,sunny and calm; surface temp=76.1 degrees
+08/28/2018,overcast and light breeze; surface temp=70.0 degrees
+09/17/2018,sunny and light breeze; surface temp=69.2 degrees
+06/12/2019,partly cloudy and light breeze partly cloudy and light breeze; surface temp=66.1 degrees
+06/27/2019,cloudy and calm; surface temp=67.8 degrees
+07/09/2019,sunny and breezy; surface temp=75.1 degrees
+07/22/2019,sunny and light breeze; surface temp= 73.7 degrees
+08/12/2019,mostly sunny and light breeze; surface temp=70.0 degrees
+08/28/2019,mostly sunny and breezy; surface temp=62.9 degrees
+09/25/2019,mostly sunny and windy; surface temp=65.0 degrees
+06/03/2020,sunny and calm; surface temp.= 67.8 degrees
+06/03/2020,sunny and light breeze; surface temp.= 64.8 degrees
+06/24/2020,sunny and light breeze; surface temp.= 69.7 degrees
+07/13/2020,sunny and light breeze; surface temp.=76.4 degrees
+07/27/2020,sunny and calm; surface temp.= 73.8 degrees
+08/11/2020,sunny and light breeze; surface temp.= 71.8 degrees
+08/27/2020,partly sunny and light breeze; surface temp.= 73.5 degrees
+09/11/2020,SUNNY AND BREEZY;  turnover has started; surface temp.= 59.5 degrees
+10/09/2020,partly sunny and quite windy; surface temp.= 52.6 degrees
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/1984,Data Collectors,Migrated from STORET Legacy
+10/02/1985,Data Collectors,Migrated from STORET Legacy
+04/04/1991,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/23/1991,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/14/1991,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/02/1991,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/01/1992,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/31/1992,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/21/1992,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/08/1992,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/27/1992,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/13/1993,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/10/1993,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/29/1993,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/07/1994,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/22/1994,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/10/1994,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/11/1995,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/09/1995,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/12/1995,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/03/1995,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/25/1996,Robert Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/09/1996,Robert Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/03/1996,Robert Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/17/1996,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/06/1996,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/31/1997,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/12/1997,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/31/1997,Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/01/1998,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/02/1999,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/13/1999,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/06/1999,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/31/1999,Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/25/2000,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/04/2000,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/27/2000,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/11/2000,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/17/2001,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/08/2001,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/07/2002,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/10/2002,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/01/2002,Robert And Shirley Chernowski,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/20/2005,Steve Budnik,Citizen Lake Monitoring - Water Quality - North Turtle Lake; Deep Hole
+05/20/2005,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/05/2010,Steve McKnight,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/19/2010,Steve McKnight,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/04/2010,Steve McKnight,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/09/2010,Steve McKnight,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/19/2012,Dan Meinnert,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/23/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/07/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/18/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/26/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/10/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/19/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/29/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/09/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/20/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/26/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/06/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/23/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/10/2013,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/18/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/05/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/22/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/27/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/12/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/30/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/14/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/21/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/26/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/04/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/18/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/07/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/24/2014,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/10/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/26/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/15/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/29/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/12/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/27/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/11/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/25/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/14/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/01/2015,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+05/30/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/21/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/08/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/07/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/26/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/26/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+10/21/2016,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/06/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/16/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/27/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/11/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/28/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/12/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/30/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/25/2017,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/10/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/26/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/09/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/24/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/13/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/28/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/17/2018,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/12/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/27/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/09/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/22/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/12/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/28/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/25/2019,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/03/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - North Turtle Lake; Deep Hole
+06/03/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/22/2020,Gary Engstrom,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+06/24/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/13/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/27/2020,Gary Engstrom,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+07/27/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/11/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/24/2020,Gary Engstrom,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+08/27/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/11/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole
+09/11/2020,Steve Budnik,SCR Long-Term Trend Lakes
+10/09/2020,Steve Budnik,Citizen Lake Monitoring - Water Quality - Rock Lake; Deep Hole

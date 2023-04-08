@@ -1,0 +1,478 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Friendship Lake,Adams,1352000,WC,1,,013018,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189794,07/10/1994,3.5,NO,1.1,,,59,,,,,,BROWN,2-Very minor aesthetic problems
+8189794,07/24/1994,3.25,NO,1,,,60,,,,,,BROWN,2-Very minor aesthetic problems
+8189794,08/06/1994,4.75,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8189794,08/21/1994,7.5,NO,2.3,,,48,,,1' LOW,,,GREEN,2-Very minor aesthetic problems
+8189794,08/28/1994,6.25,NO,1.9,,,51,,,6" HIGH,,,GREEN,2-Very minor aesthetic problems
+8189794,09/24/1994,5.25,NO,1.6,,,53,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,05/28/1995,3.5,NO,1.1,9.59,24,59,53,52,LOW,,,BROWN,2-Very minor aesthetic problems
+1,07/09/1995,4.25,NO,1.3,0.69,38,56,56,32,HIGH 6",,,GREEN,1-Beautiful, could not be nicer
+8189794,07/30/1995,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+1,09/10/1995,7.5,NO,2.3,12.2,24,48,53,54,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,06/24/1996,3.5,NO,1.1,17.5,35,59,56,56,NORMAL,,,BROWN,2-Very minor aesthetic problems
+1,08/11/1996,5.5,NO,1.7,9.36,20,53,51,52,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,09/29/1996,6,NO,1.8,14,23,51,52,55,10" BELOW NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189442,06/11/1999,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189442,06/14/1999,,,,2.35,19,,51,41,,,,,
+8189442,06/25/1999,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189069,07/11/1999,5,NO,1.5,16.9,34,54,55,56,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189442,07/31/1999,3.6,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189069,08/20/1999,5.75,NO,1.7,16,33,52,55,56,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189442,09/06/1999,9,NO,2.7,,,45,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189442,09/19/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189442,10/03/1999,8.1,NO,2.5,,,47,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189442,06/13/2000,3,NO,0.9,12,57,61,59,54,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189442,06/25/2000,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189442,07/09/2000,6.5,NO,2,4.3,29,50,54,46,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189442,07/16/2000,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189442,07/23/2000,5,NO,1.5,17,33,54,55,56,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189442,10/13/2000,,,,4,25,,53,45,,,,,
+8189442,05/19/2001,6,NO,1.8,6,,51,,48,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189442,06/24/2001,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189442,07/15/2001,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189442,08/05/2001,5,NO,1.5,7,,54,,50,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189442,10/02/2001,,,,13,29,,54,54,,,,,
+8189442,10/10/2001,6,YES,1.8,,,51,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+7000090,04/23/2002,,,,,,,,,,,,,
+8189442,06/17/2002,6.24,NO,1.9,,36,51,56,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000090,07/10/2002,4,NO,1.2,3.52,28,57,54,44,,,,,
+18137361,07/19/2002,4,NO,1.2,,,57,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+1,07/29/2002,,,,13,28,,54,54,,,,,
+8189442,07/31/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,07/31/2002,7,NO,2.1,,,49,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,08/19/2002,,,,,,,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189442,09/07/2002,7,NO,2.1,10.8,,49,,53,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189442,05/23/2003,4.5,NO,1.4,,33,55,55,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+18137361,06/16/2003,6.5,NO,2,,,50,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+8189442,07/27/2003,,,,11.4,21,,52,53,,,,,
+18137361,07/31/2003,7.5,NO,2.3,,,48,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189442,09/01/2003,,,,18.7,29,,54,57,,,,,
+18137361,04/07/2004,4,NO,1.2,,,57,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189442,06/13/2004,,,,1.44,65,,60,38,,,,,
+18137361,06/29/2004,3,NO,0.9,,,61,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189442,07/26/2004,8,NO,2.4,6.86,62,47,60,49,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,08/23/2004,5.5,NO,1.7,,,53,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189442,08/29/2004,6.9,NO,2.1,15.6,36,49,56,56,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137361,09/15/2004,8.5,NO,2.6,,,46,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189442,09/27/2004,12.5,YES,3.8,5.5,26,41,53,48,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137361,11/08/2004,5.5,NO,1.7,,,53,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,02/10/2005,,,,,,,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,04/13/2005,5.5,NO,1.7,,,53,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+8189442,05/30/2005,8.5,NO,2.6,6.18,22,46,52,49,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,07/04/2005,6.5,NO,2,,,50,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,07/19/2005,8,NO,2.4,,,47,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189442,08/02/2005,4,NO,1.2,9.11,34,57,55,52,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,08/08/2005,6,NO,1.8,,,51,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189442,08/20/2005,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137361,08/29/2005,6,NO,1.8,,,51,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,09/14/2005,11.5,NO,3.5,,,42,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,11/04/2005,6,NO,1.8,,,51,,,,,MURKY,BLUE,2-Very minor aesthetic problems
+18137361,04/11/2006,5,NO,1.5,,,54,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+18137361,07/07/2006,7.5,NO,2.3,,,48,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189442,07/23/2006,3.5,NO,1.1,27.9,48,59,58,60,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+18137361,07/27/2006,4,NO,1.2,,,57,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,09/05/2006,5,NO,1.5,,,54,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,09/07/2006,5,NO,1.5,,,54,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+8189442,09/08/2006,5,NO,1.5,21.6,31,54,55,58,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137361,09/19/2006,7,NO,2.1,,,49,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,04/06/2010,5.3,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,04/06/2012,,,,,32,,55,,,,,,
+25475302,07/31/2012,2.8,,0.9,68.1,103,62,64,67,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+25475302,08/31/2012,,,,64.4,82,,62,66,,,,,
+46322075,06/27/2013,2,NO,0.6,2.64,84.4,67,62,42,LOW,10,CLEAR,RED,2-Very minor aesthetic problems
+1,07/15/2013,,,,1.84,39.3,,57,39,,,,,
+46322075,07/31/2013,10,NO,3,15,21.2,44,52,55,LOW,10,CLEAR,YELLOW,2-Very minor aesthetic problems
+46322075,08/27/2013,10,NO,3,31.7,21.4,44,52,61,LOW,10,CLEAR,YELLOW,2-Very minor aesthetic problems
+81855095,08/28/2013,,,,1.18,27.9,,54,36,,,,,
+46322075,06/24/2014,10,NO,3,5.52,26.1,44,53,48,LOW,,MURKY,RED,2-Very minor aesthetic problems
+46322075,07/20/2014,10,NO,3,18.5,23.9,44,53,57,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+46322075,08/27/2014,5,NO,1.5,14.9,20.9,54,52,55,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+18137361,04/15/2015,6,YES,1.8,,37.2,51,56,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18137361,05/11/2016,5,NO,1.5,,33.5,54,55,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+100740559,07/27/2017,2.75,NO,0.8,4.05,70.4,63,61,45,LOW,6,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+100740559,08/29/2017,7.5,NO,2.3,4.63,25.6,48,53,46,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29569968,05/25/2018,5,NO,1.5,,25.5,54,53,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+46322075,06/22/2018,10,NO,3,1.75,66.2,44,61,39,NORMAL,10,,RED,1-Beautiful, could not be nicer
+46322075,07/19/2018,6.75,NO,2.1,,26.2,50,53,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+46322075,08/30/2018,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+46322075,08/31/2018,,,,0.884,58.8,,60,34,,,,,
+260537898,06/24/2020,,,,4.76,30.6,,55,47,,,,,
+260537898,07/26/2020,,,,6.17,23.5,,53,49,,,,,
+260537898,08/26/2020,,,,2.59,19,,51,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/28/1995,3,FEET,60,DEGREES F,,
+05/28/1995,6,FEET,60,DEGREES F,,
+05/28/1995,9,FEET,58,DEGREES F,,
+05/28/1995,12,FEET,58,DEGREES F,,
+07/09/1995,3,FEET,74,DEGREES F,,
+07/09/1995,6,FEET,72,DEGREES F,,
+07/09/1995,9,FEET,70,DEGREES F,,
+07/09/1995,12,FEET,67,DEGREES F,,
+07/09/1995,15,FEET,65,DEGREES F,,
+07/30/1995,3,FEET,78,DEGREES F,,
+07/30/1995,6,FEET,78,DEGREES F,,
+07/30/1995,9,FEET,75,DEGREES F,,
+07/30/1995,12,FEET,72,DEGREES F,,
+07/30/1995,15,FEET,71,DEGREES F,,
+09/10/1995,3,FEET,68,DEGREES F,,
+09/10/1995,6,FEET,65,DEGREES F,,
+09/10/1995,9,FEET,65,DEGREES F,,
+09/10/1995,12,FEET,65,DEGREES F,,
+09/10/1995,15,FEET,64,DEGREES F,,
+06/24/1996,3,FEET,70,DEGREES F,,
+06/24/1996,6,FEET,69,DEGREES F,,
+06/24/1996,9,FEET,67,DEGREES F,,
+06/24/1996,12,FEET,61,DEGREES F,,
+08/11/1996,3,FEET,75,DEGREES F,,
+08/11/1996,6,FEET,75,DEGREES F,,
+08/11/1996,9,FEET,73,DEGREES F,,
+08/11/1996,12,FEET,71,DEGREES F,,
+08/11/1996,15,FEET,68,DEGREES F,,
+09/29/1996,3,FEET,59,DEGREES F,,
+09/29/1996,6,FEET,58,DEGREES F,,
+09/29/1996,9,FEET,56,DEGREES F,,
+09/29/1996,12,FEET,56,DEGREES F,,
+04/23/2002,,,10.4,C,8.75,MG/L
+07/10/2002,6.56,FEET,,,9,MG/L
+07/10/2002,,,26.0,C,9.0,MG/L
+07/19/2002,3,FEET,80.8,DEGREES F,,
+07/19/2002,4,FEET,80.15,DEGREES F,,
+07/19/2002,5,FEET,76.8,DEGREES F,,
+07/19/2002,6,FEET,75.69,DEGREES F,,
+07/19/2002,7,FEET,74.25,DEGREES F,,
+07/19/2002,8,FEET,72.82,DEGREES F,,
+07/19/2002,9,FEET,71.51,DEGREES F,,
+07/19/2002,10,FEET,70.81,DEGREES F,8.1,MG/L
+07/31/2002,3,FEET,78.01,DEGREES F,11.55,MG/L
+07/31/2002,4,FEET,77.81,DEGREES F,,
+07/31/2002,5,FEET,77.72,DEGREES F,11.5,MG/L
+07/31/2002,6,FEET,77.07,DEGREES F,,
+07/31/2002,7,FEET,76.19,DEGREES F,,
+07/31/2002,8,FEET,73.53,DEGREES F,,
+07/31/2002,9,FEET,72.34,DEGREES F,,
+07/31/2002,10,FEET,71.08,DEGREES F,9.8,MG/L
+08/19/2002,3,FEET,73.36,DEGREES F,12.15,MG/L
+08/19/2002,4,FEET,72.52,DEGREES F,,
+08/19/2002,5,FEET,72.68,DEGREES F,11.8,MG/L
+08/19/2002,6,FEET,68.18,DEGREES F,,
+08/19/2002,7,FEET,67.73,DEGREES F,,
+08/19/2002,8,FEET,67.42,DEGREES F,,
+08/19/2002,9,FEET,66.76,DEGREES F,,
+08/19/2002,10,FEET,66.74,DEGREES F,9.95,MG/L
+05/23/2003,1,FEET,70,DEGREES F,,
+05/23/2003,2,FEET,67,DEGREES F,,
+05/23/2003,3,FEET,65,DEGREES F,,
+05/23/2003,4,FEET,64,DEGREES F,,
+05/23/2003,5,FEET,65,DEGREES F,,
+05/23/2003,6,FEET,63,DEGREES F,,
+05/23/2003,7,FEET,64,DEGREES F,,
+05/23/2003,8,FEET,63,DEGREES F,,
+05/23/2003,9,FEET,63,DEGREES F,,
+05/23/2003,10,FEET,62,DEGREES F,,
+06/16/2003,3,FEET,75.24,DEGREES F,11.4,MG/L
+06/16/2003,5,FEET,72.16,DEGREES F,10.6,MG/L
+06/16/2003,10,FEET,60.91,DEGREES F,7.85,MG/L
+06/16/2003,12,FEET,60.04,DEGREES F,7.2,MG/L
+07/31/2003,3,FEET,76.37,DEGREES F,10.9,MG/L
+07/31/2003,5,FEET,76.34,DEGREES F,10.8,MG/L
+07/31/2003,7,FEET,76.14,DEGREES F,10.7,MG/L
+04/07/2004,3,FEET,51.69,DEGREES F,10.55,MG/L
+04/07/2004,5,FEET,50.9,DEGREES F,10.35,MG/L
+04/07/2004,10,FEET,47.35,DEGREES F,9.8,MG/L
+04/07/2004,13,FEET,45.81,DEGREES F,9.45,MG/L
+06/29/2004,3,FEET,63.27,DEGREES F,10.2,MG/L
+06/29/2004,5,FEET,60.53,DEGREES F,9.45,MG/L
+06/29/2004,7,FEET,56.77,DEGREES F,9.05,MG/L
+06/29/2004,10,FEET,58.19,DEGREES F,8.75,MG/L
+06/29/2004,13,FEET,57.72,DEGREES F,8.25,MG/L
+07/26/2004,3,FEET,73.2,DEGREES F,,
+07/26/2004,6,FEET,67.4,DEGREES F,,
+07/26/2004,9,FEET,65.4,DEGREES F,,
+07/26/2004,12,FEET,63.8,DEGREES F,,
+08/23/2004,3,FEET,65.61,DEGREES F,11.45,MG/L
+08/23/2004,5,FEET,65.67,DEGREES F,11.4,MG/L
+08/23/2004,10,FEET,65.55,DEGREES F,11.6,MG/L
+08/29/2004,3,FEET,68,DEGREES F,,
+08/29/2004,6,FEET,64.9,DEGREES F,,
+08/29/2004,9,FEET,63.3,DEGREES F,,
+08/29/2004,12,FEET,61.8,DEGREES F,,
+09/15/2004,3,FEET,66.88,DEGREES F,12.2,MG/L
+09/15/2004,5,FEET,65.21,DEGREES F,11.9,MG/L
+09/15/2004,7,FEET,64.2,DEGREES F,12.1,MG/L
+09/27/2004,3,FEET,63.3,DEGREES F,,
+09/27/2004,6,FEET,62.6,DEGREES F,,
+09/27/2004,9,FEET,62.2,DEGREES F,,
+09/27/2004,12,FEET,61.1,DEGREES F,,
+11/08/2004,3,FEET,45.5,DEGREES F,4,MG/L
+11/08/2004,5,FEET,45.45,DEGREES F,4.05,MG/L
+11/08/2004,10,FEET,45.32,DEGREES F,4.4,MG/L
+11/08/2004,13,FEET,45.1,DEGREES F,6.05,MG/L
+02/10/2005,3,FEET,37.62,DEGREES F,7.25,MG/L
+02/10/2005,5,FEET,38.97,DEGREES F,6.95,MG/L
+02/10/2005,10,FEET,39.91,DEGREES F,6.85,MG/L
+02/10/2005,12,FEET,38.66,DEGREES F,6.8,MG/L
+02/10/2005,14,FEET,38.48,DEGREES F,6.85,MG/L
+04/13/2005,3,FEET,53.78,DEGREES F,6.9,MG/L
+04/13/2005,5,FEET,53.73,DEGREES F,7.7,MG/L
+04/13/2005,10,FEET,53.49,DEGREES F,4,MG/L
+05/30/2005,3,FEET,64.7,DEGREES F,,
+05/30/2005,6,FEET,63.3,DEGREES F,,
+05/30/2005,9,FEET,61.7,DEGREES F,,
+05/30/2005,12,FEET,60,DEGREES F,,
+07/04/2005,3,FEET,74.59,DEGREES F,10.9,MG/L
+07/04/2005,5,FEET,74.37,DEGREES F,10.2,MG/L
+07/04/2005,10,FEET,71.56,DEGREES F,8.95,MG/L
+07/04/2005,13,FEET,64.87,DEGREES F,6.5,MG/L
+07/19/2005,3,FEET,78.76,DEGREES F,11.3,MG/L
+07/19/2005,5,FEET,78.48,DEGREES F,11.05,MG/L
+07/19/2005,10,FEET,72.14,DEGREES F,10,MG/L
+07/19/2005,13,FEET,72.34,DEGREES F,10,MG/L
+08/02/2005,3,FEET,76.2,DEGREES F,,
+08/02/2005,6,FEET,71.6,DEGREES F,,
+08/02/2005,9,FEET,66.7,DEGREES F,,
+08/02/2005,12,FEET,65.1,DEGREES F,,
+08/08/2005,3,FEET,78.06,DEGREES F,7.4,MG/L
+08/08/2005,5,FEET,73.27,DEGREES F,8.45,MG/L
+08/08/2005,10,FEET,70.43,DEGREES F,8.45,MG/L
+08/08/2005,13,FEET,68.07,DEGREES F,9.8,MG/L
+08/20/2005,3,FEET,73.4,DEGREES F,,
+08/20/2005,6,FEET,72.6,DEGREES F,,
+08/20/2005,9,FEET,68.7,DEGREES F,,
+08/20/2005,12,FEET,67.1,DEGREES F,,
+08/29/2005,3,FEET,71.11,DEGREES F,9.75,MG/L
+08/29/2005,5,FEET,68.28,DEGREES F,9.7,MG/L
+08/29/2005,10,FEET,66.13,DEGREES F,10.45,MG/L
+08/29/2005,12,FEET,65.91,DEGREES F,10.2,MG/L
+09/14/2005,3,FEET,72.86,DEGREES F,9.3,MG/L
+09/14/2005,5,FEET,72.66,DEGREES F,9.3,MG/L
+09/14/2005,10,FEET,69.24,DEGREES F,9.7,MG/L
+09/14/2005,13,FEET,65.97,DEGREES F,10.35,MG/L
+11/04/2005,3,FEET,48.2,DEGREES F,10.3,MG/L
+11/04/2005,5,FEET,48.2,DEGREES F,10.35,MG/L
+11/04/2005,10,FEET,48.18,DEGREES F,9.8,MG/L
+11/04/2005,13,FEET,48.09,DEGREES F,10.3,MG/L
+04/11/2006,3,FEET,52.39,DEGREES F,11.5,MG/L
+04/11/2006,5,FEET,51.48,DEGREES F,11.75,MG/L
+04/11/2006,10,FEET,46.63,DEGREES F,11.9,MG/L
+04/11/2006,13,FEET,48.47,DEGREES F,11.7,MG/L
+07/07/2006,3,FEET,76.17,DEGREES F,8.4,MG/L
+07/07/2006,5,FEET,75.61,DEGREES F,8.64,MG/L
+07/07/2006,10,FEET,74.44,DEGREES F,8.7,MG/L
+07/27/2006,3,FEET,82.02,DEGREES F,8.85,MG/L
+07/27/2006,5,FEET,79.9,DEGREES F,9.59,MG/L
+07/27/2006,10,FEET,74.23,DEGREES F,7.91,MG/L
+07/27/2006,13,FEET,71.62,DEGREES F,11.4,MG/L
+09/05/2006,5,FEET,69.4,DEGREES F,8.16,MG/L
+09/05/2006,10,FEET,66.22,DEGREES F,9.2,MG/L
+09/05/2006,13,FEET,66.38,DEGREES F,9.16,MG/L
+09/07/2006,3,FEET,68.63,DEGREES F,9.34,MG/L
+09/07/2006,5,FEET,68.4,DEGREES F,9.8,MG/L
+09/07/2006,10,FEET,64.9,DEGREES F,7.49,MG/L
+09/07/2006,13,FEET,65.69,DEGREES F,9.25,MG/L
+09/19/2006,3,FEET,60.87,DEGREES F,7.58,MG/L
+09/19/2006,5,FEET,60.89,DEGREES F,7.63,MG/L
+09/19/2006,10,FEET,60.91,DEGREES F,7.68,MG/L
+04/06/2010,0,FEET,53.9,DEGREES F,,
+04/06/2010,5,FEET,52.8,DEGREES F,,
+04/06/2010,10,FEET,51.9,DEGREES F,,
+07/31/2012,0,FEET,79.1,DEGREES F,,
+07/31/2012,3,FEET,78.6,DEGREES F,,
+07/31/2012,6,FEET,75.9,DEGREES F,,
+07/31/2012,9,FEET,71.6,DEGREES F,,
+07/31/2012,12,FEET,69.2,DEGREES F,,
+07/31/2012,15.5,FEET,68.7,DEGREES F,,
+06/27/2013,1,FEET,74.4,DEGREES F,,
+06/27/2013,5,FEET,73.4,DEGREES F,,
+06/27/2013,10,FEET,64.2,DEGREES F,,
+07/31/2013,0.1,FEET,66.7,DEGREES F,,
+07/31/2013,5,FEET,64.5,DEGREES F,,
+07/31/2013,10,FEET,62.2,DEGREES F,,
+06/24/2014,0,FEET,72.2,DEGREES F,,
+06/24/2014,5,FEET,68.9,DEGREES F,,
+06/24/2014,10,FEET,62.7,DEGREES F,,
+07/20/2014,0,FEET,71.4,DEGREES F,,
+07/20/2014,5,FEET,64.7,DEGREES F,,
+07/20/2014,10,FEET,62.2,DEGREES F,,
+08/27/2014,0,FEET,73.4,DEGREES F,,
+08/27/2014,5,FEET,64.7,DEGREES F,,
+08/27/2014,10,FEET,62.2,DEGREES F,,
+04/15/2015,0,FEET,55.9,DEGREES F,,
+04/15/2015,5,FEET,55.5,DEGREES F,,
+04/15/2015,10,FEET,55,DEGREES F,,
+05/11/2016,0,FEET,58.8,DEGREES F,,
+05/11/2016,5,FEET,58.2,DEGREES F,,
+05/11/2016,10,FEET,57,DEGREES F,,
+07/27/2017,0.5,FEET,78.8,DEGREES F,,
+07/27/2017,5,FEET,65.3,DEGREES F,,
+07/27/2017,10,FEET,61.1,DEGREES F,,
+08/29/2017,0.5,FEET,68,DEGREES F,,
+08/29/2017,5,FEET,60.2,DEGREES F,,
+08/29/2017,10,FEET,58.1,DEGREES F,,
+05/25/2018,3,FEET,68,DEGREES F,,
+05/25/2018,6,FEET,64.2,DEGREES F,,
+05/25/2018,9,FEET,57.7,DEGREES F,,
+05/25/2018,12,FEET,54.6,DEGREES F,,
+06/22/2018,10,FEET,62.9,DEGREES F,,
+07/19/2018,1,FEET,76.8,DEGREES F,,
+07/19/2018,5,FEET,73.7,DEGREES F,,
+07/19/2018,10,FEET,68.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/28/1995,Overcast    
+07/30/1995,Clear sunny day- gorgeous- too bad it's so hot!!    
+09/10/1995,Clear day.    
+06/24/1996,Cloudy day- lots of rain.    
+08/11/1996,TOP    
+09/29/1996,Nice sunny day- chilly.    
+05/19/2001,DEEP HOLE    
+08/05/2001,DEEP HOLE    
+10/02/2001,DEEP HOLE    
+04/23/2002,DEEP HOLE NEAR DAM    
+06/17/2002,DEEP HOLE    
+07/10/2002,DEEP HOLE NEAR DAM - 2M INTEGRATED SAMPLE    
+07/29/2002,DEEP HOLE    
+09/07/2002,DEEP HOLE    
+05/23/2003,DEEP HOLE    
+07/27/2003,DEEP HOLE    
+09/01/2003,DEEP HOLE    
+06/13/2004,DEEP HOLE-6FT INTEGRATED SAMPLE    
+07/26/2004,Sunny    
+08/29/2004,Partly cloudy    
+09/27/2004,Sunny    
+02/10/2005,with Martin Billings--sample taken through hole in ice-over lake
+05/30/2005,DEEP HOLE - INTEGRATED SAMPLE    
+08/02/2005,DEEP HOLE - INTERGRATED SAMPLE    
+04/06/2010,windy- sunny- 60s
+07/31/2012,mostly sunny day- moderate wind mostly sunny-moderate wind
+06/27/2013,Slight wind- overcast sky- humid with no boat traffic.
+Jim Moonan helper- and Reesa Evans assisting for our first time monitoring.
+
+07/31/2013,Linda and Jim Moonan / Slight wind / Sunny / no boats.
+08/27/2013,Linda and Jim Moonan tested. Overcast / calm / no boat traffic / humid 
+Ph 1.5
+06/24/2014,Linda Moonan/Jim Moonan monitored. Sunny- calm day with little boat traffic.  Temp in the 70's.Water level low but rising slightly. 
+07/20/2014,Samples preserved in refrigeration for Monday 7/21/14 mailing. Slightly humid- overcast day- sky partly cloudy- no boat traffic- some beach activity.- slighjt wind.
+Jim Moonan assisted.
+08/27/2014,Calm- humid day with some beach activity.  Some fishing activity.  Jim and Linda Moonan monitored.  
+04/15/2015,sunny- but quite windy--air temp 63.8--aquatic plants from last year- including EWM- clearly visible and clinging to the oars
+05/11/2016,cold (mid 50s)- overcast- wind picking up
+07/27/2017,Partly Cloudy and Calm- Max. Depth 12'
+08/29/2017,Calm- Partly cloudy- Max. Depth 12'
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1994,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/24/1994,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/06/1994,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/21/1994,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/28/1994,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/24/1994,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+05/28/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/09/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/30/1995,Lloyd And Darlene Hovorka,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/10/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/24/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/11/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/29/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/11/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/14/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/25/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/11/1999,Lloyd And Darlene Hovorka and Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/31/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/20/1999,Lloyd And Darlene Hovorka and Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/06/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/19/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+10/03/1999,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/13/2000,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/25/2000,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/09/2000,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/16/2000,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/23/2000,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+10/13/2000,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+05/19/2001,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/24/2001,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/15/2001,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/05/2001,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+10/02/2001,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+10/10/2001,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/23/2002,Mark Hazuga,Lake Baseline Monitoring- DNR (1970s-2006)
+06/17/2002,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/10/2002,Mark Hazuga,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/2002,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/29/2002,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/31/2002,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/31/2002,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/19/2002,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/07/2002,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+05/23/2003,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/16/2003,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/27/2003,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/31/2003,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/01/2003,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/07/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/13/2004,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/29/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/26/2004,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/23/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/29/2004,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/15/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/27/2004,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+11/08/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+02/10/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/13/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+05/30/2005,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/04/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/19/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/02/2005,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/08/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/20/2005,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/29/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/14/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+11/04/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/11/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/07/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/23/2006,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/27/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/05/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/07/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/08/2006,Tom Steiskal,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+09/19/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/06/2010,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/06/2012,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/31/2012,Robert Berry,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/31/2012,Robert Berry,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/27/2013,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/15/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/31/2013,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/27/2013,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/28/2013,Betsy Vannettie,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/24/2014,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/20/2014,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/27/2014,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+04/15/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+05/11/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/27/2017,Laurence Swaziek,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/29/2017,Laurence Swaziek,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+05/25/2018,Kason Morley,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/22/2018,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/19/2018,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/30/2018,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/31/2018,Linda Moonan,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+06/24/2020,Greg Weiss,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+07/26/2020,Greg Weiss,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth
+08/26/2020,Greg Weiss,Citizen Lake Monitoring - Water Quality - Friendship Lake; Max Depth

@@ -1,0 +1,166 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Balsam Lake,Washburn,2112800,NO,66,,663150,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188717,08/26/2003,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8188717,09/10/2003,8.75,NO,2.7,,,46,,,NORMAL,,MURKY,GREEN,
+8188717,10/08/2003,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,
+8188718,07/27/2005,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188718,08/22/2005,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188718,09/16/2005,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188718,10/16/2005,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+17616799,05/27/2006,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+17616799,06/16/2006,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,07/22/2006,9.75,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,08/10/2006,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+17616799,09/09/2006,8.25,NO,2.5,,,47,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+17616799,10/01/2006,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,05/28/2007,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,06/09/2007,14.75,NO,4.5,,,38,,,NORMAL,,,,
+17616799,06/23/2007,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,07/04/2007,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,07/15/2007,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,07/24/2007,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/05/2007,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/14/2007,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/31/2007,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,09/15/2007,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,10/04/2007,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,06/01/2008,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+17616799,06/26/2008,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+17616799,07/06/2008,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,07/23/2008,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/02/2008,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,08/17/2008,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/31/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,09/26/2008,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,05/28/2009,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+17616799,06/11/2009,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+17616799,06/25/2009,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,07/13/2009,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+17616799,07/19/2009,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/05/2009,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17616799,08/20/2009,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188959,10/29/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/29/2020,0,FEET,42.2,DEGREES F,11.93,MG/L
+10/29/2020,1,FEET,42.8,DEGREES F,9.24,MG/L
+10/29/2020,2,FEET,42.9,DEGREES F,8.11,MG/L
+10/29/2020,3,FEET,43,DEGREES F,7.75,MG/L
+10/29/2020,4,FEET,43.1,DEGREES F,7.46,MG/L
+10/29/2020,5,FEET,43.1,DEGREES F,7.28,MG/L
+10/29/2020,6,FEET,43.1,DEGREES F,7.15,MG/L
+10/29/2020,7,FEET,43.1,DEGREES F,6.92,MG/L
+10/29/2020,8,FEET,43.1,DEGREES F,6.93,MG/L
+10/29/2020,9,FEET,43.1,DEGREES F,6.87,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/26/2003,slight chop + low sun angle    
+09/10/2003,slight chop    
+10/08/2003,marked decrease in clarity    
+07/27/2005,clearest water seen in past 15+ years- slight chop    
+08/22/2005,calm water surface    
+09/16/2005,slight chop    
+10/16/2005,lake is appearing to be turning over- low sun angle    
+05/27/2006,partly cloudy- moderate chop
+06/16/2006,partly cloudy- slight chop
+07/22/2006,partly cloudy
+08/10/2006,mostly sunny
+09/09/2006,partly cloudy
+10/01/2006,clear- sunny- slight chop
+05/28/2007,Unusually clear water condition; slight wave action; high sun angle; air temperature in  mid 70's; high scattered cloud cover.
+06/09/2007,High- sparce clouds; high sun angle- air temperature in the high 70's; light wave action.  Water clarity improving from previous week's reading.
+
+Eagle's nest in twin pines along east shore of Balsam Lake (east of public boat access landing at end of Balsam Lake Road) is active this year- with young eagles present.  This nest has been active every second or third year since first viewed in 1989- although nest may have been present in preceding years.
+06/23/2007,Temp in mid-80's- clear sky- slight wave action- high sun angle.
+07/04/2007,Same comments as reported for other station on this lake this date.
+07/24/2007,Same information as entered for other site on Balsam Lake this date.
+08/05/2007,Same as for second site on Balsam Lake on this date.
+08/14/2007,Same data as entered this date for second site on Balsam Lake.
+08/31/2007,Same data as entered for other site on same lake this date. Same data as entered for other site for same lake on same date.
+09/15/2007,Same information as entered for second site on same lake on this date.
+10/04/2007,Cloudless sky with air temp approximately 75 degrees.  Water surface nearly calm.  This is final submission of lake monitoring data for 2007.  Expect to resume monitoring and submission of data mid-May 2008.
+06/01/2008,15% cloud cover- light breeze- air temperature is 74.  Water clarity is noticeably poorer compared to this time last year.
+06/26/2008,See data + comments for second site on same lake: #663045.  Additional comment:  fair amount of pollen in the water.
+07/06/2008,Following comments relate to this site and site #663045 on this date.  Approximately 95% cloud cover at time of readings.  An hour later- cloud cover was reduced to approximately 60%.  Air temp is 83 degrees- with a light breeze from the south.  Water clarity continues to improve over two previous readings.
+07/23/2008,Same as site #663045.
+08/17/2008,Observations recorded are applicable to both sites being reported on this date.  15% cloud cover- temp in mid 80's- wind from south/southwest at approx 10 mph.  Light to moderate wave action.
+08/31/2008,See information submitted for site #663045 on same lake.
+09/26/2008,See comments for site #663045 on this date.
+05/28/2009,Partly cloudy- 50% cloud cover; light breeze from northwest with minimal wave action.  Air temp 74 degrees.  Water clarity marginal to poor.
+06/11/2009,Refer to information submitted for site #663045.
+06/25/2009,Refer to information entered for site #663045.
+07/13/2009,See data entry for site #663045 (same lake) on this date.
+07/19/2009,Very little wave action; nearly calm.  Air temp at 77 degrees with a 15% cloud cover.  Despite the lack of earlier sightings- we visually identified six (6) eagles on Balsam Lake this afternoon- three mature adults and three adolescents- all within a 35 minute-time span.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+08/05/2009,Light wind- about 5-7 mph- from the northwest; air temp at 73 degrees with approximately 50% cloud cover.  Only two other boats on the lake at this time.  Four eagles sighted; two adults in flight and two young birds perched along shoreline south- east corner of lake.  One bird remained perched approximately 25 feet above our dock while we were launching the boat.  Appeared to be very comfortable being within close proxmity us.
+08/20/2009,Moderate winds of approximate 3-5 mph from northwest- air temp at 74 degrees with a 65% cloud cover.  Only boat visible on lake at this time.  Four eagles and one deer sighted.
+
+
+
+
+Start Date,Group Name,Project Name
+08/26/2003,Wayne North and Dave Blumer,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+09/10/2003,Wayne North and Dave Blumer,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+10/08/2003,Wayne North and Dave Blumer,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/27/2005,Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/22/2005,Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+09/16/2005,Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+10/16/2005,Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+05/27/2006,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/16/2006,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/22/2006,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/10/2006,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+09/09/2006,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+10/01/2006,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+05/28/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/09/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/23/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/04/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/15/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/24/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/05/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/14/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/31/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+09/15/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+10/04/2007,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/01/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/26/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/06/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/23/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/02/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/17/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/31/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+09/26/2008,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+05/28/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/11/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+06/25/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/13/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+07/19/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/05/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+08/20/2009,Jeannie and Wayne North,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End
+10/29/2020,Dave Blumer,Citizen Lake Monitoring - Water Quality - Balsam Lake; Deep Hole - North End

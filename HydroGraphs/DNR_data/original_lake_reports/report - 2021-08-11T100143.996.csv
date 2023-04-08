@@ -1,0 +1,107 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Youngs Lake,Waupaca,264300,NE,69,,693101,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/04/1992,,,,,10,,46,,,,,,
+1,09/22/1992,,,,3.58,17,,50,44,,,,,
+1,02/03/1993,,,,,,,,,,,,,
+1,05/20/1993,33.1,,10.1,,,27,,,,,,,
+62595126,08/14/2012,11.5,NO,3.5,9.19,24,42,53,52,,,,,
+81855176,07/14/2013,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,08/15/2013,12.5,YES,3.8,,,41,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,08/02/2014,13,YES,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/26/2016,11.8,N,3.6,0.45,15.2,42,49,29,,,,,
+145584054,06/21/2017,,,,3.96,20.5,,52,45,,,,,
+81855176,08/22/2017,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/15/2017,11,NO,3.3,,,43,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,07/14/2019,9.25,NO,2.8,,,45,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81855176,08/17/2019,11,,3.3,,,43,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+165388101,04/26/2020,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,06/08/2020,9.5,NO,2.9,1.21,18.7,45,51,36,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+165388101,07/28/2020,11,YES,3.3,14.3,19,43,51,55,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+165388101,08/24/2020,9,NO,2.7,3.77,17.6,45,50,45,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/30/2020,12.5,YES,3.8,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/22/1992,,,13.58,C,4.74,MG/L
+02/03/1993,,,4.13,C,0.76,MG/L
+05/20/1993,,,11.73,C,9.51,MG/L
+08/14/2012,0,METERS,21,DEGREES C,10.4,MG/L
+08/14/2012,0.5,METERS,20.6,DEGREES C,10.2,MG/L
+08/14/2012,1,METERS,20.2,DEGREES C,9.1,MG/L
+08/14/2012,1.5,METERS,19.3,DEGREES C,10.1,MG/L
+08/14/2012,2,METERS,18.8,DEGREES C,8.4,MG/L
+08/14/2012,2.5,METERS,18.3,DEGREES C,8.4,MG/L
+08/14/2012,3,METERS,17.8,DEGREES C,7.8,MG/L
+08/14/2012,3.5,METERS,17.5,DEGREES C,7.1,MG/L
+07/26/2016,,,18.2,C,5.7,MG/L
+06/21/2017,0,METERS,20.05,DEGREES C,8.25,MG/L
+06/21/2017,1,METERS,18.3,DEGREES C,6.1,MG/L
+06/21/2017,2,METERS,17,DEGREES C,4.7,MG/L
+06/21/2017,3,METERS,14.6,DEGREES C,.4,MG/L
+06/21/2017,3.5,METERS,13.2,DEGREES C,.1,MG/L
+04/26/2020,0,FEET,56.6,DEGREES F,,
+04/26/2020,3,FEET,51.6,DEGREES F,,
+04/26/2020,6,FEET,49.4,DEGREES F,,
+04/26/2020,9,FEET,46.2,DEGREES F,,
+04/26/2020,12,FEET,45.6,DEGREES F,,
+06/08/2020,0,FEET,66.3,DEGREES F,,
+06/08/2020,3,FEET,59.9,DEGREES F,,
+06/08/2020,6,FEET,56.1,DEGREES F,,
+06/08/2020,9,FEET,54.1,DEGREES F,,
+06/08/2020,12,FEET,53.4,DEGREES F,,
+07/28/2020,0,FEET,70.1,DEGREES F,,
+07/28/2020,3,FEET,66.3,DEGREES F,,
+07/28/2020,6,FEET,64.7,DEGREES F,,
+07/28/2020,9,FEET,63.3,DEGREES F,,
+07/28/2020,12,FEET,60.4,DEGREES F,,
+08/24/2020,0,FEET,71.9,DEGREES F,,
+08/24/2020,3,FEET,67.2,DEGREES F,,
+08/24/2020,6,FEET,64.4,DEGREES F,,
+08/24/2020,9,FEET,63.3,DEGREES F,,
+08/24/2020,12,FEET,62.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/14/2013,Mostly Sunny. Lots of algae near shore.
+08/15/2013,Partly Cloudy. 
+04/26/2020,no wind- sunny- janet helped
+06/08/2020,Sunny- no wind- a few canoes. 
+07/28/2020,light wind- partly cloudy- janet helping- 2 canoes came by- 78F air temp- a small weed patch in middle of lake
+08/24/2020,Partly sunny- no other boats- weeds in channel to lake- some weeds floating in lake
+
+
+
+
+Start Date,Group Name,Project Name
+02/04/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/04/1992,Data Collectors,LAKE MGT PROJECTS
+09/22/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+09/22/1992,Data Collectors,LAKE MGT PROJECTS
+02/03/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/03/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/14/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+07/14/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+08/15/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+08/02/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+06/21/2017,SARAH R FANNING- SHELBY T ADLER,EPA National Lakes Assessment 2017
+08/22/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+09/15/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+07/14/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+08/17/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+04/26/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+06/08/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+07/28/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+08/24/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole
+08/30/2020,Brian Zalay,Citizen Lake Monitoring - Water Quality - Youngs Lake - Deep Hole

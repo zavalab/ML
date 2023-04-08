@@ -1,0 +1,566 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pioneer Lake,Vilas,1623400,NO,64,,643094,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/10/1979,,,,5.05,,,,47,,,,,
+8189758,08/28/1995,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,09/03/1995,5.75,NO,1.7,,,52,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,09/10/1995,4.5,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,09/17/1995,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,09/23/1995,7.75,NO,2.4,,,48,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,09/29/1995,8.75,NO,2.7,,,46,,,,,,GREEN,1-Beautiful, could not be nicer
+8189758,10/04/1995,11.75,NO,3.6,,,42,,,,,,GREEN,1-Beautiful, could not be nicer
+8189758,10/11/1995,13,NO,4,,,40,,,,,,GREEN,1-Beautiful, could not be nicer
+8189758,10/18/1995,13.75,NO,4.2,,,39,,,,,,GREEN,1-Beautiful, could not be nicer
+8189758,10/25/1995,13,NO,4,,,40,,,,,,GREEN,1-Beautiful, could not be nicer
+8190512,06/28/1996,13.75,NO,4.2,,,39,,,,,,GREEN,1-Beautiful, could not be nicer
+8189529,07/03/1996,13.75,NO,4.2,,,39,,,,,,GREEN,1-Beautiful, could not be nicer
+8189529,07/10/1996,13.25,NO,4,,,40,,,,,,GREEN,1-Beautiful, could not be nicer
+8189529,07/16/1996,10.75,NO,3.3,,,43,,,,,,GREEN,1-Beautiful, could not be nicer
+8189529,07/21/1996,12,NO,3.6,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,07/26/1996,11,NO,3.3,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8189758,08/01/1996,10.25,NO,3.1,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8189529,08/09/1996,8.75,NO,2.7,,,46,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/16/1996,9.25,NO,2.8,,,45,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/21/1996,8.25,NO,2.5,,,47,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/27/1996,8.25,NO,2.5,,,47,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,09/01/1996,7.5,NO,2.3,,,48,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,09/09/1996,8,NO,2.4,,,47,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,09/18/1996,8,NO,2.4,,,47,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,09/25/1996,9.75,NO,3,,,44,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,10/01/1996,11,NO,3.3,,,43,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,10/08/1996,12.25,NO,3.7,,,41,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,10/14/1996,12.75,NO,3.9,,,40,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,10/19/1996,12.75,NO,3.9,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189529,10/28/1996,11.5,NO,3.5,,,42,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189529,06/12/1997,12.75,NO,3.9,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189529,06/27/1997,10.5,NO,3.2,,,43,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,07/07/1997,8,NO,2.4,,,47,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,07/15/1997,10.75,NO,3.3,,,43,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,07/22/1997,12.75,NO,3.9,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189529,07/29/1997,12.5,NO,3.8,,,41,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,08/05/1997,10.25,NO,3.1,,,44,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,08/13/1997,8.5,NO,2.6,11.8,33,46,55,53,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/18/1997,7.75,NO,2.4,,,48,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/25/1997,8,NO,2.4,,,47,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/03/1997,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/10/1997,8.25,NO,2.5,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/17/1997,11.5,NO,3.5,,,42,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,09/22/1997,9.5,NO,2.9,,,45,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,09/27/1997,9.5,NO,2.9,,,45,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,10/03/1997,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/08/1997,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/16/1997,12.5,NO,3.8,7.49,30,41,54,50,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/23/1997,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,10/29/1997,13.25,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,05/21/1998,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,05/26/1998,14.5,NO,4.4,,,39,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,06/03/1998,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,06/08/1998,8.75,NO,2.7,,,46,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,06/15/1998,11.25,NO,3.4,3.93,15,42,49,45,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,06/22/1998,11.75,NO,3.6,,,42,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,07/02/1998,11.25,NO,3.4,,,42,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,07/10/1998,14,NO,4.3,,,39,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,07/16/1998,13.5,NO,4.1,4.88,16,40,50,47,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,07/21/1998,12.5,NO,3.8,,,41,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,07/27/1998,9.75,NO,3,,,44,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,08/01/1998,8.25,NO,2.5,,,47,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/10/1998,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/15/1998,8.5,NO,2.6,11.8,21,46,52,53,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/20/1998,7.5,NO,2.3,,,48,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,08/25/1998,6.25,NO,1.9,,,51,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/31/1998,6.75,NO,2.1,,,50,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190512,09/08/1998,6.25,NO,1.9,,,51,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/16/1998,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/22/1998,7.25,NO,2.2,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/28/1998,8.75,NO,2.7,,,46,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,10/04/1998,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,10/09/1998,11.25,NO,3.4,,,42,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189529,10/14/1998,11.5,NO,3.5,8.46,26,42,53,51,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,10/21/1998,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/28/1998,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,05/26/1999,9.75,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,06/03/1999,12.25,NO,3.7,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,06/08/1999,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,06/15/1999,8.25,NO,2.5,5.39,21,47,52,48,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,06/21/1999,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,06/29/1999,8.25,NO,2.5,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/07/1999,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/12/1999,9.5,NO,2.9,3.29,21,45,52,44,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/17/1999,10.75,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/22/1999,9.75,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/27/1999,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/02/1999,8.25,NO,2.5,,,47,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/11/1999,8.5,NO,2.6,,,46,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/19/1999,8.5,NO,2.6,6,24,46,53,48,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/25/1999,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/30/1999,9.25,NO,2.8,,,45,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189529,09/07/1999,9.75,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/15/1999,7.75,NO,2.4,,,48,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/21/1999,10,NO,3,,,44,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,09/30/1999,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,10/06/1999,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189529,10/11/1999,13.5,NO,4.1,5,19,40,51,47,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/20/1999,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/25/1999,13.25,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,06/06/2000,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,06/29/2000,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,07/04/2000,15.25,NO,4.6,,,38,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/11/2000,13.25,NO,4,5,17,40,50,47,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190512,07/19/2000,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/24/2000,12.25,NO,3.7,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,07/31/2000,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/10/2000,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/16/2000,8.5,NO,2.6,10,25,46,53,52,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/23/2000,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,08/29/2000,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/05/2000,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/10/2000,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/21/2000,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,09/26/2000,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,10/03/2000,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,10/09/2000,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8190512,10/18/2000,13.25,NO,4,6,27,40,54,48,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190512,10/29/2000,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+144601491,06/06/2017,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+144601491,07/22/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+144601491,08/10/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+144601491,09/24/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/16/2019,,,,4.65,18.6,,51,46,,,,,
+1,08/19/2019,,,,14.4,22.3,,52,55,,,,,
+196678108,09/02/2019,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+196678108,09/09/2019,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,09/18/2019,,,,9.9,17.4,,50,52,,,,,
+196678108,09/20/2019,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+203496871,05/16/2020,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+196678108,05/24/2020,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+196678108,06/01/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+196678108,06/09/2020,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+196678108,06/17/2020,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+196678108,06/26/2020,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+196678108,07/03/2020,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+196678108,07/11/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+196678108,07/20/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+196678108,07/28/2020,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+196678108,08/04/2020,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+196678108,08/12/2020,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+196678108,08/20/2020,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+203496871,09/06/2020,7,NO,2.1,,,49,,,HIGH,,MURKY,RED,2-Very minor aesthetic problems
+203496871,09/21/2020,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+203496871,09/27/2020,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/10/1979,,,22,C,,
+08/13/1997,3,FEET,71,DEGREES F,,
+08/13/1997,6,FEET,71,DEGREES F,,
+08/13/1997,9,FEET,70,DEGREES F,,
+08/13/1997,12,FEET,70,DEGREES F,,
+08/13/1997,15,FEET,70,DEGREES F,,
+08/13/1997,18,FEET,66,DEGREES F,,
+08/13/1997,21,FEET,60,DEGREES F,,
+08/13/1997,24,FEET,55,DEGREES F,,
+10/16/1997,3,FEET,54,DEGREES F,,
+10/16/1997,6,FEET,54,DEGREES F,,
+10/16/1997,9,FEET,54,DEGREES F,,
+10/16/1997,12,FEET,54,DEGREES F,,
+10/16/1997,15,FEET,54,DEGREES F,,
+10/16/1997,18,FEET,54,DEGREES F,,
+10/16/1997,21,FEET,54,DEGREES F,,
+10/16/1997,24,FEET,53,DEGREES F,,
+06/15/1998,3,FEET,68,DEGREES F,,
+06/15/1998,6,FEET,68,DEGREES F,,
+06/15/1998,9,FEET,65,DEGREES F,,
+06/15/1998,12,FEET,63,DEGREES F,,
+06/15/1998,15,FEET,62,DEGREES F,,
+06/15/1998,18,FEET,62,DEGREES F,,
+06/15/1998,21,FEET,60,DEGREES F,,
+06/15/1998,24,FEET,58,DEGREES F,,
+07/16/1998,3,FEET,78,DEGREES F,,
+07/16/1998,6,FEET,77,DEGREES F,,
+07/16/1998,9,FEET,77,DEGREES F,,
+07/16/1998,12,FEET,76,DEGREES F,,
+07/16/1998,15,FEET,76,DEGREES F,,
+07/16/1998,18,FEET,70,DEGREES F,,
+07/16/1998,21,FEET,62,DEGREES F,,
+07/16/1998,24,FEET,60,DEGREES F,,
+08/15/1998,3,FEET,76,DEGREES F,,
+08/15/1998,6,FEET,75,DEGREES F,,
+08/15/1998,9,FEET,75,DEGREES F,,
+08/15/1998,12,FEET,75,DEGREES F,,
+08/15/1998,15,FEET,74,DEGREES F,,
+08/15/1998,18,FEET,70,DEGREES F,,
+08/15/1998,21,FEET,68,DEGREES F,,
+08/15/1998,24,FEET,64,DEGREES F,,
+10/14/1998,3,FEET,52,DEGREES F,,
+10/14/1998,6,FEET,52,DEGREES F,,
+10/14/1998,9,FEET,53,DEGREES F,,
+10/14/1998,12,FEET,53,DEGREES F,,
+10/14/1998,15,FEET,53,DEGREES F,,
+10/14/1998,18,FEET,53,DEGREES F,,
+10/14/1998,21,FEET,53,DEGREES F,,
+10/14/1998,24,FEET,53,DEGREES F,,
+06/15/1999,3,FEET,69,DEGREES F,,
+06/15/1999,6,FEET,69,DEGREES F,,
+06/15/1999,9,FEET,68,DEGREES F,,
+06/15/1999,12,FEET,68,DEGREES F,,
+06/15/1999,15,FEET,64,DEGREES F,,
+06/15/1999,18,FEET,63,DEGREES F,,
+06/15/1999,21,FEET,59,DEGREES F,,
+06/15/1999,24,FEET,56,DEGREES F,,
+07/12/1999,3,FEET,72,DEGREES F,,
+07/12/1999,6,FEET,72,DEGREES F,,
+07/12/1999,9,FEET,70,DEGREES F,,
+07/12/1999,12,FEET,69,DEGREES F,,
+07/12/1999,15,FEET,69,DEGREES F,,
+07/12/1999,18,FEET,68,DEGREES F,,
+07/12/1999,21,FEET,63,DEGREES F,,
+07/12/1999,24,FEET,57,DEGREES F,,
+08/19/1999,3,FEET,70,DEGREES F,,
+08/19/1999,6,FEET,70,DEGREES F,,
+08/19/1999,9,FEET,69,DEGREES F,,
+08/19/1999,12,FEET,69,DEGREES F,,
+08/19/1999,15,FEET,69,DEGREES F,,
+08/19/1999,18,FEET,68,DEGREES F,,
+08/19/1999,21,FEET,67,DEGREES F,,
+08/19/1999,24,FEET,63,DEGREES F,,
+10/11/1999,3,FEET,53,DEGREES F,,
+10/11/1999,6,FEET,52,DEGREES F,,
+10/11/1999,9,FEET,52,DEGREES F,,
+10/11/1999,12,FEET,52,DEGREES F,,
+10/11/1999,15,FEET,52,DEGREES F,,
+10/11/1999,18,FEET,52,DEGREES F,,
+10/11/1999,21,FEET,51,DEGREES F,,
+10/11/1999,24,FEET,51,DEGREES F,,
+07/11/2000,3,FEET,74,DEGREES F,,
+07/11/2000,6,FEET,73,DEGREES F,,
+07/11/2000,9,FEET,72,DEGREES F,,
+07/11/2000,12,FEET,70,DEGREES F,,
+07/11/2000,15,FEET,70,DEGREES F,,
+07/11/2000,18,FEET,69,DEGREES F,,
+07/11/2000,21,FEET,67,DEGREES F,,
+07/11/2000,24,FEET,64,DEGREES F,,
+08/16/2000,3,FEET,73,DEGREES F,,
+08/16/2000,6,FEET,73,DEGREES F,,
+08/16/2000,9,FEET,73,DEGREES F,,
+08/16/2000,12,FEET,72,DEGREES F,,
+08/16/2000,15,FEET,72,DEGREES F,,
+08/16/2000,18,FEET,72,DEGREES F,,
+08/16/2000,21,FEET,69,DEGREES F,,
+08/16/2000,24,FEET,62,DEGREES F,,
+10/18/2000,3,FEET,53,DEGREES F,,
+10/18/2000,6,FEET,53,DEGREES F,,
+10/18/2000,9,FEET,52,DEGREES F,,
+10/18/2000,12,FEET,51,DEGREES F,,
+10/18/2000,15,FEET,51,DEGREES F,,
+10/18/2000,18,FEET,51,DEGREES F,,
+10/18/2000,21,FEET,51,DEGREES F,,
+10/18/2000,24,FEET,51,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/10/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/28/1995,Partly sunny- light W breeze.  Bald eagle over S half.  Rain this day (very early a.m.) .  More expected. k.a.p.    
+09/03/1995,Mostly sunny- light south-southwest breeze- possible osprey snatched fish from south half of lake- with bald eagle soaring overhead osprey.  K.a.p.    
+09/10/1995,Sunny- light SW breeze.  Looks like a bit more algae suspended in water.  A bit more than previously.  Bald eagle over S half landed in white pine on the point.  Nights about 32 degrees F.  K.a.p.    
+09/17/1995,Partly cloudy- light WNW breeze-switching to southwest.  Two deer on W shore at 3: 40 p.m.  Blue heron standing at S shore-n of pioneer creek at 3: 50 p.m.  Appears that lake has "turned over".  Kap    
+09/23/1995,Partly cloudy- south-southwest breeze.  No white caps- increasing clouds and wind.  Gulls were the wildlife today.  Snow on 9-22-95. kap    
+09/29/1995,Partly sunny- high cirrus.  South-southwest breeze (no white caps) - clouds increasing.  Bald eagle over north half.  Two loons: one in north half- the other a short distance north of island. kap    
+10/04/1995,Partly cloudy- light west-southwest breeze- cumulus and cirrus clouds.  Light rain yesterday.  Two gulls in area of rock.  Heron at public landing shore.  Kap    
+10/11/1995,Partly cloudy- SW breeze- cirrus clouds.  Numerous gulls sheltering in island.  Kap    
+10/18/1995,Partly sunny- light NW breeze.  Cumulo-cirrus clouds.  There were a few gulls.  Kap    
+10/25/1995,Partly sunny- cirrostratus clouds.  South-southwest breeze (no white caps) .  Water appeared nearly clear at 1'.  This will be my last card for 1995.  See you in spring.  Kap    
+06/28/1996,Partly sunny- SW breeze. no whitecaps in lulls. bald eagle over point. 32 ducks on N side of point.    
+07/03/1996,With this reading participated in the great 1996 secchi dip-in. Sunny- light N breeze. No whitecaps. Bald eagle over southern part of lake.    
+07/10/1996,Sunny- light W breeze. occasional rain on 7/9 until early afternoon. gulls heard but not seen.    
+07/16/1996,Partly cloudy- breeze out of the west (no whitecaps) . rained most of last week- rained on 7-15 last- more expected. visited by lone loon (25' from boat) . cute!    
+07/21/1996,Partly cloudy (cirrus) - light south-southeast breeze (no whitecaps) . slightly more suspended particles than previously. two bald eagles over north side of lake. hawk went fishing. rain expected on 7-22. last rain on 7-18.    
+07/26/1996,Partly sunny- cumulus. NNW breeze (no whitecaps) . occasional rain from 7/22-7/24. suspended particles in water same as on 7/21. lone bald eagle caught lunch near point. perched on island white pine later.    
+08/01/1996,Sunny- light NW breeze (no whitecaps) . rainy period from 7/27-7/31. water appeared slightly more greenish than last. 2 bald eagles (one over point- other over lake's north) . unseen loon heard.    
+08/09/1996,Partly sunny- light NNW breeze (no whitecaps) . lake in midst of algal bloom. rain on 8/5 and 8/7. loon bobbing on N side of lake- 5 ducks at mouth of pioneer creek. heron seen .75 mile down pioneer creek.    
+08/16/1996,Rain on 8/12 to 8/15 (periodic) . partly cloudy. very light west-southwest breeze (near calms) . gull resting on rock in south portion of lake. fishermen out in force today. algal bloom appears to persist.    
+08/21/1996,Rain on 8-19. partly cloudy- south-southeast breeze (no whitecaps) . increasing clouds- rain expected on 8-22. 2 loons north of point- 2 gulls on and near rock- hawk over point. slightly less suspended water particles comparable to 7-26.    
+08/27/1996,Rain on 8-22 and on 8-25. partly cloudy- light (very) variable breeze-north-northeast to sw. slight increase of suspended particles since last. 7 gulls north of island- 8 ducks heading east (low) - bald eagle perched on point in white pine- hawk soaring    
+09/01/1996,Partly sunny- S breeze (no whitecaps) . Sunday of labor day weekend. plenty of floating bits of vegetation from heavy traffic. bald eagle over north end of lake- assorted gulls flying over/bobbing on north half of lake- unseen loon heard.    
+09/09/1996,Partly cloudy- light NNW breeze (no white caps) . rained last on 9-3 and 9-4. algae bloom appears to be over. up to 18 gulls- most bobbing on N portion of lake. 2 bald eagles (1 was juvenile) soaring near southeast portion of lake.    
+09/18/1996,Occasional rain on 9-10 and from 9/12-9/16. sunny light north breeze (no whitecaps) . some decrease of suspended water particles noted. bald eagle over southwest quarter of lake- 3 gulls to north of island- 2 ducks swimming in southwest corn    
+09/25/1996,Rain from 9/20-9/21- from 9/23-9/24. partly sunny- SW breeze (no whitecaps) . increasing clouds from southwest. somewhat less murky than previous sample. 2 gulls bobbing NW of island- 1 gull resting on rock. my older brother Lenny was along today.    
+10/01/1996,Periodic rain from 9/26-9/28 and very early 9/30. partly cloudy (cirrus) - south-southwest breeze (no whitecaps) . murkiness is decreasing. wind speed increased after sampling time. 11 gulls on lake. heron spotted 1/2 mile downstream on pioneer creek.    
+10/08/1996,Rain/sleet mix on 10-2- rain on 10-6. partly cloudy (cirrus) - very light south-southeast breeze. water still somewhat murky. 1 gull perched on rock.    
+10/14/1996,Rain on 10-9- light snow early on 10-10. partly sunny- increasing clouds. NE breeze (no whitecaps) . water only slightly murky-almost clear. 1 gull flying over lake. 1 duck .75 mile downstream on pioneer creek.    
+10/19/1996,Rained early 10-15- from late 10-16 to morning of 10-18. partly cloudy (cirrus) . light south-southeast breeze (no whitecaps) . water is virtually clear- 1 gull bobbing on north end of lake.    
+10/28/1996,Rain from afternoon of 10-21 to morning of 10-24- mist on 10-26. today sunny west-southwest breeze (no whitecaps) . cirrus clouds moving in form the w. rain expected on 10-29. this card marks my last sampling for the 1996 season. see you again in 1997!    
+06/12/1997,Partly sunny- light and variable easterly breeze (no whitecaps) .  Rained late afternoon 6-11- more rain expected later today.    
+06/27/1997,Partly cloudy- SW breeze- no whitecaps.  Cirrus clouds increasing southwest- warm.  Heron seen on pioneer creek- muskrat seen swimming in pioneer creek on my way home.  Water was murky but not overly so.    
+07/07/1997,Partly sunny with increasing cumulus and cirrus clouds.  Light south-southwest breeze- water was murkier than on the 6-27 outing.  Dragonflies kept us company on this outing.  We noted a heron- a family of 8 ducks- and numerous sunning turtles.    
+07/15/1997,Rained on 7-7pm-7-8am-7-13am-7-14am and pm.  Today is partly cloudy with westerly breeze- no whitecaps.  Water not as murky as last- gull- osprey- turtles and duck family.    
+07/22/1997,Rained on 7-16. today is partly sunny- easterly breeze- no whitecaps.  Water was virtually clear.  Two herons seen- one near creek mouth- the other .75 mile downstream.  Hawk- gull- turtles sunning themselves.    
+07/29/1997,Rained on 7-22 pm. and on 7-25. today is partly sunny/cloudy- light NE breeze- no whitecaps.  Water only slightly murky.  Numerous turtles sunning- two gulls bald eagle fishing in lake- immature eagle in flight over lake.    
+08/05/1997,Rained from late pm 7-31 to am 8-1 and on am 8-3.  Today partly cloudy- light northwesterly breeze. cumulus and cirrus clouds increasing.  Water somewhat murkier than last.  Heron- 3 gulls- bald eagle- usual turtles. rain expected later.    
+08/13/1997,Occasional light rain on 8-10 early am. and on 8-12.  Today is partly cloudy- NNW breeze- no whitecaps.  Numerous turtles- 4 gulls- 2 bald eagles.    
+08/18/1997,Rained from 8-14 to 8-15 am- from 8-15 evening to 8-16 early am and on 8-17am.  Today is partly sunny/cloudy- light northwesterly breeze.  8 gulls- ducks- numerous turtles.  16 ducks. algal bloom    
+08/25/1997,Light rain and drizzle from 8-19 evening to 8-21 early AM- and on 8-23 PM.  Today is partly sunny (cirrus clouds) - light south-southeast breeze - algae bloom persists. 6 gulls- 1 loon- bald eagle- turtles.    
+09/03/1997,Rain on 8/25 and 8/30- 9/1- sunny light breeze. birds: herons- 5 gulls- group 12 ducks.  Bloom persists. less turtles then normal.    
+09/10/1997,Rain: September 5- 7 and 9- partly sunny- northern wind- no white caps- 14 ducks on creek- 8 turtles- one heron- 1 loon heard- and many gulls    
+09/17/1997,Rain 9/14-917- sunny- westerly breeze- 4 gulls- 16 ducks- one loon- and one turtle- water was slightly murky    
+09/22/1997,Occasional rain from 9/18-9/20- partly sunny/cloudy- water slightly murky- 2 gulls- 1 duck- 1 bald eagle    
+09/27/1997,Rain last on 9/22- today is partly sunny with south-south east breezy- water slightly murky- clouds are increasing- 2 gulls- 2 ducks on south shore of lake    
+10/03/1997,Rain on 9/27-9/30- today it was sunny- light south-southeast breeze- noted gull on rock and another near sampling site- a duck flew over the creek.    
+10/08/1997,Rain 10/3- 10/6-10/7 and 10/8- partly sunny- southerly breeze- water almost clear- one gull was seen perched on a rock another flying over northern portion of lake.    
+10/16/1997,Sunny with very light northerly breeze- water very clear- rain 10/8-10/9- 10/12-10/13- 10/13 -10/14.    
+10/23/1997,Light rain 10/18 + 10/19- light snow and flurries 10/20-10/22- today partly cloudy- light south-southeast breeze almost calm- water was slightly murky- 2 ducks swimming 2/3 mile down on pioneer creek.    
+10/29/1997,No rain since 10/23- today partly cloudy- breeze west-northwest- 4 gulls and 5 ducks- pioneer creek is beginning to ice over in spots    
+05/21/1998,Partly cloudy light NE breeze.  One loon heard on N end of lake.    
+05/26/1998,Sunny hazy.  Very light south-southwest breeze.  Hawk caught lunch from southern portion of lake. intermittent showers late May.    
+06/03/1998,Partly sunny WNW breeze. unseen loon heard in island area. rainy period 0526-0602.    
+06/08/1998,Partly sunny very light easterly breeze. heron seen east of island. bald eagle flying west from point.  Rain 6/7 and 6/9.    
+06/15/1998,Partly cloudy light northerly breeze. duck family seen along pioneer creek.    
+06/22/1998,Partly sunny with a westerly breeze.  Mother loon NW of the island with one baby on her back.    
+07/02/1998,Partly cloudy south-southwest breeze.  Bald eagle in flight near point.    
+07/10/1998,Partly cloudy light east-northeast breeze.  Bald eagle in flight near island.  Duck family near landing.    
+07/16/1998,Partly sunny light northerly breeze.  Ducks noted along creek loon heard at north end of lake.    
+07/21/1998,Partly cloudy NW breeze.  Loon swimming north of point. numerous gulls noted on lake. seven ducks along creek. rain 7/18 and 7/19.    
+07/27/1998,Partly cloudy low breeze.  Loon and bald eagle noted at north end of lake.  Algae bloom underway. rain 7/3- 7/5- 7/6- 7/7- 7/14- 7/18- 7/19- 7/26- 7/27- 7/28- 7/29.    
+08/01/1998,Partly cloudy light south-southwest breeze.  Bald eagle flying north of point.  Numerous ducks and turtles along creek.  Algae bloom persists.    
+08/10/1998,Partly cloudy hazy. light NW breeze.  Twelve ducks and a few turtles along creek.  Bald eagle flew over creek. rain 8/8 and 8/9.    
+08/15/1998,Partly cloudy light northerly breeze.  Five gulls noted on lake. four ducks noted along creek. rain 8/14 afternoon and evening.    
+08/20/1998,Partly cloudy light wsw breeze. eleven ducks along creek. three loons and eight gulls in N portion of lake. algae bloom persists. rain 8/19 and 8/20.    
+08/25/1998,Partly sunny WNW breeze. eleven ducks in lake near creek mouth.  Two loons seen between sampling site and point.    
+08/31/1998,Sunny very light easterly breeze (almost calm) . four ducks along creek six gulls on lake.  Algae bloom persists.    
+09/08/1998,Partly sunny light northerly breeze.  Flock of 25 geese seen headed south two gulls noted.  Cooler. rain 9/7.    
+09/16/1998,Partly cloudy light wsw breeze.  Two loons noted NW of point.  Eleven gulls noted on lake.  Decreasing clouds.    
+09/22/1998,Partly sunny light westerly breeze.  Bald eagle soaring over point.  Flock of 25 geese headed south.  Six gulls on lake.    
+09/28/1998,Sunny light SW breeze. one loon noted NE of sampling site. two gulls on south lake portion. four ducks along creek. rain 9/25 9/26 9/29/ and 9/30.    
+10/04/1998,Partly cloudy sse breeze. four gulls seen on lake. bald eagle over NW lakeshore. one deer and one turtle along creek.    
+10/09/1998,Partly cloudy SW breeze.  Six gulls noted one loon seen between point and sampling site.    
+10/14/1998,Partly sunny (cirrus clouds) light easterly breeze.  Four gulls noted. one loon was seen west of island.  Another loon was seen north of point.    
+10/21/1998,Partly sunny northerly breeze.  Loon noted in sampling area two gulls noted.  Two ducks flew over southern portion of lake. increasing clouds and cold.    
+10/28/1998,Sunny very light NW breeze.  Six ducks noted in S portion of lake. one gull seen along N lakeshore. two otters or beavers seen swimming in creek.  Weather fairly  mild. rain    
+05/26/1999,Sunny- light N breeze- 4 ducks + 1 turtle along pioneer cr- flying heron headed toward lake.    
+06/03/1999,Partly cloudy- light variable SW breeze. 2 bald eagles soared S of pioneer cr- 2 beaver swimming- 1 in creek- the other in lake. 1 duck flew over lake N of sampling site- buck crossed creek and several turtles noted.  Rained on 5/31- with trace on 6/1.    
+06/08/1999,Partly cloudy- light E breeze.  Loon W of sampling site. 2 ducks and 1 beaver in pioneer cr- rained in a.m. and eve. of 6/5 and 6/6.    
+06/15/1999,Partly sunny- light NW breeze.  Group of 13 ducks swimming in pioneer cr- several rains from 6/8 to 6/11- traces on 6/14 and 6/15 early a.m.- more rain expected.  Very breezy yesterday.    
+06/21/1999,Partly cloudy- light sse breeze. hazy- bald eagle had lunch near W shore- 2 gulls in island area- 3 turtles and 1 duck along pioneer cr.  Rained in afternoon of 6/16 and in a.m. of 6/20.    
+06/29/1999,Partly sunny- WNW breeze- bald eagle soared over S lake area- 11 ducks swimming on a pier along pioneer cr.  Rained on 6/23 and 6/28- with trace on 6/27.  1999 dip in today.  More rain expected tonight.    
+07/07/1999,Partly cloudy- NW breeze- 3 turtles sunning along pioneer cr- mallard swimming in creek- just downstream from lake.  2.21" rain since last outing.    
+07/12/1999,Partly sunny- light W breeze- 2 turtles and 1 duck along pioneer cr- 3.21" rain since 7/7.    
+07/17/1999,Sunny- light N breeze.  Bald eagle flying over point.  Algae bloom beginning   increase in suspended water particles.  0.24" rain since last outing.    
+07/22/1999,Partly sunny- light wsw breeze- warm and humid.  Algae bloom appears to be in progress.  Hawk flying near island- loon swam S of point- 3 ducks noted along pioneer cr- 0.51" rain since 7/17 outing.    
+07/27/1999,Sunny- light wsw breeze- warm- 8 ducks swimming in pioneer cr- just of the lake.  .94" rain since 7/22.    
+08/02/1999,Partly sunny- W breeze- 7 ducks and 3 turtles along pioneer cr- 2 bald eagles flying in island area. 1.22" rain since 7/27 outing.    
+08/11/1999,Partly sunny- light W breeze- gull perched on rock with 3 others flying nearby. mother duck and 2 ducklings- and blue heron along pioneer cr.  Emergent vegetation becoming more prevalent.  0.47" rain since 8/2 outing.    
+08/19/1999,Partly cloudy- very light E breeze- 17 gulls on lake.  Heron along pioneer cr- algae bloom in progress.  2.03" rain since 8/11.    
+08/25/1999,Partly sunny- very light N breeze- humid and hazy.  Algae bloom persists.  7 gulls on N lake area.  0.2" rain since 8/19.    
+08/30/1999,Partly cloudy (cirrus) - S breeze- bald eagle soaring over N lake area- loon bobbing S of sampling site- 4 gulls on lake- with another perched on rock- 4 ducks seen in rock area.  Algol bloom appears to have eased slightly.  No rain since 8/25.    
+09/07/1999,Mostly sunny- sse breeze- 6 gulls and 1 loon noted- 6 ducks flew in island area.  Bald eagle soared over northern lake area.  Rain total since 8/30 outing 0.11".    
+09/15/1999,Partly cloudy + cool. light westerly breeze- 3 gulls noted.  Bald eagle soared over northern lake area.  4 ducks seen along pioneer creek.  Rain total since 9/7 outing 0.74".  Rained last on 9/4 afternoon.  It was windy last 2 days.    
+09/21/1999,Partly sunny- light westerly breeze.  Loon in winter plumage seen south of sampling site.  2 bald eagles soared over pioneer creek.  1 duck seen along creek.  6 gulls noted on lake. rain total since 9/15 outing 0.5".    
+09/30/1999,Sunny- wsw breeze- 15 gulls seen on lake.  Loon noted to the SW of sampling site.  1 duck seen in flight over pioneer creek.  Rain total since 9/21 outing 0.32".    
+10/06/1999,Sunny- light easterly breeze. 5 gulls seen on lake. loon noted to the west of island.  Rain total since 9/30 outing 0.01".    
+10/11/1999,Partly cloudy- light northerly breeze.  3 gulls noted on lake. 2 loons seen between point and island.  A certain amount of suspended particles remain.  Rain total since 10/6 outing: 1.03"    
+10/20/1999,Partly cloudy- light westerly breeze- 3 gulls seen on lake. rain total since 10/11 outing 0.34".    
+10/25/1999,Partly sunny- light westerly breeze- 1 gull seen flying near island- 2 others noted in NW lake area.  Loon seen to the SE of sampling site. 3 ducks seen along pioneer creek.  Rain total since 10/20 outing 0.13".  This was my outing #100.    
+06/06/2000,Partly cloudy- light SW breeze- 7 ducks and 4 turtles noted along pioneer creek.    
+06/29/2000,Partly sunny- WNW breeze- 15 ducks seen resting along pioneer creek and rainfall total since 6/6 outing: 6.56".  Mother nature has been most uncooperative this month!    
+07/04/2000,Partly cloudy- light ese breeze- more suspended particles in water- probably due to increased use- heron seen flying over lake- 10 turtles seen along pioneer creek- and rainfall total since 6/29 outing: 3.41".  Participated in the 2000 secchi dip in!    
+07/11/2000,Partly cloudy- light sse breeze. bald eagle in flight over N end of lake. unseen loon heard. 3 turtles seen along pioneer creek. rainfall since 7/04 - 2.70".    
+07/19/2000,Sunny- very light southerly breeze- hawk lunched for northern lake area- 2 bald eagles seen- one on point white pine- the other on west shore white pine- 1 turtle and 1 beaver seen along pioneer creek- and rainfall total since 7/11 outing: 0.06".    
+07/24/2000,Partly cloudy- light SW breeze- 3 bald eagles and 5 gulls observed while out on this lake outing- 8 ducks and 3 turtles seen along pioneer creek- and rainfall total since 7/19 outing: 0.16".    
+07/31/2000,Partly cloudy- light easterly breeze- warm and humid- algal bloom in progress- bald eagle caught lunch south of point- 10 gulls also seen- 2 ducks and 1 turtle seen along pioneer creek- and rainfall total since 7/24 outing: 1.71".    
+08/10/2000,Partly sunny- light northwesterly breeze- 5 gulls seen on northern lake area- 5 ducks and 1 turtle seen along pioneer creek- algal bloom progressing- and rainfall total since 7/31 outing: 0.97".    
+08/16/2000,Partly cloud- light NNW breeze. 6 gulls seen on lake- 2 eagles and 1 hawk over lake. 1 duck along pioneer creek. algae bloom persists. rainfall since 8/10 = 0.81".    
+08/23/2000,Partly cloudy- very light NW breeze- algal bloom persists- 6 gulls noted on lake- most in northern area- 4 ducks noted along pioneer creek- and rainfall total since 8/16 outing: 0.22".    
+08/29/2000,Sunny- NW breeze- algal bloom continues- 11 gulls noted on lake- loon seen and heard in western lake area- 2 bald eagles searched for lunch over northern lake area- and rainfall total since 8/23 outing: 0.91".    
+09/05/2000,Sunny- light sse breeze- 8 gulls seen on lake- algal bloom coninues- and rainfall total since 8/29 outing: 1.14".    
+09/10/2000,Partly cloudy- very light variable breeze- algal bloom continues. 12 gulls noted on lake- eagle over northern shore. moderate lake use by seaplanes. rainfall total since 9/05 = 0.49".    
+09/21/2000,Partly cloudy- light NW breeze. algal bloom is easing. a pair of loons were noted to SW of sampling site. rainfall since 9/10 = 0.80".    
+09/26/2000,Partly cloudy- cirrus clouds- SW breeze. loon seen to the SW of sampling site. eagle over NE lake area. rainfall since 9/21 = 0.29"    
+10/03/2000,Partly cloudy with cirrus clouds. light westerly breeze. 4 gulls on lake- 2 eagles in flight over NE part of lake. loon in north. clouds increasing with time. water gradually clearing. rainfall since 9/26 = 0.02"    
+10/09/2000,Partly cloudy with cirrus clouds. light NW breeze. eagle- duck and 5 gulls on this outing. precip total since 10/03 = 0.33".    
+10/18/2000,Partly cloudy with cirrus clouds. light NW breeze. 4 gulls and 1 loon seen on this outing.  Rainfall total since 10/09 = 0.43".    
+10/29/2000,Partly cloudy with cirrus clouds. sse breeze. 6 gulls noted. rainfall total since 10/18 = 0.33". this was my 19th outing in 2000- 119 in all. hope to be back next year. (we hope so too- Mr. Posto!).    
+06/06/2017,Full sun.  Light chop to the surface water.  Surface water temp 68*F. Air temp 74*F. Max depth is 30'.
+Mature and immature eagles. Loon. Song sparrows. Red-wing Blackbirds. 
+With Sterling Strathe Full sun. Air temp 74*F. Very slight chop to water surface. Surface temp 70*F.
+Mature eagle.
+With Sterling Strathe.
+09/02/2019,Beautiful- sunny day. Light wind - 5 MPH. Water temperature 65 degrees. Lake depth 28 feet.
+09/09/2019,Beautiful- sunny day. Mostly clear sky. Lake depth 28 feet. water temperature 60 degrees.
+09/20/2019,Sunny day. Humid. Lake depth 28.3 feet. water temperature 67 degrees.
+05/16/2020,Dam at South Twin- 1 inch. Sunny. Choppy water. Water temperature 48.75 degrees. Lake depth 29 feet.
+05/24/2020,Dam at south twin 1 inch. Partly sunny. Water temperature 64 degrees. Lake depth 29 feet. Lots of boat traffic.
+06/01/2020,overcast and breezy. water temperature 63 degrees. Lake depth 28 feet. Dam at one inch.
+06/09/2020,sunny sky. Very small ripple on water. Water temperature 68 degrees. Lake depth 28 feet.
+06/17/2020,sunny and windy. No clouds. water temperature 67 degrees. Lake depth 28 feet.
+06/26/2020,small ripple on water. Sunny. Water temperature 70 degrees. Lake depth 28 feet. Dam at one inch.
+07/03/2020,small ripple on water. sunny- humid day. Lake depth 28 feet. Water temperature 80 degrees.
+07/11/2020,sunny and clear. light breeze. water temperature 76 degrees. Lake depth 28 feet. Had two inches rain. Dam open at 6. Lake up 4 inches.
+07/20/2020,Dam open 7 inches. Lake up 7 inches. Total with rain 11.5 inches. Partly cloudy. Chop on water. 
+07/28/2020,Dam at 6. Clear sky- chop on water. Lake depth 28 feet. Temperature of the water 73 degrees.
+
+08/04/2020,Dam at 1. Partly cloudy. Light chop on water. Lake depth 28 feet. Water temperature 70 degrees.
+08/12/2020,Dam at 1. Beautiful clear sky. water temperature 73 degrees. Lake depth 28 feet.
+08/20/2020,Dam at 1. Sky mostly clear. Breezy- light chop. Lake depth 28 feet. water temperature 71 degrees.
+
+August 28- 2020 - No secchi reading taken on Friday. Rain. Saturday - lake flooding due to dam. Boat removed. Done for year. Dam setting at 10. Maximum this lake can handle with no rain is 8.
+09/06/2020,Dam at 4. Sunny- lite chop. Lake depth 29 feet. Water temperature is 63 degrees. 
+09/21/2020,Dam at 1. Sky clear. Lake depth 28.6 feet. Water temperature is 57.75 degrees.
+09/27/2020,Dam at 9. Cloudy. Choppy water. water temperature 60 degrees. Lake depth 29.5 feet. High water. Dale's dock in under water again. Took his boat out. Flooded again. Soil erosion!!
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1979,Data Collectors,Migrated from STORET Legacy
+08/28/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/03/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/10/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/17/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/23/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/29/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/04/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/11/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/18/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/25/1995,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/28/1996,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/03/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/10/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/16/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/21/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/26/1996,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/01/1996,Keith And Ann Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/09/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/16/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/21/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/27/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/01/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/09/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/18/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/25/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/01/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/08/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/14/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/19/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/28/1996,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/12/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/27/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/07/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/15/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/22/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/29/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/05/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/13/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/18/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/25/1997,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/03/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/10/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/17/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/22/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/27/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/03/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/08/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/16/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/23/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/29/1997,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+05/21/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+05/26/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/03/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/08/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/15/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/22/1998,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/02/1998,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/10/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/16/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/21/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/27/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/01/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/10/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/15/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/20/1998,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/25/1998,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/31/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/08/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/16/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/22/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/28/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/04/1998,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/09/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/14/1998,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/21/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/28/1998,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+05/26/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/03/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/08/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/15/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/21/1999,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/29/1999,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/07/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/12/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/17/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/22/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/27/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/02/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/11/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/19/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/25/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/30/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/07/1999,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/15/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/21/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/30/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/06/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/11/1999,Keith And Sonja Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/20/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/25/1999,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/06/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/29/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/04/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/11/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/19/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/24/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/31/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/10/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/16/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/23/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/29/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/05/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/10/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/21/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/26/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/03/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/09/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/18/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+10/29/2000,Keith Posto,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/06/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/22/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/10/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/24/2017,Pat Marinac,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/16/2019,Data Collectors,VILAS COUNTY: LCO-Vilas County Lakes Assessments Project
+08/19/2019,Data Collectors,VILAS COUNTY: LCO-Vilas County Lakes Assessments Project
+09/02/2019,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/09/2019,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/18/2019,Data Collectors,VILAS COUNTY: LCO-Vilas County Lakes Assessments Project
+09/20/2019,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+05/16/2020,Dale Riley,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+05/24/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/01/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/09/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/17/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+06/26/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/03/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/11/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/20/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+07/28/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/04/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/12/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+08/20/2020,David Bachmayer,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/06/2020,Dale Riley,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/21/2020,Dale Riley,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole
+09/27/2020,Dale Riley,Citizen Lake Monitoring - Water Quality - Pioneer Lake - Deep Hole

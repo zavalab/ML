@@ -1,0 +1,128 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Partridge Lake,Langlade,1009500,NO,34,,10043787,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+117499505,07/02/2015,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/10/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/18/2015,12.5, ,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/01/2015,12, ,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/16/2015,12, ,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/26/2015,12, ,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/08/2015,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/16/2015,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,09/26/2015,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/07/2016,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,06/28/2016,10,,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2016,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/18/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/06/2016,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/15/2016,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/26/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+117499505,06/27/2017,,NO,,,,,,,HIGH,10,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/12/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/27/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/05/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/15/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,09/06/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,09/24/2017,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/26/2018,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/13/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/22/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/05/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/14/2018,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/22/2019,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/13/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/24/2019,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/21/2019,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/05/2020,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/21/2020,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/01/2020,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/16/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/05/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/17/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/27/2017,70,FEET,41.3,DEGREES F,,
+07/12/2017,70,FEET,50,DEGREES F,,
+07/27/2017,55,FEET,45.3,DEGREES F,,
+08/05/2017,35,FEET,48,DEGREES F,,
+08/15/2017,40,FEET,45.4,DEGREES F,,
+09/06/2017,40,FEET,42.2,DEGREES F,,
+09/24/2017,40,FEET,46,DEGREES F,,
+06/26/2018,25,FEET,43.8,DEGREES F,,
+07/13/2018,35,FEET,45.5,DEGREES F,,
+07/22/2018,35,FEET,45.8,DEGREES F,,
+08/05/2018,30,FEET,46.5,DEGREES F,,
+08/14/2018,25,FEET,44.4,DEGREES F,,
+06/22/2019,12,FEET,45.7,DEGREES F,,
+07/13/2019,20,FEET,42.4,DEGREES F,,
+07/24/2019,36,FEET,48.2,DEGREES F,,
+08/21/2019,30,FEET,44.2,DEGREES F,,
+06/05/2020,32,FEET,47,DEGREES F,,
+06/21/2020,30,FEET,45.8,DEGREES F,,
+07/01/2020,30,FEET,47.6,DEGREES F,,
+07/16/2020,30,FEET,48.2,DEGREES F,,
+08/05/2020,30,FEET,46.3,DEGREES F,,
+08/17/2020,30,FEET,45.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/02/2015,With Paul Tusler- Sunny Partial Cloudy
+07/10/2015,Sunny Partial Cloudy
+08/01/2015,partial cloudy sunny
+08/16/2015,partial sunny
+08/26/2015,Partial Cloudy
+09/08/2015,Partial Cloudy- Rain last PM
+09/16/2015,Fecent Rains- Windy- Partial Cloudy
+09/26/2015,Sunny no wind- no waves
+
+
+
+
+Start Date,Group Name,Project Name
+07/02/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/10/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/18/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/01/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+09/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+09/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+09/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/07/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/28/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/18/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/06/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/15/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/26/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/27/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/12/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/27/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/05/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/15/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+09/06/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+09/24/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/26/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/13/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/22/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/05/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/14/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/22/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/13/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/24/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/21/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+06/21/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/01/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+07/16/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole
+08/17/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Partridge Lake - Deep Hole

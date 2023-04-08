@@ -1,0 +1,397 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Arkdale Lake,Adams,1374300,WC,1,,013159,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/11/1994,3.3,,1,10.8,40,60,57,53,,,,,
+1,08/01/1994,6.2,,1.9,5.15,19,51,51,47,,,,,
+1,10/17/1994,5.2,,1.6,3.74,ND*,53,,45,,,,,
+18137361,04/07/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137361,08/23/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,09/13/2004,5.5,NO,1.7,,,53,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,11/08/2004,6,YES,1.8,,,51,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,02/10/2005,,,,,,,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,04/15/2005,4.8,NO,1.5,,,55,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,06/27/2005,5,NO,1.5,,,54,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+18137361,07/18/2005,5.5,NO,1.7,,,53,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,07/24/2005,5,NO,1.5,,,54,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137361,08/08/2005,5,NO,1.5,,,54,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137361,08/31/2005,4,NO,1.2,,,57,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137361,09/12/2005,4.5,NO,1.4,,,55,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137361,11/14/2005,6.5,NO,2,,,50,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,04/11/2006,6,NO,1.8,,,51,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,07/07/2006,3.5,NO,1.1,,,59,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18137361,09/05/2006,7,NO,2.1,,,49,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,09/08/2006,7,NO,2.1,,,49,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137361,09/18/2006,5,NO,1.5,,,54,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+19017626,07/30/2007,6.2,YES,1.9,,,51,,,LOW,7.5,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+21947475,07/30/2007,6.25,YES,1.9,,,51,,,LOW,,CLEAR,BROWN,
+19017626,08/29/2007,7.5,YES,2.3,5.7,34,48,55,48,NORMAL,7.5,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19017626,09/13/2007,5,YES,1.5,56,178,54,68,65,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+19017626,10/18/2007,5.9,NO,1.8,,,52,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+21947475,06/02/2008,5.7,YES,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23163210,06/02/2008,5.75,YES,1.7,2.45,25,52,53,42,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+25650222,06/02/2008,,,,,,,,,,,,,
+23163210,06/30/2008,6,YES,1.8,1.6,33,51,55,38,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+25475462,08/07/2008,5.5,YES,1.7,15.3,57,53,59,55,NORMAL,4.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+25475462,08/27/2008,5.3,NO,1.6,,,53,,,NORMAL,5.5,CLEAR,BROWN,2-Very minor aesthetic problems
+25650222,08/27/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25475462,09/24/2008,5.5,YES,1.7,8.47,26,53,53,51,NORMAL,5.09,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23163210,05/08/2009,5,NO,1.5,,32,54,55,,,,,,
+23163210,06/04/2009,6.5,YES,2,3.99,38,50,56,45,,,,,
+25650222,08/06/2009,,,,1.29,20,,51,37,,,,,
+23163210,09/02/2009,6.4,YES,1.9,1.56,12,50,47,38,NORMAL,5.3,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+23163210,05/10/2010,6.3,YES,1.9,,22,51,52,,NORMAL,5.5,MURKY,BROWN,2-Very minor aesthetic problems
+25475462,06/22/2010,6,YES,1.8,3.44,36,51,56,44,HIGH,5.25,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+23163210,07/30/2010,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,07/30/2010,,,,3.66,56,,59,45,,,,,
+25650222,08/31/2010,3.25,NO,1,3.86,32,60,55,45,,5,MURKY,BROWN,4-Would not swim but boating OK (algae)
+23163210,06/08/2011,5,NO,1.5,,,54,,,NORMAL,5.6,MURKY,BROWN,2-Very minor aesthetic problems
+25650222,06/08/2011,,,,5.86,49,,58,48,,,,,
+25650222,07/20/2011,3,NO,0.9,4.73,69,61,61,47,NORMAL,4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,08/29/2011,3,NO,0.9,3.25,30,61,54,44,LOW,5.2,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,06/12/2012,,,,3.04,29,,54,43,,,,,
+25475462,06/12/2012,4,NO,1.2,,,57,,,NORMAL,5.0,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,07/10/2012,4,NO,1.2,4.46,26,57,53,46,NORMAL,5.2,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,08/06/2012,3.3,YES,1,7.91,41,60,57,50,NORMAL,4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,06/30/2013,2.8,NO,0.9,8.81,39.9,62,57,51,HIGH,5.3,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,07/30/2013,4.2,NO,1.3,9.61,22.5,56,52,52,HIGH,5.3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,08/26/2013,6,YES,1.8,2.85,13.2,51,48,43,NORMAL,5.18,CLEAR,GREEN,2-Very minor aesthetic problems
+25650222,06/26/2014,2.5,NO,0.8,4.22,37.2,64,56,46,NORMAL,5.1,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,07/15/2014,4.5,NO,1.4,3.44,25.8,55,53,44,NORMAL,4.9,,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,08/18/2014,5,NO,1.5,1.65,17.5,54,50,39,LOW,4.9,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137361,04/13/2015,,,,,32.5,,55,,,,,,
+18137361,04/15/2015,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25650222,06/10/2015,2.3,NO,0.7,2.03,32.7,65,55,40,HIGH,5.4,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,07/27/2015,4,NO,1.2,7.51,25.4,57,53,50,NORMAL,4.96,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,08/26/2015,4,NO,1.2,5.97,27.4,57,54,48,NORMAL,5.18,MURKY,BROWN,
+18137361,05/12/2016,6,NO,1.8,,26.6,51,54,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25650222,07/25/2016,4.9,YES,1.5,2.08,31.8,54,55,40,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,09/05/2016,4.8,NO,1.5,1.13,37.2,55,56,36,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,06/26/2017,3,NO,0.9,4.47,43.6,61,57,46,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+25650222,07/30/2017,,,,2.07,30.5,,55,40,,,,,
+25650222,07/31/2017,4.4,YES,1.3,,,56,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,08/28/2017,4,NO,1.2,1.82,40.8,57,57,39,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+29569968,05/25/2018,4,NO,1.2,,27.5,57,54,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+25650222,07/09/2018,4,NO,1.2,2.16,20.4,57,52,41,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,07/30/2018,4,YES,1.2,2.48,18.9,57,51,42,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650222,08/27/2018,4,YES,1.2,3.59,22.3,57,52,44,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,06/25/2019,3.5,NO,1.1,0.666,34,59,55,32,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,07/22/2019,1.5,NO,0.5,5.31,37.3,71,56,47,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25650222,09/02/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/11/1994,,,21.9,C,8.9,MG/L
+08/01/1994,,,21.3,C,10.3,MG/L
+10/17/1994,,,13.2,C,8.5,MG/L
+04/07/2004,3,FEET,50.57,DEGREES F,10.5,MG/L
+04/07/2004,5,FEET,47.86,DEGREES F,10.4,MG/L
+08/23/2004,3,FEET,65.32,DEGREES F,12.8,MG/L
+08/23/2004,5,FEET,65.34,DEGREES F,12,MG/L
+08/23/2004,7,FEET,65.39,DEGREES F,14.2,MG/L
+09/13/2004,3,FEET,66.22,DEGREES F,11.4,MG/L
+09/13/2004,5,FEET,66.25,DEGREES F,12.4,MG/L
+11/08/2004,3,FEET,43.45,DEGREES F,2.4,MG/L
+11/08/2004,5,FEET,43.36,DEGREES F,2.2,MG/L
+11/08/2004,7,FEET,43.34,DEGREES F,2.2,MG/L
+02/10/2005,3,FEET,33.75,DEGREES F,7.9,MG/L
+02/10/2005,5,FEET,34.05,DEGREES F,7.9,MG/L
+02/10/2005,7,FEET,34.09,DEGREES F,8,MG/L
+07/18/2005,3,FEET,81.3,DEGREES F,11.8,MG/L
+07/18/2005,5,FEET,79.95,DEGREES F,11.4,MG/L
+07/18/2005,7,FEET,79.86,DEGREES F,11.05,MG/L
+07/24/2005,3,FEET,75.83,DEGREES F,11.69,MG/L
+07/24/2005,5,FEET,76.47,DEGREES F,7.78,MG/L
+08/08/2005,3,FEET,80.38,DEGREES F,9.1,MG/L
+08/08/2005,5,FEET,76.44,DEGREES F,10.7,MG/L
+08/08/2005,7,FEET,67.51,DEGREES F,4.4,MG/L
+08/31/2005,3,FEET,67.91,DEGREES F,4.5,MG/L
+08/31/2005,5,FEET,67.58,DEGREES F,4.5,MG/L
+08/31/2005,7,FEET,75.43,DEGREES F,10.75,MG/L
+09/12/2005,3,FEET,73.44,DEGREES F,10.2,MG/L
+09/12/2005,5,FEET,71.55,DEGREES F,10.2,MG/L
+09/12/2005,7,FEET,70.99,DEGREES F,10.05,MG/L
+11/14/2005,3,FEET,42.31,DEGREES F,10.2,MG/L
+11/14/2005,5,FEET,42.37,DEGREES F,9.25,MG/L
+11/14/2005,7,FEET,42.31,DEGREES F,9.25,MG/L
+04/11/2006,3,FEET,53.63,DEGREES F,11.35,MG/L
+04/11/2006,5,FEET,53.15,DEGREES F,11.4,MG/L
+07/07/2006,3,FEET,75.7,DEGREES F,11.23,MG/L
+07/07/2006,5,FEET,74.37,DEGREES F,11.34,MG/L
+09/05/2006,3,FEET,67.87,DEGREES F,9.31,MG/L
+09/05/2006,5,FEET,66.86,DEGREES F,7.9,MG/L
+09/08/2006,3,FEET,70.11,DEGREES F,8.98,MG/L
+09/08/2006,5,FEET,68.34,DEGREES F,9.06,MG/L
+09/18/2006,3,FEET,60.1,DEGREES F,8.83,MG/L
+09/18/2006,5,FEET,60.17,DEGREES F,8.77,MG/L
+06/02/2008,0,FEET,62.7,DEGREES F,,
+06/02/2008,3,FEET,62.0,DEGREES F,,
+06/02/2008,6,FEET,61.5,DEGREES F,,
+09/24/2008,0,FEET,71.3,DEGREES F,,
+09/24/2008,3,FEET,66.5,DEGREES F,,
+09/24/2008,5.5,FEET,66,DEGREES F,,
+05/08/2009,0,FEET,59,DEGREES F,,
+05/08/2009,3,FEET,57.5,DEGREES F,,
+05/08/2009,5,FEET,57.5,DEGREES F,,
+06/04/2009,0,FEET,65,DEGREES F,,
+06/04/2009,3,FEET,64.4,DEGREES F,,
+06/04/2009,6.5,FEET,62,DEGREES F,,
+05/10/2010,0,FEET,55.6,DEGREES F,0,MG/L
+05/10/2010,3,FEET,55.4,DEGREES F,0,MG/L
+05/10/2010,6,FEET,55.2,DEGREES F,0,MG/L
+06/22/2010,0,FEET,78.2,DEGREES F,0,MG/L
+06/22/2010,3,FEET,74,DEGREES F,0,MG/L
+06/22/2010,6,FEET,70.5,DEGREES F,0,MG/L
+08/31/2010,1,FEET,72.3,DEGREES F,,
+08/31/2010,3,FEET,71.5,DEGREES F,,
+08/31/2010,6,FEET,70.5,DEGREES F,,
+06/08/2011,0,FEET,76.8,DEGREES F,,
+06/08/2011,3,FEET,74.6,DEGREES F,,
+06/08/2011,5.6,FEET,71.2,DEGREES F,,
+07/20/2011,0,FEET,85.3,DEGREES F,,
+07/20/2011,3,FEET,76.2,DEGREES F,,
+07/20/2011,5,FEET,75.2,DEGREES F,,
+08/29/2011,0,FEET,69.2,DEGREES F,,
+08/29/2011,3,FEET,68.7,DEGREES F,,
+08/29/2011,6,FEET,68.5,DEGREES F,,
+06/12/2012,0,FEET,67.6,DEGREES F,,
+06/12/2012,3,FEET,67.8,DEGREES F,,
+06/12/2012,6,FEET,66.7,DEGREES F,,
+07/10/2012,0,FEET,80.7,DEGREES F,,
+07/10/2012,3,FEET,78.3,DEGREES F,,
+07/10/2012,5,FEET,77,DEGREES F,,
+08/06/2012,0,FEET,77,DEGREES F,,
+08/06/2012,3,FEET,72.8,DEGREES F,,
+08/06/2012,4,FEET,72.3,DEGREES F,,
+06/30/2013,0,FEET,69.6,DEGREES F,,
+06/30/2013,3,FEET,69,DEGREES F,,
+06/30/2013,5.3,FEET,68.5,DEGREES F,,
+07/30/2013,0,FEET,68.1,DEGREES F,,
+07/30/2013,3,FEET,67.8,DEGREES F,,
+07/30/2013,5.3,FEET,67.4,DEGREES F,,
+08/26/2013,0,FEET,74.6,DEGREES F,,
+08/26/2013,3,FEET,74,DEGREES F,,
+08/26/2013,6,FEET,73.5,DEGREES F,,
+07/15/2014,0,FEET,67.2,DEGREES F,,
+07/15/2014,3,FEET,64.4,DEGREES F,,
+07/15/2014,5,FEET,64.2,DEGREES F,,
+08/18/2014,0,FEET,73.2,DEGREES F,,
+08/18/2014,3,FEET,71,DEGREES F,,
+08/18/2014,6,FEET,69.8,DEGREES F,,
+04/15/2015,0,FEET,51.8,DEGREES F,,
+04/15/2015,5,FEET,51.6,DEGREES F,,
+06/10/2015,0,FEET,70.1,DEGREES F,,
+06/10/2015,3,FEET,69.8,DEGREES F,,
+06/10/2015,7,FEET,67.2,DEGREES F,,
+07/27/2015,0,FEET,72.5,DEGREES F,,
+07/27/2015,3,FEET,72.6,DEGREES F,,
+07/27/2015,7,FEET,73,DEGREES F,,
+08/26/2015,0,FEET,62.6,DEGREES F,,
+08/26/2015,3,FEET,62.2,DEGREES F,,
+08/26/2015,7,FEET,61.8,DEGREES F,,
+05/12/2016,0,FEET,58.5,DEGREES F,,
+05/12/2016,5,FEET,58.3,DEGREES F,,
+09/05/2016,0,FEET,68,DEGREES F,,
+09/05/2016,5,FEET,67.8,DEGREES F,,
+09/05/2016,7,FEET,67.6,DEGREES F,,
+06/26/2017,0,FEET,62.4,DEGREES F,,
+06/26/2017,3,FEET,62,DEGREES F,,
+06/26/2017,5,FEET,62,DEGREES F,,
+07/31/2017,0,FEET,77,DEGREES F,,
+07/31/2017,3,FEET,71,DEGREES F,,
+07/31/2017,5,FEET,69.8,DEGREES F,,
+05/25/2018,3,FEET,64.2,DEGREES F,,
+05/25/2018,6,FEET,63.6,DEGREES F,,
+07/09/2018,1,FEET,73.5,DEGREES F,,
+07/09/2018,3,FEET,71.9,DEGREES F,,
+07/09/2018,6,FEET,71.4,DEGREES F,,
+07/30/2018,0,FEET,70.3,DEGREES F,,
+07/30/2018,3,FEET,69.2,DEGREES F,,
+07/30/2018,6,FEET,68.3,DEGREES F,,
+08/27/2018,0,FEET,69.2,DEGREES F,,
+08/27/2018,3,FEET,68.7,DEGREES F,,
+08/27/2018,6,FEET,68.7,DEGREES F,,
+06/25/2019,0,FEET,64.2,DEGREES F,,
+06/25/2019,3,FEET,63.3,DEGREES F,,
+06/25/2019,10,FEET,62.6,DEGREES F,,
+07/22/2019,0,FEET,74.6,DEGREES F,,
+07/22/2019,3,FEET,74.1,DEGREES F,,
+07/22/2019,10,FEET,73.2,DEGREES F,,
+09/02/2019,0,FEET,67.2,DEGREES F,,
+09/02/2019,3,FEET,66.3,DEGREES F,,
+09/02/2019,10,FEET,64.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/23/2004,with Doug Wellumson
+09/13/2004,with Doug Wellumson
+02/10/2005,with Martin Billings--samples retrieved through hole in iced-over lake
+06/27/2005,with Doug Wellumson
+07/18/2005,with Doug Wellumson
+07/24/2005,with Doug Wellsumson
+08/08/2005,with Doug Wellumson
+08/31/2005,with Doug Wellumson
+09/12/2005,with Doug Wellumson
+07/07/2006,with Doug Wellumson
+09/05/2006,with Doug Wellumson
+09/08/2006,with Doug Wellumson
+09/18/2006,with Doug Wellumson
+07/30/2007,Sunny- calm- hot
+09/13/2007,Partly cloudy- 69 degrees F 
+10/18/2007,Cloudy- cool day -- water fairly clear and settled
+06/02/2008,secchi reading 5'8"
+temp: surface -62.7-  3'- 62.0- 6'- 61.5
+
+06/30/2008,secchi reading  6'0"
+
+temp: surface- 71- 3'- 67-  6'- 64.7
+
+08/07/2008,The secchi depth was 5'6" and the temp. F 71.9 @ surface- 70.5 @ 3' and 69.9 @ 6'.
+08/27/2008,secchi depth= 5'4"
+hit bottom= 1
+lake level= 3    5'1"
+appearance= 2
+water color= 3
+perception= 2
+
+temperature data
+
+depth       temp. F
+5'6"         66.2
+3'           66.9
+surface      67.2
+
+09/24/2008,Date: 9/24/08
+ID # 66772
+Time: 2:00 pm
+Secchi Depth : 5' 6"
+Hit Bottom: Yes
+Lake level : normal- 5.0
+Appearance : 2 murky
+Water Color : 3 brown
+Perception : 3
+
+Temperature:  Depth     Temp.
+              surface    71.3
+               3'        66.5
+               5'6"      66.0
+
+09/02/2009,Temp -- 6.4 ft = 63.6; 3 ft = 64.2; surface = 64.2 degrees f 
+05/10/2010,Cloudy- windy- temp = 58 F
+06/22/2010,Sunny- 85 F. calm
+06/08/2011,Sunny- windy- temp 92 degrees F
+07/20/2011,Sunny- hot + humid past 4 days- three-fourths inches of rain last night
+08/29/2011,Sunny- calm- temps warming and dry for 3 weeks
+06/12/2012,Murky water- windy- air temp in 60's
+07/10/2012,Murky water- hot weather- dry
+08/06/2012,Partly cloudy
+07/30/2013,Very cold the last several days
+08/26/2013,Cloudy- warm. last two weeks temps have been mid-80's. 2 days of 90. Dry mostly.
+06/26/2014,Temp  sensor broken -- Adams LWCD will get another
+
+08/18/2014,Partly cloudy- rain in the am. (.28")
+04/15/2015,sunny- but quite windy--air temp 68.3 F--aquatic plants from last year clearly visible
+06/10/2015,sunny + mild
+07/27/2015,sunny + mild
+08/26/2015,sunny + mild
+05/12/2016,sunny and getting better- but some wind
+07/25/2016,sunny--4.5" of rain 3 days ago--temperatures running in the 90s F for last 5 days
+09/05/2016,muggy- hot
+06/26/2017,cloudy + windy--10 inches of rain in the last 2 weeks
+07/31/2017,sunny- warm--2 inches of rain in the last week
+08/28/2017,cloudy--.8 inches of rain last night--lows in the 40s and 50s--highest in the 60s past week
+07/09/2018,Sunny- No rain in past week- temps mid 80's to low 90's past week
+07/30/2018,Sunny- calm- 1" rain on 7/25- temps high 80's to low 70's- temp low 60-51
+08/27/2018,Cloudy- 13" rain on 8/26- high temps 70's - low 80's- low temps 60's to 70's
+06/25/2019,Clear/Sunny
+07/22/2019,Sunny- 5.2" rain on 7/19
+09/02/2019,Partly Sunny
+
+
+
+
+Start Date,Group Name,Project Name
+07/11/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/01/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+10/17/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/07/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/23/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/13/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+11/08/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+02/10/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+04/15/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/27/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/18/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/24/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/08/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/31/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/12/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+11/14/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+04/11/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/07/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/05/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/08/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/18/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2007,Doug Wellumson,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2007,Tim Meyer and Deanna Partoll,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/29/2007,Doug Wellumson,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/13/2007,Doug Wellumson,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+10/18/2007,Doug Wellumson,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/02/2008,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/02/2008,Tim Meyer and Deanna Partoll,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/02/2008,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/30/2008,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/07/2008,Paul Beyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/27/2008,Paul Beyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/27/2008,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/24/2008,Paul Beyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+05/08/2009,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/04/2009,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/06/2009,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/02/2009,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+05/10/2010,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/22/2010,Paul Beyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2010,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2010,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/31/2010,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/08/2011,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/08/2011,Tom Rawski- Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/20/2011,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/29/2011,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/12/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/12/2012,Paul Beyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/10/2012,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/06/2012,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/30/2013,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2013,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/26/2013,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/26/2014,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/15/2014,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/18/2014,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/18/2014,Tim Meyer,Citizen Lake Monitoring Network QA/QC - 2014
+04/13/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+04/15/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/10/2015,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/27/2015,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/26/2015,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+05/12/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/25/2016,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/05/2016,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/26/2017,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2017,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/31/2017,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/28/2017,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+05/25/2018,Kason Morley,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/09/2018,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/30/2018,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+08/27/2018,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+06/25/2019,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+07/22/2019,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole
+09/02/2019,Tim Meyer,Citizen Lake Monitoring - Water Quality - Arkdale Lake (Millpond) - Deep Hole

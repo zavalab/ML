@@ -1,0 +1,879 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Moose Lake,Langlade,337600,NO,34,,343153,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188599,06/08/2002,,,,1,29,,54,35,,,,,
+8188599,06/18/2002,14,NO,4.3,,,39,,,,,,,
+8188599,07/16/2002,5.5,NO,1.7,,,53,,,,,,,
+8188600,07/16/2002,,,,4.01,40,,57,45,,,,,
+8188599,08/14/2002,4,NO,1.2,39.3,52,57,59,63,,,,,
+34948132,05/18/2010,18.75,YES,5.7,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/23/2010,20.75,YES,6.3,,,33,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/07/2010,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/12/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/21/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,06/29/2010,5.25,NO,1.6,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34948132,07/08/2010,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,07/15/2010,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,07/20/2010,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+34948132,07/28/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,08/02/2010,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,08/05/2010,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,08/18/2010,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,08/26/2010,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,09/02/2010,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,09/12/2010,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,09/19/2010,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,09/26/2010,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,10/04/2010,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,10/12/2010,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,04/25/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,05/04/2011,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,05/19/2011,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,05/28/2011,15.75,NO,4.8,,,37,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34948132,06/05/2011,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,06/16/2011,7.25,NO,2.2,,,49,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34948132,06/25/2011,13,NO,4,,,40,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,07/06/2011,13.75,NO,4.2,,,39,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34948132,07/12/2011,12.25,NO,3.7,,,41,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,07/22/2011,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,07/26/2011,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,08/04/2011,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,08/11/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,08/12/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,08/21/2011,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,08/28/2011,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,09/06/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,09/28/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,10/09/2011,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,10/22/2011,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,11/11/2011,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,05/11/2012,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34948132,05/26/2012,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+34948132,06/03/2012,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34948132,06/11/2012,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34948132,06/24/2012,5.75,NO,1.7,10.8,36,52,56,53,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/29/2012,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/10/2012,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/18/2012,4.25,NO,1.3,8.39,22,56,52,51,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,08/06/2012,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,08/13/2012,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,08/20/2012,5.75,NO,1.7,9.92,25,52,53,52,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/15/2012,7.75,NO,2.4,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/28/2012,15.75,NO,4.8,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,10/02/2012,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/05/2013,5.25,NO,1.6,,50.9,53,59,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/19/2013,7.75,NO,2.4,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/01/2013,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/07/2013,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/19/2013,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/22/2013,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/26/2013,13.25,NO,4,2.65,27.1,40,54,42,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/08/2013,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/25/2013,10,NO,3,8.56,21.8,44,52,51,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/02/2013,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,08/09/2013,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+34948132,08/22/2013,15,NO,4.6,5.03,9.56,38,46,47,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,08/25/2013,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,09/11/2013,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,09/25/2013,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/05/2014,5.75,NO,1.7,,35,52,56,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/17/2014,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/25/2014,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/29/2014,19.25,YES,5.9,,,35,,,LOW,,,BLUE,4-Would not swim but boating OK (algae)
+34948132,06/09/2014,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,06/17/2014,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/22/2014,11.25,NO,3.4,4.84,16.9,42,50,47,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/03/2014,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/11/2014,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/20/2014,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/28/2014,13.5,NO,4.1,5.43,18.5,40,51,48,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/04/2014,17.75,NO,5.4,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/13/2014,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,08/20/2014,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,08/27/2014,9.75,NO,3,8.98,30.7,44,55,51,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/13/2014,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18138159,04/12/2015,,,,5.85,25.3,,53,48,,,,,
+34948132,04/15/2015,,,,,29.8,,54,,,,,,
+34948132,05/03/2015,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/12/2015,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/20/2015,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/27/2015,16.75,NO,5.1,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/05/2015,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/12/2015,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138159,06/14/2015,,,,9.08,22.1,,52,51,,,,,
+34948132,06/21/2015,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/23/2015,13,NO,4,3.6,38.6,40,56,44,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/27/2015,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/08/2015,13.25,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+18138159,07/12/2015,17,N,5.2,3.19,24.8,36,53,44,,,,,
+34948132,07/15/2015,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/27/2015,14.75,NO,4.5,3.58,16.9,38,50,44,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/08/2015,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/15/2015,16.75,NO,5.1,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18138159,08/16/2015,,,,4.41,21.1,,52,46,,,,,
+34948132,08/26/2015,10.75,NO,3.3,,26.6,43,54,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/01/2015,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,09/09/2015,7.75,NO,2.4,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34948132,09/24/2015,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18138159,10/10/2015,,,,14.1,33,,55,55,,,,,
+34948132,10/11/2015,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,10/18/2015,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/05/2016,15.25,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/12/2016,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/22/2016,20.25,YES,6.2,,,34,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/08/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/17/2016,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/28/2016,17,NO,5.2,4.9,27,36,54,47,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34948132,06/30/2016,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/08/2016,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/19/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+1,07/25/2016,,,,3.24,19.2,,51,44,,,,,
+34948132,07/25/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/31/2016,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,08/18/2016,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/29/2016,11,NO,3.3,7.7,22.5,43,52,50,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/03/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,04/11/2017,19.5,YES,5.9,,24.5,34,53,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/10/2017,19.5,YES,5.9,,,34,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/26/2017,15.75,NO,4.8,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/07/2017,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/11/2017,4.25,NO,1.3,,,56,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34948132,06/16/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34948132,06/20/2017,12.75,NO,3.9,3.65,26.3,40,53,45,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/01/2017,13.25,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/10/2017,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/17/2017,14,NO,4.3,2.04,20.1,39,51,40,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,08/06/2017,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,08/28/2017,4,NO,1.2,29.5,53.8,57,59,60,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34948132,08/29/2017,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34948132,08/30/2017,,,,,,,,,,,,,
+34948132,09/11/2017,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,10/16/2017,16.75,NO,5.1,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/07/2018,4.75,NO,1.4,,29.5,55,54,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/20/2018,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/28/2018,20.25,YES,6.2,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,06/19/2018,8.25,NO,2.5,8.66,29,47,54,51,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,07/23/2018,12.75,NO,3.9,6.76,22.2,40,52,49,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/29/2018,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+34948132,08/26/2018,8.25,NO,2.5,10.5,11.7,47,47,53,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,04/28/2019,5.5,NO,1.7,,29.3,53,54,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,05/26/2019,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34948132,05/29/2019,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/06/2019,7.75,NO,2.4,,,48,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+34948132,06/18/2019,9.5,NO,2.9,2.63,55.1,45,59,42,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/27/2019,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,07/14/2019,5.25,NO,1.6,,,53,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34948132,07/28/2019,9.25,NO,2.8,6.1,20.6,45,52,48,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+34948132,08/27/2019,10,NO,3,9.89,33,44,55,52,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/18/2019,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/12/2020,13.25,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,06/23/2020,,,,2.11,20.8,,52,40,,,,,
+34948132,06/29/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/02/2020,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/13/2020,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,07/21/2020,10,NO,3,9.63,22.3,44,52,52,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+34948132,08/05/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+34948132,08/24/2020,6.5,NO,2,38.3,41.6,50,57,62,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+34948132,09/22/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/18/2002,0,FEET,19.6,DEGREES C,10.7,MG/L
+06/18/2002,1,FEET,19.6,DEGREES C,10.57,MG/L
+06/18/2002,3,FEET,19.6,DEGREES C,10.24,MG/L
+06/18/2002,6,FEET,19.5,DEGREES C,10.21,MG/L
+06/18/2002,9,FEET,19.2,DEGREES C,11.2,MG/L
+06/18/2002,12,FEET,15.4,DEGREES C,8.33,MG/L
+06/18/2002,15,FEET,12.9,DEGREES C,1.89,MG/L
+07/16/2002,0,FEET,25.3,DEGREES C,11.39,MG/L
+07/16/2002,1,FEET,25.3,DEGREES C,11.18,MG/L
+07/16/2002,3,FEET,25.2,DEGREES C,10.99,MG/L
+07/16/2002,6,FEET,23.3,DEGREES C,12.22,MG/L
+07/16/2002,9,FEET,20.7,DEGREES C,10.52,MG/L
+07/16/2002,12,FEET,18.6,DEGREES C,7.75,MG/L
+07/16/2002,15,FEET,15.9,DEGREES C,5.49,MG/L
+08/14/2002,0,FEET,22.5,DEGREES C,12.69,MG/L
+08/14/2002,1,FEET,22.5,DEGREES C,12.62,MG/L
+08/14/2002,3,FEET,22.4,DEGREES C,12.76,MG/L
+08/14/2002,6,FEET,21.7,DEGREES C,10.05,MG/L
+08/14/2002,9,FEET,19.9,DEGREES C,6.62,MG/L
+08/14/2002,12,FEET,18.7,DEGREES C,2.72,MG/L
+08/14/2002,15,FEET,18,DEGREES C,6.33,MG/L
+06/12/2010,1,FEET,65,DEGREES F,9.22,MG/L
+06/12/2010,5,FEET,65,DEGREES F,8.96,MG/L
+06/12/2010,10,FEET,64.8,DEGREES F,8.39,MG/L
+06/12/2010,15,FEET,64,DEGREES F,4.49,MG/L
+06/24/2012,3,FEET,73,DEGREES F,,
+06/24/2012,6,FEET,72.3,DEGREES F,,
+06/24/2012,9,FEET,69.8,DEGREES F,,
+06/24/2012,12,FEET,66.3,DEGREES F,,
+06/24/2012,15,FEET,63.3,DEGREES F,,
+06/24/2012,18,FEET,60.9,DEGREES F,,
+06/24/2012,20,FEET,59.5,DEGREES F,,
+07/18/2012,3,FEET,79.1,DEGREES F,,
+07/18/2012,6,FEET,79.1,DEGREES F,,
+07/18/2012,9,FEET,74.1,DEGREES F,,
+07/18/2012,12,FEET,69.8,DEGREES F,,
+07/18/2012,15,FEET,66.5,DEGREES F,,
+07/18/2012,18,FEET,62,DEGREES F,,
+07/18/2012,20,FEET,60.8,DEGREES F,,
+08/20/2012,3,FEET,68.9,DEGREES F,10.84,MG/L
+08/20/2012,6,FEET,68.3,DEGREES F,10.82,MG/L
+08/20/2012,9,FEET,67.2,DEGREES F,10.15,MG/L
+08/20/2012,12,FEET,65.6,DEGREES F,7.85,MG/L
+08/20/2012,15,FEET,64.5,DEGREES F,5.82,MG/L
+08/20/2012,18,FEET,63.3,DEGREES F,1.86,MG/L
+05/05/2013,2,FEET,51.2,DEGREES F,,
+05/05/2013,5,FEET,50,DEGREES F,,
+05/05/2013,10,FEET,48.9,DEGREES F,,
+05/05/2013,15,FEET,45.6,DEGREES F,,
+05/05/2013,20,FEET,44,DEGREES F,,
+06/26/2013,2,FEET,77,DEGREES F,,
+06/26/2013,5,FEET,74.3,DEGREES F,,
+06/26/2013,10,FEET,67.6,DEGREES F,,
+06/26/2013,15,FEET,60.8,DEGREES F,,
+06/26/2013,20,FEET,57.5,DEGREES F,,
+08/22/2013,3,FEET,74.1,DEGREES F,11.73,MG/L
+08/22/2013,6,FEET,71,DEGREES F,11.56,MG/L
+08/22/2013,9,FEET,67.4,DEGREES F,9.52,MG/L
+08/22/2013,12,FEET,63,DEGREES F,6.97,MG/L
+08/22/2013,15,FEET,61.9,DEGREES F,4.5,MG/L
+08/22/2013,18,FEET,60.7,DEGREES F,1.72,MG/L
+05/05/2014,3,FEET,48,DEGREES F,,
+05/05/2014,6,FEET,47.6,DEGREES F,,
+05/05/2014,9,FEET,47.4,DEGREES F,,
+05/05/2014,12,FEET,47.4,DEGREES F,,
+05/05/2014,15,FEET,47.3,DEGREES F,,
+05/05/2014,18,FEET,45.6,DEGREES F,,
+05/29/2014,1,FEET,68.4,DEGREES F,11.7,MG/L
+05/29/2014,3,FEET,68,DEGREES F,11.49,MG/L
+05/29/2014,6,FEET,66.6,DEGREES F,12.84,MG/L
+05/29/2014,9,FEET,63.3,DEGREES F,11.55,MG/L
+05/29/2014,12,FEET,60.9,DEGREES F,10.6,MG/L
+05/29/2014,15,FEET,58.9,DEGREES F,8.85,MG/L
+05/29/2014,17,FEET,57.9,DEGREES F,6.01,MG/L
+06/22/2014,1,FEET,68.3,DEGREES F,,
+06/22/2014,3,FEET,68.3,DEGREES F,,
+06/22/2014,6,FEET,68,DEGREES F,,
+06/22/2014,9,FEET,67.2,DEGREES F,,
+06/22/2014,12,FEET,66.2,DEGREES F,,
+06/22/2014,15,FEET,64.7,DEGREES F,,
+06/22/2014,18,FEET,62.6,DEGREES F,,
+07/28/2014,1,FEET,69.8,DEGREES F,,
+05/03/2015,3,FEET,58.4,DEGREES F,,
+05/03/2015,6,FEET,58.4,DEGREES F,,
+05/03/2015,9,FEET,57.9,DEGREES F,,
+05/03/2015,12,FEET,56.3,DEGREES F,,
+05/03/2015,15,FEET,56.1,DEGREES F,,
+06/12/2015,3,FEET,68.3,DEGREES F,,
+06/21/2015,3,FEET,69.6,DEGREES F,,
+06/21/2015,6,FEET,69.6,DEGREES F,,
+06/21/2015,9,FEET,69.6,DEGREES F,,
+06/21/2015,12,FEET,65.1,DEGREES F,,
+06/21/2015,15,FEET,62.2,DEGREES F,,
+06/21/2015,18,FEET,60.2,DEGREES F,,
+06/23/2015,3,FEET,68.5,DEGREES F,10.89,MG/L
+06/23/2015,6,FEET,68.3,DEGREES F,10.92,MG/L
+06/23/2015,9,FEET,68.2,DEGREES F,10.95,MG/L
+06/23/2015,12,FEET,68,DEGREES F,10.82,MG/L
+06/23/2015,15,FEET,62.4,DEGREES F,3.02,MG/L
+06/23/2015,18,FEET,60.7,DEGREES F,.83,MG/L
+07/08/2015,3,FEET,70.7,DEGREES F,,
+07/08/2015,6,FEET,70.5,DEGREES F,,
+07/08/2015,9,FEET,69.6,DEGREES F,,
+07/08/2015,12,FEET,67.8,DEGREES F,,
+07/08/2015,15,FEET,64.9,DEGREES F,,
+07/08/2015,18,FEET,61.7,DEGREES F,,
+07/12/2015,0,FEET,25.7,DEGREES C,15.18,MG/L
+07/12/2015,3,FEET,24.1,DEGREES C,14.84,MG/L
+07/12/2015,6,FEET,23.2,DEGREES C,17.79,MG/L
+07/12/2015,9,FEET,22,DEGREES C,16.91,MG/L
+07/12/2015,12,FEET,20.8,DEGREES C,12.44,MG/L
+07/12/2015,15,FEET,19.1,DEGREES C,13.3,MG/L
+07/12/2015,18,FEET,17.3,DEGREES C,11.75,MG/L
+07/12/2015,18.5,FEET,16.7,DEGREES C,8.55,MG/L
+07/12/2015,19,FEET,16.9,DEGREES C,3.19,MG/L
+07/27/2015,3,FEET,77.7,DEGREES F,14.91,MG/L
+07/27/2015,6,FEET,76.2,DEGREES F,16.51,MG/L
+07/27/2015,9,FEET,73.7,DEGREES F,18.66,MG/L
+07/27/2015,12,FEET,70.4,DEGREES F,8.3,MG/L
+07/27/2015,15,FEET,68.2,DEGREES F,10.82,MG/L
+07/27/2015,18,FEET,66.1,DEGREES F,2.58,MG/L
+08/26/2015,3,FEET,63.8,DEGREES F,,
+08/26/2015,6,FEET,63.6,DEGREES F,,
+08/26/2015,9,FEET,63.6,DEGREES F,,
+08/26/2015,12,FEET,63.5,DEGREES F,,
+08/26/2015,15,FEET,62.4,DEGREES F,,
+08/26/2015,18,FEET,60.8,DEGREES F,,
+05/05/2016,3,FEET,52.8,DEGREES F,,
+05/05/2016,6,FEET,52.7,DEGREES F,,
+05/05/2016,9,FEET,52.7,DEGREES F,,
+05/05/2016,12,FEET,52.5,DEGREES F,,
+05/05/2016,15,FEET,52.1,DEGREES F,,
+05/05/2016,18,FEET,51.9,DEGREES F,,
+05/12/2016,3,FEET,56.6,DEGREES F,,
+05/12/2016,6,FEET,56.6,DEGREES F,,
+05/12/2016,9,FEET,56.4,DEGREES F,,
+05/12/2016,12,FEET,56.4,DEGREES F,,
+05/12/2016,15,FEET,55.2,DEGREES F,,
+05/12/2016,18,FEET,54.3,DEGREES F,,
+05/22/2016,3,FEET,64.2,DEGREES F,,
+05/22/2016,6,FEET,62.9,DEGREES F,,
+05/22/2016,9,FEET,59,DEGREES F,,
+05/22/2016,12,FEET,57.2,DEGREES F,,
+05/22/2016,15,FEET,56.1,DEGREES F,,
+05/22/2016,18,FEET,55.4,DEGREES F,,
+06/08/2016,3,FEET,66.5,DEGREES F,,
+06/08/2016,6,FEET,65.8,DEGREES F,,
+06/08/2016,9,FEET,65.1,DEGREES F,,
+06/08/2016,12,FEET,64.2,DEGREES F,,
+06/08/2016,15,FEET,62,DEGREES F,,
+06/08/2016,18,FEET,59.3,DEGREES F,,
+06/17/2016,3,FEET,71,DEGREES F,,
+06/17/2016,6,FEET,70.8,DEGREES F,,
+06/17/2016,9,FEET,68.3,DEGREES F,,
+06/17/2016,12,FEET,66.2,DEGREES F,,
+06/17/2016,15,FEET,63.3,DEGREES F,,
+06/17/2016,18,FEET,60.6,DEGREES F,,
+07/25/2016,3,FEET,75.4,DEGREES F,10.94,MG/L
+07/25/2016,6,FEET,68.6,DEGREES F,10.85,MG/L
+07/25/2016,9,FEET,67.9,DEGREES F,6.02,MG/L
+07/25/2016,12,FEET,66.3,DEGREES F,.67,MG/L
+07/25/2016,15,FEET,64.3,DEGREES F,.48,MG/L
+07/25/2016,18,FEET,61.5,DEGREES F,.12,MG/L
+07/31/2016,3,FEET,72.6,DEGREES F,,
+07/31/2016,6,FEET,70.5,DEGREES F,,
+07/31/2016,9,FEET,67.2,DEGREES F,,
+07/31/2016,12,FEET,64.7,DEGREES F,,
+07/31/2016,15,FEET,62.9,DEGREES F,,
+07/31/2016,18,FEET,61.5,DEGREES F,,
+08/18/2016,3,FEET,74.1,DEGREES F,,
+08/18/2016,6,FEET,71,DEGREES F,,
+08/18/2016,9,FEET,67.2,DEGREES F,,
+08/18/2016,12,FEET,64.7,DEGREES F,,
+08/18/2016,15,FEET,62.4,DEGREES F,,
+08/18/2016,18,FEET,60.6,DEGREES F,,
+08/29/2016,3,FEET,70.8,DEGREES F,,
+08/29/2016,6,FEET,68.3,DEGREES F,,
+08/29/2016,9,FEET,65.4,DEGREES F,,
+08/29/2016,12,FEET,63.6,DEGREES F,,
+08/29/2016,15,FEET,61.8,DEGREES F,,
+08/29/2016,18,FEET,60.8,DEGREES F,,
+09/03/2016,3,FEET,68.3,DEGREES F,,
+09/03/2016,6,FEET,67.8,DEGREES F,,
+09/03/2016,9,FEET,65.6,DEGREES F,,
+09/03/2016,12,FEET,63.9,DEGREES F,,
+09/03/2016,15,FEET,61.8,DEGREES F,,
+09/03/2016,18,FEET,60.8,DEGREES F,,
+04/11/2017,3,FEET,47.4,DEGREES F,,
+04/11/2017,6,FEET,47.4,DEGREES F,,
+04/11/2017,9,FEET,47.4,DEGREES F,,
+04/11/2017,12,FEET,47.3,DEGREES F,,
+04/11/2017,15,FEET,46,DEGREES F,,
+05/10/2017,3,FEET,55.2,DEGREES F,,
+05/10/2017,6,FEET,54.8,DEGREES F,,
+05/10/2017,9,FEET,54.6,DEGREES F,,
+05/10/2017,12,FEET,54.1,DEGREES F,,
+05/10/2017,15,FEET,53.2,DEGREES F,,
+05/10/2017,18,FEET,51.8,DEGREES F,,
+05/26/2017,3,FEET,60.6,DEGREES F,,
+05/26/2017,6,FEET,60.6,DEGREES F,,
+05/26/2017,9,FEET,59,DEGREES F,,
+05/26/2017,12,FEET,55.9,DEGREES F,,
+05/26/2017,15,FEET,54.8,DEGREES F,,
+05/26/2017,18,FEET,53.9,DEGREES F,,
+06/07/2017,3,FEET,70.1,DEGREES F,,
+06/07/2017,6,FEET,69.6,DEGREES F,,
+06/07/2017,9,FEET,65.6,DEGREES F,,
+06/07/2017,12,FEET,63.6,DEGREES F,,
+06/07/2017,15,FEET,61.6,DEGREES F,,
+06/07/2017,18,FEET,59.2,DEGREES F,,
+06/11/2017,3,FEET,74.4,DEGREES F,,
+06/11/2017,6,FEET,74.3,DEGREES F,,
+06/11/2017,9,FEET,68.3,DEGREES F,,
+06/11/2017,12,FEET,64.4,DEGREES F,,
+06/11/2017,15,FEET,60.4,DEGREES F,,
+06/11/2017,18,FEET,58.2,DEGREES F,,
+06/16/2017,3,FEET,72.3,DEGREES F,,
+06/16/2017,6,FEET,72.1,DEGREES F,,
+06/16/2017,9,FEET,70.5,DEGREES F,,
+06/16/2017,12,FEET,64.4,DEGREES F,,
+06/16/2017,15,FEET,60.8,DEGREES F,,
+06/16/2017,18,FEET,59.3,DEGREES F,,
+06/20/2017,3,FEET,69.2,DEGREES F,,
+06/20/2017,6,FEET,69.2,DEGREES F,,
+06/20/2017,9,FEET,68.3,DEGREES F,,
+06/20/2017,12,FEET,63.6,DEGREES F,,
+06/20/2017,15,FEET,60.8,DEGREES F,,
+06/20/2017,18,FEET,59.3,DEGREES F,,
+07/17/2017,3,FEET,72.3,DEGREES F,,
+07/17/2017,6,FEET,71.7,DEGREES F,,
+07/17/2017,9,FEET,66.7,DEGREES F,,
+07/17/2017,12,FEET,64.9,DEGREES F,,
+07/17/2017,15,FEET,62.4,DEGREES F,,
+07/17/2017,18,FEET,59.9,DEGREES F,,
+08/28/2017,3,FEET,65.1,DEGREES F,,
+08/28/2017,6,FEET,64.9,DEGREES F,,
+08/28/2017,9,FEET,62.4,DEGREES F,,
+08/28/2017,12,FEET,61.3,DEGREES F,,
+08/28/2017,15,FEET,60.2,DEGREES F,,
+08/28/2017,18,FEET,59.1,DEGREES F,,
+08/29/2017,3,FEET,64.4,DEGREES F,18.75,MG/L
+08/29/2017,6,FEET,65.1,DEGREES F,14.87,MG/L
+08/29/2017,9,FEET,62.4,DEGREES F,8.4,MG/L
+08/29/2017,12,FEET,61.3,DEGREES F,7.03,MG/L
+08/29/2017,15,FEET,60.1,DEGREES F,5.17,MG/L
+08/29/2017,18,FEET,59.2,DEGREES F,6.86,MG/L
+08/30/2017,3,FEET,,,16.5,MG/L
+08/30/2017,6,FEET,,,12.81,MG/L
+08/30/2017,9,FEET,,,8.43,MG/L
+08/30/2017,12,FEET,,,5.51,MG/L
+08/30/2017,15,FEET,,,3.28,MG/L
+08/30/2017,18,FEET,,,2.17,MG/L
+10/16/2017,3,FEET,54.5,DEGREES F,,
+10/16/2017,6,FEET,54.3,DEGREES F,,
+10/16/2017,9,FEET,54.3,DEGREES F,,
+10/16/2017,12,FEET,53.9,DEGREES F,,
+10/16/2017,15,FEET,53.7,DEGREES F,,
+10/16/2017,18,FEET,52.1,DEGREES F,,
+06/19/2018,3,FEET,73.2,DEGREES F,,
+06/19/2018,6,FEET,71.5,DEGREES F,,
+06/19/2018,9,FEET,68.7,DEGREES F,,
+06/19/2018,12,FEET,65.4,DEGREES F,,
+06/19/2018,15,FEET,60.8,DEGREES F,,
+06/19/2018,18,FEET,55.7,DEGREES F,,
+07/29/2018,3,FEET,71.6,DEGREES F,,
+07/29/2018,6,FEET,71.4,DEGREES F,,
+07/29/2018,9,FEET,69.2,DEGREES F,,
+07/29/2018,12,FEET,66.5,DEGREES F,,
+07/29/2018,15,FEET,62.1,DEGREES F,,
+07/29/2018,18,FEET,57.5,DEGREES F,,
+08/26/2018,3,FEET,67.8,DEGREES F,,
+08/26/2018,6,FEET,67.6,DEGREES F,,
+08/26/2018,9,FEET,66.5,DEGREES F,,
+08/26/2018,12,FEET,64.4,DEGREES F,,
+08/26/2018,15,FEET,62.9,DEGREES F,,
+08/26/2018,18,FEET,59.3,DEGREES F,,
+05/26/2019,3,FEET,58.4,DEGREES F,,
+05/26/2019,6,FEET,57.9,DEGREES F,,
+05/26/2019,9,FEET,57.3,DEGREES F,,
+05/26/2019,12,FEET,57.2,DEGREES F,,
+05/26/2019,15,FEET,56.6,DEGREES F,,
+05/26/2019,18,FEET,56.3,DEGREES F,,
+05/29/2019,3,FEET,60.9,DEGREES F,,
+05/29/2019,6,FEET,58.8,DEGREES F,,
+05/29/2019,9,FEET,57.5,DEGREES F,,
+05/29/2019,12,FEET,57,DEGREES F,,
+05/29/2019,15,FEET,56.3,DEGREES F,,
+05/29/2019,18,FEET,55.2,DEGREES F,,
+06/06/2019,3,FEET,70.7,DEGREES F,,
+06/06/2019,6,FEET,64.7,DEGREES F,,
+06/06/2019,9,FEET,62,DEGREES F,,
+06/06/2019,12,FEET,58.2,DEGREES F,,
+06/06/2019,15,FEET,55.4,DEGREES F,,
+06/06/2019,18,FEET,53.6,DEGREES F,,
+06/18/2019,3,FEET,68.1,DEGREES F,,
+06/18/2019,6,FEET,65.6,DEGREES F,,
+06/18/2019,9,FEET,62.7,DEGREES F,,
+06/18/2019,12,FEET,59,DEGREES F,,
+06/18/2019,15,FEET,56.8,DEGREES F,,
+06/18/2019,18,FEET,56.7,DEGREES F,,
+06/27/2019,3,FEET,69.8,DEGREES F,,
+06/27/2019,6,FEET,69.6,DEGREES F,,
+06/27/2019,9,FEET,67.4,DEGREES F,,
+06/27/2019,12,FEET,62.4,DEGREES F,,
+06/27/2019,15,FEET,57.9,DEGREES F,,
+06/27/2019,18,FEET,55.4,DEGREES F,,
+07/14/2019,3,FEET,75.5,DEGREES F,,
+07/14/2019,6,FEET,72.5,DEGREES F,,
+07/14/2019,9,FEET,68.3,DEGREES F,,
+07/14/2019,12,FEET,62.2,DEGREES F,,
+07/14/2019,15,FEET,58.6,DEGREES F,,
+07/14/2019,18,FEET,56.4,DEGREES F,,
+07/28/2019,3,FEET,74,DEGREES F,,
+07/28/2019,6,FEET,70.5,DEGREES F,,
+07/28/2019,9,FEET,65.4,DEGREES F,,
+07/28/2019,12,FEET,62.2,DEGREES F,,
+07/28/2019,15,FEET,59,DEGREES F,,
+07/28/2019,18,FEET,56.3,DEGREES F,,
+08/27/2019,3,FEET,64.9,DEGREES F,,
+08/27/2019,6,FEET,64.7,DEGREES F,,
+08/27/2019,9,FEET,61.8,DEGREES F,,
+08/27/2019,12,FEET,60,DEGREES F,,
+08/27/2019,15,FEET,58.8,DEGREES F,,
+08/27/2019,18,FEET,56.6,DEGREES F,,
+07/13/2020,3,FEET,73.7,DEGREES F,,
+07/13/2020,6,FEET,71.4,DEGREES F,,
+07/13/2020,9,FEET,67.1,DEGREES F,,
+07/13/2020,12,FEET,64.2,DEGREES F,,
+07/13/2020,15,FEET,58.8,DEGREES F,,
+07/13/2020,18,FEET,56.6,DEGREES F,,
+07/21/2020,3,FEET,72.3,DEGREES F,,
+07/21/2020,6,FEET,72.3,DEGREES F,,
+07/21/2020,9,FEET,66.5,DEGREES F,,
+07/21/2020,12,FEET,62.4,DEGREES F,,
+07/21/2020,15,FEET,59.7,DEGREES F,,
+07/21/2020,18,FEET,56.6,DEGREES F,,
+08/05/2020,3,FEET,66.5,DEGREES F,,
+08/05/2020,6,FEET,65.3,DEGREES F,,
+08/05/2020,9,FEET,62,DEGREES F,,
+08/05/2020,12,FEET,59.7,DEGREES F,,
+08/05/2020,15,FEET,57.5,DEGREES F,,
+08/05/2020,18,FEET,55.7,DEGREES F,,
+08/24/2020,3,FEET,72.3,DEGREES F,,
+08/24/2020,6,FEET,61.7,DEGREES F,,
+08/24/2020,9,FEET,62.9,DEGREES F,,
+08/24/2020,12,FEET,59.5,DEGREES F,,
+08/24/2020,15,FEET,56.6,DEGREES F,,
+08/24/2020,18,FEET,55,DEGREES F,,
+09/22/2020,3,FEET,62.9,DEGREES F,,
+09/22/2020,6,FEET,60.6,DEGREES F,,
+09/22/2020,9,FEET,57.2,DEGREES F,,
+09/22/2020,12,FEET,54.6,DEGREES F,,
+09/22/2020,15,FEET,53.4,DEGREES F,,
+09/22/2020,18,FEET,52.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/08/2002,DEEP HOLE - INTEGRATED 2M SAMPLE    
+07/16/2002,DEEP HOLE - INTEGRATED 2M SAMPLE    
+08/14/2002,DEEP HOLE - INTEGRATED 2M SAMPLE    
+05/18/2010,2-3"  muck on bottom. 1 loon.  Water level down one foot.  Clouds of filamentous algae along shore.
+05/23/2010,Filamentous algae has purple filaments today.  It is 86 degrees at testing.  5 fishing boats are on the lake.  Lone Loon was on lake today.
+06/07/2010,4 fishing boats- no water fowl today
+06/12/2010,5 fishing boats- no water fowl on main body of lake- 2" of rain since last testing.
+06/21/2010,windy- 6 fishing boats
+06/29/2010,NW winds 10 mph- 3 boats. 1/2 inch rain three days ago.
+07/08/2010,moderate breeze- 1 fishing boat- no water fowl on main body- 2" of rain since last reading
+07/15/2010,Windy.  Sunny. 1 1/2 inch rain and straight line winds last night.  69 degrees.  One lone loon.  One boat.  Joan is helping again today.
+07/20/2010,Small white flecks of something in water.  One boat- one raft.  Small floating black globs every few feet. Joan is helping today.
+07/28/2010,1 inch of rain yesterday.  1 bald eagle on lake today.  three boats.  Joan helps today.
+08/02/2010,Windy- Hot. One row boat on lake and 2 Bald Eagles.
+08/05/2010,Very Windy.  Checked for water-milfoil- found Northern not Eruasian.
+08/18/2010,No boats today.  Algae forming on top of weeds.  Makes a big green mat on surface of water.
+08/26/2010,Calm.  Two fishing boats.
+09/02/2010,2" of rain since last reading.  Calm- no boats today.
+09/12/2010,Light wind.  Two boats.  Leaves beginning to turn.
+09/19/2010,4 boats today.  One lone loon in winter plumage.  Leaves app. 50% color.
+09/26/2010,Windy.  1 duck hunter. 1 loon.  Trees near peak color.
+Joan is helping.
+10/04/2010,Sunny- light wind- frost last 2 night.  1 fishing boat- 1 loon.
+Joan is helping.
+10/12/2010,1 canoe- 1 loon- 1 bald eagle- 2 ducks.
+Joan is helping.
+04/25/2011,moderate wind- no boats.  1 osprey- w king fishers- dozen geese- 2 wood ducks- mallards- mergansers- bufflehead. Joan is assisting.
+05/04/2011,no wind- sunny.  1 fishing boat.  - 3 Great Blue Heron- 6 Mallards- 12 turtle- shoveler. Joan is assisting.
+05/19/2011,Light wind. Cloud cover.   Joan is assisting.  1 eagle.   moderate wind- partial sun- 3 fishing boats- 1 loon.  Joan is assisting. Moderate wind- partial sun. 3 fishing boats. one loon.  Joan is assisting. moderate wind- partial sun- 3 boats- one loon.  Joan is assisting.
+05/28/2011,3 boats- 1 loon.  Joan is assisting.
+06/05/2011,light wind- sunny. 8 boats-1 eagle- lady slippers- 2 deer- 1 muskrat- 4 ducks.  Joan is assisting.
+06/16/2011,overcast. 60 degrees. 1/2 inch rain.  2 eagles- 2 green heron- 1 great blue heron- turtles- 4 boats.  Joan is assisting.
+06/25/2011,3 boats- 1 loon- light wind- partly cloudy.  3" of rain since last reading.  Joan is assisting
+07/06/2011,3 boats- light wind- 75 degrees- 1 blue heron.  Joan is assisting.
+07/12/2011,4 fishing boats- 2 loons- moderate wind and waves.  Joan is assisting.
+07/22/2011,8 fishing boats- one loon. 79 degrees- no wind.  Joan is assisting.
+07/26/2011,Lake floor by our dock is completely covered with filamentous algae. One loon.  Joan is assisting.
+08/04/2011,calm- two fishing boats.  2" of rain since last reading.  Little black blobs (decayed plants) beginning to appear.
+08/11/2011,choppy water.  one loon- one fishing boat.  Joan is assisting.
+08/12/2011,Sunny- light wind- two fishing boats.  Joan is assisting.
+08/21/2011,Sunny- little wind- one loon.  One gull- one bald eagle.  Joan is assisting.
+08/28/2011,Sunny- no wind.  2 fishing boats.  Joan is assisting.
+09/06/2011,Sunny- light wind- 2 fishing boats- 1 gull- 1 great blue heron.  Joan is assisting.
+09/28/2011,Sunny. No wind.  Joan is assisting 
+10/09/2011,Sunny- no wind.  4 fishing boats.  1 lone loon in winter plummage.  Joan is assisting.
+10/22/2011,one loon.  sunny and windy.  3 gulls. 1 boat.  Joan is assisting.
+11/11/2011,Cold- windy- cloudy.  Joan is assisting.
+05/11/2012,Gentle breeze- clear.  3 fishing boats- one lone loon.  Joan is assisting.
+05/26/2012,Strong wind- overcast.  2 fishing boats- 9 fishing from shore from boat launch.  Joan is assisting.
+06/03/2012,Sunny- breezy. 3 fishing boats.  Major algae bloom.   Joan is assisting.
+06/11/2012,Heavy overcast.  One boat.  Joan is assisting
+06/24/2012,moderate wind.  cloudy- 3 boats- 1 bald eagle- 3 gulls.  Joan is assisting. 
+06/29/2012,sunny- strong breeze.  2 loons- 1 bald eagle- 1 boat. temp 84 degrees
+Joan is assisting
+07/10/2012,sunny and calm.  5 fishing boats.  Joan is assisting.
+07/18/2012,windy- overcast.  88 degrees.  No boats.  Joan is assisting.
+08/06/2012,Sunny- windy- 1 boat.  Joan is assisting. 
+08/13/2012,Windy- partly cloudy.  2 fishing boats- 1 pleasure craft- 1 loon- 2 great blue heron- 3 green heron.   75 degrees.  Joan is assisting.
+08/20/2012,Windy- sunny- 66 degrees.  4 fishing boats.  Joan is assisting.
+09/15/2012,Windy and sunny.  One fishing boat.  Cassie is assisting.
+09/28/2012,65 degrees.  2 gulls-1 loon- 1 blue heron.  Joan is assisting.
+10/02/2012,59 degrees. 2 fishing boats- 1 gull- 1 bald eagle- 1 loon.  Sunny- no clouds- no wind.  June Hoddel is assisting.
+05/05/2013,2 loons- 3 fishing boats- partly sunny- light wind- 64 degrees.  Joan is assisting.
+05/19/2013,3 loons- 6 mallards- 3 Bald Eagles- 2 fishing boats- sunny 70 degrees.  Plus 5 swimming turtles- 7 sunning turtles- 1 green heron.  Joan is assisting.
+06/01/2013,Overcast- 69 degrees.  2 fishing boats- 1 muskrat- 1 loon.  Joan is assisting.
+06/07/2013,1 Great Blue Heron- 1 green heron- dozen mallards- 1 osprey- 11 fishing boats- 2 fishermen on landing dock- cloudy 66 degrees.  Joan is assisting
+06/19/2013,some clouds- 70 degrees- 2 loons- 2 fishing boats- 1 Bald Eagle.  Joan is assisting.
+06/22/2013,2" of rain yesterday.  6 fishing boats- 2 loons- 2 kayaks. Cloudy 72 degrees.  Joan is assisting.
+06/26/2013,cloud cover- 84 degrees.  2 loons- 3 boats- light breeze.  Joan is assisting.
+07/08/2013,Partly sunny 79 degrees.  1" of rain last night.  2 loons- 2 fishing boats- 1 inner tube float.  Joan is assisting.
+07/25/2013,light breeze- cloud cover- 70 degrees.  2 loons- 1 fishing boat.  Joan is assisting.
+08/02/2013,1 great blue- 1 green heron.  2 loons.  1 fishing boat- 1 kayak fishing.  1 Bald Eagle- 1 king fisher.  Joan is assisting.
+08/09/2013,Partly sunny- windy.  1 Bald Eagle- 2 fishing boats.  Joan is assisting.
+08/22/2013,76 degrees- water calm.  3 fishing from dock- 2 people floating about on a raft- 1 fishing boat- 2 loons.  Doug and Joan are assisting. 
+08/25/2013,Sunny-  windy- no boats but ours.  89 degrees and humid.  Joan is assisting.
+09/11/2013,Light breeze- partly sunny- 68 degrees.  2 fishing boats- 2 eagles- 1 Great Blue Heron- several green heron- dozen swallows- dozen ducks.  Joan is assisting.
+09/25/2013,Sunny- light breeze- 65 degrees- 3 fishing boats.  Joan is assisting.
+05/05/2014,Saw one osprey- one mature bald eagle- one loon- two dozen tree swallows.  No other boats were on the lake.  Joan is assisting.
+05/25/2014,3 fishing boats- 1 kayak- 2 loons- 2 osprey- 20 geese.  Breezy- few clouds.
+05/29/2014,Calm and sunny.  75 degrees.  Lots of algae on North side.  Smell of rotting fish.  2 fishing boats.  Antigo DNR office requesting a DO reading due to the amount of dead fish.  (over 100)  Mostly large bluegills.
+06/09/2014,Calm- sunny 75 degrees.  7 fishing boats- 3 kayaks- 1/2 dozen lady slippers- lots of pitcher plants- 1 green heron- 1 blue heron.  Joan is assisting.
+06/17/2014,Windy 70 degrees. 1 boat- 1 loon. Rained .3" last night.  Saw 2 domestic ducks on shore.  One osprey- 1 bald eagle- 7 mallards- 1 mallard family.  Joan is assisting.
+06/22/2014,Cloudy- 70 degrees- breezy.  1 great blue heron- 2 fishing boats- 2 Bald Eagles.  Joan is assisting.
+07/03/2014,6 fishing boats- and 1 green heron.  Joan is assisting.
+07/11/2014,2 Great Blue heron- 3 loons- 1 vulture- 3 fishing boats.  Humid and cloudy day.  Joan is assisting.
+07/20/2014,Muggy- windy day.  7 fishing boats.  A small amount of blue/green algae.  Joan is assisting.
+07/28/2014,Windy- cloudy- 67 degrees.  1 fishing boat- 2 fishing from public dock- 2 loons.  Joan is assisting.
+08/04/2014,70 degrees- moderate wind.1 fishing boat- 2 osprey- 1 loon. Joan is assisting.
+08/13/2014,70 degrees and windy.  1 fishing boat- 1 loon in distress- 1 blue heron- 1 kingfisher.  Joan is assisting.
+08/20/2014,3 boats- 1 kayak- 2 heron- 2 kingfishers- 1 loon.  Joan is assisting.
+08/27/2014,30 ducks 1 bald eagle- kingfishers- blue and green heron- 2 loons- 2 ospreys.  Joan is assisting.
+09/13/2014,no boats- no birds.  Joan is assisting.
+05/03/2015,Part sun- 70 degrees. Windy.  3 fishing boats.  Two loons- appear to be a territorial pair.  Joan is assisting.
+05/12/2015,Very windy.  Cloudy.  One bald eagle- one loon.
+05/20/2015,Partial sun. 60 degrees- light wind.   3 mallards.  2 fishing boats- 1 bald eagle- many tree swallows.  Marsh marigolds in full bloom.  Joan is assisting.
+05/27/2015,2" of rain over 3 days.  1 fishing boat. 1 loon.  Light wind.
+06/05/2015,Very- very windy.  3 great blue heron- 2 bald eagles- 3 fishing boats.  Lake had a fish kill yesterday.  06/04/15
+06/12/2015,Windy- sunny.  2 fishing boats- fishermen on both landings.  1 green heron.
+06/21/2015,Windy- part sun- 71 degrees.  12 fishing boats- 3 kayaks- 1 loon.
+06/23/2015,Very windy- sunny.  No boats.  Joan is assisting.
+06/27/2015,Windy- partly sunny.  3 fishing boats. 
+07/08/2015,67 degrees.  Partly cloudy- light wind.  4 fishing boats- 2 green heron- 2 loons- 2 osprey- 1 bald eagle.  Joan is assisting.
+07/12/2015,Collected by Carolyn Scholl - could not get SWIMS to accept Carolyn as the collector
+07/15/2015,Sunny.  2 fishing boats-  1 fishing from public dock.  1.2" rain last night.  1 Bald Eagle- heard loons.  Mary Rose Low is assisting.
+07/27/2015,Sunny- light breeze.  No rain in 9 days.  No boats.  Some floating algae.  No birds.
+08/08/2015,64 degrees.  Windy and cloud cover.  2 fishing boats.  
+08/15/2015,Calm- hot and humid.
+08/26/2015,No boats- 2 ducks- 1 great blue heron- 1 loon.  Stiff breeze and cloudy. 
+08/26/2015,Stiff breeze- no boats- 2 ducks- 1 great blue heron- 1 loon
+09/01/2015,Humid- cloud cover- calm .  3   boats floating plant decay-kingfishers- 1 turtle- no loon.
+09/09/2015,1 pontoon- 1 kayak-3 fishing boats- 5" rain in last 5 days. 1 great blue heron.
+09/24/2015,Light breeze- 2 people at public dock.  1 balk eagle.  Maple trees beginning to turn.
+10/11/2015,50 degrees. Light breeze. 1 fishing boat- 4 ducks- peak autumn color.  
+10/18/2015,Stiff breeze.  2 gulls- one fishing boat
+05/05/2016,50 degrees- bright Sun and calm.  1 mallard and 1 loon.  
+05/12/2016,Cloudy.  Windy.  70 degrees.  2 loons-12 gulls- 2 fishing boats. 
+05/22/2016,Light breeze- 1 loon- 7 boats.
+06/08/2016,Sunny- light breeze- 1 loon 2 boats.  62 degrees.  Joan is assisting.
+06/17/2016,72 degrees- sunny and stiff breeze. 1 great blue heron- 1 green heron- 1 boat- 4 juvenile eagles- 1 osprey.  Has been one week of rain.  Joan is assisting.
+06/28/2016,61 degres. Partly cloudy. 5 fishing boats.  Connie and Joan are assisting.
+06/30/2016,Sunny. 2 green heron-3 Great Blue Heron- 1 loon- 2 boats. Joan is assisting.
+07/08/2016,75 degrees- breeze and cloud cover.  2 bald eagles.  Joan is assisting.
+07/19/2016,Light breeze- 1 Bald Eagle- 2 fishing boats- 1Great Blue Heron- and kingfishers.  Some blue/green algae present.  Joan is assisting. 
+07/25/2016,Windy- 77 degrees.  2 fishing boats- 3 fishermen on dock. 
+07/31/2016,4 kayaks- 6 fishing boats- 1 loon- some blue/green algae.  Joan is assisting.
+08/18/2016,One fishing boat.  
+08/29/2016,Cloud cover- calm- humid.  No boats.  3 Great Blue Heron.  Joan and Theany are assisting.
+09/03/2016,65 degrees. 1 Egret.  (first this observer has seen)  2 Great Blue Heron- 2 king fishers.  3 Kayaks- 1 pontoon- 3 fishing boats.  Joan is assisting.
+04/11/2017,Pair of loons- buffet heads- grebes- wood  ducks- mallards. Pair of loons- one fisherman  One pair of loons present.  62 degrees and calm. One pair of loons present.  62 degrees and calm. One pair of loons present.  Also buffleheads- graves- wood ducks- mallards. One pair of loons present.  62 degrees and calm. One boat- one kayak- 1 bald eagle- 1 osprey- kingfishers- 1 loose- pair of mallards. 
+05/10/2017,One pair of loons present.
+05/26/2017,1 boat- 1 kayak- 1 Bald Eagle- 1  osprey- kingfisher- 1 loon- pair of mallards.
+06/07/2017,3 fishing boats
+06/11/2017,1 bald Eagle- 2 mallards- windy.  Lake is green.
+06/16/2017,1 boat- 2 bald eagles.
+06/20/2017,two or three otters spotted on lake.  2 people fishing at the landing dock.
+07/10/2017,2 boats- 1 kayak- 1 loon
+07/17/2017,5 boats- 1 Blue Heron
+08/06/2017,3 fishing boats- 1 Bald Eagle- 1 loon- 3 kingfishers.
+08/28/2017,fog- very humid. One Great Blue Heron- one osprey.
+08/29/2017,2 fishing boats.  No loons.
+08/30/2017,Taking DO reading before sunrise per request of Dave Siebel- fish biologist- Antigo WI
+09/11/2017,3 fishing boats- beautiful fall color on east end of lake.  No birds or ducks.  
+10/16/2017,2 gulls- one speed boat.  
+05/07/2018,Clear- Sunny- Breezy- 1 turtle- 1 pontoon-
+05/20/2018,3 Bald Eagle- 3 boats- light breeze- 1 green heron- 2 loons- lots of turtles.
+05/28/2018,2 kayaks-  1 loon- 2 boats- spawning beds- 1 green heron- 1 goose.
+06/19/2018,completely overcast.  no wind- no boats- 3.8 inches rain in 2 days.  
+07/23/2018,One boat- two loons.
+07/29/2018,8 boats- 1 loon- dozen swallows- 1 great blue heron- 1 king fisher- 3 ducks- 2 turtles.  
+08/26/2018,2 boats- one loon.  Joan is assisting.
+04/28/2019,Wood duck- 3 pair mallards- mergansers- cloudy- zero boats
+05/26/2019,Bright sun- 8 turtles- 4 boats
+09/22/2020,Streamside observation:  There were over two dozen loads of liquid manure spread on three separate fields in our watershed two weeks prior to this reading.
+
+
+
+
+Start Date,Group Name,Project Name
+06/08/2002,Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+06/18/2002,Rick Jirsa,Lakes Baseline and Trends Monitoring
+07/16/2002,Jennifer Wudi and Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+07/16/2002,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/14/2002,Rick Jirsa,Lake Baseline Monitoring- DNR (1970s-2006)
+05/18/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/23/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/07/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/12/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/21/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/29/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/08/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/15/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/20/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/28/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/02/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/05/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/18/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/26/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/02/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/12/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/19/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/26/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/04/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/12/2010,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+04/25/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/04/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/19/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/28/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/05/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/16/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/25/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/06/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/12/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/22/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/26/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/04/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/11/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/12/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/21/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/28/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/06/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/28/2011,Karen Trembath,Citizen Aquatic Invasives Monitoring - Moose Lake
+09/28/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/09/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/22/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+11/11/2011,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/11/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/26/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/03/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/11/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/24/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/29/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/10/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/18/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/06/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/13/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/20/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/15/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/28/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/02/2012,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/05/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/19/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/01/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/07/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/19/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/22/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/26/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/08/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/25/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/02/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/09/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/22/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/25/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/11/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/25/2013,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/05/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/17/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/25/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/29/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/09/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/17/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/22/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/03/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/11/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/20/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/28/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/04/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/13/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/20/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/27/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/13/2014,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+04/12/2015,Carolyn Scholl,FRIENDS OF MOOSE LAKE: Comprehensive Lake Management Plan - Moose Lake
+04/15/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/03/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/12/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/20/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/27/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/05/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/12/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/14/2015,Carolyn Scholl,FRIENDS OF MOOSE LAKE: Comprehensive Lake Management Plan - Moose Lake
+06/21/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/23/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/27/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/08/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/12/2015,Carolyn Scholl,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/12/2015,Carolyn Scholl,FRIENDS OF MOOSE LAKE: Comprehensive Lake Management Plan - Moose Lake
+07/15/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/27/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/08/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/15/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/16/2015,Carolyn Scholl,FRIENDS OF MOOSE LAKE: Comprehensive Lake Management Plan - Moose Lake
+08/26/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/01/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/09/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/24/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/10/2015,Carolyn Scholl,FRIENDS OF MOOSE LAKE: Comprehensive Lake Management Plan - Moose Lake
+10/11/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/18/2015,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/05/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/12/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/22/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/08/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/17/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/28/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/30/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/08/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/19/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/25/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/25/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/31/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/18/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/29/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/03/2016,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+04/11/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/10/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/26/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/07/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/11/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/16/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/20/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/01/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/10/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/17/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/06/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/28/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/29/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/30/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/11/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+10/16/2017,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/07/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/20/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/28/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/19/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/23/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/29/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/26/2018,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+04/28/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/26/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+05/29/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/06/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/18/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/27/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/14/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/28/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/27/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/18/2019,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/12/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/23/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+06/29/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/02/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/13/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+07/21/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/05/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+08/24/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole
+09/22/2020,Karen Trembath,Citizen Lake Monitoring - Water Quality - Moose Lake - Deep Hole

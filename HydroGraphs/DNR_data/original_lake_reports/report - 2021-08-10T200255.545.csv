@@ -1,0 +1,552 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+North Lake,Sawyer,2436000,NO,58,,583102,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190928,06/18/1989,8,NO,2.4,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190928,07/26/1989,7.5,NO,2.3,,,48,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190518,08/06/1989,12,NO,3.6,,,41,,,GAUGE,81.97,,BROWN,2-Very minor aesthetic problems
+8190518,08/16/1989,11.75,NO,3.6,,,42,,,GAUGE,81.93,,BROWN,2-Very minor aesthetic problems
+8190518,08/27/1989,11.25,NO,3.4,,,42,,,GAUGE,81.85,,BROWN,2-Very minor aesthetic problems
+8190953,09/06/1989,10.25,NO,3.1,,,44,,,GAUGE,82.19,,BROWN,2-Very minor aesthetic problems
+8190518,09/15/1989,10.25,NO,3.1,,,44,,,GAUGE,81.98,,BROWN,2-Very minor aesthetic problems
+8190518,09/26/1989,8,NO,2.4,,,47,,,GAUGE,81.87,,BROWN,2-Very minor aesthetic problems
+8190518,10/06/1989,6,NO,1.8,,,51,,,GAUGE,81.82,,BROWN,
+8190518,10/20/1989,7,NO,2.1,,,49,,,GAUGE,81.74,,BROWN,2-Very minor aesthetic problems
+8190518,05/13/1990,7.5,NO,2.3,,,48,,,GAUGE,82.06,,BROWN,2-Very minor aesthetic problems
+8190518,05/21/1990,10,NO,3,,,44,,,GAUGE,82.07,,BROWN,2-Very minor aesthetic problems
+8190518,05/27/1990,14.5,NO,4.4,,,39,,,,,,BROWN,1-Beautiful, could not be nicer
+8190518,06/04/1990,13.25,NO,4,,,40,,,GAUGE,82.03,,BROWN,1-Beautiful, could not be nicer
+8190518,06/12/1990,10,NO,3,,,44,,,GAUGE,82,,BROWN,1-Beautiful, could not be nicer
+8190518,06/22/1990,8.25,NO,2.5,,,47,,,GAUGE,81.99,,BROWN,1-Beautiful, could not be nicer
+8190518,07/04/1990,9.75,NO,3,,,44,,,GAUGE,81.96,,BROWN,1-Beautiful, could not be nicer
+8190518,07/13/1990,10,NO,3,,,44,,,GAUGE,81.57,,BROWN,1-Beautiful, could not be nicer
+8190518,07/25/1990,10,NO,3,,,44,,,GAUGE,81.72,,BROWN,1-Beautiful, could not be nicer
+8190518,08/03/1990,10.5,NO,3.2,,,43,,,GAUGE,81.65,,BROWN,1-Beautiful, could not be nicer
+8190518,08/10/1990,4.25,NO,1.3,,,56,,,GAUGE,81.56,,BROWN,1-Beautiful, could not be nicer
+8190518,08/17/1990,8.75,NO,2.7,,,46,,,GAUGE,81.46,,BROWN,1-Beautiful, could not be nicer
+8190518,08/26/1990,7.5,NO,2.3,,,48,,,GAUGE,81.6,,BROWN,2-Very minor aesthetic problems
+8190518,09/12/1990,7,NO,2.1,,,49,,,GAUGE,82.09,,BROWN,2-Very minor aesthetic problems
+8190518,09/22/1990,6,NO,1.8,,,51,,,GAUGE,84.09,,BROWN,
+8190518,06/11/1991,6,NO,1.8,,,51,,,GAUGE,82.66,,BROWN,1-Beautiful, could not be nicer
+8190518,06/19/1991,6,NO,1.8,,,51,,,GAUGE,82.82,,BROWN,1-Beautiful, could not be nicer
+8190518,06/26/1991,6,NO,1.8,,,51,,,GAUGE,82.79,,BROWN,1-Beautiful, could not be nicer
+8190518,07/05/1991,6,NO,1.8,,,51,,,GAUGE,82.85,,BROWN,1-Beautiful, could not be nicer
+8190518,07/13/1991,6.25,NO,1.9,,,51,,,GAUGE,82.86,,BROWN,1-Beautiful, could not be nicer
+8190518,07/19/1991,6,NO,1.8,,,51,,,GAUGE,84.81,,BROWN,1-Beautiful, could not be nicer
+8190518,07/27/1991,5,NO,1.5,,,54,,,GAUGE,82.74,,BROWN,1-Beautiful, could not be nicer
+8190518,08/04/1991,6,NO,1.8,,,51,,,GAUGE,82.79,,BROWN,1-Beautiful, could not be nicer
+8190518,08/11/1991,6.25,NO,1.9,,,51,,,GAUGE,82.66,,BROWN,1-Beautiful, could not be nicer
+8190518,08/20/1991,6,NO,1.8,,,51,,,GAUGE,82.61,,BROWN,1-Beautiful, could not be nicer
+8190518,05/30/1992,6,NO,1.8,,,51,,,GAUGE,82.88,,BROWN,1-Beautiful, could not be nicer
+8190957,06/09/1992,6,NO,1.8,,,51,,,GAUGE,82.84,,BROWN,1-Beautiful, could not be nicer
+8190957,06/17/1992,6,NO,1.8,,,51,,,GAUGE,82.84,,BROWN,1-Beautiful, could not be nicer
+8190957,06/27/1992,6,NO,1.8,,,51,,,GAUGE,82.86,,BROWN,1-Beautiful, could not be nicer
+8190957,07/09/1992,6.5,NO,2,,,50,,,4"ABOVE STAFF,,,BROWN,1-Beautiful, could not be nicer
+8190957,07/17/1992,6,NO,1.8,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190957,07/22/1992,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190957,08/01/1992,6,NO,1.8,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190957,08/07/1992,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190957,08/19/1992,7,NO,2.1,,,49,,,GAUGE,82.9,,BROWN,1-Beautiful, could not be nicer
+8190957,08/26/1992,6.5,NO,2,,,50,,,GAUGE,82.9,,BROWN,2-Very minor aesthetic problems
+8190957,09/04/1992,6,NO,1.8,,,51,,,GAUGE,82.89,,BROWN,2-Very minor aesthetic problems
+8190957,09/10/1992,6,NO,1.8,,,51,,,GAUGE,82.89,,BROWN,2-Very minor aesthetic problems
+8190990,06/05/1993,7,NO,2.1,,,49,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190990,07/05/1993,6,NO,1.8,,,51,,,HIGH,,,BROWN,
+8190990,07/17/1993,6.25,NO,1.9,,,51,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190990,08/21/1993,5.75,YES,1.7,,,52,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190990,09/05/1993,5.25,NO,1.6,,,53,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190912,06/19/1995,7.75,NO,2.4,,,48,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190912,07/11/1995,8,NO,2.4,,,47,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190912,07/20/1995,7.5,NO,2.3,,,48,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8190912,08/12/1995,4.75,NO,1.4,,,55,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190912,08/30/1995,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190912,09/11/1995,5,NO,1.5,,,54,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190912,07/17/1996,6.75,NO,2.1,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190912,08/03/1996,5.5,NO,1.7,,,53,,,7" ABOVE NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190912,08/17/1996,3.75,NO,1.1,,,58,,,1" ABOVE NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190912,09/23/1996,1,NO,0.3,,,77,,,1" ABOVE NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190912,07/04/1997,6.5,NO,2,,,50,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190912,07/18/1997,6.5,NO,2,,,50,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190912,07/29/1997,6.75,NO,2.1,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190912,08/10/1997,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190912,08/29/1997,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190912,08/30/1998,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190912,09/28/1998,7,NO,2.1,,,49,,,,,MURKY,,2-Very minor aesthetic problems
+8189886,06/21/1999,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190912,06/21/1999,7,NO,2.1,,,49,,,NO CHANGE,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189886,07/11/1999,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190912,07/11/1999,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189886,07/22/1999,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190912,07/22/1999,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189886,08/13/1999,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190912,08/13/1999,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189886,08/28/1999,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190912,08/28/1999,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189886,09/22/1999,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8190912,09/22/1999,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189341,06/07/2000,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,06/07/2000,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,06/25/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,06/25/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189341,07/17/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/17/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,07/28/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/28/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189341,08/18/2000,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189886,08/18/2000,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189341,08/31/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,08/31/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189341,09/10/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,09/10/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189341,09/22/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,09/22/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,07/05/2001,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/28/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,08/08/2001,8.6,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,08/23/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,09/12/2001,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,05/31/2002,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189886,07/07/2002,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189886,07/30/2002,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189886,08/10/2002,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189886,08/23/2002,9.6,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7000082,08/28/2002,9.5,NO,2.9,4.05,27,45,54,45,,,,,
+8189886,06/14/2003,10.6,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,06/21/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/03/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/10/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/28/2003,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,08/09/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,08/30/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,06/27/2004,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,07/15/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,07/28/2004,8.6,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,08/16/2004,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,08/28/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,09/04/2004,9.6,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,07/04/2005,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189886,07/06/2005,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,07/21/2005,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,08/10/2005,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189886,08/31/2005,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189886,10/22/2005,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,
+25475359,06/13/2009,9,NO,2.7,,,45,,,,,,,
+25475359,06/20/2009,9.25,NO,2.8,,,45,,,,,,,
+25475359,07/04/2009,9,NO,2.7,,,45,,,,,,,
+25475359,07/18/2009,9.25,NO,2.8,,,45,,,,,,,
+25475359,07/23/2009,8.75,NO,2.7,,,46,,,,,,,
+25475359,08/05/2009,9.5,NO,2.9,,,45,,,,,,,
+46317554,05/21/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/31/2012,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/11/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/30/2012,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/16/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/29/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/18/2012,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/31/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/03/2013,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/16/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/01/2013,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/15/2013,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/29/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/15/2013,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/31/2013,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/23/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/08/2014,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/17/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/29/2014,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/25/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,09/28/2014,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/25/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/09/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/23/2015,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/23/2015,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/15/2015,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/27/2015,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,09/20/2015,6,NO,1.8,,,51,,,NORMAL,6.0,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/21/2016,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/18/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/15/2016,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/29/2016,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/02/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/27/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/10/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/28/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,09/06/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/19/2018,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/10/2018,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/03/2018,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/16/2018,6,,1.8,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+46317554,08/12/2018,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,09/14/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/28/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/07/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/22/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/13/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/23/2019,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/11/2019,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/24/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,09/17/2019,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,05/20/2020,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/08/2020,,,,,20.9,,52,,,,,,
+46317554,06/14/2020,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,06/24/2020,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,07/11/2020,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/13/2020,,,,2.25,18.8,,51,41,,,,,
+46317554,07/23/2020,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,08/10/2020,,,,4.3,17,,50,46,,,,,
+46317554,08/12/2020,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+46317554,08/21/2020,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/08/2020,,,,11.8,22,,52,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/28/2002,6.56,FEET,,,8.4,MG/L
+08/28/2002,,,22.2,C,8.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/18/1989,Sunny- rained in morning until 2 hours before sampling    
+07/26/1989,Sunny    
+08/06/1989,Cloudy and windy.  Light rain night before test.  Note change of observer and difference in clarity.  North lake is a filter lake- check big spider and fawn lakes.    
+08/16/1989,Clear sky- calm- and no wind.    
+08/27/1989,Sunny and rained 1/2" yesterday 8/26/89.    
+09/06/1989,Partly cloudy- hazy- 4.5 in. rain past 5 days    
+09/15/1989,Sunny.    
+09/26/1989,Clear and cool day.    
+10/06/1989,Cloudy and cold.  Water is choppy- I think the clarity is bad.    
+10/20/1989,Clear- calm- 60 degrees F.    
+05/13/1990,Sunny and windy.    
+05/21/1990,Cloudy and calm.    
+05/27/1990,Breezy- sunny- and slight rain the night before.    
+06/04/1990,Sunny and chop on the water.    
+06/12/1990,Cloudy- after light rain- and high wind.    
+06/22/1990,Cloudy and moderate wind.    
+07/04/1990,Partly cloudy.    
+07/13/1990,Sunny and calm.    
+07/25/1990,Overcast.    
+08/03/1990,Sunny.    
+08/10/1990,Cloudy and windy.    
+08/17/1990,Cloudy and overcast.  Getting difficult to get from fawn lake to north lake channel due to low water.    
+08/26/1990,Very cloudy.    
+09/12/1990,Cloudy and taken after 2" of rain.    
+09/22/1990,Perception is 6; drizzle and nasty.  Black and cloudy.  Windy- rained night before- and lake level up rapidly.    
+06/11/1991,Sunny and breezy.    
+06/19/1991,Sunny and clear.    
+06/26/1991,Overcast and windy.    
+07/05/1991,One week of rain.    
+07/13/1991,Partly cloudy- windy- and after 1/2" of rain.    
+07/19/1991,Sunny.    
+07/27/1991,Cloudy.    
+08/11/1991,Sunny    
+08/20/1991,Sunny and windy.    
+05/30/1992,Sunny and calm.    
+06/09/1992,Sunny- slight breeze- warm.  Fair weed growth.    
+06/17/1992,Overcast and very windy- rain off + on.    
+06/27/1992,Partly cloudy- breezy- low pressure system is moving out- lots of rain.    
+07/09/1992,Lake level is up following several days of rain and wind.    
+07/17/1992,Rains and winds variable- cooler temperatures.    
+07/22/1992,Overcast skies all day- no rain today.    
+08/01/1992,Windy conditions- overcast sky- rained last night and part of today- warm.    
+08/07/1992,Breezy- overcast sky.  Raining intermittently through the day- nice temperatures.    
+08/19/1992,Very nice day.  Upper 70's- slight breeze.  Sunny skies.    
+08/26/1992,Mostly cloudy- slight breeze- 60-70 degrees.    
+09/04/1992,Mostly cloudy- rain in the a.m.- light breezes.    
+09/10/1992,Rainy- 60 degrees- light breezes.    
+06/05/1993,Pleasant day- sun shining- temperature is cool- and more rain than sun.    
+07/05/1993,Sunny- high chop. no algal blooms- heavy rains past 3 weeks    
+07/17/1993,More blooming.    
+09/05/1993,Very clear- temperature is 46 degrees.    
+06/19/1995,Pollen on surface.    
+07/20/1995,Cloudy-some wind.    
+08/12/1995,Very overcast.    
+08/30/1995,Sunny-windy.    
+09/11/1995,Partly cloudy- windy.    
+07/17/1996,Cloudy-warm + humid.    
+08/03/1996,Sunny- warm - windy.    
+08/17/1996,Sunny- calm. some algae.    
+09/23/1996,Partly cloudy.    
+07/04/1997,Warm sunny day.    
+07/18/1997,Sunny- warm and humid.    
+07/29/1997,Sunny- 80 degrees. weeds high.    
+08/10/1997,Sunny- cool- light breeze.    
+06/07/2000,Sunny- breeze    
+06/25/2000,Hazy and calm.    
+07/17/2000,Hazy and calm.    
+07/28/2000,Overcast and misty.    
+08/18/2000,Clear and partly cloudy.    
+08/31/2000,Hazy and calm.    
+09/10/2000,Partly sunny.    
+09/22/2000,Cloudy- windy and misty.    
+08/28/2002,DEEPEST SPOT    
+06/13/2009,Sun/cloudy/wind
+06/20/2009,Sun/wind
+07/04/2009,Sun/cloudy/no wind
+07/18/2009,Dark/cloudy/no wind
+07/23/2009,Sun/wind
+08/05/2009,Sun/wind
+05/21/2012,sunny- clear- no wind
+05/31/2012,mostly sunny- slight breeze
+06/11/2012,mostly sunny- breezy
+06/30/2012,clear skies- sunny- slight breeze
+07/16/2012,sunny- slight breeze
+07/29/2012,mostly sunny
+08/18/2012,sunny- slight breeze
+08/31/2012,sunny- slight breeze
+06/03/2013,Mostly cloudy.
+06/16/2013,Full sun
+07/01/2013,sunny- slight breeze
+07/15/2013,calm- no wind
+07/29/2013,sunny- no breeze
+08/15/2013,Cloudy- slight breeze
+08/31/2013,sunny- slight breeze
+05/23/2014,Clear skies- full sun- no breeze
+06/08/2014,blue skies- sunny- slight breeze
+07/17/2014,partly cloudy- slight breeze
+07/29/2014,sunny- slight breeze
+08/25/2014,full sun- windy
+09/28/2014,full sun- no breeze
+05/25/2015,Cloudy- no breeze
+06/09/2015,Cloudy- no breeze
+06/23/2015,sunny- slight breeze
+07/23/2015,sunny- slight breeze
+08/15/2015,full sun- no breeze
+08/27/2015,full sun- no breeze
+09/20/2015,full sun- breezy
+05/21/2016,Clear skies- full sun
+07/18/2016,sunny- slight breeze
+08/15/2016,full sun- no breeze
+08/29/2016,full sun- slight breeze
+06/02/2017,full sun- slight breeze
+06/27/2017,sunny and slight breeze
+07/28/2017,full sun- no breeze
+09/06/2017,cloudy- breezy
+05/19/2018,cloudy and dead calm
+06/10/2018,Partial sun with a breeze
+07/03/2018,cloudy- breezy
+07/16/2018,full sun- breezy
+08/12/2018,sunny- no clouds- dead calm
+09/14/2018,cloudy- no sun- no breeze
+05/28/2019,no breeze- cloudy
+06/07/2019,full sun- breezy
+06/22/2019,full sun- no breeze- pine pollen on top of water full sun- no breeze- pine pollen on surface
+07/13/2019,clear skies- full sun- no breeze
+07/23/2019,some clouds with sun- breezy
+08/11/2019,cloudy- no wind
+08/24/2019,full sun- clear skies- no wind
+09/17/2019,Cloudy- no sun- no breeze
+05/20/2020,full sun- slight breeze
+06/14/2020,full sun- no clouds- breezy
+06/24/2020,cloudy- no breeze
+07/11/2020,full sun- no clouds- slight breeze
+07/23/2020,some clouds- some sun- slight breeze
+08/12/2020,Breezy- clouds- little sun
+08/21/2020,Sunny- wispy clouds- slight breeze
+
+
+
+
+Start Date,Group Name,Project Name
+06/18/1989,Ted Manos,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/26/1989,Ted Manos,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/06/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/16/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/27/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/06/1989,Don Nordstrom,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/15/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/26/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+10/06/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+10/20/1989,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/13/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/21/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/27/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/04/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/12/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/22/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/04/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/13/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/25/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/03/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/10/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/17/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/26/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/12/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/22/1990,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/11/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/19/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/26/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/05/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/13/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/19/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/27/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/04/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/11/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/20/1991,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/30/1992,Joseph Promersberger,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/09/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/17/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/27/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/09/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/17/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/22/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/01/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/07/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/19/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/26/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/04/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/10/1992,Patricia Ostling,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/05/1993,John Seibel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/05/1993,John Seibel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/17/1993,John Seibel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/21/1993,John Seibel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/05/1993,John Seibel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/19/1995,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/11/1995,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/20/1995,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/12/1995,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/30/1995,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/11/1995,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/17/1996,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/03/1996,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/17/1996,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/23/1996,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/04/1997,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/18/1997,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/29/1997,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/10/1997,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/29/1997,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/30/1998,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/28/1998,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/21/1999,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/21/1999,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/11/1999,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/11/1999,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/22/1999,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/22/1999,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/13/1999,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/13/1999,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/28/1999,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/28/1999,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/22/1999,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/22/1999,Levin Lake,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/07/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/07/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/25/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/25/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/17/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/17/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/28/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/28/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/18/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/18/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/31/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/31/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/10/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/10/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/22/2000,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/22/2000,Howard Healey,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/05/2001,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/28/2001,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/08/2001,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/23/2001,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/12/2001,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/31/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/07/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/30/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/10/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/23/2002,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/28/2002,Kris Larsen,Lake Baseline Monitoring- DNR (1970s-2006)
+06/14/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/21/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/03/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/10/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/28/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/09/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/30/2003,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/27/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/15/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/28/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/16/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/28/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/04/2004,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/04/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/06/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/21/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/10/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/31/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+10/22/2005,Dan Mersel,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/13/2009,Kurt Degner,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/20/2009,Kurt Degner,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/04/2009,Kurt Degner,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/18/2009,Kurt Degner,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/23/2009,Kurt Degner,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/05/2009,Kurt Degner,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/21/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/31/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/11/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/30/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/16/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/29/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/18/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/31/2012,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/03/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/16/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/01/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/15/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/29/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/15/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/31/2013,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/23/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/08/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/17/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/29/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/25/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/28/2014,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/25/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/09/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/23/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/23/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/15/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/27/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/20/2015,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/21/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/18/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/15/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/29/2016,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/02/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/27/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/10/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/28/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/06/2017,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/19/2018,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/10/2018,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/03/2018,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/16/2018,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/12/2018,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/14/2018,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/28/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/07/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/22/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/13/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/23/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/11/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/24/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/17/2019,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+05/20/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/08/2020,Data Collectors,SPIDER CHAIN OF LAKES ASSOCIATION: Spider Chain of Lakes  Comprehensive Lake Management Plan
+06/14/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+06/24/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/11/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+07/13/2020,Data Collectors,SPIDER CHAIN OF LAKES ASSOCIATION: Spider Chain of Lakes  Comprehensive Lake Management Plan
+07/23/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/10/2020,Data Collectors,SPIDER CHAIN OF LAKES ASSOCIATION: Spider Chain of Lakes  Comprehensive Lake Management Plan
+08/12/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+08/21/2020,Steve Braddish,Citizen Lake Monitoring - Water Quality - North Lake; Deep Hole
+09/08/2020,Data Collectors,SPIDER CHAIN OF LAKES ASSOCIATION: Spider Chain of Lakes  Comprehensive Lake Management Plan

@@ -1,0 +1,56 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Island Lake,Iron,2945500,NO,26,,263035,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/21/1997,3.9,,1.2,,37,57,56,,,,,,
+1,08/14/1997,3.3,,1,,26,60,53,,,,,,
+202749270,08/17/2019,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+199666393,08/31/2019,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+199666393,09/02/2019,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,10/06/2019,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,10/20/2019,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,08/08/2020,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,08/16/2020,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,09/04/2020,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,09/19/2020,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,10/04/2020,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+202749270,10/11/2020,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/21/1997,,,9.9,C,11.4,MG/L
+08/14/1997,,,19.9,C,7.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/17/2019,Clear water; sunny day
+10/06/2019,Little rough; partly sunny day
+10/20/2019,Sunny day; some algae bloom
+08/08/2020,Partly cloudy; measurement taken following heavy thunderstorms 10 hrs previous.
+08/16/2020,Partly cloudy
+09/04/2020,Partly cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+05/21/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+08/14/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+08/17/2019,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+08/31/2019,Chris Farrell,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+09/02/2019,Chris Farrell,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+10/06/2019,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+10/20/2019,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+08/08/2020,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+08/16/2020,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+09/04/2020,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+09/19/2020,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+10/04/2020,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole
+10/11/2020,Karen Hagemann,Citizen Lake Monitoring - Water Quality - Island Lake - Deep Hole

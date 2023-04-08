@@ -1,0 +1,62 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Barron,2469800,NO,3,,10046892,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+19207139,07/26/2016,6.5,NO,2,,,50,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82607229,07/24/2019,,,,5.64,22.6,,52,48,,,,,
+10585221,08/15/2019,8,NO,2.4,3.76,21.7,47,52,45,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82607229,09/13/2019,,,,7.07,15.5,,49,50,,,,,
+19207139,07/15/2020,7.25,NO,2.2,2.57,18,49,51,42,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19207139,08/06/2020,6,NO,1.8,5.59,20.6,51,52,48,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19207139,08/31/2020,10.25,NO,3.1,6.85,19.2,44,51,49,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/15/2019,0,FEET,75.8,DEGREES F,6.48,MG/L
+08/15/2019,1,FEET,75.7,DEGREES F,6.48,MG/L
+08/15/2019,2,FEET,75.4,DEGREES F,6.49,MG/L
+08/15/2019,3,FEET,74.8,DEGREES F,6.51,MG/L
+08/15/2019,4,FEET,74.6,DEGREES F,6.44,MG/L
+08/15/2019,5,FEET,74.5,DEGREES F,6.4,MG/L
+08/15/2019,6,FEET,74.4,DEGREES F,6.36,MG/L
+08/15/2019,7,FEET,74.2,DEGREES F,6.02,MG/L
+08/15/2019,8,FEET,73.3,DEGREES F,5.29,MG/L
+08/15/2019,9,FEET,72.4,DEGREES F,3.37,MG/L
+08/15/2019,10,FEET,69.1,DEGREES F,.16,MG/L
+08/15/2019,11,FEET,67.2,DEGREES F,.17,MG/L
+08/15/2019,12,FEET,64.7,DEGREES F,.17,MG/L
+08/15/2019,13,FEET,62.4,DEGREES F,.17,MG/L
+08/15/2019,14,FEET,60.2,DEGREES F,.17,MG/L
+08/15/2019,15,FEET,58.1,DEGREES F,.17,MG/L
+08/15/2019,16,FEET,56.5,DEGREES F,.17,MG/L
+08/15/2019,17,FEET,55.3,DEGREES F,.17,MG/L
+08/15/2019,18,FEET,54.6,DEGREES F,.18,MG/L
+08/15/2019,19,FEET,53.9,DEGREES F,.18,MG/L
+08/06/2020,0,METERS,74.9,DEGREES F,,
+08/06/2020,1,METERS,74.9,DEGREES F,,
+08/06/2020,2,METERS,74.8,DEGREES F,,
+08/06/2020,3,METERS,73.3,DEGREES F,,
+08/06/2020,4,METERS,65.7,DEGREES F,,
+08/06/2020,5,METERS,59.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/2016,ALEX SMITH,Extra Sampling - Northern Region - Spooner 
+07/24/2019,Mark Sundeen and Alex Smith,2019-2020 Directed Lakes Smith - 319 eligible
+08/15/2019,MARK SUNDEEN,2019-2020 Directed Lakes Smith - 319 eligible
+09/13/2019,Mark Sundeen and Alex Smith,2019-2020 Directed Lakes Smith - 319 eligible
+07/15/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+08/06/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+08/31/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible

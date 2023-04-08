@@ -1,0 +1,342 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fawn Lake,Vilas,1591000,NO,64,,643063,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/05/1979,,,,,,,,,,,,,
+8189968,06/06/2001,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,06/16/2001,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,07/03/2001,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,07/11/2001,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,07/18/2001,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,08/14/2001,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,09/04/2001,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,
+8189968,05/30/2002,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,
+8189968,06/27/2002,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,07/05/2002,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,07/28/2002,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,08/11/2002,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,08/26/2002,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,09/12/2002,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,09/20/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,
+8189968,10/27/2002,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8189968,04/30/2003,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,
+8189968,05/27/2003,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,
+8189968,06/17/2003,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8189968,06/30/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,07/23/2003,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,08/01/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,08/21/2003,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,09/14/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,10/01/2003,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,10/27/2003,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8189968,04/30/2004,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,
+8189968,05/14/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,05/26/2004,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,06/09/2004,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8189968,06/22/2004,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8189968,07/01/2004,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,07/18/2004,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8189968,08/09/2004,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,08/27/2004,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,09/15/2004,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,10/12/2004,10,YES,3,,,44,,,NORMAL,,MURKY,GREEN,
+8189968,05/14/2005,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,
+8189968,06/07/2005,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,
+8189968,06/28/2005,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+8189968,07/07/2005,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+8189968,07/27/2005,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,
+8189968,08/15/2005,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,
+8189968,05/20/2006,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,
+8189968,06/08/2006,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,
+8189968,06/29/2006,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,
+8189968,07/11/2006,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,
+8189968,07/26/2006,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,
+8189968,08/04/2006,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,
+8189968,08/29/2006,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,
+8189968,04/20/2007,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,
+8189968,05/19/2007,10,YES,3,,,44,,,NORMAL,,CLEAR,BLUE,
+8189968,06/05/2007,10,YES,3,,,44,,,NORMAL,,CLEAR,BLUE,
+8189968,06/23/2007,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,
+8189968,07/09/2007,10,YES,3,,,44,,,LOW,,CLEAR,BLUE,
+8189968,08/04/2007,7.5,NO,2.3,,,48,,,LOW,,MURKY,GREEN,
+28456777,06/01/2008,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,
+28456777,06/30/2008,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,
+28456777,07/09/2008,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+28456777,08/04/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,
+28456777,08/13/2008,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,
+8189968,04/28/2009,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,
+8189968,05/12/2009,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,
+8189968,05/22/2009,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,
+8189968,06/03/2009,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,
+8189968,06/12/2009,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,06/30/2009,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,07/16/2009,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,08/06/2009,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,
+28456777,05/15/2010,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,
+28456777,05/27/2010,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,
+28456777,06/10/2010,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+41886245,06/22/2010,8.4,NO,2.6,5.13,24,46,53,47,,,,,
+28456777,07/13/2010,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,
+35019794,07/29/2010,6.2,NO,1.9,12.2,24,51,53,54,,,,,
+28456777,08/04/2010,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,
+16073539,08/18/2010,5,NO,1.5,15.5,41,54,57,56,,,,,
+28456777,09/01/2010,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,
+28456777,05/22/2011,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,
+28456777,06/03/2011,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,
+28456777,06/30/2011,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+28456777,07/16/2011,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+28456777,08/03/2011,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,
+28456777,08/22/2011,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,05/10/2012,11,YES,3.3,,,43,,,HIGH,,CLEAR,GREEN,
+28456777,05/18/2012,11,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,
+28456777,06/25/2012,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,07/05/2012,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,
+28456777,07/26/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+28456777,08/21/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,
+28456777,10/12/2012,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,
+8189968,05/24/2013,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,
+8189968,06/01/2013,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,
+8189968,06/12/2013,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+8189968,06/20/2013,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,
+8189968,07/11/2013,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,
+8189968,07/20/2013,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,
+8189968,08/07/2013,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,08/20/2013,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+28456777,05/23/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,
+8189968,06/10/2014,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,
+28456777,07/05/2014,10,YES,3,,,44,,,HIGH,,CLEAR,BLUE,
+28456777,08/04/2014,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,
+8189968,08/28/2014,8,NO,2.4,,,47,,,,,MURKY,GREEN,
+36799048,06/05/2015,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,
+36799048,06/10/2015,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,
+36799048,07/03/2015,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,
+36799048,07/15/2015,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,
+36799048,08/23/2015,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,
+36799048,09/18/2015,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,
+36799048,10/22/2015,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,
+28456777,05/03/2016,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,
+28456777,05/24/2016,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,
+28456777,06/15/2016,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,07/07/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,07/28/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,08/09/2016,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,
+28456777,08/30/2016,7,NO,2.1,,,49,,,HIGH,,CLEAR,GREEN,
+28456777,09/14/2016,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,
+28456777,10/03/2016,3,NO,0.9,,,61,,,HIGH,,CLEAR,GREEN,
+28456777,06/04/2017,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,
+8189968,07/01/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+28456777,07/19/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+28456777,08/02/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+28456777,05/10/2018,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+28456777,05/24/2018,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,
+28456777,06/10/2018,10,YES,3,,,44,,,HIGH,,CLEAR,GREEN,
+28456777,07/17/2018,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,08/12/2018,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+28456777,08/24/2018,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,
+8189968,05/03/2019,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,
+8189968,05/21/2019,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,
+1,06/26/2019,7.1,NO,2.2,4.55,17.7,49,50,46,,,,,
+8189968,07/11/2019,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,
+1,07/24/2019,8,Y,2.4,10.5,23.8,47,53,53,,,,,
+1,08/20/2019,7.5,NO,2.3,7.07,20.7,48,52,50,,,,,
+8189968,05/14/2020,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,
+8189968,06/12/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,
+8189968,07/23/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+8189968,07/31/2020,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+8189968,08/11/2020,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,
+8189968,09/10/2020,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/05/1979,,,22,C,,
+06/22/2010,,,20.5,C,9.3,MG/L
+07/29/2010,,,24.5,C,9.3,MG/L
+08/18/2010,,,21.5,C,7.7,MG/L
+06/26/2019,,,20.8,C,8.5,MG/L
+07/24/2019,,,22.8,C,8.1,MG/L
+08/20/2019,,,20.6,C,7.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/05/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/16/2001,A lot of rain.    
+07/18/2001,Very hot.    
+07/18/2004,Secchi Dip-in    
+08/27/2004,Not many snails this year.    
+06/08/2006,saw baby mallards on 6-07-2006
+04/20/2007,Island bouys in.  9 goose eggs on island.
+06/05/2007,Baby mallards in channel
+06/01/2008,Lake very dirty
+05/12/2009,Green slime early.
+05/22/2009,A lot of green slime.
+06/03/2009,Still slime.
+06/12/2009,Slime gone.
+05/15/2010,water very dirty.
+05/27/2010,a lot of pine pollen and weeds floating.
+07/13/2010,a lot of rain the last two weeks.
+06/03/2011,Alot of green slime on lake
+07/16/2011,Water much cleaner
+08/03/2011,Over 1 3/4" of rain on 08/02 - water- clear
+05/23/2014,A lot of floating dead weeds and dead fish present
+06/05/2015,A lot of green slime floating since early May
+06/10/2015,Green slime balls gone
+08/30/2016,A lot of green algae
+09/14/2016,Green algae
+10/03/2016,Still green
+05/14/2020,water dirty
+09/10/2020,water green. A lot of algae
+
+
+
+
+Start Date,Group Name,Project Name
+09/05/1979,Data Collectors,Migrated from STORET Legacy
+06/06/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/16/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/03/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/11/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/18/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/14/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/04/2001,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/30/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/27/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/05/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/28/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/11/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/26/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/12/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/20/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/27/2002,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+04/30/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/27/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/17/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/30/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/23/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/01/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/21/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/14/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/01/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/27/2003,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+04/30/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/14/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/26/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/09/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/22/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/01/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/18/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/09/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/27/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/15/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/12/2004,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/14/2005,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/07/2005,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/28/2005,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/07/2005,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/27/2005,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/15/2005,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/20/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/08/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/29/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/11/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/26/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/04/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/29/2006,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+04/20/2007,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/19/2007,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/05/2007,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/23/2007,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/09/2007,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/04/2007,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/01/2008,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/30/2008,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/09/2008,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/04/2008,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/13/2008,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+04/28/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/12/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/22/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/03/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/12/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/30/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/16/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/06/2009,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/15/2010,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/27/2010,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/10/2010,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/22/2010,Sonya Rowe and Dan Cibulka - Onterra- LLC,TOWN OF SAINT GERMAIN: Town of Saint Germain Management Planning Project - Fawn Lake Phase
+07/13/2010,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/29/2010,Todd Hanke and Sonya Rowe - Onterra- LLC,TOWN OF SAINT GERMAIN: Town of Saint Germain Management Planning Project - Fawn Lake Phase
+08/04/2010,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/18/2010,Tim Hoyman - Onterra- LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+09/01/2010,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/22/2011,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/03/2011,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/30/2011,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/16/2011,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/03/2011,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/22/2011,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/10/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/18/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/25/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/05/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/26/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/21/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/12/2012,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/24/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/01/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/12/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/20/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/11/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/20/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/07/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/20/2013,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/23/2014,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/10/2014,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/05/2014,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/04/2014,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/28/2014,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/05/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/10/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/03/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/15/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/23/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/18/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/22/2015,Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/03/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/24/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/15/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/07/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/28/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/09/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/30/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/14/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+10/03/2016,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/04/2017,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/01/2017,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/19/2017,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/02/2017,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/10/2018,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/24/2018,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/10/2018,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/17/2018,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/12/2018,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/24/2018,Joe Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/03/2019,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+05/21/2019,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/26/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+07/11/2019,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/24/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/20/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+05/14/2020,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+06/12/2020,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/23/2020,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+07/31/2020,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+08/11/2020,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole
+09/10/2020,Joe And Marie Koschnik,Citizen Lake Monitoring - Water Quality - Fawn Lake; Deep Hole

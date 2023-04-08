@@ -1,0 +1,84 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tiedemans Pond,Dane,783740,SC,13,,133460,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/06/2005,,,,910,,,,86,,,,,
+1,06/27/2005,,,,469,,,,81,,,,,
+1,07/19/2005,,,,1110,,,,88,,,,,
+8191233,07/19/2018,2,YES,0.6,,,67,,,NORMAL,,CLEAR,,
+143167470,07/26/2018,,,,250,442,,75,77,,,,,
+164634805,07/26/2018,0.5,NO,0.2,,,87,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164047290,07/31/2018,0.5,NO,0.2,,,87,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+161641974,08/14/2018,0.25,NO,0.1,34.5,168,97,68,62,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+161641974,08/28/2018,1.25,NO,0.4,,,74,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8191233,07/08/2019,2,NO,0.6,,,67,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+191633954,07/29/2019,,,,224,355,,74,76,,,,,
+199032774,07/29/2019,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+191633954,08/16/2019,,,,206,370,,74,75,,,,,
+199032774,08/16/2019,0.75,NO,0.2,,,81,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164047290,08/24/2019,0.5,NO,0.2,,,87,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+191633954,09/03/2019,,,,354,661,,78,79,,,,,
+204239968,09/03/2019,0.25,NO,0.1,,,97,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164047290,07/12/2020,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164047290,08/29/2020,0,NO,0,,,,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/27/2005,,,31.1,C,,
+07/19/2005,,,23.3,C,,
+07/26/2018,0,METERS,24.9,DEGREES C,12.46,MG/L
+07/26/2018,0.5,METERS,24.9,DEGREES C,12.41,MG/L
+07/26/2018,1,METERS,24.8,DEGREES C,6.91,MG/L
+08/14/2018,0,METERS,26,DEGREES C,6.79,MG/L
+08/14/2018,0.5,METERS,25.4,DEGREES C,3.17,MG/L
+08/28/2018,0,METERS,24.2,DEGREES C,9.2,MG/L
+08/28/2018,1,METERS,23.9,DEGREES C,9.19,MG/L
+08/28/2018,2,METERS,21.2,DEGREES C,.55,MG/L
+08/28/2018,3,METERS,20.7,DEGREES C,.2,MG/L
+07/29/2019,0,METERS,26.5,DEGREES C,10.43,MG/L
+07/29/2019,0.5,FEET,26.5,DEGREES F,10.23,MG/L
+07/29/2019,0.5,METERS,26.5,DEGREES C,10.23,MG/L
+07/29/2019,1,FEET,26.5,DEGREES F,9.66,MG/L
+07/29/2019,1,METERS,26.5,DEGREES C,9.66,MG/L
+08/16/2019,0,METERS,23,DEGREES C,14.52,MG/L
+08/16/2019,0.5,METERS,22.9,DEGREES C,13.7,MG/L
+09/03/2019,0,METERS,22.4,DEGREES C,10.69,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/26/2018,Algal bloom- water samples taken at 3 feet- profile measures taken at 1/2 meters.  Algal bloom- water samples taken at 3 feet- profile measures taken at 1/2 meters. 
+08/14/2018,algal bloom
+08/28/2018,The pond level was very high due to recent flood events in the Middleton area. The pond was about 7 feet higher than normal making the deep hole about 10 feet deep. 
+07/08/2019,beautifu day
+09/03/2019,Water down. Deep hole at 1.5ft. Could not take 0.5m reading with YSI- too mucky.
+
+
+
+
+Start Date,Group Name,Project Name
+06/06/2005,Data Collectors,CYLINDROSPERMOPSIS MONITORING
+06/27/2005,Data Collectors,CYLINDROSPERMOPSIS MONITORING
+07/19/2005,Data Collectors,Bluegreen Algae Monitoring 2005-2006
+07/19/2018,Rachel Sabre,Citizen lake Monitoring - Water Quality - Tiedman Pond - Deep Hole
+07/26/2018,Amanda S Smith- ANNEMARIE CROY,Directed Lakes 2018 Graham
+07/26/2018,ZANA SIJAN,Directed Lakes 2018 Graham
+07/31/2018,Christopher Loyd,Citizen lake Monitoring - Water Quality - Tiedman Pond - Deep Hole
+08/14/2018,ANNEMARIE CROY- Amanda S Smith- SARAH RHODES,Directed Lakes 2018 Graham
+08/28/2018,ANNEMARIE CROY- Amanda S Smith- SARAH RHODES,Directed Lakes 2018 Graham
+07/08/2019,Rachel Sabre,Citizen lake Monitoring - Water Quality - Tiedman Pond - Deep Hole
+07/29/2019,SHELBY T ADLER- ALYSSA M SOGGE- JULIE M BENZSCHAWEL,Directed Lakes 2019 Graham
+07/29/2019,SHELBY T ADLER- Susan Graham,Directed Lakes 2019 Graham
+08/16/2019,SHELBY T ADLER- ALYSSA M SOGGE- JULIE M BENZSCHAWEL,Directed Lakes 2019 Graham
+08/16/2019,SHELBY T ADLER- Susan Graham,Directed Lakes 2019 Graham
+08/24/2019,Christopher Loyd,Citizen lake Monitoring - Water Quality - Tiedman Pond - Deep Hole
+09/03/2019,JULIE M BENZSCHAWEL- SHELBY T ADLER,Directed Lakes 2019 Graham
+09/03/2019,SHELBY T ADLER- Susan Graham,Directed Lakes 2019 Graham
+07/12/2020,Christopher Loyd,Citizen lake Monitoring - Water Quality - Tiedman Pond - Deep Hole
+08/29/2020,Christopher Loyd,Citizen lake Monitoring - Water Quality - Tiedman Pond - Deep Hole

@@ -1,0 +1,231 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Big Eau Pleine Reservoir,Marathon,1427400,WC,37,,373123,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/30/1973,,,,,290,,72,,,,,,
+1,11/13/1973,,,,,180,,68,,,,,,
+1,02/08/1974,,,,,100,,64,,,,,,
+1,04/22/1974,,,,,180,,68,,,,,,
+1,09/03/1974,,,,,410,,75,,,,,,
+1,11/05/1974,,,,,420,,75,,,,,,
+1,06/01/1989,,,,,150,,67,,,,,,
+1,06/19/1989,,,,10,140,,66,52,,,,,
+1,07/10/1989,,,,100,160,,63,70,,,,,
+1,07/27/1989,,,,95,180,,62,69,,,,,
+1,08/10/1989,,,,110,140,,66,70,,,,,
+1,08/24/1989,,,,52,100,,64,65,,,,,
+1,09/13/1989,,,,120,120,,65,71,,,,,
+1,06/13/1990,0.3,,0.1,4,160,57,67,45,,,,,
+1,07/11/1990,,,,27,140,,66,60,,,,,
+1,07/31/1990,,,,92,160,,67,69,,,,,
+1,08/14/1990,,,,45,110,,65,64,,,,,
+1,08/28/1990,,,,63,,,,66,,,,,
+1,09/19/1990,,,,32,,,,61,,,,,
+1,06/18/1991,,,,11,140,,58,53,,,,,
+1,07/11/1991,9.8,,3,56,100,42,64,65,,,,,
+1,07/30/1991,,,,59,140,,63,66,,,,,
+1,08/28/1991,9.8,,3,26,50,38,58,59,,,,,
+1,09/11/1991,4.9,,1.5,44,150,42,60,63,,,,,
+1,06/18/1992,,,,7,160,,61,50,,,,,
+1,07/06/1992,,,,64,110,,65,66,,,,,
+1,07/27/1992,2.5,,0.75,8.55,100,53,64,51,,,,,
+1,08/31/1992,0.8,,0.23,12.7,165,54,60,54,,,,,
+1,10/05/1992,1.5,,0.45,28.1,158,57,60,60,,,,,
+17878085,05/28/2006,4.75,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+17878085,06/07/2006,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+17878085,06/19/2006,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+17878085,06/23/2006,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+17878085,06/28/2006,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+17878085,07/06/2006,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+17878085,07/16/2006,4,YES,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+17878085,07/23/2006,2.75,YES,0.8,,,63,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+17878085,07/28/2006,2,YES,0.6,,,67,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+164187096,07/10/2018,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164187096,07/22/2018,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,07/30/2018,1.25,NO,0.4,,,74,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,08/07/2018,0.75,NO,0.2,,,81,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,08/15/2018,1,NO,0.3,,,77,,,LOW,18,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,08/23/2018,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164187096,08/31/2018,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164187096,09/16/2018,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164187096,09/24/2018,1.25,NO,0.4,,,74,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+164187096,10/02/2018,,,,,,,,,,,,GREEN,4-Would not swim but boating OK (algae)
+164187096,11/09/2018,1.25,NO,0.4,,,74,,,NORMAL,19.0,CLEAR,BROWN,2-Very minor aesthetic problems
+164187096,05/22/2019,1.5,NO,0.5,,,71,,,NORMAL,19,MURKY,BROWN,2-Very minor aesthetic problems
+164187096,05/30/2019,1.5,NO,0.5,,,71,,,HIGH,19.5,MURKY,BROWN,2-Very minor aesthetic problems
+164187096,06/07/2019,2.5,NO,0.8,,,64,,,HIGH,20.0,MURKY,BROWN,1-Beautiful, could not be nicer
+164187096,06/15/2019,2.5,NO,0.8,,,64,,,HIGH,20.5,MURKY,BROWN,1-Beautiful, could not be nicer
+164187096,06/23/2019,1.5,NO,0.5,,,71,,,HIGH,20,MURKY,BROWN,1-Beautiful, could not be nicer
+164187096,07/01/2019,1,NO,0.3,,,77,,,NORMAL,20,MURKY,BROWN,2-Very minor aesthetic problems
+164187096,07/09/2019,1.5,NO,0.5,,,71,,,HIGH,20.0,MURKY,BROWN,2-Very minor aesthetic problems
+164187096,07/17/2019,1,NO,0.3,,,77,,,HIGH,20,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,07/25/2019,1.5,NO,0.5,,,71,,,HIGH,20,MURKY,BROWN,1-Beautiful, could not be nicer
+164187096,08/02/2019,2.5,NO,0.8,,,64,,,NORMAL,20.0,MURKY,BROWN,1-Beautiful, could not be nicer
+164187096,08/10/2019,2,NO,0.6,,,67,,,NORMAL,20.0,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+164187096,08/18/2019,1,NO,0.3,,,77,,,LOW,19.0,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,08/26/2019,1,NO,0.3,,,77,,,LOW,18.0,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,09/03/2019,1,NO,0.3,,,77,,,LOW,18.0,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,09/11/2019,0.5,NO,0.2,,,87,,,LOW,17,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+164187096,09/19/2019,0.5,NO,0.2,,,87,,,HIGH,,,,
+164187096,05/08/2020,1.5,NO,0.5,,,71,,,NORMAL,20,CLEAR,BROWN,2-Very minor aesthetic problems
+164187096,05/16/2020,1.5,,0.5,,,71,,,,20,,,
+164187096,05/24/2020,2.5,NO,0.8,,,64,,,NORMAL,20,CLEAR,BROWN,2-Very minor aesthetic problems
+164187096,06/01/2020,2.5,NO,0.8,,,64,,,NORMAL,20,CLEAR,BROWN,2-Very minor aesthetic problems
+164187096,06/09/2020,1,NO,0.3,,,77,,,LOW,19,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,06/25/2020,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+164187096,07/03/2020,1,NO,0.3,,,77,,,LOW,19,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,07/19/2020,1.5,NO,0.5,,,71,,,NORMAL,20,MURKY,GREEN,2-Very minor aesthetic problems
+164187096,07/27/2020,1,NO,0.3,,,77,,,NORMAL,20,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,08/04/2020,1,NO,0.3,,,77,,,HIGH,20,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,08/12/2020,1,NO,0.3,,,77,,,NORMAL,19,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,08/20/2020,1,NO,0.3,,,77,,,LOW,19,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,08/28/2020,1,NO,0.3,,,77,,,LOW,18,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,09/05/2020,1,NO,0.3,,,77,,,LOW,18,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,09/13/2020,1,NO,0.3,,,77,,,LOW,18,MURKY,GREEN,4-Would not swim but boating OK (algae)
+164187096,09/29/2020,1.5,NO,0.5,,,71,,,LOW,17.5,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+164187096,10/07/2020,2.5,NO,0.8,,,64,,,LOW,16,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/30/1973,,,21.2222,C,10.3,MG/L
+11/13/1973,,,1.66667,C,11.5,MG/L
+02/08/1974,,,0,C,.6,MG/L
+04/22/1974,,,42.5,C,8,MG/L
+09/03/1974,,,17.2222,C,12,MG/L
+11/05/1974,,,46,C,10.1,MG/L
+06/01/1989,,,13.8,C,5.1,MG/L
+06/19/1989,,,16.2,C,10.4,MG/L
+07/10/1989,,,16.0,C,0.1,MG/L
+07/27/1989,,,16.0,C,0.1,MG/L
+08/10/1989,,,18.5,C,0.2,MG/L
+08/24/1989,,,18.5,C,0.3,MG/L
+09/13/1989,,,17.0,C,10.0,MG/L
+06/18/1991,,,15.0,C,0.4,MG/L
+07/11/1991,,,16.5,C,0.0,MG/L
+07/30/1991,,,18.5,C,0.2,MG/L
+08/28/1991,,,20.0,C,0.1,MG/L
+09/11/1991,,,19.0,C,6.7,MG/L
+06/18/1992,,,16.0,C,0.1,MG/L
+07/06/1992,,,17.5,C,6.2,MG/L
+07/27/1992,,,19.0,C,0.8,MG/L
+08/31/1992,,,18.5,C,6.2,MG/L
+10/05/1992,,,15.0,C,7.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/30/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/13/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/22/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/03/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/05/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/28/2006,Weeds near shoreline 6" to 12".  Eagles N of dam.  Wavy- sunny- 78 F- windy NW 10 mphl
+06/07/2006,Rained last night - heavy debris in water.  Violent storms 5-9 pm.  Windy- some caps.
+06/19/2006,Windy - lake down approx 1'.  Sunny.
+06/23/2006,Some leaves and sticks in water.  Runoff 
+07/06/2006,Wind NW 5-10 mph.  Sunny- 82 F.
+07/16/2006,Hot- 92 F
+07/23/2006,Hot - water dropping 1' at a time.
+07/28/2006,Low water.  Had to push pontoon.  Sunny- 84 F- Cloudy water.  Much fishing traffic.
+07/10/2018,Beautiful day. Water Temp 83 F. Water level at 22.25 feet. In front of Dock at Lisa's landing.
+07/22/2018,Beautiful day. Water Temp 78 F. Water level at 20 feet. In front of Dock at Lisa's landing. 2 feet lower.
+07/30/2018,Beautiful day. Water Temp 87 F. Water level at 20 feet- calm water. In front of Dock at Lisa's landing.
+08/07/2018,83 degree temperature (ambient). Water temp 80 degrees F. Water Level at 19 feet. Calm Water being dropped.
+08/15/2018,80 degrees- partly cloudy. Pontoon has to be pulled out due to water level.
+08/23/2018,70 degrees- sunny with light wind out of Northwest. Water level 4.5' down. 
+09/19/2019,very muggy 78 degree f. looking at rain for this evening.      
+
+
+
+
+Start Date,Group Name,Project Name
+07/30/1973,Data Collectors,Migrated from STORET Legacy
+11/13/1973,Data Collectors,Migrated from STORET Legacy
+02/08/1974,Data Collectors,Migrated from STORET Legacy
+04/22/1974,Data Collectors,Migrated from STORET Legacy
+09/03/1974,Data Collectors,Migrated from STORET Legacy
+11/05/1974,Data Collectors,Migrated from STORET Legacy
+06/01/1989,Data Collectors,NONPOINT SOURCE
+06/19/1989,Data Collectors,NONPOINT SOURCE
+07/10/1989,Data Collectors,NONPOINT SOURCE
+07/27/1989,Data Collectors,NONPOINT SOURCE
+08/10/1989,Data Collectors,NONPOINT SOURCE
+08/24/1989,Data Collectors,NONPOINT SOURCE
+09/13/1989,Data Collectors,NONPOINT SOURCE
+06/13/1990,Data Collectors,NONPOINT SOURCE
+07/11/1990,Data Collectors,NONPOINT SOURCE
+07/31/1990,Data Collectors,NONPOINT SOURCE
+08/14/1990,Data Collectors,NONPOINT SOURCE
+08/28/1990,Data Collectors,NONPOINT SOURCE
+09/19/1990,Data Collectors,Stream Evaluations 1988-1998
+06/18/1991,Data Collectors,NONPOINT SOURCE
+07/11/1991,Data Collectors,NONPOINT SOURCE
+07/30/1991,Data Collectors,NONPOINT SOURCE
+08/28/1991,Data Collectors,NONPOINT SOURCE
+09/11/1991,Data Collectors,NONPOINT SOURCE
+06/18/1992,Data Collectors,NONPOINT SOURCE
+07/06/1992,Data Collectors,NONPOINT SOURCE
+07/27/1992,Data Collectors,NONPOINT SOURCE
+08/31/1992,Data Collectors,NONPOINT SOURCE
+10/05/1992,Data Collectors,NONPOINT SOURCE
+05/28/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/07/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/19/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/23/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/28/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/06/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/16/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/23/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/28/2006,Jim Brown,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/10/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/22/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/30/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/07/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/15/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/23/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/31/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/16/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/24/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+10/02/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+11/09/2018,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+05/22/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+05/30/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/07/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/15/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/23/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/01/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/09/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/17/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/25/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/02/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/10/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/18/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/26/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/03/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/11/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/19/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/19/2019,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Eau Pleine - Above Hwy S Bridge
+05/08/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+05/16/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+05/24/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/01/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/09/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+06/25/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/03/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/19/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+07/27/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/04/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/12/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/20/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+08/28/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/05/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/13/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+09/29/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole
+10/07/2020,Tim Kaiser,Citizen Lake Monitoring - Water Quality - Big Eau Pleine Lake - Deep Hole

@@ -1,0 +1,149 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Gile Flowage,Iron,2942300,NO,26,,263124,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189984,10/23/1993,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+1,05/21/1997,5.2,,1.6,,38,53,56,,,,,,
+34997658,07/26/2012,4,NO,1.2,18.5,30,57,54,57,,,,,
+145829701,06/27/2017,5,NO,1.5,7.16,31.7,54,55,50,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,07/31/2017,4,NO,1.2,5.82,30.1,57,55,48,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,05/29/2018,4.8,NO,1.5,,27.7,55,54,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,06/25/2018,4,NO,1.2,8.66,33.9,57,55,51,HIGH,4,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,07/31/2018,4,NO,1.2,10.7,30.5,57,55,53,NORMAL,4,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,09/11/2018,4,NO,1.2,9.18,33.7,57,55,52,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,06/25/2019,4,NO,1.2,6.31,25.8,57,53,49,NORMAL,6,CLEAR,BROWN,2-Very minor aesthetic problems
+145829701,08/14/2019,4,NO,1.2,13.2,37.1,57,56,54,LOW,6,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/21/1997,,,9.0,C,10.8,MG/L
+07/26/2012,0,METERS,25.1,DEGREES C,7.39,MG/L
+07/26/2012,0.5,METERS,25.2,DEGREES C,7.37,MG/L
+07/26/2012,1,METERS,25.2,DEGREES C,7.28,MG/L
+07/26/2012,1.5,METERS,25.1,DEGREES C,7.16,MG/L
+07/26/2012,2,METERS,25,DEGREES C,7.04,MG/L
+07/26/2012,2.5,METERS,25,DEGREES C,7.01,MG/L
+07/26/2012,3,METERS,25,DEGREES C,7.02,MG/L
+07/26/2012,3.5,METERS,25,DEGREES C,7,MG/L
+07/26/2012,4,METERS,25,DEGREES C,7,MG/L
+07/26/2012,4.5,METERS,25,DEGREES C,7.01,MG/L
+07/26/2012,5,METERS,25,DEGREES C,7,MG/L
+07/26/2012,5.5,METERS,25,DEGREES C,7.01,MG/L
+07/26/2012,6,METERS,25,DEGREES C,6.96,MG/L
+07/26/2012,6.5,METERS,25,DEGREES C,6.64,MG/L
+07/26/2012,,,25.1,C,7.37,MG/L
+06/27/2017,0,FEET,66.2,DEGREES F,,
+06/27/2017,3,FEET,66,DEGREES F,,
+06/27/2017,6,FEET,65.6,DEGREES F,,
+06/27/2017,9,FEET,65.4,DEGREES F,,
+06/27/2017,12,FEET,65.3,DEGREES F,,
+06/27/2017,15,FEET,65.1,DEGREES F,,
+06/27/2017,18,FEET,64.7,DEGREES F,,
+06/27/2017,21,FEET,64.5,DEGREES F,,
+06/27/2017,24,FEET,64.4,DEGREES F,,
+06/27/2017,27,FEET,64.2,DEGREES F,,
+07/31/2017,0,FEET,76.8,DEGREES F,,
+07/31/2017,3,FEET,76.2,DEGREES F,,
+07/31/2017,6,FEET,76.1,DEGREES F,,
+07/31/2017,9,FEET,74.1,DEGREES F,,
+07/31/2017,12,FEET,72.8,DEGREES F,,
+07/31/2017,15,FEET,71.9,DEGREES F,,
+07/31/2017,18,FEET,71.4,DEGREES F,,
+07/31/2017,21,FEET,70.5,DEGREES F,,
+07/31/2017,24,FEET,70.3,DEGREES F,,
+07/31/2017,27,FEET,70.3,DEGREES F,,
+05/29/2018,3,FEET,72.3,DEGREES F,,
+05/29/2018,6,FEET,70.8,DEGREES F,,
+05/29/2018,9,FEET,68.7,DEGREES F,,
+05/29/2018,12,FEET,60.2,DEGREES F,,
+05/29/2018,15,FEET,58.8,DEGREES F,,
+05/29/2018,18,FEET,58.4,DEGREES F,,
+05/29/2018,21,FEET,58.2,DEGREES F,,
+05/29/2018,24,FEET,57.5,DEGREES F,,
+06/25/2018,0,FEET,70.3,DEGREES F,,
+06/25/2018,3,FEET,69.9,DEGREES F,,
+06/25/2018,6,FEET,69,DEGREES F,,
+06/25/2018,9,FEET,68.8,DEGREES F,,
+06/25/2018,12,FEET,68.3,DEGREES F,,
+06/25/2018,15,FEET,68.1,DEGREES F,,
+06/25/2018,18,FEET,68,DEGREES F,,
+06/25/2018,21,FEET,68,DEGREES F,,
+06/25/2018,24,FEET,68,DEGREES F,,
+07/31/2018,0,FEET,73.2,DEGREES F,,
+07/31/2018,3,FEET,73.1,DEGREES F,,
+07/31/2018,6,FEET,71,DEGREES F,,
+07/31/2018,9,FEET,70.5,DEGREES F,,
+07/31/2018,12,FEET,69.9,DEGREES F,,
+07/31/2018,15,FEET,69.6,DEGREES F,,
+07/31/2018,18,FEET,69.4,DEGREES F,,
+07/31/2018,21,FEET,69.4,DEGREES F,,
+07/31/2018,24,FEET,69.2,DEGREES F,,
+09/11/2018,0,FEET,67,DEGREES F,,
+09/11/2018,3,FEET,67.1,DEGREES F,,
+09/11/2018,6,FEET,66.9,DEGREES F,,
+09/11/2018,9,FEET,66.9,DEGREES F,,
+09/11/2018,12,FEET,66.9,DEGREES F,,
+09/11/2018,15,FEET,66.7,DEGREES F,,
+09/11/2018,18,FEET,66.5,DEGREES F,,
+06/25/2019,0,FEET,68,DEGREES F,,
+06/25/2019,3,FEET,68,DEGREES F,,
+06/25/2019,6,FEET,67.8,DEGREES F,,
+06/25/2019,9,FEET,67.6,DEGREES F,,
+06/25/2019,12,FEET,67.4,DEGREES F,,
+06/25/2019,15,FEET,67.4,DEGREES F,,
+06/25/2019,18,FEET,65.4,DEGREES F,,
+06/25/2019,20,FEET,64,DEGREES F,,
+08/14/2019,1,FEET,71.4,DEGREES F,,
+08/14/2019,3,FEET,72.3,DEGREES F,,
+08/14/2019,6,FEET,72.5,DEGREES F,,
+08/14/2019,9,FEET,72.1,DEGREES F,,
+08/14/2019,12,FEET,71.9,DEGREES F,,
+08/14/2019,15,FEET,71.9,DEGREES F,,
+08/14/2019,18,FEET,71.7,DEGREES F,,
+08/14/2019,20,FEET,71.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/27/2017,Harold Schmude took myself- Jeff and Karla Miller out on his pontoon to complete June Citizen Lake Monitoring. Conditions were calm- partial cloudy- 65 degrees. Harold Schmude took myself- Jeff and Karla Miller out on his pontoon to complete June Citizen Lake Monitoring. Conditions were calm- partial cloudy- 65 degrees. 
+07/31/2017,Clyde Smith took Karla +  Jeff Miller along with myself out on the Gile Flowage. The weather was warm- 80 degrees- calm waters. It was a beautiful day. We viewed an eagle nest with 2 young eagles and mother flying nearby. 
+ 
+05/29/2018,Clyde Smith- Harold Schmude- Cathy Techtmann- Jeff Miller- Tom and Julie Sotis assisted. 
+Observed eagles with their nest- we could hear babies in the nest
+Observed wood duck entering a wood duck box
+Unusually warm temperatures over Memorial Day weekend...high of 90 predicted for today. 75 degrees while out gathering data at 10AM
+06/25/2018,Cool and cloudy. 
+06/25/2018,cool temperatures this AM  55 degrees/cloudy/rather windy
+experienced heavy storms/rains  June 15-18- 2018
+Denise- Harold- Clyde- Jeff- Karla took samples today
+
+07/31/2018,Denise- Clyde- Harold- Jeff- and Karla took pontoon out. Beautiful 70 degrees- calm water. Viewed mature and young eagles. Checked out a close to surface rock that was hit by a boat July 29th weekend. 
+
+
+
+
+Start Date,Group Name,Project Name
+10/23/1993,Bill Ahrens,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+05/21/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+07/26/2012,Angie Stine,FRIENDS OF THE GILE FLOWAGE INC: Integrated Education- Planning + Research Approach to Spiny Water Flea Populations in Northern Lakes
+06/27/2017,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+07/31/2017,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+05/29/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+05/29/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Hurley School - Gile Flowage
+06/25/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+06/25/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Hurley School - Gile Flowage
+07/31/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+07/31/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Hurley School - Gile Flowage
+09/11/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+09/11/2018,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Hurley School - Gile Flowage
+06/25/2019,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+06/25/2019,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Hurley School - Gile Flowage
+08/14/2019,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Gile Flowage - Deep Hole
+08/14/2019,Denise Schmitz-Enking,Citizen Lake Monitoring - Water Quality - Hurley School - Gile Flowage
+08/14/2019,Denise Schmitz-Enking,Citizen Lake Monitoring Network QA/QC - 2019

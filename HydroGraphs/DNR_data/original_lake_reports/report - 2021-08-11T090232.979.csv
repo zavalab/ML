@@ -1,0 +1,664 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Alder Lake,Vilas,2329600,NO,64,,643219,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/19/1984,8.9,,2.7,7,,46,,50,,,,,
+1,05/01/1985,4.9,,1.5,,,54,,,,,,,
+8190417,07/31/1990,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190417,08/08/1990,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190417,08/15/1990,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190417,08/23/1990,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190417,09/01/1990,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190417,05/12/1991,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190417,05/21/1991,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190417,06/12/1991,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191064,06/21/1993,9.5,NO,2.9,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191064,07/10/1993,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,07/18/1993,7.5,NO,2.3,,,48,,,HIGH,,,DARK BROWN,2-Very minor aesthetic problems
+8191064,07/21/1993,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,07/27/1993,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,08/12/1993,11,NO,3.3,,,43,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8191064,08/25/1993,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,06/20/1994,9,NO,2.7,,,45,,,LOW ~2',,CLEAR,GREEN/BROWN,2-Very minor aesthetic problems
+8191064,07/02/1994,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN/BROWN,1-Beautiful, could not be nicer
+8191064,08/01/1994,8,NO,2.4,,,47,,,LOW ~1',,,GREEN BROWN,2-Very minor aesthetic problems
+8191064,08/18/1994,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN BROWN,2-Very minor aesthetic problems
+8191064,06/15/1995,10,NO,3,,,44,,,NORMAL,,,GREEN BROWN,2-Very minor aesthetic problems
+8191064,06/20/1995,13.5,NO,4.1,,,40,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191064,07/07/1995,8,NO,2.4,,,47,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191064,07/20/1995,8.25,NO,2.5,,,47,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191064,07/28/1995,9.5,NO,2.9,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191064,08/04/1995,9.5,NO,2.9,,,45,,,LOW,,,GREEN BROWN,2-Very minor aesthetic problems
+8191064,09/03/1995,8,NO,2.4,,,47,,,HIGH,,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,07/03/1996,7,NO,2.1,,,49,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,07/13/1996,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,07/21/1996,7,NO,2.1,,,49,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,07/26/1996,7.75,NO,2.4,,,48,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,08/21/1996,9,NO,2.7,,,45,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,09/03/1996,9,NO,2.7,,,45,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,06/10/1997,20,NO,6.1,,,34,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191064,07/09/1997,9,NO,2.7,,,45,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8191064,07/17/1997,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191064,07/30/1997,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191064,05/17/1998,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,06/13/1998,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,07/11/1998,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,07/25/1998,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,08/18/1998,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191064,06/08/1999,9.5,NO,2.9,,,45,,,LOW,,,GREEN,
+8191064,06/19/1999,9,NO,2.7,,,45,,,LOW,,,GREEN,
+8191064,06/25/1999,10,NO,3,,,44,,,LOW,,,GREEN,
+8191064,07/01/1999,8,NO,2.4,,,47,,,NO CHANGE,,,GREEN,
+8191064,07/19/1999,10,NO,3,,,44,,,NO CHANGE,,,GREEN,
+8191064,08/06/1999,8,NO,2.4,,,47,,,NO CHANGE,,,GREEN,
+8191064,08/14/1999,8.5,NO,2.6,,,46,,,NO CHANGE,,,GREEN,
+8191064,05/07/2000,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191064,06/07/2000,10.5,NO,3.2,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191064,06/19/2000,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191064,07/04/2000,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191064,07/27/2000,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191064,08/05/2000,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191064,08/07/2000,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191064,08/14/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,08/20/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,08/29/2000,8.5,NO,2.6,5,19,46,51,47,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191064,09/30/2000,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+8191064,10/15/2000,10,NO,3,7,19,44,51,50,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191064,05/05/2001,8.5,NO,2.6,,18,46,51,,NORMAL,,MURKY,BROWN,
+8191064,06/17/2001,8.5,NO,2.6,5,21,46,52,47,NORMAL,,CLEAR,BROWN,
+8191064,07/17/2001,8.5,NO,2.6,3.1,23,46,52,43,NORMAL,,CLEAR,BROWN,
+8191064,08/13/2001,9,NO,2.7,4,20,45,51,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,09/13/2001,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,
+8191064,09/30/2001,9,NO,2.7,7,21,45,52,50,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8191064,10/15/2001,,,,8,26,,53,51,,,,,
+8191064,06/17/2002,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191064,06/30/2002,8.5,NO,2.6,0.43,14,46,49,28,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,07/07/2002,11.5,NO,3.5,,,42,,,HIGH,29,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,07/13/2002,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191064,07/18/2002,,,,,,,,,,,,,
+8191064,07/23/2002,9.5,,2.9,,,45,,,,,,,
+8191064,07/24/2002,,,,4.34,15,,49,46,,,,,
+8191064,07/30/2002,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,08/26/2002,11.5,NO,3.5,2.61,17,42,50,42,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,09/15/2002,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,10/20/2002,8.5,NO,2.6,6.25,20,46,51,49,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191064,05/27/2003,14,NO,4.3,,14,39,49,,HIGH,,CLEAR,GREEN,
+8191064,06/16/2003,9.5,NO,2.9,3.21,15,45,49,44,NORMAL,,MURKY,GREEN,
+8191064,06/28/2003,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,
+8191064,07/13/2003,,,,3.55,15,,49,44,,,,,
+8191064,07/14/2003,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,
+8191064,07/27/2003,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,
+8191064,07/29/2003,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,
+1,08/12/2003,,,,,17,,50,,,,,,
+8191064,08/12/2003,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+8191064,08/25/2003,11,NO,3.3,3.75,26,43,53,45,LOW,,CLEAR,GREEN,
+8191064,09/20/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,
+8191064,10/06/2003,,,,3.86,24,,53,45,,,,,
+8191064,10/11/2003,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,
+8191064,05/02/2004,,,,,22,,52,,,,,,
+8191064,05/15/2004,,,,,,,,,,,,,
+8191064,06/10/2004,11,NO,3.3,,,43,,,,,,,
+8191064,06/14/2004,9,NO,2.7,4.57,17,45,50,46,HIGH,,MURKY,BROWN,
+8191064,06/23/2004,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,
+8191064,07/26/2004,9,NO,2.7,3.33,27,45,54,44,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191064,08/17/2004,,,,3.62,31,,55,45,,,,,
+8191064,10/23/2004,,,,,,,,,,,,,
+8191064,10/24/2004,,,,8.46,20,,51,51,,,,,
+8189207,05/22/2005,10,NO,3,,13,44,48,,LOW,864.9,CLEAR,GREEN,2-Very minor aesthetic problems
+8189207,06/12/2005,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,
+8189207,06/18/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,
+8189207,06/20/2005,10,NO,3,2.246,15,44,49,41,LOW,,CLEAR,BROWN,
+8189207,07/04/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,
+8189207,07/11/2005,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BROWN,
+8189207,07/17/2005,10.5,NO,3.2,2.83,18,43,51,43,LOW,,CLEAR,BROWN,
+8189207,08/02/2005,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,
+8189207,08/14/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,
+8189207,08/28/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,
+8189207,09/03/2005,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,
+8189207,09/25/2005,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+8189207,10/24/2005,,,,4.8,28,,54,47,,,,,
+1,06/26/2006,,,,2.54,18,,51,42,,,,,
+72779688,05/27/2014,5,N,1.5,9.17,20.2,54,51,52,,,,,
+16073539,06/23/2014,6.6,6.6,2,3.65,18.4,50,51,45,,,,,
+34972236,07/23/2014,6.5,N,2,4.78,14.3,50,49,47,,,,,
+34972236,08/12/2014,8.4,N,2.6,2.19,13.5,46,48,41,,,,,
+16073539,10/22/2014,7.7,N,2.3,8.17,14.6,48,49,51,,,,,
+34972183,02/24/2015,4.5,N,1.4,,12,55,47,,,,,,
+146497872,06/23/2020,9.5,NO,2.9,,,45,,,HIGH,28,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,06/30/2020,10.5,NO,3.2,,,43,,,HIGH,29,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,07/17/2020,11.75,NO,3.6,,,42,,,HIGH,29,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,07/24/2020,10,NO,3,,,44,,,HIGH,29,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,07/30/2020,10.5,NO,3.2,,,43,,,HIGH,28.5,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,08/07/2020,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,08/11/2020,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,08/18/2020,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,09/02/2020,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+146497872,09/14/2020,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+146497872,09/22/2020,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/15/2000,3,FEET,51,DEGREES F,,
+10/15/2000,6,FEET,51,DEGREES F,,
+10/15/2000,9,FEET,51,DEGREES F,,
+10/15/2000,12,FEET,50,DEGREES F,,
+10/15/2000,15,FEET,50,DEGREES F,,
+10/15/2000,18,FEET,49,DEGREES F,,
+10/15/2000,21,FEET,48,DEGREES F,,
+10/15/2000,24,FEET,48,DEGREES F,,
+10/15/2000,27,FEET,48,DEGREES F,,
+10/15/2000,30,FEET,48,DEGREES F,,
+10/15/2000,33,FEET,48,DEGREES F,,
+08/13/2001,3,FEET,74,DEGREES F,,
+08/13/2001,6,FEET,73,DEGREES F,,
+08/13/2001,9,FEET,72,DEGREES F,,
+08/13/2001,12,FEET,72,DEGREES F,,
+08/13/2001,15,FEET,71,DEGREES F,,
+08/13/2001,18,FEET,71,DEGREES F,,
+08/13/2001,21,FEET,61,DEGREES F,,
+08/13/2001,24,FEET,59,DEGREES F,,
+08/13/2001,27,FEET,58,DEGREES F,,
+08/13/2001,30,FEET,56,DEGREES F,,
+08/13/2001,33,FEET,56,DEGREES F,,
+06/17/2002,3,FEET,68,DEGREES F,,
+06/17/2002,6,FEET,68,DEGREES F,,
+06/17/2002,9,FEET,65,DEGREES F,,
+06/17/2002,12,FEET,65,DEGREES F,,
+06/17/2002,15,FEET,64,DEGREES F,,
+06/17/2002,18,FEET,59,DEGREES F,,
+06/17/2002,21,FEET,54,DEGREES F,,
+06/17/2002,24,FEET,52,DEGREES F,,
+06/17/2002,27,FEET,52,DEGREES F,,
+06/17/2002,30,FEET,51,DEGREES F,,
+06/30/2002,3,FEET,78,DEGREES F,,
+06/30/2002,6,FEET,78,DEGREES F,,
+06/30/2002,9,FEET,77,DEGREES F,,
+06/30/2002,12,FEET,77,DEGREES F,,
+06/30/2002,15,FEET,77,DEGREES F,,
+06/30/2002,18,FEET,65,DEGREES F,,
+06/30/2002,21,FEET,58,DEGREES F,,
+06/30/2002,24,FEET,53,DEGREES F,,
+06/30/2002,27,FEET,52,DEGREES F,,
+06/30/2002,30,FEET,52,DEGREES F,,
+07/13/2002,0,FEET,78,DEGREES F,,
+07/13/2002,3,FEET,76,DEGREES F,,
+07/13/2002,6,FEET,75,DEGREES F,,
+07/13/2002,9,FEET,75,DEGREES F,,
+07/13/2002,12,FEET,74,DEGREES F,,
+07/13/2002,15,FEET,64,DEGREES F,,
+07/13/2002,18,FEET,57,DEGREES F,,
+07/13/2002,21,FEET,54,DEGREES F,,
+07/13/2002,24,FEET,53,DEGREES F,,
+07/13/2002,27,FEET,51,DEGREES F,,
+07/18/2002,0,FEET,79,DEGREES F,,
+07/18/2002,3,FEET,78,DEGREES F,,
+07/18/2002,6,FEET,78,DEGREES F,,
+07/18/2002,9,FEET,78,DEGREES F,,
+07/18/2002,12,FEET,74,DEGREES F,,
+07/18/2002,15,FEET,66,DEGREES F,,
+07/18/2002,18,FEET,59,DEGREES F,,
+07/18/2002,21,FEET,55,DEGREES F,,
+07/18/2002,24,FEET,53,DEGREES F,,
+07/18/2002,27,FEET,52,DEGREES F,,
+07/18/2002,30,FEET,51,DEGREES F,,
+07/23/2002,0,FEET,74,DEGREES F,,
+07/23/2002,3,FEET,73,DEGREES F,,
+07/23/2002,6,FEET,73,DEGREES F,,
+07/23/2002,9,FEET,73,DEGREES F,,
+07/23/2002,12,FEET,73,DEGREES F,,
+07/23/2002,15,FEET,73,DEGREES F,,
+07/23/2002,18,FEET,60,DEGREES F,,
+07/23/2002,21,FEET,56,DEGREES F,,
+07/23/2002,24,FEET,54,DEGREES F,,
+07/23/2002,27,FEET,54,DEGREES F,,
+07/23/2002,30,FEET,52,DEGREES F,,
+07/30/2002,0,FEET,79,DEGREES F,,
+07/30/2002,3,FEET,78,DEGREES F,,
+07/30/2002,6,FEET,77,DEGREES F,,
+07/30/2002,9,FEET,76,DEGREES F,,
+07/30/2002,12,FEET,74,DEGREES F,,
+07/30/2002,15,FEET,72,DEGREES F,,
+07/30/2002,18,FEET,63,DEGREES F,,
+07/30/2002,21,FEET,56,DEGREES F,,
+07/30/2002,24,FEET,54,DEGREES F,,
+07/30/2002,27,FEET,53,DEGREES F,,
+07/30/2002,30,FEET,52,DEGREES F,,
+08/26/2002,0,FEET,76,DEGREES F,,
+08/26/2002,3,FEET,73,DEGREES F,,
+08/26/2002,6,FEET,72,DEGREES F,,
+08/26/2002,9,FEET,70,DEGREES F,,
+08/26/2002,12,FEET,68,DEGREES F,,
+08/26/2002,15,FEET,68,DEGREES F,,
+08/26/2002,18,FEET,67,DEGREES F,,
+08/26/2002,21,FEET,63,DEGREES F,,
+08/26/2002,24,FEET,56,DEGREES F,,
+08/26/2002,27,FEET,54,DEGREES F,,
+08/26/2002,30,FEET,52,DEGREES F,,
+09/15/2002,0,FEET,70,DEGREES F,,
+09/15/2002,3,FEET,69,DEGREES F,,
+09/15/2002,6,FEET,68,DEGREES F,,
+09/15/2002,9,FEET,67,DEGREES F,,
+09/15/2002,12,FEET,67,DEGREES F,,
+09/15/2002,15,FEET,67,DEGREES F,,
+09/15/2002,18,FEET,65,DEGREES F,,
+09/15/2002,21,FEET,64,DEGREES F,,
+09/15/2002,24,FEET,61,DEGREES F,,
+09/15/2002,27,FEET,56,DEGREES F,,
+09/15/2002,30,FEET,55,DEGREES F,,
+10/20/2002,3,FEET,43,DEGREES F,,
+10/20/2002,6,FEET,43,DEGREES F,,
+10/20/2002,9,FEET,43,DEGREES F,,
+10/20/2002,12,FEET,43,DEGREES F,,
+10/20/2002,15,FEET,43,DEGREES F,,
+10/20/2002,18,FEET,43,DEGREES F,,
+10/20/2002,21,FEET,43,DEGREES F,,
+10/20/2002,24,FEET,43,DEGREES F,,
+10/20/2002,27,FEET,44,DEGREES F,,
+10/20/2002,30,FEET,44,DEGREES F,,
+05/27/2003,3,FEET,66.2,DEGREES F,,
+05/27/2003,6,FEET,61.5,DEGREES F,,
+05/27/2003,9,FEET,60.8,DEGREES F,,
+05/27/2003,12,FEET,58.2,DEGREES F,,
+05/27/2003,15,FEET,56,DEGREES F,,
+05/27/2003,18,FEET,53.4,DEGREES F,,
+05/27/2003,21,FEET,51,DEGREES F,,
+05/27/2003,24,FEET,50.3,DEGREES F,,
+05/27/2003,27,FEET,50.1,DEGREES F,,
+05/27/2003,30,FEET,50,DEGREES F,,
+05/27/2003,33,FEET,50,DEGREES F,,
+06/16/2003,3,FEET,75.2,DEGREES F,,
+06/16/2003,6,FEET,70.5,DEGREES F,,
+06/16/2003,9,FEET,66.7,DEGREES F,,
+06/16/2003,12,FEET,63.8,DEGREES F,,
+06/16/2003,15,FEET,62.4,DEGREES F,,
+06/16/2003,18,FEET,58.4,DEGREES F,,
+06/16/2003,21,FEET,55.4,DEGREES F,,
+06/16/2003,24,FEET,52.5,DEGREES F,,
+06/16/2003,27,FEET,51.2,DEGREES F,,
+06/16/2003,30,FEET,50.7,DEGREES F,,
+07/14/2003,3,FEET,70.7,DEGREES F,,
+07/14/2003,6,FEET,70.5,DEGREES F,,
+07/14/2003,9,FEET,69.6,DEGREES F,,
+07/14/2003,12,FEET,67.8,DEGREES F,,
+07/14/2003,15,FEET,65.8,DEGREES F,,
+07/14/2003,18,FEET,57.5,DEGREES F,,
+07/14/2003,21,FEET,53.9,DEGREES F,,
+07/14/2003,24,FEET,52.8,DEGREES F,,
+07/14/2003,27,FEET,52.1,DEGREES F,,
+07/14/2003,30,FEET,52.1,DEGREES F,,
+07/14/2003,33,FEET,52.8,DEGREES F,,
+08/12/2003,3,FEET,74.4,DEGREES F,,
+08/12/2003,6,FEET,73.4,DEGREES F,,
+08/12/2003,9,FEET,73,DEGREES F,,
+08/12/2003,12,FEET,72.8,DEGREES F,,
+08/12/2003,15,FEET,71.7,DEGREES F,,
+08/12/2003,18,FEET,62.7,DEGREES F,,
+08/12/2003,21,FEET,56.1,DEGREES F,,
+08/12/2003,24,FEET,53.6,DEGREES F,,
+08/12/2003,27,FEET,52.5,DEGREES F,,
+08/12/2003,30,FEET,51.8,DEGREES F,,
+10/06/2003,3,FEET,51,DEGREES F,,
+10/06/2003,6,FEET,51,DEGREES F,,
+10/06/2003,9,FEET,50.7,DEGREES F,,
+10/06/2003,12,FEET,48.7,DEGREES F,,
+10/06/2003,15,FEET,48.3,DEGREES F,,
+10/06/2003,18,FEET,48.2,DEGREES F,,
+10/06/2003,21,FEET,47.8,DEGREES F,,
+10/06/2003,24,FEET,48,DEGREES F,,
+05/15/2004,0,FEET,48,DEGREES F,,
+05/15/2004,3,FEET,47.8,DEGREES F,,
+05/15/2004,6,FEET,47.6,DEGREES F,,
+05/15/2004,9,FEET,47.4,DEGREES F,,
+05/15/2004,12,FEET,46.9,DEGREES F,,
+05/15/2004,15,FEET,46.9,DEGREES F,,
+05/15/2004,18,FEET,46.9,DEGREES F,,
+05/15/2004,21,FEET,46.7,DEGREES F,,
+05/15/2004,24,FEET,46.4,DEGREES F,,
+05/15/2004,27,FEET,46.2,DEGREES F,,
+05/15/2004,30,FEET,46.2,DEGREES F,,
+06/14/2004,0,FEET,69.2,DEGREES F,,
+06/14/2004,3,FEET,67.2,DEGREES F,,
+06/14/2004,6,FEET,66.5,DEGREES F,,
+06/14/2004,9,FEET,66.2,DEGREES F,,
+06/14/2004,12,FEET,65.4,DEGREES F,,
+06/14/2004,15,FEET,63.3,DEGREES F,,
+06/14/2004,18,FEET,62.4,DEGREES F,,
+06/14/2004,21,FEET,57.9,DEGREES F,,
+06/14/2004,24,FEET,56.5,DEGREES F,,
+06/14/2004,27,FEET,55.9,DEGREES F,,
+06/14/2004,30,FEET,54.8,DEGREES F,,
+07/26/2004,3,FEET,73.5,DEGREES F,,
+07/26/2004,6,FEET,72.6,DEGREES F,,
+07/26/2004,9,FEET,71.9,DEGREES F,,
+07/26/2004,12,FEET,70.5,DEGREES F,,
+07/26/2004,15,FEET,64.7,DEGREES F,,
+07/26/2004,18,FEET,62.6,DEGREES F,,
+07/26/2004,21,FEET,60.8,DEGREES F,,
+07/26/2004,24,FEET,58.2,DEGREES F,,
+07/26/2004,27,FEET,57,DEGREES F,,
+07/26/2004,30,FEET,55.4,DEGREES F,,
+08/17/2004,0,FEET,66.2,DEGREES F,,
+08/17/2004,3,FEET,66.2,DEGREES F,,
+08/17/2004,6,FEET,66,DEGREES F,,
+08/17/2004,9,FEET,65.8,DEGREES F,,
+08/17/2004,12,FEET,64.7,DEGREES F,,
+08/17/2004,15,FEET,64.4,DEGREES F,,
+08/17/2004,18,FEET,63.8,DEGREES F,,
+08/17/2004,21,FEET,61.5,DEGREES F,,
+08/17/2004,24,FEET,58.4,DEGREES F,,
+08/17/2004,27,FEET,56.6,DEGREES F,,
+08/17/2004,30,FEET,56.1,DEGREES F,,
+10/23/2004,0,FEET,47.1,DEGREES F,,
+10/23/2004,3,FEET,47.4,DEGREES F,,
+10/23/2004,6,FEET,47.6,DEGREES F,,
+10/23/2004,9,FEET,47.6,DEGREES F,,
+10/23/2004,12,FEET,47.6,DEGREES F,,
+10/23/2004,15,FEET,47.4,DEGREES F,,
+10/23/2004,18,FEET,47.4,DEGREES F,,
+10/23/2004,21,FEET,47.4,DEGREES F,,
+10/23/2004,24,FEET,47.4,DEGREES F,,
+10/23/2004,27,FEET,47.4,DEGREES F,,
+10/23/2004,30,FEET,47.6,DEGREES F,,
+05/22/2005,0,FEET,48,DEGREES F,,
+05/22/2005,3,FEET,47.8,DEGREES F,,
+05/22/2005,6,FEET,47.6,DEGREES F,,
+05/22/2005,9,FEET,47.4,DEGREES F,,
+05/22/2005,12,FEET,46.9,DEGREES F,,
+05/22/2005,15,FEET,46.9,DEGREES F,,
+05/22/2005,18,FEET,46.9,DEGREES F,,
+05/22/2005,21,FEET,46.7,DEGREES F,,
+05/22/2005,24,FEET,46.4,DEGREES F,,
+05/22/2005,27,FEET,46.2,DEGREES F,,
+05/22/2005,30,FEET,46.2,DEGREES F,,
+06/12/2005,0,FEET,69.2,DEGREES F,,
+06/12/2005,3,FEET,67.2,DEGREES F,,
+06/12/2005,6,FEET,66.5,DEGREES F,,
+06/12/2005,9,FEET,66.2,DEGREES F,,
+06/12/2005,12,FEET,65.4,DEGREES F,,
+06/12/2005,15,FEET,63.3,DEGREES F,,
+06/12/2005,18,FEET,62.4,DEGREES F,,
+06/12/2005,21,FEET,57.9,DEGREES F,,
+06/12/2005,24,FEET,56.5,DEGREES F,,
+06/12/2005,27,FEET,55.9,DEGREES F,,
+06/12/2005,30,FEET,54.8,DEGREES F,,
+07/17/2005,0,FEET,83.1,DEGREES F,,
+07/17/2005,3,FEET,82.7,DEGREES F,,
+07/17/2005,6,FEET,82.5,DEGREES F,,
+07/17/2005,9,FEET,82.4,DEGREES F,,
+07/17/2005,12,FEET,75,DEGREES F,,
+07/17/2005,15,FEET,71.9,DEGREES F,,
+07/17/2005,18,FEET,68.7,DEGREES F,,
+07/17/2005,21,FEET,64.2,DEGREES F,,
+07/17/2005,24,FEET,56.4,DEGREES F,,
+07/17/2005,27,FEET,55.4,DEGREES F,,
+07/17/2005,30,FEET,54,DEGREES F,,
+08/14/2005,0,FEET,74.5,DEGREES F,,
+08/14/2005,3,FEET,74.4,DEGREES F,,
+08/14/2005,6,FEET,74.1,DEGREES F,,
+08/14/2005,9,FEET,73.7,DEGREES F,,
+08/14/2005,12,FEET,73.2,DEGREES F,,
+08/14/2005,15,FEET,73,DEGREES F,,
+08/14/2005,18,FEET,72.3,DEGREES F,,
+08/14/2005,21,FEET,63.6,DEGREES F,,
+08/14/2005,24,FEET,57.9,DEGREES F,,
+08/14/2005,27,FEET,55.7,DEGREES F,,
+08/14/2005,30,FEET,55.2,DEGREES F,,
+10/24/2005,0,FEET,50,DEGREES F,,
+10/24/2005,3,FEET,50.1,DEGREES F,,
+10/24/2005,6,FEET,50.1,DEGREES F,,
+10/24/2005,9,FEET,50.1,DEGREES F,,
+10/24/2005,12,FEET,50.1,DEGREES F,,
+10/24/2005,15,FEET,50.1,DEGREES F,,
+10/24/2005,18,FEET,50.1,DEGREES F,,
+10/24/2005,21,FEET,49.4,DEGREES F,,
+10/24/2005,24,FEET,49.2,DEGREES F,,
+10/24/2005,27,FEET,50,DEGREES F,,
+10/24/2005,30,FEET,50,DEGREES F,,
+05/27/2014,,,20.5,C,3.4,MG/L
+06/23/2014,,,22.9,C,0.0,MG/L
+07/23/2014,,,10.7,C,0,MG/L
+08/12/2014,,,10.8,C,0.0,MG/L
+10/22/2014,,,8.1,C,10.6,MG/L
+02/24/2015,,,0.2,C,0.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/19/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/08/1990,Sunny- choppy.    
+08/15/1990,Sunny- calm.    
+08/23/1990,Mostly sunny- choppy.    
+09/01/1990,Sunny- choppy.    
+05/12/1991,Ice out 4/19- sunny- calm.    
+05/21/1991,Sunny- choppy.    
+06/12/1991,Sunny- calm- pollen in water.    
+06/21/1993,Lake has some pollen on it- sunny- ripples on surface.    
+07/10/1993,Increased boat activity- small waves.    
+07/18/1993,Pollen on lake- partly cloudy- small waves- hard rain last night.    
+07/21/1993,Ripples on surface- little boat traffic.    
+08/12/1993,Breezy- sunny and warm last few days.    
+08/25/1993,Little rain in weeks- windy- much weed growth.    
+08/01/1994,Choppy from jet skis and boat traffic.    
+08/18/1994,Pollen in water.    
+06/15/1995,Heavy pollen content- windy.    
+06/20/1995,High pollen content- very calm.    
+07/07/1995,Hard rain- windy yesterday.    
+07/20/1995,Bloom in water.    
+07/28/1995,Windy- more reeds- lily pads and weeds each year.    
+08/04/1995,Small particles bloom water still in.    
+09/03/1995,Cloudy water with "flecks" floating in it.  Lots of boat traffic over weekend.    
+07/13/1996,Cloudy.  Has been raining for past several days.    
+07/21/1996,Some wind.    
+09/03/1996,Dead calm.    
+06/10/1997,Clearest and least weeds to date.    
+07/09/1997,Lots of rain recently- pollen.    
+07/17/1997,No crayfish this year.    
+07/30/1997,Less tall weeds in some areas- more little ones encroaching to shore.    
+07/01/1999,Algae bloom.    
+08/06/1999,Cloudy. Algae bloom     
+08/14/1999,Very cloudy.    
+06/07/2000,Pollen- sunny- and breezy.    
+06/19/2000,Breezy.    
+07/04/2000,Calm.    
+07/27/2000,Cloudy- breezy- very windy- and rainy for five days previous.    
+08/05/2000,Rough and overcast.    
+08/07/2000,Slight breeze.    
+08/14/2000,Calm.    
+08/29/2000,INTEGRATED WATER SAMPLER    
+09/30/2000,Windy.    
+10/15/2000,Cloudy and drizzling.    
+05/05/2001,Partly cloudy- some chop- and pollen.    
+06/17/2001,Partly cloudy and a slight chop.    
+07/17/2001,Sunny and slight chop.    
+08/13/2001,Calm.    
+09/13/2001,Murky and floating particles.    
+09/30/2001,Breezy but sunny.    
+10/15/2001,6FT INTEGRATED SAMPLE    
+06/30/2002,Extremely windy and hot - temperature 92 degrees.    
+07/13/2002,Calm- sunny.    
+07/23/2002,Heavy rains earlier in the week.    
+07/24/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/30/2002,P.M. calm.  Windy in A.M.    
+08/26/2002,Calm- sunny.    
+10/20/2002,Sunny- slight breeze.    
+05/27/2003,Clear- slight breeze.    
+06/16/2003,Calm- a lot of pollen and little clumps of algae  Floating. Weeds at surface already.    
+06/28/2003,Cloudy- windy    
+07/13/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/14/2003,Breezy- ripples on lake. Recent rainfall (3 days ago)    
+07/27/2003,Breezy    
+08/12/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/12/2003,Sunny- calm    
+08/25/2003,Very calm- no boat traffic. Lots of pollen and things floating.    
+10/06/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/11/2003,Calm    
+05/02/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/14/2004,Cloudy- pollen in water    
+06/23/2004,Windy - very wind previous 2 days    
+07/26/2004,Partly cloudy- boat traffic.  Cloudy water.    
+08/17/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/24/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+05/22/2005,Windy- cloudy.  No boat traffic.  Water color: green-brown.    
+06/12/2005,Water color: green-brown    
+06/18/2005,Sunny. Water color: green-brown.    
+06/20/2005,Very windy and cloudy.    
+07/04/2005,Very windy previous 2 days.    
+07/11/2005,80.7 F surface temp.    
+07/17/2005,Windy.  Over a week of highs 80-90 F.    
+08/02/2005,Windy    
+08/14/2005,A lot of boat chop.  Low wind.  Water color: green-brown    
+08/28/2005,Water color: green-brown    
+09/03/2005,Calm.  Water color: green-brown.    
+09/25/2005,Water color: green-brown    
+10/24/2005,DEEP HOLE - INTEGRATED SAMPLE    
+06/26/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/23/2020,Lake depth-28ft. Lake level-high
+Appearance- clear
+Water color-green
+Secchi depth-9.5 ft-
+Perception #2
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/1984,Data Collectors,Migrated from STORET Legacy
+05/01/1985,Data Collectors,Migrated from STORET Legacy
+07/31/1990,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/08/1990,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/15/1990,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/23/1990,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/01/1990,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/12/1991,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/21/1991,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/12/1991,Roger McClennan,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/21/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/10/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/18/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/21/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/27/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/12/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/25/1993,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/20/1994,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/02/1994,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/01/1994,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/18/1994,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/15/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/20/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/07/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/20/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/28/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/04/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/03/1995,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/03/1996,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/13/1996,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/21/1996,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/26/1996,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/21/1996,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/03/1996,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/10/1997,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/09/1997,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/17/1997,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/30/1997,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/17/1998,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/13/1998,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/11/1998,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/25/1998,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/18/1998,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/08/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/19/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/25/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/01/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/19/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/06/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/14/1999,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/07/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/07/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/19/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/04/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/27/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/05/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/07/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/14/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/20/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/29/2000,Will And Joan Byram,
+09/30/2000,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/15/2000,Will And Joan Byram,
+05/05/2001,Will And Joan Byram,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+06/17/2001,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/17/2001,Will And Joan Byram,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+08/13/2001,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/13/2001,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/30/2001,Will And Joan Byram,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+10/15/2001,Will And Joan Byram,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+06/17/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/30/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/07/2002,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/13/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/18/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/23/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/24/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/30/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/26/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/15/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/20/2002,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/27/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/16/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/28/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/13/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/14/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/27/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/29/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/12/2003,Data Collectors,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/12/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/25/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/20/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/06/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/11/2003,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/02/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/15/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/10/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/14/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/23/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/26/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/17/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/23/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/24/2004,Will And Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/22/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/12/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/18/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/20/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/04/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/11/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/17/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/02/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/14/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/28/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/03/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/25/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+10/24/2005,Joan Byram,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/26/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+05/27/2014,Emily Castellanos,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning- Ph 3a
+06/23/2014,Tim Hoyman - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning- Ph 3a
+07/23/2014,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning- Ph 3a
+08/12/2014,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning- Ph 3a
+10/22/2014,Tim Hoyman - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning- Ph 3a
+02/24/2015,Dan Cibulka - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning- Ph 3a
+06/23/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+06/30/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/17/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/24/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+07/30/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/07/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/11/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+08/18/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/02/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/14/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole
+09/22/2020,Angela Dombrowicki,Citizen Lake Monitoring - Water Quality - Alder Lake; Deep Hole

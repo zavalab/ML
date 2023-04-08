@@ -1,0 +1,177 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spider Lake,Vilas,2329300,NO,64,,643261,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/19/1984,11.2,,3.4,8,,42,,51,,,,,
+1,05/01/1985,6.9,,2.1,,,49,,,,,,,
+16070057,05/16/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,
+16070057,06/15/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BROWN,
+16070057,07/14/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,
+16070057,08/15/2007,10,NO,3,,,44,,,LOW,,MURKY,BROWN,
+16070057,09/15/2007,10.5,NO,3.2,,,43,,,LOW,,MURKY,BROWN,
+16070057,10/14/2007,10,NO,3,,,44,,,LOW,,MURKY,BROWN,
+16070057,11/12/2007,10,NO,3,,,44,,,LOW,,MURKY,BROWN,
+16070057,05/14/2008,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,
+16070057,06/10/2008,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,07/14/2008,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,08/16/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,09/15/2008,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,
+16070057,10/06/2008,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,
+16070057,05/13/2009,14.5,YES,4.4,,,39,,,NORMAL,,CLEAR,BROWN,
+16070057,06/17/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,
+16070057,07/13/2009,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,08/18/2009,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,09/16/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,10/08/2009,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,
+16070057,05/16/2010,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,
+16070057,06/14/2010,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,
+16070057,07/17/2010,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,08/15/2010,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,09/19/2010,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,
+1,05/18/2011,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BROWN,
+1,06/12/2011,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+1,07/15/2011,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+1,08/17/2011,11.5,NO,3.5,,,42,,,NORMAL,,,BROWN,
+1,09/16/2011,11,NO,3.3,,,43,,,NORMAL,,,BROWN,
+34972236,04/09/2012,8.4,NO,2.6,4.31,17,46,50,46,,,,,
+16070057,06/01/2012,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,
+34972236,06/06/2012,11.8,NO,3.6,1.67,9,42,45,39,,,,,
+16070057,07/04/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+21928796,07/26/2012,8.5,NO,2.6,1.78,14,46,49,39,,,,,
+16070057,08/10/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16073539,08/21/2012,10.2,NO,3.1,5.69,12,44,47,48,,,,,
+16070057,09/06/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,09/16/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+73543800,10/30/2012,8.1,NO,2.5,6.78,25,47,53,49,,,,,
+34972236,02/18/2013,7.4,NO,2.2,,18,48,51,,,,,,
+16070057,05/17/2013,11.8,NO,3.6,,,42,,,HIGH,,CLEAR,BROWN,
+16070057,06/18/2013,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,
+16070057,07/16/2013,11.6,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,
+16070057,08/16/2013,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,
+16070057,09/11/2013,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,
+99826168,06/16/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16070057,05/16/2015,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,
+16070057,06/12/2015,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,07/16/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,08/11/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,09/09/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,05/19/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,06/16/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,07/14/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,08/16/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,09/12/2016,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,
+16070057,05/16/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16070057,06/16/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16070057,07/17/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16070057,08/13/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16070057,09/13/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16070057,05/23/2018,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,06/20/2018,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,07/18/2018,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,08/13/2018,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,09/12/2018,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,05/15/2019,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,
+16070057,06/13/2019,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,07/15/2019,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,08/24/2019,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+16070057,09/17/2019,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/09/2012,,,5.9,C,11.3,MG/L
+06/06/2012,,,21.2,C,0.1,MG/L
+07/26/2012,,,25.1,C,0.0,MG/L
+08/21/2012,,,22.1,C,0.0,MG/L
+10/30/2012,,,7.6,C,7.6,MG/L
+02/18/2013,,,0.3,C,1.3,MG/L
+06/16/2014,5,FEET,,,6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/19/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/1984,Data Collectors,Migrated from STORET Legacy
+05/01/1985,Data Collectors,Migrated from STORET Legacy
+05/16/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/15/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/14/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/15/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/15/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+10/14/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+11/12/2007,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/14/2008,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/10/2008,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/14/2008,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/16/2008,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/15/2008,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+10/06/2008,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/13/2009,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/17/2009,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/13/2009,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/18/2009,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/16/2009,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+10/08/2009,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/16/2010,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/14/2010,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/17/2010,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/15/2010,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/19/2010,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/18/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/12/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/15/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/17/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/16/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+04/09/2012,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+06/01/2012,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/06/2012,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+07/04/2012,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/26/2012,Brenton Butterfield - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+08/10/2012,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/21/2012,Tim Hoyman - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+09/06/2012,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/16/2012,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+10/30/2012,Eric Gale,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+02/18/2013,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+05/17/2013,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/18/2013,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/16/2013,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/16/2013,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/11/2013,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/16/2014,Andrew Lockwood,Citizen Lake Water Quality Monitoring - Manitowish Chain / North Lakeland Discovery Center
+05/16/2015,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/12/2015,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/16/2015,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/11/2015,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/09/2015,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/19/2016,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/16/2016,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/14/2016,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/16/2016,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/12/2016,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/16/2017,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/16/2017,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/17/2017,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/13/2017,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/13/2017,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/23/2018,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/20/2018,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/18/2018,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/13/2018,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/12/2018,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+05/15/2019,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+06/13/2019,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+07/15/2019,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+08/24/2019,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole
+09/17/2019,Jerry Kort,Citizen Lake Monitoring - Water Quality - Spider Lake- Deep Hole

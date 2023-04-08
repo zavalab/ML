@@ -1,0 +1,402 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Boulder Lake,Oconto,491800,NE,43,,433081,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188928,05/13/2003,12,YES,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,05/26/2003,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,06/15/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188928,06/21/2003,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,07/07/2003,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,07/21/2003,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/09/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/25/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,09/08/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,09/29/2003,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,06/03/2004,11.5,YES,3.5,,,42,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+8188928,06/18/2004,11.25,YES,3.4,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,07/02/2004,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,07/18/2004,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188928,08/15/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188928,08/30/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188928,09/13/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188928,09/27/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,05/22/2005,11.25,YES,3.4,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,05/31/2005,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,06/27/2005,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,07/02/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,07/11/2005,9.25,NO,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,07/19/2005,8.25,NO,2.5,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191313,07/19/2005,8.25,NO,2.5,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/23/2005,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/25/2005,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/29/2005,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,09/12/2005,9.75,YES,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,10/09/2005,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,05/23/2006,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,06/04/2006,10.5,NO,3.2,1.86,12,43,47,39,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,06/19/2006,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,07/07/2006,9.25,NO,2.8,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,07/10/2006,,,,2.41,14,,49,41,,,,,
+8188928,07/22/2006,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/04/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,08/20/2006,,,,3.69,13,,48,45,,,,,
+8188928,09/04/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188928,05/23/2007,10.5,YES,3.2,,13,43,48,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188928,06/01/2007,10.5,YES,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,06/10/2007,10.75,YES,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,06/23/2007,10.5,YES,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,06/27/2007,,,,3.09,ND*,,,43,,,,,
+8188928,06/29/2007,,,,,,,,,,,,,
+8188928,07/08/2007,9.75,YES,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,07/24/2007,,,,2.83,14,,49,43,,,,,
+8188928,08/18/2007,9.75,YES,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188928,08/29/2007,,,,3.22,13,,48,44,,,,,
+23007320,06/01/2008,11,YES,3.3,2.86,11,43,47,43,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,07/04/2008,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,08/09/2008,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,08/23/2008,11,YES,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,08/31/2008,,,,2.7,11,,47,42,,,,,
+23007320,05/31/2009,11,YES,3.3,,18,43,51,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,08/15/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,05/31/2010,13,YES,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,06/25/2011,13,YES,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,07/27/2011,13,YES,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+29693243,07/27/2011,,,,1.71,122,,65,39,,,,,
+29693243,08/28/2011,,,,2.19,15,,49,41,,,,,
+23007320,09/06/2011,12,YES,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,06/04/2012,12,YES,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,05/27/2014,12,YES,3.6,,12.4,41,48,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23007320,06/09/2014,13,YES,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,06/29/2014,12,YES,3.6,2.72,13.1,41,48,42,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,07/12/2014,12,YES,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,07/24/2014,,,,2.15,15.4,,49,41,,,,,
+23007320,08/25/2014,,,,2.93,14.6,,49,43,,,,,
+23007320,05/20/2015,11.5,YES,3.5,,12.4,42,48,,NORMAL,6,,GREEN,2-Very minor aesthetic problems
+23007320,06/23/2015,11,YES,3.3,3.01,17,43,50,43,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,07/21/2015,9,NO,2.7,4.7,17.7,45,50,46,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+23007320,09/01/2015,10,YES,3,4.07,20.7,44,52,45,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+23007320,09/25/2015,12,YES,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,05/25/2016,11,YES,3.3,,16.7,43,50,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23007320,06/22/2016,11,YES,3.3,2.19,18.5,43,51,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,07/20/2016,11,YES,3.3,1.46,20.6,43,52,38,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,09/07/2016,11,YES,3.3,2.29,20.1,43,51,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,05/31/2017,11,YES,3.3,,24.2,43,53,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,06/28/2017,,,,2,19.6,,51,40,,,,,
+23007320,07/25/2017,11,YES,3.3,3.39,22.5,43,52,44,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,08/22/2017,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,08/23/2017,,,,4.57,15.8,,50,46,,,,,
+23007320,05/23/2018,11,YES,3.3,,12,43,47,,NORMAL,6,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,06/27/2018,11,YES,3.3,3.05,8.17,43,44,43,HIGH,6,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,07/30/2018,,,,1.98,8.54,,45,40,,,,,
+23007320,08/29/2018,11,YES,3.3,2,16.2,43,50,40,HIGH,6,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,05/14/2019,11,YES,3.3,,8.34,43,45,,HIGH,6,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,06/17/2019,11,YES,3.3,3.56,13.9,43,49,44,HIGH,6,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,07/23/2019,11,YES,3.3,4.3,11.8,43,47,46,HIGH,6,CLEAR,GREEN,2-Very minor aesthetic problems
+23007320,08/30/2019,11,YES,3.3,2.69,11.6,43,47,42,NORMAL,6,CLEAR,BLUE,1-Beautiful, could not be nicer
+23007320,06/30/2020,11,YES,3.3,2.52,15.7,43,49,42,HIGH,6,CLEAR,BLUE,2-Very minor aesthetic problems
+23007320,07/28/2020,12,YES,3.6,2.08,14.7,41,49,40,HIGH,6,,GREEN,2-Very minor aesthetic problems
+23007320,09/01/2020,11,YES,3.3,1.99,12.4,43,48,40,NORMAL,6,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/29/2007,3,FEET,76.2,DEGREES F,6,MG/L
+06/29/2007,6,FEET,76.2,DEGREES F,6,MG/L
+06/29/2007,9,FEET,76.2,DEGREES F,6,MG/L
+07/24/2007,3,FEET,79.1,DEGREES F,9,MG/L
+07/24/2007,6,FEET,78.2,DEGREES F,9,MG/L
+07/24/2007,9,FEET,76.8,DEGREES F,7,MG/L
+08/29/2007,3,FEET,72.8,DEGREES F,7,MG/L
+08/29/2007,6,FEET,72.8,DEGREES F,6,MG/L
+08/29/2007,9,FEET,72.8,DEGREES F,8,MG/L
+06/01/2008,0,FEET,64.2,DEGREES F,,
+06/01/2008,3,FEET,63.8,DEGREES F,,
+06/01/2008,6,FEET,63.5,DEGREES F,,
+06/01/2008,9,FEET,63.8,DEGREES F,,
+07/04/2008,0,FEET,73.9,DEGREES F,,
+07/04/2008,6,FEET,72.8,DEGREES F,,
+07/04/2008,9,FEET,72.3,DEGREES F,,
+07/04/2008,11,FEET,72.8,DEGREES F,,
+08/09/2008,0,FEET,73.4,DEGREES F,,
+08/09/2008,4,FEET,73.4,DEGREES F,,
+08/09/2008,7,FEET,73.4,DEGREES F,,
+08/09/2008,10,FEET,73.5,DEGREES F,,
+08/23/2008,0,FEET,74.3,DEGREES F,,
+08/23/2008,3,FEET,74.1,DEGREES F,,
+08/23/2008,6,FEET,74.1,DEGREES F,,
+08/23/2008,9,FEET,74.1,DEGREES F,,
+08/23/2008,11,FEET,74.3,DEGREES F,,
+05/31/2009,0,FEET,63.6,DEGREES F,,
+05/31/2009,3,FEET,63.5,DEGREES F,,
+05/31/2009,6,FEET,62.9,DEGREES F,,
+05/31/2009,9,FEET,62.9,DEGREES F,,
+05/31/2009,11,FEET,62.7,DEGREES F,,
+08/15/2009,0,FEET,77.8,DEGREES F,,
+05/31/2010,0,FEET,77.1,DEGREES F,,
+05/31/2010,3,FEET,76.9,DEGREES F,,
+06/25/2011,0,FEET,66.5,DEGREES F,,
+06/25/2011,3,FEET,66.5,DEGREES F,,
+06/25/2011,6,FEET,66.5,DEGREES F,,
+06/25/2011,9,FEET,66.3,DEGREES F,,
+07/27/2011,0,FEET,81.4,DEGREES F,,
+07/27/2011,12,FEET,80.4,DEGREES F,,
+09/06/2011,0,FEET,73,DEGREES F,,
+06/04/2012,1,FEET,72.5,DEGREES F,,
+05/27/2014,0,FEET,72.1,DEGREES F,,
+06/09/2014,0,FEET,74.3,DEGREES F,,
+06/29/2014,0,FEET,75.9,DEGREES F,,
+07/12/2014,0,FEET,73,DEGREES F,,
+07/12/2014,3,FEET,72.6,DEGREES F,,
+07/12/2014,6,FEET,72.5,DEGREES F,,
+07/12/2014,9,FEET,72.5,DEGREES F,,
+07/12/2014,11,FEET,72.3,DEGREES F,,
+05/20/2015,0,FEET,58.4,DEGREES F,,
+05/20/2015,3,FEET,58.2,DEGREES F,,
+05/20/2015,6,FEET,58.2,DEGREES F,,
+05/20/2015,9,FEET,57.9,DEGREES F,,
+05/20/2015,11,FEET,57.5,DEGREES F,,
+06/23/2015,0,FEET,70.5,DEGREES F,,
+06/23/2015,3,FEET,70.5,DEGREES F,,
+06/23/2015,6,FEET,70.5,DEGREES F,,
+06/23/2015,9,FEET,70.1,DEGREES F,,
+07/21/2015,0,FEET,76.3,DEGREES F,,
+09/01/2015,0,FEET,71.5,DEGREES F,,
+09/01/2015,3,FEET,71,DEGREES F,,
+09/01/2015,6,FEET,70.5,DEGREES F,,
+09/01/2015,9,FEET,70,DEGREES F,,
+09/25/2015,0,FEET,67.4,DEGREES F,,
+09/25/2015,3,FEET,67.2,DEGREES F,,
+09/25/2015,6,FEET,67.2,DEGREES F,,
+09/25/2015,9,FEET,67.2,DEGREES F,,
+05/25/2016,1,FEET,68.8,DEGREES F,,
+06/22/2016,1,FEET,74.6,DEGREES F,,
+07/20/2016,1,FEET,77.3,DEGREES F,,
+05/31/2017,0,FEET,62.2,DEGREES F,,
+07/25/2017,0,FEET,77.1,DEGREES F,,
+08/22/2017,0,FEET,70.1,DEGREES F,,
+05/23/2018,0,FEET,70.7,DEGREES F,,
+05/23/2018,3,FEET,66.7,DEGREES F,,
+05/23/2018,6,FEET,66.2,DEGREES F,,
+06/27/2018,0,FEET,74.6,DEGREES F,,
+06/27/2018,3,FEET,74.4,DEGREES F,,
+06/27/2018,6,FEET,74.3,DEGREES F,,
+08/29/2018,1,FEET,71.6,DEGREES F,,
+05/14/2019,0,FEET,57.3,DEGREES F,,
+05/14/2019,3,FEET,57,DEGREES F,,
+05/14/2019,6,FEET,56.3,DEGREES F,,
+06/17/2019,0,FEET,66.7,DEGREES F,,
+07/23/2019,1,FEET,75.2,DEGREES F,,
+08/30/2019,1,FEET,65.3,DEGREES F,,
+06/30/2020,0,FEET,78,DEGREES F,,
+06/30/2020,3,FEET,77.7,DEGREES F,,
+06/30/2020,6,FEET,77.3,DEGREES F,,
+07/28/2020,0,FEET,78.2,DEGREES F,,
+09/01/2020,0,FEET,69.9,DEGREES F,,
+09/01/2020,3,FEET,69.7,DEGREES F,,
+09/01/2020,6,FEET,69.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/13/2003,Sunny Northeast wind
+
+    
+06/15/2003,Partly cloudy South wind heavy boat traffic- water not
+as clear as previosly noted
+
+    
+06/21/2003,sunny south wind light boat traffic Loons in bay by
+nest
+
+    
+07/07/2003,Southwest wind Heavy boat traffic past weekend-some
+rain
+
+
+    
+07/21/2003,Northwind partly cloudy- rained last evening- Loons in
+bay    
+08/09/2003,calm
+
+
+    
+08/25/2003,rained Saturday 1.5inches-Hazy sunshine- Loons present
+did not see young Loon    
+09/08/2003,calm conditions no boat traffic-no loons on lake today    
+07/02/2004,More jet skis-more vegetation cut up-loons in northwest bay chicks still alive    
+07/18/2004,hazy sunshine- loons doing well chicks are growing- lots of boat traffic    
+08/15/2004,water definately clearer-some algae clumps-loons doing well    
+08/30/2004,did not see loons or ducks today. rain last night    
+09/13/2004,one immature loon no adults-very few ducks    
+09/27/2004,no loons    
+05/31/2005,saw one pair of Bluebills- one coot-six adult geese and eight young ones-loons out and about not nesting yet- bass on beds    
+06/27/2005,loon still on nest- wind southwest-85degrees    
+07/02/2005,loon still on nest- geese are maturing- small algae clumps present on east side of lake    
+07/11/2005,loons in north bay with chick-geese by landing- algae clumps one half to three inches in diameter- surface temp 84.6 degrees    
+07/19/2005,5 fishing boats    
+07/19/2005,five fishing boats- partly cloudy    
+08/23/2005,loon chick growing less algae chunks    
+08/25/2005,surface temp 74F lots of bass fry    
+09/12/2005,only one loon on the lake- no algae clumps    
+10/09/2005,one inmature loon-no algae clumps    
+05/23/2006,pair of geese with seven goslings- one adult swan- two buffleheads-no algae clumps- loon on nest
+06/04/2006,loon no longer on nest no eggs present-two baby eagles on nest-algae clumps by landing- one twenty six inch walleye floatig dead no apparent reason
+06/19/2006,loon on nest again-one brood of geese(7)- one brood of mallards(6)-no algae clumps
+07/22/2006,geese are fully grown-mallards with young- eagle young are flying-moderate boat traffic
+08/04/2006,heavy rains raised lake level-few algae clumps
+05/23/2007,loon on nest- pair of geese with five goslings- eagles nesting.
+06/01/2007,loon on nest appears well hidden this year- pair of geese with five goslings
+06/10/2007,loon still on nest- eagles are getting bigger- one mallard with 10 ducklings- one wood duck with brood
+06/23/2007,loon chick hatched one egg did not develop-only four goslings now not sure what happened to the fifth one- two mallard broods and one wood duck brood- algae clumps present in the lake water not as clear
+07/08/2007,loons and chick doing well- also saw eagle and geese today. A few more algae clumps noted- lake showing some green color.
+08/18/2007,not many fisherman-one brood of mallards-loon chick growing-young eagles flying
+06/01/2008,Clear Skies- calm wind.  Loons on lake and eagles nesting with ealets. 
+Jim Tilkens assisted and trained
+07/04/2008,Clear Skies- calm wind.  72 degrees
+Loons on the lake with chicklet
+08/09/2008,Parly Cloudy- 72 degrees- North Wind
+Baby Eagle was flying around the lake.
+08/23/2008,Clear skies- West wind.  Rain overnight  [.3 of an inch]
+05/31/2009,Mostly Sunny.  Temp of 62 degrees.  Light wind from E/SE.  A few fishing boats.
+08/15/2009,Warm- humid- partly cloudy skies- windy.  Lake very busy.
+
+05/31/2010,Party Cloudy- clearing skies- morning rain.  Memorial Day Monday.
+Very comfortable- loons on the lake- a few boats and a NW breeze.
+
+
+06/25/2011,Saturday morning- clear skies- light N wind at 5mph.  three fishing boats- no other activity.
+Beautiful June morning.  5.5  inches of rain during the past 6 days.
+07/27/2011,cloudy- muggy and warm.  getting ready to rain.
+09/06/2011,Sunny- crisp- fall day.  Calm wind- very little boat traffic.
+
+06/04/2012,Beautful June Monday afternoon.  Partly Cloudy with some possible rain moving in later this afternoon.  Spotted both loons on the lake.  
+
+05/27/2014,Lake conditions calm.  Overcast skies.  Temp. 74 degrees.  Rain the previous night.  Tuesday after Memorial Day Week-end.
+06/09/2014,sunny skies- high cirrus clouds.  eagles flying over lake- loon on the lake fishing.  a few fisherman. temp in the mid 70's.
+some small floating algae balls on lake.
+06/29/2014,humid- partly cloudy.
+07/12/2014,warm- slightly muggy morning.  high overcast clouds.  calm winds.  lots of fisherman on water.  very quiet. 72 degrees and comfortable.
+05/20/2015,Crisp sunny morning with some high thin cirrus clouds.  Light wind from the North at 5mph.
+Beautiful Spring morning.
+06/23/2015,Beautiful summer morning.  Clear skies- cool north breeze.  1/2 inch of rain yesterday.  Male loon swimming and one boat fishing.
+07/21/2015,Beautiful sunny morning.  North wind- no humidty.  
+09/01/2015,warm morning with fog lifting to a clear sky.  winds are calm.  one fishing boat.  loon with baby loon in center of lake. 
+09/25/2015,Beautiful Fall day.  Sunny and warm with some high thin cirrus clouds- very calm.  Current temp is 63 degrees- warming up to 75 degrees.  No wind and no boats and two kayakers on the lake.  The baby loon and mother fishing were fishing in the middle of the lake.
+05/25/2016,foggy- humid morning with a light NE breeze.  
+06/22/2016,Beautiful Summer morning.  Clear skies with some high cirrus clouds to the South.  Three boats fishing and a light south wind.
+07/20/2016,Beautiful July morning.  Sunny and warm South breeze.  Very humid with high dew points.  One kayaker and one fishing boat on lake.  Lake is busy with vacationers this week.  Water looks better this July than last year from a visual perspective.
+09/07/2016,Cloudy- warm- humid morning.  very light South wind.  Heavy rains overnite.  No boats on the lake- very calm- peaceful.
+05/31/2017,cool- sunny morning with some high clouds.  breezy winds out of the West.  Saw one Loon on the lake- no other boats.
+08/22/2017,cool morning.  fall like temperatures. north breeze
+06/27/2018,Beautiful- calm morning.  Party Cloudy around 70 degrees.  Will warm up to 81 today.  
+
+05/14/2019,Beautiful- calm- sunny morning.  Warm.
+07/23/2019,Beautiful Summer morning.  North wind at 10- sunny and comfortable.  No other boats on the lake.
+06/30/2020,Very warm- humid- sunny morning.  light wind.  A few kayaks on the lake with some boats fishing.
+07/28/2020,Beautiful July morning- sunny with light southeast wind.
+09/01/2020,Beautiful- peaceful morning.  Calm wind- partly cloudy with high thin clouds.  Loons feeding with their babies.
+
+
+
+
+Start Date,Group Name,Project Name
+05/13/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/26/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/15/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/21/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/07/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/21/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/09/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/25/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/08/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/29/2003,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/03/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/18/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/02/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/18/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/15/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/30/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/13/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/27/2004,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/22/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/31/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/27/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/02/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/11/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/19/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/19/2005,Frederick Mathwig and Jim Tilkens,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/23/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/25/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/29/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/12/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+10/09/2005,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/23/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/04/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/19/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/07/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/10/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/22/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/04/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/20/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/04/2006,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/23/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/01/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/10/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/23/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/27/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/29/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/08/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/24/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/18/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/29/2007,Frederick Mathwig,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/01/2008,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/04/2008,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/09/2008,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/23/2008,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/31/2008,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/31/2008,Paul Martin,Citizen Lake Monitoring Network QA/QC - 2008
+05/31/2009,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/15/2009,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/31/2010,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/25/2011,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/27/2011,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/27/2011,Paul Martin- Brad Morris- Alex Smith and Pam Toshner,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/28/2011,Paul Martin- Brad Morris- Alex Smith and Pam Toshner,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/06/2011,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/04/2012,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/27/2014,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/09/2014,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/29/2014,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/12/2014,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/24/2014,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/25/2014,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/20/2015,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/23/2015,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/21/2015,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/01/2015,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/25/2015,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/25/2016,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/22/2016,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/20/2016,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/07/2016,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/31/2017,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/28/2017,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/25/2017,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/22/2017,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/23/2017,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/23/2018,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/27/2018,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/30/2018,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/29/2018,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/14/2019,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/17/2019,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/23/2019,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/30/2019,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/30/2020,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/28/2020,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/01/2020,Paul Martin,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole

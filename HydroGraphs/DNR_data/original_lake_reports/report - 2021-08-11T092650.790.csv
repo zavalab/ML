@@ -1,0 +1,719 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Arbor Vitae Lake,Vilas,1545300,NO,64,,643074,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/05/1979,,,,,,,,,,,,,
+8190079,08/06/1990,3.25,NO,1,,,60,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190079,08/21/1990,3.5,NO,1.1,,,59,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190079,09/05/1990,3,NO,0.9,,,61,,,NORMAL,,,,4-Would not swim but boating OK (algae)
+8190079,10/02/1990,5,NO,1.5,,,54,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190079,10/16/1990,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190079,06/13/1991,8.25,NO,2.5,,,47,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190079,06/20/1991,7,NO,2.1,,,49,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190079,06/28/1991,7.75,NO,2.4,,,48,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190079,07/05/1991,6,NO,1.8,,,51,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190079,07/12/1991,6,NO,1.8,,,51,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190079,07/18/1991,5,NO,1.5,,,54,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190079,07/26/1991,3.25,NO,1,,,60,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190079,08/02/1991,4.75,NO,1.4,,,55,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190079,08/11/1991,4.5,NO,1.4,,,55,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190079,08/15/1991,4.25,NO,1.3,,,56,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190079,08/23/1991,4.5,NO,1.4,,,55,,,NORMAL,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190079,09/05/1991,3,NO,0.9,,,61,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190079,09/19/1991,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN/BROWN,5-Enjoyment substantially impaired (algae)
+8190079,10/03/1991,3.5,NO,1.1,,,59,,,NORMAL,,,BLUE/GREEN,4-Would not swim but boating OK (algae)
+8190079,10/10/1991,4,NO,1.2,,,57,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190079,10/18/1991,4.75,NO,1.4,,,55,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190079,10/25/1991,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,
+8190949,10/03/1992,7,NO,2.1,,,49,,,,,,GREEN,1-Beautiful, could not be nicer
+8190079,06/30/1995,7,NO,2.1,,,49,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190079,07/26/1995,5,NO,1.5,,,54,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190079,08/22/1995,2.75,NO,0.8,,,63,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190079,10/10/1995,32,NO,9.7,,,27,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+17937531,05/03/2007,19,,5.8,,,35,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+28615151,07/31/2008,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/08/2008,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/16/2008,2.5,NO,0.8,,,64,,,,7.70,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/23/2008,2.25,NO,0.7,,,65,,,,7.68,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/30/2008,2,NO,0.6,,,67,,,,7.68,MURKY,GREEN,4-Would not swim but boating OK (algae)
+28615151,09/06/2008,2.5,NO,0.8,,,64,,,,7.68,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,09/20/2008,2.75,NO,0.8,,,63,,,,7.80,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,10/05/2008,3,NO,0.9,,,61,,,,7.82,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,10/12/2008,3.25,NO,1,,,60,,,,7.78,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,06/11/2009,7.5,NO,2.3,,,48,,,,7.84,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,06/21/2009,5.5,NO,1.7,,,53,,,,7.86,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/05/2009,3.75,NO,1.1,,,58,,,,7.80,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,07/13/2009,3.75,NO,1.1,,,58,,,NORMAL,7.78,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,07/22/2009,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/29/2009,3,NO,0.9,,,61,,,NORMAL,7.80,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/06/2009,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/14/2009,2.5,NO,0.8,,,64,,,NORMAL,7.74,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/23/2009,2.5,NO,0.8,,,64,,,NORMAL,7.76,MURKY,GREEN,4-Would not swim but boating OK (algae)
+28615151,08/30/2009,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,09/06/2009,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+35019794,04/20/2010,6.8,NO,2.1,8.71,34,50,55,51,,,,,
+28615151,05/16/2010,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+28615151,05/30/2010,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+28615151,06/20/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+18069694,06/24/2010,4.5,NO,1.4,21.3,30,55,54,58,,,,,
+28615151,06/30/2010,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/08/2010,4,NO,1.2,,,57,,,NORMAL,7.90,CLEAR,GREEN,2-Very minor aesthetic problems
+41886128,07/13/2010,4.8,NO,1.5,19.8,33,55,55,57,,,,,
+28615151,07/17/2010,3.5,NO,1.1,,,59,,,,7.96,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/25/2010,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/01/2010,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/09/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16073539,08/18/2010,3,NO,0.9,43.3,64,61,60,63,,,,,
+28615151,08/22/2010,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+28615151,08/26/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+28615151,09/05/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41886196,10/07/2010,6.7,NO,2,11.1,42,50,57,53,,,,,
+34972236,02/24/2011,11.5,NO,3.5,,22,42,52,,,,,,
+25475405,06/05/2011,6,NO,1.8,,,51,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25475405,07/03/2011,3.5,NO,1.1,,,59,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+25475405,07/11/2011,4,NO,1.2,,,57,,,,7.80,CLEAR,GREEN,2-Very minor aesthetic problems
+25475405,07/19/2011,3.25,NO,1,,,60,,,,7.76,MURKY,GREEN,2-Very minor aesthetic problems
+25475405,07/31/2011,3.25,NO,1,,,60,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+25475405,08/05/2011,2.75,NO,0.8,,,63,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+25475405,08/14/2011,3,NO,0.9,,,61,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+25475405,08/21/2011,3,NO,0.9,,,61,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/08/2012,2.75,NO,0.8,,,63,,,,4,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/13/2012,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/21/2012,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/07/2012,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,06/30/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/08/2013,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+82789888,07/18/2013,3.25,NO,1,42.4,35.8,60,56,63,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+28615151,07/20/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/01/2013,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/11/2013,2.5,NO,0.8,,,64,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+82789888,08/20/2013,2.5,NO,0.8,49.7,46.2,64,58,64,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+82789888,05/08/2014,3.75,NO,1.1,,,58,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+1,05/18/2014,,,,,67.4,,61,,,,,,
+28615151,07/04/2014,4.25,NO,1.3,,,56,,,,7.5,CLEAR,GREEN,2-Very minor aesthetic problems
+82789888,07/07/2014,4,NO,1.2,26,41.1,57,57,59,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+28615151,07/20/2014,2.75,NO,0.8,,,63,,,,7.4,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/27/2014,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/02/2014,,,,38,45.5,,58,62,,,,,
+82789888,08/02/2014,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/09/2014,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/17/2014,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+82789888,09/08/2014,3,NO,0.9,48.3,58.4,61,60,64,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+82789888,05/01/2015,5,NO,1.5,,39,54,57,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+28615151,06/25/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+82789888,06/29/2015,3.75,NO,1.1,16.8,35,58,56,56,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+28615151,07/22/2015,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+82789888,07/31/2015,2.25,NO,0.7,49.8,77.9,65,62,64,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+28615151,08/15/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+1,09/02/2015,,,,56.5,55.6,,59,65,,,,,
+82789888,09/02/2015,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+82789888,05/07/2016,5.5,NO,1.7,,41.1,53,57,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+82789888,06/24/2016,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,07/16/2016,3.2,NO,1,,,60,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+82789888,07/26/2016,2.5,NO,0.8,55.5,51.1,64,59,65,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/01/2016,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/14/2016,2.4,NO,0.7,,,65,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+82789888,08/30/2016,1.5,NO,0.5,104,156,71,67,70,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,04/22/2017,,,,,48.8,,58,,,,,,
+82789888,04/22/2017,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+28615151,05/14/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+82789888,06/27/2017,5.75,NO,1.7,12.1,38.7,52,56,54,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+82789888,07/01/2017,8,NO,2.4,,,47,,,HIGH,7.22,MURKY,GREEN,2-Very minor aesthetic problems
+28615151,07/03/2017,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+82789888,07/28/2017,5.5,NO,1.7,16.1,33.3,53,55,56,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+28615151,08/12/2017,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+82789888,08/28/2017,3.75,NO,1.1,41.5,56.8,58,59,63,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+28615151,08/29/2017,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+82618702,05/14/2018,,,,,33,,55,,,,,,
+28615151,05/20/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+82618702,06/27/2018,,,,22.8,41.5,,57,58,,,,,
+28615151,07/06/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/17/2018,4.5,N,1.4,18.5,41.7,55,57,57,,,,,
+161642032,07/17/2018,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+82618702,07/24/2018,,,,18.9,36,,56,57,,,,,
+28615151,08/15/2018,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+161642032,08/16/2018,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+82618702,08/28/2018,,,,17.1,39.2,,57,56,,,,,
+1,09/18/2018,4,N,1.2,42.2,39.3,57,57,63,,,,,
+116338688,09/18/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+82618702,05/02/2019,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+82618702,05/12/2019,,,,,43.8,,57,,,,,,
+82618702,06/26/2019,7.75,NO,2.4,3.62,23.2,48,53,45,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+82618702,07/31/2019,8.5,NO,2.6,,40.9,46,57,,NORMAL,,MURKY,GREEN,
+82618702,08/15/2019,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,
+82618702,08/28/2019,,,,31.4,49.9,,58,61,,,,,
+246420402,08/12/2020,,,,2.81,59.6,,60,43,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/05/1979,,,21,C,,
+05/03/2007,0,FEET,46,DEGREES F,,
+04/20/2010,,,12.2,C,12.2,MG/L
+06/24/2010,,,17.7,C,0.1,MG/L
+07/13/2010,,,20.4,C,0.1,MG/L
+08/18/2010,,,21.2,C,5.6,MG/L
+10/07/2010,,,13.2,C,5.7,MG/L
+02/24/2011,,,0.8,C,1.0,MG/L
+07/18/2013,1,FEET,80.6,DEGREES F,,
+07/18/2013,3,FEET,80.6,DEGREES F,,
+07/18/2013,6,FEET,80.6,DEGREES F,,
+07/18/2013,9,FEET,80.4,DEGREES F,,
+07/18/2013,12,FEET,80.4,DEGREES F,,
+07/18/2013,15,FEET,80.5,DEGREES F,,
+07/18/2013,18,FEET,80.4,DEGREES F,,
+07/18/2013,21,FEET,64.5,DEGREES F,,
+07/18/2013,24,FEET,59.5,DEGREES F,,
+07/18/2013,27,FEET,56.8,DEGREES F,,
+08/20/2013,1,FEET,72.3,DEGREES F,,
+08/20/2013,3,FEET,71.6,DEGREES F,,
+08/20/2013,6,FEET,71.4,DEGREES F,,
+08/20/2013,9,FEET,71.4,DEGREES F,,
+08/20/2013,12,FEET,70.8,DEGREES F,,
+08/20/2013,15,FEET,70.5,DEGREES F,,
+08/20/2013,18,FEET,66.5,DEGREES F,,
+08/20/2013,21,FEET,65.1,DEGREES F,,
+08/20/2013,24,FEET,62.4,DEGREES F,,
+08/20/2013,27,FEET,57.2,DEGREES F,,
+05/08/2014,1,FEET,51.8,DEGREES F,,
+05/08/2014,3,FEET,51.6,DEGREES F,,
+05/08/2014,6,FEET,51.4,DEGREES F,,
+05/08/2014,9,FEET,51.4,DEGREES F,,
+05/08/2014,12,FEET,51.2,DEGREES F,,
+05/08/2014,15,FEET,51,DEGREES F,,
+05/08/2014,18,FEET,50.7,DEGREES F,,
+05/08/2014,21,FEET,50.1,DEGREES F,,
+05/08/2014,24,FEET,49.4,DEGREES F,,
+05/08/2014,27,FEET,49.2,DEGREES F,,
+05/08/2014,30,FEET,48.7,DEGREES F,,
+05/08/2014,33,FEET,47.8,DEGREES F,,
+07/07/2014,1,FEET,72.8,DEGREES F,,
+07/07/2014,3,FEET,72.6,DEGREES F,,
+07/07/2014,6,FEET,72.3,DEGREES F,,
+07/07/2014,9,FEET,72.1,DEGREES F,,
+07/07/2014,12,FEET,72.1,DEGREES F,,
+07/07/2014,15,FEET,71.9,DEGREES F,,
+07/07/2014,18,FEET,69.9,DEGREES F,,
+07/07/2014,21,FEET,60.6,DEGREES F,,
+07/07/2014,24,FEET,57.2,DEGREES F,,
+07/07/2014,27,FEET,56.4,DEGREES F,,
+07/07/2014,30,FEET,56.1,DEGREES F,,
+07/07/2014,33,FEET,53.6,DEGREES F,,
+08/02/2014,1,FEET,72.5,DEGREES F,,
+08/02/2014,3,FEET,72.1,DEGREES F,,
+08/02/2014,6,FEET,71.7,DEGREES F,,
+08/02/2014,9,FEET,70.8,DEGREES F,,
+08/02/2014,12,FEET,69.8,DEGREES F,,
+08/02/2014,15,FEET,69.2,DEGREES F,,
+08/02/2014,18,FEET,68.3,DEGREES F,,
+08/02/2014,21,FEET,67.2,DEGREES F,,
+08/02/2014,24,FEET,62.4,DEGREES F,,
+08/02/2014,27,FEET,57.5,DEGREES F,,
+08/02/2014,30,FEET,55.2,DEGREES F,,
+08/02/2014,33,FEET,54.6,DEGREES F,,
+09/08/2014,1,FEET,67.4,DEGREES F,,
+09/08/2014,3,FEET,67.2,DEGREES F,,
+09/08/2014,6,FEET,67.2,DEGREES F,,
+09/08/2014,9,FEET,67.2,DEGREES F,,
+09/08/2014,12,FEET,67.2,DEGREES F,,
+09/08/2014,15,FEET,67.2,DEGREES F,,
+09/08/2014,18,FEET,67.2,DEGREES F,,
+09/08/2014,21,FEET,67.1,DEGREES F,,
+09/08/2014,24,FEET,66.9,DEGREES F,,
+09/08/2014,27,FEET,66.3,DEGREES F,,
+09/08/2014,30,FEET,66,DEGREES F,,
+09/08/2014,33,FEET,65.8,DEGREES F,,
+05/01/2015,1,FEET,53.6,DEGREES F,,
+05/01/2015,3,FEET,53.4,DEGREES F,,
+05/01/2015,6,FEET,52.8,DEGREES F,,
+05/01/2015,9,FEET,52.8,DEGREES F,,
+05/01/2015,12,FEET,52.7,DEGREES F,,
+05/01/2015,15,FEET,52.3,DEGREES F,,
+05/01/2015,18,FEET,49.8,DEGREES F,,
+05/01/2015,21,FEET,48.5,DEGREES F,,
+05/01/2015,24,FEET,48.2,DEGREES F,,
+05/01/2015,27,FEET,48,DEGREES F,,
+05/01/2015,30,FEET,48,DEGREES F,,
+05/01/2015,33,FEET,47.8,DEGREES F,,
+06/29/2015,1,FEET,72.8,DEGREES F,,
+06/29/2015,3,FEET,72.8,DEGREES F,,
+06/29/2015,6,FEET,72.6,DEGREES F,,
+06/29/2015,9,FEET,69.8,DEGREES F,,
+06/29/2015,12,FEET,68.1,DEGREES F,,
+06/29/2015,15,FEET,66.5,DEGREES F,,
+06/29/2015,18,FEET,65.1,DEGREES F,,
+06/29/2015,21,FEET,62.4,DEGREES F,,
+06/29/2015,24,FEET,60.4,DEGREES F,,
+06/29/2015,27,FEET,59.7,DEGREES F,,
+06/29/2015,30,FEET,58.8,DEGREES F,,
+06/29/2015,33,FEET,57.2,DEGREES F,,
+07/31/2015,1,FEET,73.2,DEGREES F,,
+07/31/2015,3,FEET,73.4,DEGREES F,,
+07/31/2015,6,FEET,73.4,DEGREES F,,
+07/31/2015,9,FEET,73.2,DEGREES F,,
+07/31/2015,12,FEET,73.2,DEGREES F,,
+07/31/2015,15,FEET,73.2,DEGREES F,,
+07/31/2015,18,FEET,73.2,DEGREES F,,
+07/31/2015,21,FEET,71.4,DEGREES F,,
+07/31/2015,24,FEET,67.2,DEGREES F,,
+07/31/2015,27,FEET,62.6,DEGREES F,,
+07/31/2015,30,FEET,62.4,DEGREES F,,
+07/31/2015,33,FEET,61.5,DEGREES F,,
+09/02/2015,1,FEET,70.8,DEGREES F,,
+09/02/2015,3,FEET,70.8,DEGREES F,,
+09/02/2015,6,FEET,70.1,DEGREES F,,
+09/02/2015,9,FEET,69.2,DEGREES F,,
+09/02/2015,12,FEET,67.4,DEGREES F,,
+09/02/2015,15,FEET,65.4,DEGREES F,,
+09/02/2015,18,FEET,64.2,DEGREES F,,
+09/02/2015,21,FEET,63.8,DEGREES F,,
+09/02/2015,24,FEET,63.8,DEGREES F,,
+09/02/2015,27,FEET,63.8,DEGREES F,,
+09/02/2015,30,FEET,63.8,DEGREES F,,
+09/02/2015,33,FEET,63.8,DEGREES F,,
+05/07/2016,1,FEET,55.2,DEGREES F,,
+05/07/2016,3,FEET,54.6,DEGREES F,,
+05/07/2016,6,FEET,54.5,DEGREES F,,
+05/07/2016,9,FEET,54.1,DEGREES F,,
+05/07/2016,12,FEET,53,DEGREES F,,
+05/07/2016,15,FEET,52.5,DEGREES F,,
+05/07/2016,18,FEET,51,DEGREES F,,
+05/07/2016,21,FEET,50.7,DEGREES F,,
+05/07/2016,24,FEET,50.3,DEGREES F,,
+05/07/2016,27,FEET,50.3,DEGREES F,,
+05/07/2016,30,FEET,49.8,DEGREES F,,
+06/24/2016,1,FEET,76.4,DEGREES F,,
+06/24/2016,3,FEET,76.1,DEGREES F,,
+06/24/2016,6,FEET,75.9,DEGREES F,,
+06/24/2016,9,FEET,75.5,DEGREES F,,
+06/24/2016,12,FEET,71,DEGREES F,,
+06/24/2016,15,FEET,68.5,DEGREES F,,
+06/24/2016,18,FEET,60.6,DEGREES F,,
+06/24/2016,21,FEET,58.4,DEGREES F,,
+06/24/2016,24,FEET,57,DEGREES F,,
+06/24/2016,27,FEET,56.4,DEGREES F,,
+06/24/2016,30,FEET,56.3,DEGREES F,,
+07/26/2016,1,FEET,78.2,DEGREES F,,
+07/26/2016,3,FEET,78,DEGREES F,,
+07/26/2016,6,FEET,77.9,DEGREES F,,
+07/26/2016,9,FEET,77.7,DEGREES F,,
+07/26/2016,12,FEET,73.7,DEGREES F,,
+07/26/2016,15,FEET,71.6,DEGREES F,,
+07/26/2016,18,FEET,69.8,DEGREES F,,
+07/26/2016,21,FEET,67.8,DEGREES F,,
+07/26/2016,24,FEET,63.8,DEGREES F,,
+07/26/2016,27,FEET,59,DEGREES F,,
+07/26/2016,30,FEET,57.5,DEGREES F,,
+07/26/2016,33,FEET,56.6,DEGREES F,,
+08/30/2016,1,FEET,74.1,DEGREES F,,
+08/30/2016,3,FEET,73.2,DEGREES F,,
+08/30/2016,6,FEET,71.7,DEGREES F,,
+08/30/2016,9,FEET,70.7,DEGREES F,,
+08/30/2016,12,FEET,70.5,DEGREES F,,
+08/30/2016,15,FEET,70.1,DEGREES F,,
+08/30/2016,18,FEET,69.8,DEGREES F,,
+08/30/2016,21,FEET,69.6,DEGREES F,,
+08/30/2016,24,FEET,69.2,DEGREES F,,
+08/30/2016,27,FEET,69.2,DEGREES F,,
+08/30/2016,30,FEET,69.1,DEGREES F,,
+04/22/2017,1,FEET,48.5,DEGREES F,,
+04/22/2017,3,FEET,48.3,DEGREES F,,
+04/22/2017,6,FEET,48.2,DEGREES F,,
+04/22/2017,9,FEET,48.2,DEGREES F,,
+04/22/2017,12,FEET,48,DEGREES F,,
+04/22/2017,15,FEET,48,DEGREES F,,
+04/22/2017,18,FEET,48,DEGREES F,,
+04/22/2017,21,FEET,47.4,DEGREES F,,
+04/22/2017,24,FEET,47.4,DEGREES F,,
+04/22/2017,27,FEET,46.9,DEGREES F,,
+04/22/2017,30,FEET,46.7,DEGREES F,,
+04/22/2017,33,FEET,46.7,DEGREES F,,
+06/27/2017,1,FEET,67.4,DEGREES F,,
+06/27/2017,3,FEET,66.9,DEGREES F,,
+06/27/2017,6,FEET,66.5,DEGREES F,,
+06/27/2017,9,FEET,66,DEGREES F,,
+06/27/2017,12,FEET,65.3,DEGREES F,,
+06/27/2017,15,FEET,65.1,DEGREES F,,
+06/27/2017,18,FEET,65.1,DEGREES F,,
+06/27/2017,21,FEET,63.8,DEGREES F,,
+06/27/2017,24,FEET,62.4,DEGREES F,,
+06/27/2017,27,FEET,60.2,DEGREES F,,
+06/27/2017,30,FEET,59,DEGREES F,,
+06/27/2017,33,FEET,58.8,DEGREES F,,
+07/01/2017,0.5,FEET,74.7,DEGREES F,9.5,MG/L
+07/01/2017,3,FEET,74,DEGREES F,9.52,MG/L
+07/01/2017,6,FEET,73.1,DEGREES F,9.28,MG/L
+07/01/2017,9,FEET,72.7,DEGREES F,8.77,MG/L
+07/01/2017,12,FEET,72.5,DEGREES F,8.33,MG/L
+07/01/2017,15,FEET,70.3,DEGREES F,3.75,MG/L
+07/01/2017,18,FEET,67.3,DEGREES F,.21,MG/L
+07/01/2017,21,FEET,65.5,DEGREES F,.1,MG/L
+07/01/2017,24,FEET,65.1,DEGREES F,.08,MG/L
+07/01/2017,27,FEET,64.8,DEGREES F,.07,MG/L
+07/01/2017,30,FEET,64.5,DEGREES F,.06,MG/L
+07/28/2017,1,FEET,75.2,DEGREES F,,
+07/28/2017,3,FEET,74.1,DEGREES F,,
+07/28/2017,6,FEET,73.2,DEGREES F,,
+07/28/2017,9,FEET,72.8,DEGREES F,,
+07/28/2017,12,FEET,72.8,DEGREES F,,
+07/28/2017,15,FEET,71.6,DEGREES F,,
+07/28/2017,18,FEET,68.7,DEGREES F,,
+07/28/2017,21,FEET,66,DEGREES F,,
+07/28/2017,24,FEET,64.7,DEGREES F,,
+07/28/2017,27,FEET,64.2,DEGREES F,,
+07/28/2017,30,FEET,63.8,DEGREES F,,
+08/28/2017,1,FEET,68.3,DEGREES F,,
+08/28/2017,3,FEET,67.2,DEGREES F,,
+08/28/2017,6,FEET,66.7,DEGREES F,,
+08/28/2017,9,FEET,66.5,DEGREES F,,
+08/28/2017,12,FEET,66.5,DEGREES F,,
+08/28/2017,15,FEET,66.5,DEGREES F,,
+08/28/2017,18,FEET,66.2,DEGREES F,,
+08/28/2017,21,FEET,66,DEGREES F,,
+08/28/2017,24,FEET,65.6,DEGREES F,,
+08/28/2017,27,FEET,65.6,DEGREES F,,
+08/28/2017,30,FEET,65.4,DEGREES F,,
+08/28/2017,33,FEET,63.8,DEGREES F,,
+07/17/2018,0,FEET,76.4,DEGREES F,8.84,MG/L
+07/17/2018,3,FEET,76.5,DEGREES F,8.8,MG/L
+07/17/2018,6,FEET,76.2,DEGREES F,8.71,MG/L
+07/17/2018,9,FEET,74.8,DEGREES F,6.7,MG/L
+07/17/2018,12,FEET,74.1,DEGREES F,4.86,MG/L
+07/17/2018,15,FEET,70.6,DEGREES F,.53,MG/L
+07/17/2018,18,FEET,62.5,DEGREES F,.41,MG/L
+08/16/2018,0,FEET,78,DEGREES F,9.77,MG/L
+08/16/2018,3,FEET,78,DEGREES F,9.78,MG/L
+08/16/2018,6,FEET,77.8,DEGREES F,9.61,MG/L
+08/16/2018,9,FEET,77.5,DEGREES F,9.83,MG/L
+08/16/2018,12,FEET,72.5,DEGREES F,4.1,MG/L
+08/16/2018,15,FEET,69.7,DEGREES F,.54,MG/L
+09/18/2018,0,FEET,69.3,DEGREES F,9.66,MG/L
+09/18/2018,3,FEET,69.4,DEGREES F,9.62,MG/L
+09/18/2018,6,FEET,69.4,DEGREES F,9.48,MG/L
+09/18/2018,9,FEET,69.1,DEGREES F,7.3,MG/L
+09/18/2018,12,FEET,68.2,DEGREES F,3.96,MG/L
+09/18/2018,15,FEET,67.5,DEGREES F,2.28,MG/L
+09/18/2018,18,FEET,66.5,DEGREES F,.49,MG/L
+05/02/2019,0,FEET,50,DEGREES F,,
+05/02/2019,3,FEET,48.2,DEGREES F,,
+05/02/2019,6,FEET,47.1,DEGREES F,,
+05/02/2019,9,FEET,46.7,DEGREES F,,
+05/02/2019,12,FEET,46.7,DEGREES F,,
+05/02/2019,15,FEET,46.2,DEGREES F,,
+05/02/2019,18,FEET,45.8,DEGREES F,,
+05/02/2019,21,FEET,45.6,DEGREES F,,
+05/02/2019,24,FEET,45.6,DEGREES F,,
+05/02/2019,27,FEET,45.6,DEGREES F,,
+05/02/2019,30,FEET,45.6,DEGREES F,,
+06/26/2019,0,FEET,70.5,DEGREES F,,
+06/26/2019,3,FEET,70.1,DEGREES F,,
+06/26/2019,6,FEET,69.9,DEGREES F,,
+06/26/2019,9,FEET,69.9,DEGREES F,,
+06/26/2019,12,FEET,69.8,DEGREES F,,
+06/26/2019,15,FEET,67.8,DEGREES F,,
+06/26/2019,18,FEET,63.1,DEGREES F,,
+06/26/2019,21,FEET,57.2,DEGREES F,,
+06/26/2019,24,FEET,56.3,DEGREES F,,
+06/26/2019,27,FEET,55,DEGREES F,,
+06/26/2019,30,FEET,54.3,DEGREES F,,
+07/31/2019,0,FEET,76.8,DEGREES F,,
+07/31/2019,3,FEET,74.4,DEGREES F,,
+07/31/2019,6,FEET,73.7,DEGREES F,,
+07/31/2019,9,FEET,73.2,DEGREES F,,
+07/31/2019,12,FEET,72.6,DEGREES F,,
+07/31/2019,15,FEET,72.6,DEGREES F,,
+07/31/2019,18,FEET,72.3,DEGREES F,,
+07/31/2019,21,FEET,63.3,DEGREES F,,
+07/31/2019,24,FEET,60.2,DEGREES F,,
+07/31/2019,27,FEET,59.3,DEGREES F,,
+07/31/2019,30,FEET,58.8,DEGREES F,,
+08/15/2019,3,FEET,66.7,DEGREES F,,
+08/15/2019,6,FEET,66.7,DEGREES F,,
+08/15/2019,9,FEET,66.7,DEGREES F,,
+08/15/2019,12,FEET,66.7,DEGREES F,,
+08/15/2019,15,FEET,66.7,DEGREES F,,
+08/15/2019,18,FEET,66.7,DEGREES F,,
+08/15/2019,21,FEET,66.5,DEGREES F,,
+08/15/2019,24,FEET,66,DEGREES F,,
+08/15/2019,27,FEET,57.9,DEGREES F,,
+08/15/2019,30,FEET,56.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/05/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/06/1990,Sunny- calm    
+06/20/1991,Overcast- choppy    
+06/28/1991,Overcast    
+07/05/1991,Overcast- choppy    
+07/12/1991,Partly sunny    
+07/18/1991,Sunny- choppy    
+07/26/1991,Clear- calm    
+08/02/1991,Overcast    
+08/11/1991,Sunny    
+08/15/1991,Choppy- overcast    
+08/23/1991,Rainy- windy    
+09/05/1991,Clear- water murky    
+10/03/1991,Overcast    
+10/03/1992,None.  Assumed sample time was 12:00.    
+06/30/1995,Algal bloom.    
+07/26/1995,Algal bloom.    
+08/22/1995,Algal blooms.    
+10/10/1995,Partly cloudy- lake not turned over.    
+07/31/2008,NW wind- 10mph. 1" rain on 07/30/08. 75F surface water temp. 1 PWC and 2 fish boats. 
+08/08/2008,NW wind 6mph. 0.20" rain on 08/05/08. 74.8F surface water temp. 5 fish boats and 2 pleasure.
+08/16/2008,W wind 10 mph. Partly cloudy. 72.9F surface water temp. No rain for many days. 5 fish boats.
+08/23/2008,77F and sunny. W wind 20mph. 73.4F surface water temp.3 fish boats.
+08/30/2008,77F and sunny. S wind 5 mph. 74F surface water temp. 1 ski boat and 5 fish boats.
+09/06/2008,66F and partly cloudy. W wind 10mph. 67F surface water temp. 3 fish boats.
+09/20/2008,72F and sunny. NE wind 5mph. 66F water surface temp. 5 fish boats.
+10/05/2008,53F and sunny. SW wind 7mph. 56F surface water temp. 9 fish boats. 1 loon.
+10/12/2008,*ALL GAUGE READINGS ARE UNKNOWN UNITS - FEET USED AS DEFAULT* 
+63F and cloudy. S wind 6mph. 56F surface water temp. 8 fish boats. 2 eagles.
+06/11/2009,69 -- west winds @ 5 mph -- 62.5 water temperature -- 4 fishermen
+06/21/2009,85 + PC -- water temp 75 -- SE winds around 6mph -- 2 fishermen on lake
+07/05/2009,73 + sunny -- windy with white caps -- 70.8 water temp -- 4 fishing  boats -- July 4th had a good share of fishermen and two boats water skiing as well as numerous pontoons and small pleasure boaters
+07/13/2009,75 + sunny -- 15 mph NW wind -- 71 water temp -- above normal number of skiers and tubers 75 + sunny -- 15 mph NW wind -- 71 water temp -- above normal number of skiers and tubers
+07/22/2009,77 + PC -- 73 water temp -- no rain for many days -- 4 mph SW wind -- 1 fisherman -- barely made it back to dock when storm hit- had 1+" of rain in a short period of time- also hail and high winds.  Was NOT able to get to dam to get gauge level
+07/29/2009,65 degrees and PC -- 68 degrees water temperature -- winds 8 mph NW -- about 2" rain since last week -- cool nites -- 3 fishing boats
+08/06/2009,75 degrees + PC -- 5 mph winds NW -- 69 degrees water temperature -- 1 pleasure boat + 2 fishing boats -- cool nites + days and some rain
+08/14/2009,85 degrees + PC + humid -- 9 mph SW winds -- 77 degrees water temp -- very little rain since last test -- 6 fishermen + 1 water skier
+08/23/2009,67 degrees + sunny -- calm winds -- 2" of rain midweek -- cool nites + days -- 67 degrees water temp -- 6 fishermen
+08/30/2009,56 degrees + PC -- 12 mph N/Ne winds -- .75" rain last 48 hours -- 64 degrees water temp -- only boat on lake
+09/06/2009,77 degrees + PC -- winds 7 mph SE.  No rain in past 9 days.  1 jet ski + 10 fishing boats.  72 degrees water temp.
+05/16/2010,71 degrees- PC + light SE winds; 11 fishing boats; 58.6 degrees water temp
+05/30/2010,83 degrees + PC- 15 mph winds S; 73.8 degrees water temp; 16 boats- mainly fishing
+06/20/2010,81 degrees- clear skies/light breeze; 5 fishing boats- 73.6 degrees water temp -- horrible blue/green surface pollen/algae with a sheen
+06/30/2010,74 degrees and clear skies/light breeze; 6 fishing boats; 73.1 degrees water temp
+07/08/2010,74 degrees + PC; 5 fishing boats; 2 loons!  75 degrees water temp
+07/17/2010,71 degrees + PC; light breeze;  3 fishing boats;  1 loon; 74.2 degrees water temp
+07/25/2010,82 degrees + PC- light breeze; 2 fishing boats; 75.6 water temp
+08/01/2010,75 degrees/ mostly cloudy/ 70 degrees dew point (very humid); winds NW @ 5 mph; 5 fishing boats; 75.4 degrees water temp.  Big storm previous Tuesday
+08/09/2010,78 degrees/cloudy -- 78 degrees dewpoint.  75.7 degrees water temp.  5 fishing boats.  winds NW.  1.5" rain on Saturday nite
+08/22/2010,83 degrees + all sun.  Hot + Humid.  No breeze.  3" rain Friday nite.  4 fishing boats.  77.5 degrees water temp.  Horrible water quality.  Lots of pollen.
+08/26/2010,65 degrees and all sun.  Light breeze.  2 fishing boats. 69.6 degrees water temp
+09/05/2010,66 degrees and bright blue skies.  Light breeze.  10 boats- mostly fishing.  67 degrees water temperature
+06/05/2011,80 degrees- 7 mph winds from S. Partly cloudy- 2 fishing boats. Water ois 71 degrees.
+07/03/2011,84 degrees. Sunny and light. NW winds. 3 fishing boats. 76 degrees water temp.
+07/11/2011,80 deegrees and partly cloudy. NE wind ~12 mph. 77 degrees water temp. 7 fishing boats
+07/19/2011,85 degrees and cloudy - SE winf - 8 mph. A very hot week- some storms 79 degrees water temp. 3 fishing boats
+07/31/2011,81 degrees- partly cloudy- light breeze- 77 water temp. 4 fishing boats
+08/05/2011,83 degrees- partly cloudy- SSW light wind. 79.1 water temp. 2 fishing boats
+08/14/2011,80 degrees- partly cloudy- NE wind- 4 boats - 1 boat tubing. 76 degrees water temp.
+08/21/2011,68 degrees- partly cloudy- NW wind 10 mph. 72 water temp. 2 fishing boats
+07/08/2012,79 degrees- partly cloudy- winds from the North @ 12 mph.  Been a very hot week.  81 degrees water temp.  4 fishing boats.
+07/13/2012,77 degrees- sunny skies.  Winds from West/Southwest @ 11 mph.  79.1 degrees water temp.  2 fishing boats.
+07/21/2012,82 degrees- winds out of the North @ 8 mph.  80 degrees water temp.  2 kayakers.
+08/07/2012,72 degrees with clear blue skies.  Winds out of the North @ 9 mph.  74 degrees water temp.  5 fishing boats.
+06/30/2013,72 f water temp. 5 fishing boats- 1 tuber.
+07/08/2013,4 fishing boats- 77.5 f water temp
+07/18/2013,breezy- SW wind 15-20 MPH- white caps- warm- 1 boat on water- been dry
+Glenn Speich assisted
+Instruction by Sandy Wickman of DNR
+07/20/2013,8 fishing boats- 1 water skier- 77 f water temp- coming off hot week - need rain
+08/01/2013,Water temp 69 f- 3 fishermen
+08/11/2013,Water temp 75 f- 5 fishing boats
+08/20/2013,breezy- SW wind 10-15 MPH- walleye chop(no white caps)- warm no boats on water- been dry
+Glenn Speich and Greg Markle co-data collecters
+05/08/2014,Temperature 65F light west wind 10 MPH light chop on water
+07/04/2014,72.9F- water temp - 77F- 9 mph SW wind- much boat action- tubers- fishing people- pontoons 72.9F water temp- 77F- 9 mph SW wind- much boat action- tubers- fishing people- pontoons
+07/07/2014,Temperature 80F light breeze wind 10 MPH form the West- lapping waves.
+07/20/2014,71F water temp- 80F- wind 9 mph SSW- 6 boats- some fishing- some fun
+07/27/2014,71F water temp- 67F- very cloudy- rain on and off all day- wind N at 17 mph
+08/02/2014,Temperature 70F calm
+08/09/2014,82F and partly cloudy- 1 skier- wind SW at 6 mph
+08/17/2014,Partly cloudy- 75F- wind N at 8 mph- 2 fish boats- water temp 74F
+09/08/2014,Temperature 68F Gusty SW wind 20+ MPH white caps
+
+Note: not sure how straight down the temperature probe went as it was difficult to maintain boat position- sometimes probe seemed to be at an angle and not straight down.
+05/01/2015,Light variable wind- temp in the 60's
+06/25/2015,9 fishermen; 2 pleasure boaters; 72 degrees + partly cloud; wind 6 mph NNE
+06/29/2015,light variable wind- temp in the mid 70's
+07/31/2015,brisk breeze from west at about 15 mph- temp in the 70's- good walleye chop 
+08/15/2015,3 boats; 78 degree water temp; winds SSW @ 8 mph; 81 degrees + partly cloudy
+09/02/2015,light variable breeze cloudy
+05/07/2016,Light breeze NW- 60 degrees and clear
+06/24/2016,Light breeze SW- 80 degrees mostly sunny
+07/16/2016,75 degrees and cloudy- winds WSW @ 8 mph- water temp 73.2 degrees- some skiers- 1 fisherman
+07/26/2016,light breeze 5-7 MPH from W- 75 degrees clear
+08/01/2016,80 degrees- light + variable winds- 1 skier + 1 fisherman.
+08/14/2016,77 degrees + partly cloudy- NW winds @ 8 mph- 76.4 degrees water temperature- 4 fishing boats
+08/30/2016,very light variable breeze- 75 degrees and partly cloudy
+04/22/2017,Sunny- Temp 55-60 F Wind light NW
+05/14/2017,72 degrees- wind SSE @4 mph- water temp 60 degrees
+06/27/2017,Mostly sunny Temp 70 F Wind light W
+07/01/2017,Secchi Depth = 8.0 ft- did not hit bottom
+Lake level = 7.22 feet on staff gauge- assumed "normal" (we inspected the dam- which was essentially clear of debris- and what a surface-water hydrologist such as jrgray would observe as flow being  as expected "on the stage-discharge rating" (if such a relation has been developed for Little Arb outflows). 
+Appearance = 2 (murky)
+Water color = 2 (green)
+Perception = 2
+Air temp 25.5 degrees
+Water temperature surface 22.7 degrees C
+Specific Conductance = 119 micromhos/cm (by jrgray Orion Model 122 s/n 0910176)- I understand there's a field to enter these data but I don't know "where".
+
+07/03/2017,76 degrees- wind S @ 6 mph- 74 degrees water temp -- four boats and a PWC
+07/28/2017,Sunny- temp 75 F- wind light variable 1-3 MPH Sunny Temp 75F Wind light variable 1-3 MPH
+08/12/2017,75 degrees + partly cloudy- winds N @ 7 mph- 72 degrees water temp -- 6 fishing boats
+08/28/2017,Partly sunny Temp 70F Wind Light SE 5-7MPH
+08/29/2017,73 degrees and partly cloudy- winds W @ 5 mph- 73 degrees water temp -- 2 fishing boats
+05/20/2018,67 degrees and clear skies.  Wind South @ 4 mph.  62 degrees water temp.  4 fishing boats. 67 degrees and clear skies.  Wind South @ 4 mph.  62 degrees water temp.  4 fishing boats
+07/06/2018,77 degrees and clear skies.  80 degrees water temp.  Wind South @ 4 mph.  5 fishing boats.
+08/15/2018,80 degrees and partly cloudy.  Calm winds.  79 degrees water temp.  Water was remarkably clear.  2 fishing boats.
+09/18/2018,Used deep hole as station ID (general lake station ID not available in my SWIMS profile)
+
+Zebra Mussel Veliger Tow Sample: very green --Shelby Adler 
+05/02/2019,light ripple- 58.8 F
+06/26/2019,light ripple- 77.9 F- wind 5-7
+07/31/2019,light ripple- 79.5 F
+08/15/2019,windy- lake had 30+ mph winds for two days- 67 F
+
+
+
+
+Start Date,Group Name,Project Name
+09/05/1979,Data Collectors,Migrated from STORET Legacy
+08/06/1990,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/21/1990,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/05/1990,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/02/1990,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/16/1990,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/13/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/20/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/28/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/05/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/12/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/18/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/26/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/02/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/11/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/15/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/23/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/05/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/19/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/03/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/10/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/18/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/25/1991,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/03/1992,Tony Nedbal,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/30/1995,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/26/1995,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/22/1995,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/10/1995,Gary Claus,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/03/2007,Richard Rust,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/31/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/08/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/16/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/23/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/30/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/06/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/20/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/05/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/12/2008,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/11/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/21/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/05/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/13/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/22/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/29/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/06/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/14/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/23/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/30/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/06/2009,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+04/20/2010,Todd Hanke and Sonya Rowe - Onterra- LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+05/16/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/30/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/20/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/24/2010,Eddie Heath - Onterra- LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+06/30/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/08/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/13/2010,Dan Cibulka and Eddie Heath- Onterra LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+07/17/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/25/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/01/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/09/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/18/2010,Tim Hoyman - Onterra- LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+08/22/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/26/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/05/2010,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+10/07/2010,Todd Hanke and Tim Hoyman - Onterra- LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+02/24/2011,Todd Hanke - Onterra- LLC,LITTLE ARBOR VITAE LAKE P + R DISTRICT: Little Arbor Vitae Management Planning Project- Phase 1
+06/05/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/03/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/11/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/19/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/31/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/05/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/14/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/21/2011,Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/08/2012,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/13/2012,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/21/2012,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/07/2012,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/30/2013,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/08/2013,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/18/2013,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/20/2013,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/01/2013,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/11/2013,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/20/2013,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/08/2014,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/18/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/04/2014,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/07/2014,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/20/2014,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/27/2014,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/02/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/02/2014,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/09/2014,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/17/2014,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/08/2014,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/01/2015,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/25/2015,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/29/2015,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/22/2015,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/31/2015,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/15/2015,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/02/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/02/2015,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/07/2016,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/24/2016,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/16/2016,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/26/2016,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/01/2016,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/14/2016,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/30/2016,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+04/22/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+04/22/2017,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/14/2017,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/27/2017,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/01/2017,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/03/2017,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/28/2017,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/12/2017,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/28/2017,William Christensen,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/29/2017,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/14/2018,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/20/2018,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/27/2018,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/06/2018,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/17/2018,Christy Sadowski,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+07/17/2018,Data Collectors,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+07/24/2018,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/15/2018,Gary and Nancy Grapentine,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/16/2018,Christy Sadowski,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+08/28/2018,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+09/18/2018,Catherine Higley,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+09/18/2018,Data Collectors,VILAS COUNTY: LCO-Vilas County Monitoring + Healthy Lakes Program
+05/02/2019,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+05/12/2019,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+06/26/2019,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+07/31/2019,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/15/2019,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/28/2019,Glen Speich,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 
+08/12/2020,Randy Sliga,Citizen Lake Monitoring - Water Quality - Little Arbor Vitae (1545300) Deep Hole 

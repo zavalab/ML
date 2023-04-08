@@ -1,0 +1,825 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+School Section Lake,Waukesha,825000,SE,68,,683251,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/18/1980,6.1,,1.85,7,,51,,50,,,,,
+8191047,06/04/1987,6.5,NO,2,,,50,,,,,,BROWN,
+8189991,06/12/1987,6.5,NO,2,,,50,,,,,,BROWN,
+8189991,07/07/1987,2.5,NO,0.8,,,64,,,,,,BROWN,
+8189991,07/28/1987,3.25,NO,1,,,60,,,,,,BROWN,
+8189991,08/02/1987,3.75,NO,1.1,,,58,,,EVEN WITH SPILLWAY,,,BROWN,
+8189991,09/15/1987,2.25,NO,0.7,,,65,,,2" BELOW SPILLWAY,,,BROWN,
+8189991,09/26/1987,6.25,NO,1.9,,,51,,,1.07,1.07,,BROWN,
+8189991,10/11/1987,7.25,YES,2.2,,,49,,,`1.5" ABOVE SPILLWAY,,,BROWN,
+1,04/12/1988,0.5,,0.2,,,87,,,,,,,
+8189991,04/12/1988,6,NO,1.8,,,51,,,,,,BROWN,
+8189991,04/29/1988,7,YES,2.1,,,49,,,,,,BROWN,
+8189991,05/16/1988,7,NO,2.1,,,49,,,,,,BROWN,
+8189991,06/01/1988,6.5,NO,2,,,50,,,,,,BROWN,
+8189991,06/15/1988,4.5,NO,1.4,,,55,,,,,,BROWN,
+8189991,07/08/1988,3,NO,0.9,,,61,,,LOW,,,BROWN,
+8189991,07/22/1988,2.5,NO,0.8,,,64,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,08/19/1988,2,NO,0.6,,,67,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,09/02/1988,2.5,NO,0.8,,,64,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,10/02/1988,5.5,NO,1.7,,,53,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189991,10/14/1988,7,YES,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,11/01/1988,7.75,YES,2.4,,,48,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8189991,06/18/1989,5,NO,1.5,,,54,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8189991,07/07/1989,5,NO,1.5,,,54,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,07/26/1989,4,NO,1.2,,,57,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8189991,08/12/1989,6,NO,1.8,,,51,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,09/05/1989,5,NO,1.5,,,54,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,09/15/1989,5,NO,1.5,,,54,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,10/09/1989,7,YES,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,11/01/1989,8,YES,2.4,,,47,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,04/13/1990,5.5,NO,1.7,,,53,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189991,06/04/1990,4.5,NO,1.4,,,55,,,,,,BROWN,5-Enjoyment substantially impaired (algae)
+8189991,07/05/1990,6,NO,1.8,,,51,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,07/15/1990,5,NO,1.5,,,54,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,07/30/1990,5.25,NO,1.6,,,53,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,08/30/1990,4.75,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,09/28/1990,5.5,NO,1.7,,,53,,,,,,BROWN,4-Would not swim but boating OK (algae)
+1,11/09/1990,5.25,,1.6,,,53,,,,,,,
+1,04/09/1991,1.5,,0.5,,,71,,,,,,,
+8189991,06/17/1991,6,NO,1.8,,,51,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,07/03/1991,4.75,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,08/09/1991,7,NO,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,08/20/1991,7,NO,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8189991,09/24/1991,8,NO,2.4,,,47,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190996,06/30/1992,6.1,NO,1.9,,,51,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190996,07/10/1992,5.75,NO,1.7,,,52,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190996,07/18/1992,6.25,NO,1.9,,,51,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190996,08/12/1992,5.2,NO,1.6,,,53,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+7000045,08/28/2000,2.5,NO,0.8,22,,52,,58,,,,,4-Would not swim but boating OK (algae)
+7000045,05/08/2001,4.9,NO,1.5,,32,54,55,,,,,,4-Would not swim but boating OK (algae)
+7000045,08/08/2001,3.9,NO,1.2,12,38,56,56,54,,,,BROWN,5-Enjoyment substantially impaired (algae)
+7000045,10/01/2001,4.9,NO,1.5,14,40,54,57,55,,,,,2-Very minor aesthetic problems
+7000045,05/15/2002,5,NO,1.5,,,54,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+7000045,08/02/2002,5.2,NO,1.6,2.03,29,53,54,40,,,,,4-Would not swim but boating OK (algae)
+7000045,04/15/2003,3.6,NO,1.1,,16,57,50,,,,,,3-Enjoyment somewhat impaired (algae)
+7000045,08/11/2003,6.5,NO,2,16.7,29,50,54,56,,,,,3-Enjoyment somewhat impaired (algae)
+7000045,04/13/2004,5.5,NO,1.7,,19,52,51,,,,,,3-Enjoyment somewhat impaired (algae)
+7000045,08/04/2004,3.75,NO,1.1,,23,52,52,,,,,,1-Beautiful, could not be nicer
+7000045,04/18/2005,1.1,NO,0.3,,,59,,,,,,,
+7000045,06/08/2005,9.2,NO,2.8,6.49,25,45,53,49,,,,,2-Very minor aesthetic problems
+7000045,07/11/2005,6.5,NO,2,6.82,26,50,53,49,,,,,1-Beautiful, could not be nicer
+7000045,08/10/2005,5.9,NO,1.8,8.22,30,51,54,51,,,,,1-Beautiful, could not be nicer
+7000045,09/19/2005,5.5,NO,1.7,9.63,32,52,55,52,,,,,1-Beautiful, could not be nicer
+7000105,10/17/2005,,,,,25,,53,,,,,,
+7000045,04/18/2006,6.5,NO,2,,23,49,52,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+7000045,07/17/2006,4,NO,1.2,16.6,31,57,55,56,,,,,1-Beautiful, could not be nicer
+7000045,08/23/2006,4,NO,1.2,14.7,34,57,55,55,,,,,1-Beautiful, could not be nicer
+7000045,09/13/2006,5,NO,1.5,13.4,40,54,57,54,,,,,1-Beautiful, could not be nicer
+7000045,04/17/2007,5.5,NO,1.7,,,53,,,,,,,1-Beautiful, could not be nicer
+16070619,04/17/2007,4.6,NO,1.4,,36,55,56,,,,,,
+21973127,07/25/2007,5.7,NO,1.7,7.54,29,52,54,50,,,,,
+7000045,08/22/2007,,NO,,0.81,20,,51,33,,,,,
+21973127,08/22/2007,5.6,NO,1.7,,,52,,,,,,,
+7000045,09/11/2007,3.6,NO,1.1,26.1,48,59,58,59,,,,,
+21973127,09/11/2007,3.2,NO,1,,,60,,,,,,,
+21973127,04/14/2008,5.6,,1.7,,,52,,,,,,,
+22868590,04/14/2008,5.6,NO,1.7,,30,52,54,,,,,,
+21973127,07/22/2008,2.3,NO,0.7,5.23,66,65,61,47,NORMAL,,CLEAR,BROWN,
+21973127,08/06/2008,3,NO,0.9,8.77,65,62,60,51,NORMAL,,CLEAR,BROWN,
+7000045,08/27/2008,2.8,NO,0.9,23.5,49,62,58,59,,,,,
+27085842,08/27/2008,2.8,NO,0.85,,,62,,,NORMAL,,CLEAR,BROWN,
+7000045,04/14/2009,6.2,NO,1.9,,,51,,,,,,,
+7000045,07/16/2009,4.6,NO,1.4,8.43,37,55,56,51,,,,YELLOW,
+7000045,08/11/2009,5.9,NO,1.8,10.1,34,52,55,52,,,,YELLOW,
+7000045,09/11/2009,5.2,NO,1.6,,,53,,,,,,YELLOW,
+116239351,11/30/2009,,,,,21,,52,,,,,,
+116239351,03/31/2010,,,,,30,,54,,,,,,
+7000045,04/21/2010,4.9,NO,1.5,,23,54,52,,,,,,
+7000045,08/05/2010,3,NO,0.9,38.6,78,62,62,62,,,,,
+7000045,08/24/2010,2.1,NO,0.65,,,66,,,,,,,
+7000045,08/25/2010,2,NO,0.6,24.9,59,67,60,59,,,,,
+7000045,09/08/2010,2.3,NO,0.7,54.6,86,64,63,65,,,,,
+116239351,11/16/2010,,,,,28,,54,,,,,,
+7000045,05/02/2011,1.4,NO,0.4,,32,55,55,,,,,,
+23266616,05/02/2011,4,NO,1.2,,,57,,,,,MURKY,YELLOW,1-Beautiful, could not be nicer
+7000045,07/19/2011,4.3,NO,1.3,13.9,38,56,56,55,,,CLEAR,,
+7000045,08/10/2011,4.3,NO,1.3,16.8,46,56,58,56,,,,,
+32134585,08/10/2011,4.3,NO,1.3,,,56,,,,,MURKY,BROWN,
+23266616,08/11/2011,3,NO,0.9,,,61,,,,,MURKY,BROWN,1-Beautiful, could not be nicer
+7000045,08/31/2011,4.3,NO,1.3,28.3,58,56,60,60,,,MURKY,GREEN,
+116239351,11/15/2011,,,,,21,,52,,,,,,
+116239351,04/17/2012,,,,,23,,52,,,,,,
+7000045,04/26/2012,5.6,NO,1.7,,26,49,53,,,,MURKY,BROWN,1-Beautiful, could not be nicer
+7000045,08/22/2012,4.6,NO,1.4,17.8,37,55,56,57,,,,,
+44439825,08/22/2012,4.6,NO,1.4,,,55,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+7000045,09/05/2012,5.2,NO,1.6,16.2,41,53,57,56,,,,,
+44439825,09/05/2012,5.2,NO,1.6,,,53,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000045,09/19/2012,4.3,NO,1.3,14.4,47,56,58,55,,,,,
+44439825,09/19/2012,2.6,NO,0.8,,,63,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+116239351,11/12/2012,,,,,26,,53,,,,,,
+116239351,04/22/2013,,,,,31,,55,,,,,,
+7000045,05/01/2013,4.9,N,1.5,,32.8,54,55,,,,,,
+7000045,07/29/2013,4.3,N,1.3,30.3,33.2,56,55,61,,,,,
+33543112,07/29/2013,4.08,NO,1.2,,,57,,,,,,,
+7000045,08/21/2013,5.4,NO,1.65,10.1,31.3,52,55,52,,,,,
+7000045,09/24/2013,5.2,NO,1.6,11.2,25.9,53,53,53,,,,,
+116239351,11/18/2013,,,,,24,,53,,,,,,
+116239351,04/29/2014,,,,,28,,54,,,,,,
+7000045,05/20/2014,6.6,N,2,,33.1,50,55,,,,,,
+81537482,05/20/2014,6.2,NO,1.9,,,51,,,,,,,
+7000045,07/15/2014,5.9,N,1.8,2.34,24.8,52,53,41,,,,,
+81537482,07/15/2014,6.6,NO,2,,,50,,,,,,,
+7000045,08/04/2014,5.6,,1.7,9.62,30.2,52,55,52,,,,,
+81537482,08/04/2014,5.4,NO,1.6,,,53,,,,,,,
+7000045,09/16/2014,5.6,NO,1.7,14.8,32.2,52,55,55,,,,,
+81537482,09/16/2014,5.3,NO,1.6,,,53,,,,,,,
+116239351,11/04/2014,,,,,29,,54,,,,,,
+1,04/01/2015,,,,,18,,51,,,,,,
+7000045,05/06/2015,5.2,NO,1.6,,21.9,53,52,,,,,,
+81537482,05/06/2015,5.25,NO,1.6,,,53,,,,,,,
+7000045,07/21/2015,4.9,N,1.5,15.9,31.7,54,55,56,,,,,
+7000045,08/14/2015,6.9,NO,2.1,10.5,30.5,49,55,53,,,,,
+81537482,08/14/2015,6.7,NO,2,,,50,,,,,,,
+7000045,09/03/2015,5.75,NO,1.7,6.84,26.3,51,53,49,,,,,
+1,11/02/2015,,,,,29,,54,,,,,,
+1,03/28/2016,,,,,9,,45,,,,,,
+7000045,04/26/2016,5.9,NO,1.8,,20,52,51,,,,,,
+81537482,04/26/2016,5.97,NO,1.8,,,51,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+7000045,07/26/2016,7.9,NO,2.4,2.44,22.6,47,52,42,,,,,
+81537482,07/26/2016,7.7,NO,2.3,,,48,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+7000045,08/16/2016,5.9,N,1.8,4.24,28.2,52,54,46,,,,,
+81537482,08/16/2016,5.57,NO,1.7,,,52,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000045,09/14/2016,4.9,N,1.5,10.5,30.7,52,55,53,,,MURKY,BROWN,2-Very minor aesthetic problems
+1,11/16/2016,,,,,6,,42,,,,,,
+1,04/03/2017,,,,,25,,53,,,,,,
+7000045,05/03/2017,7.87,N,2.4,,25.8,47,53,,,,,,
+7000045,08/17/2017,5.2,N,1.6,14.3,33.6,53,55,55,,,,,
+7000045,09/06/2017,5.41,N,1.6,10,29.5,30,54,52,,,,,
+7000045,09/19/2017,6.2,N,1.9,10.8,25.4,50,53,53,,,,,
+1,04/02/2018,,,,,27,,54,,,,,,
+7000045,07/30/2019,1.8,NO,0.5,29.9,40,52,57,60,,,,,2-Very minor aesthetic problems
+7000045,08/12/2019,2,NO,0.6,11.2,34.6,49,56,53,,,,BROWN,
+7000045,09/04/2019,4.9,NO,1.5,13.6,28.8,54,54,55,,,,BROWN,
+170104196,07/28/2020,5.9,NO,1.8,,,52,,,,,,,
+241090474,07/28/2020,5.9,NO,1.8,,26,52,53,,,,,,
+7000045,08/12/2020,7.9,NO,2.4,5.97,24.5,47,53,48,,,,,
+251891113,08/12/2020,7.87,NO,2.4,,,47,,,,,,,
+7000045,09/03/2020,4.3,NO,1.3,10.7,30.2,56,55,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/28/2000,1,FEET,24.49,DEGREES C,8.17,MG/L
+08/28/2000,3,FEET,24.32,DEGREES C,8.01,MG/L
+08/28/2000,6,FEET,23.6,DEGREES C,5.32,MG/L
+08/28/2000,,,18.0,C,6.7,MG/L
+05/08/2001,1,FEET,16.06,DEGREES C,8.9,MG/L
+05/08/2001,3,FEET,16.04,DEGREES C,8.78,MG/L
+05/08/2001,6,FEET,16.02,DEGREES C,8.76,MG/L
+05/08/2001,9,FEET,15.99,DEGREES C,8.74,MG/L
+05/08/2001,,,16.1,C,8.9,MG/L
+08/08/2001,1,FEET,30.69,DEGREES C,9.47,MG/L
+08/08/2001,3,FEET,30.59,DEGREES C,9.5,MG/L
+08/08/2001,6,FEET,30.14,DEGREES C,9.24,MG/L
+08/08/2001,,,28.4,C,8.8,MG/L
+10/01/2001,1,FEET,15.62,DEGREES C,11.52,MG/L
+10/01/2001,3,FEET,15.55,DEGREES C,11.56,MG/L
+10/01/2001,6,FEET,15.5,DEGREES C,11.55,MG/L
+10/01/2001,9,FEET,14.59,DEGREES C,10.36,MG/L
+10/01/2001,12,FEET,13.61,DEGREES C,9.39,MG/L
+10/01/2001,,,15.6,C,11.5,MG/L
+05/15/2002,3,FEET,12.67,DEGREES C,11.43,MG/L
+08/02/2002,-6,FEET,,,7.8,MG/L
+08/02/2002,1,FEET,27.16,DEGREES C,7.75,MG/L
+08/02/2002,3,FEET,27.59,DEGREES C,7.86,MG/L
+08/02/2002,6,FEET,27.5,DEGREES C,7.86,MG/L
+08/02/2002,9,FEET,27.12,DEGREES C,7.86,MG/L
+08/02/2002,12,FEET,22.73,DEGREES C,1.34,MG/L
+08/02/2002,,,27.6,C,7.8,MG/L
+04/15/2003,1,FEET,,,14.3,MG/L
+04/15/2003,3,FEET,12.87,DEGREES C,14.3,MG/L
+04/15/2003,6,FEET,12.85,DEGREES C,14.49,MG/L
+04/15/2003,9,FEET,12.3,DEGREES C,14.7,MG/L
+04/15/2003,,,12.9,C,14.3,MG/L
+08/11/2003,1,FEET,25.17,DEGREES C,8.94,MG/L
+08/11/2003,3,FEET,25.16,DEGREES C,8.96,MG/L
+08/11/2003,6,FEET,25.18,DEGREES C,8.9,MG/L
+08/11/2003,9,FEET,25.14,DEGREES C,8.66,MG/L
+08/11/2003,,,25.2,C,9.0,MG/L
+04/13/2004,1,FEET,,,13.7,MG/L
+04/13/2004,3,FEET,8.47,DEGREES C,13.7,MG/L
+04/13/2004,6,FEET,8.42,DEGREES C,13.73,MG/L
+04/13/2004,9,FEET,8.34,DEGREES C,13.77,MG/L
+04/13/2004,12,FEET,8.27,DEGREES C,13.7,MG/L
+04/13/2004,15,FEET,8.24,DEGREES C,13.72,MG/L
+04/13/2004,,,8.5,C,13.7,MG/L
+08/04/2004,3,FEET,24.7,DEGREES C,9,MG/L
+08/04/2004,6,FEET,24.5,DEGREES C,9.11,MG/L
+08/04/2004,9,FEET,21.19,DEGREES C,3.18,MG/L
+08/04/2004,12,FEET,18.35,DEGREES C,.94,MG/L
+08/04/2004,,,24.7,C,9.0,MG/L
+04/18/2005,3,FEET,15.5,DEGREES C,7.98,MG/L
+04/18/2005,6,FEET,13.8,DEGREES C,6.54,MG/L
+04/18/2005,9,FEET,10.8,DEGREES C,6.07,MG/L
+04/18/2005,,,15.5,C,8.0,MG/L
+06/08/2005,3,FEET,25.35,DEGREES C,5.84,MG/L
+06/08/2005,6,FEET,25.33,DEGREES C,5.92,MG/L
+06/08/2005,9,FEET,18.3,DEGREES C,6.35,MG/L
+06/08/2005,12,FEET,14.95,DEGREES C,3.57,MG/L
+06/08/2005,,,25.4,C,5.8,MG/L
+07/11/2005,3,FEET,27.25,DEGREES C,6.39,MG/L
+07/11/2005,6,FEET,25.62,DEGREES C,6.69,MG/L
+07/11/2005,9,FEET,23.76,DEGREES C,5.28,MG/L
+07/11/2005,12,FEET,20.22,DEGREES C,.22,MG/L
+07/11/2005,,,27.3,C,6.4,MG/L
+08/10/2005,3,FEET,27.81,DEGREES C,7.82,MG/L
+08/10/2005,6,FEET,27.74,DEGREES C,7.48,MG/L
+08/10/2005,9,FEET,25.93,DEGREES C,5.26,MG/L
+08/10/2005,12,FEET,22.73,DEGREES C,.4,MG/L
+08/10/2005,,,27.8,C,7.8,MG/L
+09/19/2005,3,FEET,21.83,DEGREES C,5.42,MG/L
+09/19/2005,6,FEET,21.82,DEGREES C,5.34,MG/L
+09/19/2005,9,FEET,21.75,DEGREES C,5.18,MG/L
+09/19/2005,,,21.8,C,5.4,MG/L
+04/18/2006,3,FEET,13.28,DEGREES C,9.87,MG/L
+04/18/2006,6,FEET,13.15,DEGREES C,9.78,MG/L
+04/18/2006,9,FEET,13.02,DEGREES C,9.48,MG/L
+04/18/2006,12,FEET,12.62,DEGREES C,9.15,MG/L
+04/18/2006,15,FEET,11.23,DEGREES C,.41,MG/L
+04/18/2006,,,13.3,C,9.9,MG/L
+07/17/2006,3,FEET,28.38,DEGREES C,8.76,MG/L
+07/17/2006,6,FEET,28.29,DEGREES C,8.22,MG/L
+08/23/2006,3,FEET,24.69,DEGREES C,9.01,MG/L
+08/23/2006,6,FEET,24.32,DEGREES C,7.46,MG/L
+08/23/2006,9,FEET,23.34,DEGREES C,4.36,MG/L
+08/23/2006,12,FEET,21.58,DEGREES C,1.01,MG/L
+09/13/2006,3,FEET,17.96,DEGREES C,6.74,MG/L
+09/13/2006,6,FEET,17.95,DEGREES C,6.63,MG/L
+09/13/2006,9,FEET,17.89,DEGREES C,6.21,MG/L
+09/13/2006,12,FEET,17.32,DEGREES C,5.28,MG/L
+04/17/2007,3,FEET,9.49,DEGREES C,13.91,MG/L
+04/17/2007,6,FEET,9.37,DEGREES C,13.9,MG/L
+04/17/2007,9,FEET,8.51,DEGREES C,14.1,MG/L
+04/17/2007,12,FEET,7.49,DEGREES C,13.54,MG/L
+04/17/2007,,,9.5,C,13.9,MG/L
+07/25/2007,3,FEET,25.9,DEGREES C,9,MG/L
+07/25/2007,6,FEET,25.9,DEGREES C,9,MG/L
+07/25/2007,9,FEET,24.1,DEGREES C,4.6,MG/L
+07/25/2007,12,FEET,22.7,DEGREES C,.15,MG/L
+07/25/2007,,,25.9,C,9.0,MG/L
+08/22/2007,3,FEET,21.9,DEGREES C,7.6,MG/L
+08/22/2007,6,FEET,21.6,DEGREES C,6.9,MG/L
+08/22/2007,9,FEET,19.4,DEGREES C,3,MG/L
+08/22/2007,12,FEET,18.8,DEGREES C,2.5,MG/L
+08/22/2007,,,21.9,C,7.6,MG/L
+09/11/2007,3,FEET,19.9,DEGREES C,6.8,MG/L
+09/11/2007,6,FEET,19.9,DEGREES C,6.6,MG/L
+09/11/2007,9,FEET,19.9,DEGREES C,6.6,MG/L
+09/11/2007,12,FEET,19.3,DEGREES C,5.9,MG/L
+09/11/2007,,,19.9,C,6.8,MG/L
+04/14/2008,3,FEET,6.77,DEGREES C,11.84,MG/L
+04/14/2008,6,FEET,6.31,DEGREES C,11.47,MG/L
+04/14/2008,9,FEET,6.12,DEGREES C,11.11,MG/L
+04/14/2008,12,FEET,5.98,DEGREES C,10.77,MG/L
+04/14/2008,,,6.8,C,11.8,MG/L
+07/22/2008,3,FEET,27,DEGREES C,9.85,MG/L
+07/22/2008,6,FEET,24.33,DEGREES C,1.79,MG/L
+07/22/2008,9,FEET,21.35,DEGREES C,.21,MG/L
+07/22/2008,12,FEET,18.79,DEGREES C,.16,MG/L
+07/22/2008,,,27.0,C,9.8,MG/L
+08/06/2008,3,FEET,26.31,DEGREES C,11.7,MG/L
+08/06/2008,6,FEET,25.56,DEGREES C,8.56,MG/L
+08/06/2008,9,FEET,22.22,DEGREES C,.55,MG/L
+08/06/2008,12,FEET,19.3,DEGREES C,.21,MG/L
+08/06/2008,,,26.3,C,11.7,MG/L
+08/27/2008,3,FEET,22.9,DEGREES C,8.72,MG/L
+08/27/2008,6,FEET,22.53,DEGREES C,7.65,MG/L
+08/27/2008,9,FEET,22.42,DEGREES C,5.85,MG/L
+08/27/2008,12,FEET,20.48,DEGREES C,2.02,MG/L
+08/27/2008,,,22.9,C,8.7,MG/L
+04/14/2009,3,FEET,7.75,DEGREES C,11.64,MG/L
+04/14/2009,6,FEET,7.74,DEGREES C,11.66,MG/L
+04/14/2009,9,FEET,7.59,DEGREES C,11.57,MG/L
+04/14/2009,,,7.8,C,11.6,MG/L
+07/16/2009,3,FEET,23.97,DEGREES C,8.66,MG/L
+07/16/2009,6,FEET,23.96,DEGREES C,8.64,MG/L
+07/16/2009,9,FEET,23.95,DEGREES C,8.61,MG/L
+07/16/2009,12,FEET,20.24,DEGREES C,.64,MG/L
+07/16/2009,,,24.0,C,8.7,MG/L
+08/11/2009,3,FEET,25.06,DEGREES C,9.3,MG/L
+08/11/2009,6,FEET,24.5,DEGREES C,8.28,MG/L
+08/11/2009,9,FEET,23.61,DEGREES C,65.3,MG/L
+08/11/2009,12,FEET,22.63,DEGREES C,.7,MG/L
+08/11/2009,15,FEET,21.28,DEGREES C,.16,MG/L
+08/11/2009,,,25.1,C,9.3,MG/L
+09/11/2009,3,FEET,22.63,DEGREES C,11.26,MG/L
+09/11/2009,6,FEET,21.76,DEGREES C,11.36,MG/L
+09/11/2009,9,FEET,20.26,DEGREES C,11.71,MG/L
+09/11/2009,12,FEET,19.09,DEGREES C,.78,MG/L
+09/11/2009,15,FEET,18.69,DEGREES C,.37,MG/L
+09/11/2009,,,22.6,C,11.3,MG/L
+04/21/2010,3,FEET,14.96,DEGREES C,15.47,MG/L
+04/21/2010,6,FEET,13.99,DEGREES C,12.54,MG/L
+04/21/2010,9,FEET,13.14,DEGREES C,12.81,MG/L
+04/21/2010,12,FEET,12.85,DEGREES C,12.62,MG/L
+04/21/2010,15,FEET,12.23,DEGREES C,.44,MG/L
+04/21/2010,,,15.0,C,15.5,MG/L
+08/05/2010,3,FEET,25.77,DEGREES C,12.3,MG/L
+08/05/2010,6,FEET,22.63,DEGREES C,5.22,MG/L
+08/05/2010,9,FEET,19.82,DEGREES C,.52,MG/L
+08/05/2010,12,FEET,18.56,DEGREES C,.29,MG/L
+08/05/2010,15,FEET,17.2,DEGREES C,.19,MG/L
+08/05/2010,,,25.8,C,12.3,MG/L
+08/24/2010,3,FEET,26.35,DEGREES C,15.3,MG/L
+08/24/2010,6,FEET,23.7,DEGREES C,6.3,MG/L
+08/24/2010,9,FEET,21.65,DEGREES C,.42,MG/L
+08/24/2010,12,FEET,19.9,DEGREES C,.25,MG/L
+08/24/2010,15,FEET,18.33,DEGREES C,.17,MG/L
+08/25/2010,,,26.4,C,15.3,MG/L
+09/08/2010,3,FEET,17.84,DEGREES C,10.99,MG/L
+09/08/2010,6,FEET,17.76,DEGREES C,10.91,MG/L
+09/08/2010,9,FEET,17.75,DEGREES C,11.74,MG/L
+09/08/2010,12,FEET,17.34,DEGREES C,10.64,MG/L
+09/08/2010,15,FEET,16.87,DEGREES C,9.78,MG/L
+09/08/2010,,,17.8,C,11.0,MG/L
+05/02/2011,0,FEET,7.42,DEGREES C,9.95,MG/L
+05/02/2011,3,FEET,13.96,DEGREES C,12.03,MG/L
+05/02/2011,6,FEET,13.63,DEGREES C,11.97,MG/L
+05/02/2011,9,FEET,13.54,DEGREES C,11.8,MG/L
+05/02/2011,12,FEET,13.36,DEGREES C,11.59,MG/L
+05/02/2011,15,FEET,7.41,DEGREES C,9.17,MG/L
+05/02/2011,18,FEET,7.36,DEGREES C,8.98,MG/L
+05/02/2011,21,FEET,7.16,DEGREES C,8.43,MG/L
+05/02/2011,24,FEET,5.69,DEGREES C,5.41,MG/L
+05/02/2011,27,FEET,5.25,DEGREES C,4.48,MG/L
+05/02/2011,30,FEET,5.22,DEGREES C,3.23,MG/L
+05/02/2011,,,14.0,C,12.0,MG/L
+07/19/2011,3,FEET,29.04,DEGREES C,10.56,MG/L
+07/19/2011,6,FEET,27.73,DEGREES C,9.25,MG/L
+07/19/2011,9,FEET,24.48,DEGREES C,4.34,MG/L
+07/19/2011,12,FEET,21.19,DEGREES C,.65,MG/L
+07/19/2011,,,29.0,C,10.6,MG/L
+08/10/2011,3,FEET,25.75,DEGREES C,7.96,MG/L
+08/10/2011,6,FEET,25.35,DEGREES C,7.53,MG/L
+08/10/2011,9,FEET,24.92,DEGREES C,6.53,MG/L
+08/10/2011,12,FEET,23.33,DEGREES C,.15,MG/L
+08/10/2011,,,25.8,C,8.0,MG/L
+08/11/2011,0,FEET,25.1,DEGREES C,9.36,MG/L
+08/11/2011,3,FEET,24.64,DEGREES C,9,MG/L
+08/11/2011,6,FEET,22.5,DEGREES C,2.55,MG/L
+08/11/2011,9,FEET,13.75,DEGREES C,1.1,MG/L
+08/11/2011,12,FEET,9.58,DEGREES C,.55,MG/L
+08/11/2011,15,FEET,7.61,DEGREES C,.24,MG/L
+08/31/2011,3,FEET,24.55,DEGREES C,9.34,MG/L
+08/31/2011,6,FEET,23.58,DEGREES C,8.72,MG/L
+08/31/2011,9,FEET,23.04,DEGREES C,7.05,MG/L
+08/31/2011,12,FEET,22.67,DEGREES C,6.94,MG/L
+08/31/2011,,,24.6,C,9.3,MG/L
+04/26/2012,3,FEET,12.65,DEGREES C,10.66,MG/L
+04/26/2012,6,FEET,12.66,DEGREES C,10.64,MG/L
+04/26/2012,9,FEET,12.63,DEGREES C,10.62,MG/L
+04/26/2012,12,FEET,12.61,DEGREES C,10.54,MG/L
+04/26/2012,,,12.7,C,10.7,MG/L
+08/22/2012,0,FEET,22.87,DEGREES C,,
+08/22/2012,3,FEET,22.86,DEGREES C,,
+08/22/2012,6,FEET,22.73,DEGREES C,,
+08/22/2012,9,FEET,22.1,DEGREES C,,
+08/22/2012,12,FEET,21.73,DEGREES C,,
+08/22/2012,,,22.9,C,,
+09/05/2012,0,FEET,22.11,DEGREES C,9.08,MG/L
+09/05/2012,3,FEET,25.12,DEGREES C,8.61,MG/L
+09/05/2012,6,FEET,25.02,DEGREES C,8.48,MG/L
+09/05/2012,9,FEET,24.34,DEGREES C,5.96,MG/L
+09/05/2012,12,FEET,23.47,DEGREES C,1.18,MG/L
+09/05/2012,,,22.1,C,9.1,MG/L
+09/19/2012,0,FEET,16.97,DEGREES C,12.27,MG/L
+09/19/2012,3,FEET,16.99,DEGREES C,9.95,MG/L
+09/19/2012,6,FEET,17,DEGREES C,10.04,MG/L
+09/19/2012,9,FEET,16.9,DEGREES C,9.88,MG/L
+09/19/2012,12,FEET,16.65,DEGREES C,7.75,MG/L
+09/19/2012,,,17.0,C,9.9,MG/L
+05/01/2013,3,FEET,17.94,DEGREES C,,
+05/01/2013,6,FEET,17.76,DEGREES C,,
+05/01/2013,9,FEET,16.34,DEGREES C,,
+05/01/2013,12,FEET,12.18,DEGREES C,,
+05/01/2013,,,17.9,C,,
+07/29/2013,3,FEET,20.9,DEGREES C,,
+07/29/2013,6,FEET,20,DEGREES C,,
+07/29/2013,9,FEET,19,DEGREES C,,
+07/29/2013,12,FEET,16.8,DEGREES C,,
+07/29/2013,,,20.9,C,,
+08/21/2013,3,FEET,24.62,DEGREES C,9.76,MG/L
+08/21/2013,6,FEET,24.44,DEGREES C,9.71,MG/L
+08/21/2013,9,FEET,19.63,DEGREES C,1.17,MG/L
+08/21/2013,12,FEET,17.44,DEGREES C,0,MG/L
+08/21/2013,,,24.62,C,9.76,MG/L
+09/24/2013,3,FEET,18.49,DEGREES C,,
+09/24/2013,6,FEET,17.96,DEGREES C,,
+09/24/2013,9,FEET,17.54,DEGREES C,,
+09/24/2013,12,FEET,17.25,DEGREES C,,
+09/24/2013,,,18.5,C,,
+05/20/2014,3,FEET,18.03,DEGREES C,8.68,MG/L
+05/20/2014,6,FEET,16.22,DEGREES C,8.17,MG/L
+05/20/2014,9,FEET,14.1,DEGREES C,6.99,MG/L
+05/20/2014,12,FEET,12.82,DEGREES C,5.85,MG/L
+05/20/2014,,,18.0,C,8.7,MG/L
+07/15/2014,3,FEET,22.9,DEGREES C,7.94,MG/L
+07/15/2014,6,FEET,22.87,DEGREES C,7.83,MG/L
+07/15/2014,9,FEET,21.9,DEGREES C,3.31,MG/L
+07/15/2014,12,FEET,20.53,DEGREES C,1.14,MG/L
+07/15/2014,,,22.9,C,7.9,MG/L
+08/04/2014,3,FEET,25.44,DEGREES C,8.8,MG/L
+08/04/2014,6,FEET,24.4,DEGREES C,8.27,MG/L
+08/04/2014,9,FEET,22.44,DEGREES C,2.94,MG/L
+08/04/2014,12,FEET,21.1,DEGREES C,.72,MG/L
+08/04/2014,,,25.4,C,8.8,MG/L
+09/16/2014,3,FEET,15.77,DEGREES C,8.14,MG/L
+09/16/2014,6,FEET,15.44,DEGREES C,8.28,MG/L
+09/16/2014,9,FEET,14.87,DEGREES C,7.42,MG/L
+09/16/2014,12,FEET,14.6,DEGREES C,7.35,MG/L
+09/16/2014,,,15.8,C,8.1,MG/L
+05/06/2015,3,FEET,16.38,DEGREES C,10.25,MG/L
+05/06/2015,6,FEET,16.4,DEGREES C,10.33,MG/L
+05/06/2015,9,FEET,13.91,DEGREES C,11.12,MG/L
+05/06/2015,12,FEET,11.3,DEGREES C,7.33,MG/L
+05/06/2015,15,FEET,10.34,DEGREES C,0,MG/L
+05/06/2015,,,16.4,C,10.3,MG/L
+07/21/2015,3,FEET,25.6,DEGREES C,8.01,MG/L
+07/21/2015,6,FEET,25.4,DEGREES C,8,MG/L
+07/21/2015,9,FEET,24.1,DEGREES C,4.34,MG/L
+07/21/2015,12,FEET,22.33,DEGREES C,1.15,MG/L
+07/21/2015,14,FEET,19.95,DEGREES C,0,MG/L
+07/21/2015,,,25.6,C,8.0,MG/L
+08/14/2015,3,FEET,25.59,DEGREES C,8.55,MG/L
+08/14/2015,6,FEET,25.42,DEGREES C,8.32,MG/L
+08/14/2015,9,FEET,24.71,DEGREES C,4.25,MG/L
+08/14/2015,12,FEET,23.25,DEGREES C,0,MG/L
+08/14/2015,,,25.59,C,8.55,MG/L
+09/03/2015,3,FEET,25.87,DEGREES C,8.42,MG/L
+09/03/2015,6,FEET,21.54,DEGREES C,8.8,MG/L
+09/03/2015,9,FEET,20.04,DEGREES C,5.9,MG/L
+09/03/2015,12,FEET,19.68,DEGREES C,2.7,MG/L
+09/03/2015,,,25.9,C,8.4,MG/L
+04/26/2016,3,FEET,16.06,DEGREES C,11.13,MG/L
+04/26/2016,6,FEET,15.8,DEGREES C,11,MG/L
+04/26/2016,9,FEET,11.18,DEGREES C,13.78,MG/L
+04/26/2016,12,FEET,9.51,DEGREES C,11.46,MG/L
+04/26/2016,,,16.06,C,11.13,MG/L
+07/26/2016,3,FEET,29.4,DEGREES C,8.72,MG/L
+07/26/2016,6,FEET,28.41,DEGREES C,7.72,MG/L
+07/26/2016,9,FEET,26.61,DEGREES C,2.58,MG/L
+07/26/2016,11,FEET,24.56,DEGREES C,0,MG/L
+07/26/2016,,,29.4,C,8.7,MG/L
+08/16/2016,3,FEET,28.25,DEGREES C,7.94,MG/L
+08/16/2016,6,FEET,27.1,DEGREES C,8.24,MG/L
+08/16/2016,9,FEET,26.2,DEGREES C,3.4,MG/L
+08/16/2016,12,FEET,25.47,DEGREES C,0,MG/L
+08/16/2016,,,28.3,C,7.9,MG/L
+09/14/2016,3,FEET,22.83,DEGREES C,6.68,MG/L
+09/14/2016,6,FEET,22.33,DEGREES C,6.65,MG/L
+09/14/2016,9,FEET,21.84,DEGREES C,5.59,MG/L
+09/14/2016,12,FEET,21.63,DEGREES C,5.64,MG/L
+09/14/2016,,,22.8,C,6.7,MG/L
+05/03/2017,3,FEET,11.01,DEGREES C,9.91,MG/L
+05/03/2017,6,FEET,10.24,DEGREES C,10.03,MG/L
+05/03/2017,9,FEET,9.81,DEGREES C,10.02,MG/L
+05/03/2017,12,FEET,9.62,DEGREES C,10.05,MG/L
+05/03/2017,,,11.0,C,9.9,MG/L
+08/17/2017,3,FEET,24.24,DEGREES C,9.36,MG/L
+08/17/2017,6,FEET,24.08,DEGREES C,8.95,MG/L
+08/17/2017,9,FEET,20.02,DEGREES C,7.2,MG/L
+08/17/2017,12,FEET,18.95,DEGREES C,0,MG/L
+08/17/2017,,,24.2,C,9.4,MG/L
+09/06/2017,3,FEET,18.7,DEGREES C,8.03,MG/L
+09/06/2017,6,FEET,18.68,DEGREES C,7.94,MG/L
+09/06/2017,9,FEET,18.57,DEGREES C,7.78,MG/L
+09/06/2017,12,FEET,17.75,DEGREES C,6.92,MG/L
+09/06/2017,,,18.7,C,8.0,MG/L
+09/19/2017,3,FEET,22.83,DEGREES C,10.75,MG/L
+09/19/2017,6,FEET,21.35,DEGREES C,10.14,MG/L
+09/19/2017,9,FEET,18.66,DEGREES C,6.87,MG/L
+09/19/2017,12,FEET,18.04,DEGREES C,2.75,MG/L
+09/19/2017,,,22.8,C,10.8,MG/L
+07/30/2019,3,FEET,26.77,DEGREES C,9.6,MG/L
+07/30/2019,6,FEET,26.14,DEGREES C,8.07,MG/L
+07/30/2019,9,FEET,24.28,DEGREES C,.4,MG/L
+07/30/2019,12,FEET,20.02,DEGREES C,.05,MG/L
+07/30/2019,,,8.1,C,9.6,MG/L
+08/12/2019,3,METERS,26.35,DEGREES C,9.18,MG/L
+08/12/2019,6,METERS,25.43,DEGREES C,7.23,MG/L
+08/12/2019,9,METERS,24,DEGREES C,3.68,MG/L
+08/12/2019,12,METERS,21.55,DEGREES C,0,MG/L
+08/12/2019,,,25.4,C,7.2,MG/L
+09/04/2019,3,METERS,21.55,DEGREES C,8.25,MG/L
+09/04/2019,6,METERS,21.42,DEGREES C,8.28,MG/L
+09/04/2019,9,METERS,21.14,DEGREES C,7.64,MG/L
+09/04/2019,12,METERS,20.82,DEGREES C,0,MG/L
+09/04/2019,,,21.6,C,8.3,MG/L
+07/28/2020,3,FEET,27.07,DEGREES C,9.46,MG/L
+07/28/2020,6,FEET,26.74,DEGREES C,8.79,MG/L
+07/28/2020,9,FEET,23.02,DEGREES C,.97,MG/L
+07/28/2020,12,FEET,20.57,DEGREES C,0,MG/L
+07/28/2020,,,27.1,C,9.5,MG/L
+08/12/2020,3,FEET,25.61,DEGREES C,9.2,MG/L
+08/12/2020,6,FEET,24.8,DEGREES C,7.82,MG/L
+08/12/2020,9,FEET,23.09,DEGREES C,3.55,MG/L
+08/12/2020,12,FEET,21.48,DEGREES C,1.73,MG/L
+08/12/2020,,,25.6,C,9.2,MG/L
+09/03/2020,,,22.9,C,7.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/18/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/04/1987,Sunny and heavy pondweed growth.    
+06/12/1987,Sunny- breezy- and weeds present but not as many as a couple of weeks ago in this area.    
+07/07/1987,Sunny- last rain 2" on 8/6/1987- partly sunny- slight breeze- heavy rainfall 12 hours earlier- and slight weed growth.    
+07/28/1987,Partly sunny and warm. There is no obvious algae.    
+08/02/1987,Sunny- hot- little boat traffic.- no visible weeds in the area.    
+09/15/1987,Warm- partly cloudy- little boat traffic.    
+09/26/1987,Clear- sunny- few boats- water has been very green for past 3 weeks.    
+10/11/1987,Clear- warm- 2" rain on 8/14/87.- sunny- breezy- no weeds.    
+04/12/1988,Sunny- breeze- weeds starting to grow near the bottom.    
+04/29/1988,Sunny- breeze- weed growth becoming heavy- hard to make accurate readings because disc gets lost in the weeds.    
+05/16/1988,Sunny- slight breeze- 65 F- heavy- heavy weed growth mostly in deeper section of the lake.    
+06/01/1988,Sunny- breezy- heavy weed growth    
+06/15/1988,Partly cloudy- warm- windy- weeds disappearing in deeper section of lake- but clarity not better{    
+07/08/1988,Clear- very warm- weeds gone in deeper section- weeds in shallower water    
+07/22/1988,Sunny- partly cloudy- very brown water    
+08/19/1988,Pt. cloudy- shallower parts of lake v. weedy- water murky    
+09/02/1988,Fairly breezy- pt. sunny- still low water visibility    
+10/02/1988,Windy- partly sunny- rain on previous day    
+10/14/1988,Windy- sunny    
+11/01/1988,Sunny- calm- water clear- fall turnover complete- ice starting to form on lake- water sample taken    
+06/18/1989,Sunny- massive amts. of weeds in area for past 4 weeks. have disappeared    
+07/07/1989,Sunny- need rain- lake level dropping- weeds increasing    
+07/26/1989,Calm- sunny- lots of weeds- (none in sample area) - no time entered in data- assumed noon    
+08/12/1989,Sunny- calm- recent rain- small chunks of green in water    
+09/05/1989,Overcast- calm- recent rains    
+09/15/1989,Sunny- clear    
+10/09/1989,Windy- sunny- 45 F- no weeds in sample area    
+11/01/1989,Partly cloudy- 40 F    
+04/13/1990,Sunny- breezy    
+06/04/1990,Lots of weeds- sunny- breezy- very windy day before    
+07/05/1990,Sunny- breezy- weeds dying in deeper section of lake    
+07/15/1990,Cloudy- NE breeze- rain night before- deep weeds still dying    
+07/30/1990,Sunny- NE breeze- heavy rains day before- weeds dead in deep areas    
+08/30/1990,Sunny- SE breeze- some weeds in deep areas    
+09/28/1990,Cloudy- weeds gone- slight. breeze- a little rain earlier    
+06/17/1991,Sunny- calm- weedy- but the best in years    
+07/03/1991,Windy- sunny- rain the day before- few weeds in deep sections    
+08/09/1991,Cloudy- breezy- cool- best august reading ever    
+08/20/1991,Sunny- breezy    
+09/24/1991,Cloudy- calm- lake weeds above water turning brown    
+06/30/1992,Water level: very low.    
+07/18/1992,Algae is getting worse.    
+08/28/2000,INTEGRATED WATER COLUMN 0-5 FT     
+05/08/2001,DEEP SPOT @ 9.3FT     
+08/08/2001,MIDDLE OF LAKE- INTEGRATED WATER COLUMN     
+10/01/2001,DEEP SPOT @ 14FT- INTEGRATED WATER COLUMN     
+08/02/2002,DEEP SPOT @ 12FT- INTEGRATED WATER COLUMN     
+04/15/2003,DEEP SPOT @ 12FT     
+08/11/2003,DEEP SPOT @ 12FT- S SIDE OF LAKE     
+04/13/2004,DEEP SPOT @ 15.2FT     
+08/04/2004,DEEP SPOT @ 13FT     
+04/18/2005,DEEP SPOT @ 16FT - INTEGRATED WATER COLUMN      
+06/08/2005,DEEP SPOT @ 14FT     
+07/11/2005,DEEP SPOT @ 14FT     
+08/10/2005,DEEP SPOT @ 13FT - INTEGRATED WATER COLUMN     
+09/19/2005,DEEP SPOT @ 14FT - INTEGRATED WATER COLUMN     
+10/17/2005,DEEP HOLE    
+07/17/2006,DEEP HOLE - INTEGRATED WATER COLUMN     
+08/23/2006,DEEP HOLE - INTEGRATED WATER COLUMN     
+09/13/2006,DEEP HOLE - INTEGRATED WATER COLUMN     
+07/25/2007,Cloud cover 50%.  Wind speed 5-10 mph.  Custer color strip: D3.  Site depth: 14 ft.  pH at 1 meter: 8.4.  Algae development: not apparent. 
+07/22/2008,Tannin and runoff staining
+08/06/2008,95%CC 
+Wind: 5 from NE 90%CC
+Wind: 5 from NW 
+08/27/2008,5%CC Sunny
+calm
+04/14/2009,100% CC 
+07/16/2009,20% CC 
+08/11/2009,20% CC 
+09/11/2009,5% CC 
+04/21/2010,Clear and sunny ~55 degrees F.
+Very tannin stained.
+08/05/2010,A lot of brown stain and suspended sediment. TANNIN STAINING PREVALENT. 
+Cloud cover ~30%- Windy
+08/24/2010,Brown stained water- brown suspended particles. Cloud cover ~70%- Sunny.
+09/08/2010,Cloud cover ~70%- partly sunny
+05/02/2011,100% cloud cover- cold and windy.
+05/02/2011,Bunk / B. Hartsook.  Surveyor 4a  Sande 5.
+07/19/2011,Bunk / Lyon.  Hydrolab  Surveyor 4a  Sande 5.  Tannin very apparent.
+08/10/2011,Hydrolab Surveyor 4a Sande 5.  Harvestor out.  Tannin stain.
+08/11/2011,Breezy- sunny. wind 5-10 mph.
+08/31/2011,Bunk / Manthei.  Hydrolab Surveyor 4a Sande 5.
+04/26/2012,Add. Helper: Rachel Sabre
+08/22/2012,Add. Helper: Jim Steinke
+Dissolved Oxygen meter was broken.
+09/05/2012,Add. Helper: Andrew Notbohm
+09/19/2012,Add. Helper: Andrew Notbohm
+PH meter was broken
+05/20/2014,Water is very tannin stained
+09/16/2014,Air temp 64 F by Kestrel 2000
+Water was very tannin stained- had a color of brown - yellow/brown
+05/06/2015,Kestrel hand meter - Temp @ 55.7 F
+Light rain while sampling
+07/21/2015,Depth recorded at 14.6 ft
+Kestrel hand meter - 73 F air temp
+08/14/2015,Site depth 14 ft
+Water quite turbid
+
+09/03/2015,Site depth measured at 14 ft
+
+Observed with Aaron Larson
+04/26/2016,Site depth 14.9ft
+Temp 48 F - Kestrel 2000 hand meter
+
+Observed with Kevin Olson
+07/30/2019,Collected by Arthur Watkinson and Amanda Schmitz
+08/12/2019,Collected by Arthur Watkinson and Amanda Schmitz
+09/04/2019,Collected by Heidi Bunk and Amanda Schmitz
+07/28/2020,Observers: Arthur Watkinson and Amanda Schmitz
+Slight algae
+D3 custer color strip
+08/12/2020,algae development- slight (just visible)
+custer color strip was D3
+site depth was 14'
+Wind was 2-3 MPH from the SE
+
+
+
+
+
+Start Date,Group Name,Project Name
+09/18/1980,Data Collectors,Migrated from STORET Legacy
+06/04/1987,Art Wisniewski,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+06/12/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/07/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/28/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/02/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/15/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/26/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+10/11/1987,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+04/12/1988,Data Collectors,
+04/12/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+04/29/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+05/16/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+06/01/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+06/15/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/08/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/22/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/19/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/02/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+10/02/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+10/14/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+11/01/1988,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+06/18/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/07/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/26/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/12/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/05/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/15/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+10/09/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+11/01/1989,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+04/13/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+06/04/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/05/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/15/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/30/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/30/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/28/1990,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+11/09/1990,Data Collectors,
+04/09/1991,Data Collectors,
+06/17/1991,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/03/1991,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/09/1991,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/20/1991,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+09/24/1991,Randy Arndorfer,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+06/30/1992,Jim Smukowski,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/10/1992,Jim Smukowski,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+07/18/1992,Jim Smukowski,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/12/1992,Jim Smukowski,Citizen Lake Monitoring - Water Quality - School Section Lake; Deep Hole
+08/28/2000,Heidi Bunk,GMU LAKE CLASS STUDY
+08/28/2000,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/28/2000,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+05/08/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+05/08/2001,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/08/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/08/2001,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+10/01/2001,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+10/01/2001,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+05/15/2002,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/02/2002,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/02/2002,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+04/15/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/15/2003,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/11/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/11/2003,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+04/13/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/13/2004,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/04/2004,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/04/2004,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+04/18/2005,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+04/18/2005,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+06/08/2005,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+06/08/2005,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/11/2005,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/10/2005,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/19/2005,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+10/17/2005,Paul Garrison,Statewide Lakes Water Quality Measures 2005-2006
+04/18/2006,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/17/2006,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/23/2006,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/13/2006,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+04/17/2007,HEIDI J BUNK- ANDREW J HUDAK,Lakes Long Term Trend Monitoring (1986-present)
+04/17/2007,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/25/2007,Heidi Bunk and Zoe McManama,Lakes Long Term Trend Monitoring (1986-present)
+08/22/2007,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/22/2007,Heidi Bunk and Zoe McManama,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2007,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2007,Heidi Bunk and Zoe McManama,Lakes Long Term Trend Monitoring (1986-present)
+04/14/2008,Heidi Bunk and Zoe McManama,Lakes Long Term Trend Monitoring (1986-present)
+04/14/2008,RACHEL A SABRE- ZOE C MCMANAMA,Lakes Long Term Trend Monitoring (1986-present)
+07/22/2008,Heidi Bunk and Zoe McManama,Lakes Long Term Trend Monitoring (1986-present)
+08/06/2008,Heidi Bunk and Zoe McManama,Lakes Long Term Trend Monitoring (1986-present)
+08/27/2008,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/27/2008,SHELLEY D WARWICK- HEIDI J BUNK,Lakes Long Term Trend Monitoring (1986-present)
+04/14/2009,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/16/2009,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/11/2009,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2009,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/30/2009,Victor Herbert,
+03/31/2010,Victor Herbert,
+04/21/2010,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/05/2010,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/24/2010,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/25/2010,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/08/2010,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/16/2010,Victor Herbert,
+05/02/2011,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+05/02/2011,JEREMIAH SCHIEFELBEIN,Lakes Long Term Trend Monitoring (1986-present)
+07/19/2011,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/10/2011,HEIDI J BUNK- JAMES A STEINKE,Lakes Long Term Trend Monitoring (1986-present)
+08/10/2011,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/11/2011,JEREMIAH SCHIEFELBEIN,Lakes Long Term Trend Monitoring (1986-present)
+08/31/2011,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/15/2011,Victor Herbert,
+04/17/2012,Victor Herbert,
+04/26/2012,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/22/2012,GARRETT LYON,Lakes Long Term Trend Monitoring (1986-present)
+08/22/2012,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/05/2012,GARRETT LYON,Lakes Long Term Trend Monitoring (1986-present)
+09/05/2012,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/19/2012,GARRETT LYON,Lakes Long Term Trend Monitoring (1986-present)
+09/19/2012,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/12/2012,Victor Herbert,
+04/22/2013,Victor Herbert,
+05/01/2013,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/29/2013,ANDREW NOTBOHM,Lakes Long Term Trend Monitoring (1986-present)
+07/29/2013,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/21/2013,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/24/2013,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/18/2013,Victor Herbert,
+04/29/2014,Victor Herbert,
+05/20/2014,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+05/20/2014,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+07/15/2014,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/15/2014,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+08/04/2014,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/04/2014,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+09/16/2014,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/16/2014,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+11/04/2014,Victor Herbert,
+04/01/2015,Data Collectors,
+05/06/2015,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+05/06/2015,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+07/21/2015,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/14/2015,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/14/2015,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+09/03/2015,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/02/2015,Data Collectors,
+03/28/2016,Data Collectors,
+04/26/2016,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+04/26/2016,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+07/26/2016,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/26/2016,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+08/16/2016,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/16/2016,SAMUEL POSNANSKI,Lakes Long Term Trend Monitoring (1986-present)
+09/14/2016,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+11/16/2016,Data Collectors,
+04/03/2017,Data Collectors,
+05/03/2017,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/17/2017,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/06/2017,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/19/2017,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+04/02/2018,Data Collectors,
+07/30/2019,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/12/2019,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/04/2019,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+07/28/2020, UNKNOWN,Lakes Long Term Trend Monitoring (1986-present)
+07/28/2020,ARTHUR J WATKINSON- Heidi J Bunk,Lakes Long Term Trend Monitoring (1986-present)
+08/12/2020,ARTHUR J WATKINSON- AMANDA SCHMITZ,Lakes Long Term Trend Monitoring (1986-present)
+08/12/2020,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/03/2020,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)

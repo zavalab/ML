@@ -1,0 +1,294 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Sunset Lake,Portage,199700,WC,50,,503149,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189277,05/08/1998,20,NO,6.1,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189277,06/17/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189277,07/02/1998,8.75,NO,2.7,,,46,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189277,07/20/1998,9,NO,2.7,,,45,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8189277,08/30/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189277,10/25/1998,10,NO,3,,,44,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+7000090,10/07/1999,,,,,30,,54,,,,,,
+7000090,01/18/2000,,,,,39,,57,,,,,,
+7000081,01/23/2001,,,,,392,,74,,,,,,
+7000081,08/21/2001,,,,27,,,,60,,,,,
+141888975,06/16/2002,21,NO,6.4,,,33,,,HIGH,55,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188607,07/27/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,08/09/2003,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,08/24/2003,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,09/07/2003,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,09/20/2003,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/06/2004,24,NO,7.3,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,07/02/2004,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188607,07/18/2004,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,07/31/2004,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/15/2004,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,09/05/2004,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,09/16/2004,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,
+8188607,05/30/2005,25,NO,7.6,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/12/2005,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,07/02/2005,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,07/16/2005,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,07/31/2005,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188607,08/07/2005,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,09/11/2005,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,09/17/2005,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188607,05/21/2006,30,NO,9.1,,,28,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/24/2006,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188607,07/09/2006,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/14/2006,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/29/2006,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8188607,09/25/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,05/07/2007,27,,8.2,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/01/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8188607,06/19/2007,10,,3,,,44,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8188607,06/25/2007,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,07/08/2007,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,07/21/2007,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/25/2007,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188607,05/09/2008,17,NO,5.2,,,36,,,LOW,,,BLUE,1-Beautiful, could not be nicer
+8188607,06/22/2008,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,07/11/2008,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188607,08/18/2008,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,09/21/2008,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,05/10/2009,30,NO,9.1,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/05/2009,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/22/2009,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8188607,07/10/2009,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,08/28/2009,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,05/29/2010,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/18/2010,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188607,07/20/2010,10,NO,3,,,44,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/29/2010,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,10/12/2010,13,,4,,,40,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,05/22/2011,25,NO,7.6,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/05/2011,25,NO,7.6,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,07/04/2011,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,07/17/2011,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/11/2011,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,09/28/2011,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,05/04/2012,26,NO,7.9,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/09/2012,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/22/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,07/13/2012,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,08/02/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,08/21/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,09/11/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,05/16/2013,25,NO,7.6,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,07/02/2013,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,08/05/2013,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188607,09/09/2013,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,05/25/2014,30,NO,9.1,,,28,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188607,06/16/2014,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188607,07/19/2014,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+141888975,05/13/2018,17,NO,5.2,,,36,,,HIGH,55,CLEAR,BLUE,1-Beautiful, could not be nicer
+141888975,05/20/2018,22,NO,6.7,,,33,,,HIGH,55,CLEAR,GREEN,1-Beautiful, could not be nicer
+141888975,06/24/2018,17,NO,5.2,,,36,,,HIGH,57,CLEAR,BLUE,1-Beautiful, could not be nicer
+141888975,07/03/2018,11,NO,3.3,,,43,,,HIGH,55,MURKY,GREEN,2-Very minor aesthetic problems
+141888975,07/17/2018,10,NO,3,,,44,,,HIGH,55,CLEAR,GREEN,2-Very minor aesthetic problems
+141888975,07/29/2018,10,NO,3,,,44,,,HIGH,60,MURKY,GREEN,2-Very minor aesthetic problems
+141888975,08/10/2018,9.5,NO,2.9,,,45,,,HIGH,60,CLEAR,GREEN,2-Very minor aesthetic problems
+141888975,08/12/2018,9,,2.7,,,45,,,HIGH,60,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,08/26/2018,10,NO,3,,,44,,,HIGH,60,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,09/09/2018,14,NO,4.3,,,39,,,HIGH,60,CLEAR,BLUE,2-Very minor aesthetic problems
+141888975,10/10/2018,14,NO,4.3,,,39,,,HIGH,60,CLEAR,BLUE,1-Beautiful, could not be nicer
+141888975,05/05/2019,19,NO,5.8,,,35,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+141888975,05/26/2019,29,NO,8.8,,,29,,,HIGH,65,CLEAR,,1-Beautiful, could not be nicer
+141888975,06/02/2019,23,NO,7,,,32,,,HIGH,65,CLEAR,BLUE,1-Beautiful, could not be nicer
+141888975,06/17/2019,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+141888975,06/26/2019,11,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+141888975,07/15/2019,11,NO,3.3,,,43,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,07/22/2019,9,NO,2.7,,,45,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,07/30/2019,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,08/24/2019,10.5,NO,3.2,,,43,,,HIGH,65,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,09/01/2019,10,NO,3,,,44,,,HIGH,65,MURKY,,2-Very minor aesthetic problems
+141888975,09/08/2019,10.5,NO,3.2,,,43,,,HIGH,65,MURKY,,2-Very minor aesthetic problems
+141888975,09/15/2019,11,NO,3.3,,,43,,,HIGH,65,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,09/29/2019,11,NO,3.3,,,43,,,HIGH,65,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,10/05/2019,11,NO,3.3,,,43,,,HIGH,65,MURKY,BLUE,2-Very minor aesthetic problems
+141888975,06/21/2020,,,,,,,,,HIGH,70,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/08/1998,0,FEET,62,DEGREES F,12,MG/L
+05/08/1998,10,FEET,60,DEGREES F,13,MG/L
+05/08/1998,20,FEET,55,DEGREES F,11,MG/L
+05/08/1998,30,FEET,48,DEGREES F,9,MG/L
+05/08/1998,40,FEET,46,DEGREES F,2,MG/L
+05/08/1998,50,FEET,45,DEGREES F,1,MG/L
+06/17/1998,0,FEET,75,DEGREES F,11,MG/L
+06/17/1998,10,FEET,69,DEGREES F,13,MG/L
+06/17/1998,20,FEET,65,DEGREES F,12,MG/L
+06/17/1998,30,FEET,54,DEGREES F,9,MG/L
+06/17/1998,40,FEET,52,DEGREES F,,
+06/17/1998,50,FEET,50,DEGREES F,,
+07/02/1998,0,FEET,79,DEGREES F,12,MG/L
+07/02/1998,10,FEET,75,DEGREES F,10,MG/L
+07/02/1998,20,FEET,68,DEGREES F,10,MG/L
+07/02/1998,30,FEET,63,DEGREES F,7,MG/L
+07/02/1998,40,FEET,54,DEGREES F,,
+07/02/1998,50,FEET,49,DEGREES F,,
+07/20/1998,0,FEET,83,DEGREES F,10,MG/L
+07/20/1998,10,FEET,80,DEGREES F,9,MG/L
+07/20/1998,20,FEET,74,DEGREES F,8,MG/L
+07/20/1998,30,FEET,60,DEGREES F,4,MG/L
+07/20/1998,40,FEET,56,DEGREES F,,
+07/20/1998,50,FEET,55,DEGREES F,,
+08/30/1998,0,FEET,76,DEGREES F,11,MG/L
+08/30/1998,10,FEET,75,DEGREES F,11,MG/L
+08/30/1998,20,FEET,75,DEGREES F,11,MG/L
+08/30/1998,30,FEET,60,DEGREES F,3,MG/L
+08/30/1998,40,FEET,54,DEGREES F,,
+08/30/1998,50,FEET,52,DEGREES F,,
+10/25/1998,0,FEET,57,DEGREES F,10,MG/L
+10/25/1998,10,FEET,56,DEGREES F,3,MG/L
+10/25/1998,20,FEET,56,DEGREES F,6,MG/L
+10/25/1998,30,FEET,55,DEGREES F,6,MG/L
+10/25/1998,40,FEET,49,DEGREES F,4,MG/L
+10/25/1998,50,FEET,50,DEGREES F,2,MG/L
+10/07/1999,0,FEET,,,9.97,MG/L
+10/07/1999,,,7.8,C,9.97,MG/L
+01/18/2000,0,FEET,,,12.18,MG/L
+01/18/2000,,,0.0,C,12.18,MG/L
+08/21/2001,,,19.3,C,7.38,MG/L
+
+
+
+Start Date,Fieldwork Comment
+10/07/1999,cth f bridge baseline monitoring    
+01/18/2000,BASELINE MONITORING    
+01/23/2001,WINTER SAMPLING    
+08/21/2001,TMDL MONITORING    
+06/16/2002,Partly cloudy.
+08/07/2005,The water color and quality was excellent- but the water level is down.    
+08/18/2008,We have been experiencing blue-green algae (non-toxic) this summer.  Lake levels  are very low.
+05/20/2018,Sunny and calm. 
+06/24/2018,Sunny and calm.  Many people on the lake today.
+08/26/2018,Heavy rain has caused water level to rise and run off has impaired lake clarity.
+09/09/2018,Cool- cle- sunny weather.  Slight west wind- air temperature about 73 degrees.
+05/05/2019,Sunny- 70 degrees and calm.
+05/26/2019,Sunny- 74 degrees and a slight breeze.  
+06/02/2019,Partly cloudy- 65 degrees with a slight breeze.  Lake level is very high.
+06/26/2019,Sunny- warm- 78 degrees.  Lake is very calm.
+07/22/2019,Beautiful sunny day after a strong wind storm on Saturday that took down many trees in the area.
+07/30/2019,Partly cloudy- cooler day.
+08/24/2019,Partly cloudy day. Slight breeze- about 72 degrees.  Lake level is still high and trees affected/dying from standing in water.
+09/08/2019,Lake water is very high. Water level very high.  Saw 2 double crested cormorants on the lake.
+10/05/2019,Lake level has been extremely high due to excessive rain.  
+06/21/2020,Sunset Lake continues to rise to extreme levels.  Trees are beginning to fall into the water and as you scan the shoreline many pine trees display brown colors due to decline.
+
+
+
+
+Start Date,Group Name,Project Name
+05/08/1998,Clay Sterling,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/17/1998,Clay Sterling,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/02/1998,Clay Sterling,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/20/1998,Clay Sterling,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/30/1998,Clay Sterling,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+10/25/1998,Clay Sterling,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+10/07/1999,Mark Hazuga,Lake Baseline Monitoring- DNR (1970s-2006)
+01/18/2000,Mark Hazuga,Lake Baseline Monitoring- DNR (1970s-2006)
+01/23/2001,KENNETH SCHREIBER,WATER QUALITY STANDARDS year 2000
+08/21/2001,KENNETH SCHREIBER,TMDL 2001
+06/16/2002,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/27/2003,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/09/2003,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/24/2003,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/07/2003,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/20/2003,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/06/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/02/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/18/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/31/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/15/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/05/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/16/2004,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/30/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/12/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/02/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/16/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/31/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/07/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/11/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/17/2005,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/21/2006,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/24/2006,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/09/2006,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/14/2006,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/29/2006,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/25/2006,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/07/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/01/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/19/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/25/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/08/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/21/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/25/2007,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/09/2008,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/22/2008,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/11/2008,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/18/2008,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/21/2008,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/10/2009,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/05/2009,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/22/2009,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/10/2009,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/28/2009,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/29/2010,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/18/2010,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/20/2010,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/29/2010,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+10/12/2010,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/22/2011,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/05/2011,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/04/2011,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/17/2011,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/11/2011,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/28/2011,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/04/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/09/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/22/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/13/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/02/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/21/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/11/2012,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/16/2013,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/02/2013,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/05/2013,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/09/2013,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/25/2014,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/16/2014,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/19/2014,Sarah Clanton,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/13/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/20/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/24/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/03/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/17/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/29/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/10/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/12/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/26/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/09/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+10/10/2018,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/05/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+05/26/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/02/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/17/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/26/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/15/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/22/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+07/30/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+08/24/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/01/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/08/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/15/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+09/29/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+10/05/2019,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole
+06/21/2020,Rhonda Fechter,Citizen Lake Monitoring - Water Quality - Sunset Lake; Deep Hole

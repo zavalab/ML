@@ -1,0 +1,163 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Moen Lake,Oneida,1573800,NO,44,,443047,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,10/26/1976,,,,,70,,61,,,,,,
+1,04/15/1977,,,,,30,,54,,,,,,
+1,07/12/1979,,,,,,,,,,,,,
+1,06/19/2000,4.6,,1.4,1.4,30,55,54,37,,,,,
+1,07/25/2000,2.3,,0.7,1,73,65,61,35,,,,,
+1,08/28/2000,2.3,,0.7,20,50,65,58,57,,,,,
+1,10/11/2000,2.6,,0.8,4.4,50,63,58,46,,,,,
+7000068,06/14/2001,3,NO,0.9,6,32,62,55,48,,,,,
+7000068,07/19/2001,,,,1,45,,58,35,,,,,
+7000068,08/22/2001,,,,14,49,,58,55,,,,,
+7000068,10/22/2001,,,,7,44,,57,50,,,,,
+7000068,06/19/2002,,,,1.83,38,,56,39,,,,,
+7000068,07/22/2002,,,,12.7,42,,57,54,,,,,
+7000068,08/15/2002,,,,10.2,40,,57,52,,,,,
+7000068,10/15/2002,,,,4.39,36,,56,46,,,,,
+1,05/29/2006,,,,,30,,54,,,,,,
+43061320,06/24/2010,4.6,NO,1.4,8.32,27,55,54,51,,,,,
+43061320,07/19/2010,1.3,NO,0.4,6.04,51,73,59,48,,,,,
+43061320,08/05/2010,1.6,NO,0.5,10.6,60,70,60,53,,,,,
+43061320,10/11/2010,1.6,NO,0.5,0.6,38,70,56,31,,,,,
+43061320,06/14/2011,3,NO,0.9,6.66,42,62,57,49,,,,,
+43061320,07/11/2011,2,NO,0.6,9.01,38,67,56,51,,,,,
+43061320,08/10/2011,1.6,NO,0.5,26.4,45,70,58,60,,,,,
+43061320,10/10/2011,3.9,NO,1.2,5.93,51,57,59,48,,,,,
+58058836,06/12/2012,3.9,NO,1.2,10.2,36,57,56,52,,,,,
+58058836,07/09/2012,3.3,NO,1,14.2,44,60,57,55,,,,,
+58058836,08/08/2012,3,NO,0.9,10.4,50,62,58,53,,,,,
+58058836,10/18/2012,4.3,NO,1.3,3.12,49,56,58,43,,,,,
+29175078,07/09/2018,1.708,NO,0.5,,,69,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+58058836,06/18/2020,2.6,NO,0.8,9.04,28.6,63,54,51,,,,,
+241112303,07/17/2020,1.3,N,0.4,1.56,31.5,65,55,38,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/12/1979,,,25,C,,
+06/24/2010,1,METERS,22.8,DEGREES C,7.3,MG/L
+06/24/2010,2,METERS,22.8,DEGREES C,7.2,MG/L
+06/24/2010,2.3,METERS,22.8,DEGREES C,7.2,MG/L
+06/24/2010,2.8,METERS,22.7,DEGREES C,7,MG/L
+06/24/2010,3.2,METERS,20.4,DEGREES C,1.7,MG/L
+06/24/2010,,,22.8,C,7.2,MG/L
+07/19/2010,1,METERS,25.3,DEGREES C,5.4,MG/L
+07/19/2010,2,METERS,24.3,DEGREES C,5,MG/L
+07/19/2010,2.3,METERS,23.8,DEGREES C,4.9,MG/L
+07/19/2010,2.8,METERS,22.6,DEGREES C,4,MG/L
+07/19/2010,3.2,METERS,21.6,DEGREES C,2.3,MG/L
+07/19/2010,,,24.3,C,5.0,MG/L
+08/05/2010,1,METERS,24.6,DEGREES C,6,MG/L
+08/05/2010,2,METERS,24.6,DEGREES C,6,MG/L
+08/05/2010,2.2,METERS,24.6,DEGREES C,6,MG/L
+08/05/2010,2.7,METERS,24.6,DEGREES C,5.8,MG/L
+08/05/2010,3.1,METERS,24.6,DEGREES C,5.8,MG/L
+08/05/2010,,,24.6,C,6.0,MG/L
+10/11/2010,1,METERS,12.5,DEGREES C,6.9,MG/L
+10/11/2010,2.2,METERS,12,DEGREES C,6.4,MG/L
+10/11/2010,2.7,METERS,11.6,DEGREES C,6.3,MG/L
+10/11/2010,3.1,METERS,11.3,DEGREES C,5.1,MG/L
+10/11/2010,,,12.0,C,6.4,MG/L
+06/14/2011,1,METERS,20.6,DEGREES C,8.2,MG/L
+06/14/2011,2,METERS,20.5,DEGREES C,8.1,MG/L
+06/14/2011,2.4,METERS,20.4,DEGREES C,8.1,MG/L
+06/14/2011,2.9,METERS,17.4,DEGREES C,6,MG/L
+06/14/2011,3.3,METERS,16.9,DEGREES C,3.2,MG/L
+06/14/2011,,,20.5,C,8.1,MG/L
+07/11/2011,1,METERS,26.4,DEGREES C,7.2,MG/L
+07/11/2011,2,METERS,26.3,DEGREES C,7.1,MG/L
+07/11/2011,2.5,METERS,24.9,DEGREES C,6.4,MG/L
+07/11/2011,3,METERS,24.5,DEGREES C,6,MG/L
+07/11/2011,3.4,METERS,23.8,DEGREES C,.5,MG/L
+07/11/2011,,,26.4,C,7.2,MG/L
+08/10/2011,,,21.9,C,6.8,MG/L
+10/10/2011,,,16.5,C,8.8,MG/L
+06/12/2012,,,20.8,C,7.7,MG/L
+07/09/2012,,,25.4,C,5.7,MG/L
+08/08/2012,,,22.7,C,6.4,MG/L
+10/18/2012,,,8.6,C,10.3,MG/L
+06/18/2020,,,21.5,C,8.0,MG/L
+07/17/2020,,,10.7,C,5.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+10/26/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/15/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/12/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/25/2000,INTEGRATED SAMPLE    
+06/14/2001,AT POINT OF MAXIMUM DEPTH    
+07/19/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/22/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/22/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+06/19/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/22/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/15/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/15/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+05/29/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/09/2018,Temperature in the mid 80's with light breeze- bright with high clouds.  Approximately 50% cloud cover.   Kris Krause driving the boat today to keep it on station during Seechi Disc measurements.
+
+
+
+
+Start Date,Group Name,Project Name
+10/26/1976,Data Collectors,Migrated from STORET Legacy
+04/15/1977,Data Collectors,Migrated from STORET Legacy
+07/12/1979,Data Collectors,Migrated from STORET Legacy
+06/19/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+06/19/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/25/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+07/25/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/28/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+08/28/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/11/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+10/11/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/14/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+06/14/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+07/19/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+08/22/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+10/22/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+10/22/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/19/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+06/19/2002,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+08/15/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+10/15/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+05/29/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Moen Lake - Center
+06/24/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+06/24/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/19/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+07/19/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/05/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+08/05/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/11/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+10/11/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/14/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+06/14/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/11/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+07/11/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/10/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+08/10/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/10/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+10/10/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/12/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+06/12/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/09/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+07/09/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/08/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+08/08/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/18/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River North Pelican Reservoir- P-2113N (Wisconsin Valley Improvement Company / WVIC) 
+10/18/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/09/2018,Scott Patulski,Citizen Lake Monitoring - Water Quality - Moen Lake - Center
+06/18/2020,Ben Niffenegger,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+07/17/2020,Ben Niffenegger- Scott Blado,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022

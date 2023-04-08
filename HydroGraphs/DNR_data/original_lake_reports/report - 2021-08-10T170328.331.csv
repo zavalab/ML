@@ -1,0 +1,512 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Dowling Lake,Douglas,2858300,NO,16,,163091,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,05/12/1976,4.3,,1.3,,34,56,55,,,,,,
+1,04/13/1977,4.9,,1.5,,,54,,,,,,,
+1,06/12/1994,4.3,,1.3,15.6,,56,,56,,,,,
+1,07/10/1994,3.6,,1.1,17.1,,59,,56,,,,,
+1,08/21/1994,,,,9.84,,,,52,,,,,
+1,09/25/1994,4.1,,1.25,20.3,,57,,58,,,,,
+1,10/16/1994,5.7,,1.75,5.44,,52,,48,,,,,
+1,05/19/1996,,,,15.6,30,,54,56,,,,,
+1,06/09/1996,,,,6.53,31,,55,49,,,,,
+1,08/12/1996,,,,13.1,40,,57,54,,,,,
+1,09/22/1996,,,,,44,,57,,,,,,
+1,10/28/1996,,,,5.12,20,,51,47,,,,,
+1,12/01/1996,,,,1.52,29,,54,38,,,,,
+1,12/29/1996,,,,1.01,22,,52,35,,,,,
+1,07/20/1997,,,,8.62,35,,56,51,,,,,
+1,08/09/1997,5.3,,1.62,10.3,33,53,55,52,,,,,
+1,09/11/1997,,,,12.7,,,,54,,,,,
+1,10/17/1997,,,,3.35,36,,56,44,,,,,
+1,07/30/1998,,,,8.12,20,,51,51,,,,,
+8189943,10/07/2001,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/02/2002,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/22/2002,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/04/2002,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/19/2002,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/24/2002,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,09/08/2002,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,09/22/2002,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190095,05/14/2003,,,,12,34,,55,54,,,,,
+8189943,05/23/2003,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189943,06/01/2003,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190095,06/30/2003,,,,15.5,34,,55,56,,,,,
+8189943,07/07/2003,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/12/2003,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/20/2003,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190095,07/29/2003,,,,13.1,42,,57,54,,,,,
+8189943,08/07/2003,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190095,08/27/2003,,,,30,50,,58,61,,,,,
+8189943,08/30/2003,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,09/06/2003,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190095,09/24/2003,,,,40.5,37,,56,63,,,,,
+7000102,05/18/2004,7.708,,2.3,,,48,,,,,,,
+8190095,06/02/2004,,,,13.5,26,,53,54,,,,,
+8189943,06/06/2004,4.25,NO,1.3,,,56,,,NORMAL,,,,3-Enjoyment somewhat impaired (algae)
+8189943,06/19/2004,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190095,06/30/2004,,,,27.2,40,,57,60,,,,,
+8189943,07/23/2004,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+7000082,07/27/2004,,,,25.8,33,,55,59,,,,,
+8189943,07/31/2004,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/14/2004,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000102,08/17/2004,2.296,NO,0.7,65.6,49,65,58,66,,,,,
+8190095,08/25/2004,,,,111,57,,59,70,,,,,
+8189943,09/06/2004,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,09/07/2004,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,09/26/2004,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190095,09/29/2004,,,,22.3,74,,61,58,,,,,
+8189943,06/06/2005,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,06/25/2005,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/10/2005,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/13/2005,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/16/2005,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/24/2005,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/14/2005,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,09/05/2005,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,09/09/2005,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,09/22/2005,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,10/08/2005,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,05/22/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,05/28/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,06/07/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,06/10/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,06/25/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/02/2006,4,NO,1.2,,,57,,,LOW,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8189943,07/09/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/16/2006,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/23/2006,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/06/2006,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/26/2006,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,09/10/2006,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,06/17/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/23/2007,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/30/2007,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/09/2007,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,08/22/2007,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,08/25/2007,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189943,08/08/2008,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,08/24/2008,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189943,06/26/2009,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189943,07/03/2009,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189943,07/04/2009,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189943,07/11/2009,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189943,07/26/2009,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189943,08/11/2009,1.33,NO,0.4,,,73,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189943,08/26/2009,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189943,08/30/2009,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190095,04/30/2012,,,,,50,,58,,,,,,
+8190095,07/11/2012,,,,21.2,42,,57,58,,,,,
+62595126,08/28/2012,1.6,NO,0.5,14.8,59,70,60,55,,,,,
+130833426,05/02/2016,,,,,57.6,,60,,,,,,
+130833426,05/24/2016,,,,,50.3,,58,,,,,,
+130833426,06/14/2016,,,,6.02,36.9,,56,48,,,,,
+130833426,08/01/2016,,,,11.5,39,,57,53,,,,,
+130833426,08/29/2016,,,,3.35,42.4,,57,44,,,,,
+130833426,09/27/2016,,,,38.7,59.5,,60,62,,,,,
+130833426,10/25/2016,,,,17.4,44.8,,58,56,,,,,
+18137939,05/28/2019,5,NO,1.5,,28.9,54,54,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,06/18/2019,,,,2.79,32.7,,55,43,,,,,
+18137939,06/18/2019,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/29/2019,,,,14.1,44.3,,58,55,,,,,
+18137939,07/29/2019,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,08/26/2019,,,,9.79,40.3,,57,52,,,,,
+18137939,08/26/2019,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137939,09/28/2019,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,10/01/2019,,,,9.27,39.1,,57,52,,,,,
+18137939,10/01/2019,,,,,,,,,,,,,
+1,10/28/2019,,,,4.91,32,,55,47,,,,,
+18137939,10/28/2019,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,05/18/2020,,,,,34.1,,55,,,,,,
+18137939,05/18/2020,,NO,,,,,,,HIGH,2.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,06/16/2020,,,,18.6,38.3,,56,57,,,,,
+18137939,06/21/2020,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/20/2020,,,,33.3,44.7,,58,61,,,,,
+18137939,07/20/2020,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,08/19/2020,,,,34.1,49.1,,58,61,,,,,
+18137939,08/19/2020,2.5,NO,0.8,,,64,,,HIGH,,,BROWN,
+1,09/22/2020,,,,53.2,50,,58,65,,,,,
+18137939,09/22/2020,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,10/13/2020,,,,28,49.5,,58,60,,,,,
+18137939,10/13/2020,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/12/1976,,,15,C,9.5,MG/L
+04/13/1977,,,6.8,C,9.3,MG/L
+06/12/1994,,,20.8,C,9.13,MG/L
+07/10/1994,,,18.6,C,2.18,MG/L
+08/21/1994,,,19.8,C,7.1,MG/L
+09/25/1994,,,17.4,C,4.2,MG/L
+10/16/1994,,,11.3,C,9.8,MG/L
+05/18/2004,0,FEET,,,8.6,MG/L
+08/17/2004,6,FEET,,,8.8,MG/L
+08/17/2004,,,21.3,C,8.8,MG/L
+08/28/2012,0,METERS,23.6,DEGREES C,7.2,MG/L
+08/28/2012,0.5,METERS,23.4,DEGREES C,7.2,MG/L
+08/28/2012,1,METERS,23.1,DEGREES C,7.1,MG/L
+08/28/2012,2,METERS,22.8,DEGREES C,6.5,MG/L
+08/28/2012,3,METERS,22.4,DEGREES C,2.7,MG/L
+05/28/2019,2,FEET,55.76,DEGREES F,8.06,MG/L
+05/28/2019,3,FEET,55.04,DEGREES F,8.36,MG/L
+05/28/2019,4,FEET,55.22,DEGREES F,8.08,MG/L
+05/28/2019,5,FEET,55.22,DEGREES F,7.8,MG/L
+05/28/2019,6,FEET,54.86,DEGREES F,7.93,MG/L
+05/28/2019,7,FEET,54.68,DEGREES F,7.7,MG/L
+05/28/2019,8,FEET,53.78,DEGREES F,7.35,MG/L
+05/28/2019,9,FEET,53.78,DEGREES F,7.55,MG/L
+05/28/2019,10,FEET,53.78,DEGREES F,7.6,MG/L
+05/28/2019,11,FEET,53.78,DEGREES F,5,MG/L
+06/18/2019,1,FEET,66.2,DEGREES F,6.6,MG/L
+06/18/2019,2,FEET,66.2,DEGREES F,6.6,MG/L
+06/18/2019,3,FEET,65.84,DEGREES F,6.65,MG/L
+06/18/2019,4,FEET,65.66,DEGREES F,6.08,MG/L
+06/18/2019,5,FEET,65.66,DEGREES F,6.11,MG/L
+06/18/2019,6,FEET,65.66,DEGREES F,6.06,MG/L
+06/18/2019,7,FEET,65.48,DEGREES F,6.57,MG/L
+06/18/2019,8,FEET,65.48,DEGREES F,5.99,MG/L
+06/18/2019,9,FEET,65.48,DEGREES F,5.92,MG/L
+06/18/2019,10,FEET,64.78,DEGREES F,4.44,MG/L
+07/29/2019,1,FEET,73.76,DEGREES F,5.75,MG/L
+07/29/2019,2,FEET,74.12,DEGREES F,5.67,MG/L
+07/29/2019,3,FEET,74.12,DEGREES F,5.6,MG/L
+07/29/2019,4,FEET,74.12,DEGREES F,5.7,MG/L
+07/29/2019,5,FEET,74.3,DEGREES F,5.67,MG/L
+07/29/2019,6,FEET,74.3,DEGREES F,5.53,MG/L
+07/29/2019,7,FEET,74.3,DEGREES F,5.41,MG/L
+07/29/2019,8,FEET,74.3,DEGREES F,5.59,MG/L
+07/29/2019,9,FEET,74.3,DEGREES F,5.54,MG/L
+07/29/2019,10,FEET,74.12,DEGREES F,5.25,MG/L
+08/26/2019,1,FEET,69.62,DEGREES F,2.37,MG/L
+08/26/2019,2,FEET,69.8,DEGREES F,2.45,MG/L
+08/26/2019,3,FEET,69.8,DEGREES F,2.64,MG/L
+08/26/2019,4,FEET,69.8,DEGREES F,2.75,MG/L
+08/26/2019,5,FEET,69.8,DEGREES F,2.86,MG/L
+08/26/2019,6,FEET,69.8,DEGREES F,2.94,MG/L
+08/26/2019,7,FEET,69.8,DEGREES F,3.06,MG/L
+08/26/2019,8,FEET,69.8,DEGREES F,3.14,MG/L
+08/26/2019,9,FEET,69.8,DEGREES F,3.27,MG/L
+08/26/2019,10,FEET,69.8,DEGREES F,1.58,MG/L
+10/01/2019,1,FEET,62.24,DEGREES F,,
+10/01/2019,2,FEET,62.06,DEGREES F,,
+10/01/2019,3,FEET,62.06,DEGREES F,,
+10/01/2019,4,FEET,62.06,DEGREES F,,
+10/01/2019,5,FEET,62.06,DEGREES F,,
+10/01/2019,6,FEET,61.88,DEGREES F,,
+10/01/2019,7,FEET,60.98,DEGREES F,,
+10/01/2019,8,FEET,60.8,DEGREES F,,
+10/01/2019,9,FEET,60.62,DEGREES F,,
+10/01/2019,10,FEET,60.62,DEGREES F,,
+10/01/2019,11,FEET,60.8,DEGREES F,,
+10/28/2019,1,FEET,42.26,DEGREES F,1.57,MG/L
+10/28/2019,2,FEET,42.26,DEGREES F,1.53,MG/L
+10/28/2019,3,FEET,42.26,DEGREES F,1.52,MG/L
+10/28/2019,4,FEET,42.26,DEGREES F,1.53,MG/L
+10/28/2019,5,FEET,42.26,DEGREES F,1.55,MG/L
+10/28/2019,6,FEET,42.26,DEGREES F,1.72,MG/L
+10/28/2019,7,FEET,42.26,DEGREES F,1.82,MG/L
+10/28/2019,8,FEET,42.26,DEGREES F,1.87,MG/L
+10/28/2019,9,FEET,42.26,DEGREES F,2,MG/L
+10/28/2019,10,FEET,42.26,DEGREES F,2.08,MG/L
+10/28/2019,11,FEET,42.26,DEGREES F,2.13,MG/L
+05/18/2020,1,FEET,53.24,DEGREES F,1.13,MG/L
+05/18/2020,2,FEET,53.06,DEGREES F,1.06,MG/L
+05/18/2020,3,FEET,53.06,DEGREES F,1.06,MG/L
+05/18/2020,4,FEET,53.06,DEGREES F,1.07,MG/L
+05/18/2020,5,FEET,52.88,DEGREES F,1.08,MG/L
+05/18/2020,6,FEET,52.88,DEGREES F,1.09,MG/L
+05/18/2020,7,FEET,52.88,DEGREES F,1.1,MG/L
+05/18/2020,8,FEET,52.88,DEGREES F,1.1,MG/L
+05/18/2020,9,FEET,52.88,DEGREES F,1.12,MG/L
+05/18/2020,10,FEET,52.88,DEGREES F,1.13,MG/L
+05/18/2020,11,FEET,52.88,DEGREES F,1.14,MG/L
+06/21/2020,1,FEET,73.58,DEGREES F,.5,MG/L
+06/21/2020,2,FEET,73.58,DEGREES F,.51,MG/L
+06/21/2020,3,FEET,73.58,DEGREES F,.53,MG/L
+06/21/2020,4,FEET,73.58,DEGREES F,.55,MG/L
+06/21/2020,5,FEET,73.58,DEGREES F,.58,MG/L
+06/21/2020,6,FEET,73.4,DEGREES F,.62,MG/L
+06/21/2020,7,FEET,73.22,DEGREES F,.66,MG/L
+06/21/2020,8,FEET,73.04,DEGREES F,.7,MG/L
+06/21/2020,9,FEET,72.14,DEGREES F,.75,MG/L
+06/21/2020,10,FEET,70.52,DEGREES F,.76,MG/L
+06/21/2020,11,FEET,69.44,DEGREES F,.22,MG/L
+07/20/2020,1,FEET,76.1,DEGREES F,.4,MG/L
+07/20/2020,2,FEET,76.1,DEGREES F,.38,MG/L
+07/20/2020,3,FEET,75.92,DEGREES F,.38,MG/L
+07/20/2020,4,FEET,75.92,DEGREES F,.38,MG/L
+07/20/2020,5,FEET,75.74,DEGREES F,.38,MG/L
+07/20/2020,6,FEET,75.74,DEGREES F,.38,MG/L
+07/20/2020,7,FEET,75.74,DEGREES F,.38,MG/L
+07/20/2020,8,FEET,75.74,DEGREES F,.39,MG/L
+07/20/2020,9,FEET,75.56,DEGREES F,.4,MG/L
+07/20/2020,10,FEET,75.38,DEGREES F,.41,MG/L
+07/20/2020,11,FEET,75.38,DEGREES F,.43,MG/L
+07/20/2020,12,FEET,75.2,DEGREES F,.42,MG/L
+07/20/2020,13,FEET,75.02,DEGREES F,.32,MG/L
+08/19/2020,1,FEET,72.68,DEGREES F,.18,MG/L
+08/19/2020,2,FEET,72.68,DEGREES F,.14,MG/L
+08/19/2020,3,FEET,72.86,DEGREES F,.13,MG/L
+08/19/2020,4,FEET,72.86,DEGREES F,.12,MG/L
+08/19/2020,5,FEET,72.86,DEGREES F,.11,MG/L
+08/19/2020,6,FEET,72.86,DEGREES F,.1,MG/L
+08/19/2020,7,FEET,73.04,DEGREES F,.1,MG/L
+08/19/2020,8,FEET,73.04,DEGREES F,.09,MG/L
+08/19/2020,9,FEET,73.04,DEGREES F,.09,MG/L
+08/19/2020,10,FEET,73.22,DEGREES F,.08,MG/L
+08/19/2020,11,FEET,73.22,DEGREES F,.08,MG/L
+08/19/2020,12,FEET,73.04,DEGREES F,.08,MG/L
+08/19/2020,13,FEET,73.04,DEGREES F,.07,MG/L
+09/22/2020,1,FEET,60.44,DEGREES F,.15,MG/L
+09/22/2020,2,FEET,60.44,DEGREES F,.13,MG/L
+09/22/2020,3,FEET,60.44,DEGREES F,.12,MG/L
+09/22/2020,4,FEET,60.26,DEGREES F,.11,MG/L
+09/22/2020,5,FEET,60.26,DEGREES F,.11,MG/L
+09/22/2020,6,FEET,60.26,DEGREES F,.1,MG/L
+09/22/2020,7,FEET,60.26,DEGREES F,.1,MG/L
+09/22/2020,8,FEET,60.08,DEGREES F,.09,MG/L
+09/22/2020,9,FEET,60.08,DEGREES F,.09,MG/L
+09/22/2020,10,FEET,60.08,DEGREES F,.09,MG/L
+09/22/2020,11,FEET,60.08,DEGREES F,.08,MG/L
+09/22/2020,12,FEET,60.08,DEGREES F,.07,MG/L
+09/22/2020,13,FEET,60.26,DEGREES F,.07,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/12/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/13/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/01/1996,NUTRIENT BOTTLE RECEIVED UNACIDIFIED (ACIDIFIED AT LAB)    
+07/20/1997,LAKE WATER    
+10/17/1997,LAKE WATER - HIGH WINDS    
+07/02/2002,The weather was cloudy and the lake was calm.  The lake had gone out within a day of April 16th.    
+07/22/2002,The weather was windy and clear.    
+08/04/2002,The weather was sunny with a light wind.    
+08/19/2002,The weather was sunny with a light wind.    
+08/24/2002,The weather was sunny and calm.    
+09/08/2002,The weather was sunny and windy.    
+09/22/2002,The weather was overcast and windy.    
+05/14/2003,LAKE WATER SAMPLE    
+05/23/2003,Clear and windy (sunny)
+
+    
+06/01/2003,calm and sunny
+
+    
+06/30/2003,DEEP HOLE - SURFACE    
+07/07/2003,sunny with light winds
+
+
+    
+07/12/2003,sunny and calm
+
+
+    
+07/20/2003,sunny with a few clouds; light winds
+
+
+    
+07/29/2003,DEEP HOLE - SURFACE    
+08/07/2003,sunny and calm
+    
+08/27/2003,DEEP HOLE - BOTTOM    
+08/30/2003,sunny with clouds; a bit wavey
+    
+09/06/2003,sunny and calm
+    
+09/24/2003,DEEP HOLE - SURFACE    
+05/18/2004,DEEP HOLE - MANUAL GRAB    
+06/02/2004,DEEP HOLE - SURFACE    
+06/06/2004,Sunny with a light wind.    
+06/19/2004,Partly Cloudy with a light wind    
+06/30/2004,DEEP HOLE - SURFACE    
+07/23/2004,Sunny with a slight wind.    
+07/27/2004,LAKE - SURFACE    
+07/31/2004,Sunny with a few clouds- calm.    
+08/14/2004,Sunny with a light wind    
+08/17/2004,DEEP HOLE - INTEGRATING WATER SAMPLER    
+08/25/2004,DEEP HOLE - SURFACE    
+09/06/2004,Very windy; sunny with a few clouds    
+09/07/2004,sunny and calm    
+09/26/2004,Windy and sunny    
+09/29/2004,DEEP HOLE - SURFACE    
+07/10/2005,It was sunny and windy    
+07/13/2005,It was sunny and calm    
+07/16/2005,It was sunny and hot    
+07/24/2005,It was sunny and calm    
+08/14/2005,It was sunny    
+09/05/2005,It was windy and clear    
+09/09/2005,It was sunny and calm    
+09/22/2005,It was sunny and calm    
+10/08/2005,It was sunny    
+05/22/2006,it was calm
+05/28/2006,It was sunny with a light breeze
+06/07/2006,It was clear and calm
+06/25/2006,It was sunny with a light breeze
+07/02/2006,It was clear and windy
+07/09/2006,It was sunny and calm
+07/23/2006,It was sunny with a light breeze
+08/06/2006,It was sunny ith a light breeze
+08/26/2006,It was sunny and calm
+09/10/2006,It was sunny and windy
+06/17/2007,Clear and calm
+07/23/2007,Sunny and calm
+08/09/2007,Sunny and calm
+08/22/2007,Sunny- light wind.
+08/25/2007,Sunny- calm
+06/26/2009,sunny and calm
+07/03/2009,sunny and calm
+07/04/2009,sunny and calm
+07/11/2009,sunny and calm
+07/26/2009,sunny and calm
+08/11/2009,sunny and calm
+08/26/2009,sunny and a light breeze
+08/30/2009,sunny and calm
+07/29/2019,1.5 inches of rainfall during the night.  windy on lake 
+10/01/2019,unable to take samples on 9-30-19 due to thunderstorm which produced 4-6 inches
+additional helper Mark Nygaard
+10/28/2019,Cloudy overcast Overcast
+Kim Nygaard 
+Scott Nielsen 
+08/19/2020,windy
+10/13/2020,very windy day
+
+
+
+
+Start Date,Group Name,Project Name
+05/12/1976,Data Collectors,Migrated from STORET Legacy
+04/13/1977,Data Collectors,Migrated from STORET Legacy
+06/12/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+07/10/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/21/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/25/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/16/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+05/19/1996,Data Collectors,LAKE MANAGEMENT 95/96
+06/09/1996,Data Collectors,LAKE MANAGEMENT 95/96
+08/12/1996,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Monitoring and Assessment
+09/22/1996,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Monitoring and Assessment
+10/28/1996,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Monitoring and Assessment
+12/01/1996,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Monitoring and Assessment
+12/29/1996,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Monitoring and Assessment
+07/20/1997,Data Collectors,
+08/09/1997,Data Collectors,
+09/11/1997,Data Collectors,
+10/17/1997,Data Collectors,
+07/30/1998,Data Collectors,
+10/07/2001,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/02/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/22/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/04/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/19/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/24/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/08/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/22/2002,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+05/14/2003,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+05/23/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/01/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/30/2003,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+07/07/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/12/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/20/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/29/2003,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+08/07/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/27/2003,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+08/30/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/06/2003,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/24/2003,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+05/18/2004,Pamela Toshner,Lake Baseline Monitoring- DNR (1970s-2006)
+06/02/2004,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+06/06/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/19/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/30/2004,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+07/23/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/27/2004,Kris Larsen,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+07/31/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/14/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/17/2004,Pamela Toshner,Lake Baseline Monitoring- DNR (1970s-2006)
+08/25/2004,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+09/06/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/07/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/26/2004,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/29/2004,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Comprehensive Lake Management Plan Development Project
+06/06/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/25/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/10/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/13/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/16/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/24/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/14/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/05/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/09/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/22/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+10/08/2005,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+05/22/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+05/28/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/07/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/10/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/25/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/02/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/09/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/16/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/23/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/06/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/26/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+09/10/2006,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/17/2007,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/23/2007,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/30/2007,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/09/2007,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/22/2007,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/25/2007,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/08/2008,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/24/2008,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+06/26/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/03/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/04/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/11/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+07/26/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/11/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/26/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+08/30/2009,Sharon Johnson,Citizen Lake Monitoring - Water Quality - Dowling Lake; Deep Hole
+04/30/2012,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Amnicon Dowling Aquatic Plant Management Planning
+07/11/2012,Dennis Corbin,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Amnicon Dowling Aquatic Plant Management Planning
+08/28/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+05/02/2016,Judy Peterson,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: 2016 Amnicon + Dowling Lk Management Plan + AIS Project
+05/24/2016,Judy Peterson,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: 2016 Amnicon + Dowling Lk Management Plan + AIS Project
+06/14/2016,Judy Peterson,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: 2016 Amnicon + Dowling Lk Management Plan + AIS Project
+08/01/2016,Judy Peterson,
+08/29/2016,Judy Peterson,
+09/27/2016,Judy Peterson,
+10/25/2016,Judy Peterson,
+05/28/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+06/18/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+06/18/2019,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+07/29/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+07/29/2019,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+08/26/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+08/26/2019,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+09/28/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+10/01/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+10/01/2019,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+10/28/2019,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+10/28/2019,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+05/18/2020,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+05/18/2020,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+06/16/2020,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+06/21/2020,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+07/20/2020,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+07/20/2020,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+08/19/2020,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+08/19/2020,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+09/22/2020,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+09/22/2020,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+10/13/2020,Amnicon-Dowling Lake Mgt,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project
+10/13/2020,Data Collectors,AMNICON/DOWLING LAKE MANAGEMENT DISTRICT: Dowling Lake Water Quality Improvement Planning Project

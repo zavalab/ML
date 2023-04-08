@@ -1,0 +1,507 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Ludden Lake,Iowa,930700,SC,25,,253168,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189002,04/13/1999,1.5,NO,0.5,,,71,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,05/02/1999,1.25,NO,0.4,,,74,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,05/19/1999,1,NO,0.3,,,77,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,06/02/1999,1.5,NO,0.5,,,71,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,06/17/1999,1,NO,0.3,,,77,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,07/12/1999,1.5,NO,0.5,,,71,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189002,07/28/1999,1,NO,0.3,,,77,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189002,09/08/1999,1,NO,0.3,,,77,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189002,07/07/2000,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,
+8189002,08/23/2000,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,
+8189002,06/26/2001,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,
+8189002,07/07/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,
+8189002,06/22/2002,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,
+8189002,07/14/2002,1.25,NO,0.4,,,74,,,LOW,,MURKY,BROWN,
+8189002,07/24/2002,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,
+8189002,08/21/2002,0.5,NO,0.2,,,87,,,NORMAL,,MURKY,BROWN,
+7000129,08/09/2004,,,,41,,,,63,,,,,
+8188676,08/09/2004,2.5,NO,0.8,,,64,,,,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8189002,05/05/2005,1.05,NO,0.3,,,76,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,05/10/2005,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,05/30/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,06/14/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,07/05/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189002,07/27/2005,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189002,08/03/2005,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,09/01/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,10/05/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,05/16/2006,1.5,NO,0.5,,,71,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189002,06/06/2006,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,06/19/2006,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,07/13/2006,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,08/03/2006,0,NO,0,,,,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,09/12/2006,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,05/09/2007,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,06/17/2007,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,07/10/2007,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189002,07/30/2007,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189002,08/17/2007,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,08/28/2007,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,06/02/2008,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,
+8189002,06/09/2008,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,
+8189002,06/16/2008,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,06/17/2008,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,
+8189002,06/24/2008,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,
+8189002,08/14/2008,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189002,09/07/2008,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,
+8189002,05/26/2009,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,
+8189002,06/12/2009,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,
+8189002,06/18/2009,1,NO,0.3,,,77,,,HIGH,,MURKY,BROWN,
+8189002,07/13/2009,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,
+8189002,07/23/2009,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,
+8189002,09/03/2009,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,
+8189002,09/08/2009,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,
+8189002,06/22/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,07/06/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189002,07/21/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189002,08/30/2010,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189002,09/13/2010,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189002,10/13/2010,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+61553647,04/24/2012,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+61553647,05/19/2012,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61553647,06/03/2012,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61553647,06/12/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61553647,07/14/2012,1.25,NO,0.4,,,74,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+61553647,08/06/2012,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61553647,09/16/2012,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+61553647,06/15/2013,2.25,NO,0.7,3.85,136,65,66,45,NORMAL,,MURKY,BROWN,
+61553647,07/28/2013,2.5,NO,0.8,29.5,126,64,66,60,NORMAL,,MURKY,BROWN,
+61553647,08/26/2013,2.5,NO,0.8,133,132,64,66,72,NORMAL,,MURKY,,
+61553647,05/17/2014,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,
+61553647,07/04/2014,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,
+61553647,07/12/2014,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,
+61553647,09/06/2014,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,
+61553647,09/13/2014,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,
+99385750,07/13/2015,,,,35.4,110,,65,62,,,,,
+99385750,08/05/2015,,,,82.5,149,,67,68,,,,,
+81193662,09/03/2015,,,,77,133,,66,68,,,,,
+133652550,09/19/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,10/05/2016,1.5,NO,0.5,,,71,,,NORMAL,10,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,11/01/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,11/20/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,03/16/2017,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+133652550,04/21/2017,1.5,NO,0.5,,,71,,,,9,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,05/11/2017,2,NO,0.6,,,67,,,NORMAL,9,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,06/14/2017,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+133652550,07/18/2017,2,NO,0.6,,,67,,,LOW,7,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,08/18/2017,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,08/30/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,09/16/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,10/17/2017,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,11/30/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,03/28/2018,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,04/30/2018,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,05/16/2018,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,06/21/2018,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,07/11/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,07/31/2018,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+133652550,08/08/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,09/12/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,10/18/2018,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,04/16/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,05/15/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,06/30/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,07/26/2019,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,08/22/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,09/24/2019,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,10/20/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+133652550,05/24/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,06/25/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,07/31/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+133652550,08/19/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,09/15/2020,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+133652550,10/20/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/09/2004,0,FEET,22,DEGREES C,11.9,MG/L
+08/09/2004,3,FEET,21,DEGREES C,8.4,MG/L
+08/09/2004,6,FEET,19.5,DEGREES C,5.3,MG/L
+08/09/2004,9,FEET,15.9,DEGREES C,2.2,MG/L
+08/09/2004,,,22.0,C,11.9,MG/L
+06/15/2013,0,FEET,68.4,DEGREES F,,
+06/15/2013,2,FEET,65.4,DEGREES F,,
+06/15/2013,4,FEET,65.2,DEGREES F,,
+06/15/2013,6,FEET,62.8,DEGREES F,,
+06/15/2013,8,FEET,60.4,DEGREES F,,
+06/15/2013,10,FEET,60.2,DEGREES F,,
+07/28/2013,0,FEET,71.4,DEGREES F,,
+07/28/2013,2,FEET,67.6,DEGREES F,,
+07/28/2013,4,FEET,67.6,DEGREES F,,
+07/28/2013,6,FEET,65.3,DEGREES F,,
+07/28/2013,8,FEET,64.1,DEGREES F,,
+07/28/2013,10,FEET,63.8,DEGREES F,,
+08/26/2013,0,FEET,91.1,DEGREES F,,
+08/26/2013,2,FEET,78.2,DEGREES F,,
+08/26/2013,4,FEET,75,DEGREES F,,
+08/26/2013,6,FEET,72.3,DEGREES F,,
+08/26/2013,8,FEET,71.1,DEGREES F,,
+08/26/2013,10,FEET,70.5,DEGREES F,,
+04/30/2018,0,FEET,75.5,DEGREES F,,
+04/30/2018,2,FEET,59.7,DEGREES F,,
+04/30/2018,4,FEET,57.9,DEGREES F,,
+04/30/2018,6,FEET,57.5,DEGREES F,,
+04/30/2018,8,FEET,57,DEGREES F,,
+06/21/2018,0,FEET,75.5,DEGREES F,,
+06/21/2018,2,FEET,59.7,DEGREES F,,
+06/21/2018,4,FEET,57.9,DEGREES F,,
+06/21/2018,6,FEET,57.5,DEGREES F,,
+06/21/2018,8,FEET,57,DEGREES F,,
+07/11/2018,0,FEET,80.4,DEGREES F,,
+07/11/2018,2,FEET,79.2,DEGREES F,,
+07/11/2018,4,FEET,77,DEGREES F,,
+07/11/2018,6,FEET,71.4,DEGREES F,,
+07/11/2018,8,FEET,69.8,DEGREES F,,
+07/31/2018,0,FEET,80,DEGREES F,,
+07/31/2018,2,FEET,73.9,DEGREES F,,
+07/31/2018,4,FEET,70.7,DEGREES F,,
+07/31/2018,6,FEET,69.4,DEGREES F,,
+07/31/2018,8,FEET,68,DEGREES F,,
+07/31/2018,9,FEET,68,DEGREES F,,
+08/08/2018,0,FEET,85.8,DEGREES F,,
+09/12/2018,0,FEET,77.5,DEGREES F,,
+09/12/2018,2,FEET,63.8,DEGREES F,,
+09/12/2018,4,FEET,61.8,DEGREES F,,
+09/12/2018,6,FEET,60.8,DEGREES F,,
+09/12/2018,8,FEET,60.4,DEGREES F,,
+09/12/2018,9,FEET,60.2,DEGREES F,,
+10/18/2018,0,FEET,54.8,DEGREES F,,
+10/18/2018,2,FEET,47.4,DEGREES F,,
+10/18/2018,4,FEET,47.1,DEGREES F,,
+10/18/2018,6,FEET,45.8,DEGREES F,,
+10/18/2018,8,FEET,45.5,DEGREES F,,
+10/18/2018,9,FEET,45.5,DEGREES F,,
+04/16/2019,0,FEET,69,DEGREES F,,
+04/16/2019,2,FEET,55.7,DEGREES F,,
+04/16/2019,4,FEET,52.4,DEGREES F,,
+04/16/2019,6,FEET,49.1,DEGREES F,,
+04/16/2019,8,FEET,46.1,DEGREES F,,
+04/16/2019,9,FEET,44,DEGREES F,,
+05/15/2019,0,FEET,76.8,DEGREES F,,
+05/15/2019,2,FEET,62.9,DEGREES F,,
+05/15/2019,4,FEET,57.2,DEGREES F,,
+05/15/2019,6,FEET,52.5,DEGREES F,,
+05/15/2019,8,FEET,50.5,DEGREES F,,
+05/15/2019,9,FEET,50.3,DEGREES F,,
+06/30/2019,0,FEET,78.1,DEGREES F,,
+06/30/2019,2,FEET,74.1,DEGREES F,,
+06/30/2019,4,FEET,69.9,DEGREES F,,
+06/30/2019,6,FEET,65.4,DEGREES F,,
+06/30/2019,8,FEET,62.4,DEGREES F,,
+06/30/2019,9,FEET,62,DEGREES F,,
+07/26/2019,0,FEET,80.7,DEGREES F,,
+07/26/2019,2,FEET,70.8,DEGREES F,,
+07/26/2019,4,FEET,67.6,DEGREES F,,
+07/26/2019,6,FEET,67.1,DEGREES F,,
+07/26/2019,8,FEET,66,DEGREES F,,
+07/26/2019,9,FEET,65.1,DEGREES F,,
+08/22/2019,0,FEET,75.3,DEGREES F,,
+08/22/2019,2,FEET,72.8,DEGREES F,,
+08/22/2019,4,FEET,68.5,DEGREES F,,
+08/22/2019,6,FEET,65.4,DEGREES F,,
+08/22/2019,8,FEET,65.1,DEGREES F,,
+08/22/2019,9,FEET,65.1,DEGREES F,,
+09/24/2019,0,FEET,80.2,DEGREES F,,
+09/24/2019,2,FEET,68.2,DEGREES F,,
+09/24/2019,4,FEET,64,DEGREES F,,
+09/24/2019,6,FEET,62.4,DEGREES F,,
+09/24/2019,8,FEET,59.2,DEGREES F,,
+09/24/2019,9,FEET,58.8,DEGREES F,,
+10/20/2019,0,FEET,58.2,DEGREES F,,
+10/20/2019,2,FEET,51.2,DEGREES F,,
+10/20/2019,4,FEET,50.7,DEGREES F,,
+10/20/2019,6,FEET,50.7,DEGREES F,,
+10/20/2019,8,FEET,50.5,DEGREES F,,
+10/20/2019,9,FEET,50.1,DEGREES F,,
+05/24/2020,0,FEET,78.8,DEGREES F,,
+05/24/2020,2,FEET,71,DEGREES F,,
+05/24/2020,4,FEET,70.5,DEGREES F,,
+05/24/2020,6,FEET,68.1,DEGREES F,,
+05/24/2020,8,FEET,59.7,DEGREES F,,
+06/25/2020,0,FEET,79.2,DEGREES F,,
+06/25/2020,2,FEET,70.1,DEGREES F,,
+06/25/2020,4,FEET,64.2,DEGREES F,,
+06/25/2020,6,FEET,62,DEGREES F,,
+06/25/2020,8,FEET,61.1,DEGREES F,,
+06/25/2020,9,FEET,60.4,DEGREES F,,
+07/31/2020,0,FEET,79.7,DEGREES F,,
+07/31/2020,2,FEET,75.9,DEGREES F,,
+07/31/2020,4,FEET,73.7,DEGREES F,,
+07/31/2020,6,FEET,71.6,DEGREES F,,
+07/31/2020,8,FEET,69.2,DEGREES F,,
+07/31/2020,9,FEET,69.2,DEGREES F,,
+08/19/2020,0,FEET,80,DEGREES F,,
+08/19/2020,2,FEET,76.8,DEGREES F,,
+08/19/2020,4,FEET,70.8,DEGREES F,,
+08/19/2020,6,FEET,68.7,DEGREES F,,
+08/19/2020,8,FEET,67.6,DEGREES F,,
+08/19/2020,9,FEET,67.2,DEGREES F,,
+09/15/2020,0,FEET,76.2,DEGREES F,,
+09/15/2020,2,FEET,63.5,DEGREES F,,
+09/15/2020,4,FEET,60,DEGREES F,,
+09/15/2020,6,FEET,58.4,DEGREES F,,
+09/15/2020,8,FEET,57.5,DEGREES F,,
+09/15/2020,9,FEET,57.3,DEGREES F,,
+10/20/2020,0,FEET,48.7,DEGREES F,,
+10/20/2020,2,FEET,45.7,DEGREES F,,
+10/20/2020,4,FEET,45.3,DEGREES F,,
+10/20/2020,6,FEET,44,DEGREES F,,
+10/20/2020,8,FEET,43.1,DEGREES F,,
+10/20/2020,9,FEET,43.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/07/2000,Lots of geese. Water high. Lots of rain. Not clear. Mild wind.    
+08/23/2000,Lake just turned clear now.    
+06/26/2001,Clear- the lake is like glass- warm day in the 80s and no wind.    
+07/07/2001,Calm- cloudy lake and warm and humid.    
+06/22/2002,Lots of rain. Fish jumping. 90 F.    
+07/14/2002,85 F. Lake is calm- quiet.    
+07/24/2002,Lake is like glass. 80 F. It has been very dry.    
+08/21/2002,Big storm last night. Lots of rain. Heron out for fish. Mud washed into lake from const.    
+08/09/2004,DEEP HOLE    
+05/10/2005,Rain last few days - sunshine - geese.    
+05/30/2005,70 F.  Sunshine - calm.    
+06/14/2005,Coudy - storm on its way - wwater warm - several rain storms in area - turtles are back.    
+07/05/2005,About 80 F - calm water - very brown - need rain.    
+07/27/2005,About 70 F - calm.    
+08/03/2005,89 F- calm day.    
+10/05/2005,High 85 F.    
+05/16/2006,rainy today- clear night- "new secchi" works well
+06/06/2006,clear day- 80's carp spawning
+06/19/2006,clear day- 80'S
+07/13/2006,rain all day yesterday
+08/03/2006,70F beautiful- wedding on lake Aug 5
+09/12/2006,Rain and more rain- can't paint the steps- walk the dog in the rain
+06/02/2008,Calm overcast- high 70s
+06/09/2008,Cloudy 70s
+Flooding. No rain today. Lots of mud washed into lake
+06/16/2008,overcast 70s calm
+Still muddy from rain
+06/17/2008,Sunny 80s
+Calm
+Starting to get back to normal
+06/24/2008,mid 70s 
+Sunny- slight breeze
+08/14/2008,mid 70s 
+Calm. Beautiful. 
+DNR here to take out carp.
+09/07/2008,70s Super day - Fall in the air
+05/26/2009,lake turned yesterday. lake turned yesterday. Cloudy- temperature in the 50's. Rain.
+06/12/2009,Cloudy. Lake calm. Heron here last night. Bass boats out.
+06/18/2009,4.5 inches of rain on June 18. Tons of mud and debris in the lake. Too bad people insist on digging up the hillside and banks.
+07/13/2009,cloudy- high 70's. Dry.
+07/23/2009,Sunshine- 70's.
+09/03/2009,Sun. 70's. Beaver are back.
+09/08/2009,Sun. 70-80 degrees. Calm and clear. Some algae floating.
+06/22/2010,Rain ever day for over a week - mud-like lake.
+07/06/2010,Cloudy - lake is high.
+07/21/2010,Sunshine - 80s temperatures - lots of carp.
+08/30/2010,Hot and dry.
+09/13/2010,Sunshine - in the 70s - dry.
+10/13/2010,In the 60s - sunshine - very dry.
+04/24/2012,mild wind- mostly sunny- early ice off- abnormally high temperatures for season
+05/19/2012,warm (near 80 degrees)- bright- clear skies- water has waves from wind
+06/03/2012,warm and clear- little wind
+06/12/2012,bright- sunny clear skies
+07/14/2012,bright- hot- water levels lower then normal- hasn't rained for weeks
+08/06/2012,cloudy
+09/16/2012,sunny and warm
+06/15/2013,Calm- cloudy
+07/28/2013,Sunny
+08/26/2013,Sunny
+05/17/2014,cloudy and calm high water
+07/04/2014,Sunny clear calm and sunny normal water height
+07/12/2014,Algae on the surface- partly cloudy partly cloudy normal water height
+09/06/2014,Algae on surface- clear with slight breeze algae near shore clear breezy water level was low
+09/13/2014,Somewhat foggy foggy starting to clear low water level
+10/05/2016,70 F- partly cloudy- had rain in the morning
+11/01/2016,71 degrees and sunny
+11/20/2016,slight change of location- wind calm- 35 degrees- lake had iced over the previous night but had melted off
+04/21/2017,partly cloudy- 60 degrees- middle of lake
+05/11/2017,70 degrees- partly cldy- middle of lake
+06/14/2017,Heavy rain the day before. 76 degrees
+07/18/2017,ALGAE BLOOM 7/19
+Did a secchi reading  7/19 at 10 inches- much reduced from 7/18
+7/19 - received 4.2 inches of rain at night and the lake flooded approximately 3 feet higher than normal levels
+Very warm and high humidity last 2 days
+
+Will be reporting the color of the lake as brown under normal circumstances as opposed to the green which will indicate algae growth. This is a change.
+08/18/2017,partly cloudy- rain yesterday- 72 degrees F
+08/30/2017,pt cloudy- 79 degrees F- lots of floating clumps of algae
+09/16/2017,Sunny Breezy 86 degrees
+10/17/2017,partly cloudy- warm- breezy
+11/30/2017,been unseasonably warm has been unseasonably warm
+sunny today
+03/28/2018,Partly sunny- 58 degrees F- low wind- some water fowl  and bird activity - geese- merganser- eagles
+04/30/2018,Partly cloudy- warm and very windy with gusting
+05/16/2018,For some reason the original report was not saved and I am re-entrering information to the best of my recollection
+06/21/2018,I am reporting after the fact and retained only part of my report- the temps. 
+I do not know why my June report was not saved and am reporting to the best of my recollection
+07/31/2018,pt. cloudy
+only a sprinkle of rain in last 5 days
+lots of floating brown scum
+08/08/2018,Partly cloudy
+Rain last two days
+Surface is clear
+09/12/2018,Last 5 days without rain- before that 10 days of record setting rainfalls
+slight wind
+sunny
+2 cormorants sighted
+10/18/2018,Weather - Clear- 3days without rain...prior to that - 3 weeks with rain- many large rainfalls
+04/16/2019,nice partly cloudy day- 69 degrees
+loon on lake!
+05/15/2019,Sunny day after plenty of rain in last month
+geese ducks eagles deer
+06/30/2019,much rain on and off last few days
+hot temp and humidities much rain on and off last few days
+high temps and humidity
+07/26/2019,A month of heavy rains and hot weather.
+Last week- the lake had visible algae forming around the edges and a somewhat oily surface. Secchi of 2.5
+Heavy winds and rain have cleared the surface but created more turbulence.
+Today windy- warm- pt. cloudy
+08/22/2019,Sunny-calm
+09/24/2019,sunny- very breezy
+clear last two days after week of rain
+10/20/2019,pt.cloudy
+rain yesterday
+temps for oct. unusually cool
+06/25/2020,Rain yesterday- sunny today
+Since the start of the covid 19 restrictions- there has been an all-around increase in the use of the lake - fishing- boating- and swimming at the dam
+07/31/2020,partly cloudy
+no rain last 2 days
+08/19/2020,weather has been fair and hot
+09/15/2020,5 significant days of rain before yesterday
+10/20/2020,overcast
+cold last 3 days
+small precip yesterday
+windy
+
+
+
+
+Start Date,Group Name,Project Name
+04/13/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/02/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/19/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/02/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/17/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/12/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/28/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/08/1999,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/07/2000,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/23/2000,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/26/2001,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/07/2001,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/22/2002,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/14/2002,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/24/2002,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/21/2002,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/09/2004,Carl Molter,Lakes Baseline and Trends Monitoring
+08/09/2004,Susan Graham,Lake Baseline Monitoring- DNR (1970s-2006)
+05/05/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/10/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/30/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/14/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/05/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/27/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/03/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/01/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/05/2005,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/16/2006,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/06/2006,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/19/2006,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/13/2006,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/03/2006,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/12/2006,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/09/2007,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/17/2007,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/10/2007,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/30/2007,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/17/2007,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/28/2007,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/02/2008,Berty Miller,
+06/09/2008,Berty Miller,
+06/16/2008,Berty Miller,
+06/17/2008,Berty Miller,
+06/24/2008,Berty Miller,
+08/14/2008,Berty Miller,
+09/07/2008,Berty Miller,
+05/26/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/12/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/18/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/13/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/23/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/03/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/08/2009,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/22/2010,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/06/2010,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/21/2010,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/30/2010,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/13/2010,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/13/2010,Berty Miller,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+04/24/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/19/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/03/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/12/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/14/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/06/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/16/2012,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/15/2013,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/28/2013,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/26/2013,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/17/2014,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/04/2014,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/12/2014,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/06/2014,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/13/2014,Vern Cutler,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/13/2015,KATRINA PUNZEL,Southern District Follow Up Monitoring for Impairment Decisions 2015
+08/05/2015,KATRINA PUNZEL,Southern District Follow Up Monitoring for Impairment Decisions 2015
+09/03/2015,JEANNE SCHERER,Southern District Follow Up Monitoring for Impairment Decisions 2015
+09/19/2016,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/05/2016,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+11/01/2016,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+11/20/2016,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+03/16/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+04/21/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/11/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/14/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/18/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/18/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/30/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/16/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/17/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+11/30/2017,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+03/28/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+04/30/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/16/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/21/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/11/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/31/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/08/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/12/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/18/2018,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+04/16/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/15/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/30/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/26/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/22/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/24/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/20/2019,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+05/24/2020,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+06/25/2020,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+07/31/2020,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+08/19/2020,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+09/15/2020,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole
+10/20/2020,Janet Kolze,Citizen Lake Monitoring - Water Quality - Ludden Lake; Deep Hole

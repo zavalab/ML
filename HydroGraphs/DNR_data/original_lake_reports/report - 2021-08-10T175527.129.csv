@@ -1,0 +1,646 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+English Lake,Manitowoc,68100,NE,36,,363037,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/11/1976,,,,,150,,67,,,,,,
+1,04/14/1976,4.1,,1.25,,,57,,,,,,,
+1,07/12/1976,3.3,,1,,,60,,,,,,,
+1,11/03/1976,6.6,,2,,,50,,,,,,,
+1,02/27/1985,,,,5,190,,69,47,,,,,
+1,04/17/1985,,,,42,180,,68,63,,,,,
+1,08/19/1985,,,,10,280,,54,52,,,,,
+1,10/29/1985,,,,37,60,,60,62,,,,,
+1,02/11/1986,,,,,150,,67,,,,,,
+8190683,07/03/1989,10.25,NO,3.1,,,44,,,1/2" ABOVE BENCH MARK (NEAR NORMAL),,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/10/1989,13.5,NO,4.1,,,40,,,NORMAL= 2" ABOVE BENCH MARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/24/1989,17.25,NO,5.2,,,36,,,1/2" ABOVE BENCHMARK,,,GREEN,2-Very minor aesthetic problems
+8190683,08/11/1989,14.75,NO,4.5,,,38,,,1" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/24/1989,12.25,NO,3.7,,,41,,,2" BELOW BENCHMARK,,,GREEN,2-Very minor aesthetic problems
+8190683,09/03/1989,11,NO,3.3,,,43,,,3" BELOW BENCH MARK,,,GREEN,2-Very minor aesthetic problems
+8190683,09/15/1989,13.5,NO,4.1,,,40,,,4" BELOW BENCH MARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,09/29/1989,13.75,NO,4.2,,,39,,,4-5" BELOW BENCH MARK,,,GREEN,2-Very minor aesthetic problems
+8190683,06/11/1990,1.75,NO,0.5,,,69,,,1" ABOVE ORIGINAL BENCH MARK.,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190683,06/19/1990,1.75,NO,0.5,,,69,,,2" ABOVE BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,06/29/1990,1.25,NO,0.4,,,74,,,4 3/4" ABOVE BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,07/10/1990,6.75,NO,2.1,,,50,,,2 1/2" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/19/1990,4.75,NO,1.4,,,55,,,1/2" ABOVE BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,07/26/1990,8.25,NO,2.5,,,47,,,1" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/07/1990,10.5,NO,3.2,,,43,,,1/4" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/17/1990,8,NO,2.4,,,47,,,1" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/28/1990,5,NO,1.5,,,54,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,09/17/1990,5.75,NO,1.7,,,52,,,1/2" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,09/27/1990,6.5,NO,2,,,50,,,1/4" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,12/27/1990,,,,,,,,,APPROX 6-10 HIGHER THAN BENCHMARK,,,,
+8190683,04/17/1991,7.5,NO,2.3,,,48,,,8" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,04/28/1991,4,NO,1.2,,,57,,,2.5" ABOVE BENCHMARK,,,BROWN,4-Would not swim but boating OK (algae)
+8190683,05/09/1991,18.5,NO,5.6,,,35,,,.25" ABOVE BENCHMARK,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190683,05/13/1991,20,NO,6.1,,,34,,,.25 BELOW BENCHMARK,,CLEAR,,2-Very minor aesthetic problems
+8190683,05/26/1991,14.5,NO,4.4,,,39,,,1" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,06/02/1991,5.75,NO,1.7,,,52,,,.5" BELOW BENCHMARK,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190683,06/13/1991,19,NO,5.8,,,35,,,2.75" BELOW BENCHMARK,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190683,06/23/1991,16,NO,4.9,,,37,,,3.5" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/02/1991,17,NO,5.2,,,36,,,4.5" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/11/1991,16,NO,4.9,,,37,,,5.75" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/25/1991,11.25,NO,3.4,,,42,,,4.25" BELOW BENCHMARK,,,GREEN,2-Very minor aesthetic problems
+8190683,08/13/1991,9,NO,2.7,,,45,,,1.75" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/23/1991,5.75,NO,1.7,,,52,,,2.5" BELOW BENCHMARK,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,09/04/1991,6.25,NO,1.9,,,51,,,3.75 BELOW BENCHMARK,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,09/21/1991,9,NO,2.7,,,45,,,4.5" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,04/28/1992,5.5,NO,1.7,,,53,,,5" ABOVE BENCHMARK,,,BROWN,4-Would not swim but boating OK (algae)
+8190683,05/06/1992,7.5,NO,2.3,,,48,,,2.5" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,05/19/1992,18.25,NO,5.5,,,35,,,1/2" ABOVE BENCHMARK,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,06/03/1992,7,NO,2.1,,,49,,,2.0" UNDER BENCHMARK,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190683,06/09/1992,7.5,NO,2.3,,,48,,,2.25" ABOVE BENCHMARK,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190683,06/30/1992,3.75,NO,1.1,,,58,,,3.5" BELOW BENCHMARK,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190683,07/15/1992,5.75,NO,1.7,,,52,,,1.5" BELOW BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,07/30/1992,15.25,NO,4.6,,,38,,,3 1/8" BELOW BENCHMARK,,CLEAR,,2-Very minor aesthetic problems
+8190683,08/11/1992,13.25,NO,4,,,40,,,4" BELOW BENCHMARK,,,GREEN,2-Very minor aesthetic problems
+8190683,08/22/1992,16,NO,4.9,,,37,,,5" BELOW BENCHMARK,,,GREEN,2-Very minor aesthetic problems
+1,09/14/1992,,,,6.4,18,,51,49,,,,,
+1,02/01/1993,,,,,177,,68,,,,,,
+8190683,05/06/1993,11,NO,3.3,,,43,,,9"ABOV BENCH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,05/22/1993,15.75,NO,4.8,,,37,,,6" ABOVE BENCH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,06/03/1993,13.5,NO,4.1,,,40,,,6.5" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,06/10/1993,6.5,NO,2,,,50,,,7.25" ABOVE BENCHMARK,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190683,07/07/1993,5.5,NO,1.7,,,53,,,7.5" ABOVE BENCHMARK,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190683,07/15/1993,17.5,NO,5.3,,,36,,,5.25" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/10/1993,7.5,NO,2.3,,,48,,,3.75" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,08/24/1993,7.5,NO,2.3,,,48,,,1" BELOW BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,09/01/1993,7.75,NO,2.4,,,48,,,1.125 BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,09/11/1993,7.5,NO,2.3,,,48,,,3.25" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,09/24/1993,7.25,NO,2.2,,,49,,,3/4 BELOW BENCHMARK,,,GREEN,2-Very minor aesthetic problems
+1,10/07/1993,,,,15.3,44,,57,55,,,,,
+1,01/25/1994,,,,,189,,69,,,,,,
+1,05/12/1994,,,,11.7,81,,62,53,,,,,
+8190683,05/27/1994,12.5,NO,3.8,,,41,,,2" ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,06/05/1994,10.5,NO,3.2,,,43,,,.625 ABOVE BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,06/12/1994,8,NO,2.4,,,47,,,.25" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,06/19/1994,8.5,NO,2.6,,,46,,,1.625" BELOW BENCHMARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/02/1994,4.25,NO,1.3,,,56,,,2.5" BELOW BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,07/10/1994,3,NO,0.9,,,61,,,.25" ABOVE BENCHMARK,,,GREEN,4-Would not swim but boating OK (algae)
+8190683,07/16/1994,3,NO,0.9,,,61,,,2" BELOW BENCH MARK,,,GREEN,4-Would not swim but boating OK (algae)
+1,07/24/1994,,,,15.2,39,,57,55,,,,,
+8190683,07/24/1994,6,NO,1.8,,,51,,,3" BELOW BENCH MARK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190683,07/31/1994,3.5,NO,1.1,,,59,,,3" BELOW BENCH MARK,,,GREENISH BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,08/07/1994,4,NO,1.2,,,57,,,,,,GREENISH BROWN,3-Enjoyment somewhat impaired (algae)
+8190683,08/14/1994,4,NO,1.2,,,57,,,1" BELOW BENCH MARK,,,GREENISH BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/08/1994,,,,13.7,24,,53,55,,,,,
+8190683,07/09/1995,4,NO,1.2,,,57,,,3.5" BELOW BENCHMARK,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189652,06/12/1996,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,06/26/1996,7.25,NO,2.2,,,49,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8189652,07/06/1996,12.5,NO,3.8,,,41,,,,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8189652,07/13/1996,9.5,NO,2.9,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8189652,07/21/1996,11,NO,3.3,,,43,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,08/02/1996,8,NO,2.4,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189652,08/13/1996,9.5,NO,2.9,,,45,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189652,08/23/1996,7.5,NO,2.3,,,48,,,,,,GREEN,2-Very minor aesthetic problems
+8189652,09/11/1996,5.33,NO,1.6,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8189652,06/04/1997,7.5,NO,2.3,,,48,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,06/18/1997,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189652,07/05/1997,10.5,NO,3.2,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189652,07/24/1997,8,NO,2.4,,,47,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189652,08/05/1997,5.5,NO,1.7,,,53,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189652,05/27/1998,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,06/10/1998,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,06/25/1998,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,07/10/1998,7.5,NO,2.3,,,48,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,07/29/1998,7.5,NO,2.3,,,48,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,08/10/1998,8.5,NO,2.6,,,46,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,08/21/1998,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,09/01/1998,8.5,NO,2.6,,,46,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,09/11/1998,8.5,NO,2.6,,,46,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,05/27/1999,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,06/20/1999,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,06/25/1999,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,07/07/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,08/02/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,08/25/1999,9,NO,2.7,,,45,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,09/16/1999,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,10/08/1999,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189652,10/23/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,11/09/1999,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,06/20/2000,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,06/25/2000,10.251,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,07/06/2000,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,07/22/2000,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189652,08/08/2000,8.5,NO,2.6,,,46,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189652,08/23/2000,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189652,09/08/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16073539,02/05/2001,,,,,177,,68,,,,,,
+8189652,06/20/2001,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189652,07/09/2001,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189652,07/25/2001,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189652,08/10/2001,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189652,08/26/2001,3,NO,0.9,,,61,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8189652,09/11/2001,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189652,09/27/2001,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189652,10/13/2001,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16073539,03/04/2002,,,,2,178,,68,40,,,,,
+16073539,06/21/2002,,,,2.81,77,,62,43,,,,,
+8188854,06/22/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188854,07/13/2002,8,NO,2.4,,,47,,,NORMAL,,MURKY,BLUE,1-Beautiful, could not be nicer
+16073539,07/23/2002,,,,0.68,25,,53,32,,,,,
+8188854,07/26/2002,7,NO,2.1,,,49,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8188854,08/10/2002,5,NO,1.5,,,54,,,LOW,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+16073539,08/20/2002,,,,5.64,24,,53,48,,,,,
+8188854,08/23/2002,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188854,09/06/2002,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188854,09/21/2002,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188854,10/05/2002,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16073539,01/28/2003,,,,10.3,210,,70,52,,,,,
+8189652,06/13/2003,15,NO,4.6,,,38,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189652,06/29/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189652,07/15/2003,7,NO,2.1,,,49,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8189652,07/31/2003,7,NO,2.1,,,49,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8189652,08/16/2003,6,NO,1.8,,,51,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8189652,09/01/2003,6,NO,1.8,,,51,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+8189652,09/17/2003,5,NO,1.5,,,54,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,10/03/2003,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+7000066,09/13/2004,,,,2.54,16,,50,42,,,,,
+8188854,06/15/2005,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189652,06/15/2005,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188854,06/30/2005,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189652,06/30/2005,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188854,07/04/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189652,07/15/2005,9,NO,2.7,,,45,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188854,07/16/2005,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188854,08/06/2005,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,08/06/2005,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188854,08/27/2005,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188854,09/03/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188854,09/24/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189652,06/10/2006,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189652,06/24/2006,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189652,07/14/2006,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189652,07/19/2006,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,08/10/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,08/19/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,09/16/2006,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189652,10/06/2006,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188854,06/20/2008,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8188854,06/30/2008,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188854,07/16/2008,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188854,07/30/2008,9,NO,2.7,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8188854,08/16/2008,11,NO,3.3,,,43,,,NORMAL,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188854,08/30/2008,12,NO,3.6,,,41,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188854,09/14/2008,11,NO,3.3,,,43,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188854,09/28/2008,13,NO,4,,,40,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+8188854,10/11/2008,13,NO,4,,,40,,,LOW,,MURKY,BLUE,1-Beautiful, could not be nicer
+37011578,08/06/2009,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+21928796,04/08/2010,5.4,NO,1.6,31.2,112,53,65,61,,,,,
+18639535,05/26/2010,6.8,NO,2.1,9.68,35,50,56,52,,,,,
+16073539,07/12/2010,8.4,NO,2.6,5.97,24,46,53,48,,,,,
+16073539,08/26/2010,7.3,NO,2.2,4.11,16,48,50,45,,,,,
+34972236,11/10/2010,11.5,NO,3.5,6.03,46,42,58,48,,,,,
+44585588,02/17/2011,13.2,NO,4,,151,40,67,,,,,,
+125862804,05/15/2012,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,
+125862804,05/30/2012,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,
+125862804,06/06/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,
+125862804,06/13/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,
+125862804,06/21/2012,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,
+125862804,06/30/2012,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,
+125862804,07/08/2012,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,
+125862804,07/15/2012,13,NO,4,,,40,,,LOW,,CLEAR,BROWN,
+34982050,07/23/2012,,,,3.79,18,,51,45,,,,,
+125862804,07/25/2012,14,NO,4.3,,,39,,,LOW,,CLEAR,BROWN,
+125862804,08/16/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,
+34982050,08/19/2012,,,,4.74,20,,51,47,,,,,
+125862804,08/24/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,
+125862804,09/01/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+34982050,09/15/2012,,,,3.93,18,,51,45,,,,,
+125862804,10/03/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,
+34982050,04/26/2013,,,,,145,,67,,,,,,
+125862804,06/03/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,
+34982050,07/07/2013,,,,16.3,27.3,,54,56,,,,,
+34982050,08/05/2013,,,,7.37,31.1,,55,50,,,,,
+125862804,09/03/2013,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,
+34982050,09/05/2013,,,,4.43,17.9,,50,46,,,,,
+34982050,04/21/2014,,,,,172,,68,,,,,,
+125862804,07/10/2014,12,NO,3.6,,,41,,,NORMAL,,CLEAR,,
+7000093,08/25/2014,7.5,,2.3,7.46,28.3,48,54,50,,,,BLUE,1-Beautiful, could not be nicer
+125862804,09/03/2014,13,NO,4,,,40,,,NORMAL,,CLEAR,,
+34982050,04/02/2015,4.5,,1.4,,,55,,,,,,,
+34982050,04/05/2015,,,,,198,,69,,,,,,
+121396029,06/20/2015,,,,3.41,35.5,,56,44,,,,,
+125862804,06/20/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,
+125862804,07/08/2015,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,
+121396025,07/27/2015,,,,4.03,22.4,,52,45,,,,,
+125862804,07/27/2015,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,
+121396025,09/01/2015,,,,3.89,22.7,,52,45,,,,,
+1,06/24/2016,,,,12.2,30.7,,55,54,,,,,
+121396025,06/24/2016,,,,2.97,31.8,,55,43,,,,,
+125862804,06/26/2016,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,
+121396025,07/30/2016,,,,5.48,24.4,,53,48,,,,,
+125862804,07/30/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,
+121396025,09/02/2016,,,,11.3,24.9,,53,53,,,,,
+121396025,07/31/2017,13,,4,6.23,27.3,40,54,49,,,,,
+121396025,08/31/2017,9,,2.7,10.3,21.9,45,52,52,,,,,
+121396025,06/22/2018,12,NO,3.6,5.55,26.6,41,54,48,,,,,
+121396025,07/31/2018,7,,2.1,2.56,18.8,49,51,42,,,,,
+121396025,08/31/2018,6,,1.8,9.62,34.2,51,56,52,,,,,
+121396025,06/30/2019,,,,6.24,31.6,,55,49,,,,,
+121396025,07/29/2019,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,
+121396025,07/31/2019,,,,4.88,30.5,,55,47,,,,,
+121396025,08/29/2019,,,,4.6,23.8,,53,46,,,,,
+121396025,08/30/2019,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,
+121396025,10/12/2019,19,,5.8,,,35,,,NORMAL,,,BLUE,
+256786396,06/28/2020,7,NO,2.1,,,49,,,NORMAL,,CLEAR,,
+256786396,06/29/2020,,,,8.42,33.7,,55,51,,,,,
+256786396,07/28/2020,,,,6.31,26.7,,54,49,,,,,
+256786396,07/30/2020,8,NO,2.4,,,47,,,NORMAL,,CLEAR,,
+256786396,08/29/2020,10,NO,3,7.4,27.9,44,54,50,NORMAL,,CLEAR,,
+256786396,09/22/2020,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/11/1976,,,0,C,11.8,MG/L
+04/14/1976,,,4,C,12.3,MG/L
+07/12/1976,,,13.9,C,.6,MG/L
+11/03/1976,,,8.1,C,12.2,MG/L
+09/14/1992,,,18.34,C,0.41,MG/L
+02/01/1993,,,1.91,C,0.46,MG/L
+10/07/1993,,,13.69,C,0.43,MG/L
+05/12/1994,,,13.41,C,12.1,MG/L
+07/24/1994,,,24.83,C,0.63,MG/L
+09/08/1994,,,19.74,C,1.05,MG/L
+04/08/2010,,,3.8,C,0.1,MG/L
+05/26/2010,,,25.8,C,0.2,MG/L
+07/12/2010,,,27.3,C,0.0,MG/L
+08/26/2010,,,24.1,C,0.1,MG/L
+11/10/2010,,,4.1,C,0.2,MG/L
+02/17/2011,,,2.1,C,0.2,MG/L
+08/25/2014,3,FEET,74,DEGREES F,8.4,MG/L
+08/25/2014,6,FEET,74,DEGREES F,8.4,MG/L
+08/25/2014,9,FEET,73,DEGREES F,8.4,MG/L
+08/25/2014,12,FEET,71,DEGREES F,7.9,MG/L
+08/25/2014,15,FEET,67,DEGREES F,3.8,MG/L
+08/25/2014,18,FEET,58,DEGREES F,.9,MG/L
+08/25/2014,21,FEET,49,DEGREES F,.5,MG/L
+08/25/2014,24,FEET,47,DEGREES F,.5,MG/L
+08/25/2014,27,FEET,47,DEGREES F,.5,MG/L
+08/25/2014,30,FEET,47,DEGREES F,.5,MG/L
+04/02/2015,0,FEET,41,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+02/11/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/14/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/12/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/03/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/27/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/17/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/19/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/29/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/11/1986,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/03/1989,5 perception on east side.  Sunny- light wind- algae severe in some areas (east shore) - Easily raked other shores.    
+07/10/1989,Perception of 5 on east shore.    
+07/24/1989,Perception of 5 on east shore.  Hazy- hot- water considerably clearer than last check.  Algae tapering off.    
+08/11/1989,Perception of 5 on east shore.  Hazy.  Algae seems to be abating.  Level-1" below benchmark.  Very heavy "septic" smell on east shore.    
+08/24/1989,Perception of 5 on east shore.  Sunny.  Since last report had two reports of strong septic smell- east side.  Confirmed.  What can be done     
+09/03/1989,Perception of 5 on east shore.  Sunny.  Starting to get a weed problem (thought to be wild celery  )    
+09/15/1989,Perception of 5 on east shore. clear- sunny-suspended algae and/or sediment clearly visible.  Lots of violations and little enforcement.    
+09/29/1989,Perception of 4 on east side.  Suspended particles very much in evidence- sunny weather.    
+06/11/1990,Ice off-3/25/90.  Hazy to cloudy.  Severe micro cystis problem last week.  Water smells very bad.  Clarity very bad- worst in history.    
+06/19/1990,Sunny- algae starting to form on bottom.    
+06/29/1990,Hazy- lake is getting worse! help!    
+07/10/1990,Hazy- water has cleared considerably!    
+07/19/1990,Hazy.  Deterioration May be due to several power boats creating huge wakes.  We plan to do a study if funds are available to us and hopefully treat the lake in 1991.    
+07/26/1990,Mostly sunny.  Water cleared considerably.  Lake seems to be cloudy but with less "green algae."    
+08/07/1990,Sunny- green algae starting to form on bottom- not nearly as bad as last and other years.    
+08/17/1990,Hazy.  Reduced visibility- probably due to heavy speed bat use.  Lake far to small for sure a pounding.  Green algae far less than other years.    
+08/28/1990,Sunny.  Appears to be another bloom or turnover.  Lots of rain and heavy boat traffic also hurts.  Lots more weeds than ever- but not as much green algae as in some recent years.    
+09/17/1990,Sunny.  Applying for a study grant.    
+09/27/1990,Sunny- slightly hazy.  Had green scum on water 9/26- no dispersed by breeze.    
+12/27/1990,Ice on eve of 12/25.  There was no secchi reading- just observation.  Happy new year!    
+04/17/1991,Ice out 3/28. Bright and sunny.  Chunks of algae already floating around. Tile-off heavy during past 2 weeks.  Bank erosion May be a problem with high level and power boats.  Silt will be.    
+04/28/1991,Sunny.  Lake is getting cloudy.  Brown instead of green.  Large chunks of algae (or sewage) floating around.  Power boats creating silt problems at shoreline.  Unbelievable-in April!  need no wake!    
+05/09/1991,Slight evidence of suspended particles. sunny- slight haze.  Cannot believe change.  Some evidence of floating or suspended chunks also.  We are very interested in getting into advanced self-help- please advise how.    
+05/13/1991,Clarity unbelievable!  not seen in years.  Sunny- slight haze. still evidence of suspended particles and some chunks of algae.  Some algae forming in spots.  Lots of small dead fish (100s) I think we're ready advanced self help    
+05/26/1991,Sunny.  South wind.  Lots of suspended particles.  Reduced visibility might be due to motor boats and wind.  Algae is really building upon bottom as water warms.    
+06/02/1991,Sunny but hazy.  Suspended particles getting worse and larger.  Algae starting to smell bad.  Lots of dead fish.    
+06/13/1991,Sunny- algae is almost solid 40-50' from shore.  However- it has cleared considerably from 6/2 reading.  Impossible to fish from pier or shore.    
+06/23/1991,Swimming is possible.  Sunny. NE wind has blown algae toward shore.  Weather cool- so few boats.  Water unusually clear.  Some suspended particles.    
+07/02/1991,Sunny and if we didn't rake- it would be 5 algae is 40-50 solid from shore.  Smell is horrible!  however- algae does not seem to be spreading as in other years.  Water is generally clearer than in years.    
+07/11/1991,Algae has been raked from most beaches and appears not to be reforming    
+07/25/1991,Sunny.  Reduced depth probably due to 1.8" rain on 7/22.  Algae does not appear to be reforming.  Abundance of suspended particles.  Of 6 "event" check sites- one on south side had tremendous flow.  Others almost dry    
+08/13/1991,Algae starting to come back.  Appears to be a bloom but could be due to heavy motor boat use.    
+08/23/1991,Hazy sunshine-substantial suspended particles.  Algae returning    
+09/04/1991,Sunny.  Reading taken one day after .8" rain    
+09/21/1991,Algae is "retreating."  what I think is wild celery was a "bumper crop" this year.  It interferes with swimming and fishing.    
+04/28/1992,Hazy sunshine.  Lake has algae particles floating around.  Also chunks of rotting vegetation.  Ice off on 4/8.  This is a far cry from last spring where we had 15'-17' readings.    
+05/06/1992,Sunny. light breeze- brownish algae chunk and suspended particles very prevalent.  Only a few dead small fish.  Lots of silt poured in.  Hurry up "clean water act"    
+05/19/1992,Sunny- hazy.  Lake has cleared considerably- suspended particles quite evident but little algae growth.  Motor boats active since ice out and creating silting during operating hours.    
+06/03/1992,Sunny- algae has really bloomed in last 10 days.  Help! now that Thompson has quitted the clean water bill- how do we stop the drain tiles from polluting out lake   help.    
+06/09/1992,Sunny- slight haze.  Slight improvement in last week in clarity- but algae is thriving.  What about the rye straw treatment- as for lake tides     
+06/30/1992,Sunny.  Water very bad.  Green scum on surface and suspended particles.  Algae buildup has been worse.    
+07/15/1992,Sunny- algae level considerably reduced.  Appears to be dying.  Smell at shoreline is terrible    
+07/30/1992,Sunny- almost flat calm.  Lake has miraculously cleared.  Very little algae.  Wild celery very short.  Probably due to little rain and runoff- more holding tanks and mound systems and cool weather.    
+08/11/1992,Water is cool.  Sunny.  Algae and weed growth appears behind last year    
+08/22/1992,Sunny- slight haze.  Algae and weeds much lower than last year.    
+05/06/1993,Chunks of algae floating all over.  Silt has been pouring in through 2 tiles- site 16e@ for weeks.    
+05/22/1993,The site test 16h2 has finally stopped flowing.    
+06/03/1993,Sunny- suspended particles in water- algae on shoreline    
+06/10/1993,Sunny- slight haze- algae bloom    
+07/07/1993,Sunny- slight haze- thick algae growing out 50'- new weed growth    
+07/15/1993,Sunny- best reading this year- suspended algae seems to be declining- much greater weed growth than  1992.    
+08/10/1993,Wild celery very thick- 2 cases of swimmers itch- slight haze- algae very thick- 2 patches of purple loosestrife    
+08/24/1993,Sunny- windy 10-15 mph- algae appears to be dying- water celery taking over- 2 patches of purple loosestrife- 3 cases of swimmers itch    
+09/01/1993,Sunny- algae slowly disappearing- little rain thus no runoff    
+09/11/1993,Sunny- hazy- algae down- wild celery very thick    
+09/24/1993,Sunny- algae receding.  Biggest problem is wild celery- spreading- thick.    
+05/27/1994,Algae starting to bloom-slower because of cold weather.  East side of lake at e3 + e8 is solid algae.    
+06/05/1994,Sunny-east side of lake choked with algae.  Report on 4-25-94 test shows extremely high nitrogen entering through tiles.    
+06/12/1994,Algae not too bad except E side- sites e3 + 8 where it's solid.    
+07/02/1994,Sunny- windy.  Middle of algae bloom.  Algae condition has been worse- have more holding tanks-less faulty systems.  Must stop drain tiles!    
+07/10/1994,Solid green algae not bad-worst at east end drain.  Water clarity worst this year.  Could use more law enforcement!    
+07/16/1994,Sunny-while lake is "cloudy"- lots of suspended particles-algae build-up is less than in past.  With wave action lake really gets dirty.  Need law enforcement for motor boats.    
+07/24/1994,.9" rain on 7/23 p.m.  Sunny- boating extremely heavy creating shoreline turbulence.  Personal water craft especially bad.  Need enforcement!  (something I can't read) .    
+07/31/1994,Sunny- 7/31-2"+ rain-7/31 evening.  Water cloudy- but algae not bad.  Boating pressure heavy.    
+08/07/1994,Sunny.  Less algae- but lots of suspended particles.    
+08/14/1994,Sunny.  Suspended sediment still prevalent.  Daily violations of no-wake laws + encroachment (within 100' of rafts + piers) creating additional sediment.    
+07/09/1995,Public perception due to sediment or dirt.  Heavy rain 2 weeks ago.  Algae dropped way off.  Heavy boating pressure.  Large 1/0 craft.  Shoreline takes a beating.    
+06/12/1996,Slightly cloudy- some algal.    
+06/26/1996,Slightly cloudy- algae level up.    
+07/06/1996,Clear day- calm- algae close to shore- 20-30 yards.    
+07/13/1996,Cloudy- calm- algae close to shore 20-30 yards.    
+07/21/1996,Partly cloudy- calm.    
+08/02/1996,Some algal blooms- calm water- partly cloudy skies.    
+08/13/1996,Cloudy overcast sky.  Water calm.    
+08/23/1996,Water calm- clear skies- sunny- long string weed growth around the lake.    
+09/11/1996,Partly cloudy skies- calm water.    
+06/18/1997,Clear day.  Some algal bloom present.    
+07/05/1997,Sunny weather.  Calm.    
+07/24/1997,Clear- sunny and calm.    
+08/05/1997,Calm- partly cloudy.    
+03/04/2002,DEEPEST SPOT-BOTTOM    
+06/21/2002,DEEPEST SPOT - BOTTOM    
+07/23/2002,BOTTOM    
+08/20/2002,SURFACE    
+01/28/2003,DEEP SPOT    
+09/13/2004,DEEP HOLE    
+08/06/2009,30% cloud cover north wind 10mph.  Algae bloom.
+08/25/2014,Depth of IS water sample: 6M
+SLH field number: EL-2
+Filtered 200 mls
+04/02/2015,Bottom Temp 40F.
+
+
+
+
+Start Date,Group Name,Project Name
+02/11/1976,Data Collectors,Migrated from STORET Legacy
+04/14/1976,Data Collectors,Migrated from STORET Legacy
+07/12/1976,Data Collectors,Migrated from STORET Legacy
+11/03/1976,Data Collectors,Migrated from STORET Legacy
+02/27/1985,Data Collectors,Migrated from STORET Legacy
+04/17/1985,Data Collectors,Migrated from STORET Legacy
+08/19/1985,Data Collectors,Migrated from STORET Legacy
+10/29/1985,Data Collectors,Migrated from STORET Legacy
+02/11/1986,Data Collectors,Migrated from STORET Legacy
+07/03/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/10/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/24/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/11/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/24/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/03/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/15/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/29/1989,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/11/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/19/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/29/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/10/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/19/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/26/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/07/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/17/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/28/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/17/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/27/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+12/27/1990,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+04/17/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+04/28/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/09/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/13/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/26/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/02/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/13/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/23/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/02/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/11/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/25/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/13/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/23/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/04/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/21/1991,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+04/28/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/06/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/19/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/03/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/09/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/30/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/15/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/30/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/11/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/22/1992,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/14/1992,Data Collectors,LAKE MGT PROJECTS
+02/01/1993,Data Collectors,LAKE MGT PROJECTS
+05/06/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/22/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/03/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/10/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/07/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/15/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/10/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/24/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/01/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/11/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/24/1993,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/07/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+01/25/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/12/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/27/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/05/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/12/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/19/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/02/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/10/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/16/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/24/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/24/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/31/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/07/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/14/1994,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/08/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/09/1995,Ed Trochlell,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/12/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/26/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/06/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/13/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/21/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/02/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/13/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/23/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/11/1996,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/04/1997,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/18/1997,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/05/1997,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/24/1997,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/05/1997,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/27/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/10/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/25/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/10/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/29/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/10/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/21/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/01/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/11/1998,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+05/27/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/20/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/25/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/07/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/02/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/25/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/16/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/08/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/23/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+11/09/1999,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/20/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/25/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/06/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/22/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/08/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/23/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/08/2000,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+02/05/2001,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: LMI-English Lake Management District Wetland Detention Basin
+06/20/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/09/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/25/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/10/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/26/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/11/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/27/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/13/2001,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+03/04/2002,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: LMI-DF-English Lake Drain Tile Diversion DF Study
+06/21/2002,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: LMI-DF-English Lake Drain Tile Diversion DF Study
+06/22/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/13/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/23/2002,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: LMI-DF-English Lake Drain Tile Diversion DF Study
+07/26/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/10/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/20/2002,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: LMI-DF-English Lake Drain Tile Diversion DF Study
+08/23/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/06/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/21/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/05/2002,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+01/28/2003,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: LMI-DF-English Lake Drain Tile Diversion DF Study
+06/13/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/29/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/15/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/31/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/16/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/01/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/17/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/03/2003,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/13/2004,JENNIFER HAUXWELL,MACROPHYTES AS BIOCRITERIA
+06/15/2005,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/15/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/30/2005,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/30/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/04/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/15/2005,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/16/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/06/2005,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/06/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/27/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/03/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/24/2005,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/10/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/24/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/14/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/19/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/10/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/19/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/16/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/06/2006,Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/20/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/30/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/16/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/30/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/16/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/30/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/14/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/28/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/11/2008,Mike Barta and Glenn Haupt,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/06/2009,JEREMIAH SCHIEFELBEIN- NICHOLAS J COADY,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+04/08/2010,Brenton Butterfield - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: English Lake Management Planning Project Ph 2
+05/26/2010,Tim Hoyman and Eddie Heath - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: English Lake Management Planning Project Ph 2
+07/12/2010,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: English Lake Management Planning Project Ph 2
+08/26/2010,Tim Hoyman - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: English Lake Management Planning Project Ph 2
+11/10/2010,Todd Hanke - Onterra- LLC,ENGLISH LAKE MANAGEMENT DISTRICT: English Lake Management Planning Project Ph 2
+02/17/2011,Dan Cibulka- Todd Hanke- Tim Hoyman,ENGLISH LAKE MANAGEMENT DISTRICT: English Lake Management Planning Project Ph 2
+05/15/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+05/30/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/06/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/13/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/21/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/30/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/08/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/15/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/23/2012,Gene Weyer,English Lake - Manitowoc County- Extra Sampling
+07/25/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/16/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/19/2012,Gene Weyer,English Lake - Manitowoc County- Extra Sampling
+08/24/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/01/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/15/2012,Gene Weyer,English Lake - Manitowoc County- Extra Sampling
+10/03/2012,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+04/26/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+06/03/2013,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/07/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+08/05/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+09/03/2013,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/05/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/21/2014,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/10/2014,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/25/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+09/03/2014,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+04/02/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+04/05/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/20/2015,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/20/2015,Glen + Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/08/2015,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/27/2015,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/27/2015,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/01/2015,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/24/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/24/2016,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/26/2016,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/30/2016,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/30/2016,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/02/2016,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/31/2017,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/31/2017,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/22/2018,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/31/2018,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/31/2018,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/30/2019,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/29/2019,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/31/2019,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/29/2019,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+08/30/2019,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+10/12/2019,Gary Kaestnar,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+06/28/2020,Fred Van Serke,Citizen Lake Monitoring - Northeast Region
+06/29/2020,Fred Van Serke,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/28/2020,Fred Van Serke,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+07/30/2020,Fred Van Serke,Citizen Lake Monitoring - Northeast Region
+08/29/2020,Fred Van Serke,Citizen Lake Monitoring - Northeast Region
+08/29/2020,Fred Van Serke,Citizen Lake Monitoring - Water Quality - English Lake - Deep Hole
+09/22/2020,Fred Van Serke,Citizen Lake Monitoring - Northeast Region

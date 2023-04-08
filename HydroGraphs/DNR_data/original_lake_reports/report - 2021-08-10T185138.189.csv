@@ -1,0 +1,760 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mildred Lake,Oneida,1004600,NO,44,,443195,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/17/1979,,,,,,,,,,,,,
+1,07/09/1992,,,,,,,,,,,,,
+1,07/30/1992,20.3,,6.2,2.11,4,17,39,40,,,,,
+1,09/10/1992,14.1,,4.3,4.02,9,39,45,45,,,,,
+1,05/25/1993,,,,2.33,25,,41,41,,,,,
+8190004,09/07/1994,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190004,06/04/1995,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190004,06/25/1995,24.5,NO,7.4,,,31,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190004,08/06/1995,13,NO,4,,,40,,,,,MURKY,BLUE,2-Very minor aesthetic problems
+8190004,06/11/1997,8.25,NO,2.5,,,47,,,GOOD TO UP,,,GREEN,1-Beautiful, could not be nicer
+8190004,06/21/1997,7.75,NO,2.4,,,48,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190004,06/28/1997,8.25,NO,2.5,,,47,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190004,07/10/1997,7.5,NO,2.3,,,48,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+16116036,05/31/2006,23.5,NO,7.1,,,32,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/07/2006,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/14/2006,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/22/2006,19.25,NO,5.9,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/28/2006,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,07/06/2006,14.75,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,07/14/2006,17.75,NO,5.4,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,08/07/2006,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+16116036,08/14/2006,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,08/30/2006,19.25,NO,5.9,,,35,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+16116036,09/05/2006,22.5,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,09/13/2006,23.5,NO,7.1,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,09/23/2006,23.5,NO,7.1,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,10/01/2006,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,10/10/2006,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,10/25/2006,22.25,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,04/18/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,04/28/2007,25.5,NO,7.8,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/10/2007,22.75,NO,6.9,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/25/2007,22.25,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/30/2007,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/06/2007,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/10/2007,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,07/01/2007,20.5,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,07/08/2007,12.25,NO,3.7,,,41,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116036,07/09/2007,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,07/15/2007,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+16116036,07/24/2007,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,
+16116036,08/02/2007,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116036,08/09/2007,19.75,NO,6,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,08/25/2007,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,09/03/2007,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,09/09/2007,17.75,NO,5.4,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,09/19/2007,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,09/26/2007,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/10/2008,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,05/15/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,05/27/2008,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,06/02/2008,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,06/23/2008,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,07/09/2008,16,NO,4.9,,,37,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+16116036,07/16/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116036,07/31/2008,16.25,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,08/11/2008,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,04/18/2009,14.5,NO,4.4,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,04/27/2009,11.25,NO,3.4,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,05/27/2009,31,NO,9.4,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,06/11/2009,31,NO,9.4,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,06/26/2009,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,07/06/2009,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,07/22/2009,23,NO,7,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,08/03/2009,25,NO,7.6,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,08/23/2009,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,09/08/2009,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,09/15/2009,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,10/20/2009,26,NO,7.9,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,04/18/2010,21,NO,6.4,,,33,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,04/28/2010,26,NO,7.9,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/16/2010,26,NO,7.9,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,06/01/2010,24.5,NO,7.4,,,31,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,06/06/2010,20,NO,6.1,,,34,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116036,06/07/2010,26.5,NO,8.1,,,30,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116036,07/01/2010,19,NO,5.8,,,35,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+16116036,07/10/2010,18,,5.5,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,07/29/2010,12,NO,3.6,,,41,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+16116036,08/09/2010,11,NO,3.3,,,43,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116036,09/22/2010,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,09/30/2010,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+34972236,04/27/2011,16.4,NO,5,2.52,16,37,50,42,,,,,
+16116036,05/20/2011,23.5,NO,7.1,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/27/2011,21.5,NO,6.5,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+48236228,06/01/2011,16.8,NO,5.1,2.82,14,36,49,43,,,,,
+16073539,07/18/2011,15.6,NO,4.7,2.98,10,38,46,43,,,,,
+44585588,08/25/2011,17.2,NO,5.2,2.78,11,36,47,43,,,,,
+34972236,10/25/2011,12,NO,3.6,7.4,15,41,49,50,,,,,
+41886196,03/08/2012,14.2,NO,4.3,,9,39,45,,,,,,
+16116036,05/10/2012,31.25,NO,9.5,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+16116036,05/26/2012,22,NO,6.7,,,33,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+16116036,06/11/2012,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116036,06/19/2012,22.5,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+47621875,06/30/2012,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,06/30/2012,,,,0.9,7,,43,34,,,,,
+47621875,07/22/2012,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,07/22/2012,,,,1.48,9,,45,38,,,,,
+47621875,08/30/2012,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,08/30/2012,,,,0.88,8,,44,34,,,,,
+67208275,05/19/2013,28,NO,8.5,,14.1,29,49,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,06/30/2013,33,NO,10,2.54,9.02,27,45,42,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+47621875,07/28/2013,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+67208275,07/28/2013,,,,2.73,5.67,,42,42,,,,,
+47621875,08/18/2013,,,,1.46,6.52,,43,38,,,,,
+67208275,08/18/2013,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,05/10/2014,17,NO,5.2,,12.3,36,48,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+62230269,06/17/2014,33, ,10,,,27,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,06/17/2014,,,,0.715,8.85,,45,32,,,,,
+67208275,07/19/2014,19,NO,5.8,1.24,6.89,35,43,36,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,08/24/2014,,,,2.82,8,,44,43,,,,,
+67208275,08/24/2014,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,04/18/2015,16,NO,4.9,,14.1,37,49,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+67208275,05/23/2015,31,NO,9.4,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,06/28/2015,,,,0.89,9.82,,46,34,,,,,
+47621875,07/19/2015,,,,1.91,6.17,,42,40,,,,,
+67208275,07/19/2015,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+67208275,08/16/2015,20,NO,6.1,1.06,8.19,34,44,35,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,06/18/2016,23,NO,7,1.19,12.9,32,48,36,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67208275,07/17/2016,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62230269,08/27/2016,,,,1.17,12.3,,48,36,,,,,
+67208275,08/27/2016,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+67208275,06/22/2017,,,,3.65,14.5,,49,45,,,,,
+67208275,06/25/2017,14,NO,4.3,,,39,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+67208275,07/30/2017,17,NO,5.2,1.51,12.8,36,48,38,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+67208275,08/20/2017,18,NO,5.5,1.85,13.4,35,48,39,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+47621875,06/17/2018,,,,2.14,10.7,,47,41,,,,,
+67208275,06/17/2018,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+47621875,07/15/2018,,,,0.604,ND*,,,31,,,,,
+67208275,07/15/2018,26,NO,7.9,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+47621875,08/19/2018,,,,0.659,6.66,,43,32,,,,,
+67208275,08/19/2018,24,NO,7.3,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+47621875,06/16/2019,,,,2.24,15.2,,49,41,,,,,
+67208275,06/16/2019,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+47621875,07/21/2019,,,,2.39,8.46,,45,41,,,,,
+67208275,07/21/2019,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+47621875,08/17/2019,,,,2.17,9.96,,46,41,,,,,
+67208275,08/17/2019,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+47621875,06/28/2020,,,,1.33,9.04,,45,37,,,,,
+67208275,06/28/2020,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+47621875,08/23/2020,,,,1.92,10.7,,47,40,,,,,
+67208275,08/23/2020,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1979,,,23,C,,
+07/09/1992,,,8.1,C,0.1,MG/L
+07/30/1992,,,20.8,C,0.3,MG/L
+09/10/1992,,,16.5,C,0.2,MG/L
+05/25/1993,,,14.0,C,8.6,MG/L
+04/27/2011,,,4.7,C,7.2,MG/L
+06/01/2011,,,16.4,C,7.8,MG/L
+07/18/2011,,,11.4,C,12.7,MG/L
+08/25/2011,,,16.7,C,0.1,MG/L
+10/25/2011,,,10.2,C,9.3,MG/L
+03/08/2012,,,2.0,C,10.1,MG/L
+06/30/2012,3,FEET,76.1,DEGREES F,,
+06/30/2012,6,FEET,75.7,DEGREES F,,
+06/30/2012,9,FEET,75.5,DEGREES F,,
+06/30/2012,12,FEET,75.5,DEGREES F,,
+06/30/2012,15,FEET,73.4,DEGREES F,,
+06/30/2012,20,FEET,68.1,DEGREES F,,
+06/30/2012,25,FEET,60.2,DEGREES F,,
+06/30/2012,30,FEET,56.6,DEGREES F,,
+06/30/2012,35,FEET,53.9,DEGREES F,,
+06/30/2012,40,FEET,53.4,DEGREES F,,
+06/30/2012,45,FEET,53.6,DEGREES F,,
+07/22/2012,3,FEET,80.6,DEGREES F,,
+07/22/2012,6,FEET,79.8,DEGREES F,,
+07/22/2012,9,FEET,79.5,DEGREES F,,
+07/22/2012,12,FEET,79.3,DEGREES F,,
+07/22/2012,15,FEET,79.1,DEGREES F,,
+07/22/2012,20,FEET,73.4,DEGREES F,,
+07/22/2012,25,FEET,63.8,DEGREES F,,
+07/22/2012,30,FEET,57.5,DEGREES F,,
+07/22/2012,35,FEET,54.3,DEGREES F,,
+07/22/2012,40,FEET,54.1,DEGREES F,,
+07/22/2012,45,FEET,53.9,DEGREES F,,
+08/30/2012,3,FEET,74.6,DEGREES F,,
+08/30/2012,6,FEET,74.4,DEGREES F,,
+08/30/2012,9,FEET,74.1,DEGREES F,,
+08/30/2012,12,FEET,73.4,DEGREES F,,
+08/30/2012,15,FEET,73.2,DEGREES F,,
+08/30/2012,20,FEET,72.3,DEGREES F,,
+08/30/2012,25,FEET,69.8,DEGREES F,,
+08/30/2012,30,FEET,60.6,DEGREES F,,
+08/30/2012,35,FEET,56.3,DEGREES F,,
+08/30/2012,40,FEET,56.3,DEGREES F,,
+08/30/2012,45,FEET,56.3,DEGREES F,,
+05/19/2013,3,FEET,58.4,DEGREES F,,
+05/19/2013,6,FEET,56.6,DEGREES F,,
+05/19/2013,9,FEET,54.3,DEGREES F,,
+05/19/2013,12,FEET,51.8,DEGREES F,,
+05/19/2013,15,FEET,48.9,DEGREES F,,
+05/19/2013,20,FEET,43.1,DEGREES F,,
+05/19/2013,25,FEET,41.3,DEGREES F,,
+05/19/2013,30,FEET,40.8,DEGREES F,,
+05/19/2013,35,FEET,40.8,DEGREES F,,
+05/19/2013,40,FEET,40.8,DEGREES F,,
+05/19/2013,45,FEET,40.8,DEGREES F,,
+06/30/2013,3,FEET,72.3,DEGREES F,,
+06/30/2013,6,FEET,71.9,DEGREES F,,
+06/30/2013,9,FEET,71.7,DEGREES F,,
+06/30/2013,12,FEET,71,DEGREES F,,
+06/30/2013,15,FEET,62.7,DEGREES F,,
+06/30/2013,20,FEET,51.8,DEGREES F,,
+06/30/2013,25,FEET,47.4,DEGREES F,,
+06/30/2013,30,FEET,45.3,DEGREES F,,
+06/30/2013,35,FEET,44.6,DEGREES F,,
+07/28/2013,3,FEET,69.2,DEGREES F,,
+07/28/2013,6,FEET,69.8,DEGREES F,,
+07/28/2013,9,FEET,69.8,DEGREES F,,
+07/28/2013,12,FEET,69.8,DEGREES F,,
+07/28/2013,15,FEET,69.8,DEGREES F,,
+07/28/2013,20,FEET,58.6,DEGREES F,,
+07/28/2013,25,FEET,50.3,DEGREES F,,
+07/28/2013,30,FEET,47.6,DEGREES F,,
+07/28/2013,35,FEET,46.2,DEGREES F,,
+08/18/2013,3,FEET,71.7,DEGREES F,,
+08/18/2013,6,FEET,71.4,DEGREES F,,
+08/18/2013,9,FEET,70.8,DEGREES F,,
+08/18/2013,12,FEET,70.5,DEGREES F,,
+08/18/2013,15,FEET,69.8,DEGREES F,,
+08/18/2013,20,FEET,65.4,DEGREES F,,
+08/18/2013,25,FEET,53.4,DEGREES F,,
+08/18/2013,30,FEET,49.1,DEGREES F,,
+08/18/2013,35,FEET,47.3,DEGREES F,,
+08/18/2013,40,FEET,47.3,DEGREES F,,
+05/10/2014,3,FEET,44.6,DEGREES F,,
+05/10/2014,6,FEET,44.4,DEGREES F,,
+05/10/2014,9,FEET,44.4,DEGREES F,,
+05/10/2014,12,FEET,44.2,DEGREES F,,
+05/10/2014,15,FEET,44,DEGREES F,,
+05/10/2014,20,FEET,44,DEGREES F,,
+05/10/2014,25,FEET,43.8,DEGREES F,,
+05/10/2014,30,FEET,42.8,DEGREES F,,
+05/10/2014,35,FEET,41.7,DEGREES F,,
+06/17/2014,3,FEET,68.3,DEGREES F,,
+06/17/2014,6,FEET,67.6,DEGREES F,,
+06/17/2014,9,FEET,67.4,DEGREES F,,
+06/17/2014,12,FEET,65.3,DEGREES F,,
+06/17/2014,15,FEET,64,DEGREES F,,
+06/17/2014,20,FEET,54.6,DEGREES F,,
+06/17/2014,25,FEET,49.8,DEGREES F,,
+06/17/2014,30,FEET,48,DEGREES F,,
+06/17/2014,35,FEET,47.6,DEGREES F,,
+07/19/2014,3,FEET,71.6,DEGREES F,,
+07/19/2014,6,FEET,71.4,DEGREES F,,
+07/19/2014,9,FEET,71.4,DEGREES F,,
+07/19/2014,12,FEET,70.5,DEGREES F,,
+07/19/2014,15,FEET,70.5,DEGREES F,,
+07/19/2014,20,FEET,66.3,DEGREES F,,
+07/19/2014,25,FEET,55.2,DEGREES F,,
+07/19/2014,30,FEET,52.1,DEGREES F,,
+07/19/2014,35,FEET,50.7,DEGREES F,,
+08/24/2014,3,FEET,71,DEGREES F,,
+08/24/2014,6,FEET,70.8,DEGREES F,,
+08/24/2014,9,FEET,70.8,DEGREES F,,
+08/24/2014,12,FEET,70.8,DEGREES F,,
+08/24/2014,15,FEET,70.8,DEGREES F,,
+08/24/2014,20,FEET,70.7,DEGREES F,,
+08/24/2014,25,FEET,61.1,DEGREES F,,
+08/24/2014,30,FEET,55.7,DEGREES F,,
+08/24/2014,35,FEET,51,DEGREES F,,
+08/24/2014,40,FEET,50,DEGREES F,,
+04/18/2015,3,FEET,48,DEGREES F,,
+04/18/2015,6,FEET,46.5,DEGREES F,,
+04/18/2015,9,FEET,45.3,DEGREES F,,
+04/18/2015,12,FEET,44.6,DEGREES F,,
+04/18/2015,15,FEET,43.8,DEGREES F,,
+04/18/2015,20,FEET,42.8,DEGREES F,,
+04/18/2015,25,FEET,42.4,DEGREES F,,
+04/18/2015,30,FEET,42,DEGREES F,,
+04/18/2015,35,FEET,41.9,DEGREES F,,
+04/18/2015,40,FEET,41.9,DEGREES F,,
+05/23/2015,3,FEET,61.1,DEGREES F,,
+05/23/2015,6,FEET,60.4,DEGREES F,,
+05/23/2015,9,FEET,60,DEGREES F,,
+05/23/2015,12,FEET,59,DEGREES F,,
+05/23/2015,15,FEET,57.5,DEGREES F,,
+05/23/2015,20,FEET,53.4,DEGREES F,,
+05/23/2015,25,FEET,48.5,DEGREES F,,
+05/23/2015,30,FEET,46.4,DEGREES F,,
+05/23/2015,35,FEET,45.8,DEGREES F,,
+05/23/2015,38,FEET,45.6,DEGREES F,,
+07/19/2015,3,FEET,75,DEGREES F,,
+07/19/2015,6,FEET,75,DEGREES F,,
+07/19/2015,9,FEET,75,DEGREES F,,
+07/19/2015,12,FEET,74.8,DEGREES F,,
+07/19/2015,15,FEET,74.8,DEGREES F,,
+07/19/2015,20,FEET,64.4,DEGREES F,,
+07/19/2015,25,FEET,56.3,DEGREES F,,
+07/19/2015,30,FEET,51.2,DEGREES F,,
+07/19/2015,35,FEET,50.7,DEGREES F,,
+08/16/2015,3,FEET,77,DEGREES F,,
+08/16/2015,6,FEET,76.8,DEGREES F,,
+08/16/2015,9,FEET,76.6,DEGREES F,,
+08/16/2015,12,FEET,76.4,DEGREES F,,
+08/16/2015,15,FEET,74.3,DEGREES F,,
+08/16/2015,20,FEET,71,DEGREES F,,
+08/16/2015,25,FEET,59.3,DEGREES F,,
+08/16/2015,30,FEET,53.7,DEGREES F,,
+08/16/2015,35,FEET,53.6,DEGREES F,,
+06/18/2016,3,FEET,74.1,DEGREES F,,
+06/18/2016,6,FEET,72.3,DEGREES F,,
+06/18/2016,9,FEET,69.8,DEGREES F,,
+06/18/2016,12,FEET,68.7,DEGREES F,,
+06/18/2016,15,FEET,65.6,DEGREES F,,
+06/18/2016,20,FEET,57.2,DEGREES F,,
+06/18/2016,25,FEET,50,DEGREES F,,
+06/18/2016,30,FEET,47.6,DEGREES F,,
+06/18/2016,35,FEET,45.3,DEGREES F,,
+06/18/2016,40,FEET,44.6,DEGREES F,,
+06/18/2016,45,FEET,44.4,DEGREES F,,
+07/17/2016,3,FEET,74.3,DEGREES F,,
+07/17/2016,6,FEET,74.1,DEGREES F,,
+07/17/2016,9,FEET,73.4,DEGREES F,,
+07/17/2016,12,FEET,73,DEGREES F,,
+07/17/2016,15,FEET,72.8,DEGREES F,,
+07/17/2016,20,FEET,67.8,DEGREES F,,
+07/17/2016,25,FEET,55.5,DEGREES F,,
+07/17/2016,30,FEET,50.9,DEGREES F,,
+07/17/2016,35,FEET,47.6,DEGREES F,,
+07/17/2016,40,FEET,46.5,DEGREES F,,
+08/27/2016,3,FEET,72.5,DEGREES F,,
+08/27/2016,5,FEET,72.3,DEGREES F,,
+08/27/2016,9,FEET,72.3,DEGREES F,,
+08/27/2016,12,FEET,72.1,DEGREES F,,
+08/27/2016,15,FEET,71.9,DEGREES F,,
+08/27/2016,20,FEET,71.9,DEGREES F,,
+08/27/2016,25,FEET,60,DEGREES F,,
+08/27/2016,30,FEET,52.8,DEGREES F,,
+08/27/2016,35,FEET,49.2,DEGREES F,,
+08/27/2016,40,FEET,48.2,DEGREES F,,
+08/27/2016,45,FEET,48.2,DEGREES F,,
+06/25/2017,3,FEET,67.6,DEGREES F,,
+06/25/2017,6,FEET,67.4,DEGREES F,,
+06/25/2017,9,FEET,67.4,DEGREES F,,
+06/25/2017,12,FEET,67.4,DEGREES F,,
+06/25/2017,15,FEET,67.3,DEGREES F,,
+06/25/2017,20,FEET,55.5,DEGREES F,,
+06/25/2017,25,FEET,50.3,DEGREES F,,
+06/25/2017,30,FEET,48.5,DEGREES F,,
+06/25/2017,35,FEET,47.3,DEGREES F,,
+06/25/2017,40,FEET,46.2,DEGREES F,,
+06/25/2017,45,FEET,46.2,DEGREES F,,
+07/30/2017,3,FEET,77,DEGREES F,,
+07/30/2017,6,FEET,76.4,DEGREES F,,
+07/30/2017,9,FEET,76.2,DEGREES F,,
+07/30/2017,12,FEET,75.2,DEGREES F,,
+07/30/2017,15,FEET,71.4,DEGREES F,,
+07/30/2017,20,FEET,59.3,DEGREES F,,
+07/30/2017,25,FEET,53.4,DEGREES F,,
+07/30/2017,30,FEET,49.2,DEGREES F,,
+07/30/2017,35,FEET,47.6,DEGREES F,,
+07/30/2017,40,FEET,46.5,DEGREES F,,
+07/30/2017,45,FEET,46.4,DEGREES F,,
+08/20/2017,3,FEET,71.6,DEGREES F,,
+08/20/2017,6,FEET,71.4,DEGREES F,,
+08/20/2017,9,FEET,71,DEGREES F,,
+08/20/2017,12,FEET,70.7,DEGREES F,,
+08/20/2017,15,FEET,70.1,DEGREES F,,
+08/20/2017,20,FEET,66,DEGREES F,,
+08/20/2017,25,FEET,53.9,DEGREES F,,
+08/20/2017,30,FEET,50.9,DEGREES F,,
+08/20/2017,35,FEET,48.3,DEGREES F,,
+08/20/2017,40,FEET,47.1,DEGREES F,,
+08/20/2017,45,FEET,46.9,DEGREES F,,
+06/17/2018,3,FEET,69,DEGREES F,,
+06/17/2018,6,FEET,68.7,DEGREES F,,
+06/17/2018,9,FEET,68.3,DEGREES F,,
+06/17/2018,12,FEET,68,DEGREES F,,
+06/17/2018,15,FEET,60.9,DEGREES F,,
+06/17/2018,20,FEET,48,DEGREES F,,
+06/17/2018,25,FEET,44.4,DEGREES F,,
+06/17/2018,30,FEET,42.6,DEGREES F,,
+06/17/2018,35,FEET,41.1,DEGREES F,,
+06/17/2018,40,FEET,40.8,DEGREES F,,
+07/15/2018,3,FEET,69,DEGREES F,,
+07/15/2018,6,FEET,68.7,DEGREES F,,
+07/15/2018,9,FEET,76.6,DEGREES F,,
+07/15/2018,12,FEET,76.1,DEGREES F,,
+07/15/2018,15,FEET,70.3,DEGREES F,,
+07/15/2018,20,FEET,54.2,DEGREES F,,
+07/15/2018,25,FEET,47.1,DEGREES F,,
+07/15/2018,30,FEET,43.3,DEGREES F,,
+07/15/2018,35,FEET,42.2,DEGREES F,,
+07/15/2018,40,FEET,41.7,DEGREES F,,
+07/15/2018,45,FEET,41.7,DEGREES F,,
+08/19/2018,3,FEET,77.7,DEGREES F,,
+08/19/2018,6,FEET,77,DEGREES F,,
+08/19/2018,9,FEET,76.8,DEGREES F,,
+08/19/2018,12,FEET,74.4,DEGREES F,,
+08/19/2018,15,FEET,72.5,DEGREES F,,
+08/19/2018,20,FEET,59.7,DEGREES F,,
+08/19/2018,25,FEET,49.8,DEGREES F,,
+08/19/2018,30,FEET,45.1,DEGREES F,,
+08/19/2018,35,FEET,43.1,DEGREES F,,
+08/19/2018,40,FEET,42.4,DEGREES F,,
+08/19/2018,45,FEET,42.4,DEGREES F,,
+06/16/2019,3,FEET,65.4,DEGREES F,,
+06/16/2019,6,FEET,65.9,DEGREES F,,
+06/16/2019,9,FEET,64.9,DEGREES F,,
+06/16/2019,12,FEET,64.4,DEGREES F,,
+06/16/2019,15,FEET,59.1,DEGREES F,,
+06/16/2019,20,FEET,51.9,DEGREES F,,
+06/16/2019,25,FEET,45.5,DEGREES F,,
+06/16/2019,30,FEET,42.9,DEGREES F,,
+06/16/2019,35,FEET,42,DEGREES F,,
+06/16/2019,40,FEET,41.5,DEGREES F,,
+07/21/2019,3,FEET,77.1,DEGREES F,,
+07/21/2019,6,FEET,77,DEGREES F,,
+07/21/2019,9,FEET,76.8,DEGREES F,,
+07/21/2019,12,FEET,76.6,DEGREES F,,
+07/21/2019,15,FEET,70.1,DEGREES F,,
+07/21/2019,20,FEET,55.4,DEGREES F,,
+07/21/2019,25,FEET,48.5,DEGREES F,,
+07/21/2019,30,FEET,44.9,DEGREES F,,
+07/21/2019,35,FEET,43.1,DEGREES F,,
+07/21/2019,40,FEET,42.2,DEGREES F,,
+07/21/2019,45,FEET,42.2,DEGREES F,,
+08/17/2019,3,FEET,74.1,DEGREES F,,
+08/17/2019,6,FEET,73.2,DEGREES F,,
+08/17/2019,9,FEET,72.6,DEGREES F,,
+08/17/2019,12,FEET,72.6,DEGREES F,,
+08/17/2019,15,FEET,72.3,DEGREES F,,
+08/17/2019,20,FEET,63.5,DEGREES F,,
+08/17/2019,25,FEET,51.6,DEGREES F,,
+08/17/2019,30,FEET,46.2,DEGREES F,,
+08/17/2019,35,FEET,44,DEGREES F,,
+08/17/2019,40,FEET,42.8,DEGREES F,,
+08/17/2019,45,FEET,42.6,DEGREES F,,
+06/28/2020,3,FEET,74.1,DEGREES F,,
+06/28/2020,6,FEET,73.2,DEGREES F,,
+06/28/2020,9,FEET,71.9,DEGREES F,,
+06/28/2020,12,FEET,70.5,DEGREES F,,
+06/28/2020,15,FEET,67.2,DEGREES F,,
+06/28/2020,20,FEET,54.8,DEGREES F,,
+06/28/2020,25,FEET,49.8,DEGREES F,,
+06/28/2020,30,FEET,45.3,DEGREES F,,
+06/28/2020,35,FEET,43.5,DEGREES F,,
+06/28/2020,40,FEET,42.8,DEGREES F,,
+06/28/2020,45,FEET,42.8,DEGREES F,,
+08/23/2020,3,FEET,74.3,DEGREES F,,
+08/23/2020,6,FEET,74.1,DEGREES F,,
+08/23/2020,9,FEET,74.1,DEGREES F,,
+08/23/2020,12,FEET,73.9,DEGREES F,,
+08/23/2020,15,FEET,73.7,DEGREES F,,
+08/23/2020,20,FEET,65.6,DEGREES F,,
+08/23/2020,25,FEET,54.5,DEGREES F,,
+08/23/2020,30,FEET,48.9,DEGREES F,,
+08/23/2020,35,FEET,46.5,DEGREES F,,
+08/23/2020,40,FEET,44,DEGREES F,,
+08/23/2020,45,FEET,44,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/17/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/04/1995,Any information on the quality of lakes in relation to boating activities- including jet boats and jets skies. (letter sent to Laura 6/13/95) .    
+06/25/1995,Sunny-few floating clouds.    
+08/06/1995,Lake color-clarity a little "cloudy" as summer progresses.    
+05/31/2006,Heavy boat traffic 5/26 to 5/29. Clear blue light cirrus clouds- light breeze. Yellow pine fuzz is on the lake.
+06/07/2006,Blue sky with puffs of clouds. Rained 6/6 and 6/7 am. Slight breeze today with wavy surface. Pontoon with swimmers- fishing boat with 2 men. song birds singing- K9's barking- crows flying in distance- beautiful day to be on the H2O
+06/14/2006,Filtered sun. High colored clouds with patches of blue. Looks and feels like rain. Slight breeze out of the east.A loon flew over head towards east- cement truck backing up from sommerfeld property- DNR at boat landing- removing boat ramp and digging out- replace- H2O is still going down- we have a small beach at shoreline- can hear a horse- sheep- pig- etc sounds one of our dogs has the toy- finches at feeders- mourning dove just landed- took off due to dogs present- no boats or peope on shore- birds singing- calling buzzing around- has been a lot of green/yellowish bloom on our shoreline- especially after boating/skiing and towing activity.
+06/22/2006,Sunny- high stratus. Slight breeze- no waves - just a ripple. Cool- 50-60 degrees. Kayak and canoe on lake. Loons call yodels. Small birds. (gone one week) hear traffic- motorcycles- squirrels barking- green algae- small particles- numerous in lake- some bloom floating on northside of lake in bowl- shoreline water clear with a little lake foam on shoreline- a beautiful morning on the lake.
+06/28/2006,small fronts coming through with slight showers. Blue sky with high puffs of white. Large white thunder clouds west. slight breeze out of west- slight ripple- man on swim dock w/3 dogs getting a bath- no boats on the bowl- hear laughter of children east end- pontoons at docks- some covered- otherwise quiet.
+07/06/2006,5 days of heavy large motor jet skiing and towing over the fourth of July. A couple of fish boats on lake and 4 to 6 kayaks. 79 degrees. Sun out- high clouds- small cumulus cloud on W horizon- 3 loons on lake- soft breeze and ripples. 
+07/14/2006,Light rain early. Sunny with cumulus clouds. Humid- heading for the 90's. Pair of loons- heron- swim dock and DNR boat.WDNR fire on jacket changing island signs- a water skier just getting set- slight occassion breeze- ripples.
+08/07/2006,Had 4 inches of rain in the last 2 weeks. 8/4 to 8/6 jet skis and larger inboard boats with water skiers and towing. Also had new boat that they ski and wake board on the wake: today sunny- white clouds- slight breeze-  w/slight ripples- couple boats towing appeared as going out and after we started- kids enjoying vacation- couple dogs barking- another glorious day
+08/14/2006,0.5 inches of rain 8/13. Windy- larger ripples and strong drift. Sunny- mid 70's. Feels like fall- loon wail in distance. A fishing boat leaving bowl- children on swim dock having fun
+08/30/2006,Blue sky with large white clouds. No wind- lake calm. Solitary loon. Rain last Friday and Saturday. Water temperature is 75 degrees. Hummers. a lot of "lake floor scum" on shore- styrafowm pieces from neighbors swim dock also on shore- (we're on east end) collecting side of lake- lucky us- but also great sunsets. 
+09/05/2006,Sky blue with no clouds. Soft breeze. Pair of loons fishing. No activity on lake. Many swim docks in- some piers. Clumps of floor scum- white foam and small particles at shoreline- the "wakeski" boat out yesterday- but major boat traffic ended sunday 3rd Fall is in the air! 40F at night- mid 70F pm. "crock hunter" died 9/4- what a loss for all- animals-environment
+09/13/2006,beautiful- fall-like day. Sunny- no clouds. 70 degrees. Slight breeze with ripples. One pontoon going out- 1 fishing boat coming in.
+09/23/2006,Lake with mirror surface- overcast with dark clouds. No breeze. Has rained the last 2-3 days- rain expected this afternoon. 1 loon on lake. Quiet.
+10/01/2006,overcast with large dark clouds. Many rain showers this past week. Rained Friday and Saturday morning. Breeze and large ripples. Sun peeking through.
+10/10/2006,heavy frost last night. Light frost the past couple of nights. Dark clouds moving in.
+10/25/2006,43 degrees - temperature ten degrees below normal. Sunny- blue sky. Lake like a mirrow. Rain/snow past days. Yesterday heavy frost on trees.
+04/18/2007,sun-clouds moving in;H20=44 degrees- air=44degrees-quiet no activity on lake- eagle soaring
+04/28/2007,sunny- H20=54degrees air=64degrees;quiet- no activity on lake-
+05/10/2007,sunny w/lgr.white cloud puffs- slight breeze- H2O=66 deg.-air=80deg 3/4" rain Tues PM - Wed. AM  pine tree bloom on lake  quiet
+05/25/2007,air=58deg- H2O=65deg  blue skies w/white clouds; our "wake" boat is back!
+light breeze w/slight waves- sounds of construction- kayak- paddle boat w/kids
+05/30/2007,H2 0=66deg- air=76deg  start w/blue sky and numerous lgr white clouds end w/overcast and threatening sky/clouds strong breeze w/moderate waves
+strong winds + rain past 5 days."wake"boat-inboards towing over weekend-quiet today=5/29... 5/30=H20=68deg- air=78deg  humid-hazy threatening weather still-cpl K9s playing on shore;mallard family-construction fishing boat headed in to beat storm. secchi reading 16.75-15.5(29-30) satellite days  rest of readings same'
+"wake" boat out- in board boats towing tubes + skiers over the holiday weekend but lake quiet today
+construction sounds- pine sap starting                              satellite
+06/06/2007,air=66deg-H2O=68deg.gray overcast-windy(few calm days lately- boat towing 2 tubes- fishing boat headed in with possible severe weather expected. Satellite TV getting no signal
+06/10/2007,air=78deg- H2O=72deg finally calm- sunny- boat towing skiers- 3 pontoons- 4-6 kayaks- blue heron w/lgr fish
+6/9  colder- windy w/rain  alot of boat traffic during rain free times  2 loons on lake
+07/01/2007,air=64deg- H2O=72deg last 1/2 week hi humidity. rain Wed to break humidity
+calm- blue sky sunny w/white cloud puffs- very little lake activity for July 4th weekend. then one of the two wake boats appeared towing sending it's huge waves towards shore thank gosh after we finished- cpl pontoons- blue heron flying over- one loon
+07/08/2007,air=86deg- H2O=82deg last two days heavy boat traffic(both wake boats) inboards w/lgr motors towing and sking  7/2 major storm w/high winds- dangerous lightning lost transformer on north end of lake- heavy rain-our Sylvan fishing boat full of water resting on ground-and pea size hail. today looksand feels like rain- 2 loons on bowl of lake- 1 boat towing-fishing boat headed in with few drops of rain.alot of trash + weeds on shore along with lgr pieces of glass
+07/09/2007,air=78-H20=76 7/8 heavy rain/winds;rain early AM 7/9;lake calm w/slight breeze;no boats;cpl loons on bowl of lake;blue sky w/white clouds; plant fragments at shoreline
+
+note: we can not anchor at spot so drift will affect the readings
+07/15/2007,air=64;H20=72 first sunny day-boats out strong w/2 wake boats-2 lgr inboard-sking;2 jet skies- cpl kayaks at shoreline(safty); one loon;past week cool-cloudy w/daily fronts w/rain + winds; hail last Thurs; bait lids-candy wrappers and all kinds of plant life washing to shore
+07/24/2007,air=82-H20=78;moderate hunidity-praying for rain-sunny blue sky;little activity w/4kayaks-one sport boat towing 1 tube; blue heron on swim dock fishing;osprey soaring/fishing;2 loons;2 K9's playing at shoreline;calm and beautiful; 7/25 air=86;H20=84 humid 4:0pm- 15.75'-not bottom-low water-clear-blue;percept.=1 humid-sunny blue sky;6 kayaks-pontoon towing tubes- blue heron fishing- 2 loons grooming;female mallard w/4 near adult chicks; K9's "fishing" at shoreline 
+08/02/2007,air=78- H20=83;clear blue sky- winddy w/smaller waves-no white caps;ski boat towing;sounds of lawn mower;children playing w/ dogs at sgore;54mph winds yesterday-limbs down- some bottom bog floating in from west thanks to boats-some shore foam-no humidity beautiful day except for the Milwaukee Brewers game
+08/09/2007,air=74-H20-78:lake like a mirror(no drift for testing)-no wind-1 pontoon boat;2 loons-eagle on bear branch top of lgr. pine;construction sounds;a quiet boat week since last Sunday;hi temps + humidity=August. another beautiful northern WI day
+08/25/2007,air=68- H20=72;sunny w/dark clouds incoming from NW;moderate breeze + waves- 1 fishing boat; crows calling- bottom scum floating(yuk!); past week effects of hurracane=below norm. temps- heavy flooding in southern Wi;minimum rain here thru Friday would gladly take some rain from the south
+09/03/2007,air=76;H20=75; sunny- blue sky w/white clouds; 1 boat w/water skier- 1 boat cruising- little wind-calm lake; a kayak; wonderfully quiet
+09/09/2007,air=70;H20=68; b lue sky w/lgr dark clouds; lake is quiet- 3 loons- pontoon boat fishing; black lab playing at shore;geese flying overhead; quiet
+09/19/2007,air=66- H20=64;rain over night thru AM;1 fishing boat;breeze-ripples on lake;quiet otherwise
+09/26/2007,air=60- H20=64; calm blue sky- sunny;lake very calm- 1 loon- 1 fishing boat; 3" rain last week
+
+This will be my last test date since family matters calling me home to Janesville
+05/10/2008,air=58-lake still-l sunw/grey-no wind-1 loon- no human activity on bowl of lake
+05/15/2008,air=60-H20=58 cloudless blue sky NW eind moderate-3 loons-K9's on shore-lake quiet
+05/27/2008,H20=60- air=59 still water- blue sky w/high whispy clouds- 2 loons- 1-heron-1 fishing boat- alot of tree bloom on lake-rained last night w/winds- storms all around- hail to the north- freeze warnings out
+06/02/2008,air=66- H20=64-in the 15min went from blue sky to overcast-slight ripple- pontoon boat-fishing otherwise quiet
+06/23/2008,air=70- H20=72-lake still-blue sky w/puffy white clouds- loon calling- heron fishing-kayak- fishing boat- lake quiet;Sunday multiple fronts moving thru-light rain
+07/09/2008,air=72-H20=73-overcast-still heavy boat trafficn and lgr jet ski for past week;light rain Tuesday-canoe
+07/16/2008,air=74-H20-74.5-weather fronts moving thru;rained two nights in a row;ski boat- 3 loons;pontoon boat;blue sky- humidity building
+07/31/2008,air:76;H20=78; rained1" total 27th into Tuesday;2 loons w/chick;fishing boat;water skier;kayak; alot of debre at shorline
+08/11/2008,air=74; H20=78;blue sky w/white clouds-two loons and a chick- fishing boat- pontoon boat-two kids on a blow up raft- otherwise quiet
+04/18/2009,water=46 degrees; air+ 64 degrees beautiful sunny day- lake still- flat bottom boat
+fishing; three loons: pair and intruder.  air=64; H20=46; beautiful day- lake still; 3 loons(pr + floater); flat botton boat air=46; H20=64; beautiful day- lake still; 3loons(pair + floater; flat bottom boat  air=64; H20=46 beautiful day- lake still- 3 loon(pair + floater) flat bottom boat
+
+
+
+originally entered 4/24
+04/27/2009,H2O=52degrees; air=60degrees clear blue sky;no waves-quiet;a lgr engine fishing boat testing; it out;flat bottom fishing boat w/fisherman; loon pair;eagle soaring;a pair of mergansers this AM;at 11:00; on 4/21 we had 10"snow;4/25 thru 4/26 about 2" of rain monitored the whole lake and saw no sign of curly pond weed or milfoil air=60; H2O=52  clear blue sky; no waves- lgr engine boat;fishing boat-fishing; loon pair; eagle soaring; pair mergansers  at 11;00am; 4/21= 10" snow; 4/25-25=2" rain abd storms moving through
+05/27/2009,H20=63 degrees;air=68 degrees  2 loons seperate;blue sky- lake calm;fishing boat
+when taking the test I ran out of rope for depth    lake very-very clear air=68; H2O=63  fishing boat- 2 loons at ends of lake' blue sky- lake calm; ran out of rope on secchi test w/out hitting bottom
+06/11/2009,H2O=60; air=58 sunny-blue sky lake like a mirror but lgr black cloud moving in frpm the north.2 herons chasing each other;pontoon boat and fishing boat; green pine dist fluff on lake;small blk. flies in swarms; l loon air=58; H20=60; beautiful sunny day- lake as a mirror; dark clouds starting to move in;2 herons chasing each other; pontoon boat; fishing boat; green pine dust floating on lake; black flies in swarms on lake; 1 loon
+06/26/2009,H20=78; air=80 sunny- very humid again-pontoon boat cruising;2 fishing boats;heron fishing from blind at cabin;:yellow pine boo extreme on shore line- visibility terrible; adults and kids swimming were yellow boo not present; our decoys and boats are getting stained yellow-worse I've ever seen concerned by sight of a pair swimming together and being informed of the new nesting sight by fellow lake people of  on a rock bar I decide to venture out in kayak to check things out with heavy heart. There has been a speed boat bombing up and down lake. Even though buoys were in place these people had no thought about the loons from past history. ir=80; H2O=78;sunny- humid again; pontoon boat;2 fishing boats; heron fishing at blind in front of cabin; yellow/green pine "poo" extreme at shore line; visibility terrible; kids swimming with adults on air matresses floating;boats and decoys stained yellow
+07/06/2009,air=72; H20=68; sunny beautiful day;windy so lake is wavy/ripples;pontoon boat cruising;speed boat towing sreaming children;people swimming around lake to cool off; jet ski- 7/3 finally had a break in the weather from cold/raining to July weather for the hoiday!; heron flying overhead; 2 loons pair was seen in large bay behind Donat Island while out doing secchi test. They dove and then on the way back to out cabin there were two loons close together looking "lpvingly" into each others eyes. They were both large but one appeared huge to me. We followed to get bandings on both birds.
+Terrirotrial female: silver/orange on right and green/-----.The blue is vertually impossible to pick up unless doing a wag. Believe it is our lady and all I could pick up on the other was white/silver-right leg monitoring from shore- weather and lake conditions not good for on water monitoring. leaving tomorrow for Janesvill; monitoring from shore due to weather and lake conditions air=72; H2O=68  sunny beautiful day- windy w/ small ripples; pontoon boat; speed boat towing; people swimming around lake; jet ski doing as jet skis do!;
+7/3: finally break in cold- rainy weather with more typical July weather; heron flying; 2 loons on lake-no good for nesting
+07/22/2009,air=70; h20=69. weather has beenvery rough/cold making an accurate test impossible before today. started out with blue sky and large white clouds but has ended with darkening sky and clouds-hoping for some of the promised rain. Lake levels falling weekly-extension after extensions for pier.
+1 loon on bowl of lake- herons flying over head; large motor boats towing delighted children; boat pulled up on shore of doughnut island w' K9 for a potty break ; couple kayaks and a paddle boat- pontoon boat cruising; people wadding not swimming-cold water. beautiful day but not tipical July weather air=70; H2O=69  started out w/lgr white clouds and ended with dark clouds pray for rain; 1 loon; lgr boat towing kids; boat pulled up on Doughnut Island with dog-potty break ; weather/water cold/rough in past weeks; waders- not swimmers
+July  ! 
+08/03/2009,air=70; H20=68; blue sky w/ dark clouds moving in-another front moving in. 43 degrees last night- hoping for more rain. sail boat on bowl of lake- really moving;fishing boat-fishing couple; pontoon boat; 2 mallards; 2 loons There have been loons all over the place. This AM our five loons together swimming their normal routine around bowl- friendly hitting all the cribs.
+     Do hear yodels from time to time but see no actual confrontations. seeing many loons in and around lake. This AM the five loons doing their normal rountine of hitting all the cribs around bowl of lake.
+Do hear some yodels but see no confrontation. seeing many loons on lake and flying overhead. This AM our 5 loons swimming peacfully together and hitting all the cribs on the bowl of lake- air=72; H2O=68 blue sky w/ dark ckouds moving in with next front; sail boat really moving;pontoon boat;; fishing boat; two macho mallards; 2 loons(pr)
+mulitiple fronts in and out past  week; rain seratic w/fronts; 43 degrees last night
+been hard getting secchi tests due to weather
+08/23/2009,1 1/2" rain from previous week; small flock of Red Head ducks; pontoon boat cruising/fishing; fishing boat; 1 loon
+air=74; H20= 68- not swimming temp for these old bones 
+09/08/2009,air=76; H20=76; heavy boat traffic four day holiday; clear blue sky- lake placid; 1 pontoon; 1loon have bee seeing a single loon daily noe on the bowl of the lake; hear wails air=76 H2O= 76  heavy boat traffic over 4 day holiday; blue sky-placid lake; 1 pontoon- 1 loon
+09/15/2009,air=76; H20=74; clear blue sky and lake placid; some darker clouds appearing- praying for rain; two weeks with out and lakes level declining;2 fishing boats; 1 loon; a lot of "bottom scum floating on lake; saw several-large spawning beds notin use seeing only the one loon on bowl of lake; hear wails often air= 76  H2O=74   blue sky- lake placid- small dark clouds; 2 fishing boats- 1 loon; alot of iky "botton scum floating ; saw several lage spawn beda air=76;H20=74 blue sky- lake placid with dark clouds moving in; 2 fishing boats; 1 loon;a lot of "bottom scum floating on lake and at shore; saw several lgr spawning beds-
+10/20/2009,air=52; H20=54  sunny sky off and on- lake still to slight ripples; 1 fishing boat; 1  juvenile loon visiting; 2 eagles soaring; otherwise lake has no activity but hear blowers every where. Majority of piers are in. A flock of mergansers visiting; some white foam at shoreline. A fall day. a flock of mergansers visiting- fishing and resting
+1 juvenile loon- no bands seen
+04/18/2010,H20=55- air==58 beautiful cloud free bllue sky; very strong wind(white caps)- and some rain past two days; today lake still w/ no boat traffic at this time had very strong winds the past 2-3 days with white caps- all quiet now- beautiful day H20=55- air=58    had very strong winds(white caps) and rain(not enough)
+beautiful day. did secchi test =21 feet- loon monitoring and found no Curly Pond Leaf or Milfoil weather has been terrible- string winds- cold and rain. today the first day out in boat
+met Andrew with Dr. Piper's crew observing the loon pair down 'finger" of lake by last year's nesting tock bar
+
+he had identified our territorial female by bands; mate un banded Met Andrew w/Dr.Pipers crew and gave banding for territoial female who has returned
+04/28/2010,air=58; 2
+h2O=55
+clear clodledd blue sky- all quiet
+05/16/2010,air:70;H20=60;blue sky w/cumulas clouds-2 fishing boats-pontoon boat- loon-heron flying in distance-increase human activity with voices and K9s running on shore
+06/01/2010,air=74;H20=75; blue sky with a/few white puff clouds;slight wing-ripples; yellow pine bloom heavy on shore; heron flying over;heavier than normal boat/personal watercraft traffic over Memorial Day;.1 to .6" of rain w/lightening on the 31st all quiet today.
+06/06/2010,air=60;H20=73 stormy- dark clouds;cold front moving through;expecting rain;had 1/4" rain;
+6/5: female common merganser at out dock Air:60;H20:73 stormy cold front moving through- dark sky and clouds
+rain expected; ripples on lake
+1/4" of rain lake quiet
+female common merganser seen at our pier on 6/5
+06/07/2010,air=68;H20=72; blue sky w/white clouds; cold fron has been moving through for two days now;pontoon boat;fishing boat;2 kayaks with canoe; a pair of Canada geese with 6-7 goslings swam by our pier thia AM; heavy algae at shore line
+around Crane Island there was multiple blue/green specks in water saw three loons flying over the bowl of the lake in front of our cabin- no vacalizations
+a loon on nest air=68; H20=72  blue sky-white clouds-cold front moving through past two daysa- pontoon bost- fishing boat on lake-kayak w/canoe group- canada geese with 6-7 goslings swimming  by- heavy alge in lake
+07/01/2010,Air=75- H2O=76- cpl. pontoon boats-2 speed bosts- 2 fishing boats- 1 jet ski-2heron flying over- 2 loons- influx of people for the holidy.
+alot of rain in past week=5"
+07/10/2010,air=80- H2O=80 blue sky w/white puffs of clouds- slight breeze/ripples- possible rain this PM- 6-7" of rain in past weeks- herons fishing at shore- take off honking;speed boat  towing screaming children; fishing boat with musky on line
+7/9/10 saw adult and two young female Common Merganzers air=80;H20=80 blue sky w/white puffs;slight breeze w/ripples;expecting rain this PM;  had 6-7"rain in past week; herons fishing at shore; speed boat towing screaming kids; fishing boat off point landing lgr musky-released; saw3  female common merganzers(couple almost grown chicks ) on shore  yesterday while monitoring loon nest  
+07/29/2010,air=74; H20=80 alot of activity on lake; pontoon boats and speed boats towing and skiing; many swimmers-adults- childred and dogs; pair of loons on the bowl of lake
+and a single loon down west of the finger of lake; 10-12 Redb Head ducks on shore at shallow channel west on finger of lake
+eater is very murky/brown no sign of either EWM or CPL  just returned to Mildred 7/27/10
+two loons on bowl of lake a third at far east end of finger of lake
+
+hear alot of vocalizations- nervous tremelos- wails but no yodels
+08/09/2010,air=80;H20=80; blue sky-lake still;pontoon + fishing boats towing skiers and rafts;jet ski racing around;people and K9s swimming- enjoying the lake; eagle soaring-2 loons screaming warning of eagle
+has been a very stormy periond in area with much rain
+our usually crystal clear bluew water has bee very murky and brown in color
+09/22/2010,air=60; H20=60 beautiful fall day- water appears to be much clearer- fishing still terrible. Have seen seen a flock of about 12 Common Merganser femals- 1 Canada goose
+People on lake removing piers- couple fishing boats
+
+my last report for the year
+09/30/2010,beautiful day so took another secchi. All very quiet on the lake and in the sky.
+Lke is up 8-10" with all the rain in the past weeks. Water at shore is once again clear and clean looking. I saw a couple frogs at shore that my lab enjoys chasing.
+Good sign.
+05/20/2011,air:70; H2O 57  blue sky w/ lgr white clouds; people working to open their cabibs; dogs playing on shore- smal leaf buring fires
+05/27/2011,While sitting in kayak NE side of Crane Island- loon popped up next to me with a mass of flies around; proceeded to swim to nest site(very well placed) climbed onto for short period and returned to water most likely due to flies
+saw two eggs in nest
+retrieved nesting buoys and placed them
+male yodeling off in distance and saw female on the nest
+05/10/2012,air=68-H20=58 sunny-blue sky-loon on west finger of lake-several residents on piers; no boat traffic- abnormally missing both loons and loon vocalizations
+water still and released secchi disc to length of rope + another foot before lost sight of....our beautiful clear lake in spring did secchi test and then traveled shore of whole lake and found nothing to be concerned about
+05/26/2012,air=65- H20=65  sunny- minimal boat traffic for holiday- fishing(Muskey ) boats towing- kayaks- a wake boat pulling skier; Loon Nesting buoys placed around Crane Island with one loon on west side relaxing on back; residents swimming(kids). Weather has been a challenge with winds/rain  but making the best of the days good weather. Saw a eagle attempt a attack on a heron mid air but heron wisely plummeted down into lake and escaped.
+06/11/2012,Air=74  H20=75  day started out grey-overcast - 11:00AM sun out w/blue sky + white clouds. Windy- couple fishing boats- one loon
+06/19/2012,air=78;H20=74 thunderstorms-multiple fronts w/rain past couple days. overcast with light rain in AM at 10:30AM cleared into sunny blue skies more storms expected in eve/night
+05/19/2013,Partly cloudy- moderate wind about 10 mph
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1979,Data Collectors,Migrated from STORET Legacy
+07/09/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/30/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/30/1992,Data Collectors,Citizen Lake Monitoring - Water Quality - Mildred Lake - Deep Hole
+09/10/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/25/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+09/07/1994,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/04/1995,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/25/1995,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/06/1995,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/11/1997,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/21/1997,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/28/1997,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/10/1997,John Bassette,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/31/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/07/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/14/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/22/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/28/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/06/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/14/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/07/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/14/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/30/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/05/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/13/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/23/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+10/01/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+10/10/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+10/25/2006,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/18/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/28/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/10/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/25/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/30/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/06/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/10/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/01/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/08/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/09/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/15/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/24/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/02/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/09/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/25/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/03/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/09/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/19/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/26/2007,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/10/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/15/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/27/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/02/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/23/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/09/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/16/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/31/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/11/2008,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/18/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/18/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+04/27/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/27/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/11/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/26/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/26/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+07/06/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/06/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+07/22/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/03/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/03/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+08/23/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/08/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/08/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+09/15/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/15/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+10/20/2009,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+10/20/2009,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+04/18/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/18/2010,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+04/28/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/16/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/01/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/06/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/07/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/07/2010,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+07/01/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/10/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/29/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/29/2010,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+08/09/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/22/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+09/30/2010,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/27/2011,Todd Hanke - Onterra- LLC,LAKE MILDRED PROPERTY OWNERS ASSOC: Lake Mildred Management Planning Project- Phase 1
+05/20/2011,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/27/2011,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/27/2011,Karen Smout,Loon Protection Program on Mildred and Clear Lake- Oneida Co. 
+06/01/2011,_ Fenske- Todd Hanke - Onterra- LLC,LAKE MILDRED PROPERTY OWNERS ASSOC: Lake Mildred Management Planning Project- Phase 1
+07/18/2011,Tim Hoyman - Onterra- LLC,LAKE MILDRED PROPERTY OWNERS ASSOC: Lake Mildred Management Planning Project- Phase 1
+08/25/2011,Dan Cibulka- Todd Hanke- Tim Hoyman,LAKE MILDRED PROPERTY OWNERS ASSOC: Lake Mildred Management Planning Project- Phase 1
+10/25/2011,Todd Hanke - Onterra- LLC,LAKE MILDRED PROPERTY OWNERS ASSOC: Lake Mildred Management Planning Project- Phase 1
+03/08/2012,Todd Hanke and Tim Hoyman - Onterra- LLC,LAKE MILDRED PROPERTY OWNERS ASSOC: Lake Mildred Management Planning Project- Phase 1
+05/10/2012,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/26/2012,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/11/2012,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/19/2012,Karen Smout,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/30/2012,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/30/2012,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/22/2012,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/22/2012,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/30/2012,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/30/2012,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/19/2013,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/30/2013,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/28/2013,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/28/2013,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/18/2013,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/18/2013,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/10/2014,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/17/2014,Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/17/2014,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/19/2014,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/24/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/24/2014,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+04/18/2015,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+05/23/2015,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/28/2015,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/19/2015,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/19/2015,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/16/2015,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/18/2016,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/17/2016,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/27/2016,Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/27/2016,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/22/2017,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/25/2017,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/30/2017,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/20/2017,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/17/2018,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/17/2018,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/15/2018,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/15/2018,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/19/2018,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/19/2018,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/16/2019,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/16/2019,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/21/2019,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+07/21/2019,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/17/2019,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/17/2019,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/28/2020,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+06/28/2020,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/23/2020,Sandy Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth
+08/23/2020,Sandy and Dave Ebben,Citizen Lake Monitoring - Water Quality - Mildred Lake (1004600); At Maximum Depth

@@ -1,0 +1,96 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wiscobee Lake,Oconto,481700,NE,43,,433249,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,10/30/1980,15.1,,4.6,2,,38,,40,,,,,
+1,02/26/1981,,,,1,100,,64,35,,,,,
+1,09/03/1981,19.7,,6,5,20,34,51,47,,,,,
+1,10/13/1981,18,,5.5,4,20,35,51,45,,,,,
+1,03/11/1982,,,,5,20,,51,47,,,,,
+1,05/13/1982,8.2,,2.5,9,20,47,51,51,,,,,
+1,06/30/2020,,,,12.9,23,,52,54,,,,,
+79323097,06/30/2020,5.5,NO,1.7,,,53,,,,,,,
+18137035,07/28/2020,4,NO,1.2,4.52,21.6,57,52,46,,,,,
+148112004,07/28/2020,4,NO,1.2,,,57,,,,,CLEAR,RED,2-Very minor aesthetic problems
+1,09/01/2020,,,,9.6,16,,50,52,,,,,
+79323097,09/01/2020,6,NO,1.8,,,51,,,,,,,
+18137035,09/21/2020,6,NO,1.8,12.5,,51,,54,,,,,
+79323097,09/21/2020,4.5,NO,1.4,,,55,,,,,,,
+79323097,11/06/2020,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/30/1980,,,6,C,9.5,MG/L
+02/26/1981,,,3,C,2,MG/L
+09/03/1981,,,18,C,.1,MG/L
+10/13/1981,,,11,C,6,MG/L
+03/11/1982,,,2,C,.1,MG/L
+05/13/1982,,,17.2,C,.1,MG/L
+06/30/2020,2,FEET,26.1,DEGREES C,,
+06/30/2020,5,FEET,23.3,DEGREES C,,
+06/30/2020,10,FEET,17.44,DEGREES C,,
+06/30/2020,15,FEET,11.32,DEGREES C,,
+06/30/2020,20,FEET,8.64,DEGREES C,,
+06/30/2020,25,FEET,8.18,DEGREES C,,
+07/28/2020,0,FEET,26.3,DEGREES C,8.97,MG/L
+07/28/2020,3,FEET,26.26,DEGREES C,8.89,MG/L
+07/28/2020,6,FEET,26,DEGREES C,8.78,MG/L
+07/28/2020,9,FEET,19.3,DEGREES C,12.93,MG/L
+07/28/2020,12,FEET,15.59,DEGREES C,10.5,MG/L
+07/28/2020,15,FEET,10.89,DEGREES C,0,MG/L
+07/28/2020,18,FEET,9.24,DEGREES C,0,MG/L
+07/28/2020,21,FEET,8.39,DEGREES C,0,MG/L
+07/28/2020,24,FEET,7.89,DEGREES C,0,MG/L
+07/28/2020,27,FEET,7.29,DEGREES C,0,MG/L
+07/28/2020,,,25,C,,
+09/21/2020,2,FEET,16.9,DEGREES C,9.43,MG/L
+09/21/2020,5,FEET,15.2,DEGREES C,8.77,MG/L
+09/21/2020,10,FEET,11.3,DEGREES C,9.82,MG/L
+09/21/2020,15,FEET,10.3,DEGREES C,4.9,MG/L
+09/21/2020,20,FEET,11.3,DEGREES C,.67,MG/L
+09/21/2020,25,FEET,8.2,DEGREES C,0,MG/L
+11/06/2020,2,FEET,8.5,DEGREES C,8.47,MG/L
+11/06/2020,5,FEET,8.1,DEGREES C,7.6,MG/L
+11/06/2020,10,FEET,6.5,DEGREES C,7.31,MG/L
+11/06/2020,15,FEET,6.1,DEGREES C,6.85,MG/L
+11/06/2020,20,FEET,5.9,DEGREES C,6.46,MG/L
+11/06/2020,25,FEET,5.8,DEGREES C,6.27,MG/L
+11/06/2020,30,FEET,5.7,DEGREES C,3.88,MG/L
+11/06/2020,35,FEET,5.8,DEGREES C,2.36,MG/L
+
+
+
+Start Date,Fieldwork Comment
+10/30/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/03/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/13/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/11/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/13/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/28/2020,windy windy
+
+
+
+
+Start Date,Group Name,Project Name
+10/30/1980,Data Collectors,Migrated from STORET Legacy
+02/26/1981,Data Collectors,Migrated from STORET Legacy
+09/03/1981,Data Collectors,Migrated from STORET Legacy
+10/13/1981,Data Collectors,Migrated from STORET Legacy
+03/11/1982,Data Collectors,Migrated from STORET Legacy
+05/13/1982,Data Collectors,Migrated from STORET Legacy
+06/30/2020,Data Collectors,
+06/30/2020,Ryan Haney,Oconto County Lake Studies
+07/28/2020,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2020 Nordin
+07/28/2020,Brenda Nordin,Directed Lakes 2020 Nordin
+09/01/2020,Data Collectors,
+09/01/2020,Ryan Haney,Oconto County Lake Studies
+09/21/2020,Brenda Nordin,Oconto County Lake Studies
+09/21/2020,Ryan Haney,Oconto County Lake Studies
+11/06/2020,Ryan Haney,Oconto County Lake Studies

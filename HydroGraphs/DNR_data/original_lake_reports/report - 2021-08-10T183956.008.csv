@@ -1,0 +1,532 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bird Lake,Oneida,972000,NO,44,,443058,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/16/1979,,,,,,,,,,,,,
+8189452,07/07/1999,18.5,NO,5.6,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/20/1999,19,NO,5.8,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/25/1999,18.5,NO,5.6,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/06/1999,18.5,NO,5.6,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/29/1999,18,NO,5.5,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/03/1999,16.5,NO,5,,,37,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,10/05/1999,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,10/10/1999,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,04/10/2000,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,04/30/2000,17.75,NO,5.4,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,05/29/2000,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/08/2000,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/24/2000,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,06/25/2000,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/30/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,07/09/2000,12,NO,3.6,,,41,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,07/10/2000,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,07/15/2000,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/03/2000,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/06/2000,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/10/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/11/2000,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/27/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,09/17/2000,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,10/04/2000,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,10/10/2000,15,NO,4.6,,,38,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,04/28/2001,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,05/19/2001,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189452,05/28/2001,25,NO,7.6,,,31,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189452,06/17/2001,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,06/24/2001,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,07/01/2001,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,07/08/2001,19,NO,5.8,,,35,,,LOW,,MURKY,BLUE,5-Enjoyment substantially impaired (algae)
+8189452,07/13/2001,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,07/16/2001,22.5,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189452,07/24/2001,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,08/02/2001,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,08/07/2001,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189452,09/01/2001,14,NO,4.3,,,39,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,09/15/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,09/22/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,10/01/2001,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,05/24/2002,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,05/27/2002,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,06/08/2002,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,06/17/2002,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/30/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,07/05/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,07/11/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,07/15/2002,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,07/19/2002,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189452,07/27/2002,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,08/04/2002,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,08/19/2002,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,08/31/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,09/02/2002,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,09/08/2002,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,10/20/2002,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189452,06/05/2003,23.5,NO,7.1,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/22/2003,23.5,NO,7.1,,,32,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/05/2003,24,NO,7.3,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/06/2003,23,NO,7,,,32,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189452,07/17/2003,24,NO,7.3,,,31,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189452,07/18/2003,26,NO,7.9,,,30,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189452,07/23/2003,21,NO,6.4,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189452,07/24/2003,22,NO,6.7,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189452,08/09/2003,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/16/2003,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189452,08/24/2003,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,09/01/2003,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,05/09/2004,10,NO,3,,,44,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,06/14/2004,12,NO,3.6,,,41,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,06/19/2004,12,NO,3.6,,,41,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,07/19/2004,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,07/25/2004,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,08/05/2004,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,09/03/2004,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,09/30/2004,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,05/29/2005,28,NO,8.5,,,29,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/08/2005,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/04/2005,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/08/2005,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/21/2005,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/04/2005,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,09/26/2005,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/01/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,06/05/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,06/12/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,06/15/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,06/23/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,07/04/2006,10,NO,3,,,44,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,07/12/2006,13,NO,4,,,40,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189452,07/18/2006,14,NO,4.3,,,39,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189452,08/04/2006,13.5,NO,4.1,,,40,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189452,08/31/2006,13,NO,4,,,40,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,09/21/2006,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,06/19/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/07/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/13/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,07/26/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,07/30/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/03/2007,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/08/2007,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189452,08/28/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,09/24/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189452,05/24/2008,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/15/2008,24.5,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/07/2008,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/14/2008,20,,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/27/2008,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/05/2008,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/08/2008,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/16/2008,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/20/2008,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,09/05/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,09/26/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/12/2009,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/12/2009,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/06/2009,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/11/2009,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/06/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,09/08/2009,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/24/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,05/04/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,07/02/2010,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/12/2010,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/13/2010,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/07/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/22/2010,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189452,09/05/2010,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189452,09/13/2010,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189452,05/08/2011,12,NO,3.6,,,41,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189452,05/22/2011,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189452,07/05/2011,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/15/2011,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,05/10/2012,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/01/2012,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,
+8189452,07/12/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/12/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/30/2012,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,10/13/2012,23,NO,7,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,05/29/2013,20.5,NO,6.2,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/07/2013,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/23/2013,23,NO,7,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/03/2013,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/07/2013,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/24/2013,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,05/26/2014,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/17/2014,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/30/2014,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,07/07/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,07/30/2014,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/05/2014,12,NO,3.6,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189452,08/15/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,09/23/2014,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/27/2014,28,NO,8.5,,,29,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,04/12/2015,, ,,,,,,,,,,,
+8189452,05/12/2015,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,05/27/2015,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/29/2015,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/02/2015,17,NO,5.2,,,36,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+8189452,07/09/2015,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/14/2015,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/01/2017,14.5,NO,4.4,,,39,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+8189452,07/01/2017,12.5,NO,3.8,,,41,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189452,07/30/2017,14.5,NO,4.4,,,39,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189452,08/29/2017,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,09/12/2017,14,NO,4.3,,,39,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189452,10/09/2017,,NO,,,,,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,05/26/2018,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/21/2018,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/28/2018,,NO,,,,,,,HIGH,16,CLEAR,BLUE,2-Very minor aesthetic problems
+161903692,07/06/2018,16.5,NO,5,,,37,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189452,07/10/2018,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,07/23/2018,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,07/25/2018,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/06/2018,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,09/12/2018,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,10/18/2018,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,05/25/2019,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,06/01/2019,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,07/19/2019,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/10/2019,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189452,08/31/2019,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,10/10/2019,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,05/24/2020,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,06/03/2020,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,07/27/2020,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189452,08/30/2020,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,
+8189452,09/11/2020,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/16/1979,,,20,C,,
+07/06/2018,2,FEET,78.8,DEGREES F,7.79,MG/L
+07/06/2018,4,FEET,78.4,DEGREES F,7.8,MG/L
+07/06/2018,6,FEET,78.1,DEGREES F,7.78,MG/L
+07/06/2018,8,FEET,77.8,DEGREES F,7.77,MG/L
+07/06/2018,10,FEET,77.5,DEGREES F,7.76,MG/L
+07/06/2018,12,FEET,72.2,DEGREES F,9.88,MG/L
+07/06/2018,14,FEET,63.2,DEGREES F,11.35,MG/L
+07/06/2018,16,FEET,57.4,DEGREES F,11.03,MG/L
+07/06/2018,18,FEET,51.9,DEGREES F,9.33,MG/L
+07/06/2018,20,FEET,48.6,DEGREES F,4.63,MG/L
+07/06/2018,22,FEET,46.5,DEGREES F,.31,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/16/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/07/1999,1 loon- beaver- windy + sunny.    
+07/20/1999,Sunny.    
+07/25/1999,Hot- sunny- calm.    
+08/06/1999,Sunny- calm- severe wind storm 7-30.    
+08/29/1999,Windy + sunny.    
+09/03/1999,Ripples + sunny.    
+10/05/1999,Partly cloudy- windy- cold. suspect change-over.    
+10/10/1999,Sunny- warm- change-over.    
+04/10/2000,3/25 - ice out. 2 loons- 2 mallards- osprey nesting- eagle.    
+04/30/2000,Observed mating of the loons evening before.    
+05/29/2000,Large black bear on shore evening before.    
+06/08/2000,2 loons- blue heron.    
+06/24/2000,Week of heavy rains.    
+07/09/2000,Past 24 hours produced over 7 inches of rain.    
+07/15/2000,Sunny    
+08/03/2000,Partly sunny    
+08/06/2000,Partly sunny- windy.    
+09/17/2000,Partly cloudy    
+10/04/2000,Sunny- cold.    
+10/10/2000,Sunny    
+04/28/2001,Ice out on April 19 and loons arrive.    
+05/19/2001,Warm- sunny- and bass on beds.    
+05/28/2001,Pair of loons- blue heron- and bald eagle.    
+07/13/2001,Two fawns with mother doe playing in water by shore.    
+07/16/2001,Sunny and calm.    
+07/24/2001,Windy.    
+08/02/2001,Windy and hot.    
+08/07/2001,Calm- hot- and sunny.    
+09/01/2001,Windy.    
+09/15/2001,Badger in yard.    
+09/22/2001,Sunny.    
+05/24/2002,Very windy and cold    
+05/27/2002,Sunny    
+06/08/2002,Eagle swan onto nesting loon site and attacked adult loon and flew away with it.    
+06/17/2002,2baby loons Water very very high. Shore trees under water. 2 baby loons 2 baby loons 
+06/30/2002,Windy- 2 bear cubs. Osprey nest with young    
+07/05/2002,Mother deer and fawn    
+07/19/2002,Eagle and loon    
+09/02/2002,Heavy rain night before. Windy    
+10/20/2002,Windy with some snow    
+06/05/2003,water calm and beautiful.  Ice out 415/2003.  Loons waiting.    
+06/22/2003,sm breeze- beautiful    
+07/05/2003,sunny- beautiful    
+07/06/2003,Partly cloudy- sm ripples. Thermocline 22'. 76 F surface temp.    
+07/17/2003,sunny- breezy    
+07/18/2003,sunny- calm- beautiful    
+07/23/2003,partly cloudy- windy    
+07/24/2003,sunny- breezy    
+08/09/2003,a "green slime" present    
+08/16/2003,sunny- hot    
+08/24/2003,breezy    
+09/01/2003,sunny- calm    
+06/14/2004,2 baby loons hatch    
+08/05/2004,Both baby loons doing great.    
+09/30/2004,Loons have left.  Water very low on lake.  Lake clarity was somewhat less this year than past years.    
+05/29/2005,ice out 4-11-2005- water very low and very clear    
+06/01/2006,water appears dirty and smells bad
+06/05/2006,Many new large lake homes and piers- new very large boats- 200+HP
+06/12/2006,Lake dirty compared to past years- and very low
+06/23/2006,very heavy fishing pressure
+07/04/2006,very heavy large boat traffic
+07/12/2006,Copper brown in color for 1st time- again- very heavy large boat traffic
+07/18/2006,Large boat seemed to hit baby loon- one baby loon gone!
+08/04/2006,Copper brown color back again in some areas- help!
+08/31/2006,Adult loons not on lake
+09/21/2006,Baby loon not on lake- Lake very shallow and overused
+06/19/2007,Ice out 4/2/2007
+07/07/2007,Loons could not nest in marsh because of the low water level.
+07/13/2007,Very heavy large boat activity.
+07/26/2007,Many new cabins and large ski boats.
+09/24/2007,Water level very very low.
+07/07/2008,Sunny- very calm
+07/14/2008,Sunny- windy
+07/27/2008,Sunny- windy
+08/05/2008,Sunny- windy
+08/08/2008,Sunny - windy
+08/16/2008,Sunny  - windy
+08/20/2008,Some algae bloom
+09/05/2008,Sunny- windy- cold
+09/26/2008,Lake very- very shallow
+06/12/2009,Ice out 4/16/2009.  Loon on nest in marsh 6/9.  Water levels extremely low.
+07/12/2009,Loons abandon nest 6/20.
+08/06/2009,No loons on lake.
+08/11/2009,Water levels fall more.
+09/24/2009,Water levels at lowest level ever!
+05/04/2010,lake very low. Ice out March 30.
+07/02/2010,Loons mate April 11 but do not nest.
+07/13/2010,Lake levels down more than 5 feet from last year!!
+08/07/2010,severe low lake levels.
+09/05/2010,September rains have helped the lake levels. Lake is still low. September rains have helped the lake levels. Lake is still low.
+05/08/2011,ice out 04/21/2011
+07/01/2012,ice out march 21-2012
+06/07/2013,iceout may 5-2013
+05/26/2014,ice out may 5
+06/17/2014,windy and cold
+09/27/2014,best reading ever!
+04/12/2015,ice out
+05/12/2015,2 loons on lake
+05/27/2015,loon nest with 2 eggs destroyed
+06/29/2015,loon on 2nd nest attempt with 1 egg
+07/09/2015,7/15  no loon or egg on nest
+06/01/2017,Loons nest in marsh
+07/01/2017,2 baby loons hatch on June 30
+07/30/2017,1 baby Loon dies 
+08/29/2017,1adudt Loon and 1 baby Loon on lake
+10/09/2017,No loons on lake
+10/18/2018,Ice-up 12-8-2017-ice-out 5-3-2018- 2 loons 5-5-2018- 5-28-2018 Loon nest- 6-29-2018 1 baby Loon- 10-18-2018 no loons
+05/25/2019,Ice up nov.17-2018.   Ice out April 26-2019.     2 loons may5;2019
+06/01/2019,Failed loon nest
+10/10/2019,Lake was and is very high.2 adult loons on lake till late October.
+05/24/2020,Ice up 11-14-2019.   Ice out 04-2020. Loons 04-22-2020
+06/03/2020,Loons on nest
+07/27/2020,Heavy rain. Lake keeps rising.
+08/30/2020,One loon baby shunned and not fed for days dies on July 31st.
+09/11/2020,Water is very high. Lake was very very crowded with many people and very large boats. Busiest summer ever seen in 50; years .
+
+
+
+
+Start Date,Group Name,Project Name
+08/16/1979,Data Collectors,Migrated from STORET Legacy
+07/07/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/20/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/25/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/06/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/29/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/03/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/05/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/10/1999,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+04/10/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+04/30/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/29/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/08/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/24/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/25/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/30/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/09/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/10/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/15/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/03/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/06/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/10/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/11/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/27/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/17/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/04/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/10/2000,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+04/28/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/19/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/28/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/17/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/24/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/01/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/08/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/13/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/16/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/24/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/02/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/07/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/01/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/15/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/22/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/01/2001,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/24/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/27/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/08/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/17/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/30/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/05/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/11/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/15/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/19/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/27/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/04/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/19/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/31/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/02/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/08/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/20/2002,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/05/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/22/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/05/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/06/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/17/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/18/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/23/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/24/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/09/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/16/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/24/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/01/2003,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/09/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/14/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/19/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/19/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/25/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/05/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/03/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/30/2004,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/29/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/08/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/04/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/08/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/21/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/04/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/26/2005,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/01/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/05/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/12/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/15/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/23/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/04/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/12/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/18/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/04/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/31/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/21/2006,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/19/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/07/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/13/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/26/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/30/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/03/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/08/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/28/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/24/2007,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/24/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/15/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/07/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/14/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/27/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/05/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/08/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/16/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/20/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/05/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/26/2008,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/12/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/12/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/06/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/11/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/06/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/08/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/24/2009,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/04/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/02/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/12/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/13/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/07/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/22/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/05/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/13/2010,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/08/2011,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/22/2011,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/05/2011,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/15/2011,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/10/2012,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/01/2012,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/12/2012,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/12/2012,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/30/2012,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/13/2012,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/29/2013,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/07/2013,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/23/2013,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/03/2013,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/07/2013,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/24/2013,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/26/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/17/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/30/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/07/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/30/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/05/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/15/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/23/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/27/2014,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+04/12/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/12/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/27/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/29/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/02/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/09/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/14/2015,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/01/2017,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/01/2017,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/30/2017,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/29/2017,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/12/2017,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/09/2017,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/26/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/21/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/28/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/06/2018,Aubrey Nycz- Jodi Partin,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+07/10/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/23/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/25/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/06/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/12/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/18/2018,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/25/2019,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/01/2019,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/19/2019,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/10/2019,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/31/2019,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+10/10/2019,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+05/24/2020,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+06/03/2020,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+07/27/2020,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+08/30/2020,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole
+09/11/2020,Carol Miller,Citizen Lake Monitoring - Water Quality - Bird Lake; Deep Hole

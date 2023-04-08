@@ -1,0 +1,71 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mud Lake,Polk,2619100,NO,49,,494004,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/06/1979,,,,13.83,68.9999,,61,55,,,,,
+62595126,08/01/2012,3.9,NO,1.2,18,20,57,51,57,,,,,
+49230085,07/15/2019,,,,41.6,126,,66,63,,,,,
+199028768,07/15/2019,5,NO,1.5,,,54,,,,,,,
+49230085,08/19/2019,5,,1.5,27.5,63.4,54,60,60,,,,,
+49230085,09/05/2019,6,YES,1.8,24.4,44.6,51,58,59,,,,,
+146987459,07/20/2020,2.75,NO,0.8,62.8,129,63,66,66,,,,,
+1,08/18/2020,,,,57.8,159,,67,65,,,,,
+146987459,08/18/2020,5.25,NO,1.6,,,53,,,,,,,
+146987459,09/09/2020,6,YES,1.8,69.6,56.9,51,59,67,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/06/1979,,,,,9.2,MG/L
+08/01/2012,0,METERS,26.1,DEGREES C,12,MG/L
+08/01/2012,0.5,METERS,26.1,DEGREES C,12,MG/L
+08/01/2012,1,METERS,25.8,DEGREES C,10.8,MG/L
+08/01/2012,1.5,METERS,25.1,DEGREES C,4.8,MG/L
+07/15/2019,0,FEET,27.1,DEGREES C,10.35,MG/L
+07/15/2019,1,FEET,24.7,DEGREES C,10.3,MG/L
+07/15/2019,2,FEET,20.6,DEGREES C,.22,MG/L
+08/19/2019,0,FEET,21.7,DEGREES C,7.94,MG/L
+08/19/2019,1,FEET,21.6,DEGREES C,8.05,MG/L
+08/19/2019,2,FEET,21.6,DEGREES C,1.25,MG/L
+09/05/2019,0,FEET,19,DEGREES C,10.49,MG/L
+09/05/2019,1,FEET,19,DEGREES C,10.47,MG/L
+07/20/2020,0,FEET,24.7,DEGREES C,7.03,MG/L
+07/20/2020,1,FEET,24.6,DEGREES C,7.03,MG/L
+07/20/2020,2,FEET,24.4,DEGREES C,4.36,MG/L
+08/18/2020,0,METERS,21.8,DEGREES C,9.3,MG/L
+08/18/2020,1,METERS,21.6,DEGREES C,9.99,MG/L
+08/18/2020,1.5,METERS,21.1,DEGREES C,6.18,MG/L
+09/09/2020,0,METERS,15,DEGREES C,7.97,MG/L
+09/09/2020,1,METERS,15,DEGREES C,7.97,MG/L
+09/09/2020,1.5,METERS,15,DEGREES C,7.96,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/06/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/15/2019,filtered:200ml
+breezy
+08/19/2019,filtered: 200ml  calm
+09/05/2019,filtered: 200ml
+Windy
+09/09/2020,cloudy- cool
+
+
+
+
+Start Date,Group Name,Project Name
+08/06/1979,Data Collectors,Migrated from STORET Legacy
+08/01/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+07/15/2019,Katelin Anderson and Jeremy Williamson,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+07/15/2019,Katelin Anderson- Jeremy Williamson- Noah Wieczorek,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+08/19/2019,Katelin Anderson and Jeremy Williamson,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+09/05/2019,Katelin Anderson and Jeremy Williamson,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+07/20/2020,Katelin Anderson- Colton Sorensen,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+08/18/2020,Data Collectors,
+08/18/2020,Katelin Anderson- Colton Sorensen,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible
+09/09/2020,Katelin Anderson- Colton Sorensen,2019-2020 Polk County Directed Lakes Monitoring - 319 eligible

@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+North Lake,Waupaca,279400,NE,69,,10048640,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+46007480,06/23/2017,18,NO,5.5,,,35,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/2017,1,METERS,22.8,DEGREES C,8.1,MG/L
+06/23/2017,2,METERS,22.8,DEGREES C,7.8,MG/L
+06/23/2017,3,METERS,22.8,DEGREES C,8,MG/L
+06/23/2017,4,METERS,16.7,DEGREES C,6.3,MG/L
+06/23/2017,5,METERS,13.3,DEGREES C,2.8,MG/L
+06/23/2017,6,METERS,11.4,DEGREES C,1,MG/L
+06/23/2017,7,METERS,10,DEGREES C,.5,MG/L
+06/23/2017,8,METERS,8.2,DEGREES C,.4,MG/L
+06/23/2017,9,METERS,7.4,DEGREES C,.3,MG/L
+06/23/2017,10,METERS,7.1,DEGREES C,.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/23/2017,CHRISTOPHER KOLASINSKI,Response Monitoring

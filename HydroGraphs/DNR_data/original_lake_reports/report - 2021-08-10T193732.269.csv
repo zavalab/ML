@@ -1,0 +1,84 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Callahan Lake,Sawyer,2434700,NO,58,,584005,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/20/1979,,,,3.23,8,,44,44,,,,,
+29748448,07/25/2009,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,
+29748448,07/30/2009,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,
+29748448,07/31/2009,,,,2.64,21,,52,42,,,,,
+29748448,08/14/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,
+29748448,08/30/2009,5.5,NO,1.7,2.51,13,53,48,42,LOW,,CLEAR,BROWN,
+48236536,06/16/2020,10.6,YES,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236536,06/30/2020,11.5,YES,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,
+48236536,07/07/2020,13.94,YES,4.2,,,39,,,NORMAL,,CLEAR,YELLOW,
+48236536,07/30/2020,11.5,YES,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,
+1,08/06/2020,,,,2.92,21.1,,52,43,,,,,
+48236536,08/06/2020,8.2,YES,2.5,,,47,,,LOW,,MURKY,YELLOW,
+48236536,08/17/2020,9.8,YES,3,,,44,,,NORMAL,,MURKY,YELLOW,
+1,09/08/2020,,,,7.28,22.4,,52,50,,,,,
+1,09/29/2020,,,,5.48,50.5,,59,48,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/20/1979,,,,,7.4,MG/L
+07/25/2009,3,FEET,70,DEGREES F,7,MG/L
+07/25/2009,6,FEET,68,DEGREES F,4.5,MG/L
+07/25/2009,9,FEET,68,DEGREES F,5,MG/L
+07/25/2009,12,FEET,67,DEGREES F,5,MG/L
+07/25/2009,15,FEET,67,DEGREES F,5.75,MG/L
+07/30/2009,3,FEET,71,DEGREES F,7.25,MG/L
+07/30/2009,6,FEET,68,DEGREES F,4.5,MG/L
+07/30/2009,9,FEET,68,DEGREES F,5,MG/L
+07/30/2009,12,FEET,67,DEGREES F,5,MG/L
+07/30/2009,15,FEET,67,DEGREES F,5.75,MG/L
+08/14/2009,3,FEET,70,DEGREES F,6.25,MG/L
+08/14/2009,6,FEET,68,DEGREES F,6,MG/L
+08/14/2009,9,FEET,68,DEGREES F,6.5,MG/L
+08/14/2009,12,FEET,68,DEGREES F,5.5,MG/L
+08/14/2009,15,FEET,66,DEGREES F,4.25,MG/L
+08/30/2009,3,FEET,70,DEGREES F,6.25,MG/L
+08/30/2009,6,FEET,68,DEGREES F,6,MG/L
+08/30/2009,9,FEET,68,DEGREES F,6.5,MG/L
+08/30/2009,12,FEET,68,DEGREES F,5.5,MG/L
+08/30/2009,15,FEET,66,DEGREES F,4.25,MG/L
+08/06/2020,0,FEET,70.8,DEGREES F,8.98,MG/L
+08/06/2020,3.3,FEET,71.9,DEGREES F,8.55,MG/L
+08/06/2020,6.6,FEET,72.2,DEGREES F,8.45,MG/L
+08/06/2020,9,FEET,72.3,DEGREES F,8.37,MG/L
+08/06/2020,13,FEET,71.5,DEGREES F,6.67,MG/L
+08/06/2020,16.4,FEET,69.7,DEGREES F,1.55,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/20/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/25/2009,bottom temp 67- DO 1.75ppm
+07/30/2009,bottom temp 67 DO 1.75
+08/14/2009,bottom temp 66
+08/30/2009,bottom temp 66
+
+
+
+
+Start Date,Group Name,Project Name
+07/20/1979,Data Collectors,Migrated from STORET Legacy
+07/25/2009,Dennis Toll,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+07/30/2009,Dennis Toll,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+07/31/2009,Dennis Toll,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+08/14/2009,Dennis Toll,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+08/30/2009,Dennis Toll,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+06/16/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+06/30/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+07/07/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+07/30/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+08/06/2020,Data Collectors,CALLAHAN LAKE PROTECTIVE ASSOCIATION- INC: Callahan-Mud Lakes APM Planning Project
+08/06/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+08/17/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Callahan Lake - Deepest Spot
+09/08/2020,Data Collectors,CALLAHAN LAKE PROTECTIVE ASSOCIATION- INC: Callahan-Mud Lakes APM Planning Project
+09/29/2020,Data Collectors,CALLAHAN LAKE PROTECTIVE ASSOCIATION- INC: Callahan-Mud Lakes APM Planning Project

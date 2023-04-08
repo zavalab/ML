@@ -1,0 +1,146 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Baker Lake,Vilas,1626400,NO,64,,10021451,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+19292971,09/12/2007,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,
+19292968,06/01/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,
+19292968,08/20/2008,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292968,09/21/2008,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19292968,06/20/2009,10,,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292968,09/16/2009,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292968,06/06/2010,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292968,07/08/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+35788199,07/09/2010,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+35788199,08/01/2010,5.6,NO,1.7,,,52,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+35788199,09/05/2010,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19292968,09/18/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+35788199,09/18/2010,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+35788199,10/08/2010,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+35788199,05/02/2011,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+35788199,05/18/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+35788199,06/12/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+35788199,07/24/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+35788199,08/07/2011,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+35788199,08/14/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19292968,07/22/2012,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292973,08/10/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292968,06/09/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19292968,08/28/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19292968,07/24/2016,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,
+19292968,09/03/2016,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19292968,10/06/2016,5,NO,1.5,,,54,,,HIGH,25,CLEAR,BROWN,2-Very minor aesthetic problems
+19292968,05/13/2017,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19292968,06/17/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+145584054,07/26/2017,,,,53.5,38.2,,56,65,,,,,
+19292968,07/29/2017,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19292968,08/13/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19292968,06/13/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19292968,07/15/2018,0.75,NO,0.2,,,81,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+19292968,07/23/2018,0.8,NO,0.2,,,80,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+19292968,07/30/2018,0.8,NO,0.2,,,80,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+19292968,08/08/2018,1,NO,0.3,,,77,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+19292968,09/09/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19292971,05/27/2019,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19292971,07/07/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19292971,07/21/2019,4,NO,1.2,,,57,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+19292971,08/01/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19292973,06/02/2020,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19292973,06/21/2020,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19292968,07/09/2020,2.3,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19292968,07/20/2020,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19292973,08/23/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+35788199,11/08/2020,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/2017,0,METERS,22.1,DEGREES C,7.1,MG/L
+07/26/2017,1,METERS,22.1,DEGREES C,6.7,MG/L
+07/26/2017,2,METERS,18.7,DEGREES C,.5,MG/L
+07/26/2017,3,METERS,15,DEGREES C,.1,MG/L
+07/26/2017,4,METERS,12.2,DEGREES C,.04,MG/L
+07/26/2017,5,METERS,10.5,DEGREES C,.02,MG/L
+07/26/2017,5.9,METERS,9.7,DEGREES C,.03,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/01/2008,sunny- light wind
+07/09/2010,after 2 days of rain.  2 loons spotted. surface water very warm normal weed density
+08/01/2010,loons on lake/algae bloom in some locations
+09/05/2010,no loons now.  5 1/2 inches of rain fell this week.  very brown
+09/18/2010,heavy rains during the week again.  Still no sign of the loons.  Leaves turning
+10/08/2010,poor clearity- very brown- heavy rains during the week. leaves amount gone.  Unseasonable warm today 80 degrees
+05/02/2011,Very dark brown- ice left lake 10 days prior- no loons- tanic brown
+05/18/2011,Dark brown- 2 loons- wasel- Great Blue Heron- caught 18" Northern- 2 eagels- Good Fishing
+06/12/2011,Dark brown- slightly clearer- 5 loons sighted- otter- lost 20+ inch large mouth - see Bonnie- some weed growth
+07/24/2011,Dark brown- clearest to date- 1 baby loon- baby king fisher- great swimming- quiet weekend
+08/07/2011,Brown- clear- bright green floating algae- baby loon 3 times size- good fishing- beetle spines- 6 species caught
+08/14/2011,Water clearest of year- quiet- baby loon fed by house- 2 eagles- great temp.- good swimming- great 4 days
+07/24/2016,Wind storm knocked down trees at shoreline causing much erosion and sediment. Normally much clearer.
+06/17/2017,Lots of pine pollen
+07/29/2017,Very heavy green-brown algae
+08/13/2017,Still some green-brown algae- but improved from two weeks ago
+06/13/2018,pine pollen and either sediment or algae present
+07/15/2018,Sediment or algae - really bad! Second year of abnormal murkiness. One year ago during a really bad storm- lots of shore-side trees blew shore-ward- upending all the sediment into the lake. Since then- either sediment or algae has impaired the water quality of this pretty little 37 acre lake - spring fed.
+07/23/2018,calm. Algae sampling and secchi with Jim Kreitlow. Algae quite bad- with some scum on surface.
+07/30/2018,Algae bad; some scum in open water; heavy scum around edges and in quiet coves; calm wind
+11/08/2020,seasonable warm day for November- disk reading taken two weeks after dam was lowered by one log approx 8 inches
+
+
+
+
+Start Date,Group Name,Project Name
+09/12/2007,Sue Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/01/2008,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/20/2008,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/21/2008,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/20/2009,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/16/2009,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/06/2010,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/08/2010,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/09/2010,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/01/2010,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/05/2010,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/18/2010,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/18/2010,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+10/08/2010,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+05/02/2011,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+05/18/2011,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/12/2011,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/24/2011,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/07/2011,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/14/2011,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/22/2012,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/10/2013,George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/09/2014,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/28/2014,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/24/2016,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/03/2016,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+10/06/2016,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+05/13/2017,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/17/2017,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/26/2017,SARAH R FANNING- SHELBY T ADLER,EPA National Lakes Assessment 2017
+07/29/2017,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/13/2017,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/13/2018,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/15/2018,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/23/2018,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/30/2018,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/08/2018,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+09/09/2018,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+05/27/2019,Sue Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/07/2019,Sue Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/21/2019,Sue Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/01/2019,Sue Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/02/2020,George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+06/21/2020,George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/09/2020,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+07/20/2020,Sue and George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+08/23/2020,George Holloway,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot
+11/08/2020,Lon Mosbrucker,Citizen Lake Monitoring - Water Quality - Baker Lake - Deepest Spot

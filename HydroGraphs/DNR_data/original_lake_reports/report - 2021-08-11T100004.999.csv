@@ -1,0 +1,379 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Long Lake,Waupaca,261200,NE,69,,693197,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000093,08/01/2000,9.5,,2.9,4,18,45,51,45,,,,,
+1,07/03/2006,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+1,08/17/2006,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+1,09/02/2006,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+1,09/16/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29412424,06/01/2009,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29412424,06/04/2009,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+61898240,06/24/2012,12.5,NO,3.8,0.92,12,41,47,34,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+61898240,07/22/2012,8,NO,2.4,3.75,14,47,49,45,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+61898240,08/06/2012,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+61898240,08/27/2012,12.5,NO,3.8,2.27,12,41,47,41,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+61898240,08/31/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+61898240,09/10/2012,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+61898240,09/16/2012,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+61898240,05/13/2013,25.5,NO,7.8,,17.8,30,50,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+61898240,06/16/2013,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+61898240,06/30/2013,14.5,NO,4.4,1.87,6.9,39,43,40,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+61898240,07/10/2013,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81855176,07/13/2013,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+61898240,07/17/2013,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+61898240,07/28/2013,10,NO,3,3.42,9.86,44,46,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81855176,08/01/2013,11.75,NO,3.6,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+61898240,08/04/2013,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81855176,08/09/2013,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+61898240,08/13/2013,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81855176,08/16/2013,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+61898240,08/18/2013,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+61898240,08/28/2013,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81855176,08/31/2013,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+61898240,09/04/2013,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+81855176,05/23/2014,23.75,NO,7.2,,,31,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,06/05/2014,22,NO,6.7,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,06/25/2014,26.75,NO,8.1,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/13/2014,19,NO,5.8,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/18/2014,19.75,NO,6,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/25/2014,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/01/2014,17,NO,5.2,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/08/2014,16.25,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/16/2014,15,NO,4.6,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/28/2014,21.5,NO,6.5,,,33,,,,,,BLUE,2-Very minor aesthetic problems
+81855176,07/19/2015,19,NO,5.8,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/11/2015,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/30/2015,14.25,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,04/20/2016,20.8,N,6.3,0.473,12.4,33,48,29,,,,,
+81855176,06/25/2016,19.25,NO,5.9,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+127710705,06/28/2016,,,,1.35,,,,37,,,,,
+1,06/29/2016,19.8,N,6,,18.7,34,51,,,,,,
+1,07/26/2016,11.4,N,3.5,1.49,13,42,48,38,,,,,
+81855176,08/07/2016,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,08/30/2016,11.2,N,3.4,2.05,14.7,42,49,40,,,,,
+81855176,08/31/2016,12.75,NO,3.9,15.2,15.9,40,50,55,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,10/17/2016,17.2,N,5.2,0.46,13.6,36,48,29,,,,,
+1,02/16/2017,29.1,N,8.8,,12.5,29,48,,,,,,
+81855176,06/03/2017,26.25,NO,8,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,07/16/2017,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/23/2017,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/24/2017,15.75,NO,4.8,,,37,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,09/01/2017,16.5,NO,5,,,37,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,09/10/2017,16.5,NO,5,,,37,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,09/15/2017,17.25,NO,5.2,,,36,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,06/01/2018,,,,,,,,,,,,,
+1,06/03/2018,,,,,,,,,,,,,
+81855176,06/05/2018,20.25,NO,6.2,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/07/2018,,,,,,,,,,,,,
+1,06/21/2018,,,,,,,,,,,,,
+81855176,08/05/2018,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/08/2018,15.75,NO,4.8,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/14/2018,16,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/22/2018,16.75,NO,5.1,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/13/2018,20,NO,6.1,,,34,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+143167470,04/21/2019,,,,,16.4,,50,,,,,,
+165388101,04/22/2019,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,06/18/2019,13,NO,4,1.34,10.5,40,46,37,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,06/27/2019,17,NO,5.2,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/28/2019,17.75,NO,5.4,,,36,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+165388101,07/31/2019,19.5,NO,5.9,1.79,12.4,34,48,39,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,08/27/2019,17,NO,5.2,2.71,22.7,36,52,42,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,04/26/2020,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,06/08/2020,15,NO,4.6,0.829,9.5,38,46,33,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,07/28/2020,13,NO,4,1.51,11.8,40,47,38,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,08/24/2020,10,NO,3,2.96,14.6,44,49,43,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/01/2000,,,22.3,C,8.9,MG/L
+04/20/2016,,,12.2,C,10.5,MG/L
+06/29/2016,,,24.2,C,0.3,MG/L
+07/26/2016,,,25.4,C,0.1,MG/L
+08/30/2016,,,24.4,C,0.1,MG/L
+08/31/2016,0,FEET,74.3,DEGREES F,,
+08/31/2016,4,FEET,73,DEGREES F,,
+08/31/2016,8,FEET,71,DEGREES F,,
+08/31/2016,12,FEET,67.8,DEGREES F,,
+08/31/2016,16,FEET,63.8,DEGREES F,,
+08/31/2016,20,FEET,61,DEGREES F,,
+08/31/2016,24,FEET,55.7,DEGREES F,,
+08/31/2016,28,FEET,51,DEGREES F,,
+08/31/2016,32,FEET,47.6,DEGREES F,,
+08/31/2016,36,FEET,46.2,DEGREES F,,
+08/31/2016,40,FEET,45.3,DEGREES F,,
+10/17/2016,,,15.7,C,0.1,MG/L
+02/16/2017,,,3.2,C,0.5,MG/L
+06/01/2018,,,22.2,C,,
+06/03/2018,,,21.7,C,,
+06/07/2018,,,19.1,C,,
+06/21/2018,,,20.9,C,,
+04/22/2019,3,FEET,49.4,DEGREES F,,
+04/22/2019,6,FEET,48.5,DEGREES F,,
+04/22/2019,9,FEET,46.7,DEGREES F,,
+04/22/2019,12,FEET,44.2,DEGREES F,,
+04/22/2019,15,FEET,43.5,DEGREES F,,
+04/22/2019,18,FEET,42.2,DEGREES F,,
+04/22/2019,21,FEET,41.7,DEGREES F,,
+04/22/2019,24,FEET,40.4,DEGREES F,,
+04/22/2019,27,FEET,40.4,DEGREES F,,
+04/22/2019,30,FEET,40.2,DEGREES F,,
+04/22/2019,33,FEET,40.2,DEGREES F,,
+04/22/2019,36,FEET,40.2,DEGREES F,,
+04/22/2019,39,FEET,40.2,DEGREES F,,
+04/22/2019,42,FEET,40.2,DEGREES F,,
+04/22/2019,45,FEET,40.2,DEGREES F,,
+04/22/2019,48,FEET,40.2,DEGREES F,,
+06/18/2019,0,FEET,67,DEGREES F,,
+06/18/2019,3,FEET,66.7,DEGREES F,,
+06/18/2019,6,FEET,62.9,DEGREES F,,
+06/18/2019,9,FEET,60.2,DEGREES F,,
+06/18/2019,12,FEET,58.6,DEGREES F,,
+06/18/2019,15,FEET,57.2,DEGREES F,,
+06/18/2019,18,FEET,54.1,DEGREES F,,
+06/18/2019,21,FEET,48.2,DEGREES F,,
+06/18/2019,24,FEET,44.9,DEGREES F,,
+07/31/2019,0,FEET,78.5,DEGREES F,,
+07/31/2019,3,FEET,75.1,DEGREES F,,
+07/31/2019,6,FEET,74.4,DEGREES F,,
+07/31/2019,9,FEET,73,DEGREES F,,
+07/31/2019,12,FEET,68,DEGREES F,,
+07/31/2019,15,FEET,65.4,DEGREES F,,
+07/31/2019,18,FEET,62.9,DEGREES F,,
+07/31/2019,21,FEET,59.1,DEGREES F,,
+07/31/2019,24,FEET,52.3,DEGREES F,,
+07/31/2019,27,FEET,48,DEGREES F,,
+07/31/2019,30,FEET,45.8,DEGREES F,,
+07/31/2019,33,FEET,43.5,DEGREES F,,
+07/31/2019,36,FEET,42.8,DEGREES F,,
+07/31/2019,39,FEET,42.4,DEGREES F,,
+07/31/2019,42,FEET,42.2,DEGREES F,,
+07/31/2019,45,FEET,42,DEGREES F,,
+07/31/2019,48,FEET,41.9,DEGREES F,,
+08/27/2019,0,FEET,69,DEGREES F,,
+08/27/2019,3,FEET,696,DEGREES F,,
+08/27/2019,6,FEET,68.5,DEGREES F,,
+08/27/2019,9,FEET,68,DEGREES F,,
+08/27/2019,12,FEET,61.7,DEGREES F,,
+08/27/2019,15,FEET,60.6,DEGREES F,,
+08/27/2019,18,FEET,59,DEGREES F,,
+08/27/2019,21,FEET,55.4,DEGREES F,,
+08/27/2019,24,FEET,48.9,DEGREES F,,
+08/27/2019,27,FEET,45,DEGREES F,,
+08/27/2019,30,FEET,44.9,DEGREES F,,
+08/27/2019,33,FEET,43.1,DEGREES F,,
+08/27/2019,36,FEET,42.6,DEGREES F,,
+08/27/2019,39,FEET,42.4,DEGREES F,,
+08/27/2019,42,FEET,42.2,DEGREES F,,
+08/27/2019,45,FEET,42.2,DEGREES F,,
+08/27/2019,48,FEET,42.2,DEGREES F,,
+04/26/2020,0,FEET,50.1,DEGREES F,,
+04/26/2020,3,FEET,49.8,DEGREES F,,
+04/26/2020,6,FEET,47.6,DEGREES F,,
+04/26/2020,9,FEET,46.4,DEGREES F,,
+04/26/2020,12,FEET,46.4,DEGREES F,,
+04/26/2020,15,FEET,46.2,DEGREES F,,
+04/26/2020,18,FEET,46.2,DEGREES F,,
+04/26/2020,21,FEET,46.2,DEGREES F,,
+04/26/2020,24,FEET,46.2,DEGREES F,,
+04/26/2020,27,FEET,46,DEGREES F,,
+04/26/2020,30,FEET,44.6,DEGREES F,,
+04/26/2020,33,FEET,43.5,DEGREES F,,
+04/26/2020,36,FEET,43.5,DEGREES F,,
+04/26/2020,39,FEET,42.2,DEGREES F,,
+04/26/2020,42,FEET,42.2,DEGREES F,,
+04/26/2020,45,FEET,42.2,DEGREES F,,
+04/26/2020,48,FEET,42,DEGREES F,,
+06/08/2020,0,FEET,74.6,DEGREES F,,
+06/08/2020,3,FEET,73.7,DEGREES F,,
+06/08/2020,6,FEET,73.2,DEGREES F,,
+06/08/2020,9,FEET,72.8,DEGREES F,,
+06/08/2020,12,FEET,69.2,DEGREES F,,
+06/08/2020,15,FEET,62,DEGREES F,,
+06/08/2020,18,FEET,58.8,DEGREES F,,
+06/08/2020,21,FEET,57,DEGREES F,,
+06/08/2020,24,FEET,54.8,DEGREES F,,
+06/08/2020,27,FEET,52.5,DEGREES F,,
+06/08/2020,30,FEET,49.8,DEGREES F,,
+06/08/2020,33,FEET,47.4,DEGREES F,,
+06/08/2020,36,FEET,45.8,DEGREES F,,
+06/08/2020,39,FEET,44.6,DEGREES F,,
+06/08/2020,42,FEET,43.8,DEGREES F,,
+06/08/2020,45,FEET,42.6,DEGREES F,,
+07/28/2020,0,FEET,76.4,DEGREES F,,
+07/28/2020,3,FEET,76.2,DEGREES F,,
+07/28/2020,6,FEET,75.9,DEGREES F,,
+07/28/2020,9,FEET,73.4,DEGREES F,,
+07/28/2020,12,FEET,71,DEGREES F,,
+07/28/2020,15,FEET,68.3,DEGREES F,,
+07/28/2020,18,FEET,64.7,DEGREES F,,
+07/28/2020,21,FEET,59,DEGREES F,,
+07/28/2020,24,FEET,54.6,DEGREES F,,
+07/28/2020,27,FEET,51,DEGREES F,,
+07/28/2020,30,FEET,48,DEGREES F,,
+07/28/2020,33,FEET,46.7,DEGREES F,,
+07/28/2020,36,FEET,45.3,DEGREES F,,
+07/28/2020,39,FEET,45.5,DEGREES F,,
+07/28/2020,42,FEET,45.5,DEGREES F,,
+08/24/2020,0,FEET,74.8,DEGREES F,,
+08/24/2020,3,FEET,74.1,DEGREES F,,
+08/24/2020,6,FEET,74.1,DEGREES F,,
+08/24/2020,9,FEET,71.7,DEGREES F,,
+08/24/2020,12,FEET,69.2,DEGREES F,,
+08/24/2020,15,FEET,67.2,DEGREES F,,
+08/24/2020,18,FEET,65.1,DEGREES F,,
+08/24/2020,21,FEET,63.1,DEGREES F,,
+08/24/2020,24,FEET,60.4,DEGREES F,,
+08/24/2020,27,FEET,56,DEGREES F,,
+08/24/2020,30,FEET,51.2,DEGREES F,,
+08/24/2020,33,FEET,48.2,DEGREES F,,
+08/24/2020,36,FEET,46.4,DEGREES F,,
+08/24/2020,39,FEET,45.5,DEGREES F,,
+08/24/2020,42,FEET,44.6,DEGREES F,,
+08/24/2020,45,FEET,44.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/01/2000,INTEGRATED SAMPLER    
+06/04/2009,Sunny- 72
+06/24/2012,82 degrees- partly cloudy- no winds- 53% humidity- 10 mi visibility
+07/22/2012,91 degrees- cloudy- winds 6 mph- 49% humidity
+08/06/2012,82 degrees- sunny- winds 10 mph- 25% humidity- 10 mi visibility
+08/27/2012,82 degrees- sunny- winds 8 mph- 32% humidity- 10 mi visibility 
+08/31/2012,81 degrees- sunny- winds 12 mph- 34% humidity- 10 mi visibility 
+09/10/2012,77 degrees- sunny- winds 12 mph- 33% humidity- 10 mi visibility 
+09/16/2012,79 degrees- sunny- winds 15 mph- 26% humidity- 10 mi visibility
+05/13/2013,53 Degrees- Sunny- 3 mph winds
+06/16/2013,77 degrees- partly cloudy- 8 mph winds
+06/30/2013,77 degrees- sunny with broken clouds- 8 mph winds
+07/13/2013,Boaters were still out even after waterskiing ended at 2:30. Mostly Sunny.
+08/01/2013,Winds W at 16 mph. Partly Cloudy. Few boaters out.
+08/09/2013,Mostly sunny. Boaters are out.
+08/16/2013,Mostly Cloudy. Boaters are out.
+08/31/2013,Sunny. Increased boat traffic due to Labor Day weekend.
+05/23/2014,two fast boats out- partly cloudy- wind NNE 10 mph
+06/05/2014,no boaters out- scattered clouds
+07/13/2014,Wind WNW 8.1 mph- sunny
+07/18/2014,scattered clouds- wind S 10.4 mph
+07/25/2014,2 fast boats out- mostly cloudy- wind WNW 8.1 mph
+08/08/2014,2 boaters
+08/16/2014,Mostly cloudy- boaters are out now with more out earlier for skiing
+07/19/2015,8 fast boats
+08/11/2015,1 fast boat
+09/30/2015,surface temp 64.2 F- 0 fast boats
+08/07/2016,3 fast boats
+08/31/2016,2 fast boats
+06/03/2017,1 fast boat
+07/23/2017,2 fast boats- windy
+08/24/2017,0 fast boats
+09/01/2017,2 fast boats
+09/10/2017,0 fast boats
+09/15/2017,2 fast boats
+06/05/2018,1 fast boat
+08/05/2018,1 fast boat
+08/08/2018,1 fast boat
+08/14/2018,2 fast boats
+08/22/2018,1 fast boat 1 fast boat- light wind
+09/13/2018,0 fast boats
+
+04/22/2019,cloudy day- mild wind from NE. GPS WAYPOINT 27- PH 7.5. Boat water temp 49.4f. 
+06/18/2019,cloudy day- light to no wind- water level slightly high- good blue water.  Saw Heron- red wing blackbirds. Helped by Sue and Tom. 
+06/27/2019,0 fast boats- 72.9 F surface
+07/28/2019,2 fast boats
+08/27/2019,wind from nw about 10 mph. about 4 boats on lake. Water quality was excellent. "Blue". Tested PH - 7.5. 
+04/26/2020,71f AIR TEMP- SUNNY- light wind
+07/28/2020,nice day- sunny- light wind- 78F- three boats on lake water skiing
+08/24/2020,three ski boats- several canoes- light wind- partly sunny- janet hallstrom helped. 
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/2000,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+07/03/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/17/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/02/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/16/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/01/2009,Richard Hammen,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/04/2009,Richard Hammen,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/24/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/22/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/06/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/27/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/31/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/10/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/16/2012,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+05/13/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/16/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/30/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/10/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/13/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/17/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/28/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/01/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/04/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/09/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/13/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/16/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/18/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/28/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/31/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/04/2013,Mary Ann Jenner,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+05/23/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/05/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/25/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/13/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/18/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/25/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/01/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/08/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/16/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/28/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/19/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/11/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/30/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+04/20/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+06/25/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/28/2016,John Miller_0,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/29/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/07/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/30/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/31/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+10/17/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+02/16/2017,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+06/03/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/16/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/23/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/24/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/01/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/10/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/15/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/01/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/03/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/05/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/07/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/21/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+08/05/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/08/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/14/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/22/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+09/13/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+04/21/2019,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+04/22/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/18/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/27/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/28/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/31/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/27/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+04/26/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+06/08/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+07/28/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County
+08/24/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Long Lake - Deep Hole; Waupaca County

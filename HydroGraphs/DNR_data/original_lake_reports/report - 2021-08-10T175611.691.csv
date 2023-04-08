@@ -1,0 +1,427 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Manitowoc,64200,NE,36,,363125,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190048,06/04/1995,7.25,NO,2.2,,,49,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190048,06/18/1995,7.5,NO,2.3,,,48,,,,,,GREEN,1-Beautiful, could not be nicer
+8190048,07/02/1995,4.6,NO,1.4,,,55,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+1,03/14/1996,,,,0.35,71,,61,27,,,,,
+1,05/06/1996,6.9,,2.1,13.9,40,49,57,55,,,,,
+1,06/19/1996,18,,5.5,1.36,16,35,50,37,,,,,
+1,07/11/1996,11.8,,3.6,2.41,13,42,48,41,,,,,
+1,08/26/1996,13,,4,3.07,11,40,47,43,,,,,
+8189486,05/22/2002,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189486,05/28/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/06/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/14/2002,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/24/2002,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,07/04/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,07/15/2002,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,07/22/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,08/01/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,08/09/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,08/24/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,08/27/2002,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,09/17/2002,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,10/13/2002,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189486,04/19/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,05/24/2003,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,06/07/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,06/13/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,06/19/2003,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189486,07/02/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189486,07/12/2003,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189486,08/01/2003,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,08/15/2003,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,08/20/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,08/26/2003,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,09/29/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,04/05/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,04/13/2004,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,05/07/2004,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/03/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/25/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,07/17/2004,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,08/06/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,08/19/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,09/03/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,09/12/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,04/21/2005,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189486,05/04/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189486,06/03/2005,16,NO,4.9,,,37,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/10/2005,17,NO,5.2,,,36,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,06/20/2005,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,07/04/2005,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189486,07/19/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,
+8189486,08/03/2005,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189486,08/20/2005,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189486,09/06/2005,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+7000105,10/04/2005,,,,,13,,48,,,,,,
+8189486,06/07/2007,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,06/14/2007,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,07/05/2007,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,07/19/2007,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189486,08/03/2007,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,08/16/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189486,08/30/2007,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,09/05/2007,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189486,09/24/2007,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+37011578,08/06/2009,2.2,NO,0.7,,,66,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+71909890,05/28/2012,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+71909890,06/05/2012,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+71909890,06/13/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+71909890,06/21/2012,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/30/2012,,,,3.19,18,,51,44,,,,,
+71909890,07/07/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+71909890,07/23/2012,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+71909890,07/31/2012,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+71909890,08/08/2012,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+71909890,08/16/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/19/2012,,,,4.92,19,,51,47,,,,,
+71909890,08/24/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+71909890,09/01/2012,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+71909890,09/09/2012,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/15/2012,,,,4.7,17,,50,46,,,,,
+71909890,09/17/2012,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+71909890,09/25/2012,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+71909890,10/03/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188925,04/29/2013,,,,,38,,56,,,,,,
+1,07/23/2013,,,,3.18,12.2,,48,44,,,,,
+8188925,08/19/2013,,,,3.51,10.9,,47,44,,,,,
+8188925,09/12/2013,,,,3.29,12.6,,48,44,,,,,
+8188925,04/22/2014,,,,,60,,60,,,,,,
+8188925,06/09/2014,8, ,2.4,,,47,,,,,,,
+8188925,06/21/2014,5, ,1.5,,,54,,,,,,,
+8188925,06/28/2014,7.5, ,2.3,,,48,,,,,,,
+8188925,07/02/2014,8, ,2.4,,,47,,,,,,GREEN,
+8188925,07/10/2014,7.5, ,2.3,,,48,,,,,,GREEN,
+8188925,07/18/2014,7.5, ,2.3,,,48,,,,,,GREEN,
+8188925,07/26/2014,7.5, ,2.3,,,48,,,,,,GREEN,
+8188925,08/04/2014,6.5, ,2,,,50,,,,,,GREEN,
+7000093,08/08/2014,10.2,N,3.1,9.29,28.9,44,54,52,,,CLEAR,,
+8188925,08/12/2014,6, ,1.8,,,51,,,,,,GREEN,
+8188925,08/20/2014,9, ,2.7,,,45,,,,,,GREEN,
+8188925,08/28/2014,8, ,2.4,,,47,,,,,,GREEN,
+8188925,09/05/2014,8, ,2.4,,,47,,,,,,GREEN,
+8188925,09/13/2014,9, ,2.7,,,45,,,,,,GREEN,
+8188925,09/21/2014,7.5, ,2.3,,,48,,,,,,GREEN,
+8188925,09/25/2014,8, ,2.4,,,47,,,,,,GREEN,
+34982050,04/02/2015,8.5,,2.6,,69.1,46,61,,,,,,
+7000093,06/21/2015,,,,2.38,21,,52,41,,,,,
+34982050,06/21/2015,11.5,NO,3.5,,,42,,,,,,,
+7000093,07/28/2015,,,,3.68,15.7,,49,45,,,,,
+34982050,07/29/2015,10,,3,,,44,,,,,,,
+7000093,09/14/2015,,,,5.66,23.4,,53,48,,,,,
+1,06/30/2016,,,,,19.2,,51,,,,,,
+125862804,06/30/2016,12,NO,3.6,,,41,,,,,,,
+1,09/01/2016,,,,,17.7,,50,,,,,,
+34982050,09/01/2016,10,NO,3,,,44,,,,,,,
+1,07/15/2017,,,,10.6,33.9,,55,53,,,,,
+146664626,07/15/2017,8,NO,2.4,,,47,,,NORMAL,,,,2-Very minor aesthetic problems
+146664626,08/16/2017,6,NO,1.8,6.93,29.7,51,54,49,,,,GREEN,
+1,09/18/2017,,,,5.71,17.6,,50,48,,,,,
+1,07/17/2018,,,,4.38,15.9,,50,46,,,,,
+146664626,07/17/2018,7,,2.1,,,49,,,,,,,
+1,08/28/2018,,,,10,25.3,,53,52,,,,,
+146664626,08/28/2018,8,,2.4,,,47,,,,,,,
+188358119,06/15/2019,10.5,,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+146664626,08/05/2019,7,NO,2.1,4.38,15.2,49,49,46,NORMAL,,,,2-Very minor aesthetic problems
+1,06/24/2020,,,,10.8,72.4,,61,53,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/14/1996,,,1.49,C,0.02,MG/L
+05/06/1996,,,9.9,C,12.74,MG/L
+06/19/1996,,,16.82,C,0.12,MG/L
+07/11/1996,,,19.4,C,0.1,MG/L
+08/26/1996,,,19.60,C,0.39,MG/L
+06/25/2004,4,FEET,72,DEGREES F,,
+09/03/2004,4,FEET,74,DEGREES F,,
+06/03/2005,4,FEET,76,DEGREES F,,
+06/10/2005,4,FEET,80,DEGREES F,,
+07/19/2005,3,FEET,84,DEGREES F,,
+08/20/2005,3,FEET,83,DEGREES F,,
+09/06/2005,3,FEET,77,DEGREES F,,
+08/08/2014,1,METERS,23.9,DEGREES C,10,MG/L
+08/08/2014,2,METERS,23,DEGREES C,8.9,MG/L
+08/08/2014,3,METERS,17.7,DEGREES C,5.6,MG/L
+08/08/2014,4,METERS,11.9,DEGREES C,.8,MG/L
+08/08/2014,5,METERS,8.4,DEGREES C,.3,MG/L
+08/08/2014,6,METERS,6.3,DEGREES C,.2,MG/L
+08/08/2014,7,METERS,5.3,DEGREES C,.1,MG/L
+08/08/2014,8,METERS,5.1,DEGREES C,.1,MG/L
+08/08/2014,9,METERS,4.9,DEGREES C,.1,MG/L
+08/08/2014,10,METERS,4.7,DEGREES C,.1,MG/L
+08/08/2014,11,METERS,4.6,DEGREES C,.1,MG/L
+08/08/2014,12,METERS,4.5,DEGREES C,.1,MG/L
+08/08/2014,13,METERS,4.5,DEGREES C,.1,MG/L
+08/08/2014,14,METERS,4.4,DEGREES C,.1,MG/L
+08/08/2014,15,METERS,4.4,DEGREES C,.1,MG/L
+08/08/2014,,,23.9,C,10.0,MG/L
+04/02/2015,0,FEET,44,DEGREES F,,
+07/29/2015,2,FEET,80,DEGREES F,,
+07/29/2015,10,FEET,66,DEGREES F,,
+07/29/2015,20,FEET,47,DEGREES F,,
+07/15/2017,10,FEET,75.4,DEGREES F,,
+07/15/2017,20,FEET,64,DEGREES F,,
+07/15/2017,30,FEET,42.2,DEGREES F,,
+08/16/2017,5,FEET,74,DEGREES F,,
+08/16/2017,10,FEET,66,DEGREES F,,
+08/16/2017,15,FEET,53,DEGREES F,,
+08/16/2017,20,FEET,45,DEGREES F,,
+08/16/2017,25,FEET,43,DEGREES F,,
+08/16/2017,30,FEET,42,DEGREES F,,
+08/16/2017,35,FEET,42,DEGREES F,,
+08/16/2017,40,FEET,42,DEGREES F,,
+07/17/2018,5,FEET,79,DEGREES F,,
+07/17/2018,10,FEET,64,DEGREES F,,
+07/17/2018,15,FEET,47,DEGREES F,,
+07/17/2018,20,FEET,47,DEGREES F,,
+07/17/2018,25,FEET,41,DEGREES F,,
+07/17/2018,30,FEET,41,DEGREES F,,
+07/17/2018,35,FEET,40,DEGREES F,,
+07/17/2018,40,FEET,40,DEGREES F,,
+08/28/2018,5,FEET,73,DEGREES F,,
+08/28/2018,10,FEET,73,DEGREES F,,
+08/28/2018,15,FEET,60,DEGREES F,,
+08/28/2018,20,FEET,45,DEGREES F,,
+08/28/2018,25,FEET,42,DEGREES F,,
+08/28/2018,30,FEET,42,DEGREES F,,
+08/28/2018,35,FEET,41,DEGREES F,,
+08/28/2018,40,FEET,41,DEGREES F,,
+08/05/2019,5,FEET,76.2,DEGREES F,,
+08/05/2019,10,FEET,67.8,DEGREES F,,
+08/05/2019,15,FEET,51.2,DEGREES F,,
+08/05/2019,20,FEET,44.2,DEGREES F,,
+08/05/2019,25,FEET,41.5,DEGREES F,,
+08/05/2019,30,FEET,41,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/04/1995,Calm- fishing + swimming- a day for all to enjoy.    
+03/14/1996,NPS APPRAISAL PIGEON RIVER NPS LAKES    
+05/28/2002,Water Temp at 3' is 63 degrees- Blue Gills and Big Mouth Bass are in shallows.    
+06/06/2002,Water temp at 3' is 62 degrees.    
+06/14/2002,Water temp at 3' is 72 degrees- fishing is good.    
+06/24/2002,Water temp at 3' is 81 degrees- lake is in first bloom    
+07/04/2002,Water temperature at 3 feet deep is 86 degrees.   Weed growth has excelerated.    
+07/15/2002,Water temperature at 3' was 83 degrees
+
+    
+07/22/2002,Water temperature at 3 feet deep is 83 degrees.
+
+    
+08/01/2002,Water temperature at 3' deep is 80 degrees.  I have answered water level as "normal"- water level is low but is normal level for this time of year.    
+08/09/2002,Start of second bloom- water temp at 3' deep is 78
+degrees.
+
+    
+08/24/2002,Water Temp at 3' deep is 76 degrees.  Recent summer
+rains has raised lake level 4"- typical spring level.  This is not a flooding condition.    
+08/27/2002,Water Temp 76 degrees- bloom ending- fishing
+improving.
+
+    
+09/17/2002,Water temp is 71 degrees.  Water seems to remain murky
+for a longer time this year.
+
+    
+10/13/2002,Water temp 56 degrees    
+04/19/2003,Ice out on 4/10/03~Flock of 18 Loons spent one day
+rest on 4/16/03
+
+    
+05/24/2003,Water temp at 4' is 64 degrees.  Water became murky
+after two days heavy rain and wind.  Blue Gill fishing is good~nests are
+not yet visible. First week of lush appearing marshland and shoreline
+natural plants. Marsh Merrigolds are in bloom.
+
+    
+06/07/2003,Water temp @ 4' is 66 degrees. CONCERN: We are seeing larger amount of fish die-off.  The turtles- birds and raccoon usually have kept the shoreline clean.  Fish show white- cotton like wound in area of body most likely not caused by hook.    
+06/19/2003,Water temp @ 4' is 74 degrees. CONCERN: Lake has never ever cleared since ice-out this year. It is murky like it is starting to bloom.    
+07/02/2003,Water temp is 78 degrees at 4 feet deep.
+
+    
+07/12/2003,Water temp @ 4 feet is 78 degrees.  Lake water has not
+cleared as normal since ice out this year and last year.  Residents of
+lake are concerned.
+
+    
+08/01/2003,Water temp at 4' is 78 degrees
+
+
+    
+08/15/2003,Water temperature at 4' deep is 82 degrees.
+
+
+    
+08/20/2003,80 degrees at 4 feet deep
+
+
+    
+08/26/2003,water temp at 4' is 82 degrees
+
+
+    
+09/29/2003,Clearest water condition of all summer.  Water
+temperature at 4 feet deep is 61 degrees.
+
+
+    
+06/03/2004,10+ inches of rain last three weeks.  Water temp @ 4' deep is 66 degrees.    
+06/25/2004,Two weeks of rain and cool weather    
+09/12/2004,Nitate water test of Horseshoe Lake water was 1.1 mg/L. Test was preformed at Manitowoc County Fair.    
+04/21/2005,Ice left lake evening of 04/06/2005.
+Water temp 04/24/2005 was 50 degrees at 4 feet deep.    
+05/04/2005,Water level is low to springtime normal.  No springtime rain year to date.  Water temp at 4 feet deep is 49 degrees.    
+06/10/2005,In my eight year experience of Horseshoe Lake- this is the clearest and deepest visual reading I have seen.  Last year was one of the LEAST clear. This year has had very little snow melt and spring rain run-off and last year had lots.  These two years dramatically demonstrate how much the run-off does affect our beautiful lake.    
+10/04/2005,DEEP HOLE    
+08/30/2007,
+Large rain storm weekend of 19th
+08/06/2009,Algae bloom present.  Clear- 0% cloud cover.  Monitoring completed in conjunction with zm and swf tows.
+08/08/2014,0% cloud cover
+Quantra used
+No motor lake- nice
+Wind ~5mph- direction?
+04/02/2015,Bottom Temp 39.5
+07/15/2017,Joe Zenk + Xavier Piper in attendance with Gene. First timers.
+08/16/2017,helper Xavier
+
+
+
+
+Start Date,Group Name,Project Name
+06/04/1995,Kip Brooks,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/18/1995,Kip Brooks,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/02/1995,Kip Brooks,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+03/14/1996,Data Collectors,NONPOINT SOURCE
+05/06/1996,Data Collectors,NONPOINT SOURCE
+06/19/1996,Data Collectors,NONPOINT SOURCE
+07/11/1996,Data Collectors,NONPOINT SOURCE
+08/26/1996,Data Collectors,NONPOINT SOURCE
+05/22/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+05/28/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/06/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/14/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/24/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/04/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/15/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/22/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/01/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/09/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/24/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/27/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/17/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+10/13/2002,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+04/19/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+05/24/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/07/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/13/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/19/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/02/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/12/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/01/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/15/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/20/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/26/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/29/2003,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+04/05/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+04/13/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+05/07/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/03/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/25/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/17/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/06/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/19/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/03/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/12/2004,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+04/21/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+05/04/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/03/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/10/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/20/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/04/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/19/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/03/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/20/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/06/2005,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+10/04/2005,Paul Garrison,Statewide Lakes Water Quality Measures 2005-2006
+06/07/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/14/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/05/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/19/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/03/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/16/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/30/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/05/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/24/2007,Kenneth Richter,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/06/2009,JEREMIAH SCHIEFELBEIN- NICHOLAS J COADY,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+05/28/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/05/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/13/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/21/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/30/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/07/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/23/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/31/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/08/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/16/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/19/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/24/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/01/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/09/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/15/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/17/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/25/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+10/03/2012,Robert Christian,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+04/29/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+07/23/2013,Data Collectors,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+08/19/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+09/12/2013,Austin Leach,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/22/2014,Austin Leach,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/09/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/21/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/28/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/02/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/10/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/18/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+07/26/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/04/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/08/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+08/12/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/20/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/28/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/05/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/13/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/21/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+09/25/2014,Austin Leach,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+04/02/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/21/2015,Gene Weyer,Eastern District Follow Up Monitoring for Impairment Decisions 2015
+06/21/2015,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2015
+07/28/2015,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2015
+07/29/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/14/2015,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2015
+06/30/2016,Brenda L Nordin- TRAVIS J KINNING,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/30/2016,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/01/2016,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/01/2016,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/15/2017,Data Collectors,Follow-up lake monitoring 2017
+07/15/2017,Matt Piper,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/16/2017,Matt Piper,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/16/2017,Matt Piper,Follow-up lake monitoring 2017
+09/18/2017,Data Collectors,Follow-up lake monitoring 2017
+07/17/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+07/17/2018,Matt Piper,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/28/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+08/28/2018,Matt Piper,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/15/2019,Brenden Wenzel,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+08/05/2019,Matt Piper,Bacteria + Plankton (Paid Private)
+08/05/2019,Matt Piper,Citizen Lake Monitoring - Water Quality - Horseshoe Lake; Deep Hole
+06/24/2020,Data Collectors,Bacteria + Plankton (Paid Private)

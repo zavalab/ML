@@ -1,0 +1,978 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Porters Lake,Waushara,246900,NE,70,,703013,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+19001807,03/02/1976,11.4,NO,3.5,,3,42,37,,NORMAL,17.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/13/1976,9,,2.75,,,45,,,,,,,
+1,08/12/1976,7.4,,2.25,,,48,,,,,,,
+1,11/16/1976,6.6,,2,,20,50,51,,,,,,
+8190520,06/22/1986,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,
+8190520,06/28/1986,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+8190520,07/06/1986,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,
+8190520,07/14/1986,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+8190520,07/20/1986,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+8190520,07/26/1986,9.75,NO,3,,,44,,,,,CLEAR,BLUE,
+8190520,08/09/1986,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,
+8190520,08/16/1986,10.75,NO,3.3,,,43,,,RECEEDING 1/2",,CLEAR,BLUE,
+8190520,08/26/1986,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,
+8190520,09/01/1986,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,
+8190520,09/06/1986,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,
+8190520,09/13/1986,12,NO,3.6,,,41,,,,,CLEAR,BLUE,
+8190520,09/27/1986,11,NO,3.3,,,43,,,,,CLEAR,BLUE,
+8190520,10/11/1986,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,
+8190520,10/18/1986,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,
+8190520,04/12/1987,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,
+8190520,04/18/1987,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,
+8190520,04/26/1987,9,NO,2.7,,,45,,,,,CLEAR,BLUE,
+8190520,05/03/1987,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,05/10/1987,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,05/31/1987,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,07/02/1987,8,NO,2.4,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190520,07/25/1987,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,
+8190520,10/11/1987,13.5,NO,4.1,,,40,,,GAUGE,5.3,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,05/30/1988,8.5,NO,2.6,,,46,,,1" LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,06/05/1988,9.25,NO,2.8,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,06/25/1988,8.25,NO,2.5,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,07/16/1988,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,08/05/1988,9.25,NO,2.8,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,05/07/1989,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,05/14/1989,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/04/1989,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/15/1989,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/06/1989,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/02/1989,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/17/1989,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,10/21/1989,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,05/13/1990,15.25,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/17/1990,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,06/25/1990,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/04/1990,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,07/22/1990,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/12/1990,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/26/1990,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,11/04/1990,16.25,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,04/28/1991,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,05/18/1991,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/15/1991,13,NO,4,,,40,,,,,,,1-Beautiful, could not be nicer
+8190520,06/30/1991,9.75,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/06/1991,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/18/1991,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/01/1991,11.75,NO,3.6,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,10/13/1991,14.75,NO,4.5,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,05/31/1992,15.5,NO,4.7,,,38,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,06/15/1992,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/21/1992,10.75,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/25/1992,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/02/1992,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/26/1993,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,07/05/1993,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190520,07/11/1993,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/18/1993,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/20/1993,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/06/1993,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,10/09/1993,15.5,NO,4.7,,,38,,,FEET,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/13/1994,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/20/1994,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/28/1994,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/05/1994,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,05/20/1995,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/04/1995,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/17/1995,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/25/1995,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/02/1995,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/08/1995,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/19/1995,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/29/1995,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/06/1995,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/14/1995,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/10/1995,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/28/1996,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/01/1996,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/07/1996,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/11/1996,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/18/1996,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,08/25/1996,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/04/1996,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,09/11/1996,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/24/1997,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190520,07/08/1997,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190520,07/09/1997,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190520,07/17/1997,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190520,07/28/1997,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,
+8190520,08/25/1997,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190520,09/03/1997,9.75,NO,3,,,44,,,HIGH,,CLEAR,YELLOW,5-Enjoyment substantially impaired (algae)
+8190520,10/07/1997,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8190520,05/27/1998,11,NO,3.3,,,43,,,,,,,
+8190520,06/18/1998,10,NO,3,,,44,,,,,,,
+8190520,07/05/1998,8.5,NO,2.6,,,46,,,,,,,
+8190520,07/10/1998,10.5,NO,3.2,,,43,,,,,,,
+8190520,07/30/1998,9.75,NO,3,,,44,,,,,,,
+8190520,08/09/1998,10.5,NO,3.2,,,43,,,,,,,
+8190520,09/03/1998,10.5,NO,3.2,,,43,,,,,,,
+8190520,05/09/1999,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,05/27/1999,16,YES,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/05/1999,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/15/1999,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/20/1999,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/02/2000,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,06/25/2000,12.5,NO,3.8,,,41,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190520,07/03/2000,13.5,,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/13/2000,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/16/2000,13.25,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/27/2000,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/06/2000,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/08/2000,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/14/2000,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/30/2000,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/03/2000,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/08/2000,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/14/2000,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/16/2000,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,10/01/2000,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190520,10/15/2000,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190520,10/16/2000,13,NO,4,,,40,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190520,10/17/2000,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190520,06/16/2001,11.75,NO,3.6,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,06/30/2001,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190520,07/11/2001,11,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,08/01/2001,8.75,NO,2.7,,,46,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,08/11/2001,10.75,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,08/19/2001,12.5,NO,3.8,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,08/23/2001,11,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,09/01/2001,13.5,YES,4.1,,,40,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,10/10/2001,16.5,YES,5,,,37,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,10/17/2001,16.75,YES,5.1,,,37,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190520,06/06/2002,7.75,NO,2.4,,,48,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190520,06/12/2002,10,NO,3,,,44,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,06/22/2002,13.5,NO,4.1,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,06/29/2002,13,YES,4,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/12/2002,11.5,NO,3.5,,,42,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/27/2002,13.25,NO,4,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/05/2002,13.5,NO,4.1,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/16/2002,13.75,YES,4.2,,,39,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/15/2002,13.5,NO,4.1,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,10/22/2002,14.5,YES,4.4,,,39,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,05/31/2003,9.75,NO,3,,,44,,,,,,GREEN,1-Beautiful, could not be nicer
+8190520,06/15/2003,12,NO,3.6,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190520,06/21/2003,12.25,NO,3.7,,,41,,,,,,,
+8190520,07/01/2003,10,NO,3,,,44,,,,,,,
+8190520,07/03/2003,9.25,NO,2.8,,,45,,,,,,,
+8190520,07/07/2003,7.25,NO,2.2,,,49,,,,,,,
+8190520,07/11/2003,7.75,NO,2.4,,,48,,,,,,,
+8190520,07/25/2003,8.75,NO,2.7,,,46,,,,,,,
+8190520,07/31/2003,9,NO,2.7,,,45,,,,,,,
+8190520,08/04/2003,10.25,NO,3.1,,,44,,,,,,,
+8190520,08/14/2003,10.5,NO,3.2,,,43,,,,,,,
+8190520,08/27/2003,11,NO,3.3,,,43,,,,,,,
+8190520,09/26/2003,9.25,NO,2.8,,,45,,,,,,,
+8190520,05/26/2004,10,NO,3,,,44,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,06/04/2004,10.5,NO,3.2,,,43,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,06/10/2004,11.25,NO,3.4,,,42,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/01/2004,13.25,NO,4,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/05/2004,11,NO,3.3,,,43,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/17/2004,13.25,NO,4,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/14/2004,10.5,NO,3.2,,,43,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/03/2004,12.25,NO,3.7,,,41,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/17/2004,11,NO,3.3,,,43,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,09/28/2004,8.5,NO,2.6,,,46,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,10/04/2004,8,NO,2.4,,,47,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,10/20/2004,8.5,NO,2.6,,,46,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,06/08/2005,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,
+8190520,06/19/2005,8.5,NO,2.6,,,46,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190520,06/24/2005,7.75,NO,2.4,,,48,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190520,07/02/2005,8,NO,2.4,,,47,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190520,07/11/2005,10.5,NO,3.2,,,43,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,07/16/2005,13,NO,4,,,40,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,08/03/2005,11,NO,3.3,,,43,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190520,10/09/2005,12.75,NO,3.9,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16073539,04/13/2006,8.6,NO,2.6,1.85,12,38,47,39,,,,,
+8190520,05/28/2006,13,NO,4,,,40,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10588956,06/12/2006,,,,,24,,53,,,,,,
+16073539,06/12/2006,8.6,NO,2.6,3.12,16,44,50,43,,,,,
+8190520,06/18/2006,12.5,NO,3.8,,,41,,,,,CLEAR,BROWN,
+8190520,06/20/2006,10,NO,3,,,44,,,,,CLEAR,BROWN,
+8190520,06/28/2006,9,NO,2.7,,,45,,,,,CLEAR,BROWN,
+8190520,06/29/2006,11,NO,3.3,,,43,,,,,CLEAR,BROWN,
+8190520,07/06/2006,11.25,NO,3.4,,,42,,,,,CLEAR,BROWN,
+7000091,07/17/2006,,,,2.31,26,,53,41,,,,,
+8190520,07/22/2006,10.5,NO,3.2,,,43,,,,,CLEAR,BROWN,
+10588956,08/10/2006,,,,1.92,16,,50,40,,,,,
+8190520,08/23/2006,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,
+16073539,10/26/2006,13.8,NO,4.2,3.53,15,39,49,44,,,,,
+8190520,10/27/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,
+18069694,02/22/2007,15.4,NO,4.7,,21,38,52,,,,,,
+8190520,04/30/2007,14,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190520,05/16/2007,14,NO,4.3,,,39,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190520,06/11/2007,8.75,NO,2.7,,,46,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190520,06/13/2007,5.75,,1.7,,,52,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190520,06/15/2007,4.5,,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190520,06/26/2007,7.75,,2.4,,,48,,,,,,BROWN,1-Beautiful, could not be nicer
+8190520,06/28/2007,12.5,,3.8,,,41,,,,,,BROWN,1-Beautiful, could not be nicer
+8190520,07/02/2007,10.25,,3.1,,,44,,,,,,BROWN,1-Beautiful, could not be nicer
+8190520,07/04/2007,10.5,,3.2,,,43,,,,,,BROWN,1-Beautiful, could not be nicer
+8190520,07/12/2007,8.25,,2.5,,,47,,,,,,,
+19001807,07/25/2007,16.5,YES,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19001807,08/01/2007,11,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19001807,08/15/2007,8,YES,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19001807,09/05/2007,9,YES,2.7,,,45,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+19001807,09/17/2007,9.5,YES,2.9,,,45,,,,,,GREEN,1-Beautiful, could not be nicer
+19001807,10/02/2007,8,YES,2.4,,,47,,,,,,GREEN,
+19001807,10/17/2007,11.5,YES,3.5,,,42,,,,,,GREEN,1-Beautiful, could not be nicer
+19001807,05/01/2008,8.5,NO,2.6,,,46,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+19001807,05/16/2008,14.5,NO,4.4,,,39,,,,,,BLUE,1-Beautiful, could not be nicer
+19001807,06/02/2008,9,NO,2.7,,,45,,,,,,BLUE,2-Very minor aesthetic problems
+19001807,06/14/2008,12.5,NO,3.8,,,41,,,,,,BLUE,1-Beautiful, could not be nicer
+19001807,07/04/2008,8.5,NO,2.6,,,46,,,,,,BLUE,2-Very minor aesthetic problems
+1,07/06/2008,,,,0.85,19,,51,34,,,,,
+19001807,07/16/2008,9.5,NO,2.9,,,45,,,,,,BLUE,2-Very minor aesthetic problems
+19001807,08/03/2008,8.5,NO,2.6,,,46,,,,,,BLUE,2-Very minor aesthetic problems
+19001807,08/17/2008,10.5,NO,3.2,,,43,,,,,,BLUE,2-Very minor aesthetic problems
+19001807,08/31/2008,11,NO,3.3,,,43,,,,,,BLUE,1-Beautiful, could not be nicer
+1,09/10/2008,,,,2.82,14,,49,43,,,,,
+19001807,09/16/2008,12,NO,3.6,,,41,,,,,,BLUE,1-Beautiful, could not be nicer
+19001807,10/01/2008,11,NO,3.3,,,43,,,,,,BLUE,1-Beautiful, could not be nicer
+19001807,10/17/2008,10.5,NO,3.2,,,43,,,,,,BLUE,
+19001805,05/03/2009,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001805,05/20/2009,15,NO,4.6,,,38,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+19001805,05/31/2009,12.5,,3.8,,,41,,,NORMAL,,,BLUE,2-Very minor aesthetic problems
+19001805,06/15/2009,9,NO,2.7,,,45,,,NORMAL,18,,BLUE,3-Enjoyment somewhat impaired (algae)
+28622669,06/21/2009,,,,2.73,17,,50,42,,,,,
+19001805,07/02/2009,9.5,NO,2.9,,,45,,,NORMAL,17,CLEAR,BLUE,2-Very minor aesthetic problems
+19001805,07/04/2009,14.5,NO,4.4,,,39,,,HIGH,17.5,,BLUE,1-Beautiful, could not be nicer
+19001805,07/16/2009,10.5,NO,3.2,,,43,,,NORMAL,17,,BLUE,2-Very minor aesthetic problems
+28622669,07/19/2009,,,,2.76,15,,49,42,,,,,
+19001805,07/31/2009,9,NO,2.7,,,45,,,NORMAL,17,,BLUE,2-Very minor aesthetic problems
+19001805,08/14/2009,10.5,NO,3.2,,,43,,,NORMAL,17,,BLUE,1-Beautiful, could not be nicer
+28622669,08/30/2009,,,,2.62,10,,46,42,,,,,
+19001807,09/23/2009,11.5,NO,3.5,,,42,,,NORMAL,17.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,10/06/2009,12.5,NO,3.8,,,41,,,NORMAL,17.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,05/15/2010,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+28622669,05/31/2010,,,,,12,,47,,,,,,
+28622669,06/20/2010,,,,3.77,8,,44,45,,,,,
+28622669,08/22/2010,,,,3.44,14,,49,44,,,,,
+19001805,10/07/2010,12.5,NO,3.8,,,41,,,HIGH,17.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,11/02/2010,10,,3,,16,44,50,,,,,,
+1,02/22/2011,,,,,,,,,,,,,
+116350785,02/22/2011,,,,,6,,42,,,,,,
+1,04/25/2011,12.5,,3.8,,14,41,49,,,,,,
+19001807,05/28/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+28622669,05/30/2011,,,,,18,,51,,,,,,
+1,06/13/2011,13.25,,4,,,40,,,,,,,
+1,06/15/2011,,,,,18,,51,,,,,,
+19001807,06/17/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+28622669,06/26/2011,,,,1.86,13,,48,39,,,,,
+1,06/29/2011,13.25,,4,,,40,,,,,,,
+1,06/30/2011,,,,,15,,49,,,,,,
+19001807,07/03/2011,13,NO,4,,,40,,,HIGH,18,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/18/2011,,,,,13,,48,,,,,,
+1,07/20/2011,11.75,,3.6,,,42,,,,,,,
+99479815,07/31/2011,,,,2.3,14,,49,41,,,,,
+19001807,08/03/2011,8.5,NO,2.6,,,46,,,NORMAL,17.5,CLEAR,BLUE,2-Very minor aesthetic problems
+1,08/08/2011,11.5,,3.5,,16,42,50,,,,,,
+19001807,08/17/2011,12.5,NO,3.8,,,41,,,,17,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,08/25/2011,11.5,NO,3.5,,,42,,,NORMAL,17.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,08/28/2011,,,,2.36,15,,49,41,,,,,
+1,08/29/2011,14,,4.3,,6,39,42,,,,,,
+19001807,09/17/2011,14,NO,4.3,,,39,,,NORMAL,17.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,10/17/2011,11.5,NO,3.5,,,42,,,NORMAL,18,CLEAR,BLUE,2-Very minor aesthetic problems
+1,10/24/2011,14,,4.3,,,39,,,,,,,
+1,02/18/2012,,,,,3,,37,,,,,,
+116239089,02/19/2012,,,,,,,,,,,,,
+1,05/04/2012,,,,,26,,53,,,,,,
+1,05/08/2012,10.5,,3.2,,,43,,,,,,,
+99479815,05/28/2012,,,,,18,,51,,,,,,
+19001807,05/31/2012,9,NO,2.7,,,45,,,,17.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/07/2012,9.5,,2.9,,,45,,,,,,,
+19001807,06/16/2012,11.5,NO,3.5,,,42,,,HIGH,18.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/26/2012,13,,4,,,40,,,,,,,
+99479815,06/30/2012,,,,2.29,16,,50,41,,,,,
+19001807,07/01/2012,12,NO,3.6,,,41,,,HIGH,18,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,07/08/2012,12,NO,3.6,,,41,,,HIGH,18,CLEAR,BLUE,
+1,07/16/2012,,,,,19,,51,,,,,,
+19001807,07/16/2012,7.5,NO,2.3,,,48,,,HIGH,17.5,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/18/2012,8.5,,2.6,,,46,,,,,,,
+19001807,07/25/2012,6.5,NO,2,,,50,,,NORMAL,16.3,CLEAR,BLUE,2-Very minor aesthetic problems
+99479815,07/29/2012,,,,2.97,17,,50,43,,,,,
+19001807,08/03/2012,8,NO,2.4,,,47,,,NORMAL,17.6,CLEAR,BLUE,2-Very minor aesthetic problems
+1,08/06/2012,,,,,21,,52,,,,,,
+1,08/08/2012,9,,2.7,,,45,,,,,,,
+1,08/27/2012,,,,,6,,42,,,,,,
+1,08/30/2012,11,,3.3,,,43,,,,,,,
+19001807,09/02/2012,10.5,NO,3.2,,,43,,,HIGH,16.7,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,09/03/2012,,,,3.58,18,,51,44,,,,,
+19001807,10/05/2012,12.5,NO,3.8,,,41,,,HIGH,17.6,,BLUE,1-Beautiful, could not be nicer
+99479815,05/27/2013,,,,,25.4,,53,,,,,,
+19001807,06/07/2013,11.4,NO,3.5,,,42,,,NORMAL,17.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,06/21/2013,10.5,NO,3.2,,,43,,,NORMAL,17.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,06/27/2013,,,,2.02,10.1,,46,40,,,,,
+19001807,06/30/2013,13,NO,4,,,40,,,HIGH,17.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,07/28/2013,,,,3.43,14.1,,49,44,,,,,
+19001807,08/12/2013,8,NO,2.4,,,47,,,NORMAL,17.2,,BLUE,1-Beautiful, could not be nicer
+19001807,08/18/2013,11.5,NO,3.5,,,42,,,NORMAL,17.6,,BLUE,1-Beautiful, could not be nicer
+19001807,09/04/2013,12,NO,3.6,,,41,,,NORMAL,17,,BLUE,1-Beautiful, could not be nicer
+99479815,09/08/2013,,,,2.81,18,,51,43,,,,,
+19001807,09/28/2013,12, ,3.6,,,41,,,NORMAL,17.6,,BLUE,1-Beautiful, could not be nicer
+19001807,05/16/2014,10.5,NO,3.2,,,43,,,NORMAL,17.6,CLEAR,BLUE,2-Very minor aesthetic problems
+99479815,05/20/2014,,,,,12.5,,48,,,,,,
+19001807,05/23/2014,11,NO,3.3,,,43,,,NORMAL,17.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,06/16/2014,11.5,NO,3.5,,,42,,,NORMAL,17.6,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,06/29/2014,12,NO,3.6,,,41,,,HIGH,17.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,06/29/2014,,,,2.02,17.4,,50,40,,,,,
+19001807,07/19/2014,9.5,NO,2.9,,,45,,,NORMAL,17.6,CLEAR,BLUE,2-Very minor aesthetic problems
+99479815,07/20/2014,,,,2.97,14.2,,49,43,,,,,
+19001807,08/06/2014,10,NO,3,,,44,,,NORMAL,17.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+19001807,09/03/2014,10,NO,3,,,44,,,NORMAL,17.8,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,09/14/2014,,,,2.46,19.1,,51,42,,,,,
+19001807,09/25/2014,11.5,NO,3.5,,,42,,,NORMAL,17.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+99479815,06/02/2015,,,,,19.9,,51,,,,,,
+99479815,07/05/2015,,,,2.41,16.8,,50,41,,,,,
+99479815,08/16/2015,,,,2.31,18.4,,51,41,,,,,
+99479815,09/06/2015,,,,2.14,20.6,,52,41,,,,,
+99479815,07/02/2016,,,,3.21,20.4,,52,44,,,,,
+99479815,09/17/2016,,,,5.24,27.4,,54,47,,,,,
+28622669,08/20/2017,11,NO,3.3,,13.5,43,48,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+162676653,05/30/2018,11,NO,3.3,,,43,,,HIGH,14,CLEAR,BLUE,2-Very minor aesthetic problems
+162676653,06/30/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/02/2018,,,,3,17.4,,50,43,,,,,
+1,07/29/2018,,,,5.62,15.6,,49,48,,,,,
+162676653,07/29/2018,10,NO,3,,,44,,,HIGH,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,08/26/2018,11.5,NO,3.5,,,42,,,NORMAL,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,08/28/2018,,,,2.98,16.6,,50,43,,,,,
+162676653,05/26/2019,13.5,NO,4.1,,,40,,,HIGH,15,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,06/26/2019,13.5,NO,4.1,2.53,15.3,40,49,42,HIGH,15,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,07/23/2019,12,NO,3.6,5.44,9.53,41,46,48,,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,09/14/2019,13,NO,4,7.18,9.63,40,46,50,HIGH,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,04/26/2020,14,NO,4.3,,,39,,,HIGH,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,05/31/2020,15,NO,4.6,,,38,,,HIGH,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,06/28/2020,12.5,NO,3.8,1.12,12.3,41,48,36,HIGH,16,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,07/04/2020,12,NO,3.6,,,41,,,HIGH,15,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,07/27/2020,10,NO,3,,,44,,,HIGH,16.5,CLEAR,BLUE,2-Very minor aesthetic problems
+162676653,08/17/2020,10.5,NO,3.2,,,43,,,NORMAL,15.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+162676653,09/09/2020,,,,3.37,12.2,,48,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/02/1976,,,4,C,5,MG/L
+05/13/1976,,,15.9,C,10.5,MG/L
+08/12/1976,,,25,C,8.4,MG/L
+11/16/1976,,,4.5,C,14.4,MG/L
+04/13/2006,,,10.7,C,11.5,MG/L
+06/12/2006,,,21.7,C,10.3,MG/L
+10/26/2006,,,6.1,C,11.5,MG/L
+02/22/2007,,,3.5,C,10.7,MG/L
+09/10/2008,,,20.0,C,,
+11/02/2010,,,7.39,C,9.09,MG/L
+02/22/2011,,,0.6,C,0.11,MG/L
+04/25/2011,,,6.8,C,14.99,MG/L
+06/13/2011,,,18.3,C,1.06,MG/L
+06/29/2011,,,20.3,C,11.38,MG/L
+07/20/2011,,,22.7,C,4.44,MG/L
+08/08/2011,,,24.9,C,0.28,MG/L
+08/29/2011,,,23.8,C,2.33,MG/L
+10/24/2011,,,9.3,C,9.14,MG/L
+02/19/2012,,,2.2,C,4.36,MG/L
+05/08/2012,,,13.1,C,0.15,MG/L
+06/07/2012,,,19.3,C,11.01,MG/L
+06/26/2012,,,24.3,C,10.11,MG/L
+07/18/2012,,,27.0,C,4.45,MG/L
+08/08/2012,,,24.6,C,10.03,MG/L
+08/30/2012,,,23.3,C,10.00,MG/L
+
+
+
+Start Date,Fieldwork Comment
+03/02/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR     
+05/13/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/12/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/16/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/22/1986,Heavy rains 6/21- ice out was 4/2/86    
+06/28/1986,Rained this week    
+07/06/1986,Light rain 7/5- 50% cloud cover today.    
+07/14/1986,Sunny- light wind    
+07/20/1986,Sunny- heavy rain night of 7/18    
+07/26/1986,Heavy rain 7/25 am- sunny- light wind    
+08/09/1986,Sunny- water level down 3"    
+08/16/1986,Sunny- med. wind    
+08/26/1986,Sunny/windy    
+09/01/1986,Clear- still- sunny    
+09/06/1986,Sunny- light wind    
+09/13/1986,Sunny and calm.    
+09/27/1986,Sunny- windy- and lake high from heavy rain.    
+10/11/1986,Cloudy.    
+10/18/1986,Cloudy.    
+04/12/1987,Ice out 3/25. Clear- sunny- slightly windy. Rain day before.    
+04/18/1987,Sunny- clear    
+04/26/1987,Sunny. disc hits weeds at 9'-sinks to 11.5'. hard to find deeper spot. received copies of reports as requested- thank you.    
+05/03/1987,Windy- stirred up    
+05/10/1987,Calm- sunny- disc hits weeds at 13 ft- settles out at 15.25    
+05/31/1987,Sunny- clear- calm- algae near southeast shore for about 20' out- and the storm during the previous week stirred up the lake.    
+07/02/1987,Windy and partly sunny.    
+07/25/1987,Calm- clear- sunny- lake very clear- and appears to be 1' low.    
+10/11/1987,Sunny- lake about 1-1.5' low- lake was in good condition this year- no algae or scum collecting.    
+05/30/1988,Partial cloudy    
+06/05/1988,Sunny    
+06/25/1988,Sunny- water clear + calm    
+07/16/1988,Clear- sunny- slightly windy    
+08/05/1988,Clear- sunny- calm    
+05/07/1989,Ice off 4/13- clear- sunny.    
+05/14/1989,Overcast and calm    
+07/04/1989,Sunny- clear    
+07/15/1989,Sunny- clear- small waves- weed growth normal    
+08/06/1989,Bottom @ 14.5 ft.    
+09/02/1989,Sunny- calm    
+09/17/1989,Clear- sunny- slight breeze    
+10/21/1989,Sunny- slight breeze    
+05/13/1990,Clear- sunny- water high after 3" rain    
+06/17/1990,Cloudy- high water    
+06/25/1990,Clear- calm    
+07/04/1990,Sunny- hot- weeds emerging from water    
+07/22/1990,Sunny- windy    
+08/12/1990,Partial sun- calm    
+08/26/1990,Sunny- rain this morning    
+11/04/1990,Partial sun- mild rain last night    
+04/28/1991,Calm- sunny- 17'deep    
+05/18/1991,Calm- sunny- 17.25' deep    
+06/15/1991,Windy- partly sunny- 17' deep    
+06/30/1991,Partly sunny- calm- 16.25' deep    
+07/06/1991,Sunny    
+07/18/1991,Cloudy    
+09/01/1991,Sunny    
+10/13/1991,Partly sunny    
+05/31/1992,Sunny.    
+06/15/1992,Cloudy- breezy.    
+06/21/1992,Calm- sunny.    
+07/25/1992,Cloudy- breezy.    
+08/02/1992,Calm and sunny.    
+06/26/1993,Rain + wind stirs up weeds- thus poor reading- sunny    
+07/05/1993,Cloudy- mist- windy    
+07/11/1993,Water calm- cloudy    
+07/18/1993,Cloudy- calm    
+08/20/1993,Sunny- calm    
+09/06/1993,Sunny- wavy    
+10/09/1993,Sunny.    
+06/13/1994,Sunny.    
+06/20/1994,Cloudy- light rain- calm- depth at 16.5'- weeds.    
+06/28/1994,Sunny.    
+07/05/1994,Partial sunny.    
+05/20/1995,Sunny- bottom 16.5.    
+06/04/1995,Sunny.    
+06/17/1995,Cloudy.    
+06/25/1995,Sunny.    
+07/02/1995,Sunny-windy.    
+07/08/1995,Cloudy-overcast-calm.    
+07/19/1995,Sunny-calm.    
+07/29/1995,Clear-sunny.    
+08/06/1995,Cloudy-calm.    
+08/14/1995,Sunny.    
+09/10/1995,Sunny-calm!    
+06/28/1996,Sunny-calm.    
+07/01/1996,Sunny-calm.    
+07/07/1996,Sunny-calm.    
+08/11/1996,Overcast-calm.    
+08/18/1996,Windy- partial sun.    
+08/25/1996,Sunny- mild waves.    
+09/04/1996,Hazy- calm.    
+09/11/1996,Clear- calm.    
+05/27/1998,Sunny.    
+06/18/1998,Sunny.    
+07/05/1998,Sunny.    
+07/10/1998,Sunny calm.    
+07/30/1998,Overcast calm.    
+08/09/1998,Calm sunny.    
+09/03/1998,Calm sunny. lake frozen over and remained closed 12/18/98.    
+05/09/1999,Sunny. 4pm. calm.    
+05/27/1999,Sunny. calm.    
+07/05/1999,Sunny windy.    
+07/15/1999,Partial sunny. calm.    
+07/20/1999,Partial sunny. calm.    
+06/02/2000,No color- green weeds on bottom    
+09/08/2000,Clear and calm. weeds on bottom. bottom at 16.25 feet.    
+09/14/2000,Windy and clear.    
+09/16/2000,This year the lake readings have been the clearest in my 14 years of reporting.  Keep up the good weather.    
+06/16/2001,Clear- cotton fuzz on lake.    
+06/30/2001,cloudy    
+07/11/2001,Cloudy- Great North American Dip In.    
+08/01/2001,Clear    
+08/11/2001,Clear    
+08/19/2001,clear    
+08/23/2001,Clear.    
+09/01/2001,Clear- Jerry + Matt- Depth to bottom 16.5 feet.    
+10/10/2001,clear- depth to bottom is 17 feet.    
+10/17/2001,Clear.    
+06/06/2002,Ice off April 2- 2002. Cloudy- quiet water- fuzzy lake debris- and 15.75 ft is the bottom of the lake.    
+06/12/2002,Clear.    
+06/22/2002,Clear- sunny- 5" rain the night before    
+06/29/2002,Clear- sunny- 16.75 ft to the bottom- some debris near shore.    
+07/12/2002,Clear- sunny- and 16.75 ft to the bottom.    
+07/27/2002,Cloudy.    
+08/05/2002,Cloudy.    
+08/16/2002,Clear- sunny- bottom is 14.75 feet.    
+09/15/2002,Clear and sunny.    
+05/31/2003,Sunny.  Ice off April 2.  Partial ice out April 4- 2003.    
+06/15/2003,Sunny - bottom depth 16.0.    
+06/21/2003,Sunny- bottom depth 17.25    
+07/01/2003,Cloudy- bottom 16.25.  Windy.    
+07/03/2003,Cloudy    
+07/07/2003,Cloudy - 1 1/2" rain last night.  Bottom 17.25    
+07/11/2003,4 pm- sunny.  Rain this morning.    
+07/25/2003,Sunny    
+07/31/2003,Partial cloudy.    
+08/04/2003,Partially sunny.    
+08/14/2003,Partially cloudy.    
+08/27/2003,Sunny - 16.25 bottom.    
+09/26/2003,Cloudy- 15.5 bottom.  Lake low.    
+05/26/2004,Cloudy    
+06/04/2004,Partly cloudy    
+06/10/2004,Sunny- calm.  Bottom 16.25    
+07/01/2004,Sunny- bottom 16.25    
+07/05/2004,Cloudy- bottom 16.0    
+07/17/2004,Sunny    
+08/14/2004,Sunny- calm.  Bottom 16.25    
+09/03/2004,Sunny and calm    
+09/17/2004,Sunny    
+09/28/2004,Sunny- calm.  First frost this morning.    
+10/04/2004,Sunny and calm    
+10/20/2004,Cloudy- bottom 16.5.  All readings this season:  water clear (green tint)- perception 1- good recreation enjoyment.    
+10/09/2005,water is about 6 inches low
+bottomed out at 16.5 ft.    
+04/13/2006,NEAR BOTTOM- 3L VAN DORN    
+06/12/2006,NEAR BOTTOM - 3L VAN DORN    
+06/12/2006,NEAR SURFACE - 3L VAN DORN    
+07/17/2006,DEEP HOLE- NEAR BOTTOM - 3L VAN DORN    
+07/17/2006,DEEP HOLE- NEAR SURFACE - 3L VAN DORN    
+08/10/2006,NEAR SURFACE - 3L VAN DORN    
+10/26/2006,NEAR BOTTOM- 3L VAN DORN SAMPLER    
+02/22/2007,NEAR BOTTOM- 3L VAN DORN SAMPLE
+04/30/2007,Bottom 16.3 ft.
+05/16/2007,bottom 16 ft.
+06/11/2007,Bottom 17-0  Clear.  Air Temperature 85 degrees fahrenheit.
+06/13/2007,Air Temperature 90 degrees Fahrenheit.  Sunny and Clear.
+06/15/2007,bottom 17.25 cloudy day
+06/26/2007,botton 17 ft. calm clear air temp. 89 F
+06/28/2007,botom16.5 air temp. 73 F
+07/02/2007,air temp. 78 F bottom 13.25 cloudy
+07/04/2007,bottom 15.0 clear air temp. 65 F
+07/12/2007,air temp. 70 F bottom 16.0 cloudy Windy
+07/25/2007,Partly cloudy- water color was very light green- lake was calm- air temp=84.  Depth of water where Secchi Depth taken:  11 feet.
+08/01/2007,90 degree air temp- sunny- slight wind- water color = light green- good swimming- fish weren't biting.  Depth of water where Secchi reading taken:  16 ft.
+08/15/2007,74 AirTemp- cloudy- slight wind- water choppy- fishing was slow- water was a light blue green.  Depth of water where Secchi reading taken:  16 feet.
+09/05/2007,88 degress air temp-slight haze- slight wind- water color light green- bottom depth 16.5 ft.
+09/17/2007,Overcast- breezy- air temp 62 degrees- bottom depth 17.3 ft
+10/02/2007,Air Temp 66 degrees- Cloudy- Breezy- Bottom Depth 16.8ft
+10/17/2007,Air temp= 60 degrees- sunny- slight breeze- bottom depth=17.5 ft
+05/01/2008,Sunny- windy- air temp=50 degrees- tested in 17 ft depth of water
+05/16/2008,Air Temp. = 68 degrees- Partly Cloudy- Breezy Air Temp=68 degrees- Partly Cloudy- Breezy 
+06/02/2008,Air Temp=80- cloudy- breezy
+06/14/2008,Air Temp=75- sunny- breezy
+07/04/2008,Air Temp=78- sunny- calm
+07/16/2008,Air Temp=83- sunny- calm
+08/03/2008,Air Temp= 81- sunny- windy
+08/17/2008,Party cloudy + calm
+Air Temp = 87 Degrees
+08/31/2008,Sunny + Slight breeze
+Air Temp = 85 Degrees
+09/16/2008,Sunny + Windy
+Air Temp = 73 degrees
+10/01/2008,Cloudy with Drizzle 
+Air Temp = 58 Degrees 
+10/17/2008,Cloudy + Calm
+Air Temp = 53 Degrees
+05/03/2009,Air Temp = 60 Degrees
+Sunny + Calm
+Water depth = 17.5 Ft
+05/20/2009,Air Temp = 83 Degrees
+Sunny + Breezy
+Water Depth = 17.5 Ft.
+05/31/2009,Air Temp = 68 Degrees
+Sunny w/ Slight wind
+Water Depth = 17.5 Ft.
+06/15/2009,Air Temp=79 Degrees- Partly Cloudy- Slight Wind Air Temp=79 Degrees- Partly Cloudy- Slight Wind- Water Depth=18 Ft Air Temp=79 Degrees- Partly Cloudy- Slight Wind
+07/02/2009,Air Temp= 64 Degrees- Cloudy- Slight Wind
+07/04/2009,Air Temp.=74 Degrees- Sunny + Calm
+07/16/2009,Air Temp.=70 Degrees- Sunny + Gusty Winds
+07/31/2009,Air Temp. 77 Degrees-Partly Cloudy- + Calm
+08/14/2009,Air Temp. = 85 Degrees- Partly Cloudy- + Breezy
+09/23/2009,Air Temp = 68 Degrees  Sunny Calm
+10/06/2009,Air Temp = 58 Degrees   Sunny Breezy
+05/15/2010,Air Temp=65Degrees- Sunny + Calm
+10/07/2010,Air Temp = 62 Degrees- Sunny- Calm- No Pan Fish
+05/28/2011,Air Temp=72 Degrees
+Partly Cloudy
+
+06/17/2011,Air Temp = 75 Degrees
+Party Cloudy
+Slight Breeze
+07/03/2011,Air Temp=83 Degrees- Sunny- Calm- no  pan fish
+08/03/2011,Air Temp = 84 Degrees- Sunny- Slight Breeze
+08/17/2011,Air Temp=82 Degrees- Sunny- + Calm
+08/25/2011,Air Temp=82 Degrees
+09/17/2011,Air Temp= 61 Degrees Cloudy + Breezy
+10/17/2011,Air Temp= 59 Degrees Sunny + Windy
+05/31/2012,Air Temp 57 degrees  -  cloudy+ breezy
+06/16/2012,Air temp-80 Degrees   -   cloudy + calm
+07/01/2012,Air temp -  90 Degrees   -   Sunny + Calm
+07/08/2012,Air Temp - 92 Degrees  -  Sunny + Slight Breeze
+07/16/2012,Air Temp - 94 Degrees      -    Sunny - Hot - Calm  
+07/25/2012,Air Temp - 94 Degrees       -    Cloudy + Windy
+08/03/2012,Air Temp - 82 Degrees       -       Slight Haze + Calm
+09/02/2012,Air Temp - 82 Degrees      -        Sunny + Windy
+10/05/2012,Air Temp=52 Degrees  Sunny + Breezy
+
+
+
+
+Start Date,Group Name,Project Name
+03/02/1976,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+03/02/1976,Tom and Sandy Burgermeister,Migrated from STORET Legacy
+05/13/1976,Data Collectors,Migrated from STORET Legacy
+08/12/1976,Data Collectors,Migrated from STORET Legacy
+11/16/1976,Data Collectors,Migrated from STORET Legacy
+06/22/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/28/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/06/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/14/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/20/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/26/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/09/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/16/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/26/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/01/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/06/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/13/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/27/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/11/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/18/1986,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+04/12/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+04/18/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+04/26/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/03/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/10/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/25/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/11/1987,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/30/1988,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/05/1988,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/25/1988,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/16/1988,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/05/1988,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/07/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/14/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/04/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/15/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/06/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/02/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/17/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/21/1989,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/13/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/17/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/25/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/04/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/22/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/12/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/26/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+11/04/1990,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+04/28/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/18/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/15/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/30/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/06/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/18/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/01/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/13/1991,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/1992,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/15/1992,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/21/1992,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/25/1992,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/02/1992,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/26/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/05/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/11/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/18/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/20/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/06/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/09/1993,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/13/1994,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/20/1994,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/28/1994,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/05/1994,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/20/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/04/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/17/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/25/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/08/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/19/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/29/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/06/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/14/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/10/1995,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/28/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/01/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/07/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/11/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/18/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/25/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/04/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/11/1996,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/24/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/08/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/09/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/17/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/28/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/25/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/03/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/07/1997,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/27/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/18/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/05/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/10/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/30/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/09/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/03/1998,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/09/1999,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/27/1999,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/05/1999,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/15/1999,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/20/1999,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/02/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/25/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/03/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/13/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/16/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/27/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/06/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/08/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/14/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/30/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/03/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/08/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/14/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/16/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/01/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/15/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/16/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/17/2000,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/16/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/30/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/11/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/01/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/11/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/19/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/23/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/01/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/10/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/17/2001,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/06/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/12/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/22/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/29/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/12/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/27/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/05/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/16/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/15/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/22/2002,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/15/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/21/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/01/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/03/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/07/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/11/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/25/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/31/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/04/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/14/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/27/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/26/2003,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/26/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/04/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/10/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/01/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/05/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/17/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/14/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/03/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/17/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/28/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/04/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/20/2004,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/08/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/19/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/24/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/11/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/16/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/03/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/09/2005,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+04/13/2006,Tim Hoyman - Onterra- LLC,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+05/28/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/12/2006,CAROL HOLDEN,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+06/12/2006,Tim Hoyman - Onterra- LLC,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+06/18/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/20/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/28/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/29/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/06/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/17/2006,Mark Sesing,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+07/22/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/10/2006,CAROL HOLDEN,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+08/23/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/26/2006,Tim Hoyman - Onterra- LLC,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+10/27/2006,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+02/22/2007,Eddie Heath - Onterra- LLC,PORTERS LAKE MANAGEMENT DISTRICT: Porters Lake Comprehensive Management Plan Project Ph 1
+04/30/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/16/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/11/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/13/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/15/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/26/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/28/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/04/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/12/2007,Gerald Ptaschinski- Sr.,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/25/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/01/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/15/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/05/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/17/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/02/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/17/2007,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/01/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/16/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/02/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/14/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/04/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/06/2008,Data Collectors,Response Monitoring
+07/16/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/03/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/17/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/31/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/10/2008,Data Collectors,Response Monitoring
+09/16/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/01/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/17/2008,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/03/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/20/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/15/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/21/2009,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/04/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/16/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/19/2009,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/31/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/14/2009,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/30/2009,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/23/2009,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/06/2009,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/15/2010,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/2010,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/20/2010,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/22/2010,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/07/2010,Tom Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+11/02/2010,Data Collectors,
+02/22/2011,Data Collectors,
+02/22/2011,Ed Hernandez- Terry Liska,
+04/25/2011,Data Collectors,
+05/28/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/30/2011,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/13/2011,Data Collectors,
+06/15/2011,Data Collectors,
+06/17/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/26/2011,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/29/2011,Data Collectors,
+06/30/2011,Data Collectors,
+07/03/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/18/2011,Data Collectors,
+07/20/2011,Data Collectors,
+07/31/2011,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/03/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/08/2011,Data Collectors,
+08/17/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/25/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/28/2011,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/29/2011,Data Collectors,
+09/17/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/17/2011,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/24/2011,Data Collectors,
+02/18/2012,Data Collectors,
+02/19/2012,Anthony Recht,
+05/04/2012,Data Collectors,
+05/08/2012,Data Collectors,
+05/28/2012,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/07/2012,Data Collectors,
+06/16/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/26/2012,Data Collectors,
+06/30/2012,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/01/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/08/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/16/2012,Data Collectors,
+07/16/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/18/2012,Data Collectors,
+07/25/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/29/2012,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/03/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/06/2012,Data Collectors,
+08/08/2012,Data Collectors,
+08/27/2012,Data Collectors,
+08/30/2012,Data Collectors,
+09/02/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/03/2012,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+10/05/2012,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/27/2013,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/07/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/21/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/27/2013,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/30/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/28/2013,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/12/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/18/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/04/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/08/2013,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/28/2013,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/16/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/20/2014,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/23/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/16/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/29/2014,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/29/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/19/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/20/2014,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/06/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/03/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/14/2014,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/25/2014,Tom and Sandy Burgermeister,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/02/2015,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/05/2015,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/16/2015,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/06/2015,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/2016,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/17/2016,Michelle Schacht,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/20/2017,Patrick Doyle,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/30/2018,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/30/2018,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/02/2018,Data Collectors,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/29/2018,Data Collectors,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/29/2018,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/26/2018,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/28/2018,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/26/2019,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/26/2019,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/23/2019,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/14/2019,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+04/26/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+05/31/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+06/28/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/04/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+07/27/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+08/17/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole
+09/09/2020,Jim Jagdfeld,Citizen Lake Monitoring - Water Quality - Porters Lake; Deep Hole

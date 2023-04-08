@@ -1,0 +1,48 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+North Crab Lake,Vilas,2953400,NO,64,,643280,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/03/1985,8.5,,2.6,,9,46,45,,,,,,
+25475014,06/19/2008,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+25475014,07/09/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+25475014,08/01/2008,10.23,NO,3.1,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+25475014,08/18/2008,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+25475014,06/26/2009,12.6,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+25475014,08/07/2009,11.75,NO,3.6,,,42,,,LOW,,,BLUE,2-Very minor aesthetic problems
+1,07/28/2020,8,NO,2.4,,,47,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/03/1985,,,18,C,.6,MG/L
+07/28/2020,,,24.7,C,8.08,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/03/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/19/2008,Sunny.  Wind SW  5 to 10 MPH
+Two adult loons with 2 chicks on Lake.  First successful hatch since 1999
+07/09/2008,Cloudy bright. Distinct shadows.  Wind West 1 to 3 MPH
+08/01/2008,Sunny. Wind N 5 to 10 MPH.  Heavy thundershower at 6 AM.
+One loon chich disappeared from lake about 10 days ago.  Subsequently- Dr Meyer of DNR tagged both adults and remaining chick.
+06/26/2009,Sunny.  Wind 5-10 SW
+Two loons on lake.  No sign of chicks or nestings.
+
+
+
+
+Start Date,Group Name,Project Name
+09/03/1985,Data Collectors,Migrated from STORET Legacy
+06/19/2008,William Comstock,Citizen Lake Monitoring - Water Quality - North Crab Lake- Vilas Co.
+07/09/2008,William Comstock,Citizen Lake Monitoring - Water Quality - North Crab Lake- Vilas Co.
+08/01/2008,William Comstock,Citizen Lake Monitoring - Water Quality - North Crab Lake- Vilas Co.
+08/18/2008,William Comstock,Citizen Lake Monitoring - Water Quality - North Crab Lake- Vilas Co.
+06/26/2009,William Comstock,Citizen Lake Monitoring - Water Quality - North Crab Lake- Vilas Co.
+08/07/2009,William Comstock,Citizen Lake Monitoring - Water Quality - North Crab Lake- Vilas Co.
+07/28/2020,Data Collectors,TOWN OF PRESQUE ISLE: Wilderness Waters: Crab- Little Crab- and North Crab Lakes

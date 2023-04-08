@@ -1,0 +1,113 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Grand Lake (Millpond),Green Lake,161100,NE,24,,10049242,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+147982252,10/08/2017,5,,1.5,,,54,,,,,CLEAR,,1-Beautiful, could not be nicer
+147982252,05/20/2018,4,NO,1.2,,54.9,57,59,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+147982252,06/05/2018,5,,1.5,,,54,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+147982252,06/21/2018,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+147982252,06/27/2018,,,,2.3,45.5,,58,41,,,,,
+147982252,07/13/2018,,NO,,,,,,,HIGH,5.5,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+147982252,07/23/2018,4,NO,1.2,,,55,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+147982252,07/24/2018,,,,4.81,42.5,,57,47,,,,,
+147982252,09/25/2018,5.5,NO,1.7,,,53,,,HIGH,5.5,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+147982252,10/04/2018,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+147982252,06/06/2019,,,,22.1,54.4,,59,58,,,,,
+147982252,06/07/2019,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,
+147982252,06/08/2019,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,
+147982252,06/16/2019,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+147982252,07/09/2019,,,,17.6,80.2,,62,56,,,,,
+147982252,07/10/2019,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+245807261,07/13/2020,5,NO,1.5,0.889,50.5,54,59,34,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+147982252,08/05/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+245807261,08/31/2020,,,,9.86,186,,69,52,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/20/2018,0,FEET,62.7,DEGREES F,,
+05/20/2018,3,FEET,51.6,DEGREES F,,
+05/20/2018,6,FEET,50.3,DEGREES F,,
+05/20/2018,9,FEET,50.1,DEGREES F,,
+05/20/2018,12,FEET,50.3,DEGREES F,,
+06/05/2018,0,FEET,68.7,DEGREES F,,
+06/05/2018,3,FEET,51,DEGREES F,,
+06/05/2018,6,FEET,50,DEGREES F,,
+06/05/2018,9,FEET,50,DEGREES F,,
+06/21/2018,0,FEET,68.7,DEGREES F,,
+06/21/2018,3,FEET,53.2,DEGREES F,,
+06/21/2018,6,FEET,51,DEGREES F,,
+06/21/2018,9,FEET,50.1,DEGREES F,,
+07/13/2018,0,FEET,77,DEGREES F,,
+07/13/2018,3,FEET,51.6,DEGREES F,,
+07/13/2018,6,FEET,50.3,DEGREES F,,
+07/23/2018,0,FEET,72.5,DEGREES F,,
+07/23/2018,3,FEET,51.6,DEGREES F,,
+07/23/2018,6,FEET,50.5,DEGREES F,,
+07/23/2018,9,FEET,20.1,DEGREES F,,
+09/25/2018,0,FEET,66.9,DEGREES F,,
+09/25/2018,3,FEET,52,DEGREES F,,
+09/25/2018,6,FEET,52,DEGREES F,,
+10/04/2018,0,FEET,58.4,DEGREES F,,
+10/04/2018,3,FEET,54.2,DEGREES F,,
+10/04/2018,6,FEET,50,DEGREES F,,
+06/08/2019,1,FEET,57.5,DEGREES F,,
+06/08/2019,3,FEET,51.2,DEGREES F,,
+06/08/2019,6,FEET,50.7,DEGREES F,,
+06/16/2019,0,FEET,68,DEGREES F,,
+06/16/2019,3,FEET,52,DEGREES F,,
+06/16/2019,6,FEET,51,DEGREES F,,
+07/10/2019,0,FEET,80.2,DEGREES F,,
+07/10/2019,3,FEET,51.6,DEGREES F,,
+07/10/2019,6,FEET,51.7,DEGREES F,,
+07/10/2019,9,FEET,50.3,DEGREES F,,
+07/13/2020,0,FEET,73.5,DEGREES F,,
+07/13/2020,3,FEET,53.6,DEGREES F,,
+07/13/2020,6,FEET,50.1,DEGREES F,,
+08/05/2020,0,FEET,66.2,DEGREES F,,
+08/05/2020,6,FEET,51.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/20/2018,Water was Very Clear. Cool 58 degrees (air Temp). Geese with babies swimming. Water was fairly calm. Light breeze.
+06/05/2018,Sunny with light wind. No wildlife spotted. Dennis Busche provided boat and helped today.
+06/21/2018,Geese- ducks and tons of dragon flies.  Lake was full of weeds.  It has hard to move about in it.
+07/13/2018,no wild life to hot outside
+07/23/2018,Went out of Dennis Busche who provided boat and helped do water sample. Lake covered in duckweed.  Lake full of weeds hard to use a trolling motor and even rowing is hard to do. saw just one snake. 
+09/25/2018,Very cloudy- warm- calm water.  Ted McHugo helped Tom with the testing today.
+06/07/2019,Lake is starting to get weed covered. No wild life seen.  A small May Fly catch was happening.
+06/08/2019,Breezy- Sunny- with a small May Fly hatch. Other boats fishing.  No wild life seen.
+06/16/2019,water starting to get duck weeds. Saw one goose and one turtle.
+07/10/2019,weeds very thick was hard to get from boat landing to area to do testing.  could only go about 20 feet then had to clean off motor.  Saw no wildlife.  Pete Smith helped in taking test.
+07/13/2020,Test is now taken by Pete Smith .   Lake has lots of weeds .
+08/05/2020,Lake has Lots of Duckweed. Some birds are even walking across it.  Hard to get a boat through. Lake has Lots of Duckweed. Some birds are even walking across it.  Hard to get a boat through.
+
+
+
+
+Start Date,Group Name,Project Name
+10/08/2017,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+05/20/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/05/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/21/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/27/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+07/13/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+07/23/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+07/24/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+09/25/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+10/04/2018,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/06/2019,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/07/2019,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/08/2019,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+06/16/2019,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+07/09/2019,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+07/10/2019,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+07/13/2020,Pete Smith,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+08/05/2020,Tom Medick,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)
+08/31/2020,Pete Smith,Citizen Lake Monitoring - Water Quality - Grand Lake- CLMN Site (Deepest Spot)

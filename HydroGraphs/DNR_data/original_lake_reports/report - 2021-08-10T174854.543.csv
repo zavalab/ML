@@ -1,0 +1,29 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lower Clear Lake,Langlade,1002400,NO,34,,343041,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/29/1979,,,,,,,,,,,,,
+240359168,07/05/2020,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/1979,,,18,C,,
+
+
+
+Start Date,Fieldwork Comment
+08/29/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/05/2020,Beautiful- sunny weather; pollen film on water surface
+
+
+
+
+Start Date,Group Name,Project Name
+08/29/1979,Data Collectors,Migrated from STORET Legacy
+07/05/2020,Sara Windjue,Citizen Lake Monitoring - Water Quality - Lower Clear Lake - Deep Hole

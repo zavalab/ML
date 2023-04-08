@@ -1,0 +1,456 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Johns Lake,Waushara,245800,NE,70,,703012,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/02/1976,,,,,3,,37,,,,,,
+1,05/06/1976,22.1,,6.75,,,33,,,,,,,
+1,08/09/1976,9.8,,3,,,44,,,,,,,
+1,11/16/1976,,,,,20,,51,,,,,,
+8190358,06/18/1986,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,
+8190358,06/29/1986,10.25,NO,3.1,,,44,,,,,,BLUE-GREEN,
+8190358,07/02/1986,10,NO,3,,,44,,,,,,BLUE-GREEN,
+8190358,07/20/1986,12.25,NO,3.7,,,41,,,,,,BLUE-GREEN,
+8190358,08/02/1986,10.5,NO,3.2,,,43,,,,,,GREEN,
+8190358,08/05/1986,15,NO,4.6,,,38,,,,,,BLUE-GREEN,
+8190358,08/10/1986,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,
+8190358,08/23/1986,11.5,NO,3.5,,,42,,,,,,BLUE-GREEN,
+8190358,09/22/1986,12.75,NO,3.9,,,40,,,,,,GREEN,
+8190358,10/02/1986,15,NO,4.6,,,38,,,,,,GREEN/BROWN,
+8190358,10/25/1986,21.5,NO,6.5,,,33,,,,,,GREEN/BROWN,
+8190358,11/01/1986,20,NO,6.1,,,34,,,,,CLEAR,BLUE,
+8190358,04/18/1987,18,NO,5.5,,,35,,,,,,BLUE/GREEN,
+8190358,05/17/1987,21.5,NO,6.5,,,33,,,,,CLEAR,BLUE,
+8190358,05/30/1987,21.5,NO,6.5,,,33,,,,,CLEAR,BLUE,
+8190358,06/24/1987,21.25,NO,6.5,,,33,,,,,CLEAR,BLUE,
+8190358,06/28/1987,16,NO,4.9,,,37,,,,,CLEAR,BLUE,
+8190358,07/01/1987,15,NO,4.6,,,38,,,,,,GREEN,
+8190358,07/08/1987,11.5,NO,3.5,,,42,,,,,,GREEN,
+8190358,07/22/1987,11,NO,3.3,,,43,,,,,,GREEN,
+8190358,07/26/1987,13,NO,4,,,40,,,,,,GREEN,
+8190358,08/04/1987,14,NO,4.3,,,39,,,,,,GREEN,
+8190358,08/23/1987,19,NO,5.8,,,35,,,,,CLEAR,BLUE,
+8190358,09/07/1987,15,NO,4.6,,,38,,,,,,GREEN,
+8190358,10/21/1987,20,NO,6.1,,,34,,,,,CLEAR,BLUE,
+8190358,05/07/1988,22,NO,6.7,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191015,05/31/1988,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,
+8190358,06/04/1988,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8191015,06/06/1988,10,NO,3,,,44,,,,,,BLUE/GREEN,
+8190358,06/12/1988,10,NO,3,,,44,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190358,07/08/1988,10,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,07/20/1988,11.5,NO,3.5,,,42,,,GAUGE,11.5,,GREEN,2-Very minor aesthetic problems
+8190358,08/01/1988,14,NO,4.3,,,39,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,08/07/1988,12.5,NO,3.8,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,08/14/1988,9.5,NO,2.9,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,08/27/1988,9,NO,2.7,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,04/16/1989,20,NO,6.1,,,34,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,04/26/1989,21.5,NO,6.5,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190358,05/03/1989,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190358,05/18/1989,22,NO,6.7,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190358,05/28/1989,22,NO,6.7,,,33,,,,,CLEAR,BLUE,
+8190358,06/07/1989,16.5,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190358,06/17/1989,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,06/21/1989,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,07/05/1989,12,NO,3.6,,,41,,,,,,GREEN,1-Beautiful, could not be nicer
+8190358,07/15/1989,11.5,NO,3.5,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,07/20/1989,11.25,NO,3.4,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,07/30/1989,10.25,NO,3.1,,,44,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190358,08/06/1989,9.5,NO,2.9,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,08/16/1989,11.5,NO,3.5,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,08/26/1989,12,NO,3.6,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,09/04/1989,10,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,09/13/1989,10,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,09/27/1989,10.25,NO,3.1,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,10/04/1989,10,NO,3,,,44,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,10/15/1989,13.25,NO,4,,,40,,,,,,GREEN,2-Very minor aesthetic problems
+8190358,10/25/1989,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,11/02/1989,17.25,NO,5.2,,,36,,,,,CLEAR,BLUE,
+1,11/19/1989,22,,6.7,,,33,,,,,,,
+8190358,04/22/1990,22,NO,6.7,,,33,,,,,CLEAR,BLUE,
+8190358,05/06/1990,20,NO,6.1,,,34,,,,,CLEAR,BLUE,
+8190358,06/10/1990,20,NO,6.1,,,34,,,,,CLEAR,BLUE,
+8190358,06/24/1990,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,07/03/1990,16,NO,4.9,,,37,,,,,,,2-Very minor aesthetic problems
+8190358,08/08/1990,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,11/02/1990,16.5,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190358,04/28/1991,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,07/01/1991,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190358,09/02/1991,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/11/1992,,,,,4,,39,,,,,,
+8190482,07/11/1992,20.5,NO,6.2,,,34,,,,,,GREEN,
+8190482,07/18/1992,21.5,NO,6.5,,,33,,,,,,GREEN,
+1,07/28/1992,54.1,,16.5,1.5,20,20,51,38,,,,,
+8190482,08/02/1992,14.25,NO,4.3,,,39,,,,,,GREEN,
+8190482,08/09/1992,12,NO,3.6,,,41,,,,,,GREEN,
+8190482,08/15/1992,11.5,NO,3.5,,,42,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+1,08/19/1992,37.7,,11.5,1.93,20,25,51,40,,,,,
+8190482,08/22/1992,8.5,NO,2.6,,,46,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,08/24/1992,6.5,NO,2,,,50,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,11/08/1992,16.5,NO,5,,,37,,,NO GAUGE,,,GREEN,1-Beautiful, could not be nicer
+1,05/12/1993,85.3,,26,1.12,4,13,39,36,,,,,
+8190482,05/22/1993,25.5,NO,7.8,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190482,05/29/1993,23,NO,7,,,32,,,,,,GREEN,1-Beautiful, could not be nicer
+8190482,06/05/1993,21,NO,6.4,,,33,,,,,,GREEN,1-Beautiful, could not be nicer
+8190482,06/13/1993,16,NO,4.9,,,37,,,,,,GREEN,2-Very minor aesthetic problems
+1,06/23/1993,54.1,,16.5,1.85,7,20,43,39,,,,,
+8190482,07/03/1993,16,NO,4.9,,,37,,,,,,GREEN,2-Very minor aesthetic problems
+8190482,07/17/1993,17,NO,5.2,,,36,,,,,,GREEN,2-Very minor aesthetic problems
+1,07/27/1993,13.4,,4.1,2.34,7,40,43,41,,,,,
+8190482,08/17/1993,12.5,NO,3.8,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+1,08/25/1993,13.1,,4,2.54,7,40,43,42,,,,,
+8190482,09/04/1993,12.5,NO,3.8,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+1,03/02/1994,,,,,4,,39,,,,,,
+1,04/19/1994,19,,5.8,1.41,4,35,39,37,,,,,
+8190482,05/21/1994,24,NO,7.3,,,31,,,NO GAUGE,,,GREEN,1-Beautiful, could not be nicer
+8190482,05/30/1994,21,NO,6.4,,,33,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,06/11/1994,16,NO,4.9,,,37,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,06/18/1994,12,NO,3.6,,,41,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,08/15/1994,6.5,NO,2,,,50,,,NO GAUGE,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190482,06/03/1995,8,NO,2.4,,,47,,,NO GAUGE,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190482,06/11/1995,11,NO,3.3,,,43,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,07/01/1995,12,NO,3.6,,,41,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,07/08/1995,11,NO,3.3,,,43,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,07/30/1995,8,NO,2.4,,,47,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8190482,08/16/1995,10,NO,3,,,44,,,NO GAUGE,,,GREEN,2-Very minor aesthetic problems
+8188554,08/04/2004,11,NO,3.3,,,43,,,NORMAL,3,CLEAR,GREEN,2-Very minor aesthetic problems
+8188554,08/12/2004,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188554,08/22/2004,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+116239331,11/08/2009,,,,,9,,45,,,,,,
+116239331,04/11/2010,,,,,6,,42,,,,,,
+116239331,11/07/2010,,,,,13,,48,,,,,,
+1,11/15/2010,15,,4.6,,15,38,49,,,,,,
+83119654,02/22/2011,,,,,,,,,,,,,
+116350785,02/22/2011,,,,,7,,43,,,,,,
+116239331,04/24/2011,,,,,6,,42,,,,,,
+83119654,04/25/2011,18,,5.5,,,35,,,,,,,
+83119654,06/13/2011,12.25,,3.7,,,41,,,,,,,
+1,06/15/2011,,,,,11,,47,,,,,,
+83119654,06/29/2011,15.25,,4.6,,,38,,,,,,,
+1,06/30/2011,,,,,7,,43,,,,,,
+83119654,07/18/2011,,,,,6,,42,,,,,,
+83119654,07/20/2011,9.5,,2.9,,,45,,,,,,,
+1,08/08/2011,,,,,15,,49,,,,,,
+83119654,08/08/2011,12.25,,3.7,,,41,,,,,,,
+1,10/24/2011,15.25,,4.6,,,38,,,,,,,
+116239331,11/14/2011,,,,,11,,47,,,,,,
+1,02/18/2012,,,,,6,,42,,,,,,
+116239089,02/19/2012,,,,,,,,,,,,,
+116239345,04/01/2012,,,,,6,,42,,,,,,
+1,05/04/2012,,,,,23,,52,,,,,,
+83119654,05/08/2012,14.25,,4.3,,,39,,,,,,,
+83119654,06/06/2012,17,,5.2,,,36,,,,,,,
+1,06/07/2012,,,,,22,,52,,,,,,
+1,06/26/2012,13.25,,4,,,40,,,,,,,
+1,07/16/2012,,,,,7,,43,,,,,,
+1,07/18/2012,10,,3,,,44,,,,,,,
+1,08/06/2012,,,,,13,,48,,,,,,
+1,08/08/2012,12,,3.6,,,41,,,,,,,
+1,08/27/2012,,,,,6,,42,,,,,,
+1,08/30/2012,15,,4.6,,,38,,,,,,,
+116239276,05/19/2013,,,,,6,,42,,,,,,
+140622595,04/27/2015,,,,,6,,42,,,,,,
+140622595,11/16/2015,,,,,11,,47,,,,,,
+140622595,04/12/2016,,,,,16,,50,,,,,,
+1,11/14/2016,,,,,12,,47,,,,,,
+1,04/10/2017,,,,,7,,43,,,,,,
+140622595,08/07/2018,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+140622595,08/29/2018,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+140622595,09/10/2018,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+140622595,09/18/2018,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+140622595,09/29/2018,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+140622595,05/02/2019,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+140622595,06/07/2019,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+140622595,06/29/2019,16,NO,4.9,,,37,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+140622595,05/22/2020,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+140622595,06/15/2020,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/02/1976,,,3.5,C,11.2,MG/L
+05/06/1976,,,10.5,C,10.5,MG/L
+08/09/1976,,,14,C,1.8,MG/L
+11/16/1976,,,3.7,C,14.2,MG/L
+06/11/1992,,,22,C,9.8,MG/L
+07/28/1992,,,23,C,9.2,MG/L
+08/19/1992,,,23.8,C,9.0,MG/L
+05/12/1993,,,20,C,1.2,MG/L
+06/23/1993,,,,,22.0,MG/L
+07/27/1993,,,24.5,C,1.5,MG/L
+08/25/1993,,,26,C,0.4,MG/L
+03/02/1994,,,0.1,C,1.1,MG/L
+04/19/1994,,,7,C,6.6,MG/L
+11/08/2009,,,36,F,,
+11/07/2010,,,49,F,,
+11/15/2010,,,7.86,C,7.44,MG/L
+02/22/2011,,,0.6,C,0.92,MG/L
+04/24/2011,,,51,F,,
+04/25/2011,,,5.5,C,11.97,MG/L
+06/13/2011,,,11.0,C,11.64,MG/L
+06/29/2011,,,10.4,C,11.38,MG/L
+07/20/2011,,,11.6,C,0.59,MG/L
+08/08/2011,,,10.5,C,1.41,MG/L
+10/24/2011,,,11.4,C,6.79,MG/L
+11/14/2011,,,45,F,,
+02/19/2012,,,1.7,C,3.86,MG/L
+05/08/2012,,,12.2,C,0.17,MG/L
+06/06/2012,,,12.7,C,11.25,MG/L
+06/26/2012,,,13.4,C,1.42,MG/L
+07/18/2012,,,11.0,C,10.18,MG/L
+08/08/2012,,,10.0,C,0.25,MG/L
+08/30/2012,,,11.3,C,0,MG/L
+04/27/2015,,,60,F,,
+11/16/2015,,,50,F,,
+11/14/2016,,,45,F,,
+04/10/2017,,,42,F,,
+
+
+
+Start Date,Fieldwork Comment
+03/02/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/06/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/09/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/16/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/18/1986,Clear and sunny.    
+06/29/1986,Clear sunny- much boating activity    
+07/02/1986,Clear sunny- some boating    
+07/20/1986,Partly cloudy- recent storm    
+08/02/1986,Sunny- min. wind- heavy boating activity- Assumed time was 12:00.    
+08/05/1986,Partly cloudy- mod. wind    
+08/10/1986,Sunny- slight wind- min. boating activity    
+08/23/1986,Sunny day- mild wind- some boating activity    
+09/22/1986,Cloudy- mild wind- and no boating activity on the lake.    
+10/02/1986,Sunny with a mild wind.  There is no boating on the lake.    
+10/25/1986,We went to end of the Secchi rope! Moderately windy and partly cloudy    
+11/01/1986,Sunny day- mild wind- and minimal boating.    
+05/17/1987,Secchi disc reached end of rope- crystal clear.    
+05/30/1987,Water crystal clear- the disc is at the end of the rope and is still clearly visible.    
+06/24/1987,Very sunny- mild wind- and little boating activity.    
+06/28/1987,Partly cloudy day- mild wind- and much boating activity.    
+07/01/1987,Clear- mild wind- and no boats.    
+07/08/1987,Partly sunny- moderate wind- and minimal boating activity.    
+07/22/1987,Algae bloom- partly sunny- windy- and there is minimal boating.    
+07/26/1987,Sunny- moderate wind- and some boating.    
+08/04/1987,Partly cloudy- quite windy- minimal boating.    
+08/23/1987,Sunny- little wind- minimal boating activity.    
+09/07/1987,Partly cloudy- little wind- moderate boating activity.    
+10/21/1987,Cloudy- last reading for 1987.    
+05/07/1988,Partly cloudy- little wind.    
+06/04/1988,Algal bloom- clear skies    
+06/06/1988,Algae bloom- clear skies    
+06/12/1988,No rain for 3 weeks.    
+07/08/1988,Windy- partly cloudy- hot/humid    
+07/20/1988,Cloudy- minimal boating activity    
+08/14/1988,Windy- much boating- sunny- hot    
+08/27/1988,Rained all morning- little wind- cloudy    
+04/16/1989,Windy- partly sunny- ice just went out    
+04/26/1989,Cloudy- no wind    
+05/03/1989,Rain yesterday- now partly sunny- windy- mild    
+05/18/1989,Evening sample- cloudy- rained earlier- rope only 22 ft.- clear 22+ ft.    
+05/28/1989,Windy- sunny    
+06/07/1989,Cloudy- mild wind    
+06/17/1989,Sunny    
+06/21/1989,Sunny- mild wind    
+07/05/1989,Sunny    
+07/15/1989,Clear- mild wind    
+07/20/1989,Partly sunny- rain last 2 days    
+07/30/1989,Rain- cloudy    
+08/06/1989,Partly cloudy- recent storms    
+08/16/1989,Sunny    
+08/26/1989,Cloudy    
+09/04/1989,Cloudy    
+09/13/1989,Sunny- mild wind    
+09/27/1989,Sunny    
+10/04/1989,Sunny- mild wind    
+10/15/1989,Cloudy    
+10/25/1989,Partly cloudy- 77 F    
+11/02/1989,Last reading.    
+04/22/1990,Reading over 22 feet    
+05/06/1990,Sunny    
+06/10/1990,Sunny- warm    
+06/24/1990,Sunny- windy    
+11/02/1990,Last reading.    
+04/28/1991,Clear- little wind- few boats    
+09/02/1991,Heavy boating activity    
+06/11/1992,lake water    
+07/18/1992,Tested on a Saturday.    
+07/28/1992,lake water    
+08/02/1992,Tested on a Sunday.    
+08/09/1992,Tested on a Sunday.    
+08/24/1992,Overcast and after rain storm.    
+05/12/1993,WI LAKE MANAGEMENT PLANNING GRANT    
+06/23/1993,WISC. LAKE MGMT. PLAN GRANT PROG.    
+07/27/1993,WI LAKE MGMT. PLAN. GRANT PROG.    
+08/25/1993,WISC. LAKE MGMT. PLAN GRANT PROG.    
+05/22/2020,First reading of season.Water was unusually murky.
+
+
+
+
+Start Date,Group Name,Project Name
+03/02/1976,Data Collectors,Migrated from STORET Legacy
+05/06/1976,Data Collectors,Migrated from STORET Legacy
+08/09/1976,Data Collectors,Migrated from STORET Legacy
+11/16/1976,Data Collectors,Migrated from STORET Legacy
+06/18/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/29/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/02/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/20/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/02/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/05/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/10/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/23/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/22/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+10/02/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+10/25/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+11/01/1986,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+04/18/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/17/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/30/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/24/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/28/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/01/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/08/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/22/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/26/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/04/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/23/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/07/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+10/21/1987,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/07/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/31/1988,L Timler,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/04/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/06/1988,L Timler,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/12/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/08/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/20/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/01/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/07/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/14/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/27/1988,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+04/16/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+04/26/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/03/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/18/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/28/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/07/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/17/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/21/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/05/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/15/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/20/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/30/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/06/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/16/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/26/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/04/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/13/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/27/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+10/04/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+10/15/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+10/25/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+11/02/1989,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+11/19/1989,Data Collectors,
+04/22/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/06/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/10/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/24/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/03/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/08/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+11/02/1990,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+04/28/1991,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/01/1991,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/02/1991,John Kuglitsch,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/11/1992,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+06/11/1992,Data Collectors,LAKE MGT PROJECTS
+07/11/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/18/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/28/1992,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+07/28/1992,Data Collectors,LAKE MGT PROJECTS
+08/02/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/09/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/15/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/19/1992,Data Collectors,LAKE MGT PROJECTS
+08/22/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/24/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+11/08/1992,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/12/1993,Data Collectors,LAKE MGT PROJECTS
+05/22/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/29/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/05/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/13/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/23/1993,Data Collectors,LAKE MGT PROJECTS
+07/03/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/17/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/27/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/17/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/25/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/04/1993,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+03/02/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+04/19/1994,Data Collectors,LAKE MANAGEMENT PROJECTS - 94
+05/21/1994,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/30/1994,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/11/1994,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/18/1994,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/15/1994,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/03/1995,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/11/1995,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/01/1995,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/08/1995,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+07/30/1995,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/16/1995,Bill Parker,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/04/2004,Joseph Alberti,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/12/2004,Joseph Alberti,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/22/2004,Joseph Alberti,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+11/08/2009,Michael Ales,
+04/11/2010,Michael Ales,
+11/07/2010,Michael Ales,
+11/15/2010,Data Collectors,
+02/22/2011,Ed Hernandez,
+02/22/2011,Ed Hernandez- Terry Liska,
+04/24/2011,Michael Ales,
+04/25/2011,Ed Hernandez,
+06/13/2011,Ed Hernandez,
+06/15/2011,Data Collectors,
+06/29/2011,Ed Hernandez,
+06/30/2011,Data Collectors,
+07/18/2011,Ed Hernandez,
+07/20/2011,Ed Hernandez,
+08/08/2011,Data Collectors,
+08/08/2011,Ed Hernandez,
+10/24/2011,Data Collectors,
+11/14/2011,Michael Ales,
+02/18/2012,Data Collectors,
+02/19/2012,Anthony Recht,
+04/01/2012,Ted Miller,
+05/04/2012,Data Collectors,
+05/08/2012,Ed Hernandez,
+06/06/2012,Ed Hernandez,
+06/07/2012,Data Collectors,
+06/26/2012,Data Collectors,
+07/16/2012,Data Collectors,
+07/18/2012,Data Collectors,
+08/06/2012,Data Collectors,
+08/08/2012,Data Collectors,
+08/27/2012,Data Collectors,
+08/30/2012,Data Collectors,
+05/19/2013,Kirk Cram,
+04/27/2015,George Louthain,
+11/16/2015,George Louthain,
+04/12/2016,George Louthain,
+11/14/2016,Data Collectors,
+04/10/2017,Data Collectors,
+08/07/2018,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+08/29/2018,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/10/2018,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/18/2018,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+09/29/2018,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/02/2019,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/07/2019,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/29/2019,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+05/22/2020,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole
+06/15/2020,George Louthain,Citizen Lake Monitoring - Water Quality - Johns Lake; Deep Hole

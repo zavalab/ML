@@ -1,0 +1,765 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lower Kaubashine Lake,Oneida,1534800,NO,44,,443215,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/01/1979,,,,,,,,,,,,,
+8191084,06/07/1986,9.5,NO,2.9,,,45,,,,,,GREEN,
+8191084,06/15/1986,10.75,NO,3.3,,,43,,,,,,GREEN,
+8191084,06/21/1986,10.25,NO,3.1,,,44,,,,,,GREEN,
+8191084,06/29/1986,12.5,NO,3.8,,,41,,,,,,GREEN,
+8191084,07/08/1986,13,NO,4,,,40,,,,,,GREEN,
+8191084,07/12/1986,11.25,NO,3.4,,,42,,,,,,GREEN,
+8191084,07/20/1986,10.25,NO,3.1,,,44,,,,,,GREEN,
+8191084,07/26/1986,12,NO,3.6,,,41,,,,,,GREEN,
+8191084,08/09/1986,9,NO,2.7,,,45,,,,,,GREEN,
+8191084,08/23/1986,8.5,NO,2.6,,,46,,,,,,GREEN,
+8191084,09/06/1986,6,NO,1.8,,,51,,,,,,BROWN,
+8191084,09/28/1986,8,NO,2.4,,,47,,,,,,BROWN,
+8191084,05/09/1987,9.5,NO,2.9,,,45,,,3-4" LOW,,,GREEN,
+8191084,05/16/1987,13,NO,4,,,40,,,3-4" LOW,,,GREEN,
+8191084,05/30/1987,11.5,NO,3.5,,,42,,,1-2" LOW,,,GREEN,
+8191084,06/13/1987,14,NO,4.3,,,39,,,,,,GREEN,
+8191084,06/28/1987,11.5,NO,3.5,,,42,,,NORMAL,,,GREEN,
+8191084,07/05/1987,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,
+8191084,07/19/1987,10.25,NO,3.1,,,44,,,,,,GREEN,
+8191084,08/08/1987,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,
+8191084,08/16/1987,8.25,NO,2.5,,,47,,,NORMAL,,,GREEN,
+8191084,08/22/1987,6.75,NO,2.1,,,50,,,NORMAL,,,GREEN,
+8191084,08/26/1987,7.25,NO,2.2,,,49,,,NORMAL,,,GREEN,
+8191084,08/31/1987,6.5,NO,2,,,50,,,NORMAL,,,GREEN,
+8191084,09/12/1987,7,NO,2.1,,,49,,,NORMAL,,,GREEN,
+8191084,09/27/1987,7.25,NO,2.2,,,49,,,DOWN 5",,,GREEN,
+8191084,10/04/1987,8.5,NO,2.6,,,46,,,,,,GREEN,
+8191084,10/25/1987,7.25,NO,2.2,,,49,,,NORMAL,,,GREEN,
+8191084,05/08/1988,12.5,NO,3.8,,,41,,,1" LOW,,,GREEN,1-Beautiful, could not be nicer
+8191084,05/14/1988,11.75,NO,3.6,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8191084,05/22/1988,12.5,NO,3.8,,,41,,,,,,GREEN,2-Very minor aesthetic problems
+8191084,06/11/1988,14,NO,4.3,,,39,,,,,,BLUE/GREEN,2-Very minor aesthetic problems
+8191084,06/19/1988,15,NO,4.6,,,38,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8191084,06/25/1988,15,NO,4.6,,,38,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/17/1988,12.25,NO,3.7,,,41,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/30/1988,13,NO,4,,,40,,,7" LOW,,,GREEN,2-Very minor aesthetic problems
+8191084,08/07/1988,12.5,NO,3.8,,,41,,,7'8" LOW,,,GREEN,2-Very minor aesthetic problems
+8191084,08/21/1988,11,NO,3.3,,,43,,,6-7" LOW,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/28/1988,11.5,NO,3.5,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8191084,05/14/1989,13,NO,4,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,05/21/1989,16.25,NO,4.9,,,37,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,05/28/1989,15.75,NO,4.8,,,37,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,06/11/1989,13.25,NO,4,,,40,,,,,,GREEN,1-Beautiful, could not be nicer
+8191084,06/18/1989,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,
+8191084,07/02/1989,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,
+8191084,07/09/1989,11,NO,3.3,,,43,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/16/1989,12,NO,3.6,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/22/1989,13,NO,4,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/30/1989,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,08/13/1989,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,08/20/1989,10.25,NO,3.1,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,08/26/1989,10.75,NO,3.3,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,09/24/1989,7,NO,2.1,,,49,,,-4 IN.,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,10/01/1989,7.75,NO,2.4,,,48,,,-3-4 IN.,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,05/26/1990,11,NO,3.3,,,43,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,06/02/1990,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,06/09/1990,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/04/1990,14,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/09/1990,14.25,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/15/1990,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/21/1990,14.5,NO,4.4,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/28/1990,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/05/1990,12.75,NO,3.9,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,08/12/1990,11.5,NO,3.5,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,09/30/1990,10.25,NO,3.1,,,44,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,10/13/1990,10.75,NO,3.3,,,43,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,05/27/1991,13,NO,4,,,40,,,HIGH 4-5",,,GREEN,2-Very minor aesthetic problems
+8191084,06/07/1991,14.75,NO,4.5,,,38,,,HIGH 3-4",,,GREEN,2-Very minor aesthetic problems
+8191084,06/16/1991,13.25,NO,4,,,40,,,HIGH 2-4",,,GREEN,1-Beautiful, could not be nicer
+8191084,06/22/1991,15.25,NO,4.6,,,38,,,HIGH 2-4",,,GREEN,1-Beautiful, could not be nicer
+8191084,06/28/1991,14.75,NO,4.5,,,38,,,HIGH 2-4",,,GREEN,1-Beautiful, could not be nicer
+8191084,07/04/1991,14.75,NO,4.5,,,38,,,HIGH 2-4",,,GREEN,1-Beautiful, could not be nicer
+8191084,07/13/1991,12.75,NO,3.9,,,40,,,HIGH 2",,,GREEN,1-Beautiful, could not be nicer
+8191084,07/19/1991,13,NO,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,08/04/1991,12.75,NO,3.9,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/10/1991,14.75,NO,4.5,,,38,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/17/1991,14.75,NO,4.5,,,38,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/24/1991,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,09/02/1991,14.5,NO,4.4,,,39,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,09/08/1991,14,NO,4.3,,,39,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,09/14/1991,13.25,NO,4,,,40,,,NORMAL,,,,2-Very minor aesthetic problems
+8191084,09/21/1991,9.75,NO,3,,,44,,,HIGH 3-4",,,BROWN,2-Very minor aesthetic problems
+8191084,05/24/1992,16.5,NO,5,,,37,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,05/31/1992,17.25,NO,5.2,,,36,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8191084,06/07/1992,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,06/20/1992,14.25,NO,4.3,,,39,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,06/28/1992,15.75,NO,4.8,,,37,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/05/1992,11.75,NO,3.6,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/12/1992,13,NO,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/19/1992,12.75,NO,3.9,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/26/1992,14.25,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/01/1992,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/09/1992,12.75,NO,3.9,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/15/1992,14.25,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/22/1992,14,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/29/1992,13,NO,4,,,40,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,09/06/1992,10.5,NO,3.2,,,43,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8191084,09/19/1992,10.25,NO,3.1,,,44,,,2-4"HIGH,,,GREEN,2-Very minor aesthetic problems
+8191084,09/26/1992,11.5,NO,3.5,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,10/03/1992,11.75,NO,3.6,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,10/24/1992,10.25,NO,3.1,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,05/29/1993,18.75,NO,5.7,,,35,,,2-3" HIGH,,,GREEN,2-Very minor aesthetic problems
+8191084,06/05/1993,19.25,NO,5.9,,,35,,,2-3" HIGH,,,GREEN,2-Very minor aesthetic problems
+8191084,07/10/1993,14.75,NO,4.5,,,38,,,8-9" HIGH,,,GREEN,2-Very minor aesthetic problems
+8191084,07/18/1993,13,NO,4,,,40,,,5-6" HIGH,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/28/1993,17,NO,5.2,,,36,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,09/05/1993,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,09/25/1993,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,10/02/1993,11.25,NO,3.4,,,42,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,09/24/1994,13,NO,4,,,40,,,6" HIGH,,,GREEN,2-Very minor aesthetic problems
+8190565,05/29/1995,12,NO,3.6,4.94,10,41,46,47,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,06/11/1995,14,NO,4.3,,,39,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,06/18/1995,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191084,06/24/1995,13,NO,4,1.1,7,40,43,36,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191084,07/02/1995,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/09/1995,14,NO,4.3,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/16/1995,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190565,07/23/1995,13.5,NO,4.1,0.03,12,40,47,8,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/06/1995,14.5,NO,4.4,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190565,09/02/1995,12,NO,3.6,4.69,14,41,49,46,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191084,09/10/1995,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191084,09/23/1995,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191084,10/01/1995,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190565,10/08/1995,7.5,NO,2.3,11.5,13,48,48,53,6" HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190565,05/18/1996,6.25,NO,1.9,,,51,,,6-8" HIGH,,,BROWN,1-Beautiful, could not be nicer
+8191084,05/27/1996,8.5,NO,2.6,5.79,34,46,55,48,HIGH,9,MURKY,BROWN,1-Beautiful, could not be nicer
+8190565,06/02/1996,10.5,NO,3.2,,,43,,,6" HIGH,,,BROWN,1-Beautiful, could not be nicer
+8191084,06/09/1996,13.25,NO,4,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,06/15/1996,13,NO,4,3.14,8,40,44,43,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/07/1996,15,NO,4.6,,,38,,,6" HIGH,,,,1-Beautiful, could not be nicer
+8191084,07/13/1996,13,NO,4,5.41,9,40,45,48,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8191084,07/20/1996,12.25,NO,3.7,,,41,,,6" HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190565,08/10/1996,11.5,NO,3.5,,,42,,,6" HIGH,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/18/1996,15,NO,4.6,3.08,10,38,46,43,,,,GREEN,1-Beautiful, could not be nicer
+8191084,08/24/1996,14.25,NO,4.3,,,39,,,4-6" HIGH,,,GREEN,1-Beautiful, could not be nicer
+8191084,09/02/1996,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,09/08/1996,13.25,NO,4,,,40,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191084,10/13/1996,10.75,NO,3.3,7.31,14,43,49,50,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8188933,06/27/2003,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,07/03/2003,50,NO,15.2,,,21,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,07/15/2003,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,07/23/2003,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,08/02/2003,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,08/12/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,08/25/2003,10.25,NO,3.1,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,09/05/2003,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188933,09/16/2003,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,06/21/2004,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,06/29/2004,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188933,07/14/2004,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188933,07/26/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,08/03/2004,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188933,08/20/2004,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188933,08/31/2004,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188933,09/09/2004,11.75,NO,3.6,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,09/21/2004,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188933,06/11/2005,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,06/25/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188933,07/14/2005,14.25,NO,4.3,,,39,,,NORMAL,1.6,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,08/04/2005,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188933,08/31/2005,8.25,NO,2.5,,,47,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188933,09/16/2005,9,NO,2.7,,,45,,,LOW,1681.22,MURKY,BROWN,2-Very minor aesthetic problems
+8188933,09/27/2005,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16097248,07/06/2006,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/25/2006,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,08/09/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,09/03/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,09/25/2006,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,10/15/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,06/29/2007,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/06/2007,12,NO,3.6,,,41,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16097248,07/16/2007,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/30/2007,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,08/17/2007,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,08/31/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,09/24/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,10/25/2007,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/05/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,06/03/2009,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/13/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,08/02/2009,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,09/05/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16097248,10/03/2009,9.5,NO,2.9,,,45,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097248,06/13/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/12/2010,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16097248,08/07/2010,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,09/10/2010,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,06/02/2011,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,06/28/2011,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/12/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/23/2011,11.5,NO,3.5,,,42,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+16097248,09/23/2011,11,NO,3.3,,,43,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+16097248,06/19/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16097248,07/29/2012,10.5,NO,3.2,,,43,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097248,08/12/2012,10.75,NO,3.3,,,43,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16097248,09/13/2012,11.25,NO,3.4,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16097248,06/19/2013,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,
+18138562,07/17/2013,15.25,NO,4.6,,,38,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16097248,07/24/2013,11,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16097248,08/25/2013,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+146495301,07/13/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+146495301,07/28/2017,12.4,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146495301,08/12/2017,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146495301,08/31/2017,11.1,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146495301,09/21/2017,12.2,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+146495301,10/07/2017,10.2,NO,3.1,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+146495301,05/20/2018,10.9,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/03/2018,,,,,,,,,,,,,
+146495301,06/05/2018,14.9,NO,4.5,,,38,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,06/07/2018,,,,,,,,,,,,,
+146495301,06/20/2018,10.3,NO,3.1,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,06/21/2018,,,,,,,,,,,,,
+146495301,07/09/2018,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,07/19/2018,,,,,,,,,,,,,
+146495301,07/22/2018,11.9,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+146495301,08/15/2018,13.6,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+146495301,09/02/2018,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,09/08/2018,,,,,,,,,,,,,
+146495301,09/16/2018,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+146495301,10/02/2018,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+146495301,05/29/2019,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+146495301,07/18/2019,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+146495301,08/03/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+146495301,08/11/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+146495301,08/27/2019,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+146495301,09/12/2019,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+146495301,05/25/2020,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+146495301,06/02/2020,13.3,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+146495301,07/28/2020,12,NO,3.6,,,41,,,HIGH,,MURKY,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/01/1979,,,23.5,C,,
+05/29/1995,1,FEET,58,DEGREES F,,
+05/29/1995,3,FEET,58,DEGREES F,,
+05/29/1995,9,FEET,57,DEGREES F,,
+05/29/1995,15,FEET,57,DEGREES F,,
+05/29/1995,20,FEET,57,DEGREES F,,
+05/29/1995,24,FEET,57,DEGREES F,,
+06/24/1995,1,FEET,83,DEGREES F,,
+06/24/1995,3,FEET,82,DEGREES F,,
+06/24/1995,9,FEET,78,DEGREES F,,
+06/24/1995,15,FEET,76,DEGREES F,,
+06/24/1995,20,FEET,61,DEGREES F,,
+06/24/1995,24,FEET,58,DEGREES F,,
+07/23/1995,1,FEET,85,DEGREES F,,
+07/23/1995,3,FEET,75,DEGREES F,,
+07/23/1995,9,FEET,74,DEGREES F,,
+07/23/1995,15,FEET,70,DEGREES F,,
+07/23/1995,20,FEET,58,DEGREES F,,
+07/23/1995,24,FEET,56,DEGREES F,,
+09/02/1995,1,FEET,73,DEGREES F,,
+09/02/1995,3,FEET,73,DEGREES F,,
+09/02/1995,9,FEET,72,DEGREES F,,
+09/02/1995,15,FEET,71,DEGREES F,,
+09/02/1995,20,FEET,61,DEGREES F,,
+09/02/1995,24,FEET,56,DEGREES F,,
+10/08/1995,1,FEET,57,DEGREES F,,
+10/08/1995,3,FEET,56,DEGREES F,,
+10/08/1995,9,FEET,55,DEGREES F,,
+10/08/1995,15,FEET,55,DEGREES F,,
+10/08/1995,20,FEET,54,DEGREES F,,
+10/08/1995,24,FEET,54,DEGREES F,,
+05/27/1996,3,FEET,59,DEGREES F,11,MG/L
+05/27/1996,6,FEET,58,DEGREES F,12,MG/L
+05/27/1996,9,FEET,57,DEGREES F,11,MG/L
+05/27/1996,15,FEET,48,DEGREES F,7,MG/L
+05/27/1996,20,FEET,47,DEGREES F,4,MG/L
+05/27/1996,24,FEET,45,DEGREES F,4,MG/L
+06/15/1996,3,FEET,74,DEGREES F,10,MG/L
+06/15/1996,6,FEET,73,DEGREES F,9,MG/L
+06/15/1996,9,FEET,66,DEGREES F,10,MG/L
+06/15/1996,15,FEET,58,DEGREES F,9,MG/L
+06/15/1996,20,FEET,52,DEGREES F,6,MG/L
+06/15/1996,24,FEET,50,DEGREES F,1,MG/L
+07/13/1996,3,FEET,69,DEGREES F,8,MG/L
+07/13/1996,6,FEET,69,DEGREES F,8,MG/L
+07/13/1996,9,FEET,68,DEGREES F,8,MG/L
+07/13/1996,15,FEET,63,DEGREES F,10,MG/L
+07/13/1996,20,FEET,54,DEGREES F,2,MG/L
+07/13/1996,24,FEET,52,DEGREES F,1,MG/L
+08/18/1996,3,FEET,74,DEGREES F,7,MG/L
+08/18/1996,6,FEET,73,DEGREES F,7,MG/L
+08/18/1996,9,FEET,71,DEGREES F,7,MG/L
+08/18/1996,15,FEET,69,DEGREES F,6,MG/L
+08/18/1996,20,FEET,58,DEGREES F,1,MG/L
+08/18/1996,24,FEET,54,DEGREES F,0,MG/L
+10/13/1996,3,FEET,53,DEGREES F,10,MG/L
+10/13/1996,6,FEET,52,DEGREES F,10,MG/L
+10/13/1996,9,FEET,52,DEGREES F,10,MG/L
+10/13/1996,15,FEET,51,DEGREES F,9,MG/L
+10/13/1996,20,FEET,51,DEGREES F,8,MG/L
+10/13/1996,24,FEET,51,DEGREES F,9,MG/L
+06/03/2018,,,20.6,C,,
+06/07/2018,,,20.0,C,,
+06/21/2018,,,24.4,C,,
+07/19/2018,,,25.6,C,,
+09/08/2018,,,20.6,C,,
+
+
+
+Start Date,Fieldwork Comment
+08/01/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/29/1986,Partly cloudy    
+07/08/1986,Partly cloudy    
+07/12/1986,Partly cloudy    
+07/20/1986,Partly sunny    
+07/26/1986,Partly cloudy    
+08/09/1986,Sunny    
+08/23/1986,Partly cloudy    
+09/06/1986,Sunny    
+09/28/1986,Last report.    
+05/09/1987,Partly cloudy    
+05/16/1987,Clear    
+05/30/1987,Partly cloudy.    
+06/13/1987,Clear.    
+06/28/1987,Partly cloudy.    
+07/05/1987,Clear.    
+07/19/1987,Partly cloudy.    
+08/08/1987,Partly cloudy.    
+08/16/1987,Clear.    
+08/22/1987,Partly cloudy.    
+08/26/1987,Partly cloudy.    
+08/31/1987,Clear.    
+09/12/1987,Partly cloudy.    
+09/27/1987,Clear.    
+10/04/1987,Clear.    
+10/25/1987,Partly cloudy to clear- last reading.    
+05/08/1988,Partly cloudy- clear.    
+05/14/1988,Sunny when reading taken- partly cloudy.    
+05/22/1988,Partly cloudy- clear when taken    
+06/11/1988,Partly cloudy.    
+06/19/1988,Partly cloudy- sunny when taken    
+06/25/1988,Partly cloudy- clear when reading was taken    
+07/30/1988,Clear    
+08/07/1988,Clear/hot    
+08/21/1988,Pt. cloudy    
+08/28/1988,Pt. cloudy- windy    
+05/14/1989,Partly cloudy- beautiful day    
+05/21/1989,Clear    
+05/28/1989,Clear    
+06/11/1989,Clear    
+07/02/1989,Partly cloudy    
+07/09/1989,Partly cloudy    
+07/16/1989,Clear- sunny    
+07/22/1989,Clear    
+07/30/1989,Clear    
+08/13/1989,Partly cloudy    
+08/20/1989,Partly cloudy    
+08/26/1989,Partly cloudy    
+09/24/1989,Partly cloudy- windy- water didn't look clear like normal    
+10/01/1989,Clear- sunny- windy    
+06/02/1990,Partly sunny    
+06/09/1990,Sunny    
+07/04/1990,Hazy    
+07/09/1990,Partly sunny- humid    
+07/15/1990,Cloudy    
+07/21/1990,Sunny    
+07/28/1990,Partly sunny    
+08/12/1990,Partly sunny- cool- 2-3" rain 3 days ago    
+09/30/1990,Partly sunny    
+10/13/1990,Sunny- windy- last reading    
+05/27/1991,Partly cloudy    
+06/07/1991,Partly cloudy    
+06/16/1991,Sunny    
+06/22/1991,Partly cloudy- a great day    
+06/28/1991,Partly cloudy- hot- humid    
+07/04/1991,Partly cloudy- nice day    
+07/13/1991,Partly cloudy- 73 F    
+07/19/1991,Partly cloudy- 83 F    
+08/04/1991,Partly cloudy    
+08/10/1991,Partly cloudy    
+08/17/1991,Partly cloudy- a nice day    
+08/24/1991,Partly cloudy    
+09/02/1991,Partly cloudy    
+09/08/1991,Partly cloudy    
+09/14/1991,Clear    
+09/21/1991,Water appears to be stirred up- a lot of rain this last week.    
+05/24/1992,Partly sunny.    
+05/31/1992,Clear sky.  Water level: up slightly    
+06/07/1992,Partly cloudy.    
+06/20/1992,Clear.    
+06/28/1992,A few clouds.    
+07/05/1992,Partly cloudy.    
+07/12/1992,Partly cloudy.    
+07/19/1992,Partly sunny.    
+07/26/1992,Clear.    
+08/01/1992,Partly cloudy.    
+08/09/1992,Clear.    
+08/15/1992,A few clouds- cool nights.    
+08/29/1992,Partly sunny.    
+09/06/1992,Sunny- had 2-3" of rain in the last five days.  Water level up up 2-4"    
+09/19/1992,Partly sunny- had a couple of inches of rain during the last week.    
+09/26/1992,Partly sunny.    
+10/03/1992,Sunny.    
+10/24/1992,Partly sunny- last card for the season.    
+05/29/1993,Best reading ever! little boating    
+06/05/1993,Partly cloudy- this is the deepest reading ever!    
+07/10/1993,Sunny- beautiful day    
+07/18/1993,Partly sunny    
+08/28/1993,Partly sunny- beautiful day    
+09/05/1993,Partly sunny- cool- beautiful day.    
+09/25/1993,Sunny- beautiful fall day.    
+10/02/1993,Sunny- very cold.    
+09/24/1994,Great fall day.    
+05/29/1995,Sunny- pollen on the water    
+06/11/1995,Partly cloudy- slight breeze.    
+06/18/1995,Sunny- algae on lake.    
+06/24/1995,Sunny- some algae on the water by the shore in the last 5 days record highs.    
+07/02/1995,Water cleared up a bit since algal bloom is gone.  Partly sunny.    
+07/09/1995,Sunny.    
+07/16/1995,Quite a bit of rain in last 24 hours- partly cloudy.    
+07/23/1995,Beautiful day- slight breeze.    
+08/06/1995,Partly sunny.    
+09/02/1995,Sunny- beautiful day.    
+09/10/1995,Clear beautiful day.    
+10/01/1995,Cloudy- rained past 2 days.    
+10/08/1995,Sunny- leaves falling.    
+05/18/1996,Ice went off about 10 days ago. Sunny.    
+05/27/1996,Partly sunny- water not as clear as previous years.  Water level: 9" high    
+06/02/1996,Partly cloudy    
+06/15/1996,Perfect day- algae on the lake    
+07/07/1996,A great day.    
+07/13/1996,Partly cloudy- cool day.    
+07/20/1996,More lake activity this week. personal watercraft activity above average. rained quite hard a couple days ago.    
+08/10/1996,Partly sunny- cool- lot of rain in last two weeks.    
+08/18/1996,Beautiful clear day.    
+08/24/1996,Clear- great day.    
+09/02/1996,Partly sunny- windy.    
+09/08/1996,Cloudy.    
+10/13/1996,Partly cloudy- beautiful fall day.    
+06/27/2003,Partly cloudy- 5-7 mph NW wind.    
+07/03/2003,50% clouds- rained on 7/2- so water is slightly murky.    
+07/15/2003,Cloudy- overcast. Water choppy. North wind at 10 knots.    
+07/23/2003,Partly cloudy- water ripples. North wind at 5 knots.    
+08/02/2003,Partly cloudy- water ripples- NW wind at 8 knots.    
+08/12/2003,Bright and sunny. Water quiet. SW wind at 2 knots.    
+08/25/2003,Bright and sunny. Water ripples. SE wind at 2 knots.    
+09/05/2003,Bright and sunny. Small ripples. NW wind at 2 knots.    
+09/16/2003,Bright and sunny. Small ripples. SE wind at 5 knots.    
+06/21/2004,90% cloud cover- wind 10-12 mph West.  Depth 32 ft.    
+06/29/2004,Sun bright- partly cloudy.  Wind 5-6 mph NW.  Depth 27 ft.    
+07/14/2004,Sunny- partly cloudy 40%.  Choppy- 10-12 mph NW.  Depth 30 ft.    
+07/26/2004,Sunny- partly cloudy 50%- smooth - no wind - depth 27'.    
+08/03/2004,Very cloudy- looks like rain.  Smooth - no wind.  Depth 28 ft.    
+08/20/2004,Bright sun- west wind.  Water choppy.    
+08/31/2004,Overcast- cloudy 100%.  No wind.  Water smooth.  Depth 27 ft.    
+09/09/2004,Bright- sunny- no clouds.  Light wind.  0-5 mph.    
+09/21/2004,Bright- sunny- no clouds.  Wind West 7-8 mph.  Small ripples.  Depth 30 ft.  Boat out.    
+06/11/2005,Partly cloudy- 30% coverage.  Depth 30'.  Wind 10-12 mph.  South winds.    
+06/25/2005,Partly cloudy- 15%.  Depth 30'.  Wind 5 south.  Ripples.    
+07/14/2005,Clear- sunny- no clouds.  Depth 30'.  Wind 5 mph or less.  Slight ripples.    
+08/04/2005,Clear- sunny- little puffy clouds.  Depth 33 Ft.  Wind NW 15 mph.    
+08/31/2005,Very clear- sunny- 5% puffy clouds.  Depth 30 ft.  Wind SE 2 mph.    
+09/16/2005,Clear sky- no clouds.  Sunny.  Depth 32'.  Wind W 5 mph.    
+09/27/2005,Sunny- cloudy 75%.  Depth from 28-30 ft.  Very rough.  Wind 15 mph SW.    
+07/06/2006,Air 81- Water- 75- Humidity 30%- Barom 30- 26HG- sunny- light clouds- Wind: SSW 0-5mph- loon parents and 2 babies on lake
+07/25/2006,air 86F- Water 77F- Humidity 45F Barom 29.79- falling- SSW wind 5-10mph- partly cloudy- lake 9-12" low
+08/09/2006,5-10mph- S wind- partly cloudy- water 76F air 82F- Barom 30.03- Hvy boat traffic- .5" of rain since last read.
+09/03/2006,2 loons on lake- osprey- very calm- wind SE 0-5mph- H2O temp 70F- Air 71- Barom 30.17- falling- minimal boat traffic.
+09/25/2006,Air 62- H2O 58- NW wind 10-15mph- sunny- scattered cumulus- barometer 29.88 steady- colors starting- lake ready to turn over soon.
+10/15/2006,air 52F- water 45F-  partly cloudy- lt chop on water- barom 29.88- steady- 2 eagles- 2 loons on lake- post turnover- wind SW 5-10mph
+06/29/2007,Sunny- clear- blue skies.  Scattered clouds (cirrus).  Very calm.  0-5 mph.  Baro 30.20 Hg.  Humidity 25%.  Low boat activity.  
+07/06/2007,Partly cloudy (cumulus).  Water 74 F.  Air 83 F.  Barometer 30.06 falling.  Wind 0-5 mph.  Heavy recreational boat traffic.  6-8 tubing boats- 1 jet ski.  Much boat wakes.
+07/16/2007,Water temp 72 F.  Air 74 F.  Partly cloudy - cumulus.  Wind S at 5-10 mph.  Barometer of 29.97 Hg falling.  Humidity 39%.  2 ski boats running lake.
+07/30/2007,Clear- warm - sunny- calm.  Air temp 83 F.  Barometer 30.06.  Wind SW 5-10 mph.
+08/17/2007,Clear- cooler.  Mostly sunny.  Air temp 67 F.  Barometer 30.15 Hg.  Wind NE 5-10 mph.
+08/31/2007,Warm- partly cloudy.  Air temp 74 F.  Barometer 30.19 Hg.  Winds S 0-5 mph.
+09/24/2007,Partly cloudy- windy.  Earlier rain.  Air temp 77 F.  Barometer 29.90 Hg.  Winds S 5-10 mph.
+10/25/2007,Sunny- clear skies.  Air temp 51 F.  Water temp 49 F.  Barometer 30.25 Hg.  SW wind 10-15 mph.
+06/03/2009,Clear- air temperature 65 degrees. Wind SE at 5-10 MPH. Barometer falling 29.89 inches of mercury.
+07/13/2009,Clear and sunny. Air temperature 70 degrees. Wind 5-10 MPH. Barometer 30.10 inches of mercury.
+08/02/2009,Clear skies- air temperature 67 degrees. Winds 5-10 MPH. Barometer 29.82 inches of mercury.
+09/05/2009,Clear blue skies. Scattered clouds. Air 75 degrees. SW wind at 5 MPH.
+10/03/2009,Lake turning over. Breezy winds 10-15 MPH. Air 53 degrees.
+08/07/2010,Mostly cloudy- warm (78 degrees)- humid- steady and moderate winds.  Barometer at 29.85 inches.  Winds SE.   Water temp 76 degrees.
+09/10/2010,Warm.  SE winds 5-15 mph.  Barometer 30.00 inches.  Air temp 63 degrees.  Water temperature 67 degrees.
+06/02/2011,clear- scattered clouds- temp. 60 degrees- 10-15 mph winds from SE. Water temp. 63 degrees
+06/28/2011,water temp. 65 degrees- overcast- north wind 5-10 mph- air temp. 67 degrees- rising barometric pressure
+07/12/2011,water temp. 78 degrees- partly cloudy- sunshine- air temp. 69 degrees- barometer: 30.09 HG
+07/23/2011,morning: heavy rain- air temp 75 degrees- water temp. 79 degrees
+09/23/2011,on + off drizzles all day- cloudy- air temp. 54 degrees- water temp. 60 degrees
+06/19/2012,AM rain storms - PM clearing to partly cloudy and sunny. water temp. 73 degrees- air temp. 80 degrees- wind n/w 10-15
+07/29/2012,very heavy boat traffic on lake all month- a lot of big ski boats- plant matter suspended in water- murky
+08/12/2012,boat traffic - recreational - still heavy- lake 1-2' ft low due to beavers damming up the inlet creek
+09/13/2012,boat traffic lighter- water level still way low
+06/19/2013,Clear calm water- air temp 80f- water temp 80f- steady barometer
+07/17/2013,The air was warm.  There were three loons.
+07/24/2013,Partly cloudy- light winds- air temp 71f- water temp 74f
+08/25/2013,Blue bird skies- warm- light winds- air temp 64f- water temp 66f
+07/28/2017,Mostly Sunny- Air Temp 75- Water Temp 78. No wind
+08/12/2017,High press in area- sunny- air temp 54- water temp 69- light wind out of the west- no boat traffic
+09/21/2017,Sunny skies- Air temp 67- water temp 66- no traffic on lake- light southern winds.
+10/07/2017,Heavy overcast and heavy rain fall. Air temp 60 and water temp 62.
+05/20/2018,Sunny with a few light clouds. Air temp 64- water temp 62.2
+Very little boat traffic
+06/05/2018,Clear and sunny sky. Air temp 51 and water temp 65. Almost no boat traffic. We observed for the first time on 6/04 a fish kill on blue gills. The DNR was notified of the issue.
+06/20/2018,Mostly cloudy- air temp 68- water temp 72- lake level up 8" after the rain from 6/15 to 6/17.
+
+
+
+
+07/09/2018,Clear and Sunny- clam winds- Air temp 71- water temp 77 
+07/22/2018,Partly cloudy- air temp 69- water temp 73- very little boat traffic. We had 1.5" of rain Thurs/Fri.
+
+08/15/2018,Partly cloudy skies- Air Temp 77- water temp 76- very little boat traffic. Light to heavy fog in early morning hours for the past 7 days.
+09/02/2018,Partly cloudy- water temp 70- rain 
+09/16/2018,Mostly Sunny- air temp 80- water temp 75. No boat traffic.
+10/02/2018,Heavy cloud cover- air temp 50- water temp 56.
+no boat trffic
+05/29/2019,Clear and Sunny- Water Temp 58- Air Temp 63- Light wind- Very Little Boat traffic
+07/18/2019,Partly Cloudy- Air Temp 78- Water Temp 78- Winds out of the SSW at 8 
+08/03/2019,Partly Cloudy - water temp 80- air temp 79- very little boat traffic
+08/11/2019,Partly Cloudy- Light winds- Air Temp 73- Water Temp 76
+08/27/2019,Cloudy and very windy. Air 64 water 69
+09/12/2019,Heavy Cloud cover- Air temp 53- Water temp 62- Windy SSE @ 5 to 10mph
+05/25/2020,Partly cloudy- air temp 75- water temp m70
+06/02/2020,Partly Cloudy- very humid- air temp 83- water temp 69 
+07/28/2020,After several days of heavy rain the water is a little murky. Part cloudy- water temp 74 and air temp 68
+
+
+
+
+Start Date,Group Name,Project Name
+08/01/1979,Data Collectors,Migrated from STORET Legacy
+06/07/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/15/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/21/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/29/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/08/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/12/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/20/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/26/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/09/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/23/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/06/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/28/1986,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/09/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/16/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/30/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/13/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/28/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/05/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/19/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/08/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/16/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/22/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/26/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/31/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/12/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/27/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/04/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/25/1987,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/08/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/14/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/22/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/11/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/19/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/25/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/17/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/30/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/07/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/21/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/28/1988,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/14/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/21/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/28/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/11/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/18/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/02/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/09/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/16/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/22/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/30/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/13/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/20/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/26/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/24/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/01/1989,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/26/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/02/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/09/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/04/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/09/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/15/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/21/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/28/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/05/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/12/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/30/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/13/1990,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/27/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/07/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/16/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/22/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/28/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/04/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/13/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/19/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/04/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/10/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/17/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/24/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/02/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/08/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/14/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/21/1991,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/24/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/31/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/07/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/20/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/28/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/05/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/12/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/19/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/26/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/01/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/09/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/15/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/22/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/29/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/06/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/19/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/26/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/03/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/24/1992,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/29/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/05/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/10/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/18/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/28/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/05/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/25/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/02/1993,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/24/1994,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/29/1995,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/11/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/18/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/24/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/02/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/09/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/16/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/23/1995,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/06/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/02/1995,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/10/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/23/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/01/1995,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/08/1995,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/18/1996,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/27/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/02/1996,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/09/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/15/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/07/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/13/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/20/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/10/1996,Jack Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/18/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/24/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/02/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/08/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/13/1996,Jack And Greg Schlaefer,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/27/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/03/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/15/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/23/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/02/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/12/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/25/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/05/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/16/2003,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/21/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/29/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/14/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/26/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/03/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/20/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/31/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/09/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/21/2004,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/11/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/25/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/14/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/04/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/31/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/16/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/27/2005,William Gottlieb,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/06/2006,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/25/2006,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/09/2006,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/03/2006,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/25/2006,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/15/2006,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/29/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/06/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/16/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/30/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/17/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/31/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/24/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/25/2007,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/05/2008,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/03/2009,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/13/2009,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/02/2009,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/05/2009,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/03/2009,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/13/2010,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/12/2010,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/07/2010,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/10/2010,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/02/2011,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/28/2011,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/12/2011,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/23/2011,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/23/2011,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/19/2012,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/29/2012,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/12/2012,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/13/2012,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/19/2013,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/17/2013,Marlene Lueth,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/24/2013,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/25/2013,John Burscheid,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/13/2017,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/28/2017,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/12/2017,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/31/2017,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/21/2017,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/07/2017,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/20/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/03/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+06/05/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/07/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+06/20/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/21/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+07/09/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/19/2018,Data Collectors,Herbicide Concentration Monitoring
+07/22/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/15/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/02/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/08/2018,Data Collectors,Herbicide Concentration Monitoring
+09/16/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+10/02/2018,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/29/2019,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/18/2019,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/03/2019,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/11/2019,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+08/27/2019,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+09/12/2019,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+05/25/2020,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+06/02/2020,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole
+07/28/2020,James Carey,Citizen Lake Monitoring - Water Quality - Lower Kaubashine Lake; Deep Hole

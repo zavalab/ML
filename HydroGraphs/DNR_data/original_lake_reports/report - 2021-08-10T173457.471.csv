@@ -1,0 +1,827 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Jefferson,820800,SC,28,,283201,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/30/1980,9.8,,3,7,,44,,50,,,,,
+8190246,08/28/1994,6.25,NO,1.9,,,51,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000129,08/28/2000,,,,6,23,,52,48,,,,,
+8188661,08/28/2000,9.6,NO,2.9,,,45,,,,,,,
+8188582,06/03/2004,3.33,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188582,06/13/2004,3.8,NO,1.2,,,58,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188582,06/23/2004,3.33,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188582,07/05/2004,2.4,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188582,07/23/2004,4.6,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188582,07/28/2004,4.7,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,08/01/2004,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,08/05/2004,4.7,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,08/15/2004,4.4,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,08/30/2004,4.4,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,09/04/2004,4.3,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,09/26/2004,3.66,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,05/27/2005,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+31952540,06/09/2005,,,,5.92,18,,51,48,,,,,
+8188582,07/27/2005,5.1,NO,1.6,,,54,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,07/29/2005,5.2,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,08/07/2005,,,,5.53,30,,54,48,,,,,
+8188582,08/21/2005,4.8,NO,1.5,,,55,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,08/28/2005,5.3,NO,1.6,4.9,29,53,54,47,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,09/05/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,09/17/2005,,,,,,,,,,,,,
+8188582,09/30/2005,6.33,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,05/27/2006,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,05/31/2006,,,,,33,,55,,,,,,
+8188582,06/06/2006,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,07/09/2006,,,,6.03,29,,54,48,,,,,
+8188582,07/23/2006,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,07/30/2006,,,,28.9,27,,54,60,,,,,
+8188582,07/31/2006,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188582,08/31/2006,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188582,09/01/2006,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/16/2006,,,,7.55,42,,57,50,,,,,
+18897341,05/10/2007,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+18897341,05/20/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18771457,05/28/2007,,,,,25,,53,,,,,,
+18897341,05/30/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18897341,06/10/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18897341,06/20/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18897341,06/23/2007,,,,,,,,,,,,,
+18897341,06/27/2007,,,,9.28,22,,52,52,,,,,
+18897341,06/30/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18897341,07/10/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18897341,07/20/2007,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+18897341,07/30/2007,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+18771457,07/31/2007,,,,,,,,,,,,,
+19279408,07/31/2007,,,,3.43,32,,55,44,,,,,
+18771457,08/09/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18771457,08/20/2007,3.8,NO,1.2,,,58,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18771457,08/30/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,08/31/2007,,,,1.94,83,,62,40,,,,,
+19279408,05/06/2008,5,NO,1.5,,22,54,52,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/26/2008,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/09/2008,0.8,NO,0.2,,,80,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+19279408,06/22/2008,3,NO,0.9,7.95,117,61,65,50,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19279408,07/19/2008,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19279408,07/25/2008,3.25,NO,1,1.39,61,60,60,37,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/09/2008,3.8,NO,1.2,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/23/2008,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/30/2008,4,NO,1.2,14.4,34,57,55,55,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,09/27/2008,,,,,,,,,,,,,
+19279408,05/03/2009,3.6,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/17/2009,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/25/2009,3.6,NO,1.1,,36,59,56,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19279408,06/15/2009,5.5,NO,1.7,4.24,31,53,55,46,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/27/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/05/2009,3.8,NO,1.2,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/16/2009,4,NO,1.2,20.8,54,57,59,58,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/02/2009,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/15/2009,4,NO,1.2,9.29,46.1,57,58,52,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/23/2009,3.8,NO,1.2,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,09/07/2009,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,09/13/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/15/2010,3,NO,0.9,,49,61,58,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+19279408,05/23/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/30/2010,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/06/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/13/2010,4,NO,1.2,10,46,57,58,52,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/26/2010,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/04/2010,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/16/2010,3.6,NO,1.1,25.7,69,59,61,59,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/25/2010,3.6,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/17/2010,3,NO,0.9,52.3,70,61,61,65,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/26/2010,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/21/2011,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/30/2011,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/04/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/11/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/18/2011,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/22/2011,,,,8.44,32,,55,51,,,,,
+19279408,06/26/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/04/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/12/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,07/23/2011,3,NO,0.9,14.8,42,61,57,55,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/05/2011,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/14/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/21/2011,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/26/2011,5,NO,1.5,5.71,35,54,56,48,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/14/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/22/2011,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,10/01/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,10/09/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,03/24/2012,,,,,127,,66,,,,,,
+19279408,05/06/2012,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/13/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/19/2012,3.6,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/28/2012,3.6,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/03/2012,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/10/2012,3.6,NO,1.1,,,59,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/15/2012,,,,12.3,60,,60,54,,,,,
+19279408,06/17/2012,2.6,NO,0.8,,,63,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/23/2012,2.6,NO,0.8,,,63,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/30/2012,2.6,NO,0.8,,,63,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/07/2012,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/15/2012,3.6,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/20/2012,,,,15,44,,57,55,,,,,
+19279408,07/22/2012,2.4,NO,0.7,,,65,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/29/2012,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/04/2012,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/12/2012,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/19/2012,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,08/23/2012,,,,18.5,38,,56,57,,,,,
+19279408,08/25/2012,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,04/27/2013,,,,,34.3,,56,,,,,,
+19279408,05/18/2013,2.3,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,05/27/2013,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,06/02/2013,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/08/2013,3.2,NO,1,,,60,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+19279408,06/16/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/21/2013,3.9,NO,1.2,16.8,48.6,58,58,56,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/07/2013,2.8,NO,0.9,,,62,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/20/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/28/2013,2.6,NO,0.8,25.8,55.9,63,59,59,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/03/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/17/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/24/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/29/2013,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/06/2013,3.6,NO,1.1,10.1,40.9,59,57,52,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/25/2013,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,10/06/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,05/12/2014,,,,,35.4,,56,,,,,,
+19279408,05/18/2014,3.6,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/25/2014,3.6,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/01/2014,3.2,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/08/2014,3.2,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/15/2014,3,NO,0.9,17.2,45.8,61,58,56,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/29/2014,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/06/2014,3.7,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/16/2014,3.6,NO,1.1,10.8,39.5,59,57,53,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/27/2014,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/02/2014,3.8,NO,1.2,,,58,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/10/2014,3.6, ,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/18/2014,3.8,NO,1.2,16.2,38,58,56,56,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/30/2014,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/17/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/27/2014,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,10/11/2014,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,05/03/2015,2,NO,0.6,,45.1,67,58,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/28/2015,3.6, ,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,06/05/2015,4,NO,1.2,8.12,45.9,57,58,51,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/14/2015,3.6,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/21/2015,3, ,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/28/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/07/2015,3,NO,0.9,19,39.8,61,57,57,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/16/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/25/2015,3.6,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/01/2015,3, ,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/09/2015,1.6,NO,0.5,,,70,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/16/2015,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/22/2015,3, ,0.9,22.5,59.5,61,60,58,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,09/02/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,09/25/2015,3.6,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,10/11/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/07/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19279408,05/22/2016,2,NO,0.6,,24.9,67,53,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,05/30/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/11/2016,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/18/2016,3.6,,1.1,20.3,34.7,59,56,58,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/25/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19279408,07/09/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19279408,07/17/2016,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/23/2016,4,NO,1.2,9.75,34.5,57,56,52,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/02/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/10/2016,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/24/2016,4,NO,1.2,10.5,33,57,55,53,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/03/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/19/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19279408,10/05/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,05/17/2017,5,,1.5,,33.4,54,55,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+19279408,06/01/2017,4,,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/11/2017,5.5,,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/21/2017,4,,1.2,17.1,43.9,57,57,56,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/27/2017,4,,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/05/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/13/2017,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/21/2017,3,,0.9,3.43,75.5,61,62,44,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/29/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/06/2017,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/21/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/23/2017,4.5,NO,1.4,9.87,43,55,57,52,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/30/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/14/2017,6,,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/23/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19279408,05/19/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/22/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,05/29/2018,5,,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/07/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/14/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,06/19/2018,6,NO,1.8,8.5,35.3,51,56,51,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/30/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/07/2018,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/15/2018,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,07/24/2018,6,NO,1.8,8.09,30.3,51,55,51,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/31/2018,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/08/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/20/2018,6,,1.8,5.14,24.2,51,53,47,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,08/25/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/09/2018,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,04/09/2019,,,,,24.3,,53,,,,,,
+19279408,05/23/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,
+19279408,06/02/2019,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,
+19279408,06/21/2019,,,,,,,,,,,,,
+19279408,06/24/2019,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,
+19279408,07/10/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,
+19279408,07/21/2019,,,,,,,,,,,,,
+19279408,07/24/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,
+19279408,08/02/2019,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,
+19279408,08/15/2019,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,
+19279408,08/30/2019,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,
+19279408,09/02/2019,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,
+19279408,05/16/2020,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,05/23/2020,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/01/2020,3.6,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,06/09/2020,5.6,,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,06/24/2020,4,NO,1.2,37.8,63.6,57,60,62,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,07/03/2020,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/19/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,07/26/2020,3.5,NO,1.1,14.8,50.7,59,59,55,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+19279408,08/03/2020,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,08/11/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/19/2020,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19279408,08/27/2020,6,NO,1.8,23.1,59.4,51,60,59,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19279408,09/04/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19279408,09/13/2020,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/28/2000,3.28,FEET,24.6,DEGREES C,7.6,MG/L
+08/28/2000,6.56,FEET,24.1,DEGREES C,6.2,MG/L
+08/28/2000,9.84,FEET,23.3,DEGREES C,2.2,MG/L
+08/31/2006,0,FEET,66.9,DEGREES F,8,MG/L
+08/31/2006,3,FEET,66.7,DEGREES F,8,MG/L
+08/31/2006,6,FEET,66.5,DEGREES F,8,MG/L
+06/23/2007,0,FEET,73.7,DEGREES F,8,MG/L
+06/23/2007,3,FEET,73.7,DEGREES F,6,MG/L
+06/23/2007,6,FEET,72.8,DEGREES F,5,MG/L
+07/31/2007,0,FEET,86.5,DEGREES F,9,MG/L
+07/31/2007,3,FEET,81.8,DEGREES F,9,MG/L
+07/31/2007,6,FEET,79.1,DEGREES F,12,MG/L
+08/30/2007,0,FEET,77.1,DEGREES F,8,MG/L
+08/30/2007,3,FEET,73.5,DEGREES F,4.6,MG/L
+08/30/2007,6,FEET,69,DEGREES F,2,MG/L
+05/06/2008,0,FEET,63.5,DEGREES F,8,MG/L
+05/06/2008,3,FEET,63.3,DEGREES F,8,MG/L
+05/06/2008,6,FEET,61.4,DEGREES F,6,MG/L
+06/22/2008,0,FEET,74.1,DEGREES F,8,MG/L
+06/22/2008,3,FEET,71,DEGREES F,6,MG/L
+06/22/2008,6,FEET,68.3,DEGREES F,3,MG/L
+07/25/2008,0,FEET,73.7,DEGREES F,6,MG/L
+07/25/2008,3,FEET,73.4,DEGREES F,5,MG/L
+07/25/2008,6,FEET,71,DEGREES F,4,MG/L
+08/30/2008,0,FEET,73,DEGREES F,8,MG/L
+08/30/2008,3,FEET,71.4,DEGREES F,8,MG/L
+08/30/2008,6,FEET,70,DEGREES F,4,MG/L
+09/27/2008,0,FEET,68.7,DEGREES F,10,MG/L
+09/27/2008,3,FEET,66.5,DEGREES F,10,MG/L
+09/27/2008,6,FEET,64.4,DEGREES F,8,MG/L
+05/03/2009,0,FEET,62,DEGREES F,12,MG/L
+05/03/2009,3,FEET,57.5,DEGREES F,10,MG/L
+05/03/2009,6,FEET,54.8,DEGREES F,10,MG/L
+05/25/2009,0,FEET,66.5,DEGREES F,10,MG/L
+05/25/2009,3,FEET,66.5,DEGREES F,10,MG/L
+05/25/2009,6,FEET,66.5,DEGREES F,10,MG/L
+06/15/2009,0,FEET,76.4,DEGREES F,8,MG/L
+06/15/2009,3,FEET,69.8,DEGREES F,8,MG/L
+06/15/2009,6,FEET,65.6,DEGREES F,6,MG/L
+07/16/2009,0,FEET,74.6,DEGREES F,8,MG/L
+07/16/2009,3,FEET,74.6,DEGREES F,6,MG/L
+07/16/2009,6,FEET,72.3,DEGREES F,5,MG/L
+08/15/2009,0,FEET,78.6,DEGREES F,6,MG/L
+08/15/2009,3,FEET,76.6,DEGREES F,8,MG/L
+08/15/2009,6,FEET,73,DEGREES F,3,MG/L
+09/13/2009,0,FEET,75.7,DEGREES F,8,MG/L
+09/13/2009,3,FEET,71.4,DEGREES F,10,MG/L
+09/13/2009,6,FEET,70,DEGREES F,8,MG/L
+05/15/2010,0,FEET,60,DEGREES F,10,MG/L
+05/15/2010,3,FEET,59.7,DEGREES F,8,MG/L
+05/15/2010,6,FEET,56,DEGREES F,10,MG/L
+06/13/2010,0,FEET,72,DEGREES F,8,MG/L
+06/13/2010,3,FEET,71,DEGREES F,8,MG/L
+06/13/2010,6,FEET,66,DEGREES F,6,MG/L
+07/16/2010,0,FEET,78.4,DEGREES F,6,MG/L
+07/16/2010,3,FEET,77.3,DEGREES F,6,MG/L
+07/16/2010,6,FEET,76.6,DEGREES F,5,MG/L
+08/17/2010,0,FEET,75.5,DEGREES F,10,MG/L
+08/17/2010,3,FEET,75.5,DEGREES F,10,MG/L
+08/17/2010,6,FEET,74,DEGREES F,8,MG/L
+06/21/2013,0,FEET,73,DEGREES F,6,MG/L
+06/21/2013,3,FEET,73.2,DEGREES F,6,MG/L
+06/21/2013,6,FEET,70,DEGREES F,5,MG/L
+07/28/2013,0,FEET,72.5,DEGREES F,6,MG/L
+07/28/2013,3,FEET,72,DEGREES F,6,MG/L
+07/28/2013,6,FEET,70.8,DEGREES F,4,MG/L
+08/29/2013,0,FEET,81,DEGREES F,8,MG/L
+08/29/2013,3,FEET,79,DEGREES F,6,MG/L
+08/29/2013,6,FEET,77,DEGREES F,5,MG/L
+06/15/2014,0,FEET,71.4,DEGREES F,8,MG/L
+06/15/2014,3,FEET,70.8,DEGREES F,6,MG/L
+06/15/2014,6,FEET,70,DEGREES F,8,MG/L
+07/16/2014,0,FEET,72.3,DEGREES F,8,MG/L
+07/16/2014,3,FEET,70.5,DEGREES F,6,MG/L
+07/16/2014,6,FEET,69,DEGREES F,6,MG/L
+08/18/2014,0,FEET,74.1,DEGREES F,6,MG/L
+08/18/2014,3,FEET,73.9,DEGREES F,8,MG/L
+08/18/2014,6,FEET,73.4,DEGREES F,8,MG/L
+06/05/2015,0,FEET,71.5,DEGREES F,10,MG/L
+06/05/2015,3,FEET,71.4,DEGREES F,10,MG/L
+06/05/2015,6,FEET,71,DEGREES F,8,MG/L
+07/07/2015,0,FEET,75,DEGREES F,8,MG/L
+07/07/2015,3,FEET,75.2,DEGREES F,8,MG/L
+07/07/2015,6,FEET,75.2,DEGREES F,8,MG/L
+08/22/2015,0,FEET,73.4,DEGREES F,8,MG/L
+08/22/2015,3,FEET,73.4,DEGREES F,6,MG/L
+08/22/2015,6,FEET,72,DEGREES F,5,MG/L
+06/18/2016,0,FEET,76,DEGREES F,8,MG/L
+06/18/2016,3,FEET,74.5,DEGREES F,6,MG/L
+06/18/2016,6,FEET,72,DEGREES F,5,MG/L
+07/23/2016,0,FEET,86,DEGREES F,8,MG/L
+07/23/2016,3,FEET,84,DEGREES F,8,MG/L
+07/23/2016,6,FEET,81,DEGREES F,6,MG/L
+05/17/2017,0,FEET,71.4,DEGREES F,8,MG/L
+05/17/2017,3,FEET,70.8,DEGREES F,6,MG/L
+05/17/2017,6,FEET,62.6,DEGREES F,6,MG/L
+06/21/2017,0,FEET,75.5,DEGREES F,10,MG/L
+06/21/2017,3,FEET,72.8,DEGREES F,8,MG/L
+06/21/2017,6,FEET,72.6,DEGREES F,8,MG/L
+07/21/2017,0,FEET,79.7,DEGREES F,6,MG/L
+07/21/2017,3,FEET,75.5,DEGREES F,5,MG/L
+07/21/2017,6,FEET,73.2,DEGREES F,5,MG/L
+06/21/2019,0,FEET,71.4,DEGREES F,7,MG/L
+06/21/2019,3,FEET,70.1,DEGREES F,8,MG/L
+06/21/2019,6,FEET,69.8,DEGREES F,6,MG/L
+07/21/2019,0,FEET,74.2,DEGREES F,5,MG/L
+07/21/2019,3,FEET,72.4,DEGREES F,6,MG/L
+07/21/2019,6,FEET,71.1,DEGREES F,5,MG/L
+08/02/2019,0,FEET,79.1,DEGREES F,6,MG/L
+08/02/2019,3,FEET,76.2,DEGREES F,5,MG/L
+08/02/2019,6,FEET,72.8,DEGREES F,6,MG/L
+07/26/2020,0,FEET,80.4,DEGREES F,10,MG/L
+07/26/2020,3,FEET,78.5,DEGREES F,6,MG/L
+07/26/2020,6,FEET,75,DEGREES F,8,MG/L
+08/27/2020,0,FEET,80.4,DEGREES F,6,MG/L
+08/27/2020,3,FEET,78.9,DEGREES F,8,MG/L
+08/27/2020,6,FEET,78.6,DEGREES F,6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/30/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/28/1994,Weather/waves: sunny- mild waves.  Readings are very impaired due to excessive weed growth.    
+06/09/2005,Note:  There were 2 samples on this day at this lake.  1 in a bay near a horse farm (high total phosphorus)- and 1 at the Deep Hole site.  The lab phosphorus bottles were apparently switched around- so a correction was made to tag the higher TP reading to the Bay station ID 10030698 - per conversation with Sue Graham who talked to the volunteer and Donna Sefton 10/28/2009. (- Jennifer Filbert)
+08/07/2005,DEEP HOLE    
+08/28/2005,DEEP HOLE    
+09/17/2005,DEEP HOLE    
+09/16/2006,DEEP HOLE    
+07/31/2007,the weather was clear
+08/09/2007,weather was sunny
+08/20/2007,the sky is very overcast. we had 7" of rain in the last 3 days.
+08/30/2007,the weather was clear + calm.  the water is very brown. saw a couple blue heron. greg smith is the only one doing the monitoring at this time.
+05/06/2008,sunny day 80. loons arrived april 10th
+05/26/2008,it rained last night. today during the test it was overcast.
+06/09/2008,today the levey broke on upper spring lake. flooding our lake lower spring.
+06/22/2008,sunny + windy
+07/19/2008,overcast sky.
+07/25/2008,today it was overcast today is overcast today is overcast
+08/09/2008,sunny today
+08/23/2008,cloudy + rainy
+08/30/2008,the weather was clear + windy
+09/27/2008,sunny day 
+05/03/2009,sunny + windy
+05/17/2009,sunny + windy
+05/25/2009,sunny- very windy
+06/15/2009,today-overcast. about 80 degrees
+06/27/2009,partly cloudy
+07/05/2009,sunny
+07/16/2009,sunny today
+08/02/2009,sunny
+08/15/2009,today is sunny
+08/23/2009,today is partly cloudy
+09/07/2009,sunny today sunny
+09/13/2009,sunny
+05/15/2010,cloudy today
+05/23/2010,sunny today
+05/30/2010,sunny
+06/06/2010,the weed harvester has not been cutting. the milfoil has pretty much died off. this is the best i have seen this lake for this time of year. i have been here for 16 years. today was overcast. 
+06/13/2010,today is overcast
+06/26/2010,today is sunny
+07/04/2010,today is sunny
+07/16/2010,today is sunny
+07/25/2010,sunny + windy
+08/17/2010,today was cloudy
+08/26/2010,sunny today
+05/21/2011,very overcast
+05/30/2011,sunny-not a cloud in the sky
+06/04/2011,a little overcast
+06/11/2011,today is overcast
+06/18/2011,a little overcast
+06/26/2011,sunny + clear
+07/04/2011,sunny
+07/12/2011,sunny today
+07/23/2011,today is overcast
+08/05/2011,today is partly cloudy
+08/14/2011,sunny when i dropped the disk
+08/21/2011,today is sunny
+08/26/2011,today its sunny
+09/14/2011,overcast + windy
+09/22/2011,overcast today-a little wind.
+10/01/2011,sunny + windy
+10/09/2011,today is sunny
+05/06/2012,Its cloudy + very windy
+05/13/2012,The weather was sunny
+05/19/2012,today is sunny + windy
+05/28/2012,today is overcast
+06/03/2012,sunny today
+06/10/2012,today is sunny
+06/17/2012,today is sunny
+06/23/2012,today is overcast
+06/30/2012,Its sunny today
+07/07/2012,sunny + windy today
+07/15/2012,sunny today
+07/22/2012,overcast today
+07/29/2012,sunny today. there is alot of dead vegitation in the lake on the east end.
+08/04/2012,today is sunny
+08/12/2012,overcast today
+08/19/2012,today was overcast
+08/25/2012,today is sunny
+05/18/2013,today is overcast
+05/27/2013,cloudy-misty + windy. yuk.
+06/02/2013,cloudy + windy
+06/08/2013,today is partly cloudy
+06/16/2013,today is clear-a little breezy today the skies are clear
+06/21/2013,very cloudy-just before a storm
+07/07/2013,today there is clear skys
+07/20/2013,sunny today
+07/28/2013,today the sky is overcast
+08/03/2013,sunny skies today
+08/17/2013,clear skies today
+08/24/2013,today is sunny-a little windy
+08/29/2013,today is sunny. yesterday i watched 3 deer feeding on the lilly pads
+09/06/2013,sunny today
+09/25/2013,today is clear + windy
+10/06/2013,today is sunny
+05/18/2014,sunny today
+05/25/2014,sunny today
+06/01/2014,sunny today
+06/08/2014,today is cloudy
+06/15/2014,today is overcast + very windy
+06/29/2014,sunny + windy today
+07/06/2014,overcast today
+07/16/2014,today is sunny
+07/27/2014,today is sunny
+08/02/2014,today is sunny
+08/10/2014,windy + sunny
+08/18/2014,today was overcast. jennifer filbert was with me today
+08/30/2014,today is overcast + windy
+09/17/2014,today is sunny
+09/27/2014,today is sunny + clear
+10/11/2014,the sky is clear-no wind
+05/03/2015,today is overcast
+05/28/2015,a little cloudy today
+06/05/2015,today is cloudy + windy today is cloudy + windy
+06/14/2015,today is partly cloudy
+06/21/2015,today is sunny
+06/28/2015,cloudy-overcast
+07/07/2015,today at the time of the test was sunny + windy
+07/16/2015,it was cloudy
+07/25/2015,sunny clear skies
+08/01/2015,today is sunny
+08/09/2015,overcast- no wind
+08/16/2015,today is sunny
+08/22/2015,today is sunny + windy
+09/02/2015,sunny today
+09/25/2015,today is sunny + windy
+10/11/2015,sunny + windy
+05/07/2016,windy + a little overcast
+05/22/2016,sunny-light wind
+05/30/2016,suuy today
+06/11/2016,a little overcast
+06/18/2016,sunny today
+06/25/2016,sunny a little windy
+07/09/2016,sunny + a little windy
+07/17/2016,little hazy-windy
+07/23/2016,cloudy today
+08/02/2016,sunny at the time of the test
+08/10/2016,sunny-no wind
+08/24/2016,sunny at the time of the test
+09/03/2016,sunny today
+09/19/2016,clear skies
+10/05/2016,overcast at the time of the test
+05/17/2017,today is cloudy-windy. May 8th we had a treatment done for invasive plants
+06/01/2017,sunny + calm
+06/11/2017,sunny-windy
+06/21/2017,a little overcast
+06/27/2017,sunny today
+07/05/2017,sunny at the time of the test
+07/13/2017,overcast today
+07/21/2017,overcast
+07/29/2017,sunny today
+08/06/2017,today is overcast
+08/21/2017,overcast skies today
+08/23/2017,sunny today
+08/30/2017,sunny today
+09/14/2017,sunny today
+09/23/2017,sunny today
+05/19/2018,Overcast  + no wind
+05/22/2018,Overcast + calm
+05/29/2018,Today is sunny + windy
+06/07/2018,Today is sunny a little windy
+06/14/2018,Today is overcast
+06/19/2018,Overcast skies today
+06/30/2018,Sunny + clear
+07/07/2018,Sunny + windy today
+07/15/2018,Sunny today
+07/24/2018,Sunny today
+07/31/2018,Little overcast-little hazy 
+08/08/2018,Sunny today
+08/20/2018,Overcast today
+08/25/2018,Partly cloudy 
+09/09/2018,Partly cloudy + windy
+05/23/2019,sunny
+06/02/2019,overcast calm
+06/24/2019,sunny calm
+07/10/2019,overcast
+07/24/2019,sunny calm
+08/02/2019,sunny windy
+08/15/2019,overcast
+08/30/2019,cloudy calm
+09/02/2019,suny
+06/01/2020,windy-overcast
+06/09/2020,A little overcast + windy
+06/24/2020,Little overcast
+07/03/2020,Clear skies today
+07/19/2020,The sky is a little overcast
+07/26/2020,Lots of dead vegetation on the surface. We haven?t had a harvester for  a month    clear skies   A little windy 
+08/03/2020,Cloud cover today
+08/11/2020,Clear skies today
+08/19/2020,Clear skies today. A lot of dead vegetation on the water suface
+08/27/2020,Partly cloudy. Sunny when i did my seechi Partly cloudy. Clear + sunny when I did the seechi
+09/04/2020,Clear skies today 
+09/13/2020,Partly cloudy very little wind
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/1980,Data Collectors,Migrated from STORET Legacy
+08/28/1994,Linda Hennum,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/28/2000,Jon Simonsen and Carl Molter,Lakes Baseline and Trends Monitoring
+08/28/2000,Susan Graham,Lake Baseline Monitoring- DNR (1970s-2006)
+06/03/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/13/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/23/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/05/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/23/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/28/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/01/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/05/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/15/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/30/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/04/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/26/2004,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/27/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/09/2005,Pat Schloerke and Donna Sefton,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/27/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/29/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/07/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/21/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/28/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/05/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/17/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/30/2005,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/27/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/31/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/06/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/09/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/23/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/30/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/31/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/31/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/01/2006,Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/16/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/10/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/20/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/28/2007,Greg Smith- Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/30/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/10/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/20/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/23/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/27/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/30/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/10/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/20/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/30/2007,Dennis + Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/31/2007,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/31/2007,Greg Smith- Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/09/2007,Greg Smith- Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/20/2007,Greg Smith- Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/30/2007,Greg Smith- Pat Schloerke,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/31/2007,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/06/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/26/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/09/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/22/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/19/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/25/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/09/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/23/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/30/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/27/2008,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/03/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/17/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/25/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/15/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/27/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/05/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/16/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/02/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/15/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/23/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/07/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/13/2009,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/15/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/23/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/30/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/06/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/13/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/26/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/04/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/16/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/25/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/17/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/26/2010,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/21/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/30/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/04/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/11/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/18/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/22/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/26/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/04/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/12/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/23/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/05/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/14/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/21/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/26/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/14/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/22/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+10/01/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+10/09/2011,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+03/24/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/06/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/13/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/19/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/28/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/03/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/10/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/15/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/17/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/23/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/30/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/07/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/15/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/20/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/22/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/29/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/04/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/12/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/19/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/23/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/25/2012,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+04/27/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/18/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/27/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/02/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/08/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/16/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/21/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/07/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/20/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/28/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/03/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/17/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/24/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/29/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/06/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/25/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+10/06/2013,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/12/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/18/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/25/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/01/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/08/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/15/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/29/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/06/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/16/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/27/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/02/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/10/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/18/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/18/2014,Greg Smith,Citizen Lake Monitoring Network QA/QC - 2014
+08/30/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/17/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/27/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+10/11/2014,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/03/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/28/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/05/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/14/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/21/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/28/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/07/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/16/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/25/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/01/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/09/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/16/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/22/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/02/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/25/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+10/11/2015,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/07/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/22/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/30/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/11/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/18/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/25/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/09/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/17/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/23/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/02/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/10/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/24/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/03/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/19/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+10/05/2016,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/17/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/01/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/11/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/21/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/21/2017,Greg Smith,Citizen Lake Monitoring Network QA/QC - 2017
+06/27/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/05/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/13/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/21/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/29/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/06/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/21/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/23/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/30/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/14/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/23/2017,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/19/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/22/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/29/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/07/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/14/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/19/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/30/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/07/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/15/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/24/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/31/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/08/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/20/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/25/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/09/2018,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+04/09/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/23/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/02/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/21/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/24/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/10/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/21/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/24/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/02/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/15/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/30/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/02/2019,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/16/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+05/23/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/01/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/09/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+06/24/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/03/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/19/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+07/26/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/03/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/11/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/19/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+08/27/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/04/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole
+09/13/2020,Greg Smith,Citizen Lake Monitoring - Water Quality - Lower Spring Lake; Deep Hole

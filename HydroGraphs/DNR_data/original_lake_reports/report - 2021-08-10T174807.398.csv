@@ -1,0 +1,132 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Langlade,1448600,NO,34,,10043754,NE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+117499505,06/18/2015,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,07/17/2015,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/01/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/14/2015,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/26/2015,8, ,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/08/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/16/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,09/26/2015,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/07/2016,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,06/14/2016,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2016,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/18/2016,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/06/2016,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/15/2016,7,,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/26/2016,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+122896168,06/14/2017,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/12/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/27/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/05/2017,,NO,,,,,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/15/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/06/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/24/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/17/2018,7,NO,2.1,10.7,13.5,49,48,53,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/19/2018,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/08/2018,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/15/2018,8,NO,2.4,4,8.14,47,44,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/05/2018,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/19/2018,8.5,NO,2.6,3.69,15.9,46,50,45,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/20/2019,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/01/2019,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/25/2019,8,NO,2.4,4.09,17.5,47,50,45,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/22/2019,8,NO,2.4,3.86,12.1,47,47,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/05/2020,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/19/2020,,,,13.8,25.5,,53,55,,,,,
+122896168,06/19/2020,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/05/2020,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/18/2020,7.5,NO,2.3,8.19,17.9,48,50,51,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/05/2020,7,NO,2.1,,,49,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/16/2020,6,NO,1.8,15.9,21.4,51,52,56,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/14/2017,16,FEET,42.6,DEGREES F,,
+07/12/2017,22,FEET,43.2,DEGREES F,,
+07/27/2017,20,FEET,42.6,DEGREES F,,
+08/05/2017,25,FEET,42,DEGREES F,,
+08/15/2017,25,FEET,43.1,DEGREES F,,
+09/06/2017,25,FEET,42.9,DEGREES F,,
+09/24/2017,25,FEET,43.1,DEGREES F,,
+06/17/2018,25,FEET,40.4,DEGREES F,,
+06/19/2018,25,FEET,40.2,DEGREES F,,
+07/08/2018,20,FEET,40.2,DEGREES F,,
+07/15/2018,20,FEET,40.4,DEGREES F,,
+08/05/2018,20,FEET,42.4,DEGREES F,,
+08/19/2018,25,FEET,40.8,DEGREES F,,
+06/20/2019,18,FEET,40.6,DEGREES F,,
+07/01/2019,18,FEET,40.6,DEGREES F,,
+07/25/2019,25,FEET,42.4,DEGREES F,,
+08/22/2019,21,FEET,41.3,DEGREES F,,
+06/05/2020,27,FEET,40.2,DEGREES F,,
+06/19/2020,20,FEET,41,DEGREES F,,
+07/05/2020,20,FEET,41.7,DEGREES F,,
+07/18/2020,27,FEET,40.8,DEGREES F,,
+08/05/2020,20,FEET,41,DEGREES F,,
+08/16/2020,25,FEET,42.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/18/2015,Sunny With Paul Tusler Historical (1977) 4 ft
+08/01/2015,sunny partial cloudy
+08/14/2015,partial cloudy
+08/26/2015,Parttial Cloudy
+09/08/2015,Partial Cloudy- Rain last PM
+09/16/2015,Recent Rains- Windy- Partial Couldy
+09/26/2015,Sunny no wind- no waves
+
+
+
+
+Start Date,Group Name,Project Name
+06/18/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/17/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/01/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/14/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/07/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/14/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/18/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/06/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/15/2016,Sam Picone,Citizen Aquatic Invasives Monitoring - Horseshoe Lake
+08/15/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/26/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/14/2017,Sam Picone- Paul Tusler,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/12/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/27/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/05/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/15/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/06/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/24/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/17/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/19/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/08/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/15/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/05/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/19/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/20/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/01/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/25/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/22/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/19/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/19/2020,Sam Picone- Paul Tusler,Citizen Aquatic Invasives Monitoring - Horseshoe Lake
+06/19/2020,Sam Picone- Paul Tusler,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/18/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/16/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole

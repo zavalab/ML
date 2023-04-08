@@ -1,0 +1,643 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bear Lake,Forest,552100,NO,21,,213186,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+10595311,05/29/2006,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,06/03/2006,4.3,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,06/23/2006,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10595311,07/02/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+10595311,07/15/2006,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+10595311,08/03/2006,3.5,NO,1.1,,,59,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+10595311,08/04/2006,4.3,NO,1.3,,,56,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+10595311,08/05/2006,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+10595311,08/06/2006,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+10595311,08/13/2006,2.6,NO,0.8,,,63,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+10595311,08/15/2006,2.3,NO,0.7,,,65,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,08/30/2006,5.4,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10595311,09/04/2006,6.9,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+10595311,09/07/2006,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10595311,09/14/2006,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10595311,10/08/2006,3.8,NO,1.2,,,58,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21962267,06/28/2007,6.25,NO,1.9,2.94,18,51,51,43,NORMAL,,CLEAR,BROWN,
+10595311,08/02/2007,7,NO,2.1,5.4,17,49,50,48,LOW,,CLEAR,YELLOW,
+10595311,08/16/2007,5.75,NO,1.7,,,52,,,LOW,,MURKY,YELLOW,
+21962267,09/02/2007,5,NO,1.5,6.91,22,54,52,49,LOW,,MURKY,YELLOW,
+21962302,10/03/2007,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,
+10595311,10/25/2007,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,
+21962267,05/10/2008,,,,,41,,57,,,,,,
+21962267,06/15/2008,,,,5.83,24,,53,48,,,,,
+10595311,07/26/2008,,,,36.2,36,,56,62,,,,,
+10595311,08/23/2008,,,,27.2,36,,56,60,,,,,
+8188731,09/15/2008,3.5,,1.1,,,59,,,,,,,
+25973506,09/15/2008,3.3,NO,1,,,60,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+10595311,10/31/2008,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+21962267,05/03/2009,4.5,NO,1.4,,103,55,64,,HIGH,,MURKY,YELLOW,1-Beautiful, could not be nicer
+10595311,05/24/2009,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+10595311,06/09/2009,5,NO,1.5,9.78,35,54,56,52,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+10595311,06/25/2009,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+10595311,07/05/2009,,,,231,130,,66,76,,,,,
+10595311,08/09/2009,3.5,NO,1.1,23.5,35,59,56,59,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+10595311,08/23/2009,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+10595311,09/07/2009,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+10595311,09/20/2009,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+10595311,10/04/2009,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+21962267,04/14/2010,,,,,33,,55,,,,,,
+21962267,05/22/2010,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,06/17/2010,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/02/2010,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,07/06/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,04/04/2012,4.75,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,04/27/2012,5.5,NO,1.7,,20,53,51,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,05/17/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,05/18/2012,,,,,27,,54,,,,,,
+10595311,05/31/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,06/22/2012,7.25,NO,2.2,4.05,20,49,51,45,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,08/02/2012,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+21962267,08/02/2012,,,,17.7,27,,54,57,,,,,
+10595311,08/12/2012,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+10595311,08/31/2012,,,,10.9,26,,53,53,,,,,
+10595311,09/09/2012,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,10/04/2012,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+21962267,10/04/2012,,,,,34,,55,,,,,,
+10595311,05/10/2013,3.5,NO,1.1,,36.3,59,56,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,06/18/2013,3.5,NO,1.1,13.8,32.2,59,55,55,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/05/2013,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/22/2013,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/28/2013,4.75, ,1.4,9.71,20,55,51,52,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,08/22/2013,6.5,NO,2,,25,50,53,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,05/22/2014,3,NO,0.9,,30.9,61,55,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,06/05/2014,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,06/18/2014,4,NO,1.2,8.58,29.9,57,54,51,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/04/2014,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,07/07/2014,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,07/24/2014,3.5,NO,1.1,12.1,21.5,59,52,54,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+1,07/29/2014,,,,2,14.2,,49,40,,,,,
+10595311,08/05/2014,4.5, ,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,08/27/2014,,,,15.4,23.2,,53,55,,,,,
+10595311,08/28/2014,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,09/07/2014,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,09/25/2014,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+10595311,10/10/2014,2.5,NO,0.8,4.47,68.8,64,61,46,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+10595311,04/24/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,05/06/2015,, ,,,29.5,,54,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,06/05/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,06/23/2015,3,NO,0.9,6.49,29,61,54,49,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+10595311,07/27/2015,,,,8.88,36.3,,56,51,,,,,
+10595311,09/01/2015,,,,16.4,39,,57,56,,,,,
+10595311,10/19/2015,3.75,NO,1.1,,85.1,58,63,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,04/19/2016,3,NO,0.9,,28.9,61,54,,HIGH,6,MURKY,,2-Very minor aesthetic problems
+10595311,06/03/2016,5.5,NO,1.7,,,53,,,NORMAL,6,MURKY,BROWN,1-Beautiful, could not be nicer
+10595311,06/23/2016,4.5,NO,1.4,4.75,24.8,55,53,47,NORMAL,6,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,07/20/2016,4,NO,1.2,12.5,28.3,57,54,54,NORMAL,6,,,3-Enjoyment somewhat impaired (algae)
+10595311,08/16/2016,5.5,NO,1.7,,,53,,,LOW,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+10595311,08/23/2016,4.5,NO,1.4,9.29,23.1,55,52,52,LOW,6,MURKY,BROWN,2-Very minor aesthetic problems
+10595311,10/08/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+10595311,05/25/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,06/16/2017,2.75,NO,0.8,2.63,36.5,63,56,42,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/05/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/27/2017,2,NO,0.6,16.6,36.1,67,56,56,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,08/13/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,09/03/2017,2,,0.6,12.2,29.7,67,54,54,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,05/08/2018,,,,,29.1,,54,,,,,,
+10595311,06/08/2018,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,06/21/2018,4,NO,1.2,3.99,21.5,57,52,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+10595311,07/08/2018,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,07/22/2018,4.75,NO,1.4,5.56,22.7,55,52,48,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,07/31/2018,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,08/12/2018,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,08/27/2018,,,,4.35,14.5,,49,46,,,,,
+10595311,09/15/2018,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+10595311,10/24/2018,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+10595311,05/08/2019,,,,,22.6,,52,,,,,,
+10595311,05/29/2019,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+10595311,06/19/2019,4,NO,1.2,3.34,21.4,57,52,44,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,07/13/2019,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,07/28/2019,4,NO,1.2,9.97,25.8,57,53,52,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,08/27/2019,2.5,NO,0.8,28.4,49.7,64,58,60,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+10595311,09/01/2019,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+239709834,06/10/2020,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+239709834,06/18/2020,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+239709834,06/30/2020,2.75,NO,0.8,11.1,22.7,63,52,53,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+239709834,07/20/2020,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+239709834,07/28/2020,2,NO,0.6,12.1,35.8,67,56,54,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+239709834,08/05/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+239709834,08/13/2020,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+239709834,08/21/2020,3.5,NO,1.1,95.7,44.6,59,58,69,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+239709834,09/06/2020,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+239709834,09/22/2020,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+239709834,10/10/2020,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/28/2007,6,FEET,73,DEGREES F,,
+06/28/2007,12,FEET,54,DEGREES F,,
+08/02/2007,1,FEET,81.3,DEGREES F,,
+08/02/2007,6,FEET,74.6,DEGREES F,,
+08/02/2007,12,FEET,59,DEGREES F,,
+08/16/2007,1,FEET,75.9,DEGREES F,,
+08/16/2007,6,FEET,75,DEGREES F,,
+08/16/2007,12,FEET,61.8,DEGREES F,,
+09/02/2007,1,FEET,71.9,DEGREES F,,
+09/02/2007,6,FEET,70.5,DEGREES F,,
+09/02/2007,12,FEET,64.3,DEGREES F,,
+10/03/2007,1,FEET,62.6,DEGREES F,,
+10/03/2007,6,FEET,61.8,DEGREES F,,
+10/03/2007,12,FEET,59.3,DEGREES F,,
+10/25/2007,1,FEET,51,DEGREES F,,
+10/25/2007,6,FEET,49.8,DEGREES F,,
+10/25/2007,12,FEET,49.6,DEGREES F,,
+10/31/2008,1,FEET,45.8,DEGREES F,,
+10/31/2008,6,FEET,45.6,DEGREES F,,
+10/31/2008,12,FEET,44.8,DEGREES F,,
+05/03/2009,1,FEET,51.6,DEGREES F,,
+05/03/2009,6,FEET,51.4,DEGREES F,,
+05/03/2009,12,FEET,48,DEGREES F,,
+05/24/2009,1,FEET,70.8,DEGREES F,,
+05/24/2009,6,FEET,61.1,DEGREES F,,
+05/24/2009,12,FEET,54.6,DEGREES F,,
+06/09/2009,1,FEET,58.8,DEGREES F,,
+06/09/2009,6,FEET,58.4,DEGREES F,,
+06/09/2009,12,FEET,54.8,DEGREES F,,
+06/25/2009,1,FEET,85.8,DEGREES F,,
+06/25/2009,6,FEET,64.5,DEGREES F,,
+06/25/2009,12,FEET,53.9,DEGREES F,,
+08/23/2009,1,FEET,68.3,DEGREES F,,
+08/23/2009,6,FEET,66.2,DEGREES F,,
+08/23/2009,12,FEET,59.3,DEGREES F,,
+08/23/2009,18,FEET,53.1,DEGREES F,,
+09/07/2009,1,FEET,67.8,DEGREES F,,
+09/07/2009,6,FEET,63.8,DEGREES F,,
+09/07/2009,12,FEET,59.3,DEGREES F,,
+09/20/2009,1,FEET,66.7,DEGREES F,,
+09/20/2009,6,FEET,65.3,DEGREES F,,
+09/20/2009,12,FEET,58.8,DEGREES F,,
+09/20/2009,18,FEET,53,DEGREES F,,
+10/04/2009,1,FEET,54.8,DEGREES F,,
+10/04/2009,6,FEET,54.8,DEGREES F,,
+10/04/2009,12,FEET,54.8,DEGREES F,,
+06/17/2010,1,FEET,66.9,DEGREES F,,
+06/17/2010,6,FEET,65.1,DEGREES F,,
+06/17/2010,12,FEET,61.1,DEGREES F,,
+06/17/2010,18,FEET,53.3,DEGREES F,,
+07/02/2010,1,FEET,74.5,DEGREES F,,
+07/02/2010,6,FEET,69,DEGREES F,,
+07/02/2010,12,FEET,60.2,DEGREES F,,
+07/02/2010,18,FEET,53.6,DEGREES F,,
+07/06/2010,1,FEET,77.5,DEGREES F,,
+07/06/2010,6,FEET,70.5,DEGREES F,,
+07/06/2010,12,FEET,59.3,DEGREES F,,
+07/06/2010,18,FEET,53.6,DEGREES F,,
+04/04/2012,1,FEET,47.4,DEGREES F,,
+04/04/2012,6,FEET,46.7,DEGREES F,,
+04/04/2012,12,FEET,45.8,DEGREES F,,
+04/27/2012,1,FEET,55.7,DEGREES F,,
+04/27/2012,6,FEET,51,DEGREES F,,
+04/27/2012,12,FEET,50,DEGREES F,,
+05/31/2012,1,FEET,65.1,DEGREES F,6.9,MG/L
+05/31/2012,6,FEET,64.4,DEGREES F,6.84,MG/L
+05/31/2012,12,FEET,57.3,DEGREES F,4.24,MG/L
+06/22/2012,1,FEET,75.5,DEGREES F,6.71,MG/L
+06/22/2012,6,FEET,72.7,DEGREES F,6.78,MG/L
+06/22/2012,12,FEET,61.5,DEGREES F,1.84,MG/L
+08/02/2012,1,FEET,78.8,DEGREES F,6.28,MG/L
+08/02/2012,6,FEET,75,DEGREES F,5.96,MG/L
+08/02/2012,8,FEET,,,3.82,MG/L
+08/02/2012,10,FEET,,,.26,MG/L
+08/02/2012,12,FEET,63.5,DEGREES F,.16,MG/L
+08/12/2012,1,FEET,72.8,DEGREES F,7.04,MG/L
+08/12/2012,6,FEET,69.7,DEGREES F,6.7,MG/L
+08/12/2012,12,FEET,65,DEGREES F,.46,MG/L
+10/04/2012,1,FEET,58.1,DEGREES F,6.58,MG/L
+10/04/2012,6,FEET,55.4,DEGREES F,6.02,MG/L
+10/04/2012,12,FEET,54.8,DEGREES F,3.43,MG/L
+05/10/2013,1,FEET,57.2,DEGREES F,9.04,MG/L
+05/10/2013,6,FEET,45.3,DEGREES F,6.72,MG/L
+05/10/2013,12,FEET,41.3,DEGREES F,5.37,MG/L
+06/18/2013,1,FEET,70.8,DEGREES F,7.6,MG/L
+06/18/2013,6,FEET,66,DEGREES F,7.39,MG/L
+06/18/2013,12,FEET,47.4,DEGREES F,.35,MG/L
+07/05/2013,1,FEET,76,DEGREES F,6.43,MG/L
+07/05/2013,6,FEET,68.1,DEGREES F,7.77,MG/L
+07/05/2013,12,FEET,48.5,DEGREES F,.27,MG/L
+07/22/2013,1,FEET,75.2,DEGREES F,,
+07/22/2013,6,FEET,70.1,DEGREES F,,
+07/22/2013,12,FEET,50.3,DEGREES F,,
+07/28/2013,1,FEET,65.4,DEGREES F,6.98,MG/L
+07/28/2013,6,FEET,65.4,DEGREES F,6.99,MG/L
+07/28/2013,12,FEET,50,DEGREES F,.23,MG/L
+08/22/2013,1,FEET,77.3,DEGREES F,7.05,MG/L
+08/22/2013,6,FEET,71.4,DEGREES F,7.03,MG/L
+08/22/2013,12,FEET,53.6,DEGREES F,.56,MG/L
+05/22/2014,1,FEET,59,DEGREES F,10.48,MG/L
+05/22/2014,6,FEET,58.5,DEGREES F,10.35,MG/L
+05/22/2014,12,FEET,48.8,DEGREES F,6.52,MG/L
+06/05/2014,1,FEET,72.3,DEGREES F,7.83,MG/L
+06/05/2014,6,FEET,64.4,DEGREES F,5.71,MG/L
+06/05/2014,12,FEET,44.4,DEGREES F,.26,MG/L
+06/18/2014,1,FEET,71.2,DEGREES F,7.85,MG/L
+06/18/2014,6,FEET,66.3,DEGREES F,5.46,MG/L
+06/18/2014,12,FEET,46.9,DEGREES F,.22,MG/L
+07/04/2014,1,FEET,71.2,DEGREES F,7.85,MG/L
+07/04/2014,6,FEET,66.3,DEGREES F,5.46,MG/L
+07/04/2014,12,FEET,46.9,DEGREES F,.22,MG/L
+07/07/2014,1,FEET,70.1,DEGREES F,,
+07/07/2014,6,FEET,69.8,DEGREES F,,
+07/07/2014,12,FEET,46.2,DEGREES F,,
+07/24/2014,1,FEET,74.6,DEGREES F,8.26,MG/L
+07/24/2014,6,FEET,67.6,DEGREES F,7.05,MG/L
+07/24/2014,12,FEET,48.9,DEGREES F,.33,MG/L
+08/05/2014,1,FEET,76.4,DEGREES F,8.25,MG/L
+08/05/2014,6,FEET,67.8,DEGREES F,7.42,MG/L
+08/05/2014,12,FEET,50.4,DEGREES F,.32,MG/L
+08/28/2014,1,FEET,70.8,DEGREES F,9.14,MG/L
+08/28/2014,6,FEET,68,DEGREES F,8.27,MG/L
+08/28/2014,12,FEET,52.1,DEGREES F,.3,MG/L
+09/07/2014,1,FEET,66,DEGREES F,,
+09/07/2014,6,FEET,65.6,DEGREES F,,
+09/07/2014,12,FEET,53.4,DEGREES F,,
+09/25/2014,1,FEET,62,DEGREES F,8.62,MG/L
+09/25/2014,6,FEET,57.5,DEGREES F,6.91,MG/L
+09/25/2014,12,FEET,53,DEGREES F,2.66,MG/L
+10/10/2014,1,FEET,51,DEGREES F,5.84,MG/L
+10/10/2014,6,FEET,50.9,DEGREES F,5.71,MG/L
+10/10/2014,12,FEET,50.8,DEGREES F,5.63,MG/L
+04/24/2015,1,FEET,46.2,DEGREES F,9.44,MG/L
+04/24/2015,6,FEET,44.4,DEGREES F,.13,MG/L
+04/24/2015,12,FEET,44.2,DEGREES F,8.99,MG/L
+05/06/2015,1,FEET,62.1,DEGREES F,10.63,MG/L
+05/06/2015,6,FEET,59.3,DEGREES F,8.54,MG/L
+05/06/2015,12,FEET,48.2,DEGREES F,7.1,MG/L
+06/05/2015,1,FEET,65.1,DEGREES F,7.6,MG/L
+06/05/2015,6,FEET,64,DEGREES F,7.46,MG/L
+06/05/2015,12,FEET,51.6,DEGREES F,3.49,MG/L
+06/23/2015,1,FEET,68,DEGREES F,7.66,MG/L
+06/23/2015,6,FEET,67.2,DEGREES F,7.59,MG/L
+06/23/2015,12,FEET,50.3,DEGREES F,.46,MG/L
+10/19/2015,1,FEET,50.3,DEGREES F,6.78,MG/L
+10/19/2015,6,FEET,49.8,DEGREES F,6.62,MG/L
+10/19/2015,12,FEET,49.8,DEGREES F,6.49,MG/L
+04/19/2016,1,FEET,52.3,DEGREES F,9.47,MG/L
+04/19/2016,6,FEET,48.3,DEGREES F,8.57,MG/L
+04/19/2016,12,FEET,41,DEGREES F,7.03,MG/L
+06/03/2016,1,FEET,68.3,DEGREES F,8.5,MG/L
+06/03/2016,6,FEET,65.4,DEGREES F,8.23,MG/L
+06/03/2016,12,FEET,49.4,DEGREES F,3.59,MG/L
+06/23/2016,1,FEET,79.3,DEGREES F,8.54,MG/L
+06/23/2016,6,FEET,70.1,DEGREES F,8.2,MG/L
+06/23/2016,12,FEET,49.8,DEGREES F,.35,MG/L
+07/20/2016,1,FEET,78.8,DEGREES F,8.23,MG/L
+07/20/2016,6,FEET,71.4,DEGREES F,8.49,MG/L
+07/20/2016,12,FEET,50.7,DEGREES F,.42,MG/L
+08/16/2016,1,FEET,75.9,DEGREES F,8.21,MG/L
+08/16/2016,6,FEET,72.8,DEGREES F,7.02,MG/L
+08/16/2016,12,FEET,55.5,DEGREES F,.3,MG/L
+08/23/2016,1,FEET,72.8,DEGREES F,8.29,MG/L
+08/23/2016,6,FEET,69.4,DEGREES F,7.97,MG/L
+08/23/2016,12,FEET,54.8,DEGREES F,.37,MG/L
+10/08/2016,1,FEET,70.1,DEGREES F,9,MG/L
+10/08/2016,6,FEET,66.2,DEGREES F,8.63,MG/L
+10/08/2016,12,FEET,58.8,DEGREES F,.33,MG/L
+05/25/2017,1,FEET,55.7,DEGREES F,8.62,MG/L
+05/25/2017,6,FEET,54.3,DEGREES F,8.59,MG/L
+05/25/2017,12,FEET,50,DEGREES F,7.06,MG/L
+07/05/2017,1,FEET,73.2,DEGREES F,7.63,MG/L
+07/05/2017,6,FEET,62.1,DEGREES F,5.14,MG/L
+07/05/2017,12,FEET,50.7,DEGREES F,.29,MG/L
+07/27/2017,1,FEET,76.3,DEGREES F,8.64,MG/L
+07/27/2017,6,FEET,66.7,DEGREES F,3.19,MG/L
+07/27/2017,12,FEET,51.6,DEGREES F,.38,MG/L
+08/13/2017,1,FEET,71,DEGREES F,8.77,MG/L
+08/13/2017,6,FEET,63.6,DEGREES F,5.07,MG/L
+08/13/2017,12,FEET,51.4,DEGREES F,.28,MG/L
+09/03/2017,1,FEET,65.4,DEGREES F,8.04,MG/L
+09/03/2017,6,FEET,60.5,DEGREES F,6.32,MG/L
+09/03/2017,12,FEET,53,DEGREES F,.34,MG/L
+06/08/2018,1,FEET,68.4,DEGREES F,8.43,MG/L
+06/08/2018,6,FEET,63.9,DEGREES F,7.41,MG/L
+06/08/2018,12,FEET,43.6,DEGREES F,.76,MG/L
+06/21/2018,1,FEET,73.1,DEGREES F,8.57,MG/L
+06/21/2018,6,FEET,66,DEGREES F,5.88,MG/L
+06/21/2018,12,FEET,47.1,DEGREES F,.61,MG/L
+07/08/2018,1,FEET,75,DEGREES F,7.73,MG/L
+07/08/2018,6,FEET,71.4,DEGREES F,7.34,MG/L
+07/08/2018,12,FEET,49.1,DEGREES F,.33,MG/L
+07/22/2018,1,FEET,71.6,DEGREES F,7.87,MG/L
+07/22/2018,6,FEET,70.3,DEGREES F,7.81,MG/L
+07/22/2018,12,FEET,48.8,DEGREES F,.31,MG/L
+07/31/2018,1,FEET,79.9,DEGREES F,7.64,MG/L
+07/31/2018,6,FEET,71.8,DEGREES F,7.85,MG/L
+07/31/2018,12,FEET,50.8,DEGREES F,.38,MG/L
+08/12/2018,1,FEET,82.4,DEGREES F,79.92,MG/L
+08/12/2018,6,FEET,73.4,DEGREES F,9.92,MG/L
+08/12/2018,12,FEET,52.7,DEGREES F,.39,MG/L
+09/15/2018,1,FEET,72.3,DEGREES F,8.59,MG/L
+09/15/2018,6,FEET,69.2,DEGREES F,8.35,MG/L
+09/15/2018,12,FEET,57,DEGREES F,.38,MG/L
+10/24/2018,1,FEET,46.9,DEGREES F,9.32,MG/L
+10/24/2018,6,FEET,44,DEGREES F,9.04,MG/L
+10/24/2018,12,FEET,43.6,DEGREES F,8.98,MG/L
+05/29/2019,1,FEET,63,DEGREES F,9.11,MG/L
+05/29/2019,6,FEET,55.6,DEGREES F,8.52,MG/L
+05/29/2019,12,FEET,49.8,DEGREES F,6.63,MG/L
+06/19/2019,1,FEET,72,DEGREES F,8.49,MG/L
+06/19/2019,6,FEET,61.9,DEGREES F,7.26,MG/L
+06/19/2019,12,FEET,48.2,DEGREES F,2.03,MG/L
+07/13/2019,1,FEET,79,DEGREES F,8.33,MG/L
+07/13/2019,6,FEET,72.1,DEGREES F,8.44,MG/L
+07/13/2019,12,FEET,50.5,DEGREES F,.34,MG/L
+07/28/2019,1,FEET,80.2,DEGREES F,8.48,MG/L
+07/28/2019,6,FEET,72.6,DEGREES F,8.06,MG/L
+07/28/2019,12,FEET,51.1,DEGREES F,.37,MG/L
+08/27/2019,1,FEET,67.1,DEGREES F,8.13,MG/L
+08/27/2019,6,FEET,65.9,DEGREES F,7.7,MG/L
+08/27/2019,12,FEET,52.7,DEGREES F,.29,MG/L
+09/01/2019,1,FEET,66.1,DEGREES F,10.06,MG/L
+09/01/2019,6,FEET,62.9,DEGREES F,6.05,MG/L
+09/01/2019,12,FEET,54.3,DEGREES F,.33,MG/L
+06/10/2020,1,FEET,72.7,DEGREES F,,
+06/10/2020,6,FEET,65.3,DEGREES F,,
+06/10/2020,12,FEET,52.3,DEGREES F,,
+06/18/2020,1,FEET,76.6,DEGREES F,,
+06/18/2020,6,FEET,67.2,DEGREES F,,
+06/18/2020,12,FEET,52.1,DEGREES F,,
+06/30/2020,1,FEET,82.5,DEGREES F,,
+06/30/2020,3,FEET,75.2,DEGREES F,,
+06/30/2020,6,FEET,62.6,DEGREES F,,
+06/30/2020,9,FEET,55.4,DEGREES F,,
+06/30/2020,12,FEET,50,DEGREES F,,
+07/20/2020,1,FEET,76,DEGREES F,8.37,MG/L
+07/20/2020,3,FEET,74.5,DEGREES F,8.21,MG/L
+07/20/2020,6,FEET,64.9,DEGREES F,3.41,MG/L
+07/20/2020,9,FEET,59.2,DEGREES F,1.01,MG/L
+07/20/2020,12,FEET,53.9,DEGREES F,.07,MG/L
+07/28/2020,1,FEET,76.9,DEGREES F,7.53,MG/L
+07/28/2020,3,FEET,70,DEGREES F,5.14,MG/L
+07/28/2020,6,FEET,66.4,DEGREES F,3.94,MG/L
+07/28/2020,9,FEET,58.3,DEGREES F,.13,MG/L
+07/28/2020,12,FEET,54,DEGREES F,.06,MG/L
+08/05/2020,1,FEET,69.5,DEGREES F,7.98,MG/L
+08/05/2020,3,FEET,67.7,DEGREES F,7.62,MG/L
+08/05/2020,6,FEET,64.2,DEGREES F,3.41,MG/L
+08/05/2020,9,FEET,58.3,DEGREES F,.14,MG/L
+08/05/2020,12,FEET,53.6,DEGREES F,.04,MG/L
+08/13/2020,1,FEET,77.8,DEGREES F,8.88,MG/L
+08/13/2020,3,FEET,72.2,DEGREES F,10.26,MG/L
+08/13/2020,6,FEET,65.2,DEGREES F,3.31,MG/L
+08/13/2020,9,FEET,58.5,DEGREES F,.18,MG/L
+08/13/2020,12,FEET,52.9,DEGREES F,.06,MG/L
+08/21/2020,1,FEET,74.6,DEGREES F,8.48,MG/L
+08/21/2020,3,FEET,73.1,DEGREES F,8.77,MG/L
+08/21/2020,6,FEET,66.4,DEGREES F,3.32,MG/L
+08/21/2020,9,FEET,58.1,DEGREES F,.21,MG/L
+08/21/2020,12,FEET,53.9,DEGREES F,.09,MG/L
+09/06/2020,1,FEET,64.7,DEGREES F,9.27,MG/L
+09/06/2020,3,FEET,64.1,DEGREES F,9.13,MG/L
+09/06/2020,6,FEET,62.2,DEGREES F,6.86,MG/L
+09/06/2020,9,FEET,59.5,DEGREES F,2.3,MG/L
+09/06/2020,12,FEET,53,DEGREES F,.09,MG/L
+09/22/2020,1,FEET,64.1,DEGREES F,10.12,MG/L
+09/22/2020,3,FEET,61.1,DEGREES F,10.26,MG/L
+09/22/2020,6,FEET,59.5,DEGREES F,10.24,MG/L
+09/22/2020,9,FEET,57.7,DEGREES F,6.67,MG/L
+09/22/2020,12,FEET,54.6,DEGREES F,.44,MG/L
+10/10/2020,1,FEET,57.3,DEGREES F,7.5,MG/L
+10/10/2020,3,FEET,55.8,DEGREES F,7.47,MG/L
+10/10/2020,6,FEET,55,DEGREES F,7.51,MG/L
+10/10/2020,9,FEET,54.6,DEGREES F,7.5,MG/L
+10/10/2020,12,FEET,53.7,DEGREES F,6.8,MG/L
+10/10/2020,15,FEET,53,DEGREES F,6.13,MG/L
+10/10/2020,18,FEET,51.4,DEGREES F,1.77,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/29/2006,Hot day 80F- water temp 78.5F- Sunny
+06/03/2006,Warm day- air temp 73.4 (1:30pm) water temp 77F at secchi test site
+06/23/2006,sunny and warm- 73F
+07/02/2006,sunny and 88F- windy- water temp 78F
+07/15/2006,very hot 94F- rained hard previous morning- water temp 81F- good fishing
+08/03/2006,lots of rain 2 days previous- lake has green slime along shore
+08/04/2006,Sunny and warm 70s- heavy green slime along shore- some green all over lake
+08/05/2006,sunny warm- 77F- some green slime on shore
+08/13/2006,green slime near shore and green particles near lake
+08/15/2006,windy and warm- water clarity OK- no green
+08/30/2006,water temp 72F- water clarity- clear
+09/04/2006,nice day- 70s
+09/14/2006,Cold night- previos- 40F- green slime in morning- water temp 63.1F
+10/08/2006,air temp 73F- water temp 58F
+06/28/2007,Wind NW 5-10 mph.  Sunny- few clouds.  Bob Greene helped.
+08/02/2007,Bits of algae present.  Sunny and windy.  82 F air temp.
+08/16/2007,Sunny and windy.  Bits of algae present- but very few.  69.4 F air temp.
+09/02/2007,Windy- sunny- air temp 79.7 F.  No algae today - bad yesterday.  Bob Greene helped.
+10/03/2007,Wind 5-10 mph.  Sunny.
+10/25/2007,Wind less than 5 mph.  Sunny.  Some algae present.
+09/15/2008,Overcast and calm.
+10/31/2008,Nice day.  Some algae suspended in the water.
+05/03/2009,Fairly nice day.
+05/24/2009,Chunks of algae floating on and below the suface.  First noticed 5/23.  Looks bad
+06/09/2009,Tiny algae particlel suspended throughout the lake (tiny grass-like pieces) suspended in the water.
+06/25/2009,Lots of green grass-like pieces suspended in the water.  Skum floating on top.
+08/09/2009,Sunny- windy- suspended algae throughout the lake.  Not as bad as previous week.
+08/23/2009,Sunny- little wind- slimy green along south shore- suspended algae everywhere in lake.  Loons gone.  A few boaters out.
+09/07/2009,Temp. 59 degrees F- sunny and clear. Calm winds (had been calm for 2-3 days over Labor Day weekend.  Thick algal scum on the lake and higher than normal amount of suspended algae in the water.  Without wind to move it around- the scum was all along the south and west shores.
+09/20/2009,Sunny.  Temp 70 degrees.  Moderately windy- 10 mpg out of the east.  Lake smelled rotten.
+05/22/2010,Overcast day- but warm.  Slight breeze.  Water clarity great.  NO ALGAE VISIBLE. Loon on the nest.  Pair of swans sighted.  Eagle flying over and fishing.  
+04/04/2012,Sunny 37 degrees F- winds NE 10 mph
+04/27/2012,Clear sky- slight breeze 5-10 mph. Water looks good - no algae.
+05/17/2012,Breezy and sunny. 10 to 15 mph. Water looks good - no algae. Clearst in a year.  Little rain this year.
+05/31/2012,Sunny- Slight breeze
+06/22/2012,Sunny and breezy- 10 to 15 mph. Water looks good. No algae (some floating stuff near shore.)  Four plus inches of rain earlier in the week.
+08/02/2012,Sunny- calm- warm.  Water still looks good- but some grass-like peices in suspension.
+10/04/2012,Sunny- windy 12-15 mph.  Temp 58 F.
+05/10/2013,Cold. 50s and snowy.  Ice out April 28.
+06/18/2013,Rain 2 days prior to testing.  Temps in low 70s.
+07/05/2013,Sunny.  Temp in 80s.
+07/22/2013,Warm. 80s days and cool evenings all week.
+07/28/2013,Cold and windy- 56 degrees
+08/22/2013,Sunny- 75 degrees- calm waters but a violent storm the night before with 60-70 mph winds from NW. Lake was filled with green chunks of floating algae-like matter. Winds came up this morning and was lake was clean by noon.
+05/22/2014,Overcast- 59 degrees. Cool and windy
+06/18/2014,Windy- overcast- 73 degrees- slight breeze
+07/04/2014,Sunny with slight breeze- 73 degrees
+07/24/2014,Sunny 66 degrees- Slight breeze
+08/05/2014,Pt sunny- 70 degrees- slight breeze
+08/28/2014,Cloudy 68 degrees
+10/10/2014,Windy- partly cloudy- 49 degrees
+04/24/2015,Sunny.  51 degrees- light wind 5 mph
+05/06/2015,60 degrees- few drops of rain and overcast. Slight breeze from north.
+06/05/2015,Sunny and windy- 60 degrees
+06/23/2015,Sunny and winds from the north. Sunny and winds from the north
+10/19/2015,Sunny- breezy- 64 degrees
+04/19/2016,Sunny and light breeze from North at 10 mph
+06/03/2016,Sunny and a slight breeze.
+06/23/2016,Sunny- 70 degrees.  Slight breeze out of North.  Loons are back.
+07/20/2016,Sunny and hot.  85 degrees F. SW winds 10-15 mph
+08/16/2016,Sunny and calm.  Some specks of algae and some little pieces of algae floating.
+08/23/2016,Partly sunny and breezy.
+10/08/2016,Little breezy- some spotty algae present. Cloudy.  Temperature 70 degrees.
+05/25/2017,Sunny- breezy- water is clear.
+06/16/2017,Sunny- 70 degrees- slight breeze.  Water looks good.
+07/05/2017,Hazy sun- 70 degrees- slight breeze- water looks clean
+07/27/2017,Partly cloudy and 75 degrees- water looks good - no algae- but quite stained.
+08/13/2017,Partly sunny and 77 degrees.  Breezy days- cool nights.  Water looks good after wind blows crud (seeds and tree droppings)
+09/03/2017,Sunny and 71 degrees- breezy. Water quality is good- no algae. 
+06/08/2018,Overcast 65 degrees- Slight breeze.  Loons on artificial nesting platform. Water looks pretty good.
+06/21/2018,Partly sunny- 66 degrees- Mild breeze.  Loons on ANP.  Water looks good
+07/08/2018,Sunny- 68 degrees- breezy- water looks great
+07/22/2018,Partly sunny- 72 degrees- breezy- water looks perfect
+07/31/2018,Sunny- mild breeze- water is beautiful
+08/12/2018,Sunny- 82 degrees- slight breeze- beautiful water- loons hanging around ANP
+09/15/2018,Sunny with a light breeze. Water full of green specs and some small pieces of algae in the bay.  One of our guests reported seeing 3 trumpeter swans.  Seems a little early- but I think she knows what they look like.
+10/24/2018,Sunny- 45 degrees- no wind- some flecks of algae in the water. Sunny- 45 degrees- no wind- some flecks of algae in the water.
+05/29/2019,Sunny-  less than 5 mph wind NNW- 70 degrees.  Cottonwood seeds and pollen on lake.
+06/19/2019,Partly sunny- 66 degrees- wind NE 10 mph. Loons on ANP. Water nice.
+07/13/2019,Sunny- windy- 76 degrees. Water is nice. Loons have a young one.
+07/28/2019,Temp 83 degrees- windy- cloudy. Lake very nice STILL. Baby loon still alive and thriving. 83 degrees- calm winds- cloudy.
+08/27/2019,60 degrees- sunny- breezy.  Water very nice.  No algae.
+09/01/2019,68 degrees- partly sunny- calm winds.
+06/10/2020,Partly sunny- breezy with large clouds. Overcast when measurements taken.  Heavy rain last night-
+06/18/2020,Sunny with scattered clouds.  Slight breeze.  Loons swimming nearby.  Visible particles suspended in the water.
+06/30/2020,Sunny day with scattered clouds.  Hot and humid.  Lake had ripples from the breeze.
+07/20/2020,Partly sunny- partly cloudy.  Lake rippling from the breeze.
+07/28/2020,Rained last night.  Stiff breeze.  Sunny with clouds.  Water rippling.  Pleasant temperature in the 70?s.
+08/05/2020,Partly sunny- partly cloudy.  Very breezy.  Cool - high 60?s - low 70?s.  Water rippling from the breeze.  Loon on the lake.
+08/13/2020,Sunny during observation with clouds.  Water rippling with light breeze.  Warm and pleasant.
+08/21/2020,Sunny with clouds. No Breeze.  The water is very still and calm.  It is warm and humid.
+09/06/2020,Very breezy- water ripples- sunny- mid 60?s.  Other boats on the water.
+09/22/2020,Warm mid 70?s.  Sunny with beautiful clear sky.  Breezy.  Water looks as if it has suspended particles floating.  There are campers in the campground and other boats on the lake.
+10/10/2020,Clear sunny day.  Breezy with rippling water.  Crisp and cool autumn day. Visible algae floating in the water.  Algae forming surface layer near lake shore.
+
+
+
+
+Start Date,Group Name,Project Name
+05/29/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/03/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/23/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/02/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/15/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/03/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/04/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/05/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/06/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/13/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/15/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/30/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/04/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/07/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/14/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/08/2006,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/28/2007,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/02/2007,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/16/2007,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/02/2007,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/03/2007,Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/25/2007,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/10/2008,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/15/2008,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/26/2008,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/23/2008,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/15/2008,Bob Greene- SANDRA J WICKMAN,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/15/2008,Sandy Wickman,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/31/2008,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/03/2009,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/24/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/09/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/25/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/05/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/09/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/09/2009,David Muench,Citizen Lake Monitoring Network QA/QC - 2009
+08/23/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/07/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/20/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/04/2009,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+04/14/2010,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/22/2010,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/17/2010,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/02/2010,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/06/2010,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+04/04/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+04/27/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/17/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/18/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/31/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/22/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/02/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/02/2012,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/12/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/31/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/09/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/04/2012,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/04/2012,David Muench and Bob Greene,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/10/2013,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/18/2013,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/05/2013,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/22/2013,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/28/2013,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/22/2013,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/22/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/05/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/18/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/04/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/07/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/24/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/29/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/05/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/27/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/28/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/07/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/25/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/10/2014,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+04/24/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/06/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/05/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/23/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/27/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/01/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/19/2015,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+04/19/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/03/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/23/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/20/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/16/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/23/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/08/2016,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/25/2017,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/16/2017,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/05/2017,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/27/2017,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/13/2017,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/03/2017,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/08/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/08/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/21/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/08/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/22/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/31/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/12/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/27/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/15/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/24/2018,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/08/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+05/29/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/19/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/13/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/28/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/27/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/01/2019,David Muench,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/10/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/18/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+06/30/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/20/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+07/28/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/05/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/13/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+08/21/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/06/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+09/22/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot
+10/10/2020,William Gebhard,Citizen Lake Monitoring - Water Quality - Bear Lake (552100); Deepest Spot

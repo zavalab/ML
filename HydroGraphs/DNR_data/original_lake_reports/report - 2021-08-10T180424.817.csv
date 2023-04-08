@@ -1,0 +1,504 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Sharon,Marquette,104700,NE,39,,393140,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188689,05/18/2003,17,YES,5.2,,,36,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8188689,06/09/2003,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188689,06/20/2003,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,07/13/2003,11.25,NO,3.4,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188689,07/22/2003,11.25,NO,3.4,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000091,08/19/2003,,,,3.47,15,,49,44,,,,,
+152607373,08/19/2003,9,NO,2.7,,,45,,,,,,,
+8188689,09/24/2003,11.5,NO,3.5,,,42,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,10/10/2003,18,YES,5.5,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+7000091,04/09/2004,16.7,,5.1,,11,37,47,,,,,,
+152607373,04/09/2004,16.7,NO,5.1,,,37,,,,,,,
+8188689,05/26/2004,19.25,YES,5.9,,,35,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188689,06/09/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,06/27/2004,8.5,NO,2.6,,,46,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188689,07/20/2004,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,08/05/2004,9.5,NO,2.9,,,45,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188689,08/15/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,09/04/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,09/22/2004,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188689,10/10/2004,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+152607373,04/20/2005,10.2,NO,3.1,,,44,,,,,,,
+8188689,06/03/2005,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188689,06/17/2005,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,07/03/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188689,07/20/2005,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188689,08/06/2005,11,NO,3.3,,,43,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188689,08/20/2005,8.5,NO,2.6,,,46,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188689,09/02/2005,8.5,NO,2.6,,,46,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188689,09/11/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188689,10/01/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+16116014,07/04/2006,8.75,NO,2.7,,,46,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/20/2006,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/04/2006,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/10/2006,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,08/14/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,08/22/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,09/02/2006,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,04/01/2007,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,05/25/2007,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,06/15/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,06/24/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,06/29/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,07/01/2007,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,07/04/2007,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,07/12/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,08/12/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,06/21/2008,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,06/28/2008,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/04/2008,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/11/2008,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/19/2008,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,07/26/2008,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/09/2008,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,08/30/2008,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,06/15/2009,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,06/30/2009,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,07/05/2009,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,07/19/2009,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,08/04/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/07/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/22/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+116239335,11/15/2009,,,,,11,,47,,,,,,
+116239335,04/11/2010,,,,,9,,45,,,,,,
+16116014,06/18/2010,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,06/23/2010,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/10/2010,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,07/17/2010,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116014,08/05/2010,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/17/2010,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,09/05/2010,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+116239335,11/14/2010,,,,,9,,45,,,,,,
+116239335,05/01/2011,,,,,19,,51,,,,,,
+16116014,07/04/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/16/2011,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+16116014,07/19/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116014,08/02/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+116239335,11/13/2011,,,,,17,,50,,,,,,
+116239335,03/25/2012,,,,,12,,47,,,,,,
+62786122,06/16/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/17/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/03/2012,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,07/08/2012,13.75,NO,4.2,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/29/2012,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/11/2012,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,08/19/2012,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,09/01/2012,16,,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,09/02/2012,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,10/12/2012,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116239335,11/17/2012,,,,,10,,46,,,,,,
+62786122,05/04/2013,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116239335,05/05/2013,,,,,23,,52,,,,,,
+62786122,05/06/2013,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,06/15/2013,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,06/16/2013,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,06/30/2013,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,07/06/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,08/29/2013,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,09/01/2013,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,10/18/2013,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116239335,11/10/2013,,,,,6,,42,,,,,,
+116239335,05/04/2014,13.5,NO,4.1,,15,40,49,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,06/07/2014,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,06/14/2014,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,07/04/2014,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,07/13/2014,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,07/19/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,07/26/2014,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+62786122,08/23/2014,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116239335,11/02/2014,,,,,16,,50,,,,,,
+1,04/05/2015,,,,,10,,46,,,,,,
+62786122,06/06/2015,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/21/2015,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/04/2015,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/11/2015,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/17/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/24/2015,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/02/2015,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/16/2015,11,NO,3.3,,,43,,,LOW,,MURKY,,2-Very minor aesthetic problems
+62786122,10/11/2015,16.25,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,11/15/2015,,,,,23,,52,,,,,,
+1,04/10/2016,,,,,10,,46,,,,,,
+62786122,06/11/2016,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/12/2016,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/18/2016,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/19/2016,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/01/2016,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/31/2016,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/13/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+62786122,08/14/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/31/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,09/03/2016,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,11/13/2016,,,,,6,,42,,,,,,
+1,04/02/2017,,,,,13,,48,,,,,,
+62786122,06/04/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/03/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/04/2017,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/08/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/09/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/23/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/28/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/29/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/18/2017,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/19/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/30/2017,,NO,,,,,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,08/31/2017,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,09/04/2017,,NO,,,,,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,05/28/2018,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/16/2018,10.5,NO,3.2,,,43,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+62786122,06/17/2018,11,NO,3.3,,,43,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+62786122,06/30/2018,12,NO,3.6,,,41,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+62786122,07/01/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/07/2018,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/15/2018,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/21/2018,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/29/2018,10,NO,3,,,44,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+62786122,08/04/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,08/19/2018,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+62786122,08/26/2018,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+62786122,09/03/2018,9.25,NO,2.8,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+62786122,09/12/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,09/19/2018,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,05/05/2019,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/06/2019,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/08/2019,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,08/03/2019,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,08/30/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,09/02/2019,11.5,NO,3.5,,,42,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+62786122,05/24/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,05/30/2020,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/27/2020,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,06/28/2020,,NO,,,,,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/05/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+62786122,07/26/2020,11.5,NO,3.5,,,42,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+62786122,08/02/2020,12.5,NO,3.8,,,41,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+62786122,08/16/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+62786122,09/05/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/19/2003,0.5,METERS,26.8,DEGREES C,8.7,MG/L
+08/19/2003,1,METERS,26.8,DEGREES C,8.8,MG/L
+08/19/2003,2,METERS,26.8,DEGREES C,8.6,MG/L
+08/19/2003,3,METERS,26.5,DEGREES C,8.2,MG/L
+08/19/2003,4,METERS,26.2,DEGREES C,8.2,MG/L
+08/19/2003,5,METERS,25.3,DEGREES C,6.9,MG/L
+08/19/2003,6,METERS,23.3,DEGREES C,1.3,MG/L
+08/19/2003,7,METERS,20.6,DEGREES C,.3,MG/L
+08/19/2003,8,METERS,18.6,DEGREES C,.2,MG/L
+04/09/2004,0.5,METERS,10.6,DEGREES C,11.9,MG/L
+04/09/2004,1,METERS,10.5,DEGREES C,11.9,MG/L
+04/09/2004,1.5,METERS,10.5,DEGREES C,11.9,MG/L
+04/09/2004,2,METERS,10.5,DEGREES C,11.9,MG/L
+04/09/2004,2.5,METERS,10.4,DEGREES C,11.9,MG/L
+04/09/2004,3,METERS,10.3,DEGREES C,11.9,MG/L
+04/09/2004,3.5,METERS,10.3,DEGREES C,11.9,MG/L
+04/09/2004,4,METERS,10.3,DEGREES C,11.9,MG/L
+04/09/2004,4.5,METERS,10.3,DEGREES C,12,MG/L
+04/09/2004,5,METERS,8.4,DEGREES C,12,MG/L
+04/09/2004,5.5,METERS,8,DEGREES C,11.6,MG/L
+04/09/2004,6,METERS,7.8,DEGREES C,11.3,MG/L
+04/09/2004,6.5,METERS,7.6,DEGREES C,11.1,MG/L
+04/20/2005,0.5,METERS,13.4,DEGREES C,13.2,MG/L
+04/20/2005,1,METERS,13.4,DEGREES C,13.2,MG/L
+04/20/2005,1.5,METERS,13.4,DEGREES C,13.1,MG/L
+04/20/2005,2,METERS,13.3,DEGREES C,13.1,MG/L
+04/20/2005,2.5,METERS,13.2,DEGREES C,13.1,MG/L
+04/20/2005,3,METERS,12.6,DEGREES C,13.6,MG/L
+04/20/2005,3.5,METERS,10.8,DEGREES C,13.5,MG/L
+04/20/2005,4,METERS,9,DEGREES C,14.6,MG/L
+04/20/2005,4.5,METERS,7.4,DEGREES C,15.1,MG/L
+04/20/2005,5,METERS,7,DEGREES C,15.11,MG/L
+04/20/2005,5.5,METERS,6.8,DEGREES C,15.6,MG/L
+04/20/2005,6,METERS,5.6,DEGREES C,14.6,MG/L
+04/20/2005,6.5,METERS,4.9,DEGREES C,14,MG/L
+04/20/2005,7,METERS,4.9,DEGREES C,13.4,MG/L
+04/20/2005,7.5,METERS,4.4,DEGREES C,12.6,MG/L
+04/20/2005,8,METERS,4.3,DEGREES C,12.1,MG/L
+04/20/2005,8.5,METERS,4.2,DEGREES C,11.1,MG/L
+04/20/2005,9,METERS,4.1,DEGREES C,10.2,MG/L
+04/20/2005,9.5,METERS,4,DEGREES C,10,MG/L
+04/20/2005,10,METERS,4,DEGREES C,9.3,MG/L
+04/20/2005,10.5,METERS,3.9,DEGREES C,9.1,MG/L
+04/20/2005,11,METERS,3.8,DEGREES C,8.9,MG/L
+04/20/2005,11.5,METERS,3.7,DEGREES C,8.5,MG/L
+04/20/2005,12,METERS,3.7,DEGREES C,8.1,MG/L
+04/20/2005,12.5,METERS,3.7,DEGREES C,7.8,MG/L
+04/20/2005,13,METERS,3.7,DEGREES C,7.6,MG/L
+04/20/2005,13.5,METERS,3.8,DEGREES C,7.5,MG/L
+04/20/2005,14,METERS,3.8,DEGREES C,7.2,MG/L
+04/20/2005,14.5,METERS,3.8,DEGREES C,7.2,MG/L
+04/20/2005,15,METERS,3.8,DEGREES C,6.3,MG/L
+04/20/2005,15.5,METERS,3.8,DEGREES C,5.9,MG/L
+11/15/2009,,,41,F,,
+04/11/2010,,,43,F,,
+11/14/2010,,,45,F,,
+05/01/2011,,,44,F,,
+11/13/2011,,,44,F,,
+03/25/2012,,,62,F,,
+11/17/2012,,,40,F,,
+05/05/2013,,,64,F,,
+11/10/2013,,,42,F,,
+05/04/2014,,,50,F,,
+11/15/2015,,,43,F,,
+04/10/2016,,,45,F,,
+11/13/2016,,,48,F,,
+04/02/2017,,,41,F,,
+
+
+
+Start Date,Fieldwork Comment
+08/19/2003,DEEP SPOT    
+04/09/2004,DEEP SPOT - BASELINE LAKES SPRING PROTOCOL    
+06/21/2008,Additional helpers: Matt DellaMaria- Bo DellaMaria
+
+Wildlife spotted so far this summer: Bald Eagle with one younger eagle- large and small snapping turtles with largest shell being over 12 inches in lenghth- various fish species- red bellied grass snake. 
+
+Lake level appears to be near 10 year high or more
+
+
+05/06/2013,Clear- calm water.  Full ice out within 3 weeks (or less of reading).
+05/04/2014,Water was very clear in color.  Ice had been out for 2.0-2.5 weeks.
+06/07/2014,Water is relatively clear.  Appearance of some marl near surface.
+06/14/2014,Water is still relatively clear.  More marl or other debris in water.
+07/04/2014,Significant holiday boat traffic with skiing and tubing from 11am - 3pm.
+07/19/2014,Greater than normal boat traffic with skiing and tubing from 11am - 3pm.
+07/26/2014,Much less than normal boat traffic during wake operational periods from 11am - 3pm
+08/23/2014,Very overcast and cloudy.
+06/06/2015,Marl clumps present and floating in lake.  Very many schools of minnows.
+06/21/2015,Lesser clumps of Marl floating in open water.  Most of the marl is at the shoreline.
+07/04/2015,Heavy boat traffic on 7/3 - 7/4/15 for July 4th holiday.  
+07/11/2015,Fair amount of boat traffic but less than that over the July 4th holiday.
+07/17/2015,No boat traffic on 7/17/15 (Day of the reading).  Minimal boat traffic Monday - Friday (7/13-7/17)
+08/16/2015,Presence of marl floating in water.  Very heavy boat traffic and use of the lake.  Lake depth has dropped approximately 12" since spring.
+10/11/2015,Clear day and calm.  Little sediment in lake.  Water was calm/glass like.  Lake level is approximately 12-16" lower than that of spring time.
+07/31/2016,Very much boat traffic over weekend when the readings were taken.
+08/13/2016,Can detect small pieces of marl in the water
+08/14/2016,Can detect small pieces of marl in the water
+08/31/2016,No boat traffic on the lake for 2-3 days
+09/03/2016,Labor Day weekend with very much boat traffic.  Very sunny day.
+07/03/2017,Small suspended sediment in water
+07/04/2017,Small suspended sediment in water
+07/08/2017,Small sediment suspended in water
+07/09/2017,Small sediment suspended in water
+07/23/2017,Small suspended sediment in wter
+08/30/2017,Virtually no lake traffic/boating during the day
+08/31/2017,No boat traffic during the day
+09/04/2017,A lot of weekend boat traffic.  Very overcast
+05/28/2018,Very much marl and pine pollen which made the lake appear less clear than normal
+07/01/2018,Very cloudy.  Storm imminent.  Poor lighting conditions.
+07/07/2018,Water was clear but obvious that sediment from powerboats had been kicked up and suspended in water.
+07/15/2018,Water clear.  Some sediment.  Less powerboat traffic during the week.
+07/21/2018,Heavily overcast skys
+07/29/2018,Overcast sky
+08/19/2018,Lake stirred up by a lot of boat traffic and floating marl
+08/26/2018,Cloudy and overcast
+09/03/2018,Cloudy and overcast
+09/12/2018,Little to no boat traffic
+09/19/2018,Minimum boating traffic during the week preceding the seechi disk reading.
+07/06/2019,No wake speed restriction in place on lake due to high water levels.  Sediment suspended in water.  Unsure if the sediment is plant debris.
+07/08/2019,Lake under no wake restrictions due to high water level.  Sediment suspended in water which I am unsure if it is plant debris.
+08/03/2019,Lake is under no wake restrictions due to high water level.  The no wake speed restriction was imposed in 2019.
+08/30/2019,No wake speed limit restriction in place.  Small particulate suspended in water.
+09/02/2019,No wake speed restriction in place on lake.  Small particulate suspended in water.
+05/24/2020,Small amounts of marl floating in lake.  No wake speed limit remains in effect.
+05/30/2020,Small amounts of marl floating in lake.  No wake speed limit remains in effect.
+06/27/2020,Small amounts of marl floating in lake.  No wake speed limit remains in effect.
+06/28/2020,Small amounts of marl floating in lake.  No wake speed limit remains in effect.
+07/05/2020,Small amounts of marl floating in lake.  No wake speed limit remains in effect.
+07/26/2020,Slow- no wake speeds in force.  No significant marl particulate in water.  Overcast.
+08/02/2020,Slow- no wake speeds in force.  Small particulate (marl?) floating in water.  Partially overcast.
+08/16/2020,Wake speeds allowed.  Eurasian milfoil and marl particulate floating in water.
+09/05/2020,Wake speeds allowed.  Eurasian milfoil and marl particulate floating in water.
+
+
+
+
+Start Date,Group Name,Project Name
+05/18/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/09/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/20/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/13/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/22/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/19/2003,MARK F SESING- Scott M Provost,Lake Baseline Monitoring- DNR (1970s-2006)
+08/19/2003,Mark Sesing,Long-Term Trend  (LTT) River Network (USGS flow gages 00100)
+09/24/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+10/10/2003,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+04/09/2004,MARK F SESING- Scott M Provost,Lake Baseline Monitoring- DNR (1970s-2006)
+04/09/2004,Mark Sesing,Lake Baseline Monitoring- DNR (1970s-2006)
+05/26/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/09/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/27/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/20/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/05/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/15/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/04/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/22/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+10/10/2004,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+04/20/2005,MARK F SESING- Scott M Provost,Lake Baseline Monitoring- DNR (1970s-2006)
+06/03/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/17/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/03/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/20/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/06/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/20/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/02/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/11/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+10/01/2005,Ron Luteyn,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/04/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/20/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/04/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/10/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/14/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/22/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/02/2006,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+04/01/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/25/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/15/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/24/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/29/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/01/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/04/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/12/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/12/2007,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/21/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/28/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/04/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/11/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/19/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/26/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/09/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/30/2008,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/15/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/30/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/05/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/19/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/04/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/07/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/22/2009,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/15/2009,Mike Jacobi,
+04/11/2010,Mike Jacobi,
+06/18/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/23/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/10/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/17/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/05/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/17/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/05/2010,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/14/2010,Mike Jacobi,
+05/01/2011,Mike Jacobi,
+07/04/2011,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/16/2011,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/19/2011,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/02/2011,Michelle DellaMaria ,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/13/2011,Mike Jacobi,
+03/25/2012,Mike Jacobi,
+06/16/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/17/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/03/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/08/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/29/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/11/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/19/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/01/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/02/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+10/12/2012,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/17/2012,Mike Jacobi,
+05/04/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/05/2013,Mike Jacobi,
+05/06/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/15/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/16/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/30/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/06/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/29/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/01/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+10/18/2013,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/10/2013,Mike Jacobi,
+05/04/2014,Mike Jacobi,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/04/2014,Mike Jacobi,
+06/07/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/14/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/04/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/13/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/19/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/26/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/23/2014,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/02/2014,Mike Jacobi,
+04/05/2015,Data Collectors,
+06/06/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/21/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/04/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/11/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/17/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/24/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/02/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/16/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+10/11/2015,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/15/2015,Data Collectors,
+04/10/2016,Data Collectors,
+06/11/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/12/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/18/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/19/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/01/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/31/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/13/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/14/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/31/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/03/2016,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+11/13/2016,Data Collectors,
+04/02/2017,Data Collectors,
+06/04/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/03/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/04/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/08/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/09/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/23/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/28/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/29/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/18/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/19/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/30/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/31/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/04/2017,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/28/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/16/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/17/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/30/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/01/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/07/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/15/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/21/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/29/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/04/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/19/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/26/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/03/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/12/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/19/2018,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/05/2019,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/06/2019,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/08/2019,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/03/2019,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/30/2019,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/02/2019,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/24/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+05/30/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/27/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+06/28/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/05/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+07/26/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/02/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+08/16/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole
+09/05/2020,Mark Figurski,Citizen Lake Monitoring - Water Quality - Lake Sharon; Deep Hole

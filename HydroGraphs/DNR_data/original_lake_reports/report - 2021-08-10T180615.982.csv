@@ -1,0 +1,403 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Marquette,168190,NE,39,,393136,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190500,07/25/1990,5,YES,1.5,,,54,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190500,08/15/1990,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190500,08/29/1990,5.5,YES,1.7,,,53,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190500,09/13/1990,5,YES,1.5,,,54,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190500,09/25/1990,5,NO,1.5,,,54,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190500,10/20/1990,6,YES,1.8,,,51,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190500,04/02/1991,0.5,NO,0.2,,,87,,,NORMAL,,,BROWN,
+8190500,05/15/1991,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190500,06/27/1991,6,NO,1.8,,,51,,,NORM/LOW,,,BROWN,1-Beautiful, could not be nicer
+8190500,07/19/1991,6.5,NO,2,,,50,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190500,08/13/1991,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189413,05/10/1999,5.75,NO,1.7,,,52,,,NO CHANGE,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189447,06/18/1999,5,NO,1.5,,,54,,,GAUGE,6.7,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189447,06/28/1999,5,NO,1.5,,,54,,,NO CHANGE,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189413,07/17/1999,5.75,NO,1.7,,,52,,,GAUGE,6.8,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189447,08/04/1999,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189447,08/29/1999,6,YES,1.8,,,51,,,GAUGE,6.7,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,09/18/1999,5.25,YES,1.6,,,53,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,05/28/2000,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189447,06/10/2000,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,07/01/2000,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,07/13/2000,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,08/12/2000,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,09/13/2000,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,10/21/2000,6.25,YES,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189447,05/28/2001,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8189447,07/04/2001,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,07/22/2001,6.25,YES,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,08/04/2001,6.25,YES,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,09/04/2001,6.25,YES,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,05/27/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189447,06/22/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/21/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,08/25/2002,6,YES,1.8,,,51,,,LOW,,CLEAR,GREEN/BROWN,2-Very minor aesthetic problems
+8188806,09/21/2002,7,YES,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,06/01/2003,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,06/21/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/20/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,08/11/2003,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,05/15/2004,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188806,06/12/2004,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188806,07/10/2004,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188806,08/14/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,09/18/2004,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,04/20/2005,5.5,NO,1.7,7.21,16,53,50,50,,,,,
+8188806,06/12/2005,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000091,06/14/2005,5.6,NO,1.7,2.51,24,52,53,42,,,,,
+8188806,07/15/2005,7,YES,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16073539,07/20/2005,3.7,NO,1.1,2.77,37,58,56,43,,,,,
+7000091,08/31/2005,6.1,YES,1.9,4.13,29,51,54,46,,,,,
+7000091,11/07/2005,6.2,YES,1.9,6.87,27,51,54,49,,,,,
+16073539,02/15/2006,5.8,YES,1.8,,19,52,51,,,,,,
+8188806,05/20/2006,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,06/04/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,06/12/2006,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/03/2006,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/15/2006,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/22/2006,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,08/13/2006,5.5,YES,1.7,,,53,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188806,09/30/2006,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,05/27/2007,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188806,06/09/2007,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188806,06/15/2007,,,,,,,,,,,,,
+8188806,06/23/2007,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188806,07/07/2007,6,YES,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188806,07/21/2007,6.25,YES,1.9,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188806,07/09/2008,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188806,08/09/2008,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188806,09/01/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,05/17/2009,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188806,05/24/2009,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188806,07/05/2009,6.5,YES,2,,,50,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188806,07/19/2009,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,08/04/2009,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,08/23/2009,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,09/06/2009,6,YES,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188806,06/16/2010,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/17/2010,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,07/09/2011,,,,6.32,31,,55,49,,,,,
+8188806,07/11/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188806,08/09/2011,6,NO,1.8,15.8,24,51,53,56,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+60710915,06/16/2012,5.6,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,06/16/2012,,,,15,41,,57,55,,,,,
+60710915,07/30/2012,6,,1.8,,,51,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+60710915,09/01/2012,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,06/30/2013,,,,4.52,19.5,,51,46,,,,,
+67210096,06/30/2013,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+67210096,07/27/2013,5,NO,1.5,8.88,25.9,54,53,51,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+67210096,08/24/2013,,,,4.46,11.7,,47,46,,,,,
+67210096,04/20/2014,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,06/28/2014,3.5,NO,1.1,7.39,33.4,59,55,50,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,07/28/2014,5.5,NO,1.7,5.02,17.1,53,50,47,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,08/31/2014,6,NO,1.8,4.45,29.4,51,54,46,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+60710915,06/30/2015,,,,3.19,23.7,,53,44,,,,,
+67210096,06/30/2015,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,07/28/2015,5, ,1.5,14.9,36.8,54,56,55,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67210096,08/30/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,06/26/2016,6,NO,1.8,3.43,31.7,51,55,44,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67210096,07/31/2016,6,NO,1.8,3.22,26,51,53,44,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,08/20/2016,6,NO,1.8,4.02,12.6,51,48,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+67210096,06/23/2017,6,YES,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+143653383,06/25/2017,,,,3.33,28.8,,54,44,,,,,
+67210096,08/06/2017,,YES,,,,,,,NORMAL,,MURKY,BROWN,
+143653383,08/11/2017,,,,4.37,31.8,,55,46,,,,,
+67210096,06/23/2018,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67210096,08/18/2018,,YES,,,,,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+143653383,08/18/2018,,,,13.9,42.5,,57,55,,,,,
+143653383,06/22/2019,,,,10.8,34.3,,56,53,,,,,
+67210096,06/23/2019,,NO,,,,,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67210096,07/21/2019,,NO,,,,,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+67210096,06/21/2020,,NO,,9.05,27.5,,54,51,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67210096,08/02/2020,,NO,,,,,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+143653383,08/02/2020,,,,8.63,18.5,,51,51,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/20/2005,1.5,FEET,,,9.9,MG/L
+04/20/2005,4.5,FEET,,,10.1,MG/L
+04/20/2005,,,18.6,C,10.1,MG/L
+06/14/2005,,,27.4,C,9.5,MG/L
+07/20/2005,,,27.4,C,6.9,MG/L
+08/31/2005,,,23.5,C,6.7,MG/L
+11/07/2005,,,8.9,C,10.7,MG/L
+02/15/2006,,,4.5,C,11.1,MG/L
+06/15/2007,3,FEET,87,DEGREES F,,
+06/15/2007,6,FEET,82,DEGREES F,,
+06/23/2007,3,FEET,79,DEGREES F,7.8,MG/L
+06/23/2007,5,FEET,73.7,DEGREES F,7.8,MG/L
+07/07/2007,3,FEET,82,DEGREES F,,
+07/07/2007,5,FEET,79.7,DEGREES F,,
+07/21/2007,3,FEET,79.7,DEGREES F,7.7,MG/L
+07/21/2007,5,FEET,76.1,DEGREES F,6.4,MG/L
+05/17/2009,1,FEET,62.6,DEGREES F,6.4,MG/L
+05/17/2009,6.5,FEET,60.2,DEGREES F,6.4,MG/L
+07/05/2009,0,FEET,74.1,DEGREES F,,
+07/05/2009,3,FEET,,,6.2,MG/L
+07/05/2009,5,FEET,72.8,DEGREES F,6.2,MG/L
+08/04/2009,1,FEET,78.8,DEGREES F,6.8,MG/L
+08/04/2009,5,FEET,75.5,DEGREES F,6.2,MG/L
+08/23/2009,1,FEET,71.2,DEGREES F,,
+08/23/2009,3,FEET,,,6.3,MG/L
+08/23/2009,5,FEET,71.2,DEGREES F,6.4,MG/L
+09/06/2009,3,FEET,72.8,DEGREES F,7.2,MG/L
+09/06/2009,5,FEET,71.9,DEGREES F,6.9,MG/L
+06/16/2010,3,FEET,71.6,DEGREES F,7.8,MG/L
+06/16/2010,6,FEET,67.6,DEGREES F,7.7,MG/L
+07/17/2010,3,FEET,83,DEGREES F,7.6,MG/L
+07/11/2011,3,FEET,81.8,DEGREES F,7.5,MG/L
+07/11/2011,6,FEET,79.7,DEGREES F,5.9,MG/L
+08/09/2011,3,FEET,80.6,DEGREES F,5,MG/L
+08/09/2011,5,FEET,80.4,DEGREES F,4.9,MG/L
+06/16/2012,3,FEET,77.7,DEGREES F,8.78,MG/L
+06/16/2012,5,FEET,75.3,DEGREES F,9,MG/L
+07/30/2012,3,FEET,83.6,DEGREES F,9.99,MG/L
+07/30/2012,5,FEET,82,DEGREES F,8.06,MG/L
+09/01/2012,3,FEET,79.5,DEGREES F,9.31,MG/L
+09/01/2012,5,FEET,78.8,DEGREES F,8.35,MG/L
+06/30/2013,3,FEET,77.6,DEGREES F,6.35,MG/L
+06/30/2013,5,FEET,74.7,DEGREES F,6.13,MG/L
+07/27/2013,3,FEET,72.8,DEGREES F,6.58,MG/L
+07/27/2013,5,FEET,73.2,DEGREES F,6.38,MG/L
+04/20/2014,3,FEET,53.9,DEGREES F,10.91,MG/L
+04/20/2014,5,FEET,52.6,DEGREES F,10.89,MG/L
+06/28/2014,3,FEET,79.3,DEGREES F,7.13,MG/L
+06/28/2014,5,FEET,76.6,DEGREES F,1.94,MG/L
+07/28/2014,3,FEET,74,DEGREES F,6.46,MG/L
+07/28/2014,5,FEET,74.2,DEGREES F,6.13,MG/L
+08/31/2014,3,FEET,77.4,DEGREES F,7,MG/L
+08/31/2014,5,FEET,770,DEGREES F,5,MG/L
+06/30/2015,3,FEET,75.1,DEGREES F,8.51,MG/L
+06/30/2015,5,FEET,74.1,DEGREES F,6.08,MG/L
+07/28/2015,3,FEET,81.2,DEGREES F,7.74,MG/L
+07/28/2015,5,FEET,81.3,DEGREES F,7.91,MG/L
+08/30/2015,3,FEET,70.5,DEGREES F,8.01,MG/L
+08/30/2015,5,FEET,69.6,DEGREES F,8.12,MG/L
+06/26/2016,3,FEET,82.5,DEGREES F,9.4,MG/L
+06/26/2016,5,FEET,80.4,DEGREES F,10.38,MG/L
+07/31/2016,3,FEET,77.6,DEGREES F,7.68,MG/L
+07/31/2016,5,FEET,77.5,DEGREES F,7.28,MG/L
+08/20/2016,3,FEET,79.8,DEGREES F,6.65,MG/L
+08/20/2016,5,FEET,79.7,DEGREES F,6.55,MG/L
+06/23/2017,3,FEET,71,DEGREES F,5.5,MG/L
+06/23/2017,5,FEET,71,DEGREES F,5.4,MG/L
+08/18/2018,3,FEET,79.5,DEGREES F,4.74,MG/L
+08/18/2018,5,FEET,79.6,DEGREES F,3.89,MG/L
+08/18/2018,8,FEET,79.6,DEGREES F,2.05,MG/L
+06/23/2019,3,FEET,74.2,DEGREES F,8.71,MG/L
+06/23/2019,5,FEET,73.2,DEGREES F,8.26,MG/L
+06/23/2019,8,FEET,69.3,DEGREES F,2.02,MG/L
+07/21/2019,3,FEET,83.5,DEGREES F,6.06,MG/L
+07/21/2019,5,FEET,81.7,DEGREES F,4.76,MG/L
+07/21/2019,8,FEET,80.6,DEGREES F,2.17,MG/L
+06/21/2020,3,FEET,81.3,DEGREES F,10.05,MG/L
+06/21/2020,5,FEET,78.3,DEGREES F,9.21,MG/L
+06/21/2020,7,FEET,74.2,DEGREES F,1.35,MG/L
+08/02/2020,3,FEET,80.5,DEGREES F,7.24,MG/L
+08/02/2020,5,FEET,80.3,DEGREES F,6.68,MG/L
+08/02/2020,8,FEET,79,DEGREES F,.56,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/1990,Clear- light wind- water clear.    
+08/15/1990,Overcast- windy- water clear.    
+10/20/1990,Clear sunny day.    
+04/02/1991,Ice off: 3/30.    
+06/27/1991,Lake is clear- Packers Bay is murky.    
+08/13/1991,Weed cutting recently- no algae.    
+05/10/1999,Disc was no longer visible through weeds.  Very windy.    
+06/18/1999,Hit weeds at 5 feet.    
+06/28/1999,Weeds too thick at 5 feet to see disc any lower.  Weed cutter cutting weeds.    
+07/17/1999,Calm + sunny.  No weed cutting today.  Weeds thick at 5 feet.    
+08/04/1999,Water not as clear.  A lot of suspended particles.    
+08/29/1999,Cleared up since last reading.  Still weedy.  Not as warm    
+09/18/1999,Weeds still thick.    
+05/28/2000,Weeds very thick- couldn't see secchi below 5'- water very clear- and saw lots of fish.    
+06/10/2000,Weeds very thick and some weed cutting going on.    
+07/01/2000,A lot of weeds- not much weed cutting this summer- and the water is clear.    
+07/13/2000,Water is clear- lost sigh of disc in weeds.    
+08/12/2000,Water is clear- too many weeds to see any deeper.    
+09/13/2000,The secchi disc made a break for freedom- left the rope and headed for the bottom.    
+10/21/2000,Water is very clear and the weeds are dying.    
+05/28/2001,Water cloudy- weeds growing up fast.    
+07/04/2001,Water clear. Less weeds than previous years.    
+07/22/2001,Water very clear. Weeds not too bad.    
+08/04/2001,Water getting a little murky- but not bad. More weeds.    
+09/04/2001,Water back to clear. Weeds not too bad.    
+05/27/2002,lost sight of disc in the weeds- water is very clear.    
+06/22/2002,Disc hit weeds.    
+07/21/2002,Weedy- measured in Hood's Bay.    
+08/25/2002,Sunny day- measured in Hood's Bay.    
+09/21/2002,sunny day- weedy- just lost site at bottom-Hoods Bay.    
+05/15/2004,flooding level high- murky    
+06/12/2004,flooding weedy level high    
+07/10/2004,weedy- murky- still high    
+08/14/2004,level more normal- weeds better    
+09/18/2004,much better- lake clear    
+04/20/2005,DEEP SPOT- NEAR BOTTOM - 3 LITER VAN DORN    
+06/14/2005,NEAR BOTTOM- 3 LITER VAN DORN    
+07/20/2005,NEAR SURFACE- 3FT VAN DORN SAMPLE    
+08/31/2005,DEEP SPOT- NEAR SURFACE - 3 LITER VAN DORN    
+11/07/2005,NEAR BOTTOM - 3 LITER VAN DORN    
+02/15/2006,NEAR SURFACE - 3 LITER VAN DORN    
+05/20/2006,Mainly sunny- disk just hit bottom- lost in weeds at bottom
+06/04/2006,Not as clear.  The cutter was running and stirred up the loake.
+06/12/2006,Sunny day- water looked good.
+07/03/2006,Lost in weeds just at bottom.  Suinny.  Water clear and looks good.
+07/15/2006,Sunny- lake looks good.  Water some grren witht he brown.
+07/22/2006,Sunny day- lake looks good
+08/13/2006,Water quality not quite as good.  Not a clear.  Speed boats on the lake.  Partly cloudy- level low.
+09/30/2006,Disk hit bottom- lost in weeds at bottom.  Lake looks good and clear.
+05/27/2007,Sunny day.  Lake looked good.  Some what weedy.  Water clear.  
+06/09/2007,Sunny day- the lake look good.  Weedy.  The weed cutter had been down for a couple of days.  Lost the disk in the weeds.  The water was clear all the way down.
+06/15/2007,Training on data collection for O2 and temp.  O2 taken from packers bay.
+06/23/2007,Weather clear- sunny- lake looks good- fairly weedy as ussual.  Water clear
+07/07/2007,Sunny- clear day- lake looks good- a little low.
+07/21/2007,Weather clear- sunny- mid 70's  nice daty.  Lake level is low.
+07/09/2008,Sunny- some clouds but sun strong.  Warm.  Lake level was high- there had been flooding and a lot of inflow into the lake. The lake was weedy.  The conveyor had been broken and cutting could not be done.  
+08/09/2008,There had been quite a biit of rain and runnoff.  The weather was clear- sunny.  When swimming noted that there was a lot of silt in the water that clung to the skin.  The water was dark in color and somewhat murky.  The weeds were not bad- had not reached the surface.  Contacted DNR- many lakes in the area reported reduced weeds.  Due to runoff from nearby farms and turbidity in teh lake filtering the sunlight.
+09/01/2008,Sunny.  The lake looked better.  The level was back to normal.  The rainfall was normal- there had not been any for several days.  The lake looked clearer- when swimming did not notice the silt.  Color not quite as dark.
+05/17/2009,Measurement just before lakeshore weed treatment.
+05/24/2009,Sunny day- little wind- minimal weeds in the lake
+07/05/2009,Mainly sunny- little to no wind.  The lake looked good.  The water was very clear.  The weed load seemed to be less than usual.
+07/19/2009,Lake was exceptionally clear.  Could see the disk all the way to the bottom. Lake looked could.  The weeds seemed to be not bad at all.
+08/04/2009,nny day- lake clear.  Could see sechi all the way to the bottom..  Color light brown.  Lake looked good.  GPS - N43D 45.800 min W89D 89.22761 min
+08/23/2009,Partly sunny- the lake was good.  The color was a light brown but real light.  2 - 3 feet it appeared clear.  Could see the disk to the bottom.  The air temperature was 66.2 There were some more weeds but the weeds were not bad.
+09/06/2009,Weather clear- the lake looked good.  Clear view to the bottom.  The color was a light yellow.
+06/16/2010,Partly cloudy - some sun- nice day.  Water a little less clear at this site.
+07/17/2010,Weather was good- phosphourus and clorophyl samples also taken
+07/11/2011,Cloudy morning.  
+08/09/2011,Partly cloudy- nice day
+06/16/2012,Additional helpers:  Geoff Iverson and Joyce Portz
+
+Weather:  cloudy and warm
+09/01/2012,Very windy with mostly sunny skies.  Many cranes in the area.  Very weedy at the bottom and struggled to find a spot to test because of the many weeds.
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1990,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/15/1990,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/29/1990,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/13/1990,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/25/1990,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+10/20/1990,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+04/02/1991,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/15/1991,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/27/1991,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/19/1991,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/13/1991,Harold Pettengell,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/10/1999,Mary Murren,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/18/1999,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/28/1999,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/17/1999,Mary Murren,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/04/1999,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/29/1999,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/18/1999,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/28/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/10/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/01/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/13/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/12/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/13/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+10/21/2000,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/28/2001,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/04/2001,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/22/2001,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/04/2001,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/04/2001,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/27/2002,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/22/2002,Steve Gackstetter,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/21/2002,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/25/2002,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/21/2002,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/01/2003,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/21/2003,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/20/2003,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/11/2003,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/15/2004,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/12/2004,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/10/2004,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/14/2004,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/18/2004,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+04/20/2005,Data Collectors,WILLIAMS LAKE DISTRICT: Williams Lake Watershed and P Appraisal Phase 1
+06/12/2005,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/14/2005,Mark Sesing,WILLIAMS LAKE DISTRICT: Williams Lake Watershed and P Appraisal Phase 1
+07/15/2005,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/20/2005,Tim Hoyman - Onterra- LLC,WILLIAMS LAKE DISTRICT: Williams Lake Watershed and P Appraisal Phase 1
+08/31/2005,Mark Sesing,WILLIAMS LAKE DISTRICT: Williams Lake Watershed and P Appraisal Phase 1
+11/07/2005,Mark Sesing,WILLIAMS LAKE DISTRICT: Williams Lake Watershed and P Appraisal Phase 1
+02/15/2006,Tim Hoyman - Onterra- LLC,WILLIAMS LAKE DISTRICT: Williams Lake Watershed and P Appraisal Phase 1
+05/20/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/04/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/12/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/03/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/15/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/22/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/13/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/30/2006,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/27/2007,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/09/2007,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/15/2007,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/23/2007,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/07/2007,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/21/2007,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/09/2008,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/09/2008,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/01/2008,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/17/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+05/24/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/05/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/19/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/04/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/23/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/06/2009,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/16/2010,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/17/2010,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/09/2011,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/11/2011,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/09/2011,Geoff Iverson,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/16/2012,Herb Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/16/2012,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/30/2012,Herb Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+09/01/2012,Herb Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/30/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/30/2013,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/27/2013,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/24/2013,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+04/20/2014,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/28/2014,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/28/2014,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/31/2014,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/30/2015,Herb Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/30/2015,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/28/2015,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/30/2015,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/26/2016,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/31/2016,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/20/2016,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/23/2017,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/25/2017,Sherry Brummer,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/06/2017,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/11/2017,Sherry Brummer,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/23/2018,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/18/2018,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/18/2018,Sherry Brummer,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/22/2019,Sherry Brummer,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/23/2019,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+07/21/2019,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+06/21/2020,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/02/2020,Herb and Joyce Portz,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole
+08/02/2020,Sherry Brummer,Citizen Lake Monitoring - Water Quality - Williams Lake; Deep Hole

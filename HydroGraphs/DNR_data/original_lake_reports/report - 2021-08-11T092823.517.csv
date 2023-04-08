@@ -1,0 +1,461 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lower Ninemile Lake,Vilas,1605200,NO,64,,443409,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190603,05/29/1993,7,NO,2.1,,,49,,,NORMAL,,,LIGHT BROWN,1-Beautiful, could not be nicer
+8190603,06/11/1993,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,06/21/1993,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,06/26/1993,7,NO,2.1,,,49,,,APX 2" DEEPER,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,07/14/1993,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,07/21/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,07/28/1993,7,YES,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,08/04/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,08/12/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,08/19/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,08/25/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,09/06/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,09/19/1993,7,YES,2.1,,,49,,,DOWN 1",,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,09/24/1993,7,YES,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,05/10/1994,5,NO,1.5,,,54,,,HIGH,,,BROWN,
+8190603,05/21/1994,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,05/27/1994,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190603,06/02/1994,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,
+8190603,06/09/1994,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190603,06/18/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,
+8190603,07/02/1994,5,NO,1.5,,,54,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190603,07/20/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190603,07/27/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190603,08/16/1994,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190603,08/26/1994,6,NO,1.8,,,51,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190603,09/02/1994,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190603,09/09/1994,7,NO,2.1,,,49,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190603,09/16/1994,7,NO,2.1,,,49,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191127,07/13/1995,6,NO,1.8,,,51,,,NORMAL,,,BROWN,
+8191127,08/04/1995,6.5,NO,2,,,50,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190603,06/07/1996,5,NO,1.5,,,54,,,NORMAL,1643.7,,BROWN,2-Very minor aesthetic problems
+8190603,09/01/1996,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190603,09/09/1996,6,NO,1.8,,,51,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/07/2000,6.6,,2,1,20,50,51,35,,,,,
+1,07/12/2000,4.9,,1.5,7,16,54,50,50,,,,,
+1,08/07/2000,8.5,,2.6,4,22,46,52,45,,,,,
+1,10/11/2000,4.9,,1.5,2.6,18,54,51,42,,,,,
+7000068,06/06/2001,,,,3,,,,43,,,,,
+7000068,07/03/2001,,,,3.3,25,,53,44,,,,,
+7000068,08/15/2001,,,,2.3,27,,54,41,,,,,
+7000068,10/23/2001,,,,6,19,,51,48,,,,,
+7000068,06/25/2002,,,,9.1,44,,57,51,,,,,
+7000068,07/22/2002,,,,16,34,,55,56,,,,,
+7000068,08/26/2002,,,,3.98,20,,51,45,,,,,
+7000068,10/15/2002,,,,6.16,29,,54,49,,,,,
+43061320,06/23/2010,,,,,,,,,,,,,
+43061320,07/13/2010,4.6,YES,1.4,3.88,27,55,54,45,,,,,
+43061320,08/11/2010,4.6,YES,1.4,2.4,26,55,53,41,,,,,
+43061320,10/13/2010,4.6,YES,1.4,5.09,20,55,51,47,,,,,
+16073539,05/02/2011,4,NO,1.2,10.5,27,57,54,53,,,,,
+48236228,06/07/2011,4.4,YES,1.3,3.04,22,56,52,43,,,,,
+43061320,06/08/2011,3.9,YES,1.2,10.4,40,57,57,53,,,,,
+43061320,07/13/2011,4.9,YES,1.5,3.82,28,54,54,45,,,,,
+48236228,07/25/2011,5.9,YES,1.8,3.32,26,52,53,44,,,,,
+43061320,08/10/2011,4.6,YES,1.4,5.04,27,55,54,47,,,,,
+16073539,09/06/2011,5.5,YES,1.7,1.1,19,53,51,36,,,,,
+43061320,10/18/2011,4.6,YES,1.4,11.4,29,55,54,53,,,,,
+48236228,10/26/2011,5.2,YES,1.6,7.47,21,53,52,50,,,,,
+58058836,06/12/2012,5.9,YES,1.8,5.97,25,52,53,48,,,,,
+58058836,07/05/2012,5.9,YES,1.8,9.12,43,52,57,52,,,,,
+58058836,08/07/2012,4.9,YES,1.5,2.88,24,54,53,43,,,,,
+58058836,10/18/2012,5.2,YES,1.6,9.85,22,53,52,52,,,,,
+132673436,09/11/2016,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+132673436,09/19/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+132673436,10/04/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+132673436,10/05/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+132673436,10/12/2016,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+132673436,10/13/2016,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BLUE,
+145833587,06/10/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/25/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/26/2017,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/19/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/20/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/27/2017,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/28/2017,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/04/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/05/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/20/2017,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,08/21/2017,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/29/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/21/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/22/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/29/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/30/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,05/27/2018,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,05/28/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,06/12/2018,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,06/20/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,06/21/2018,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,06/28/2018,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,06/29/2018,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,07/06/2018,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/07/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/21/2018,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/22/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/15/2018,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/16/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/23/2018,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/24/2018,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/08/2018,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/09/2018,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/24/2018,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/25/2018,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,05/23/2019,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,06/15/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/16/2019,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/01/2019,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/02/2019,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/17/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/18/2019,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/25/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/26/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/02/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/03/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/10/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/11/2019,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/19/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/26/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/27/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/03/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/04/2019,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/12/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,09/27/2019,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,09/28/2019,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,10/06/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+145833587,05/08/2020,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,05/16/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+145833587,05/24/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,05/25/2020,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/02/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/09/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/10/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/17/2020,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+58058836,06/18/2020,5.6,YES,1.7,4.09,25.9,52,53,45,,,,,
+145833587,06/18/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/25/2020,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,06/26/2020,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/03/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/04/2020,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/11/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/12/2020,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/19/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/20/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,07/28/2020,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/04/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/05/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/12/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/13/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/20/2020,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+241112303,08/20/2020,3.9,Y,1.2,5.19,21.7,56,52,47,,,,,
+145833587,08/21/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145833587,08/29/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/2010,1,METERS,23.8,DEGREES C,6.8,MG/L
+06/23/2010,1.3,METERS,23.8,DEGREES C,6.8,MG/L
+07/13/2010,1,METERS,23.4,DEGREES C,7.8,MG/L
+07/13/2010,1.3,METERS,23.5,DEGREES C,8,MG/L
+07/13/2010,,,23.5,C,8.0,MG/L
+08/11/2010,1,METERS,24.6,DEGREES C,7.2,MG/L
+08/11/2010,1.3,METERS,24.4,DEGREES C,5.4,MG/L
+08/11/2010,,,24.4,C,5.1,MG/L
+10/13/2010,1,METERS,14.2,DEGREES C,8.5,MG/L
+10/13/2010,1.3,METERS,14.2,DEGREES C,8.3,MG/L
+10/13/2010,,,14.2,C,8.5,MG/L
+05/02/2011,,,5.1,C,10.8,MG/L
+06/07/2011,,,25.2,C,7.5,MG/L
+06/08/2011,1.1,METERS,26.2,DEGREES C,7.1,MG/L
+06/08/2011,,,26.2,C,7.1,MG/L
+07/13/2011,1,METERS,22.5,DEGREES C,6.5,MG/L
+07/13/2011,1.4,METERS,22.4,DEGREES C,6.5,MG/L
+07/13/2011,,,22.5,C,6.5,MG/L
+07/25/2011,,,24.6,C,6.9,MG/L
+08/10/2011,,,20.7,C,8.0,MG/L
+09/06/2011,,,17.0,C,8.2,MG/L
+10/18/2011,,,6.8,C,11.2,MG/L
+10/26/2011,,,5.3,C,12.0,MG/L
+06/12/2012,,,19.9,C,8.1,MG/L
+07/05/2012,,,29.9,C,7.2,MG/L
+08/07/2012,,,24.3,C,9.3,MG/L
+10/18/2012,,,8.8,C,11.1,MG/L
+06/18/2020,,,24.1,C,8.2,MG/L
+08/20/2020,,,2.6,C,12.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/29/1993,Two windy days prior to sample- S wind- air temp 60    
+06/11/1993,S wind- humid- air temp 85- weeds at surface- yellow lilly pads blooming    
+06/21/1993,Light W wind- air temp 85- lake weeds maturing- rained 1.5" past 2 days.    
+06/26/1993,Partly cloudy- lots of rain last week- only one brood of mallards observed- loons: one pair has 2 young- other pair has 1 young- weeds growing    
+07/14/1993,Partly cloudy- light NW wind- one pair of loons- 2 young diving on own- air temp upper 70's    
+07/21/1993,Occasional clouds- light NW wind- saw second batch of mallard chicks only 3.  Young loons starting to dive- feathers out.  Air temp is 72 degrees- beautiful day.    
+07/28/1993,Partly cloudy- 85 degrees- observed more mallard chicks. Water level up 1"    
+08/04/1993,Partly cloudy- cooler 70 degrees- 4 adult loons together (having dinner at our lake) .  Southwest wind light- rain is predicted.    
+08/12/1993,Partly cloudy- light SW wind observed.  Large gelatinus globs floating.  Loons maturing.    
+08/19/1993,Nice SW wind- partly cloudy- some maples are changing- loons are maturing.    
+08/25/1993,Air temp 83- SW breeze- slow bird activity at feeder and on lake- saw loons feed at noon - mallards must be at nests    
+09/06/1993,Water temp cooling.  Partly cloudy- west wind.  Air temp is 63 degrees.    
+09/19/1993,Have had strong winds- and frequent rain most of the past week.  Cool temps- 40 degrees at night- 60s in the day.  Today is sunny- 66 degrees- water is cooling down- geese are migrating.    
+09/24/1993,Sunny- bright day- upper 60s- west wind.  About 20% color- maples- birch poplar.  Local mallards still here.    
+05/10/1994,Much wind-water very riled up-too cold to swim.    
+05/21/1994,Hot-85 degrees-southwest wind @ 15-20 mph.    
+05/27/1994,Sighted 3 beavers-east end of lake-one new beaver house this spring.    
+06/02/1994,Cool today-no mallard young yet.    
+06/09/1994,Some strong SW winds 10-2- mph.    
+06/18/1994,Heavy winds for 2 days-warm-.  Rain .5 Friday 6/17/94 p.m.  1st time I could not see disc on bottom.  Heavy pine pollen.    
+07/02/1994,Strong E winds- temp. 72.  Mallards are bringing young to feed-3 broods so far of 6-5-8 young.    
+07/20/1994,Lake shows bloom + algae.  Several mallard hatches are feeding.  Baby loon is out feeding with parents.    
+07/27/1994,Weed growth is heavy.    
+08/16/1994,Lake is cooling-less algae clearer-heavy weed growth-have had frequent rains-now drier.    
+08/26/1994,Lake temp. cooling- young loon growing- shows white crest.    
+09/02/1994,Cooling down.  Very cool nights - 38 degrees F last Thursday.  Some color in maples.    
+09/09/1994,Cool water temp. - very light breeze - 75 degrees air temp.  Clear sky - no rain for several days.    
+07/13/1995,Warm-consistent wind for 3 days-lots of debris-weeds broken off-disturbed.    
+08/04/1995,Little rain last night-hot + muggy today.    
+06/07/1996,Water not clear-brown color-doesn't appear to be algae.    
+09/01/1996,Clear day.    
+09/09/1996,Rain earlier today-turned sunny-clouds building.  Water level: up 3"    
+07/12/2000,INTEGRATED    
+06/06/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED SAMPLE    
+07/03/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/15/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/23/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+06/25/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-1M    
+07/22/2002,AT POINT OF MAXIMUM DEPTH- 0-1M    
+08/26/2002,AT POINT OF MAXIMUM DEPTH- 0-1.5M    
+10/15/2002,AT POINT OF MAXIMUM DEPTH- 0-1.5M    
+10/04/2016,Rain on September 26 and September 27. Windy today.
+10/12/2016,Raining.
+10/13/2016,Windy and sunny.
+05/23/2019,Yesterday it was storming. Today it is misting. High winds.
+06/15/2019,clear and calm.
+06/16/2019,cloudy and calm.
+07/01/2019,cloudy
+07/02/2019,sunny
+07/17/2019,sunny
+07/18/2019,windy
+08/02/2019,cloudy
+08/03/2019,Sunny and calm.
+08/10/2019,Partly cloudy.
+08/26/2019,cloudy and windy.
+08/27/2019,white caps
+09/03/2019,rain
+09/04/2019,sunny
+09/12/2019,windy and cloudy.
+09/27/2019,unusual amount of rain lately. We have a dam that controls the water level.
+09/28/2019,cloudy and windy.
+10/06/2019,Sunny. Very windy. White Caps. Excessive amount of rain.
+Dam controls water level.
+05/08/2020,Very windy
+05/16/2020,Very cloudy
+05/24/2020,calm
+05/25/2020,calm and sunny
+06/09/2020,sunny
+06/10/2020,misting and windy. 3 ' rain last night
+06/17/2020,clear but windy
+06/18/2020,clear-windy
+06/25/2020,recent heavy rains
+07/03/2020,very warm- no wind and sunny.
+07/04/2020,very hot and sunny.
+07/11/2020,partly cloudy- light wind
+07/12/2020,partly cloudy- light wind
+07/19/2020,cloudy- very windy. A lot of rain recently.
+07/20/2020,partly cloudy. Light wind. Lots of rain recently.
+07/28/2020,windy
+08/04/2020,partly cloudy
+08/05/2020,sunny
+08/12/2020,partly cloudy
+08/13/2020,cloudy and windy
+08/20/2020,windy
+08/21/2020,sunny and calm. Algae evident near shore.
+08/29/2020,windy and cloudy. Algae
+
+
+
+
+Start Date,Group Name,Project Name
+05/29/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/11/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/21/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/26/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/14/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/21/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/28/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/04/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/12/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/19/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/25/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/06/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/19/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/24/1993,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/10/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/21/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/27/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/02/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/09/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/18/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/02/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/20/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/27/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/16/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/26/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/02/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/09/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/16/1994,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/13/1995,Truman Gussick And Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/04/1995,Truman Gussick And Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/07/1996,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/01/1996,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/09/1996,Jim Slagle,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/07/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/07/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/12/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+07/12/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/07/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+08/07/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/11/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+10/11/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/06/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/06/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/03/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+07/03/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/15/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+08/15/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+10/23/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+10/23/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/25/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/25/2002,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+08/26/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+10/15/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/23/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/23/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/13/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+07/13/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/11/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+08/11/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/13/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+10/13/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+05/02/2011,Tim Hoyman - Onterra- LLC,FRIENDS OF LOWER NINE MILE LAKE ASSOC: Lower Nine Mile Management Planning Project- Phase 1
+06/07/2011,_ Fenske- Todd Hanke - Onterra- LLC,FRIENDS OF LOWER NINE MILE LAKE ASSOC: Lower Nine Mile Management Planning Project- Phase 1
+06/08/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/08/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/13/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+07/13/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/25/2011,_ Fenske- Todd Hanke - Onterra- LLC,FRIENDS OF LOWER NINE MILE LAKE ASSOC: Lower Nine Mile Management Planning Project- Phase 1
+08/10/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+08/10/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+09/06/2011,Tim Hoyman - Onterra- LLC,FRIENDS OF LOWER NINE MILE LAKE ASSOC: Lower Nine Mile Management Planning Project- Phase 1
+10/18/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/26/2011,_ Fenske- Todd Hanke - Onterra- LLC,FRIENDS OF LOWER NINE MILE LAKE ASSOC: Lower Nine Mile Management Planning Project- Phase 1
+06/12/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+06/12/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/05/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+07/05/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/07/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+08/07/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/18/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Lower Ninemile Reservoir- P-2113G (Wisconsin Valley Improvement Company / WVIC) 
+10/18/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+09/11/2016,Paul Gumz,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/19/2016,Paul Gumz,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+10/04/2016,Paul Gumz,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+10/05/2016,Paul Gumz,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+10/12/2016,Paul Gumz,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+10/13/2016,Paul Gumz,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/10/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/25/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/26/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/19/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/20/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/27/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/28/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/04/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/05/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/20/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/21/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/29/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/21/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/22/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/29/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/30/2017,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/27/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/28/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/12/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/20/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/21/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/28/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/29/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/06/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/07/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/21/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/22/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/15/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/16/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/23/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/24/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/08/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/09/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/24/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/25/2018,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/23/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/15/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/16/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/01/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/02/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/17/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/18/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/25/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/26/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/02/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/03/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/10/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/11/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/19/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/26/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/27/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/03/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/04/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/12/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/27/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+09/28/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+10/06/2019,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/08/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/16/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/24/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+05/25/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/02/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/09/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/10/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/17/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/18/2020,Ben Niffenegger,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+06/18/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/25/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+06/26/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/03/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/04/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/11/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/12/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/19/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/20/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+07/28/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/04/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/05/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/12/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/13/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/20/2020,Ben Niffenegger- Scott Blado,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+08/20/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/21/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)
+08/29/2020,Connie Letts,Citizen Lake Monitoring - Water Quality - Lower Ninemile Lake (1605200)

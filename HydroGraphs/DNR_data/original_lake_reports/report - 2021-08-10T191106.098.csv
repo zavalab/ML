@@ -1,0 +1,2000 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Cedar Lake,Polk,2615100,NO,49,,563057,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/12/1973,,,,,110,,65,,,,,,
+1,11/06/1973,,,,,70,,61,,,,,,
+1,02/26/1974,,,,,40,,57,,,,,,
+1,05/01/1974,,,,,40,,57,,,,,,
+1,07/16/1974,,,,,30,,54,,,,,,
+1,10/08/1974,,,,,100,,64,,,,,,
+1,02/08/1975,,,,,210,,70,,,,,,
+1,08/09/1979,,,,29.86,170,,61,60,,,,,
+8190174,08/09/1986,5.5,NO,1.7,,,53,,,,,,GREEN,
+8190174,08/17/1986,4,NO,1.2,,,57,,,FEET,20,,GREEN,4-Would not swim but boating OK (algae)
+8190174,08/25/1986,5,NO,1.5,,,54,,,FEET,20,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/01/1986,4.5,NO,1.4,,,55,,,FEET,20,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/09/1986,5,NO,1.5,,,54,,,FEET,25,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/19/1986,4.5,NO,1.4,,,55,,,FEET,25,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/27/1986,7,NO,2.1,,,49,,,GAUGE,30,,BROWN,
+8190174,10/04/1986,6.5,NO,2,,,50,,,GAUGE,30,,LIGHT BROWN,
+8190174,10/16/1986,7,NO,2.1,,,49,,,GAUGE,30,,GREEN,4-Would not swim but boating OK (algae)
+8190174,10/27/1986,15,NO,4.6,,,38,,,GAUGE,30,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190174,04/26/1987,20,NO,6.1,,,34,,,GAUGE,1.1,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190174,05/10/1987,16.5,NO,5,,,37,,,GAUGE,1.4,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190174,05/17/1987,10.25,NO,3.1,,,44,,,GAUGE,1.46,,GREEN,4-Would not swim but boating OK (algae)
+8190174,05/24/1987,8.25,NO,2.5,,,47,,,GAUGE,1.48,,GREEN,4-Would not swim but boating OK (algae)
+8190174,05/30/1987,8,NO,2.4,,,47,,,GAUGE,1.56,,VERY GREEN,4-Would not swim but boating OK (algae)
+8190174,06/07/1987,8,NO,2.4,,,47,,,GAUGE,1.48,,GREEN,4-Would not swim but boating OK (algae)
+8190174,06/14/1987,5.25,NO,1.6,,,53,,,GAUGE,1.52,,GREEN,4-Would not swim but boating OK (algae)
+8190174,06/21/1987,7,NO,2.1,,,49,,,GAUGE,1.48,,GREEN,5-Enjoyment substantially impaired (algae)
+8190174,06/28/1987,4.5,NO,1.4,,,55,,,GAUGE,1.38,,GREEN,5-Enjoyment substantially impaired (algae)
+8190174,07/06/1987,4,NO,1.2,,,57,,,GAUGE,1.52,,GREEN,5-Enjoyment substantially impaired (algae)
+8190174,07/14/1987,4.25,NO,1.3,,,56,,,GAUGE,1.46,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190174,07/24/1987,5.75,NO,1.7,,,52,,,GAUGE,1.64,,GREEN,1-Beautiful, could not be nicer
+8190174,08/02/1987,6,NO,1.8,,,51,,,GAUGE,1.56,,GREEN,2-Very minor aesthetic problems
+8190174,08/10/1987,3.25,NO,1,,,60,,,GAUGE,1.56,,GREEN,2-Very minor aesthetic problems
+8190174,08/19/1987,5,NO,1.5,,,54,,,GAUGE,1.54,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,09/02/1987,6.25,NO,1.9,,,51,,,GAUGE,1.5,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/15/1987,6.5,NO,2,,,50,,,GAUGE,1.5,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/19/1987,5,NO,1.5,,,54,,,GAUGE,1.54,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/22/1987,4.5,NO,1.4,,,55,,,GAUGE,1.54,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/30/1987,3,NO,0.9,,,61,,,GAUGE,1.54,,GREEN,4-Would not swim but boating OK (algae)
+8190174,10/12/1987,3.25,NO,1,,,60,,,GAUGE,1.5,,GREEN,4-Would not swim but boating OK (algae)
+8190174,10/20/1987,4,NO,1.2,,,57,,,GAUGE,1.48,,GREEN,4-Would not swim but boating OK (algae)
+8190174,10/30/1987,5.75,NO,1.7,,,52,,,GAUGE,1.34,,GREEN,4-Would not swim but boating OK (algae)
+8190174,11/10/1987,12.75,NO,3.9,,,40,,,GAUGE,1.06,CLEAR,,4-Would not swim but boating OK (algae)
+8190174,04/29/1988,11,NO,3.3,,,43,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190174,05/17/1988,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/27/1988,11,NO,3.3,,,43,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,06/05/1988,11,NO,3.3,,,43,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,06/19/1988,4,NO,1.2,,,57,,,GAUGE,1.48,,GREEN,2-Very minor aesthetic problems
+8190174,07/08/1988,3.25,NO,1,,,60,,,,,,VERY GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/19/1988,,,,46,44,,57,64,,,,,
+8190174,07/22/1988,2.75,NO,0.8,,,63,,,LOW,,,VERY GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/06/1988,2.25,NO,0.7,,,65,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/17/1988,3,NO,0.9,,,61,,,,,,VERY GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/29/1988,1.75,NO,0.5,,,69,,,,,,VERY GREEN,4-Would not swim but boating OK (algae)
+1,08/30/1988,,,,130,182,,68,72,,,,,
+8190174,09/10/1988,1.75,NO,0.5,,,69,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,09/25/1988,2,NO,0.6,,,67,,,GAUGE,1.78,,BROWN,2-Very minor aesthetic problems
+8190174,10/06/1988,2.25,NO,0.7,,,65,,,GAUGE,1.58,,BROWN/GR.,3-Enjoyment somewhat impaired (algae)
+8190174,10/26/1988,2,NO,0.6,,,67,,,,,,BROWN/GR.,2-Very minor aesthetic problems
+1,11/01/1988,,,,55,60,,60,65,,,,,
+8190174,11/03/1988,3,NO,0.9,,,61,,,GAUGE,1.92,,GREEN,1-Beautiful, could not be nicer
+1,03/21/1989,,,,,22,,52,,,,,,
+1,05/02/1989,,,,16,32,,55,56,,,,,
+8190174,05/20/1989,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/27/1989,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/06/1989,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE/GREEN,1-Beautiful, could not be nicer
+1,06/15/1989,7.5,,2.3,46,99,48,64,64,,,,,
+8190174,06/16/1989,11.25,NO,3.4,,,42,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/01/1989,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190174,07/13/1989,3.75,NO,1.1,,,58,,,,,,GREEN,2-Very minor aesthetic problems
+1,07/17/1989,4.9,,1.5,46,44,54,57,64,,,,,
+8190174,07/22/1989,2.25,NO,0.7,,,65,,,,,,GREEN,2-Very minor aesthetic problems
+8190174,08/04/1989,3,NO,0.9,,,61,,,,,,GREEN,2-Very minor aesthetic problems
+1,08/22/1989,3.3,,1,100,156,60,67,70,,,,,
+8190174,08/22/1989,2.25,NO,0.7,,,65,,,,,,VERY GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/30/1989,2.25,NO,0.7,,,65,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,09/10/1989,2.25,NO,0.7,,,65,,,,,,GREEN,
+8190174,09/26/1989,3.75,NO,1.1,,,58,,,,,,GREEN,2-Very minor aesthetic problems
+1,10/11/1989,3.3,,1,65,95,60,63,66,,,,,
+8190174,10/14/1989,3.5,NO,1.1,,,59,,,,,,GREEN,2-Very minor aesthetic problems
+8190174,10/28/1989,6.5,NO,2,,,50,,,,,,LIGHT GREEN,2-Very minor aesthetic problems
+8190174,11/07/1989,6.75,NO,2.1,,,50,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,03/01/1990,,,,3,26,,53,43,,,,,
+8190174,04/07/1990,9.75,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,04/20/1990,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/02/1990,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/12/1990,9.75,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/29/1990,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,06/10/1990,7.75,NO,2.4,,,48,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+82609250,06/19/1990,8.9,,2.7,22,,46,,58,,,,,
+8190174,06/26/1990,7,NO,2.1,,,49,,,,,,VERY GREEN,4-Would not swim but boating OK (algae)
+8190174,07/09/1990,4.25,NO,1.3,,,56,,,,,,GREEN,2-Very minor aesthetic problems
+1,07/17/1990,3.6,,1.1,26,40,59,57,59,,,,,
+8190174,07/19/1990,2.75,NO,0.8,,,63,,,,,,VERY GREEN,4-Would not swim but boating OK (algae)
+8190174,07/28/1990,3,NO,0.9,,,61,,,,,,GREEN,2-Very minor aesthetic problems
+1,08/08/1990,,,,,,,,,,,,,
+8190174,08/10/1990,2.5,NO,0.8,,,64,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+82609250,08/14/1990,4.3,,1.3,47,60,56,60,64,,,,,
+1,08/15/1990,,,,,,,,,,,,,
+8190174,08/21/1990,3.5,NO,1.1,,,59,,,,,,GREEN,1-Beautiful, could not be nicer
+8190174,09/02/1990,4,NO,1.2,,,57,,,,,,GREEN,2-Very minor aesthetic problems
+8190174,09/20/1990,3,NO,0.9,,,61,,,,,,GREEN,2-Very minor aesthetic problems
+8190174,10/08/1990,3,NO,0.9,,,61,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+1,10/15/1990,,,,,10,,46,,,,,,
+1,10/23/1990,3.6,,1.1,35,91,59,63,62,,,,,
+8190174,10/23/1990,5,NO,1.5,,,54,,,,,,GREEN,1-Beautiful, could not be nicer
+8190174,11/12/1990,4.75,NO,1.4,,,55,,,,,,BROWN,1-Beautiful, could not be nicer
+1,11/25/1990,,,,,,,,,,,,,
+1,03/19/1991,,,,13,18,,51,54,,,,,
+1,04/23/1991,,,,12,27,,54,54,,,,,
+8190174,05/12/1991,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/27/1991,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+82609250,06/25/1991,7.5,,2.3,13,60,48,60,54,,,,,
+1,08/07/1991,,,,34,80,,62,61,,,,,
+1,08/27/1991,4.3,,1.3,48,90,56,63,64,,,,,
+1,02/27/1992,,,,1,24,,53,35,,,,,
+1,04/16/1992,,,,,70,,61,,,,,,
+8190174,04/19/1992,6.25,NO,1.9,,,51,,,LOW,,,GREEN,2-Very minor aesthetic problems
+1,05/12/1992,14.8,,4.5,4,28,38,54,45,,,,,
+8190174,05/15/1992,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/24/1992,6,NO,1.8,,,51,,,GAUGE,25,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190174,05/28/1992,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,06/11/1992,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/18/1992,7.2,,2.2,20,70,49,61,57,,,,,
+8190174,06/21/1992,8.3,NO,2.5,,,47,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/06/1992,,,,,120,,65,,,,,,
+8190174,07/09/1992,4,NO,1.2,,,57,,,NORMAL,,,VERY GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/18/1992,4,NO,1.2,,,57,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/29/1992,4,NO,1.2,,,57,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,07/31/1992,,,,,113,,43,,,,,,
+1,08/03/1992,,,,,120,,63,,,,,,
+8190174,08/13/1992,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,08/18/1992,,,,,122,,60,,,,,,
+1,08/20/1992,4.3,,1.3,37.99,67,56,61,62,,,,,
+8190174,08/27/1992,3.25,NO,1,,,60,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,09/10/1992,,,,,118,,65,,,,,,
+8190174,09/15/1992,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,09/30/1992,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,10/05/1992,5.2,,1.6,15.5,54,53,59,56,,,,,
+8190174,10/13/1992,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,10/24/1992,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,11/17/1992,21,NO,6.4,,,33,,,DAM OPEN,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,03/04/1993,,,,0.377,25,,53,27,,,,,
+1,04/27/1993,7.5,,2.3,11.6,31,48,55,53,,,,,
+8190174,05/21/1993,18.25,NO,5.5,,,35,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190174,06/10/1993,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/14/1993,10.2,,3.1,12.5,56,44,59,54,,,,,
+8190174,06/28/1993,7.25,NO,2.2,,,49,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+1,07/07/1993,6.6,,2,11.9,43,50,57,54,,,,,
+8190174,07/14/1993,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,07/29/1993,5,NO,1.5,,,54,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190174,08/12/1993,5.75,NO,1.7,,,52,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,08/24/1993,4.6,,1.4,69.4,132,55,66,67,,,,,
+8190174,08/24/1993,1.5,NO,0.5,,,71,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,09/07/1993,3.25,NO,1,,,60,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190174,09/25/1993,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+1,10/06/1993,5.9,,1.8,18.5,61,52,60,57,,,,,
+8190174,10/12/1993,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,11/10/1993,22,NO,6.7,,,33,,,LOW- WINTER DRAW DOWN.,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,02/24/1994,,,,0.184,23,,52,22,,,,,
+1,04/18/1994,5.6,,1.7,21,50,52,58,58,,,,,
+8190174,05/22/1994,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/26/1994,,,,,21,,52,,,,,,
+7000105,06/08/1994,,,,,132,,63,,,,,,
+8190174,06/19/1994,7,NO,2.1,,,49,,,NORMAL,,,LIGHT GREEN,2-Very minor aesthetic problems
+1,06/20/1994,8.4,,2.55,38,84,47,62,62,,,,,
+8190174,07/05/1994,3.33,NO,1,,,60,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000105,07/08/1994,,,,,1340,,74,,,,,,
+8190174,07/14/1994,4.5,NO,1.4,,,55,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+1,07/21/1994,3.6,,1.1,50,174,59,68,64,,,,,
+8190174,07/28/1994,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190174,08/11/1994,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190174,08/21/1994,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/31/1994,3.6,,1.1,35.1,175,59,68,62,,,,,
+8190174,09/08/1994,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,09/29/1994,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+1,10/11/1994,4.9,,1.5,23.3,89,54,63,59,,,,,
+8190174,10/13/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190174,11/02/1994,5.4,NO,1.6,,,53,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+1,03/14/1995,,,,2.62,24,,53,42,,,,,
+1,04/17/1995,,,,25.8,61,,60,59,,,,,
+8190174,05/02/1995,6.5,NO,2,,,50,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190174,06/02/1995,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/07/1995,7.5,,2.3,23.5,78,48,62,59,,,,,
+8190174,06/18/1995,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190174,07/04/1995,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/17/1995,4.1,,1.25,9.08,110,57,65,51,,,,,
+8190174,07/22/1995,2.75,NO,0.8,,,63,,,HIGH,,,VERY GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/15/1995,2.75,NO,0.8,,,63,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+1,08/29/1995,2,,0.6,153,220,67,70,73,,,,,
+8190174,09/01/1995,2,NO,0.6,,,67,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/17/1995,1.75,NO,0.5,,,69,,,NORMAL,,,SUPER GREEN,4-Would not swim but boating OK (algae)
+1,10/19/1995,2,,0.6,57.6,153,67,67,65,,,,,
+8190174,10/30/1995,2.5,NO,0.8,,,64,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,02/26/1996,,,,5.83,39,,57,48,,,,,
+1,05/16/1996,18,,5.5,1.39,40,35,57,37,,,,,
+8190174,06/09/1996,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/12/1996,11.8,,3.6,12.6,33,42,55,54,,,,,
+8190174,06/25/1996,5,NO,1.5,,,54,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190174,07/10/1996,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/26/1996,2.5,NO,0.8,,,64,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+1,07/29/1996,3.3,,1,49.5,134,60,66,64,,,,,
+8190174,08/02/1996,3.75,NO,1.1,,,58,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/28/1996,3.5,NO,1.1,,,59,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+1,09/03/1996,3.3,,1,81.3,189,60,69,68,,,,,
+8190174,09/15/1996,1.25,NO,0.4,,,74,,,LOW-NEED RAIN BAD!,,,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/30/1996,7.5,NO,2.3,,,48,,,LOW-NO RAIN,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,10/15/1996,8.5,,2.6,19.3,156,46,67,57,,,,,
+8190174,10/15/1996,7.25,NO,2.2,,,49,,,LOW-LACK OF RAIN,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,11/07/1996,17.75,NO,5.4,,,36,,,LOW-WINTER DRAW DOWN,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,02/18/1997,,,,,48,,58,,,,,,
+1,04/24/1997,4.1,,1.25,47.4,67,57,61,64,,,,,
+8190174,04/27/1997,4.25,NO,1.3,,,56,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190174,05/20/1997,10.75,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/09/1997,11.5,,3.5,7.35,66,42,61,50,,,,,
+8190174,06/09/1997,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,06/30/1997,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/03/1997,5.9,,1.8,25.7,105,52,64,59,,,,,
+8190174,07/16/1997,6,NO,1.8,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190174,08/01/1997,4,NO,1.2,,,57,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+1,08/27/1997,12.1,,3.7,11.9,98,41,64,54,,,,,
+8190174,08/30/1997,6.25,NO,1.9,,,51,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190174,09/17/1997,3.25,NO,1,,,60,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190174,10/16/1997,6,NO,1.8,,,51,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+1,10/27/1997,,,,17.7,,,,57,,,,,
+1,04/09/1998,7.9,,2.4,9.89,54,47,59,52,,,,,
+8190174,05/21/1998,12,NO,3.6,,,41,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/04/1998,5.9,,1.8,33.9,83,52,62,61,,,,,
+8190174,06/24/1998,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190174,07/07/1998,3.75,NO,1.1,,,58,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/09/1998,4.3,,1.3,50.6,62,56,60,64,,,,,
+8190174,07/29/1998,2.75,NO,0.8,,,63,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/26/1998,2.75,NO,0.8,,,63,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,09/08/1998,3.3,,1,35.6,127,60,66,62,,,,,
+8190174,09/11/1998,3.25,NO,1,,,60,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190174,10/26/1998,3.75,NO,1.1,,,58,,,NO CHANGE,,MURKY,GREEN,1-Beautiful, could not be nicer
+1,10/27/1998,5.7,,1.75,52.9,50,52,58,65,,,,,
+1,02/25/1999,,,,,,,,,,,,,
+1,04/19/1999,23,,7,37.9,54,32,59,62,,,,,
+8190174,05/26/1999,18.5,NO,5.6,,,35,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/16/1999,8.25,NO,2.5,,,47,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+7000002,06/21/1999,6.6,,2,13.6,101,50,64,55,,,,,
+8190174,06/27/1999,6.5,NO,2,,,50,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,07/11/1999,3,NO,0.9,,,61,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000002,07/21/1999,4.3,,1.3,21.2,158,56,67,58,,,,,
+8190174,07/25/1999,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/11/1999,2.5,NO,0.8,,,64,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000002,08/23/1999,5.7,,1.75,37,218,52,70,62,,,,,
+8190174,08/27/1999,3.25,NO,1,,,60,,,NO CHANGE,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+1,09/20/1999,3.9,,1.2,34,218,57,70,61,,,,,
+8190174,09/23/1999,5.25,NO,1.6,,,53,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190174,10/12/1999,4.25,NO,1.3,,,56,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,10/16/1999,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,10/26/1999,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,11/16/1999,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,02/24/2000,,,,,22,,52,,,,,,
+8190174,04/26/2000,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190174,05/07/2000,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/21/2000,9.75,NO,3,,,44,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190174,06/11/2000,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/15/2000,5.7,,1.75,23,73,52,61,59,,,,,
+8190174,06/28/2000,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190174,07/12/2000,5,YES,1.5,,,54,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+1,07/27/2000,3.3,,1,77,78,60,62,68,,,,,
+8190174,07/30/2000,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,08/10/2000,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/16/2000,2.5,,0.75,68,142,64,67,67,,,,,
+8190174,08/24/2000,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,09/12/2000,3.3,,1,45,122,60,65,64,,,,,
+8190174,09/12/2000,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,09/27/2000,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,10/16/2000,4.4,,1.35,20,65,56,60,57,,,,,
+1,03/08/2001,2.5,NO,0.75,,20,63,51,,,,,,
+7000002,04/24/2001,4.1,NO,1.25,,52,57,59,,,,,,
+8190174,05/30/2001,12,NO,3.6,,,41,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,06/07/2001,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+7000002,06/21/2001,4.9,NO,1.5,44.9,89,54,63,64,,,,,
+8190174,06/24/2001,7.5,YES,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/07/2001,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000002,07/19/2001,4.9,NO,1.5,31,68,54,61,61,,,,,
+8190174,07/21/2001,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000002,07/31/2001,3.3,,1,47,84,60,62,64,,,,,
+8190174,08/10/2001,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000002,08/14/2001,2,NO,0.6,110,175,67,68,70,,,,,
+8190174,08/19/2001,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/31/2001,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000002,09/13/2001,3.3,NO,1,31,135,60,66,61,,,,,
+8190174,09/27/2001,5.6,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000002,10/17/2001,4.1,NO,1.25,35,91,57,63,62,,,,,
+8190174,10/23/2001,6.75,NO,2.1,,,50,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,11/14/2001,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+7000002,04/25/2002,9,NO,2.75,,53,45,59,,,,,,
+8190174,05/29/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188791,06/12/2002,10.66,NO,3.2,7.32,35,43,56,50,,,,,
+8190174,06/12/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188791,06/27/2002,9.8,NO,3,11.5,45,44,58,53,,,,,
+8190174,06/28/2002,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,07/07/2002,5.25,NO,1.6,,,53,,,GAUGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8188631,07/18/2002,5.9,NO,1.8,10.7,39,52,57,53,,,,,
+8190174,07/21/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,08/02/2002,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188631,08/15/2002,4.592,NO,1.4,25.6,77,55,62,59,,,,,
+8190174,08/20/2002,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188631,09/04/2002,4.9,NO,1.5,33.3,94,54,63,61,,,,,
+8188631,11/04/2002,14.76,,4.5,3.87,29,38,54,45,,,,,
+8188631,04/22/2003,11.152,,3.4,,31,42,55,,,,,,
+8190174,05/16/2003,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/01/2003,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190174,06/16/2003,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,07/01/2003,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/22/2003,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000104,07/24/2003,3.3,,1,,,60,,,,,,,
+8188631,07/24/2003,3.28,,1,48.4,65,60,60,64,,,,,
+8190174,08/02/2003,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000104,08/14/2003,4.6,,1.4,,,55,,,,,,,
+8188631,08/14/2003,4.592,NO,1.4,29.8,54,55,59,60,,,,,
+8190174,08/17/2003,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000104,09/09/2003,3.6,,1.1,,,59,,,,,,,
+8188631,09/09/2003,3.6,NO,1.1,33.8,71,59,61,61,,,,,
+7000001,04/27/2004,7.5,,2.3,,34,48,55,,,,,,
+8190174,06/04/2004,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/15/2004,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,06/30/2004,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+7000001,07/14/2004,2.6,NO,0.8,86.4,121,63,65,69,,,,,
+8190174,08/05/2004,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+7000001,08/10/2004,2.952,NO,0.9,83.4,173,62,68,68,,,,,
+8190174,08/25/2004,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190174,09/28/2004,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+7000001,10/05/2004,2.5,,0.75,42.3,185,63,69,63,,,,,
+7000001,04/25/2005,2.6,NO,0.8,,,39,,,,,,,
+8190174,06/02/2005,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190174,06/16/2005,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8190174,07/05/2005,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/19/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000001,07/26/2005,2.6,NO,0.8,57.5,183,63,68,65,,,,,
+8190174,08/01/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000001,08/11/2005,3.3,NO,1,52.7,151,60,67,65,,,,,
+7000104,08/11/2005,3.1,,0.95,,,61,,,,,,,
+8190174,08/16/2005,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190174,08/30/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000001,09/13/2005,3.3,NO,1,43.2,184,60,69,63,,,,,
+7000104,09/13/2005,3.3,,1,,,60,,,,,,,
+8190174,10/12/2005,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,04/18/2006,6.9,,2.1,,,49,,,,,,,
+8191342,04/18/2006,6.9,,2.1,,56,49,59,,,,,,
+8190174,06/13/2006,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190174,07/07/2006,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,07/19/2006,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+7000001,07/25/2006,3.6,NO,1.1,32.5,91,59,63,61,,,,,
+8190174,08/03/2006,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+7000001,08/17/2006,2.25,NO,0.7,60.4,197,64,69,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,09/07/2006,2.5,,0.75,85,239,64,71,68,,,,,
+7000001,04/17/2007,7.5,NO,2.3,,69,48,61,,,,,,
+7000104,04/17/2007,7.5,,2.3,,,48,,,,,,,
+8190174,06/05/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,06/16/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/26/2007,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/07/2007,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000001,07/17/2007,2.5,NO,0.75,53.6,219,64,70,65,,,,,
+7000104,07/17/2007,2.5,,0.75,,,64,,,,,,,
+8190174,07/18/2007,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190174,07/31/2007,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190174,08/13/2007,2.75,NO,0.8,,,63,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000001,08/14/2007,3,NO,0.9,50.9,226,62,70,65,,,,,
+7000104,08/14/2007,3,,0.9,,,62,,,,,,,
+8190174,08/25/2007,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000001,09/11/2007,4.9,NO,1.5,49.7,241,54,71,64,,,,,
+7000104,09/11/2007,4.9,,1.5,,,54,,,,,,,
+8190174,09/28/2007,4.75,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+7000001,04/29/2008,4.9,NO,1.5,,65,54,60,,,,,,
+20761132,04/29/2008,4.9,,1.5,,,54,,,,,,,
+8190174,05/22/2008,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/19/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190174,07/03/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190174,07/18/2008,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,07/24/2008,4.3,NO,1.3,12.4,121,56,65,54,,,,,
+20761132,07/24/2008,4.3,,1.3,,,56,,,,,,,
+8190174,07/31/2008,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190174,08/13/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000001,08/19/2008,3,NO,0.9,76.2,262,62,71,68,,,,,
+20761132,08/19/2008,3,,0.9,,,62,,,,,,,
+8190174,08/25/2008,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,09/10/2008,2.3,NO,0.7,90.7,275,65,72,69,,,,,
+20761132,09/10/2008,2.5,,0.75,,,64,,,,,,,
+29663055,04/28/2009,15.7,,4.8,,99,37,64,,,,,,
+8190174,06/12/2009,8.75,NO,2.7,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190174,06/24/2009,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000104,07/01/2009,8.2,NO,2.5,7.06,50,47,58,50,,,,,
+8190174,07/06/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190174,07/20/2009,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,07/31/2009,6.25,NO,1.9,,,51,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+7000104,08/06/2009,8.5,NO,2.6,6.14,34,46,55,49,,,,,
+8190174,08/12/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190174,08/26/2009,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+7000104,09/03/2009,3.3,,1,,,60,,,,,,,
+20761132,04/14/2010,6.2,,1.9,,,51,,,,,,,
+29663055,04/14/2010,6.2,NO,1.9,,45,51,58,,,,,,
+8190174,06/14/2010,5,NO,1.5,,,54,,,LOW,NA,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8190174,06/26/2010,5,NO,1.5,,,54,,,NORMAL,NA,MURKY,GREEN,2-Very minor aesthetic problems
+8190174,07/13/2010,5,NO,1.5,,,54,,,NORMAL,NA,MURKY,GREEN,2-Very minor aesthetic problems
+20761132,07/21/2010,5.4,,1.66,,,53,,,,,,,
+37940663,07/21/2010,5.6,NO,1.7,24.8,49,52,58,59,,,,,
+8190174,07/29/2010,4.5,NO,1.4,,,55,,,NORMAL,NA,MURKY,GREEN,2-Very minor aesthetic problems
+20761132,08/16/2010,3.4,NO,1.05,31.6,74,32,61,61,,,,,
+8190174,08/20/2010,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,08/31/2010,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+7000045,09/15/2010,11,NO,3.35,,,43,,,,,,,
+8190174,09/15/2010,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+20761132,09/15/2010,2.5,NO,0.75,46.2,85,63,63,64,,,,,
+10589084,05/02/2011,4.6,NO,1.4,,52,55,59,,,,,,
+8190174,05/16/2011,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,05/30/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190174,06/08/2011,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190174,06/28/2011,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190174,07/12/2011,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190174,07/26/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+10589084,07/28/2011,1.1,NO,0.3,60.5,220,76,70,66,,,,,
+8190174,08/10/2011,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190174,08/22/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+10589084,08/25/2011,2.6,NO,0.8,40.7,246,63,71,63,,,,,
+10589084,09/14/2011,2.6,,0.8,32.2,262,63,71,61,,,,,
+10589084,03/26/2012,6.9,,2.1,,66,49,61,,,,,,
+8190174,06/05/2012,9,,2.7,,,45,,,NORMAL,na,MURKY,BROWN,2-Very minor aesthetic problems
+10589084,06/16/2012,,,,,,,,,,,,,
+8190174,06/18/2012,7.75,NO,2.4,,,48,,,NORMAL,na,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,06/29/2012,5.5,NO,1.7,,,53,,,NORMAL,na,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,07/09/2012,7.5,NO,2.3,,,48,,,NORMAL,na,CLEAR,BLUE,1-Beautiful, could not be nicer
+10589084,07/19/2012,7.5,NO,2.3,10.4,33,48,55,53,,,,,
+8190174,07/22/2012,5.25,NO,1.6,,,53,,,NORMAL,na,CLEAR,BROWN,2-Very minor aesthetic problems
+8190174,08/01/2012,3.5,NO,1.1,,,59,,,NORMAL,na,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,08/13/2012,2.25,NO,0.7,,,65,,,NORMAL,na,MURKY,GREEN,4-Would not swim but boating OK (algae)
+10589084,08/16/2012,3.9,NO,1.2,26.8,81,57,62,60,,,,,
+8190174,08/26/2012,0.75,NO,0.2,,,81,,,NORMAL,na,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+10589084,09/13/2012,3.9,NO,1.2,38.2,89,57,63,62,,,,,
+8190174,09/14/2012,3,NO,0.9,,,61,,,NORMAL,na,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000104,05/09/2013,4.6,NO,1.4,,,55,,,,,,,
+10589084,05/09/2013,4.6,N,1.4,,77.9,55,62,,,,,,
+8190174,06/24/2013,8.5,NO,2.6,,,46,,,NORMAL,na,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,07/06/2013,7,NO,2.1,,,49,,,NORMAL,na,CLEAR,BLUE,2-Very minor aesthetic problems
+10589084,07/10/2013,6.56,NO,2,16.3,30.4,50,55,56,,,,,
+8190174,07/23/2013,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,08/02/2013,4.5,NO,1.4,,,55,,,NORMAL,na,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/08/2013,4.6,N,1.4,37.5,80.7,55,62,62,,,,,
+10589084,08/08/2013,4.6,,1.4,,,55,,,,,,,
+8190174,08/13/2013,5.5,NO,1.7,,,53,,,NORMAL,na,MURKY,BROWN,2-Very minor aesthetic problems
+10589084,09/05/2013,3.9,N,1.2,77.3,115,57,65,68,,,,,
+10589084,05/05/2014,,,,,80.8,,62,,,,,,
+101850106,05/05/2014,3.94,,1.2,,,57,,,,,,,
+8190174,06/05/2014,7.75,NO,2.4,,,48,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,06/30/2014,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190174,07/10/2014,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+10589084,07/16/2014,7.2,N,2.2,3.7,93.8,49,63,45,,,,,
+101850106,07/16/2014,6.56,,2,,,50,,,,,,,
+8190174,07/21/2014,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190174,08/04/2014,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190174,08/15/2014,, ,,,,,,,,,,,
+10589084,08/20/2014,,N,,79.4,83.8,,62,68,,,,,
+101850106,08/20/2014,3.28,,1,,,60,,,,,,,
+8190174,08/28/2014,4, ,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+10589084,09/15/2014,3.9,NO,1.2,74.7,138,57,66,67,,,,,
+101850106,09/15/2014,4.1,,1.2,,,57,,,,,,,
+1,04/16/2015,8.2,N,2.5,,44.8,47,58,,,,,,
+10589084,07/16/2015,9,NO,2.75,8.16,37.5,45,56,51,,,,,
+10589084,08/20/2015,,,,25.8,183,,68,59,,,,,
+10589084,09/16/2015,,,,40.3,171,,68,63,,,,,
+10589084,04/04/2016,,,,,52.3,,59,,,,,,
+10589084,07/21/2016,4,NO,1.2,8.29,78.4,57,62,51,,,,,
+10589084,08/17/2016,4,NO,1.2,63.2,117,57,65,66,,,,,
+10589084,09/12/2016,,,,60,205,,69,66,,,,,
+10589084,04/06/2017,,,,,49,,58,,,,,,
+1,05/16/2017,,,,13.2,60.9,,60,54,,,,,
+1,06/01/2017,,,,9.32,29.2,,54,52,,,,,
+1,06/14/2017,,,,12.6,38.7,,56,54,,,,,
+1,06/28/2017,,,,13.3,37.1,,56,54,,,,,
+1,07/12/2017,,,,9.04,26.8,,54,51,,,,,
+10589084,07/13/2017,6.5,NO,2,12.6,36.9,50,56,54,,,,,
+1,07/27/2017,,,,10.2,22.6,,52,52,,,,,
+1,08/09/2017,,,,7.39,32.1,,55,50,,,,,
+1,08/23/2017,,,,30.9,55,,59,61,,,,,
+10589084,08/23/2017,,,,36.9,51.9,,59,62,,,,,
+1,09/07/2017,,,,38.7,72.6,,61,62,,,,,
+1,09/19/2017,,,,18.9,67.9,,61,57,,,,,
+10589084,09/21/2017,4.25,NO,1.3,55,75.4,56,62,65,,,,,
+1,10/03/2017,,,,17.5,116,,65,56,,,,,
+1,10/17/2017,,,,16.3,86.5,,63,56,,,,,
+1,05/14/2018,,,,13.8,26,,53,55,,,,,
+10589084,05/14/2018,,,,,25.8,,53,,,,,,
+1,05/30/2018,,,,8.34,23.8,,53,51,,,,,
+1,06/12/2018,,,,8.58,22.8,,52,51,,,,,
+1,06/26/2018,,,,7.2,17.6,,50,50,,,,,
+1,07/10/2018,,,,4.61,17.5,,50,46,,,,,
+10589084,07/24/2018,,,,14.2,15.6,,49,55,,,,,
+168314793,07/24/2018,4.92,NO,1.5,7.25,22.4,54,52,50,,,,,
+1,08/07/2018,,,,23.5,29.4,,54,59,,,,,
+1,08/22/2018,,,,13.8,23.7,,53,55,,,,,
+168314793,08/27/2018,4.92,NO,1.5,,,54,,,,,,,
+1,09/04/2018,,,,29,48.5,,58,60,,,,,
+10589084,09/17/2018,3.3,,1,46,81.6,60,62,64,,,,,
+1,09/21/2018,,,,25.3,104,,64,59,,,,,
+1,10/02/2018,,,,21.8,92.7,,63,58,,,,,
+1,10/16/2018,,,,13.3,89.6,,63,54,,,,,
+163231311,04/23/2019,4.1,,1.25,,62.3,57,60,,,,,,
+1,06/10/2019,,,,15.1,56.3,,59,55,,,,,
+1,06/24/2019,,,,21.5,28.7,,54,58,,,,,
+1,07/08/2019,,,,8.61,18.5,,51,51,,,,,
+1,07/21/2019,,,,9.9,18.3,,51,52,,,,,
+163231311,07/22/2019,,,,9,23.1,,52,51,,,,,
+168314793,07/22/2019,9.84,NO,3,,,44,,,,,,,
+1,08/05/2019,,,,11.2,20,,51,53,,,,,
+163231311,08/14/2019,,,,12.6,25.1,,53,54,,,,,
+168314793,08/14/2019,6.56,NO,2,,,50,,,,,,,
+1,08/19/2019,,,,11.4,31.5,,55,53,,,,,
+1,09/04/2019,,,,21.5,35.7,,56,58,,,,,
+163231311,09/06/2019,,,,22.6,41.1,,57,58,,,,,
+168314793,09/06/2019,4.92,NO,1.5,,,54,,,,,,,
+1,09/16/2019,,,,26.1,38.2,,56,59,,,,,
+1,10/01/2019,,,,36.1,39.4,,57,62,,,,,
+1,10/15/2019,,,,21.2,47.6,,58,58,,,,,
+145262939,07/16/2020,,,,13,32.1,,55,54,,,,,
+145262939,08/20/2020,4.92,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+241090474,08/20/2020,,,,37.3,46.2,,58,62,,,,,
+145262939,09/17/2020,,,,70.2,68.4,,61,67,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/12/1973,,,20.8333,C,7.1,MG/L
+11/06/1973,,,43.5,C,9.1,MG/L
+02/26/1974,,,.277778,C,10.1,MG/L
+05/01/1974,,,12.5,C,12.1,MG/L
+07/16/1974,,,20.8333,C,.8,MG/L
+10/08/1974,,,10.8333,C,8.8,MG/L
+02/08/1975,,,0,C,10.4,MG/L
+08/09/1979,,,,,7.8,MG/L
+07/19/1988,,,23.0,C,12.0,MG/L
+08/30/1988,,,21.0,C,12.4,MG/L
+11/01/1988,,,5.0,C,10.8,MG/L
+05/02/1989,,,7.5,C,10.3,MG/L
+06/15/1989,,,16.0,C,10.6,MG/L
+07/17/1989,,,18.7,C,.1,MG/L
+08/22/1989,,,22.0,C,3.7,MG/L
+10/11/1989,,,11.2,C,8.9,MG/L
+03/01/1990,,,2.0,C,11.0,MG/L
+06/19/1990,,,16.5,C,0.6,MG/L
+07/17/1990,,,21.5,C,10.3,MG/L
+08/08/1990,,,,,22.0,MG/L
+08/14/1990,,,21.5,C,11.8,MG/L
+08/15/1990,,,,,22.1,MG/L
+10/15/1990,,,13,C,,
+10/23/1990,,,8.8,C,9.8,MG/L
+11/25/1990,,,4.5,C,,
+03/19/1991,,,2.4,C,2.3,MG/L
+04/23/1991,,,6.7,C,11.0,MG/L
+06/25/1991,,,21.5,C,6.1,MG/L
+08/07/1991,,,22.0,C,8.0,MG/L
+08/27/1991,,,23.0,C,6.0,MG/L
+02/27/1992,,,0.5,C,0.3,MG/L
+05/12/1992,,,15.0,C,8.2,MG/L
+06/18/1992,,,20.0,C,4.7,MG/L
+08/20/1992,,,21.2,C,5.2,MG/L
+10/05/1992,,,15.2,C,7.6,MG/L
+03/04/1993,,,0.7,C,2.0,MG/L
+04/27/1993,,,7.5,C,9.4,MG/L
+06/14/1993,,,17.9,C,3.4,MG/L
+07/07/1993,,,20.4,C,7.5,MG/L
+08/24/1993,,,22.3,C,2.3,MG/L
+10/06/1993,,,12,C,10.4,MG/L
+02/24/1994,,,0,C,0.5,MG/L
+04/18/1994,,,8.0,C,12.6,MG/L
+06/20/1994,,,21.2,C,2.5,MG/L
+07/21/1994,,,23.0,C,11.7,MG/L
+08/31/1994,,,21.2,C,7.67,MG/L
+10/11/1994,,,13.7,C,10.8,MG/L
+03/14/1995,,,1.5,C,13.1,MG/L
+04/17/1995,,,4.4,C,11.1,MG/L
+06/07/1995,,,14.47,C,5.07,MG/L
+07/17/1995,,,21.5,C,0.98,MG/L
+08/29/1995,,,23.47,C,4.21,MG/L
+10/19/1995,,,12.1,C,10.11,MG/L
+02/26/1996,,,1.1,C,2.03,MG/L
+05/16/1996,,,11.6,C,8.3,MG/L
+06/12/1996,,,15.7,C,1.1,MG/L
+07/29/1996,,,22.2,C,1.8,MG/L
+09/03/1996,,,22.9,C,1.9,MG/L
+10/15/1996,,,12.8,C,9.5,MG/L
+02/18/1997,,,1.46,C,0.84,MG/L
+04/24/1997,,,8.48,C,14.27,MG/L
+06/09/1997,,,14.13,C,0.91,MG/L
+07/03/1997,,,19.12,C,0.96,MG/L
+08/27/1997,,,21.0,C,0.8,MG/L
+04/09/1998,,,6.5,C,11.4,MG/L
+06/04/1998,,,18.28,C,6.90,MG/L
+07/09/1998,,,22.92,C,1.86,MG/L
+09/08/1998,,,22.28,C,5.23,MG/L
+10/27/1998,,,12.51,C,15.20,MG/L
+02/25/1999,,,1.71,C,0.47,MG/L
+04/19/1999,,,8.40,C,12.66,MG/L
+06/21/1999,,,20.69,C,8.51,MG/L
+07/21/1999,,,24.46,C,7.44,MG/L
+08/23/1999,,,22.65,C,8.68,MG/L
+09/20/1999,,,17.90,C,9.73,MG/L
+02/24/2000,,,0.86,C,8.32,MG/L
+06/15/2000,,,18.66,C,0.44,MG/L
+07/27/2000,,,22.85,C,11.58,MG/L
+08/16/2000,,,24.28,C,4.26,MG/L
+09/12/2000,,,20.83,C,9.97,MG/L
+10/16/2000,,,12.61,C,9.14,MG/L
+03/08/2001,,,1.56,C,10.96,MG/L
+04/24/2001,,,6.92,C,11.58,MG/L
+06/21/2001,,,19.6,C,10.6,MG/L
+07/19/2001,,,23.04,C,0.78,MG/L
+07/31/2001,,,24.0,C,2.0,MG/L
+08/14/2001,,,25.27,C,7.53,MG/L
+09/13/2001,,,20.70,C,8.64,MG/L
+10/17/2001,,,11.58,C,9.7,MG/L
+04/25/2002,,,8.77,C,10.5,MG/L
+06/12/2002,0,FEET,,,8.99,MG/L
+06/12/2002,19.68,FEET,,,3.26,MG/L
+06/12/2002,22.96,FEET,,,.85,MG/L
+06/12/2002,,,14.29,C,0.85,MG/L
+06/27/2002,0,FEET,,,10,MG/L
+06/27/2002,19.68,FEET,,,2.7,MG/L
+06/27/2002,,,21.3,C,10.0,MG/L
+07/18/2002,0,FEET,,,10.28,MG/L
+07/18/2002,19.68,FEET,,,.58,MG/L
+07/18/2002,,,22.17,C,0.58,MG/L
+08/15/2002,0,FEET,,,7.6,MG/L
+08/15/2002,22.96,FEET,,,.3,MG/L
+08/15/2002,,,22.2,C,0.3,MG/L
+09/04/2002,0,FEET,,,8.1,MG/L
+09/04/2002,22.96,FEET,,,.4,MG/L
+09/04/2002,,,22.1,C,0.4,MG/L
+11/04/2002,0,FEET,,,12.8,MG/L
+11/04/2002,,,4.8,C,12.8,MG/L
+07/24/2003,0,FEET,,,9.8,MG/L
+07/24/2003,1,METERS,23.4,DEGREES C,9.77,MG/L
+07/24/2003,2,METERS,23.3,DEGREES C,9.46,MG/L
+07/24/2003,3,METERS,22.9,DEGREES C,8.14,MG/L
+07/24/2003,4,METERS,22.8,DEGREES C,6.53,MG/L
+07/24/2003,5,METERS,22.7,DEGREES C,7,MG/L
+07/24/2003,6,METERS,22.6,DEGREES C,6.22,MG/L
+07/24/2003,7,METERS,22.2,DEGREES C,3.63,MG/L
+07/24/2003,,,23.4,C,9.8,MG/L
+08/14/2003,0,FEET,,,8.3,MG/L
+08/14/2003,0,METERS,25.47,DEGREES C,8.28,MG/L
+08/14/2003,1,METERS,25.44,DEGREES C,8.44,MG/L
+08/14/2003,2,METERS,24.68,DEGREES C,7.9,MG/L
+08/14/2003,3,METERS,24.57,DEGREES C,6.03,MG/L
+08/14/2003,4,METERS,24.3,DEGREES C,4.2,MG/L
+08/14/2003,5,METERS,24.23,DEGREES C,4.23,MG/L
+08/14/2003,6,METERS,24.15,DEGREES C,4.51,MG/L
+08/14/2003,7,METERS,23.35,DEGREES C,.23,MG/L
+08/14/2003,22.96,FEET,,,.2,MG/L
+08/14/2003,23,FEET,,,.2,MG/L
+08/14/2003,,,23.3,C,0.2,MG/L
+09/09/2003,0,FEET,,,10.7,MG/L
+09/09/2003,0,METERS,22.85,DEGREES C,10.74,MG/L
+09/09/2003,1,METERS,22.82,DEGREES C,10.67,MG/L
+09/09/2003,2,METERS,22.78,DEGREES C,10.54,MG/L
+09/09/2003,3,METERS,22.68,DEGREES C,10.21,MG/L
+09/09/2003,4,METERS,22.64,DEGREES C,9.92,MG/L
+09/09/2003,5,METERS,22.44,DEGREES C,8.75,MG/L
+09/09/2003,6,METERS,21.78,DEGREES C,2.63,MG/L
+09/09/2003,7,METERS,21.73,DEGREES C,1.91,MG/L
+09/09/2003,,,22.9,C,10.7,MG/L
+07/14/2004,0,METERS,23.91,DEGREES C,18.42,MG/L
+07/14/2004,1,METERS,23.8,DEGREES C,18.02,MG/L
+07/14/2004,2,METERS,23.66,DEGREES C,17.65,MG/L
+07/14/2004,3,METERS,23.3,DEGREES C,16.81,MG/L
+07/14/2004,4,METERS,22.97,DEGREES C,13.42,MG/L
+07/14/2004,5,METERS,22.31,DEGREES C,12.3,MG/L
+07/14/2004,6,METERS,21.82,DEGREES C,9.58,MG/L
+07/14/2004,6.56,FEET,,,18.4,MG/L
+07/14/2004,7,METERS,21.31,DEGREES C,6.76,MG/L
+07/14/2004,,,23.8,C,18.4,MG/L
+08/10/2004,0,METERS,22,DEGREES C,6.92,MG/L
+08/10/2004,1,METERS,22.1,DEGREES C,6.97,MG/L
+08/10/2004,2,METERS,22.11,DEGREES C,6.91,MG/L
+08/10/2004,3,METERS,22.11,DEGREES C,6.89,MG/L
+08/10/2004,4,METERS,22.1,DEGREES C,6.89,MG/L
+08/10/2004,5,METERS,22.09,DEGREES C,6.88,MG/L
+08/10/2004,6,METERS,22.09,DEGREES C,6.87,MG/L
+08/10/2004,6.5,METERS,22.03,DEGREES C,6.81,MG/L
+08/10/2004,6.56,FEET,,,6.9,MG/L
+08/10/2004,7,METERS,22.04,DEGREES C,6.82,MG/L
+08/10/2004,,,22.0,C,6.9,MG/L
+10/05/2004,0,METERS,14.88,DEGREES C,7.45,MG/L
+10/05/2004,1,METERS,14.9,DEGREES C,7.4,MG/L
+10/05/2004,2,METERS,14.9,DEGREES C,7.3,MG/L
+10/05/2004,3,METERS,14.91,DEGREES C,7.31,MG/L
+10/05/2004,4,METERS,14.9,DEGREES C,7.29,MG/L
+10/05/2004,5,METERS,14.9,DEGREES C,7.27,MG/L
+10/05/2004,6,METERS,14.89,DEGREES C,7.22,MG/L
+10/05/2004,6.56,FEET,,,7.5,MG/L
+10/05/2004,7,METERS,14.87,DEGREES C,7.09,MG/L
+10/05/2004,8,METERS,15.22,DEGREES C,1.24,MG/L
+10/05/2004,,,14.9,C,7.5,MG/L
+04/25/2005,,,22.5,C,12.2,MG/L
+08/11/2005,0,METERS,25.19,DEGREES C,9.75,MG/L
+08/11/2005,1,METERS,25.21,DEGREES C,9.59,MG/L
+08/11/2005,2,METERS,25.2,DEGREES C,9.36,MG/L
+08/11/2005,3,METERS,25.08,DEGREES C,8.78,MG/L
+08/11/2005,4,METERS,25,DEGREES C,8.27,MG/L
+08/11/2005,5,METERS,24.94,DEGREES C,7.52,MG/L
+08/11/2005,6,METERS,24.7,DEGREES C,4.32,MG/L
+08/11/2005,6.5,METERS,24.65,DEGREES C,3.34,MG/L
+08/11/2005,,,25.2,C,9.8,MG/L
+09/13/2005,,,22.7,C,9.7,MG/L
+04/18/2006,0,METERS,9.98,DEGREES C,11.24,MG/L
+04/18/2006,1,METERS,9.97,DEGREES C,11.2,MG/L
+04/18/2006,2,METERS,9.97,DEGREES C,11.19,MG/L
+04/18/2006,3,METERS,9.93,DEGREES C,11.11,MG/L
+04/18/2006,4,METERS,9.95,DEGREES C,11.08,MG/L
+04/18/2006,5,METERS,9.91,DEGREES C,11.01,MG/L
+04/18/2006,6,METERS,9.92,DEGREES C,11.02,MG/L
+04/18/2006,7,METERS,9.88,DEGREES C,3.33,MG/L
+04/18/2006,,,9.9,C,11.2,MG/L
+07/25/2006,0,METERS,28.03,DEGREES C,12.85,MG/L
+07/25/2006,1,METERS,25.94,DEGREES C,12.16,MG/L
+07/25/2006,2,METERS,26.05,DEGREES C,9.55,MG/L
+07/25/2006,3,METERS,25.93,DEGREES C,8.44,MG/L
+07/25/2006,4,METERS,25.87,DEGREES C,8.15,MG/L
+07/25/2006,5,METERS,25.56,DEGREES C,5.06,MG/L
+07/25/2006,6,METERS,25.41,DEGREES C,5.01,MG/L
+07/25/2006,7,METERS,24.99,DEGREES C,2.39,MG/L
+07/25/2006,,,28.0,C,12.9,MG/L
+08/17/2006,0,METERS,24.54,DEGREES C,7.74,MG/L
+08/17/2006,1,METERS,24.54,DEGREES C,7.6,MG/L
+08/17/2006,2,METERS,24.54,DEGREES C,7.6,MG/L
+08/17/2006,3,METERS,24.53,DEGREES C,7.63,MG/L
+08/17/2006,4,METERS,24.53,DEGREES C,7.63,MG/L
+08/17/2006,5,METERS,24.52,DEGREES C,7.66,MG/L
+08/17/2006,6,METERS,24.51,DEGREES C,7.76,MG/L
+08/17/2006,7,METERS,24.5,DEGREES C,7.7,MG/L
+08/17/2006,8,METERS,24.5,DEGREES C,7.29,MG/L
+08/17/2006,9,METERS,24.5,DEGREES C,.74,MG/L
+09/07/2006,0,METERS,22.52,DEGREES C,12.23,MG/L
+09/07/2006,1,METERS,22.49,DEGREES C,11.97,MG/L
+09/07/2006,2,METERS,22.4,DEGREES C,10.4,MG/L
+09/07/2006,3,METERS,22.33,DEGREES C,9.28,MG/L
+09/07/2006,4,METERS,22.32,DEGREES C,9.65,MG/L
+09/07/2006,5,METERS,22.11,DEGREES C,7.45,MG/L
+09/07/2006,6,METERS,21.91,DEGREES C,6.6,MG/L
+09/07/2006,7,METERS,21.67,DEGREES C,5.08,MG/L
+04/17/2007,0,METERS,6.24,DEGREES C,11.2,MG/L
+04/17/2007,1,METERS,6.2,DEGREES C,11.2,MG/L
+04/17/2007,2,METERS,6.14,DEGREES C,11.2,MG/L
+04/17/2007,3,METERS,6.02,DEGREES C,11.13,MG/L
+04/17/2007,4,METERS,5.98,DEGREES C,11.1,MG/L
+04/17/2007,5,METERS,5.95,DEGREES C,11.06,MG/L
+04/17/2007,6,METERS,5.93,DEGREES C,11.05,MG/L
+04/17/2007,7,METERS,5.87,DEGREES C,8.86,MG/L
+04/17/2007,,,6.2,C,11.2,MG/L
+07/17/2007,0,METERS,24.84,DEGREES C,11.55,MG/L
+07/17/2007,1,METERS,24.82,DEGREES C,11.64,MG/L
+07/17/2007,2,METERS,24.75,DEGREES C,11.29,MG/L
+07/17/2007,3,METERS,24.09,DEGREES C,7.94,MG/L
+07/17/2007,4,METERS,23.8,DEGREES C,6.94,MG/L
+07/17/2007,5,METERS,23.54,DEGREES C,5.33,MG/L
+07/17/2007,6,METERS,23.41,DEGREES C,4.71,MG/L
+07/17/2007,7,METERS,23.31,DEGREES C,2.8,MG/L
+07/17/2007,8,METERS,23.11,DEGREES C,.18,MG/L
+07/17/2007,,,24.8,C,11.6,MG/L
+08/14/2007,0,METERS,25.49,DEGREES C,8.49,MG/L
+08/14/2007,1,METERS,25.49,DEGREES C,8.42,MG/L
+08/14/2007,2,METERS,25.44,DEGREES C,8.3,MG/L
+08/14/2007,3,METERS,25.34,DEGREES C,7.85,MG/L
+08/14/2007,4,METERS,25.26,DEGREES C,7.1,MG/L
+08/14/2007,5,METERS,25.21,DEGREES C,6.88,MG/L
+08/14/2007,7,METERS,24.81,DEGREES C,.38,MG/L
+08/14/2007,25.26,METERS,7.1,DEGREES C,9.09,MG/L
+08/14/2007,,,25.49,C,8.5,MG/L
+09/11/2007,0,METERS,21.38,DEGREES C,7.08,MG/L
+09/11/2007,1,METERS,21.44,DEGREES C,7.06,MG/L
+09/11/2007,2,METERS,21.46,DEGREES C,7.17,MG/L
+09/11/2007,3,METERS,21.47,DEGREES C,7.15,MG/L
+09/11/2007,4,METERS,21.46,DEGREES C,7.14,MG/L
+09/11/2007,5,METERS,21.46,DEGREES C,7.2,MG/L
+09/11/2007,6,METERS,21.46,DEGREES C,7.25,MG/L
+09/11/2007,7,METERS,21.48,DEGREES C,7.33,MG/L
+09/11/2007,,,21.4,C,7.1,MG/L
+04/29/2008,0,METERS,5.97,DEGREES C,10.17,MG/L
+04/29/2008,1,METERS,5.97,DEGREES C,10.23,MG/L
+04/29/2008,2,METERS,5.87,DEGREES C,10.26,MG/L
+04/29/2008,3,METERS,5,DEGREES C,10.03,MG/L
+04/29/2008,4,METERS,5.66,DEGREES C,9.88,MG/L
+04/29/2008,5,METERS,5.63,DEGREES C,9.83,MG/L
+04/29/2008,6,METERS,5.6,DEGREES C,9.81,MG/L
+04/29/2008,7,METERS,5.57,DEGREES C,9.79,MG/L
+04/29/2008,,,5.9,C,10.2,MG/L
+07/24/2008,0,METERS,24.57,DEGREES C,11.69,MG/L
+07/24/2008,1,METERS,24.55,DEGREES C,11.68,MG/L
+07/24/2008,2,METERS,24.47,DEGREES C,11.4,MG/L
+07/24/2008,3,METERS,24.14,DEGREES C,9.34,MG/L
+07/24/2008,4,METERS,23.61,DEGREES C,5.98,MG/L
+07/24/2008,5,METERS,23.32,DEGREES C,3.36,MG/L
+07/24/2008,6,METERS,22.72,DEGREES C,.07,MG/L
+07/24/2008,7,METERS,22.63,DEGREES C,0,MG/L
+07/24/2008,,,24.6,C,11.7,MG/L
+08/19/2008,0,METERS,24.74,DEGREES C,12.27,MG/L
+08/19/2008,1,METERS,24.75,DEGREES C,12.26,MG/L
+08/19/2008,2,METERS,26.68,DEGREES C,12.08,MG/L
+08/19/2008,3,METERS,24.31,DEGREES C,9.92,MG/L
+08/19/2008,4,METERS,23.95,DEGREES C,7.69,MG/L
+08/19/2008,5,METERS,23.91,DEGREES C,7.33,MG/L
+08/19/2008,6,METERS,23.79,DEGREES C,4.3,MG/L
+08/19/2008,7,METERS,23.29,DEGREES C,.17,MG/L
+08/19/2008,,,24.7,C,12.3,MG/L
+09/10/2008,0,METERS,19.8,DEGREES C,8.29,MG/L
+09/10/2008,1,METERS,19.8,DEGREES C,8.26,MG/L
+09/10/2008,2,METERS,19.79,DEGREES C,8.22,MG/L
+09/10/2008,3,METERS,19.79,DEGREES C,8.26,MG/L
+09/10/2008,4,METERS,19.78,DEGREES C,8.2,MG/L
+09/10/2008,5,METERS,19.78,DEGREES C,8.2,MG/L
+09/10/2008,6,METERS,19.7,DEGREES C,8.02,MG/L
+09/10/2008,7,METERS,19.69,DEGREES C,8.02,MG/L
+09/10/2008,8,METERS,19.66,DEGREES C,7.92,MG/L
+09/10/2008,9,METERS,19.69,DEGREES C,1.5,MG/L
+09/10/2008,,,19.8,C,8.3,MG/L
+07/01/2009,0,METERS,20.3,DEGREES C,7.14,MG/L
+07/01/2009,1,METERS,20.3,DEGREES C,7.11,MG/L
+07/01/2009,2,METERS,20.3,DEGREES C,7.1,MG/L
+07/01/2009,3,METERS,20.3,DEGREES C,7.08,MG/L
+07/01/2009,4,METERS,20.3,DEGREES C,7.07,MG/L
+07/01/2009,5,METERS,20.3,DEGREES C,7.07,MG/L
+07/01/2009,6,METERS,20.3,DEGREES C,7.07,MG/L
+07/01/2009,7,METERS,16.98,DEGREES C,.21,MG/L
+07/01/2009,,,20.3,C,7.1,MG/L
+08/06/2009,0,METERS,23.32,DEGREES C,9.8,MG/L
+08/06/2009,1,METERS,23.3,DEGREES C,9.95,MG/L
+08/06/2009,2,METERS,22.87,DEGREES C,9.82,MG/L
+08/06/2009,3,METERS,22.36,DEGREES C,8.67,MG/L
+08/06/2009,4,METERS,21.94,DEGREES C,7.31,MG/L
+08/06/2009,5,METERS,21.88,DEGREES C,6.46,MG/L
+08/06/2009,6,METERS,21.04,DEGREES C,1.37,MG/L
+08/06/2009,,,23.3,C,9.8,MG/L
+09/03/2009,0,METERS,21.33,DEGREES C,11.78,MG/L
+09/03/2009,1,METERS,21.09,DEGREES C,10.8,MG/L
+09/03/2009,2,METERS,20.99,DEGREES C,9.62,MG/L
+09/03/2009,3,METERS,20.9,DEGREES C,9.09,MG/L
+09/03/2009,4,METERS,20.87,DEGREES C,8.89,MG/L
+09/03/2009,5,METERS,20.7,DEGREES C,8.58,MG/L
+09/03/2009,6,METERS,20.57,DEGREES C,6.83,MG/L
+09/03/2009,7,METERS,20.57,DEGREES C,6.65,MG/L
+04/14/2010,0,METERS,10.62,DEGREES C,11.23,MG/L
+04/14/2010,1,METERS,10.62,DEGREES C,11.43,MG/L
+04/14/2010,2,METERS,10.58,DEGREES C,11.42,MG/L
+04/14/2010,3,METERS,10.56,DEGREES C,11.46,MG/L
+04/14/2010,4,METERS,10.56,DEGREES C,11.46,MG/L
+04/14/2010,5,METERS,10.48,DEGREES C,11.45,MG/L
+04/14/2010,6,METERS,10.47,DEGREES C,11.4,MG/L
+04/14/2010,7,METERS,10.45,DEGREES C,11.42,MG/L
+04/14/2010,,,10.6,C,11.4,MG/L
+07/21/2010,0,METERS,26.52,DEGREES C,10.04,MG/L
+07/21/2010,1,METERS,25.94,DEGREES C,10.15,MG/L
+07/21/2010,2,METERS,25.66,DEGREES C,9.82,MG/L
+07/21/2010,3,METERS,25.24,DEGREES C,8.08,MG/L
+07/21/2010,4,METERS,24.96,DEGREES C,5.94,MG/L
+07/21/2010,5,METERS,24.14,DEGREES C,.84,MG/L
+07/21/2010,6,METERS,22.33,DEGREES C,.06,MG/L
+07/21/2010,7,METERS,18.13,DEGREES C,0,MG/L
+07/21/2010,,,26.0,C,10.0,MG/L
+08/16/2010,0,METERS,24.58,DEGREES C,6.51,MG/L
+08/16/2010,1,METERS,24.58,DEGREES C,6.43,MG/L
+08/16/2010,2,METERS,24.58,DEGREES C,6.41,MG/L
+08/16/2010,3,METERS,24.57,DEGREES C,6.28,MG/L
+08/16/2010,4,METERS,24.56,DEGREES C,6.17,MG/L
+08/16/2010,5,METERS,24.56,DEGREES C,6.12,MG/L
+08/16/2010,6,METERS,24.54,DEGREES C,5.66,MG/L
+08/16/2010,,,24.6,C,6.5,MG/L
+09/15/2010,0,METERS,18.94,DEGREES C,9.78,MG/L
+09/15/2010,1,METERS,18.94,DEGREES C,9.72,MG/L
+09/15/2010,2,METERS,18.93,DEGREES C,9.68,MG/L
+09/15/2010,3,FEET,19.41,DEGREES C,11.79,MG/L
+09/15/2010,3,METERS,18.93,DEGREES C,9.57,MG/L
+09/15/2010,4,METERS,18.93,DEGREES C,9.57,MG/L
+09/15/2010,5,METERS,18.93,DEGREES C,9.55,MG/L
+09/15/2010,6,FEET,19.4,DEGREES C,11.81,MG/L
+09/15/2010,6,METERS,18.91,DEGREES C,9.13,MG/L
+09/15/2010,7,METERS,18.74,DEGREES C,7.69,MG/L
+09/15/2010,9,FEET,19.37,DEGREES C,11.66,MG/L
+09/15/2010,12,FEET,19.37,DEGREES C,11.59,MG/L
+09/15/2010,15,FEET,19.36,DEGREES C,11.71,MG/L
+09/15/2010,,,18.9,C,9.7,MG/L
+05/02/2011,0,METERS,6.74,DEGREES C,11.59,MG/L
+05/02/2011,1,METERS,6.74,DEGREES C,11.59,MG/L
+05/02/2011,2,METERS,6.74,DEGREES C,11.59,MG/L
+05/02/2011,3,METERS,6.74,DEGREES C,11.55,MG/L
+05/02/2011,4,METERS,6.74,DEGREES C,11.53,MG/L
+05/02/2011,5,METERS,6.74,DEGREES C,11.52,MG/L
+05/02/2011,6,METERS,6.74,DEGREES C,11.51,MG/L
+05/02/2011,7,METERS,6.74,DEGREES C,11.47,MG/L
+03/26/2012,0,METERS,8.16,DEGREES C,11.86,MG/L
+03/26/2012,1,METERS,8.17,DEGREES C,11.88,MG/L
+03/26/2012,2,METERS,8.17,DEGREES C,11.87,MG/L
+03/26/2012,3,METERS,8.17,DEGREES C,11.87,MG/L
+03/26/2012,4,METERS,8.16,DEGREES C,11.84,MG/L
+03/26/2012,5,METERS,8.16,DEGREES C,11.84,MG/L
+03/26/2012,6,METERS,8.09,DEGREES C,11.79,MG/L
+03/26/2012,7,METERS,7.3,DEGREES C,10.86,MG/L
+06/16/2012,0,METERS,23.29,DEGREES C,6.08,MG/L
+06/16/2012,1,METERS,23.29,DEGREES C,6.01,MG/L
+06/16/2012,2,METERS,23.28,DEGREES C,5.79,MG/L
+06/16/2012,3,METERS,23.28,DEGREES C,5.77,MG/L
+06/16/2012,4,METERS,23.28,DEGREES C,5.79,MG/L
+06/16/2012,5,METERS,23.28,DEGREES C,5.8,MG/L
+06/16/2012,6,METERS,23.28,DEGREES C,5.73,MG/L
+06/16/2012,7,METERS,23.28,DEGREES C,5.55,MG/L
+07/19/2012,0,METERS,26.57,DEGREES C,7.16,MG/L
+07/19/2012,1,METERS,26.57,DEGREES C,7.12,MG/L
+07/19/2012,2,METERS,26.47,DEGREES C,7.1,MG/L
+07/19/2012,3,METERS,26.43,DEGREES C,7.03,MG/L
+07/19/2012,4,METERS,26.39,DEGREES C,7.02,MG/L
+07/19/2012,5,METERS,26.37,DEGREES C,6.89,MG/L
+07/19/2012,6,METERS,23.43,DEGREES C,.53,MG/L
+07/19/2012,7,METERS,21,DEGREES C,.3,MG/L
+09/13/2012,0,METERS,20.52,DEGREES C,6.83,MG/L
+09/13/2012,1,METERS,20.5,DEGREES C,6.75,MG/L
+09/13/2012,2,METERS,20.48,DEGREES C,6.54,MG/L
+09/13/2012,3,METERS,20.45,DEGREES C,6.45,MG/L
+09/13/2012,4,METERS,20.44,DEGREES C,6.45,MG/L
+09/13/2012,5,METERS,20.44,DEGREES C,6.44,MG/L
+09/13/2012,6,METERS,20.44,DEGREES C,6.44,MG/L
+09/13/2012,7,METERS,20.44,DEGREES C,6.39,MG/L
+05/09/2013,0,METERS,11.68,DEGREES C,15.13,MG/L
+05/09/2013,1,METERS,11.67,DEGREES C,15.18,MG/L
+05/09/2013,2,METERS,11.49,DEGREES C,15.2,MG/L
+05/09/2013,3,METERS,8.75,DEGREES C,15.18,MG/L
+05/09/2013,4,METERS,6.82,DEGREES C,13.5,MG/L
+05/09/2013,5,METERS,6.67,DEGREES C,12.81,MG/L
+05/09/2013,6,METERS,4.73,DEGREES C,10.74,MG/L
+05/09/2013,7,METERS,4.8,DEGREES C,9.04,MG/L
+07/10/2013,0,METERS,24.61,DEGREES C,8.87,MG/L
+07/10/2013,1,METERS,24.61,DEGREES C,8.87,MG/L
+07/10/2013,2,METERS,24.6,DEGREES C,8.86,MG/L
+07/10/2013,3,METERS,24.6,DEGREES C,8.81,MG/L
+07/10/2013,4,METERS,24.58,DEGREES C,8.76,MG/L
+07/10/2013,5,METERS,22,DEGREES C,3.43,MG/L
+07/10/2013,6,METERS,19.13,DEGREES C,.86,MG/L
+07/10/2013,7,METERS,16.39,DEGREES C,.45,MG/L
+07/10/2013,,,24.6,C,8.9,MG/L
+08/08/2013,0,METERS,22.32,DEGREES C,9.55,MG/L
+08/08/2013,1,METERS,22.33,DEGREES C,9.56,MG/L
+08/08/2013,2,METERS,22.28,DEGREES C,9.53,MG/L
+08/08/2013,3,METERS,22.23,DEGREES C,9.25,MG/L
+08/08/2013,4,METERS,22.21,DEGREES C,9.26,MG/L
+08/08/2013,5,METERS,21.68,DEGREES C,6.7,MG/L
+08/08/2013,6,METERS,21.35,DEGREES C,4.47,MG/L
+08/08/2013,7,METERS,20.8,DEGREES C,1.79,MG/L
+08/08/2013,,,22.3,C,9.6,MG/L
+09/05/2013,0,FEET,23.52,DEGREES C,10.05,MG/L
+09/05/2013,1,FEET,23.52,DEGREES C,10.06,MG/L
+09/05/2013,2,FEET,23.38,DEGREES C,9.56,MG/L
+09/05/2013,3,FEET,23.22,DEGREES C,8.71,MG/L
+09/05/2013,4,FEET,23.07,DEGREES C,7.82,MG/L
+09/05/2013,5,FEET,22.99,DEGREES C,7.64,MG/L
+09/05/2013,6,FEET,22.75,DEGREES C,6.9,MG/L
+09/05/2013,7,FEET,21.3,DEGREES C,.55,MG/L
+05/05/2014,0,METERS,7.51,DEGREES C,15.51,MG/L
+05/05/2014,1,METERS,7.42,DEGREES C,15.63,MG/L
+05/05/2014,2,METERS,7.27,DEGREES C,15.64,MG/L
+05/05/2014,3,METERS,7.12,DEGREES C,15.54,MG/L
+05/05/2014,4,METERS,6.69,DEGREES C,15.06,MG/L
+05/05/2014,5,METERS,6.51,DEGREES C,14.67,MG/L
+05/05/2014,6,METERS,6.41,DEGREES C,14.2,MG/L
+07/16/2014,0,METERS,21.78,DEGREES C,7.79,MG/L
+07/16/2014,1,METERS,21.46,DEGREES C,7.63,MG/L
+07/16/2014,2,METERS,21.36,DEGREES C,7.29,MG/L
+07/16/2014,3,METERS,21.34,DEGREES C,7.23,MG/L
+07/16/2014,4,METERS,21.33,DEGREES C,7.2,MG/L
+07/16/2014,5,METERS,21.31,DEGREES C,7.17,MG/L
+07/16/2014,6,METERS,21.3,DEGREES C,7.11,MG/L
+07/16/2014,7,METERS,20.51,DEGREES C,2.77,MG/L
+07/16/2014,,,21.8,C,7.8,MG/L
+08/20/2014,0,METERS,23.69,DEGREES C,10.54,MG/L
+08/20/2014,1,METERS,23.6,DEGREES C,10.38,MG/L
+08/20/2014,2,METERS,23.54,DEGREES C,9.84,MG/L
+08/20/2014,3,METERS,23.49,DEGREES C,9.17,MG/L
+08/20/2014,4,METERS,23.4,DEGREES C,7.75,MG/L
+08/20/2014,5,METERS,22.94,DEGREES C,3.23,MG/L
+08/20/2014,6,METERS,22.15,DEGREES C,.61,MG/L
+08/20/2014,7,METERS,21.33,DEGREES C,.41,MG/L
+09/15/2014,0,METERS,17.77,DEGREES C,9.73,MG/L
+09/15/2014,1,METERS,17.78,DEGREES C,9.67,MG/L
+09/15/2014,2,METERS,17.77,DEGREES C,9.33,MG/L
+09/15/2014,3,METERS,17.75,DEGREES C,9.15,MG/L
+09/15/2014,4,METERS,17.74,DEGREES C,9.05,MG/L
+09/15/2014,5,METERS,17.74,DEGREES C,9.04,MG/L
+09/15/2014,6,METERS,17.74,DEGREES C,9,MG/L
+09/15/2014,7,METERS,17.73,DEGREES C,8.88,MG/L
+07/21/2016,0,METERS,25.35,DEGREES C,8.33,MG/L
+07/21/2016,1,METERS,25.36,DEGREES C,8.04,MG/L
+07/21/2016,2,METERS,25.36,DEGREES C,7.97,MG/L
+07/21/2016,3,METERS,25.36,DEGREES C,7.97,MG/L
+07/21/2016,4,METERS,25.32,DEGREES C,7.87,MG/L
+07/21/2016,5,METERS,25.25,DEGREES C,7.72,MG/L
+08/17/2016,0,METERS,25.36,DEGREES C,10.03,MG/L
+08/17/2016,1,METERS,25.35,DEGREES C,10.03,MG/L
+08/17/2016,2,METERS,25.36,DEGREES C,9.61,MG/L
+08/17/2016,3,METERS,25.28,DEGREES C,9.21,MG/L
+08/17/2016,4,METERS,25.24,DEGREES C,9.1,MG/L
+08/17/2016,5,METERS,25.23,DEGREES C,9.12,MG/L
+08/17/2016,6,METERS,24.82,DEGREES C,2.98,MG/L
+08/17/2016,7,METERS,23.97,DEGREES C,.53,MG/L
+08/17/2016,8,METERS,22.77,DEGREES C,.38,MG/L
+07/13/2017,0,METERS,23.92,DEGREES C,8.97,MG/L
+07/13/2017,1,METERS,23.93,DEGREES C,9.01,MG/L
+07/13/2017,2,METERS,23.94,DEGREES C,8.95,MG/L
+07/13/2017,3,METERS,23.94,DEGREES C,8.94,MG/L
+07/13/2017,4,METERS,23.86,DEGREES C,8.94,MG/L
+07/13/2017,5,METERS,23.84,DEGREES C,8.93,MG/L
+07/13/2017,6,METERS,19.99,DEGREES C,1.63,MG/L
+07/13/2017,7,METERS,17.24,DEGREES C,.77,MG/L
+09/21/2017,0,METERS,19.53,DEGREES C,9.44,MG/L
+09/21/2017,1,METERS,19.54,DEGREES C,9.29,MG/L
+09/21/2017,2,METERS,19.53,DEGREES C,9.25,MG/L
+09/21/2017,3,METERS,19.52,DEGREES C,8.97,MG/L
+09/21/2017,4,METERS,19.51,DEGREES C,8.69,MG/L
+09/21/2017,5,METERS,19.5,DEGREES C,8.43,MG/L
+09/21/2017,6,METERS,19.48,DEGREES C,8.23,MG/L
+09/21/2017,7,METERS,19.22,DEGREES C,5.2,MG/L
+09/21/2017,8,METERS,18.88,DEGREES C,2.19,MG/L
+09/21/2017,9,METERS,18.52,DEGREES C,.68,MG/L
+07/24/2018,0,METERS,24.93,DEGREES C,9.93,MG/L
+07/24/2018,1,METERS,24.93,DEGREES C,9.97,MG/L
+07/24/2018,2,METERS,24.9,DEGREES C,9.95,MG/L
+07/24/2018,3,METERS,24.81,DEGREES C,9.86,MG/L
+07/24/2018,4,METERS,24.66,DEGREES C,9.81,MG/L
+07/24/2018,5,METERS,23.94,DEGREES C,8.69,MG/L
+07/24/2018,6,METERS,21.24,DEGREES C,1.04,MG/L
+08/27/2018,0,METERS,23.07,DEGREES C,7.72,MG/L
+08/27/2018,1,METERS,23.01,DEGREES C,7.74,MG/L
+08/27/2018,2,METERS,22.98,DEGREES C,7.72,MG/L
+08/27/2018,3,METERS,22.86,DEGREES C,7.57,MG/L
+08/27/2018,4,METERS,22.91,DEGREES C,7.42,MG/L
+08/27/2018,5,METERS,22.67,DEGREES C,7.28,MG/L
+08/27/2018,6,METERS,21.09,DEGREES C,.8,MG/L
+08/27/2018,7,METERS,18.45,DEGREES C,.64,MG/L
+08/27/2018,8,METERS,17.07,DEGREES C,.57,MG/L
+07/22/2019,0,METERS,24.83,DEGREES C,7.8,MG/L
+07/22/2019,1,METERS,24.8,DEGREES C,7.72,MG/L
+07/22/2019,2,METERS,24.66,DEGREES C,7.77,MG/L
+07/22/2019,3,METERS,24.56,DEGREES C,7.74,MG/L
+07/22/2019,4,METERS,24.49,DEGREES C,7.65,MG/L
+07/22/2019,5,METERS,24.31,DEGREES C,7.4,MG/L
+07/22/2019,6,METERS,16.92,DEGREES C,.94,MG/L
+07/22/2019,7,METERS,15.27,DEGREES C,.62,MG/L
+07/22/2019,8,METERS,14.95,DEGREES C,.52,MG/L
+08/14/2019,0,METERS,24.38,DEGREES C,8.82,MG/L
+08/14/2019,1,METERS,24.36,DEGREES C,8.86,MG/L
+08/14/2019,2,METERS,24.19,DEGREES C,8.73,MG/L
+08/14/2019,3,METERS,23.82,DEGREES C,8.27,MG/L
+08/14/2019,4,METERS,23.74,DEGREES C,7.88,MG/L
+08/14/2019,5,METERS,23.65,DEGREES C,7.53,MG/L
+08/14/2019,6,METERS,20.33,DEGREES C,.54,MG/L
+08/14/2019,7,METERS,16.94,DEGREES C,.4,MG/L
+09/06/2019,0,METERS,20.11,DEGREES C,8.13,MG/L
+09/06/2019,1,METERS,20.06,DEGREES C,6.77,MG/L
+09/06/2019,2,METERS,20.03,DEGREES C,6.64,MG/L
+09/06/2019,3,METERS,20.01,DEGREES C,6.53,MG/L
+09/06/2019,4,METERS,20.01,DEGREES C,6.45,MG/L
+09/06/2019,5,METERS,20,DEGREES C,6.42,MG/L
+09/06/2019,6,METERS,20,DEGREES C,6.38,MG/L
+09/06/2019,7,METERS,19.99,DEGREES C,6.3,MG/L
+09/06/2019,8,METERS,19.5,DEGREES C,5.61,MG/L
+08/20/2020,0,METERS,76.1,DEGREES F,10.75,MG/L
+08/20/2020,1,METERS,75.9,DEGREES F,10.77,MG/L
+08/20/2020,2,METERS,74.7,DEGREES F,8.94,MG/L
+08/20/2020,3,METERS,74.5,DEGREES F,7.12,MG/L
+08/20/2020,4,METERS,74.4,DEGREES F,7.2,MG/L
+08/20/2020,5,METERS,74.3,DEGREES F,7.12,MG/L
+08/20/2020,6,METERS,74.2,DEGREES F,7.05,MG/L
+08/20/2020,7,METERS,73.8,DEGREES F,2.08,MG/L
+08/20/2020,8,METERS,72.2,DEGREES F,.16,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/12/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/06/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/16/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/08/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/09/1986,Rained 2" 8/7    
+08/25/1986,Rained 8/24    
+09/01/1986,Partly cloudy    
+09/19/1986,Overcast- there has been 4-6" rain in past 12 days- and the water color is not as green as past week's water color.    
+09/27/1986,Sunny.    
+10/04/1986,Partly cloudy.    
+10/16/1986,Sunny and there is a blue green algae bloom on east side.    
+10/27/1986,Sunny.    
+04/26/1987,Transparency depth greater than length of Secchi rope.    
+05/10/1987,Sunny- air temp. 84 F- no rain- water low- algae starting.    
+05/17/1987,Rained .5-1" 5/13- sunny- air 81 F- algae blooming (clusters)- wind southwest- N end of lake very green!    
+05/24/1987,Overcast- air 68 F- rained .75" past week- ice out 3-25-87.    
+05/30/1987,Rained 0.3" on 5/29- wind south-southwest- north side of lake very green- sunny- and the air temperature is 82 degrees F.    
+06/07/1987,Rained 1/10" during the week- 93 degrees F is the air temperature- humid- heavy wind and waves on 6/3 and 6/4- and algae clusters are broken up.    
+06/14/1987,Very hot (100 degrees F)- moderate wave action- rained 0.6" on 6/10/87- green algae with brown scum on top- and the algae is dispersed throughout lake.    
+06/21/1987,Rained 0.4" for the week- air temperature is 76 degrees F- overcast- no wind- sprayed lake on 6/19- blue-green algae blooms proceeded now on bottom in shallows.    
+06/28/1987,Staff gauge at dam (south) read 1.54- trace rain for a week- east and north shores very green- and the weather is hot.    
+07/06/1987,Air temperature is 74 degrees F- calm- partly cloudy- heavy wave action from boat and wind on 7/4/1987- and rained 2.4" since previous reading and 1.8" in the day before reading.    
+07/14/1987,Rained 0.9" since last sample- air temperature is 65 degrees F- sunny- calm- and there is no algae on top of the water.    
+07/24/1987,Rained 3.4" since last sample (1.9" during storm with high winds on 8/23/1987)- lake calm- and the air temperature is 80 degrees F.    
+08/02/1987,Very hot and humid during past week- air temp. 85 F- .9" rain since last reading- NW wind blowing top algae down dam- lake rather clean on all shores- lake level 1.68 at dam (south).    
+08/10/1987,Air temp. 78 F- water surface temp. 77 F- rained 1.1" since last sample.    
+08/19/1987,Windy and cool past week- 1.7" rain since last reading- partly cloudy-70 F- water 73 F    
+09/02/1987,Rained .26" since last sample- air temp. 68 F- water surface temp. is 68 F- sunny- calm- heavy wave action for past two weeks.    
+09/15/1987,Air temp. 80 F- surface water temp. 68 F- sunny- slight wave action- blue-green algae at east and north ends- rained .85" since last reading.    
+09/19/1987,Air temp. 70 F- rained 1.7" since previous reading- surface temp. 73 F- partly cloudy.    
+09/22/1987,Partly cloudy- air temp. 66 F- surface temp. 62 F- rained 1.15" since last sample.    
+09/30/1987,Air temp. 59 F- has been windy for the past week- water surface temp. 61 F- no precipitation since last sample.    
+10/12/1987,Very windy for past week- sunny- air temp. 62 F- surface water temp. 48 F- green algae clumps throughout lake- .15" of rain since last sample.    
+10/20/1987,Partly cloudy- air temp 48 F- surface water temp. 47 F- rained 1.1" since last sample- W wind- very green east side.    
+10/30/1987,Sunny- very calm- windy past week- clear of algae on shore- rained 1.1" since last sample- dam open for winter draw down.    
+11/10/1987,Air temp. 40 F- sunny- calm- dam open for the winter- lake is clear- rained .3" since last sample.    
+04/29/1988,Surface temperature about 50 F- air temperature 71 F- ice out April 6- 1988- has been a very dry month- .75" precipitation.    
+05/17/1988,Rained about 2.5" since last sample- has been windy and cool- air temp. 60 F- surface temp. 57 F.    
+05/27/1988,Water temp 66 F- air 72 F- sunny- breezy- algae growth starting    
+06/05/1988,Water temp. 77 F- air 80 F- sunny- no wind- heavy algae bloom- .12" rain since last reading    
+06/19/1988,Hot (95 F+) - windy- dry- lots of uprooted weeds due to carp    
+07/08/1988,Windy- algae bloom July 1-3- air 82 F- water 77 F.    
+07/22/1988,Very hot/humid- sunny- calm- 1" rain    
+08/06/1988,No floating algae- sunny- 80 F- surface water 76 F- 2.58" rain 8/1-2-3    
+08/17/1988,Water 83 F- air 90 F- 1.88" rain since last sample.    
+08/29/1988,Brown tint to water- .61" rain- air 66 F- water 69 F- pt. cloudy- lt. breeze    
+09/10/1988,.75" rain- water 63 F- air 68 F- hazy sun- light breeze.    
+09/25/1988,No algae- lots of sediment- 3.53" rain- staff gauge in N side of lake- sunny- lt. breeze- 70 F- water 60 F    
+10/06/1988,Air 56 F- water is 56 F- green algae bloom- .75" rain- sunny- no wind today    
+10/26/1988,Windy and rainy past wk.- lake not clearing up like past years- no algae- .66" rain- water temp 43 F- air 40    
+11/03/1988,.37" precipitation. since last reading- lake being drawn down for winter- water 39 F- air 50- no wind- sunny- 2 loons- last week snowed and very windy.    
+05/20/1989,Ice off 4/18- partly cloudy- 74+ F- water temperature. 62 F    
+05/27/1989,Sunny- wind 5-10 mph- 75 F- water temperature 62+ F- slight algae- 1.5 in. rain since last sample    
+06/06/1989,Temp. 74 F- water temperature 65 F- very calm- algae starting to clump- about 3 ft. down    
+06/16/1989,Air 68+ F- water 67+ F- algae bloomed heavily and .91 in. rain since last sample    
+07/01/1989,Sunny- 80+ F- rain 1.56 in. since last- w. surf. temp. 75 F- algae bloom clearing    
+07/13/1989,Partly sunny- slight breeze- 72 F- no algae blooms past 3 weeks- water temp. +77 F- .34 in. rain since last reading    
+07/22/1989,Sunny- slight breeze- air 78+ F- water 74 F- rained 1.18" since last sampled    
+08/04/1989,No surface algae- hot + humid past week- air 84 F- water 79 F- no rain since last    
+08/22/1989,Sunny- 80 F- very calm- rained 1.44" night before- 2.5" since last sample- algae bloom started 8/14    
+08/30/1989,Partly cloudy- 62 F- lake very green past 2 weeks.- 2.93" rain since last sample    
+09/10/1989,Sunny- 62 F- slight breeze- 2.35" rain since last sample- heavy green tint but no surface algae    
+09/26/1989,Sunny- calm- 54+ F- .14 in. rain since last reading    
+10/14/1989,Indian summer 66+F- partly cloudy- .24 in. rain since last- no algae but heavy green tint.    
+10/28/1989,Overcast- 56 F- very calm- very warm past week (80's)- very dry .06" rain since last reading    
+11/07/1989,Partly cloudy- 46 F- slight breeze- snow 11/3-4- rain 11/5- .83" precipitation.- last reading    
+04/07/1990,Ice out 4/5- p.m. reading- water low from winter drawdown.    
+04/20/1990,Green tint @ 1.5' from zooplankton- 70+ F- no wind- .75" rain since last.  Water level up.    
+05/02/1990,Calm- very windy past 2 days- 64+ F- rained 2.84" since last    
+05/12/1990,Sunny- air 62+ F- slight breeze- rain .54" since last report- water has slight green tint    
+05/29/1990,Rained 2.67" since last- calm- sunny- air 65+ F.    
+06/10/1990,Sunny- 78+ F- rain 1.5" since last sample- heavy algae bloom last week- strong algae smell    
+06/26/1990,Humid- 86 F- 4.22" rain since last sample- heavy blue-green algae E- NE sides- strong smell.    
+07/09/1990,Rained 1.92" since last reading- 76+ F- humid- heavy green tint- no surface algae due to rain    
+07/19/1990,Lake very green- strong smell- air 80+F- breezy- rain .97" since last report.    
+07/28/1990,Heavy green tint- little surface algae- humid- 88+ F- calm- rain 2.29" since last report    
+08/10/1990,Humid- 82+ F- slight breeze- rain .1" since last report- getting dry.    
+08/21/1990,Lake looks great- recent turnover   Very little surface algae- rain 2.03" since last reading- calm- sunny- 75+F.    
+09/02/1990,Sunny- 87 F- heavy boat traffic- 1.66" rain since last sample- aerator installed N end    
+09/20/1990,Overcast- 68 F- rain 1.86" since last report    
+10/08/1990,Overcast- calm- 50+ F- rain .68" since last reading    
+10/23/1990,Sunny- slight.  Breeze- 64+ F- rain .84" since last reading    
+11/12/1990,Air 40+ F- snowed 2" 11/3- last reading    
+05/12/1991,Windy and rainy past two weeks.  Air temp. 75 F- ice out April 6th- first year with aeration system    
+05/27/1991,2.18" rain- 80 F very humid- little algae- water temp. 69 F.    
+08/07/1991,SUMMER SAMPLING    
+02/27/1992,LATE WINTER SAMPLE - LAKES    
+04/19/1992,Ice out 4-10.  Snowed 5" that day.  A lot of waterfowl visiting the lake this spring.    
+05/15/1992,Has been very dry- windy past 3 weeks.  Aerator is now on.    
+05/24/1992,Half-inch rain since last report- sunny- 50 degrees.    
+05/28/1992,Slight algae- cool- wet Memorial weekend- today sunny- 72 degrees.    
+06/11/1992,Heavy blue-green algae on east side of lake- very dry past 4 weeks- air temp: 90 degrees +.    
+06/21/1992,It has rained 1.8 inches since the last reading.    
+07/09/1992,It has rained a lot since last sample.  The aerator seems to keep algae suspended- but- the water is very green.    
+07/18/1992,Has rained 1.16" since last sample.  Today is partly cloudy and calm.  Aerator is off- stringy algae on surface.    
+07/29/1992,Lake is very green but with little surface algae- sunny- cool and 70 degrees.    
+08/13/1992,Today is 70 degrees and cool- has rained 1.23" since last sample.    
+08/20/1992,SUMMER SAMPLING    
+08/27/1992,Has been very cool and windy for the past 2 weeks.  Rained 1.05" 2 days ago.  Today its 65 degrees and partly cloudy.    
+09/15/1992,Partly cloudy and 74 degrees- has been very windy the past week- rained 1.08" since the last sample- trees starting to turn color.    
+09/30/1992,Lake is a lot nicer than the depth is showing.  75+ degrees- leaves are turning.  Windy past week- .84" of rain since last sample.    
+10/13/1992,Very windy yesterday.  Lake must have turned over.  Has rained 2.24" since last sample 1.40" last week.  Today is partly cloudy/calm 62+ degrees.    
+10/24/1992,Indian summer for the past 3 days- it has snowed twice since the last sample.  Algae on wind blown shoreline.    
+11/17/1992,Overcast- calm and 28 degrees- lots of geese and ducks- last one for 1992.    
+04/27/1993,SPRING TURNOVER - NO BOTTOM SAMPLE    
+05/21/1993,Has been very windy this spring- cool also.  Today is sunny and 70 degrees.    
+06/10/1993,Sunny- air temp 75- 1" rain since last reading- calm- frost 6/1    
+06/14/1993,SUMMER SAMPLING    
+06/28/1993,Floating weeds due to wind- 4.29" rain since 6/10- windy- cool- air temp 71    
+07/07/1993,SUMMER SAMPLING    
+07/14/1993,Heavy weed growth- very clear little algae- 3" rain since 6/28- air temp 72    
+07/29/1993,Rainfall .32" since 7/14- much wind past few days- looks like lake has turned over- air temp 75+- sunny    
+08/12/1993,Rain since last sample was 1.95"- caused algae bloom.  Humid and hot.    
+08/24/1993,Filamentous algae very thick at sample location- blue-green algae week before- humid- hot- air temp 93- has rained 1.43" since last sample    
+08/24/1993,SUMMER SAMPLING    
+09/07/1993,Has rained 1.89" since last sample- slight algae along the shore.  Sunny and 72 degrees.    
+09/25/1993,Has been rainy/windy since the last sample.  1.99" of rain- no algae but brown color.    
+10/06/1993,FALL TURNOVER    
+10/12/1993,Has rained 1.65" since last sample also windy past week.  First frost Oct. 2nd.  No algae on surface.    
+11/10/1993,First snow on Nov.4- this is last sample for 1993.    
+02/24/1994,LATE WINTER SAMPLING    
+04/18/1994,SPRING TURNOVER (NO BOTTOM SAMPLE)    
+05/22/1994,Very nice calm day +85 degrees- greetings!  Just put the dock in yesterday.  Have a nice day.    
+06/19/1994,Strong winds delaying sampling dates.  Aeration system revised and started past weeks.  Hot + humid!! +90s.    
+06/20/1994,SUMMER SAMPLING    
+07/05/1994,Over 7" rain since last sample.  June 25th rained 5" in 3 hours- heavy agricultural run-off into lake.  No surface algae.    
+07/14/1994,Very nice water considering past run-off from rains.  Today is sunny +75 degrees- calm.  Has rained 1.73" since last sample.  Aeration system on.    
+07/21/1994,SUMMER SAMPLING    
+07/28/1994,Water has heavy green tint.  Has rained 1.88" since last sample.  Today sunny +85 degrees.  Green tint to lake- but no floating algae.    
+08/11/1994,Slight algae bloom on east side.  Has rained 1.92" since last sample.  +74 degrees and calm.    
+08/21/1994,Aeration system on.  Lake is very clear of algae.  Very nice for this time of year!!!  Very weedy - sunny + 84 degrees.  Has rained .50" since last sample.    
+08/31/1994,SUMMER SAMPLING    
+09/08/1994,Sunny- calm- +78 degrees.  Has rained 2.55" since last sample.  Big weed beds - a lot of pan fish + bass fry.    
+09/29/1994,Sunny - calm +72 degrees.  Has been windy + cool past week.  Leaf report: still very green here.    
+10/13/1994,Very nice sunny day +70 degrees.  First frost October 10th.  Has rained 1.05" since last sample.    
+11/02/1994,Low reading due to wind days before.  Writing this November 27th.  Thought I could get a better reading- but weather didn't permit.  See you next year.    
+03/14/1995,LAKE WINTER SAMPLE    
+05/02/1995,Greetings!  This is the first sunny day here in a long time.  +62 degrees.  Very calm-lake green + murky due to past wind + rain.  Ice out on April 3rd.    
+06/02/1995,75 degrees- hot + calm.  Summer is here-over 1.5" of rain last weekend.    
+06/18/1995,Has been very hot -90 degrees + humid past week.  Algae blooming- a lot of weeds and broken weeds floating.  Aeration system on.    
+07/04/1995,Suspended clumps of algae 2-3' down.  Wow!   Water is very clear for this time of year.  A lot of small sunfish around the dock.  Weeds are not a problem yet.    
+07/17/1995,SUMMER SAMPLING    
+07/22/1995,A big change from last sample!  Algae bloom past two weeks.  Heavy growth of filamentous algae.  Recent rains have knocked algae off surface.    
+08/15/1995,A lot of rain past week.  Many severe t. storms.  No floating algae-had severe bloom a week after last sample (July 22).  Lake level: Very high due to recent rain    
+08/29/1995,SUMMER SAMPLING    
+09/01/1995,Very green-we had a lot of rain past 2 weeks.  High temp. + humidity.    
+09/17/1995,Today sunny + 70 degrees- calm.  Very green-observed 2 osprey diving for fish in the bay.    
+10/19/1995,FALL TURNOVER    
+10/30/1995,Heavy winds + rain all of October  Lake is very green for this time of year.  Today cool-sunny.    
+02/26/1996,LATE WINTER SAMPLING    
+05/16/1996,SPRING TURNOVER    
+06/09/1996,Nice sunny day- +80 degrees-has been rainy + cloudy past weeks.    
+06/12/1996,SUMMER SAMPLE SURFACE 1METER    
+06/25/1996,Stinky blue green algae blown into east side of lake- +80 degree air temp.- aeration system on.    
+07/10/1996,Sunny- + 75 degrees- suspended algae-heavy green tint.    
+07/26/1996,Aeration system off.  People don't want to get their boats green!!.  Lake looks like a sheet of green glass today.  A lot of filamentous algae- no wind. 80+ degrees.    
+07/29/1996,SUMMER SAMPLE    
+08/02/1996,Sunny and 75 degrees.  Algae not as bad due to wind past days.    
+08/28/1996,Aeration system not working.  Northwest side of lake heavy algae- thick scum!  Sample sight much clearer than most of lake.  Lake is disgusting!! +85 degrees- calm.    
+09/03/1996,SUMMER SAMPLE    
+09/15/1996,Filamentous algae.  On west side of lake reading 4' 9". very calm.  Sample site and east side of lake very green.  New crayola color crayon-cedar lake green!!    
+09/30/1996,Rained 1" past weekend.  Fall colors starting in my area. lake much cleaner this sample.  Slight algae on east side. +75 degrees- sunny.    
+10/15/1996,FALL TURNOVER    
+10/15/1996,Sunny- +70 degrees- calm- very dry we need rain.    
+11/07/1996,Cold!!  Very high winds past 2 weeks.  Today calm.  See you next year.  Last sample for 1996.    
+04/27/1997,Ice out April 16th - below normal temps.    
+05/20/1997,Very dry- we need rain- cold- has been very windy past weeks- today calm and sunny.    
+06/09/1997,Have had very little rain- no run-off- keeping lake clean    Sunny 80+ degrees.    
+06/09/1997,SUMMER SAMPLE    
+06/30/1997,Water quality deteriorating fast due to algae- algae bloom past week- has been very dry past 2 months- rained 1.75" past weekend.    
+07/03/1997,SUMMER SAMPLE    
+07/16/1997,Brown due to rain runoff past weeks- no algae floating- cedar is very nice for this time of year- no algae smell- 95+ humid.    
+08/01/1997,Lake is very nice- best I've seen in many years- we've had a lot of rain through July - today sunny- humid- 85+ degrees. aeration system on and working.    
+08/30/1997,Lake is very clean- slight algae floating on top.    
+09/17/1997,Rain and wind days before affecting depth reading.    
+10/16/1997,Cold!!    
+06/04/1998,SUMMER SAMPLE    
+07/09/1998,SUMMER SAMPLE    
+09/08/1998,SUMMER    
+02/25/1999,WINTER SAMPLING    
+04/19/1999,SPRING TURNOVER    
+05/26/1999,Lake is very clean- wind and rain past 2 weeks.    
+06/16/1999,Starting to turn green.    
+06/21/1999,SUMMER SAMPLE    
+06/27/1999,Very green tint.    
+07/11/1999,A lot of rain the past couple of weeks.    
+07/21/1999,SUMMER SAMPLE    
+07/25/1999,Lake is very green.  Has been hot and humid the past week.    
+08/11/1999,Rain past week.    
+08/23/1999,SUMMER SAMPLE    
+08/27/1999,Very hot and humid.  Lake is very stinky with a blue green algae bloom.    
+09/20/1999,FALL TURNOVER    
+11/16/1999,Last sample- winter drawdown.    
+02/24/2000,LATE WINTER SAMPLE    
+06/15/2000,SUMMER SAMPLE    
+07/27/2000,SUMMER SAMPLE    
+08/16/2000,SUMMER SAMPLE    
+09/12/2000,SUMMER SAMPLE    
+10/16/2000,FALL TURNOVER    
+03/08/2001,LATE WINTER - SURFACE- 0M    
+04/24/2001,SPRING TURNOVER- SURFACE-OM    
+06/21/2001,SUMMER SAMPLE- SURFACE-0M    
+07/19/2001,SUMMER SAMPLE- SURFACE 0M    
+07/31/2001,SUMMER SAMPLE- BOTTOM 6M    
+08/14/2001,SUMMER SAMPLE- BOTTOM 7M    
+09/13/2001,SUMMER SAMPLE- SURFACE-OM    
+10/17/2001,FALL TURNOVER- SURFACE-0M    
+04/25/2002,SPRING TURNOVER - SURFACE 0M    
+06/12/2002,SUMMER SAMPLE - BOTTOM- 7M    
+06/27/2002,SUMMER SAMPLE-BOTTOM 6M    
+07/18/2002,SUMMER SAMPLE - BOTTOM- 6M    
+08/15/2002,SUMMER SAMPLE - BOTTOM- 7M    
+09/04/2002,SUMMER SAMPLE - BOTTOM- 7M    
+11/04/2002,FALL TURNOVER- SURFACE 0M    
+04/22/2003,SPRING TURNOVER - SURFACE 0M    
+07/24/2003,SUMMER SAMPLE - SURFACE 0M    
+08/14/2003,SUMMER SAMPLE - SURFACE 0M    
+08/14/2003,SUMMER SAMPLE-BOTTOM     
+09/09/2003,SUMMER SAMPLE - SURFACE 0M    
+04/27/2004,SPRING TURNOVER - SURFACE 0M    
+07/14/2004,SUMMER SAMPLE - SURFACE 0M     
+08/10/2004,SUMMER SAMPLE - SURFACE 0M     
+10/05/2004,SUMMER SAMPLE - SURFACE 0M     
+04/25/2005,SPRING TURNOVER - SURFACE GRAB    
+07/26/2005,SURFACE-0M- SUMMER SAMPLE    
+08/11/2005,SUMMER SAMPLE - SURFACE 0M-2M    
+09/13/2005,SUMMER SAMPLE - SURFACE 0M    
+04/18/2006,LATE WINTER - SURFACE- 0M    
+07/25/2006,CL1     
+08/17/2006,Water is very green. No floating algea. Cloudy overcast day. 
+09/07/2006,SUMMER SAMPLE - SURFACE 0M    
+09/07/2006,SUMMER SAMPLE - SURFACE 0M     
+06/16/2007,Water is very clear- this is a correct reading measurement. 10 foot !!
+07/31/2007,Heavy algea bloom- stinky!
+08/13/2007,Very dry summer. Water a bit lower then usual. 
+09/28/2007,Last sample/secchi reading for 2007. Very dry summer with heavy rains in Sept. and Oct.
+05/22/2008,First reaading for the year 2008.
+06/19/2008,Lake is starting to turn green- algea present
+07/03/2008,July 4th the lake turned very green with blue green stinky algea. Lake is busy- most of algea has blown on to the east shore as the wind is out of the SW. 
+07/18/2008,Very strong winds last weekend. Lake smells slightly like dead fish- a lot of filamentous algea seen suspended in water column at the time of this reading. Today is calm and sunny. Any surface algea is wind blown to shore...not bad for July!
+07/31/2008,Lake is very green and stinky! 
+08/13/2008,Very strong smell of algea. Has been calm- hot and no rain for past couple weeks. 
+08/25/2008,Very green water. Algae is not present today on the surface. Lake was very stinky and blue green surface algae present on Fri. Aug. 15th. No rain or wind to move algae around- sickening smell on the 15th! I dont let my dogs drink the water from the lake...scary looking stinky stuff!
+06/12/2009,First sechi depth sample for me for 2009. It has been a very dry spring- little rain. The aerator system has been shut down this year for extensive water quality testing being done by WI DNR and others.
+06/24/2009,Vert nice water with a sechi disk reading that is not very common for this time of year. Alot of some type of milfoil looking weed- very thick on east and west side. The lake has had a couple algea blooms over the past week- the bloom dosnt seem to last long but is stinky and very green in color. Today is clear and calm sky. Very hot couple days before- +90's humid. 
+07/06/2009,Very nice water quality for this time of the year. Slight green tint to water no algea present. Good weed groth around the lake. Nice sunny day +80 degree with light breeze. The 4th was very nice and the lake was busy with boat traffic. Water level is down a bit due to lack of rain.
+07/20/2009,Water is very nice showing no surface algea- brown tint. It has been very dry with only 3/10 of an inch of rain since last water sample. Very cool past week with temps of only +65 degrees a couple days. 
+07/31/2009,Lake has a little surface algea on the wind blown shore line area. Very nice water for Cedar Lake in July! 
+08/12/2009,Very nice water! Rained 2 inches the past weekend. Warm weather past days +85 and sunny. Today is humid and +85- very light breeze. 
+08/26/2009,Very calm partly sunny dat today- +75. Rained approx 1.50 inch yesterday morn. Lake has heavy algea on the wind blown side and is showing suspended algea in the water column also. Still not bad water for Cedar at this time of the year!
+06/14/2010,First secchi reading for th year. It has been a rainy spring- Snowed May 6th. The lake today is disgusting- very heavy filimantous algae throughout the lake. Stinky very green. Got a good reading as the algea was only at the surface level. 
+06/26/2010,Lake is very nice today and has cleared up compared to last reading. Sunny warm today. 
+07/13/2010,Lake is very nice again at this reading. People are catching fish and the lake was very busy over the 4th July weekend. A lot of big sunfish- crappie- walleye and small mouth bass being caught. Has been hot and humid- Secchi depth is very good for Cedar at this time of the year. Aeration system is off again this year for the lake study. 
+07/29/2010,Sunny very calm day. We have been getting good rainfall all year. Florescenct green color algae along both the east and west shoreline- seems to be small pools of this algae not present at all areas of the shoreline. Very nice sunny calm day. +82 temp. Todays secchi reading is very good for July on cedar. 
+08/20/2010,Water is very murky due to rain the week before. No algea on surface but water column heavy with algea. 
+08/31/2010,Water has changed much from last reading. Still very murky but no algea present on surface. Has been very warm past weeks.
+09/15/2010,QA/QC BCE02- 1 plankton tow SWF. Did another SWF tow near the launch. Collected 4 substrate samples w/ John Stern
+09/15/2010,Water hasnt changed much from last reading- very murky. Very warm past weeks. This is my last reading for Cedar for the year 2010. 
+05/16/2011,1st sample reading of 2011. Long cold snowy winter- spring has also been cold and wet.
+05/30/2011,Nice spring day. A lot of birds going through the area +80 degree
+06/08/2011,Nice sunny day. Water has turned green- The aeration system has been turned on 
+06/28/2011,Water clarity is much less. Brown/green hue- murky
+07/12/2011,Very green. A lot of boat traffic over the 4th July holiday. Chiggers present- people using the lake one day and not coming back the next day due to swimmers itch
+07/26/2011,Hot humid day +85 degree
+08/10/2011,Lake is very green along wind blown shoreline Has been hot and humid past week
+08/22/2011,Very green along shoreline. Today is +80 degree. slight wind
+06/05/2012,First reading for year 2012. We have had plenty of rain this spring- lake looks good.
+06/18/2012,Wind blown algae on surface
+06/29/2012,Has been very hot- lake has very heavy surface algae on north end and west side
+07/09/2012,Lake has cleared up- this reading is the best Ive seen for this time of year. Very clear at dock- many fish present
+07/22/2012,Water still looks nice! Clean- very little surface algae. We have had over 4 inches of rain in past 2 weeks. Rain 4 days ago over 3 inches
+08/13/2012,Very green- heavy surface algae east side of lake. +75 degree day
+08/26/2012,Cedar Lake has turned UGLY!! Very green surface algae- stinky mess at secchi reading site. Very light winds over the past few days has blown a lake full of algae to the east-NE side- 5-7 hundred yards of algae stacked out from shore line. Very little boat traffic to move surface algae. This is the lowest reading Ive ever taken at this site in over 25 years! 9 inches for clarity reading is correct. I got a 3 ft reading on west side of lake- very- very GREEN!  Lake home buyers run from a home deal when they see the water quality.
+09/14/2012,This is the last secchi reading for the year 2012. This reading is being posted on Oct. 21- 2012. Overall the lake stayed very clear up untill early August but turned very green afterward. The lake is still very green today but not much surface algae. The summer months were very hot 85-90 degree every day for a long time- VERY dry after July- we need rain bad! Late frost in spring- very few apples or acorns.  
+06/05/2014,Ice out April 23- 2014- cool- wet spring. Very cold winter
+07/10/2014,The month of June was rainy and cool. July is starting out dry with normal temps
+07/21/2014,Has been dry- no recent rain
+08/04/2014,Light rain recently- moderate temps
+08/28/2014,Light rain recently
+07/22/2019,pH probe not working
+08/14/2019,pH probe not working. DO probe was replaced and is now working. 
+09/06/2019,pH probe not working
+08/20/2020,pH was not taken. 
+
+
+
+
+Start Date,Group Name,Project Name
+09/12/1973,Data Collectors,Migrated from STORET Legacy
+11/06/1973,Data Collectors,Migrated from STORET Legacy
+02/26/1974,Data Collectors,Migrated from STORET Legacy
+05/01/1974,Data Collectors,Migrated from STORET Legacy
+07/16/1974,Data Collectors,Migrated from STORET Legacy
+10/08/1974,Data Collectors,Migrated from STORET Legacy
+02/08/1975,Data Collectors,Migrated from STORET Legacy
+08/09/1979,Data Collectors,Migrated from STORET Legacy
+08/09/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/17/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/25/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/01/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/09/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/19/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/27/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/04/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/16/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/27/1986,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+04/26/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/10/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/17/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/24/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/30/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/07/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/14/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/21/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/28/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/06/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/14/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/24/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/02/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/10/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/19/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/02/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/15/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/19/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/22/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/30/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/12/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/20/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/30/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/10/1987,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+04/29/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/17/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/27/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/05/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/19/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/08/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/19/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/1988,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/22/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/06/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/17/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/29/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/30/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/30/1988,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/10/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/25/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/06/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/26/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/01/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+11/01/1988,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+11/03/1988,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+03/21/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/21/1989,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/02/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/02/1989,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/20/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/27/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/06/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/15/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/15/1989,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/16/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/01/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/13/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/17/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/1989,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/22/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/04/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/22/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/1989,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/22/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/30/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/10/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/26/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/11/1989,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/11/1989,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/14/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/28/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/07/1989,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+03/01/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/01/1990,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/07/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+04/20/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/02/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/12/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/29/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/10/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/19/1990,FLORENCE OLSON,Lake Baseline Monitoring- DNR (1970s-2006)
+06/19/1990,FLORENCE OLSON,Lakes Long Term Trend Monitoring (1986-present)
+06/26/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/09/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/17/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/1990,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/19/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/28/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/08/1990,Data Collectors,CEDAR LAKE AERATION
+08/10/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/14/1990,FLORENCE OLSON,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/1990,FLORENCE OLSON,Lakes Long Term Trend Monitoring (1986-present)
+08/15/1990,Data Collectors,CEDAR LAKE AERATION
+08/21/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/02/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/20/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/08/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/15/1990,Data Collectors,CEDAR LAKE AERATION
+10/23/1990,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/23/1990,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/23/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/12/1990,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/25/1990,Data Collectors,CEDAR LAKE AERATION
+03/19/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/19/1991,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/23/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/23/1991,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/12/1991,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/27/1991,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/25/1991,FLORENCE OLSON,Lake Baseline Monitoring- DNR (1970s-2006)
+06/25/1991,FLORENCE OLSON,Lakes Long Term Trend Monitoring (1986-present)
+08/07/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/07/1991,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/27/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/1991,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+02/27/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/27/1992,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/16/1992,Data Collectors,CEDAR LAKE AERATION
+04/19/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/12/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/12/1992,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/15/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/24/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/28/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/11/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/18/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/18/1992,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/21/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/06/1992,Data Collectors,CEDAR LAKE AERATION
+07/09/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/18/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/29/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/31/1992,Data Collectors,CEDAR LAKE AERATION
+08/03/1992,Data Collectors,CEDAR LAKE AERATION
+08/13/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/18/1992,Data Collectors,CEDAR LAKE AERATION
+08/20/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/20/1992,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/27/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/10/1992,Data Collectors,BASIC AGREEMENT
+09/15/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/30/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/05/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/05/1992,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/13/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/24/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/17/1992,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+03/04/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/04/1993,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/27/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/27/1993,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/21/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/10/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/14/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/14/1993,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/28/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/07/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/07/1993,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/14/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/29/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/12/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/24/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/24/1993,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/24/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/07/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/25/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/06/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/06/1993,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/12/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/10/1993,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+02/24/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/24/1994,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/18/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/18/1994,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/22/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/26/1994,Data Collectors,CEDAR LAKE AERATION
+06/08/1994,Paul Garrison,CEDAR LAKE AERATION
+06/19/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/20/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/20/1994,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/05/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/08/1994,Paul Garrison,CEDAR LAKE AERATION PROJ
+07/14/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/21/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/21/1994,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/28/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/11/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/21/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/31/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/31/1994,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/08/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/29/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/11/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/11/1994,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/13/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/02/1994,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+03/14/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/14/1995,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/17/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/17/1995,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/02/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/02/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/07/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/07/1995,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/18/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/04/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/17/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/1995,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/22/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/15/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/29/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/29/1995,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/01/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/17/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/19/1995,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/19/1995,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/30/1995,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+02/26/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/26/1996,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/16/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/16/1996,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/09/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/12/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/1996,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/25/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/10/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/26/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/29/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/29/1996,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/02/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/28/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/03/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/03/1996,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/15/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/30/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/15/1996,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/15/1996,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+10/15/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/07/1996,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+02/18/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/18/1997,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/24/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/24/1997,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/27/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/20/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/09/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/09/1997,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/09/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/30/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/03/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/03/1997,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/16/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/01/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/27/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/1997,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/30/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/17/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/16/1997,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/27/1997,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/27/1997,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/09/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/09/1998,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/21/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/04/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/04/1998,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/24/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/07/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/09/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/09/1998,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/29/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/26/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/08/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/08/1998,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/11/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/26/1998,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/27/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/27/1998,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+02/25/1999,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/25/1999,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/19/1999,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/19/1999,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+05/26/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/16/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/21/1999,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+06/21/1999,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+06/27/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/11/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/21/1999,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+07/21/1999,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+07/25/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/11/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/23/1999,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+08/23/1999,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+08/27/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/20/1999,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/20/1999,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/23/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/12/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/16/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/26/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/16/1999,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+02/24/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/24/2000,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/26/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/07/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/21/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/11/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/15/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/15/2000,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+06/28/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/12/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/27/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/27/2000,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/30/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/10/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/16/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/16/2000,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+08/24/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/12/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/12/2000,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+09/12/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/27/2000,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/16/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/16/2000,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+03/08/2001,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+03/08/2001,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+04/24/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+04/24/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+05/30/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/07/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/21/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+06/21/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+06/24/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/07/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/19/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+07/19/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+07/21/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/31/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+07/31/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+08/10/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/14/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+08/19/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/31/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/13/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+09/13/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+09/27/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/17/2001,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+10/17/2001,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+10/23/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+11/14/2001,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+04/25/2002,ANGELA PARKHURST,Lake Baseline Monitoring- DNR (1970s-2006)
+04/25/2002,ANGELA PARKHURST,Lakes Long Term Trend Monitoring (1986-present)
+05/29/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/12/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/12/2002,_ Parkhurst,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/2002,_ Parkhurst,Lakes Long Term Trend Monitoring (1986-present)
+06/27/2002,_ Parkhurst,Lake Baseline Monitoring- DNR (1970s-2006)
+06/27/2002,_ Parkhurst,Lakes Long Term Trend Monitoring (1986-present)
+06/28/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/07/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/18/2002,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+07/18/2002,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+07/21/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/02/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/15/2002,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+08/15/2002,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2002,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/04/2002,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+09/04/2002,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+11/04/2002,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+11/04/2002,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+04/22/2003,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+04/22/2003,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+05/16/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/01/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/16/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/01/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/22/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/24/2003,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+07/24/2003,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+07/24/2003,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/02/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/14/2003,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/2003,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+08/14/2003,PATRICK SORGE,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/2003,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/17/2003,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/09/2003,Buzz Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+09/09/2003,Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+09/09/2003,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+04/27/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+04/27/2004,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+06/04/2004,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/15/2004,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/30/2004,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/14/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+07/14/2004,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/05/2004,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/10/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+08/10/2004,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/25/2004,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/28/2004,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+10/05/2004,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+10/05/2004,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+04/25/2005,Amy Lesik,Lake Baseline Monitoring- DNR (1970s-2006)
+04/25/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+06/02/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/16/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/05/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/19/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/26/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/01/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/11/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/11/2005,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/16/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/30/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/13/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/13/2005,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+10/12/2005,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+04/18/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+04/18/2006,Amy Lesik and Buzz Sorge,Lakes Long Term Trend Monitoring (1986-present)
+06/13/2006,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/07/2006,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/19/2006,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/25/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/03/2006,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/17/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/07/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+04/17/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+04/17/2007,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+06/05/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/16/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/26/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/07/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/17/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+07/17/2007,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+07/18/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/31/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/13/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/14/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/14/2007,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/25/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/11/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2007,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+09/28/2007,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+04/29/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+04/29/2008,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+05/22/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/19/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/03/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/18/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/24/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+07/24/2008,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+07/31/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/13/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/19/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/19/2008,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+08/25/2008,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/10/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/10/2008,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+04/28/2009,Buzz Sorge and Neil Trombly,Lakes Long Term Trend Monitoring (1986-present)
+06/12/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/24/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/01/2009,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+07/06/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/20/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/31/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/06/2009,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/12/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/26/2009,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/03/2009,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+04/14/2010,Buzz Sorge and Neil Trombly,Cedar Lake and Half Moon Lake TMDL Implementation Assessments
+04/14/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+06/14/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/26/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/13/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/21/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+07/21/2010,ROBERT J BACZYNSKI- NEIL R TROMBLY,Cedar Lake and Half Moon Lake TMDL Implementation Assessments
+07/21/2010,ROBERT J BACZYNSKI- NEIL R TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+07/29/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/16/2010,NEIL TROMBLY,Cedar Lake and Half Moon Lake TMDL Implementation Assessments
+08/16/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/31/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/15/2010,Heidi Bunk,Cedar Lake and Half Moon Lake TMDL Implementation Assessments
+09/15/2010,Heidi Bunk,Lakes Long Term Trend Monitoring (1986-present)
+09/15/2010,NEIL TROMBLY,Cedar Lake and Half Moon Lake TMDL Implementation Assessments
+09/15/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+09/15/2010,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/02/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+05/16/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/30/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/08/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/28/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/12/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/26/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/28/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/10/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/22/2011,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/25/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/14/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+03/26/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+06/05/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/16/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+06/18/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/29/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/09/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/19/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/22/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/01/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/13/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/16/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/26/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/13/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/14/2012,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+05/09/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+05/09/2013,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+06/24/2013,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/06/2013,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/10/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/23/2013,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/02/2013,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/08/2013,Data Collectors,
+08/08/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/13/2013,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/05/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+05/05/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+05/05/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+06/05/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+06/30/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/10/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+07/16/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+07/16/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/21/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/04/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/15/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+08/20/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/28/2014,Steven Frey,Citizen Lake Monitoring - Water Quality - Cedar Lake; Deep Hole - Mid-Lake- Off Demmings Pt
+09/15/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+09/15/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+04/16/2015,Data Collectors,Lakes Long Term Trend Monitoring (1986-present)
+07/16/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/16/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+04/04/2016,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/21/2016,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/17/2016,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/12/2016,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+04/06/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+05/16/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+06/01/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+06/14/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+06/28/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/12/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/13/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/27/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+08/09/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+08/23/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+08/23/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/07/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+09/19/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+09/21/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+10/03/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+10/17/2017,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+05/14/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+05/14/2018,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+05/30/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+06/12/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+06/26/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/10/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/24/2018,Alexander J Selle- KRISTEN RATHBUN,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/24/2018,Alexander J Selle- KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+07/24/2018,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/07/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+08/22/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+08/27/2018,Alexander J Selle- KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+09/04/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+09/17/2018,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/21/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+10/02/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+10/16/2018,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+04/23/2019,KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+06/10/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+06/24/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/08/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/21/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/22/2019,Alexander J Selle- KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+07/22/2019,KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+08/05/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+08/14/2019,Alexander J Selle- KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+08/14/2019,KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+08/19/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+09/04/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+09/06/2019,Alexander J Selle- KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+09/06/2019,KRISTEN RATHBUN,Lakes Long Term Trend Monitoring (1986-present)
+09/16/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+10/01/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+10/15/2019,Data Collectors,CEDAR LAKE PROTECTION + REHABILITATION DIST: Phase 1: Cedar Lake Monitoring and Alum Evaluation
+07/16/2020,ALEXANDER SELLE,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2020, UNKNOWN,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2020,ALEXANDER SELLE,Lakes Long Term Trend Monitoring (1986-present)
+09/17/2020,ALEXANDER SELLE,Lakes Long Term Trend Monitoring (1986-present)

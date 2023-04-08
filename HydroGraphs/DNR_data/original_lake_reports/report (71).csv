@@ -1,0 +1,406 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Benoit Lake,Burnett,2678300,NO,7,,10039772,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+78083293,06/13/2013,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,06/27/2013,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,06/28/2013,, ,,,,,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/16/2013,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/21/2013,, ,,,,,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,08/16/2013,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,09/02/2013,, ,,,,,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,09/15/2013,, ,,,,,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,05/24/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,06/17/2014,14.7,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,06/23/2014,11.6,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/28/2014,7.3,NO,2.2,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,08/23/2014,7.9,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,09/28/2014,11.6,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,06/18/2015,12.9,NO,3.9,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/21/2015,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,08/16/2015,9.2,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,06/22/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/25/2016,11.8,NO,3.6,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,08/16/2016,9.1,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,06/20/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/21/2017,9.1,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,07/24/2017,,,,4.48,22,,52,46,,,,,
+82607229,07/28/2017,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,09/04/2017,,,,6.04,21.5,,52,48,,,,,
+1,10/01/2017,,,,6.34,21.1,,52,49,,,,,
+78083293,06/25/2018,10.8,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/24/2018,,,,3.06,20.2,,51,43,,,,,
+78083293,07/24/2018,10.6,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/13/2018,,,,1.99,11.9,,47,40,,,,,
+78083293,08/14/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19207139,08/17/2018,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+10585221,08/20/2018,,,,2.8,13.7,,48,43,,,,,
+1,09/16/2018,,,,5.86,13.5,,48,48,,,,,
+78083293,06/21/2019,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+78083293,06/25/2019,,,,2.25,10.6,,46,41,,,,,
+78083293,07/22/2019,10.1,NO,3.1,3.26,9.81,44,46,44,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,08/25/2019,13.2,NO,4,3.07,11.9,40,47,43,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+78083293,06/23/2020,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,06/24/2020,,,,5.76,13.2,,48,48,,,,,
+78083293,07/26/2020,,,,,,,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,07/27/2020,9,,2.7,5.25,12.1,45,47,47,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+78083293,08/23/2020,7.6,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+78083293,08/24/2020,,,,4.59,14.3,,49,46,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/28/2013,0,FEET,76.4,DEGREES F,8,MG/L
+06/28/2013,5,FEET,76.4,DEGREES F,8.2,MG/L
+06/28/2013,10,FEET,75,DEGREES F,8.2,MG/L
+06/28/2013,15,FEET,67.8,DEGREES F,9.2,MG/L
+06/28/2013,20,FEET,59,DEGREES F,8.5,MG/L
+06/28/2013,25,FEET,52.8,DEGREES F,5.4,MG/L
+06/28/2013,30,FEET,50.1,DEGREES F,2.6,MG/L
+06/28/2013,35,FEET,48.9,DEGREES F,1.4,MG/L
+06/28/2013,40,FEET,48.7,DEGREES F,.2,MG/L
+07/21/2013,0.1,FEET,79.1,DEGREES F,7.6,MG/L
+07/21/2013,5,FEET,78.2,DEGREES F,8.3,MG/L
+07/21/2013,10,FEET,75.9,DEGREES F,7.9,MG/L
+07/21/2013,15,FEET,71,DEGREES F,8.4,MG/L
+07/21/2013,20,FEET,59.9,DEGREES F,7.4,MG/L
+07/21/2013,25,FEET,54,DEGREES F,3,MG/L
+07/21/2013,30,FEET,51.8,DEGREES F,1.4,MG/L
+07/21/2013,35,FEET,50.5,DEGREES F,.8,MG/L
+07/21/2013,40,FEET,50.6,DEGREES F,.6,MG/L
+08/16/2013,0.1,FEET,74.1,DEGREES F,9.4,MG/L
+08/16/2013,5,FEET,72.8,DEGREES F,9.4,MG/L
+08/16/2013,10,FEET,72,DEGREES F,9,MG/L
+08/16/2013,15,FEET,70.3,DEGREES F,8.2,MG/L
+08/16/2013,20,FEET,64.2,DEGREES F,3.8,MG/L
+08/16/2013,25,FEET,54.8,DEGREES F,1.4,MG/L
+08/16/2013,30,FEET,52.2,DEGREES F,1.4,MG/L
+08/16/2013,35,FEET,50.4,DEGREES F,1.3,MG/L
+08/16/2013,40,FEET,49.7,DEGREES F,.6,MG/L
+09/02/2013,0.1,FEET,74.1,DEGREES F,,
+09/02/2013,5,FEET,74.3,DEGREES F,,
+09/02/2013,10,FEET,74.3,DEGREES F,,
+09/02/2013,15,FEET,74.3,DEGREES F,,
+09/02/2013,20,FEET,67.1,DEGREES F,,
+09/02/2013,25,FEET,55.7,DEGREES F,,
+09/02/2013,30,FEET,51.6,DEGREES F,,
+09/02/2013,35,FEET,50.1,DEGREES F,,
+09/02/2013,40,FEET,49.6,DEGREES F,,
+09/15/2013,0.1,FEET,68.5,DEGREES F,,
+09/15/2013,5,FEET,68.5,DEGREES F,,
+09/15/2013,10,FEET,68.7,DEGREES F,,
+09/15/2013,15,FEET,68.7,DEGREES F,,
+09/15/2013,20,FEET,68,DEGREES F,,
+09/15/2013,25,FEET,58.4,DEGREES F,,
+09/15/2013,30,FEET,51.6,DEGREES F,,
+09/15/2013,35,FEET,50.3,DEGREES F,,
+09/15/2013,40,FEET,49.8,DEGREES F,,
+05/24/2014,0.1,FEET,61.2,DEGREES F,9.6,MG/L
+05/24/2014,5,FEET,57,DEGREES F,10.6,MG/L
+05/24/2014,10,FEET,54.5,DEGREES F,10.7,MG/L
+05/24/2014,15,FEET,54,DEGREES F,11,MG/L
+05/24/2014,20,FEET,50.5,DEGREES F,10.4,MG/L
+05/24/2014,25,FEET,48,DEGREES F,8.4,MG/L
+05/24/2014,30,FEET,46,DEGREES F,5.8,MG/L
+05/24/2014,35,FEET,45,DEGREES F,5.2,MG/L
+05/24/2014,40,FEET,43.8,DEGREES F,3.6,MG/L
+06/17/2014,0.1,FEET,73.7,DEGREES F,8.4,MG/L
+06/17/2014,5,FEET,69,DEGREES F,9,MG/L
+06/17/2014,10,FEET,67.5,DEGREES F,9,MG/L
+06/17/2014,15,FEET,66,DEGREES F,9,MG/L
+06/17/2014,20,FEET,56.5,DEGREES F,9,MG/L
+06/17/2014,25,FEET,50,DEGREES F,9.2,MG/L
+06/17/2014,30,FEET,49.5,DEGREES F,5.2,MG/L
+06/17/2014,35,FEET,49,DEGREES F,3.4,MG/L
+06/17/2014,40,FEET,47,DEGREES F,1.6,MG/L
+07/28/2014,0.1,FEET,76,DEGREES F,8.2,MG/L
+07/28/2014,5,FEET,75.5,DEGREES F,8.2,MG/L
+07/28/2014,10,FEET,75,DEGREES F,8.2,MG/L
+07/28/2014,15,FEET,74,DEGREES F,7.35,MG/L
+07/28/2014,20,FEET,63.5,DEGREES F,2.6,MG/L
+07/28/2014,25,FEET,54.5,DEGREES F,1.7,MG/L
+07/28/2014,30,FEET,49,DEGREES F,1,MG/L
+07/28/2014,35,FEET,48,DEGREES F,1.2,MG/L
+07/28/2014,40,FEET,48,DEGREES F,.2,MG/L
+08/23/2014,0.1,FEET,74.3,DEGREES F,7.8,MG/L
+08/23/2014,5,FEET,73,DEGREES F,8.4,MG/L
+08/23/2014,10,FEET,72.5,DEGREES F,8.1,MG/L
+08/23/2014,15,FEET,71.5,DEGREES F,6.2,MG/L
+08/23/2014,20,FEET,65,DEGREES F,1.6,MG/L
+08/23/2014,25,FEET,55,DEGREES F,.6,MG/L
+08/23/2014,30,FEET,51.5,DEGREES F,.2,MG/L
+08/23/2014,35,FEET,49,DEGREES F,0,MG/L
+08/23/2014,40,FEET,48.5,DEGREES F,0,MG/L
+06/18/2015,0.1,FEET,70.7,DEGREES F,8.2,MG/L
+06/18/2015,5,FEET,70.3,DEGREES F,9.2,MG/L
+06/18/2015,10,FEET,70.3,DEGREES F,9,MG/L
+06/18/2015,15,FEET,67.8,DEGREES F,8.6,MG/L
+06/18/2015,20,FEET,59.7,DEGREES F,7.8,MG/L
+06/18/2015,25,FEET,53.7,DEGREES F,4.2,MG/L
+06/18/2015,30,FEET,51.2,DEGREES F,.6,MG/L
+06/18/2015,35,FEET,49.6,DEGREES F,.4,MG/L
+06/18/2015,40,FEET,49.2,DEGREES F,.2,MG/L
+07/21/2015,0.1,FEET,76.8,DEGREES F,7.4,MG/L
+07/21/2015,5,FEET,76.8,DEGREES F,8.1,MG/L
+07/21/2015,10,FEET,76.4,DEGREES F,8.2,MG/L
+07/21/2015,15,FEET,71.4,DEGREES F,7.8,MG/L
+07/21/2015,20,FEET,59.9,DEGREES F,2.6,MG/L
+07/21/2015,25,FEET,53.9,DEGREES F,.6,MG/L
+07/21/2015,30,FEET,52.5,DEGREES F,.6,MG/L
+07/21/2015,35,FEET,51,DEGREES F,0,MG/L
+07/21/2015,40,FEET,50.5,DEGREES F,0,MG/L
+08/16/2015,0.1,FEET,78.8,DEGREES F,8,MG/L
+08/16/2015,5,FEET,78.4,DEGREES F,8.6,MG/L
+08/16/2015,10,FEET,75.5,DEGREES F,8.5,MG/L
+08/16/2015,15,FEET,72.6,DEGREES F,7.6,MG/L
+08/16/2015,20,FEET,63.6,DEGREES F,2.1,MG/L
+08/16/2015,25,FEET,55.7,DEGREES F,.4,MG/L
+08/16/2015,30,FEET,53,DEGREES F,.2,MG/L
+08/16/2015,35,FEET,51.4,DEGREES F,0,MG/L
+08/16/2015,40,FEET,50.9,DEGREES F,0,MG/L
+06/22/2016,0.1,FEET,75.2,DEGREES F,7.8,MG/L
+06/22/2016,5,FEET,74.4,DEGREES F,8.8,MG/L
+06/22/2016,10,FEET,72.6,DEGREES F,8.6,MG/L
+06/22/2016,15,FEET,63.3,DEGREES F,9.4,MG/L
+06/22/2016,18,FEET,57.5,DEGREES F,,
+06/22/2016,20,FEET,55.2,DEGREES F,8.2,MG/L
+06/22/2016,25,FEET,53.4,DEGREES F,3.1,MG/L
+06/22/2016,30,FEET,52.5,DEGREES F,1.8,MG/L
+06/22/2016,35,FEET,51.6,DEGREES F,1.3,MG/L
+06/22/2016,40,FEET,51.2,DEGREES F,1,MG/L
+06/22/2016,42,FEET,51,DEGREES F,,
+07/25/2016,0.1,FEET,80.6,DEGREES F,7.6,MG/L
+07/25/2016,5,FEET,80.4,DEGREES F,7.8,MG/L
+07/25/2016,10,FEET,80,DEGREES F,7.5,MG/L
+07/25/2016,15,FEET,72.5,DEGREES F,6.7,MG/L
+07/25/2016,20,FEET,62.9,DEGREES F,2,MG/L
+07/25/2016,25,FEET,54.8,DEGREES F,.6,MG/L
+07/25/2016,30,FEET,53.4,DEGREES F,.6,MG/L
+07/25/2016,35,FEET,52.5,DEGREES F,.2,MG/L
+07/25/2016,40,FEET,52.1,DEGREES F,0,MG/L
+08/16/2016,0.1,FEET,79.7,DEGREES F,8.2,MG/L
+08/16/2016,5,FEET,77.5,DEGREES F,8.4,MG/L
+08/16/2016,10,FEET,76.1,DEGREES F,8.1,MG/L
+08/16/2016,15,FEET,73.9,DEGREES F,5,MG/L
+08/16/2016,20,FEET,65.3,DEGREES F,1.6,MG/L
+08/16/2016,25,FEET,56.6,DEGREES F,.8,MG/L
+08/16/2016,30,FEET,53.6,DEGREES F,.3,MG/L
+08/16/2016,35,FEET,52.5,DEGREES F,.2,MG/L
+08/16/2016,40,FEET,52.3,DEGREES F,.4,MG/L
+06/20/2017,0.1,FEET,71,DEGREES F,7.6,MG/L
+06/20/2017,5,FEET,71,DEGREES F,8.1,MG/L
+06/20/2017,10,FEET,71,DEGREES F,8.4,MG/L
+06/20/2017,15,FEET,69,DEGREES F,8.6,MG/L
+06/20/2017,20,FEET,61,DEGREES F,9.8,MG/L
+06/20/2017,25,FEET,55,DEGREES F,5.5,MG/L
+06/20/2017,30,FEET,53,DEGREES F,2.4,MG/L
+06/20/2017,35,FEET,51,DEGREES F,1,MG/L
+06/20/2017,40,FEET,50,DEGREES F,.6,MG/L
+07/21/2017,0.1,FEET,77.3,DEGREES F,8.4,MG/L
+07/21/2017,5,FEET,76.4,DEGREES F,8.6,MG/L
+07/21/2017,10,FEET,72.8,DEGREES F,8.1,MG/L
+07/21/2017,15,FEET,69.2,DEGREES F,7.3,MG/L
+07/21/2017,20,FEET,62.6,DEGREES F,3.6,MG/L
+07/21/2017,25,FEET,54.8,DEGREES F,1,MG/L
+07/21/2017,30,FEET,52.8,DEGREES F,1,MG/L
+07/21/2017,35,FEET,51.6,DEGREES F,.4,MG/L
+07/21/2017,40,FEET,51.6,DEGREES F,0,MG/L
+07/28/2017,0,METERS,78,DEGREES F,8.64,MG/L
+07/28/2017,1,METERS,76.9,DEGREES F,8.74,MG/L
+07/28/2017,2,METERS,75.7,DEGREES F,8.76,MG/L
+07/28/2017,3,METERS,74.6,DEGREES F,8.09,MG/L
+07/28/2017,4,METERS,72.7,DEGREES F,6.65,MG/L
+07/28/2017,5,METERS,68.6,DEGREES F,3.32,MG/L
+07/28/2017,6,METERS,61.8,DEGREES F,.49,MG/L
+07/28/2017,7,METERS,57.1,DEGREES F,.15,MG/L
+07/28/2017,8,METERS,55.7,DEGREES F,.15,MG/L
+07/28/2017,9,METERS,55.2,DEGREES F,.16,MG/L
+07/28/2017,10,METERS,54.7,DEGREES F,.17,MG/L
+07/28/2017,11,METERS,54.7,DEGREES F,.19,MG/L
+07/28/2017,12,METERS,54.4,DEGREES F,.23,MG/L
+06/25/2018,0.1,FEET,75.2,DEGREES F,8.1,MG/L
+06/25/2018,5,FEET,74.4,DEGREES F,8.4,MG/L
+06/25/2018,10,FEET,70.5,DEGREES F,9,MG/L
+06/25/2018,15,FEET,62.6,DEGREES F,9.6,MG/L
+06/25/2018,20,FEET,49.4,DEGREES F,6.8,MG/L
+06/25/2018,25,FEET,46.4,DEGREES F,2.2,MG/L
+06/25/2018,30,FEET,45.6,DEGREES F,.6,MG/L
+06/25/2018,35,FEET,44.4,DEGREES F,.6,MG/L
+06/25/2018,40,FEET,44.2,DEGREES F,.2,MG/L
+07/24/2018,0.1,FEET,76.2,DEGREES F,8,MG/L
+07/24/2018,5,FEET,76.1,DEGREES F,8.4,MG/L
+07/24/2018,10,FEET,75.3,DEGREES F,8.4,MG/L
+07/24/2018,15,FEET,70.5,DEGREES F,7.6,MG/L
+07/24/2018,20,FEET,52.8,DEGREES F,2.4,MG/L
+07/24/2018,25,FEET,48.2,DEGREES F,.6,MG/L
+07/24/2018,30,FEET,46.2,DEGREES F,.6,MG/L
+07/24/2018,35,FEET,45.1,DEGREES F,0,MG/L
+07/24/2018,40,FEET,44.7,DEGREES F,0,MG/L
+08/14/2018,0.1,FEET,79.8,DEGREES F,8.5,MG/L
+08/14/2018,5,FEET,79.8,DEGREES F,8.5,MG/L
+08/14/2018,10,FEET,78.2,DEGREES F,8.6,MG/L
+08/14/2018,15,FEET,69.2,DEGREES F,8,MG/L
+08/14/2018,20,FEET,53.6,DEGREES F,1.2,MG/L
+08/14/2018,25,FEET,47.1,DEGREES F,.4,MG/L
+08/14/2018,30,FEET,45.8,DEGREES F,.2,MG/L
+08/14/2018,35,FEET,45.3,DEGREES F,0,MG/L
+08/14/2018,40,FEET,45.3,DEGREES F,0,MG/L
+08/17/2018,0,METERS,79.3,DEGREES F,8.75,MG/L
+08/17/2018,1,METERS,78.5,DEGREES F,8.75,MG/L
+08/17/2018,2,METERS,77,DEGREES F,8.16,MG/L
+08/17/2018,3,METERS,74.5,DEGREES F,9.37,MG/L
+08/17/2018,4,METERS,71.4,DEGREES F,8.29,MG/L
+08/17/2018,5,METERS,65.1,DEGREES F,1.34,MG/L
+08/17/2018,6,METERS,54.1,DEGREES F,.2,MG/L
+08/17/2018,7,METERS,50.7,DEGREES F,.19,MG/L
+08/17/2018,8,METERS,48.7,DEGREES F,.19,MG/L
+08/17/2018,9,METERS,48,DEGREES F,.2,MG/L
+08/17/2018,10,METERS,47.7,DEGREES F,.21,MG/L
+08/17/2018,11,METERS,47.8,DEGREES F,.21,MG/L
+08/17/2018,12,METERS,48.3,DEGREES F,.22,MG/L
+06/21/2019,0.1,FEET,70.5,DEGREES F,7.8,MG/L
+06/21/2019,5,FEET,70.5,DEGREES F,8.4,MG/L
+06/21/2019,10,FEET,67.6,DEGREES F,9.6,MG/L
+06/21/2019,15,FEET,60.9,DEGREES F,12,MG/L
+06/21/2019,20,FEET,53,DEGREES F,10.2,MG/L
+06/21/2019,25,FEET,49.8,DEGREES F,4.6,MG/L
+06/21/2019,30,FEET,48.9,DEGREES F,1.6,MG/L
+06/21/2019,35,FEET,48.7,DEGREES F,.4,MG/L
+06/21/2019,40,FEET,48.2,DEGREES F,.2,MG/L
+07/22/2019,0.1,FEET,78,DEGREES F,8.2,MG/L
+07/22/2019,5,FEET,78,DEGREES F,7.9,MG/L
+07/22/2019,10,FEET,77.3,DEGREES F,7.6,MG/L
+07/22/2019,15,FEET,71.4,DEGREES F,7.6,MG/L
+07/22/2019,20,FEET,56.8,DEGREES F,4.1,MG/L
+07/22/2019,25,FEET,51.6,DEGREES F,.8,MG/L
+07/22/2019,30,FEET,50,DEGREES F,.4,MG/L
+07/22/2019,35,FEET,48.9,DEGREES F,0,MG/L
+07/22/2019,40,FEET,48.9,DEGREES F,0,MG/L
+08/25/2019,0.1,FEET,71.9,DEGREES F,7.6,MG/L
+08/25/2019,5,FEET,71.6,DEGREES F,7.4,MG/L
+08/25/2019,10,FEET,71.6,DEGREES F,7.6,MG/L
+08/25/2019,15,FEET,70.8,DEGREES F,6.6,MG/L
+08/25/2019,20,FEET,60,DEGREES F,1.5,MG/L
+08/25/2019,25,FEET,52.7,DEGREES F,.4,MG/L
+08/25/2019,30,FEET,50.7,DEGREES F,.3,MG/L
+08/25/2019,35,FEET,49.2,DEGREES F,0,MG/L
+08/25/2019,40,FEET,49.1,DEGREES F,0,MG/L
+06/23/2020,0.1,FEET,72.5,DEGREES F,8,MG/L
+06/23/2020,5,FEET,72.1,DEGREES F,9.2,MG/L
+06/23/2020,10,FEET,71.9,DEGREES F,9.4,MG/L
+06/23/2020,15,FEET,69,DEGREES F,9.6,MG/L
+06/23/2020,20,FEET,58.2,DEGREES F,8.4,MG/L
+06/23/2020,25,FEET,51.6,DEGREES F,5.6,MG/L
+06/23/2020,30,FEET,49.2,DEGREES F,2,MG/L
+06/23/2020,35,FEET,48,DEGREES F,.2,MG/L
+06/23/2020,40,FEET,47.6,DEGREES F,0,MG/L
+07/26/2020,0.1,FEET,78.2,DEGREES F,7.8,MG/L
+07/26/2020,5,FEET,78,DEGREES F,8.4,MG/L
+07/26/2020,10,FEET,76.8,DEGREES F,8.4,MG/L
+07/26/2020,15,FEET,72.8,DEGREES F,7.6,MG/L
+07/26/2020,20,FEET,60,DEGREES F,4.8,MG/L
+07/26/2020,25,FEET,54.3,DEGREES F,.6,MG/L
+07/26/2020,30,FEET,51.8,DEGREES F,.4,MG/L
+07/26/2020,35,FEET,49.6,DEGREES F,.4,MG/L
+07/26/2020,40,FEET,49.4,DEGREES F,0,MG/L
+08/23/2020,0.1,FEET,78,DEGREES F,7.9,MG/L
+08/23/2020,5,FEET,76.4,DEGREES F,8.8,MG/L
+08/23/2020,10,FEET,75.5,DEGREES F,9,MG/L
+08/23/2020,15,FEET,72.3,DEGREES F,6,MG/L
+08/23/2020,20,FEET,65.8,DEGREES F,3,MG/L
+08/23/2020,25,FEET,55.5,DEGREES F,.4,MG/L
+08/23/2020,30,FEET,51.6,DEGREES F,0,MG/L
+08/23/2020,35,FEET,50.3,DEGREES F,0,MG/L
+08/23/2020,40,FEET,48,DEGREES F,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/16/2013,88 degrees F- 10 mph wind from south
+07/21/2013,Assisted by Jacob Caithamer
+08/16/2013,Assisted by Jacob Caithamer; used my underwater camera w built in thermometer as thermometer provided by DNR does not work.  Mostly sunny- 75 F- wind southwest 3 mph.  1 adult loon and 1 young loon.
+09/02/2013,Adult loon and young loon observed.
+09/15/2013,1 young loon.
+05/24/2014,Assistance by Benjamin Caithamer.
+Sunny- south wind at 8 mph- 75 F.
+Lots of boaters on the water as it is a Saturday and Memorial Day weekend.
+Numerous black terns feeding over the lake.
+Saw one common loon.
+06/17/2014,Mostly sunny- 83 degrees F- north wind 2 mph
+06/23/2014,2 loons- weather is 70 degrees- north wind 1 mph- mostly sunny.
+07/28/2014,weather is 75 F- mostly cloudy- wind nw 8 mph; saw 1 common loon and 2 gulls (I think ring bills)
+08/23/2014,Mostly cloudy- 73 F- wind E 6 mph; saw 2 adult common loons
+09/28/2014,sunny- south breeze at 5 mph- 73 F
+06/18/2015,mostly cloudy- wind 7 mph from north- saw 1 common loon
+07/21/2015,1 common loon- mostly sunny- wind northwest at 7 mph- 83 degrees
+08/16/2015,mostly cloudy- 81 F- wind ssw 7 mph; 3 common loons; assistance by Benjamin F. Caithamer and Jacob G. Caithamer
+06/22/2016,75 F- mostly sunny- south wind 5 mph- air temp about 80 F- 1 common loon
+07/25/2016,Mostly clear- 80 F- wind west 7 mph- 1 common loon
+08/16/2016,Mostly sunny- 82 degrees F- wind west 3 mph but variable.  1 double-crested cormorant- 10 gulls (possibly ring-billed gulls).
+06/20/2017,Partly cloudy- wind nw 5-10 mph- one common loon.
+07/21/2017,Partly sunny turning to cloudy- wind south 5 mph- air temp 80 F.  Two adult loons but no young loons.  Several black terns flying about.
+06/25/2018,Weather: mostly clear- wind SSE 10 mph- 83 degrees F; finished collecting data at 3:10 pm.  Saw 1 common loon.
+07/24/2018,Weather was 70 degrees F- wind WNW 5-15 mph- mostly clear.  I saw an adult black tern while sampling; yesterday evening I saw 4 young of year black terns.
+08/14/2018,Weather is cloudy- south wind 3 mph- 82 F.  Saw one adult bald eagle on my way out to sample.
+06/21/2019,mostly cloudy- 70 degrees F- wind SE 5 mph- saw 1 common loon- 2 black terns- and 1 great blue heron.  In the north bay- where I live- there have been mats of dead filamentous algae.  The algae bloom peaked around May 28.  This is the first time in 21 years that I remember having an algae bloom this early and this extensive.
+07/22/2019,Mostly sunny- 80 degrees F- wind NNW 8 mph; finished at 2:45 pm
+08/25/2019,Mostly cloudy- 75 degrees F- wind SSE 15 mph; saw 1 adult common loon and 2 young of the year common loons; also saw 1 gull that was probably a ring billed gull.
+06/23/2020,mostly sunny- then brief shower; 73 F- wind North 5-10 mph- 1 adult common loon
+07/26/2020,Weather = clear- 80F- NW wind 3-5 mph.  Saw 3 adult and 2 young common loons.
+08/23/2020,It is a warm and sunny Sunday afternoon.  Boat traffic is moderate but personal watercraft (jet ski) traffic is constant.  I had one pwc doing circles and creating massive waves within 200 feet of my boat.  Its waves rocked my boat so much that it knocked my sampling reagents and glassware off the top of my cooler and onto the floor of my boat.  And at another time I had a motor boat come within about 40 feet of me creating a significant wake.  I spoke in a normal voice to the operator: "You are too close-" which he ignored.
+
+Weather is 77 F- wind NW 3 mph- mostly sunny.  I saw no loons today- nor any other wildlife.
+
+
+
+
+Start Date,Group Name,Project Name
+06/13/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/27/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/28/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/16/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/21/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/16/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+09/02/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+09/15/2013,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+05/24/2014,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/17/2014,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/23/2014,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/28/2014,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/23/2014,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+09/28/2014,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/18/2015,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/21/2015,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/16/2015,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/22/2016,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/25/2016,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/16/2016,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/20/2017,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/21/2017,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/24/2017,Dave Caithamer,Directed Lakes 2017 Smith
+07/28/2017,Mark Sundeen and Alex Smith,Directed Lakes 2017 Smith
+09/04/2017,Data Collectors,Directed Lakes 2017 Smith
+10/01/2017,Data Collectors,Directed Lakes 2017 Smith
+06/25/2018,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/24/2018,Data Collectors,Directed Lakes 2017 Smith
+07/24/2018,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/13/2018,Data Collectors,Directed Lakes 2017 Smith
+08/14/2018,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/17/2018,ALEX SMITH,Directed Lakes 2017 Smith
+08/20/2018,MARK SUNDEEN,Directed Lakes 2017 Smith
+09/16/2018,Data Collectors,Directed Lakes 2017 Smith
+06/21/2019,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/25/2019,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/22/2019,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/25/2019,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/23/2020,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+06/24/2020,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/26/2020,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+07/27/2020,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/23/2020,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole
+08/24/2020,Dave Caithamer,Citizen Lake Monitoring - Water Quality - Benoit Lake - Deep Hole

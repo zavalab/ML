@@ -1,0 +1,96 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Whitefish Lake,Oneida,1613500,NO,44,,443285,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/25/1979,,,,,,,,,,,,,
+8190539,07/27/1993,8,NO,2.4,,,47,,,,,,BROWN,2-Very minor aesthetic problems
+8190539,08/07/1993,8.5,NO,2.6,,,46,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190539,08/25/1993,8,NO,2.4,,,47,,,,,,BROWN,2-Very minor aesthetic problems
+8190539,09/17/1993,6.5,NO,2,,,50,,,,,,BROWN,2-Very minor aesthetic problems
+8190539,10/13/1993,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190539,07/20/1995,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190539,07/31/1995,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190539,08/10/1995,9,NO,2.7,,,45,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190539,09/25/1995,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190539,08/17/1996,9.25,NO,2.8,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+1,06/05/2000,12.8,,3.9,1,18,40,51,35,,,,,
+1,07/06/2000,11.5,,3.5,5,17,42,50,47,,,,,
+1,08/01/2000,8.9,,2.7,2.4,13,46,48,41,,,,,
+1,10/09/2000,5.9,,1.8,7,20,52,51,50,,,,,
+7000068,06/11/2001,11.5,NO,3.5,3.3,,42,,44,,,,,
+7000068,07/17/2001,,,,5,21,,52,47,,,,,
+7000068,08/20/2001,,,,5,19,,51,47,,,,,
+7000068,10/16/2001,,,,6,21,,52,48,,,,,
+7000068,06/10/2002,,,,3.94,19,,51,45,,,,,
+1,05/07/2020,3.8,NO,1.2,11,21.9,58,52,53,,,,,
+58058836,06/17/2020,6.9,NO,2.1,4.24,18.4,49,51,46,,,,,
+1,07/05/2020,8,NO,2.4,,,47,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/1979,,,23,C,,
+05/07/2020,,,11.2,C,11.4,MG/L
+06/17/2020,,,21.5,C,8.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/27/1993,Partly cloudy- slight ripple- small algae in water- strong winds last 2 days    
+08/07/1993,Partly cloudy- slight ripple- some algae- more weeds than previous years    
+08/25/1993,Light moderate wind- round algae in water.  Not as many as previous years.    
+09/17/1993,Somewhat windy surface- ripple- more algae than earlier.    
+10/13/1993,Bright sunny.  No clouds- slight wind.  More algae than the last reading.    
+07/31/1995,Mostly cloudy- wind approx. 10 mph- slightly choppy.    
+08/10/1995,Clear bright sky-no clouds.    
+09/25/1995,Sunny- slight ripple.  Weeds + rice where they never were before.    
+07/06/2000,INTEGRATED    
+08/01/2000,INTEGRATED SAMPLE 0-3M    
+06/11/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED    
+07/17/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/20/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/16/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+06/10/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1979,Data Collectors,Migrated from STORET Legacy
+07/27/1993,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+08/07/1993,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+08/25/1993,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+09/17/1993,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+10/13/1993,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+07/20/1995,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+07/31/1995,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+08/10/1995,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+09/25/1995,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+08/17/1996,Rudy Rinka,Citizen Lake Monitoring - Water Quality - Whitefish Lake; Deep Hole
+06/05/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+06/05/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/06/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+07/06/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/01/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+08/01/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/09/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+10/09/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/11/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+06/11/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+07/17/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/20/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+08/20/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+10/16/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+10/16/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/10/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Burnt Rollways Reservoir P-2113H (Wisconsin Valley Improvement Company / WVIC)
+06/10/2002,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+05/07/2020,Data Collectors,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Chain Env. Monit. and AIS Educ./Prev.
+06/17/2020,Ben Niffenegger,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+07/05/2020,Data Collectors,Bacteria + Plankton (Paid Private)

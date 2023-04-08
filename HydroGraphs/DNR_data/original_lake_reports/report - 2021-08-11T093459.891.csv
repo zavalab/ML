@@ -1,0 +1,130 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Silver Lake,Vilas,1599800,NO,64,,643103,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/14/1979,,,,,,,,,,,,,
+8189986,07/09/1993,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,
+8190434,08/05/1994,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWNISH TINT,2-Very minor aesthetic problems
+8190434,08/11/1994,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWNISH TINT,2-Very minor aesthetic problems
+8190434,08/17/1994,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWNISH TINT,2-Very minor aesthetic problems
+8190434,08/23/1994,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190434,09/07/1994,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190434,10/03/1994,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190434,04/23/1995,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWNISH TINT,2-Very minor aesthetic problems
+8190434,05/30/1995,15.25,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190434,07/04/1995,9,NO,2.7,,,45,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190434,05/12/1996,9.5,NO,2.9,,,45,,,HIGH,,,BROWN,
+8189986,05/29/1996,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8189986,09/02/1997,10,NO,3,,,44,,,NORMAL,,,,1-Beautiful, could not be nicer
+8189986,05/15/1998,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191272,10/13/2010,9.25,NO,2.8,,,45,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+7000057,05/21/2015,,,,4.19,,,,46,,,,,
+7000057,06/02/2015,,,,2.29,,,,41,,,,,
+7000057,06/11/2015,,,,2.32,,,,41,,,,,
+7000057,06/17/2015,,,,10.5,,,,53,,,,,
+7000057,06/24/2015,,,,1.62,,,,38,,,,,
+7000057,07/01/2015,,,,1.84,,,,39,,,,,
+7000057,07/09/2015,,,,2.13,,,,41,,,,,
+7000057,07/15/2015,,,,1.26,,,,37,,,,,
+7000057,07/27/2015,,,,1.79,,,,39,,,,,
+7000057,08/05/2015,,,,2.4,,,,41,,,,,
+7000057,05/20/2016,,,,3.65,,,,45,,,,,
+62415169,05/27/2016,,,,6.27,,,,49,,,,,
+7000057,06/06/2016,,,,10.4,,,,53,,,,,
+7000057,06/14/2016,,,,5.02,,,,47,,,,,
+7000057,06/21/2016,,,,2.35,,,,41,,,,,
+7000057,06/28/2016,,,,2.69,,,,42,,,,,
+7000057,07/06/2016,,,,1.72,,,,39,,,,,
+7000057,07/12/2016,,,,1.28,,,,37,,,,,
+7000057,07/25/2016,,,,1.22,,,,36,,,,,
+7000057,08/01/2016,,,,0.623,,,,31,,,,,
+7000057,05/30/2017,,,,7.12,,,,50,,,,,
+7000057,06/06/2017,,,,5.5,,,,48,,,,,
+7000057,06/12/2017,,,,8.61,,,,51,,,,,
+7000057,06/20/2017,,,,12.1,,,,54,,,,,
+7000057,06/26/2017,,,,3.64,,,,45,,,,,
+7000057,07/05/2017,,,,2.16,,,,41,,,,,
+7000057,07/12/2017,,,,1.6,,,,38,,,,,
+7000057,07/24/2017,,,,2.07,,,,40,,,,,
+1,08/02/2017,,,,1.87,,,,40,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/14/1979,,,18.5,C,,
+10/13/2010,3,FEET,57.5,DEGREES F,,
+10/13/2010,6,FEET,57.3,DEGREES F,,
+10/13/2010,9,FEET,57.3,DEGREES F,,
+10/13/2010,12,FEET,57.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/14/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/05/1994,Nice sunny day-we did have some rain earlier in the week.    
+08/11/1994,Sunny day.    
+08/17/1994,Sunny day.    
+08/23/1994,Hazy day.  Water level May be down very slightly from first measurement on 8/5/94.    
+09/07/1994,Sunny day.    
+10/03/1994,Partly cloudy day.    
+04/23/1995,Ice has been off lake one week.  Partly cloudy day.    
+05/30/1995,Sunny day-very little wind-had rain on Sunday 5/28.    
+07/04/1995,Partly cloudy-breezy-very warm weather 1.5 weeks ago.    
+05/12/1996,The water was dirty looking-the ice went out two days before 5/10/96.    
+09/02/1997,Glad to be back.  Light bloom on lake.    
+10/13/2010,Noel took this single reading on Silver Lake- Vilas County.
+
+
+
+
+Start Date,Group Name,Project Name
+08/14/1979,Data Collectors,Migrated from STORET Legacy
+07/09/1993,Art Anderson,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+08/05/1994,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+08/11/1994,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+08/17/1994,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+08/23/1994,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+09/07/1994,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+10/03/1994,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+04/23/1995,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+05/30/1995,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+07/04/1995,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+05/12/1996,Dan Meyer,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+05/29/1996,Art Anderson,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+09/02/1997,Art Anderson,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+05/15/1998,Art Anderson,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+10/13/2010,Noel Junkunc,Citizen Lake Monitoring - Water Quality - Silver Lake - Deep Hole
+05/21/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/02/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/11/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/17/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/24/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/01/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/09/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/15/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/27/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+08/05/2015,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+05/20/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+05/27/2016,Ali Mikulyuk- Katie Roth- and Jim Kreitlow,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/06/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/14/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/21/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/28/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/06/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/12/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/25/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+08/01/2016,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+05/30/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/06/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/12/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/20/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+06/26/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/05/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/12/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+07/24/2017,JAMES KREITLOW,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15
+08/02/2017,Data Collectors,Effects of 2-4-D Herbicide Treatments Used to Control Eurasian Water milfoil on Phytoplankton in Northern Wisconsin Lakes NOR_15_CMP15

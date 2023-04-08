@@ -1,0 +1,693 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fishtrap Lake,Vilas,2343200,NO,64,,643233,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/10/1984,14.1,,4.3,5,,39,,47,,,,,
+1,10/08/1985,7.9,,2.4,,20,47,51,,,,,,
+23032427,05/29/2008,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23032427,06/27/2008,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23032427,07/10/2008,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23032427,07/28/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23032427,08/04/2008,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23032427,08/11/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,08/25/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,09/12/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,06/01/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,06/14/2009,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,06/25/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,07/12/2009,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,08/08/2009,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,08/26/2009,14.25,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,09/30/2009,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,05/17/2010,21,NO,6.4,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,06/10/2010,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,07/06/2010,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,08/26/2010,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,09/13/2010,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,10/05/2010,13,NO,4,,,40,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+23032427,06/13/2011,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,06/25/2011,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,07/06/2011,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+49167862,07/15/2011,9.5,NO,2.9,,,45,,,NORMAL,n/a,CLEAR,GREEN,1-Beautiful, could not be nicer
+49167862,07/26/2011,,,,1.34,13,,48,37,,,,,
+47807893,08/27/2011,7,NO,2.1,,,49,,,NORMAL,n/a,MURKY,GREEN,1-Beautiful, could not be nicer
+49167862,08/27/2011,,,,5.09,16,,50,47,,,,,
+47807893,03/29/2012,9,YES,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+47807893,06/26/2012,10.25,NO,3.1,3.06,14,44,49,43,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+47807893,07/23/2012,9.25,NO,2.8,2.18,17,45,50,41,LOW,n/a,CLEAR,GREEN,2-Very minor aesthetic problems
+47807893,08/28/2012,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+49167862,08/28/2012,,,,6.4,14,,49,49,,,,,
+34997658,02/26/2013,,,,,,,,,,,,,
+34997658,05/15/2013,8.5,N,2.6,,13.4,43,48,,,,,,
+47807893,05/26/2013,8.3,NO,2.5,,13.8,47,48,,,,MURKY,GREEN,2-Very minor aesthetic problems
+47807893,06/19/2013,12.75,NO,3.9,,,40,,,NORMAL,N/A,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,06/20/2013,,,,2.22,12.5,,48,41,,,,,
+47807893,07/24/2013,8.5,NO,2.6,5.03,10.1,46,46,47,LOW,N/A,CLEAR,BROWN,2-Very minor aesthetic problems
+34997658,07/29/2013,11,NO,3.3,8.81,11.4,43,47,51,,,,,
+47807893,08/20/2013,15,NO,4.6,2.48,9.85,38,46,42,LOW,N/A,CLEAR,GREEN,2-Very minor aesthetic problems
+34997658,08/28/2013,15.3,N,4.7,2.96,11.6,38,47,43,,,,,
+34997658,09/12/2013,10.17,N,3.1,8.31,20.1,44,51,51,,,,,
+47807893,05/13/2014,,,,,21.6,,52,,,,,,
+47807893,06/25/2014,9.3,NO,2.8,4.58,13.8,45,48,46,HIGH,N/A,MURKY,BROWN,2-Very minor aesthetic problems
+1,07/14/2014,11.2,N,3.4,4.89,12.2,42,48,47,,,,,
+34997658,07/14/2014,11,NO,3.3,,,43,,,,,,,
+47807893,07/21/2014,9,NO,2.7,3.16,12.4,45,48,43,NORMAL,N/A,CLEAR,BROWN,2-Very minor aesthetic problems
+47807893,08/20/2014,12,NO,3.6,3.39,12.3,41,48,44,NORMAL,N/A,CLEAR,BROWN,2-Very minor aesthetic problems
+23032427,06/23/2015,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117358810,06/23/2015,,,,3.64,23.6,,53,45,,,,,
+1,07/07/2015,11.5,N,3.5,5.92,8.04,42,44,48,,,,,
+34997658,07/07/2015,11.5,NO,3.5,,,42,,,,,,,
+23032427,07/14/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+23032427,07/30/2015,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23032427,08/04/2015,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+117358810,08/12/2015,,,,2.62,15.7,,49,42,,,,,
+23032427,08/13/2015,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23032427,08/27/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+23032427,09/01/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+117358810,09/01/2015,,,,1.55,17.2,,50,38,,,,,
+117358810,06/24/2016,14,YES,4.3,,,39,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117358810,07/07/2016,15,NO,4.6,4.22,15,38,49,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,07/15/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+117358810,07/25/2016,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+117358810,08/05/2016,13,NO,4,,,40,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,08/12/2016,,,,3.02,19.5,,51,43,,,,,
+117358810,08/13/2016,11,NO,3.3,,,43,,,HIGH,28,CLEAR,BROWN,2-Very minor aesthetic problems
+117358810,08/16/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,08/23/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,04/11/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,05/13/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+117358810,06/04/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,06/12/2017,14,NO,4.3,1.61,16.5,39,50,38,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+117358810,07/03/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,07/11/2017,14,,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,07/12/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+117358810,07/27/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+117358810,08/03/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,08/14/2017,13,NO,4,2.82,12.8,40,48,43,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,08/23/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117358810,08/30/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+219384714,09/15/2019,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+219384714,10/01/2019,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+219384714,10/21/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+219384714,05/09/2020,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+219384714,05/26/2020,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+219384714,06/09/2020,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+219384714,06/25/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+219384714,07/13/2020,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+219384714,08/13/2020,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+219384714,08/30/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+219384714,09/13/2020,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+219384714,09/30/2020,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+219384714,10/14/2020,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+219384714,10/30/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/08/1985,,,9,C,10,MG/L
+07/15/2011,3,FEET,76.8,DEGREES F,,
+07/15/2011,6,FEET,76.8,DEGREES F,,
+07/15/2011,9,FEET,76.6,DEGREES F,,
+07/15/2011,12,FEET,76.2,DEGREES F,,
+07/15/2011,15,FEET,72.5,DEGREES F,,
+07/15/2011,18,FEET,64.7,DEGREES F,,
+07/15/2011,21,FEET,59.5,DEGREES F,,
+07/15/2011,24,FEET,54.1,DEGREES F,,
+07/15/2011,27,FEET,49.6,DEGREES F,,
+07/15/2011,30,FEET,48.5,DEGREES F,,
+07/15/2011,33,FEET,48,DEGREES F,,
+07/15/2011,34,FEET,47.6,DEGREES F,,
+08/27/2011,3,FEET,71.9,DEGREES F,,
+08/27/2011,6,FEET,71.4,DEGREES F,,
+08/27/2011,9,FEET,71.2,DEGREES F,,
+08/27/2011,12,FEET,71,DEGREES F,,
+08/27/2011,15,FEET,70.8,DEGREES F,,
+08/27/2011,18,FEET,69.8,DEGREES F,,
+08/27/2011,21,FEET,61.8,DEGREES F,,
+08/27/2011,24,FEET,55,DEGREES F,,
+08/27/2011,27,FEET,50.3,DEGREES F,,
+08/27/2011,30,FEET,49.2,DEGREES F,,
+08/27/2011,33,FEET,48.7,DEGREES F,,
+08/27/2011,34,FEET,48.5,DEGREES F,,
+03/29/2012,3,FEET,43.8,DEGREES F,,
+03/29/2012,6,FEET,43.8,DEGREES F,,
+03/29/2012,9,FEET,43.8,DEGREES F,,
+03/29/2012,12,FEET,43.8,DEGREES F,,
+03/29/2012,15,FEET,43.8,DEGREES F,,
+03/29/2012,18,FEET,43.8,DEGREES F,,
+03/29/2012,21,FEET,43.8,DEGREES F,,
+03/29/2012,24,FEET,43.8,DEGREES F,,
+03/29/2012,27,FEET,43.8,DEGREES F,,
+03/29/2012,30,FEET,43.7,DEGREES F,,
+03/29/2012,33,FEET,43.7,DEGREES F,,
+03/29/2012,36,FEET,43.5,DEGREES F,,
+06/26/2012,3,FEET,74.1,DEGREES F,,
+06/26/2012,6,FEET,73.2,DEGREES F,,
+06/26/2012,9,FEET,71.6,DEGREES F,,
+06/26/2012,12,FEET,70.8,DEGREES F,,
+06/26/2012,15,FEET,67.8,DEGREES F,,
+06/26/2012,18,FEET,64.7,DEGREES F,,
+06/26/2012,21,FEET,60.6,DEGREES F,,
+06/26/2012,24,FEET,55.2,DEGREES F,,
+06/26/2012,27,FEET,52.5,DEGREES F,,
+06/26/2012,30,FEET,50.9,DEGREES F,,
+06/26/2012,33,FEET,50.3,DEGREES F,,
+06/26/2012,34,FEET,50.5,DEGREES F,,
+07/23/2012,3,FEET,79.1,DEGREES F,,
+07/23/2012,6,FEET,78.9,DEGREES F,,
+07/23/2012,9,FEET,78.8,DEGREES F,,
+07/23/2012,12,FEET,78.2,DEGREES F,,
+07/23/2012,15,FEET,75.5,DEGREES F,,
+07/23/2012,18,FEET,70.5,DEGREES F,,
+07/23/2012,21,FEET,62.4,DEGREES F,,
+07/23/2012,24,FEET,56.1,DEGREES F,,
+07/23/2012,27,FEET,52.5,DEGREES F,,
+07/23/2012,30,FEET,51.2,DEGREES F,,
+08/28/2012,3,FEET,71.9,DEGREES F,,
+08/28/2012,6,FEET,71.4,DEGREES F,,
+08/28/2012,9,FEET,71.2,DEGREES F,,
+08/28/2012,12,FEET,71,DEGREES F,,
+08/28/2012,15,FEET,69.9,DEGREES F,,
+08/28/2012,18,FEET,68.7,DEGREES F,,
+08/28/2012,21,FEET,65.6,DEGREES F,,
+08/28/2012,24,FEET,59,DEGREES F,,
+08/28/2012,27,FEET,53.6,DEGREES F,,
+08/28/2012,30,FEET,51.8,DEGREES F,,
+08/28/2012,33,FEET,51.2,DEGREES F,,
+08/28/2012,34,FEET,51.2,DEGREES F,,
+02/26/2013,0.5,METERS,1.6,DEGREES C,11.03,MG/L
+02/26/2013,1,METERS,1.2,DEGREES C,11,MG/L
+02/26/2013,2,METERS,1.9,DEGREES C,10.11,MG/L
+02/26/2013,3,METERS,2.4,DEGREES C,7.82,MG/L
+02/26/2013,4,METERS,2.8,DEGREES C,4.97,MG/L
+02/26/2013,5,METERS,3.2,DEGREES C,4.16,MG/L
+02/26/2013,6,METERS,3.5,DEGREES C,2.03,MG/L
+02/26/2013,7,METERS,3.7,DEGREES C,1.31,MG/L
+02/26/2013,8,METERS,3.9,DEGREES C,1.15,MG/L
+05/15/2013,0,METERS,7.9,DEGREES C,8.59,MG/L
+05/15/2013,1,METERS,7.6,DEGREES C,8.57,MG/L
+05/15/2013,2,METERS,7.3,DEGREES C,8.57,MG/L
+05/15/2013,3,METERS,7.2,DEGREES C,8.57,MG/L
+05/15/2013,4,METERS,7.1,DEGREES C,8.55,MG/L
+05/15/2013,5,METERS,7.1,DEGREES C,8.52,MG/L
+05/15/2013,6,METERS,7,DEGREES C,8.45,MG/L
+05/15/2013,7,METERS,6.5,DEGREES C,7.8,MG/L
+05/15/2013,8,METERS,6.2,DEGREES C,7.5,MG/L
+05/15/2013,9,METERS,5.8,DEGREES C,5.68,MG/L
+05/15/2013,,,7.9,C,8.6,MG/L
+05/26/2013,3,FEET,60.2,DEGREES F,,
+05/26/2013,6,FEET,59.9,DEGREES F,,
+05/26/2013,9,FEET,56.4,DEGREES F,,
+05/26/2013,12,FEET,51.6,DEGREES F,,
+05/26/2013,15,FEET,47.8,DEGREES F,,
+05/26/2013,18,FEET,45.8,DEGREES F,,
+05/26/2013,21,FEET,44.7,DEGREES F,,
+05/26/2013,24,FEET,43.5,DEGREES F,,
+05/26/2013,27,FEET,43.1,DEGREES F,,
+05/26/2013,30,FEET,42.9,DEGREES F,,
+05/26/2013,33,FEET,42.8,DEGREES F,,
+06/19/2013,3,FEET,68.7,DEGREES F,,
+06/19/2013,6,FEET,68.3,DEGREES F,,
+06/19/2013,9,FEET,67.2,DEGREES F,,
+06/19/2013,12,FEET,58.2,DEGREES F,,
+06/19/2013,15,FEET,51.8,DEGREES F,,
+06/19/2013,18,FEET,48.5,DEGREES F,,
+06/19/2013,21,FEET,47.1,DEGREES F,,
+06/19/2013,24,FEET,46.2,DEGREES F,,
+06/19/2013,27,FEET,44.2,DEGREES F,,
+06/19/2013,30,FEET,43.8,DEGREES F,,
+06/19/2013,33,FEET,43.5,DEGREES F,,
+07/24/2013,3,FEET,72.8,DEGREES F,,
+07/24/2013,6,FEET,73,DEGREES F,,
+07/24/2013,9,FEET,72.8,DEGREES F,,
+07/24/2013,12,FEET,72.3,DEGREES F,,
+07/24/2013,15,FEET,62.4,DEGREES F,,
+07/24/2013,18,FEET,52.5,DEGREES F,,
+07/24/2013,21,FEET,49.8,DEGREES F,,
+07/24/2013,24,FEET,47.3,DEGREES F,,
+07/24/2013,27,FEET,45.6,DEGREES F,,
+07/24/2013,30,FEET,44.6,DEGREES F,,
+07/24/2013,33,FEET,44.4,DEGREES F,,
+07/24/2013,34,FEET,44.4,DEGREES F,,
+07/29/2013,0,METERS,21,DEGREES C,8.8,MG/L
+07/29/2013,1,METERS,20.9,DEGREES C,8.2,MG/L
+07/29/2013,2,METERS,20.1,DEGREES C,8.17,MG/L
+07/29/2013,3,METERS,19.6,DEGREES C,8.12,MG/L
+07/29/2013,4,METERS,19.1,DEGREES C,7.79,MG/L
+07/29/2013,5,METERS,15.2,DEGREES C,2.64,MG/L
+07/29/2013,6,METERS,11.2,DEGREES C,.32,MG/L
+07/29/2013,7,METERS,9.4,DEGREES C,.18,MG/L
+07/29/2013,8,METERS,8.2,DEGREES C,.09,MG/L
+07/29/2013,9,METERS,7.6,DEGREES C,.07,MG/L
+07/29/2013,10,METERS,7.3,DEGREES C,.06,MG/L
+07/29/2013,11,METERS,7.3,DEGREES C,.05,MG/L
+07/29/2013,12,METERS,7.3,DEGREES C,.04,MG/L
+07/29/2013,13,METERS,7.1,DEGREES C,.04,MG/L
+07/29/2013,,,21.0,C,8.80,MG/L
+08/20/2013,3,FEET,70.8,DEGREES F,,
+08/20/2013,6,FEET,70.8,DEGREES F,,
+08/20/2013,9,FEET,70.5,DEGREES F,,
+08/20/2013,12,FEET,68.5,DEGREES F,,
+08/20/2013,15,FEET,64.7,DEGREES F,,
+08/20/2013,18,FEET,57,DEGREES F,,
+08/20/2013,21,FEET,53.4,DEGREES F,,
+08/20/2013,24,FEET,47.6,DEGREES F,,
+08/20/2013,27,FEET,45.8,DEGREES F,,
+08/20/2013,30,FEET,45.3,DEGREES F,,
+08/20/2013,33,FEET,44.9,DEGREES F,,
+08/20/2013,34,FEET,44.7,DEGREES F,,
+08/28/2013,0,METERS,24.9,DEGREES C,8.44,MG/L
+08/28/2013,1,METERS,24.5,DEGREES C,8.55,MG/L
+08/28/2013,2,METERS,24.3,DEGREES C,8.58,MG/L
+08/28/2013,3,METERS,23.9,DEGREES C,8.42,MG/L
+08/28/2013,4,METERS,23.1,DEGREES C,7.74,MG/L
+08/28/2013,5,METERS,19,DEGREES C,4.09,MG/L
+08/28/2013,6,METERS,14.6,DEGREES C,.24,MG/L
+08/28/2013,7,METERS,12.1,DEGREES C,.11,MG/L
+08/28/2013,8,METERS,9.6,DEGREES C,.07,MG/L
+08/28/2013,9,METERS,8.9,DEGREES C,.06,MG/L
+08/28/2013,10,METERS,8.6,DEGREES C,.04,MG/L
+08/28/2013,11,METERS,8.6,DEGREES C,.03,MG/L
+08/28/2013,12,METERS,8.1,DEGREES C,.03,MG/L
+08/28/2013,12.5,METERS,8.1,DEGREES C,.03,MG/L
+08/28/2013,,,24.9,C,8.44,MG/L
+09/12/2013,0,METERS,20.5,DEGREES C,8.1,MG/L
+09/12/2013,1,METERS,20.6,DEGREES C,8.03,MG/L
+09/12/2013,2,METERS,20.7,DEGREES C,7.99,MG/L
+09/12/2013,3,METERS,20.7,DEGREES C,7.94,MG/L
+09/12/2013,4,METERS,20.7,DEGREES C,7.58,MG/L
+09/12/2013,5,METERS,20,DEGREES C,3.94,MG/L
+09/12/2013,6,METERS,15.8,DEGREES C,.2,MG/L
+09/12/2013,7,METERS,12.5,DEGREES C,.11,MG/L
+09/12/2013,8,METERS,10.5,DEGREES C,.08,MG/L
+09/12/2013,9,METERS,9.1,DEGREES C,.07,MG/L
+09/12/2013,10,METERS,8.5,DEGREES C,.07,MG/L
+09/12/2013,,,20.5,C,8.1,MG/L
+06/25/2014,3,FEET,71.4,DEGREES F,,
+06/25/2014,6,FEET,71.6,DEGREES F,,
+06/25/2014,9,FEET,69.8,DEGREES F,,
+06/25/2014,12,FEET,66.2,DEGREES F,,
+06/25/2014,15,FEET,57.5,DEGREES F,,
+06/25/2014,18,FEET,50.9,DEGREES F,,
+06/25/2014,21,FEET,48.2,DEGREES F,,
+06/25/2014,24,FEET,46.5,DEGREES F,,
+06/25/2014,27,FEET,44.9,DEGREES F,,
+06/25/2014,30,FEET,44.2,DEGREES F,,
+06/25/2014,33,FEET,44,DEGREES F,,
+07/14/2014,0,METERS,20.7,DEGREES C,8.19,MG/L
+07/14/2014,1,METERS,20.8,DEGREES C,8.14,MG/L
+07/14/2014,2,METERS,20.9,DEGREES C,8.09,MG/L
+07/14/2014,3,METERS,20.9,DEGREES C,8.02,MG/L
+07/14/2014,4,METERS,20.8,DEGREES C,6.48,MG/L
+07/14/2014,5,METERS,15.8,DEGREES C,.19,MG/L
+07/14/2014,6,METERS,11.6,DEGREES C,.1,MG/L
+07/14/2014,7,METERS,10.1,DEGREES C,.08,MG/L
+07/14/2014,8,METERS,9.2,DEGREES C,.16,MG/L
+07/14/2014,9,METERS,8.3,DEGREES C,.09,MG/L
+07/14/2014,10,METERS,7.7,DEGREES C,.05,MG/L
+07/14/2014,,,20.7,C,8.19,MG/L
+07/21/2014,3,FEET,71.9,DEGREES F,,
+07/21/2014,6,FEET,70.8,DEGREES F,,
+07/21/2014,9,FEET,70.1,DEGREES F,,
+07/21/2014,12,FEET,68.1,DEGREES F,,
+07/21/2014,15,FEET,63.8,DEGREES F,,
+07/21/2014,18,FEET,54.6,DEGREES F,,
+07/21/2014,21,FEET,51,DEGREES F,,
+07/21/2014,24,FEET,47.4,DEGREES F,,
+07/21/2014,27,FEET,45.6,DEGREES F,,
+07/21/2014,30,FEET,44.9,DEGREES F,,
+07/21/2014,33,FEET,44.6,DEGREES F,,
+08/20/2014,3,FEET,69.9,DEGREES F,,
+08/20/2014,6,FEET,69.6,DEGREES F,,
+08/20/2014,9,FEET,69.6,DEGREES F,,
+08/20/2014,12,FEET,69.4,DEGREES F,,
+08/20/2014,15,FEET,68,DEGREES F,,
+08/20/2014,18,FEET,59.3,DEGREES F,,
+08/20/2014,21,FEET,52.7,DEGREES F,,
+08/20/2014,24,FEET,48.9,DEGREES F,,
+08/20/2014,27,FEET,46.4,DEGREES F,,
+08/20/2014,30,FEET,45.6,DEGREES F,,
+08/20/2014,33,FEET,45.3,DEGREES F,,
+08/20/2014,34,FEET,45.3,DEGREES F,,
+06/23/2015,1,FEET,67.4,DEGREES F,,
+06/23/2015,5,FEET,67.3,DEGREES F,,
+06/23/2015,10,FEET,66.9,DEGREES F,,
+06/23/2015,15,FEET,66.5,DEGREES F,,
+06/23/2015,20,FEET,62.4,DEGREES F,,
+06/23/2015,28,FEET,53.6,DEGREES F,,
+07/07/2015,0,METERS,21.4,DEGREES C,8.3,MG/L
+07/07/2015,0.5,METERS,21.4,DEGREES C,8.29,MG/L
+07/07/2015,1,METERS,21.4,DEGREES C,8.28,MG/L
+07/07/2015,1.5,METERS,21.3,DEGREES C,8.27,MG/L
+07/07/2015,2,METERS,21.3,DEGREES C,8.26,MG/L
+07/07/2015,2.5,METERS,21.3,DEGREES C,8.25,MG/L
+07/07/2015,3,METERS,21.3,DEGREES C,8.23,MG/L
+07/07/2015,3.5,METERS,21.3,DEGREES C,8.2,MG/L
+07/07/2015,4,METERS,21.3,DEGREES C,8.16,MG/L
+07/07/2015,4.5,METERS,20.5,DEGREES C,6.32,MG/L
+07/07/2015,5,METERS,17.6,DEGREES C,3.29,MG/L
+07/07/2015,5.5,METERS,15.8,DEGREES C,2.34,MG/L
+07/07/2015,6,METERS,13.3,DEGREES C,.53,MG/L
+07/07/2015,6.5,METERS,12.6,DEGREES C,.3,MG/L
+07/07/2015,7,METERS,11.4,DEGREES C,.12,MG/L
+07/07/2015,7.5,METERS,10.6,DEGREES C,.09,MG/L
+07/07/2015,8,METERS,9.9,DEGREES C,.07,MG/L
+07/07/2015,8.5,METERS,9.4,DEGREES C,.05,MG/L
+07/07/2015,9,METERS,9,DEGREES C,.05,MG/L
+07/07/2015,9.5,METERS,8.7,DEGREES C,.04,MG/L
+07/07/2015,10,METERS,8.4,DEGREES C,.04,MG/L
+07/07/2015,10.5,METERS,8.3,DEGREES C,.03,MG/L
+07/07/2015,11,METERS,8.3,DEGREES C,.03,MG/L
+07/07/2015,11.5,METERS,8.3,DEGREES C,.02,MG/L
+07/07/2015,,,21.4,C,8.3,MG/L
+07/14/2015,1,FEET,73.6,DEGREES F,,
+07/14/2015,5,FEET,73.4,DEGREES F,,
+07/14/2015,10,FEET,71.8,DEGREES F,,
+07/14/2015,15,FEET,70.5,DEGREES F,,
+07/14/2015,20,FEET,64.3,DEGREES F,,
+07/14/2015,25,FEET,59.6,DEGREES F,,
+07/30/2015,1,FEET,75.5,DEGREES F,,
+07/30/2015,5,FEET,75.1,DEGREES F,,
+07/30/2015,10,FEET,74.2,DEGREES F,,
+07/30/2015,15,FEET,68.4,DEGREES F,,
+07/30/2015,20,FEET,64.9,DEGREES F,,
+07/30/2015,27,FEET,60.1,DEGREES F,,
+08/13/2015,1,FEET,71.8,DEGREES F,,
+08/13/2015,5,FEET,71.4,DEGREES F,,
+08/13/2015,10,FEET,71,DEGREES F,,
+08/13/2015,15,FEET,68.5,DEGREES F,,
+08/13/2015,20,FEET,66.8,DEGREES F,,
+08/13/2015,25,FEET,65.4,DEGREES F,,
+08/13/2015,28,FEET,62.2,DEGREES F,,
+08/27/2015,1,FEET,70.2,DEGREES F,,
+08/27/2015,5,FEET,68.9,DEGREES F,,
+08/27/2015,10,FEET,68.1,DEGREES F,,
+08/27/2015,15,FEET,66.8,DEGREES F,,
+08/27/2015,20,FEET,63.5,DEGREES F,,
+08/27/2015,25,FEET,62.3,DEGREES F,,
+09/01/2015,1,FEET,69.8,DEGREES F,,
+09/01/2015,5,FEET,69.4,DEGREES F,,
+09/01/2015,10,FEET,67.8,DEGREES F,,
+09/01/2015,15,FEET,66.2,DEGREES F,,
+09/01/2015,20,FEET,64.5,DEGREES F,,
+09/01/2015,25,FEET,63.3,DEGREES F,,
+09/01/2015,28,FEET,62,DEGREES F,,
+06/24/2016,1,FEET,73.8,DEGREES F,,
+06/24/2016,5,FEET,73.5,DEGREES F,,
+06/24/2016,10,FEET,70.1,DEGREES F,,
+06/24/2016,15,FEET,67.8,DEGREES F,,
+06/24/2016,20,FEET,62.4,DEGREES F,,
+06/24/2016,25,FEET,58.9,DEGREES F,,
+07/07/2016,1,FEET,75.7,DEGREES F,,
+07/07/2016,5,FEET,74.2,DEGREES F,,
+07/07/2016,10,FEET,71.5,DEGREES F,,
+07/07/2016,15,FEET,66.3,DEGREES F,,
+07/07/2016,20,FEET,63.6,DEGREES F,,
+07/07/2016,25,FEET,61.1,DEGREES F,,
+07/15/2016,1,FEET,78.2,DEGREES F,,
+07/15/2016,5,FEET,75.7,DEGREES F,,
+07/15/2016,10,FEET,74.6,DEGREES F,,
+07/15/2016,15,FEET,71,DEGREES F,,
+07/15/2016,20,FEET,64.1,DEGREES F,,
+07/15/2016,25,FEET,59.2,DEGREES F,,
+07/25/2016,1,FEET,78.8,DEGREES F,,
+07/25/2016,5,FEET,76.4,DEGREES F,,
+07/25/2016,10,FEET,75.5,DEGREES F,,
+07/25/2016,15,FEET,72.1,DEGREES F,,
+07/25/2016,20,FEET,64.2,DEGREES F,,
+07/25/2016,25,FEET,58.9,DEGREES F,,
+07/25/2016,28,FEET,56.1,DEGREES F,,
+08/05/2016,1,FEET,76.1,DEGREES F,,
+08/05/2016,5,FEET,74.4,DEGREES F,,
+08/05/2016,10,FEET,73,DEGREES F,,
+08/05/2016,15,FEET,69.8,DEGREES F,,
+08/05/2016,20,FEET,59,DEGREES F,,
+08/05/2016,25,FEET,53.4,DEGREES F,,
+08/05/2016,28,FEET,52.5,DEGREES F,,
+08/13/2016,1,FEET,74.3,DEGREES F,,
+08/13/2016,5,FEET,74.1,DEGREES F,,
+08/13/2016,10,FEET,73.2,DEGREES F,,
+08/13/2016,15,FEET,66.9,DEGREES F,,
+08/13/2016,20,FEET,58.8,DEGREES F,,
+08/13/2016,25,FEET,50.5,DEGREES F,,
+08/13/2016,30,FEET,49.4,DEGREES F,,
+08/16/2016,1,FEET,73.1,DEGREES F,,
+08/16/2016,5,FEET,72.9,DEGREES F,,
+08/16/2016,10,FEET,72.2,DEGREES F,,
+08/16/2016,15,FEET,69.5,DEGREES F,,
+08/16/2016,20,FEET,59.8,DEGREES F,,
+08/16/2016,25,FEET,53.6,DEGREES F,,
+08/16/2016,30,FEET,51.7,DEGREES F,,
+08/23/2016,1,FEET,72.4,DEGREES F,,
+08/23/2016,5,FEET,71.9,DEGREES F,,
+08/23/2016,10,FEET,71.2,DEGREES F,,
+08/23/2016,15,FEET,68.7,DEGREES F,,
+08/23/2016,20,FEET,60.1,DEGREES F,,
+08/23/2016,25,FEET,59.3,DEGREES F,,
+08/23/2016,30,FEET,51.4,DEGREES F,,
+04/11/2017,1,FEET,40.1,DEGREES F,,
+04/11/2017,5,FEET,39.9,DEGREES F,,
+04/11/2017,10,FEET,39.9,DEGREES F,,
+04/11/2017,15,FEET,39.9,DEGREES F,,
+04/11/2017,20,FEET,39.7,DEGREES F,,
+04/11/2017,25,FEET,40.1,DEGREES F,,
+04/11/2017,27,FEET,39.9,DEGREES F,,
+05/13/2017,1,FEET,58.1,DEGREES F,,
+05/13/2017,5,FEET,57.9,DEGREES F,,
+05/13/2017,10,FEET,57,DEGREES F,,
+05/13/2017,15,FEET,53.2,DEGREES F,,
+05/13/2017,20,FEET,49.4,DEGREES F,,
+05/13/2017,25,FEET,49.1,DEGREES F,,
+06/04/2017,1,FEET,66.9,DEGREES F,,
+06/04/2017,5,FEET,64.7,DEGREES F,,
+06/04/2017,10,FEET,60,DEGREES F,,
+06/04/2017,15,FEET,57.7,DEGREES F,,
+06/04/2017,20,FEET,55.5,DEGREES F,,
+06/04/2017,25,FEET,53.4,DEGREES F,,
+06/12/2017,1,FEET,69.2,DEGREES F,,
+06/12/2017,5,FEET,68.7,DEGREES F,,
+06/12/2017,10,FEET,66.5,DEGREES F,,
+06/12/2017,15,FEET,63.6,DEGREES F,,
+06/12/2017,20,FEET,57.4,DEGREES F,,
+06/12/2017,25,FEET,56.2,DEGREES F,,
+07/03/2017,1,FEET,72.1,DEGREES F,,
+07/03/2017,5,FEET,68.8,DEGREES F,,
+07/03/2017,10,FEET,67.3,DEGREES F,,
+07/03/2017,15,FEET,65.9,DEGREES F,,
+07/03/2017,20,FEET,63.4,DEGREES F,,
+07/03/2017,25,FEET,59.9,DEGREES F,,
+07/03/2017,28,FEET,59.4,DEGREES F,,
+07/11/2017,1,FEET,74.2,DEGREES F,,
+07/11/2017,5,FEET,73.6,DEGREES F,,
+07/11/2017,10,FEET,71.7,DEGREES F,,
+07/11/2017,15,FEET,64.5,DEGREES F,,
+07/11/2017,20,FEET,62,DEGREES F,,
+07/11/2017,25,FEET,59.9,DEGREES F,,
+07/12/2017,1,FEET,77.8,DEGREES F,,
+07/12/2017,5,FEET,76.4,DEGREES F,,
+07/12/2017,10,FEET,71.5,DEGREES F,,
+07/12/2017,15,FEET,64.9,DEGREES F,,
+07/12/2017,20,FEET,62.8,DEGREES F,,
+07/12/2017,25,FEET,59.9,DEGREES F,,
+07/27/2017,1,FEET,74.6,DEGREES F,,
+07/27/2017,5,FEET,73.2,DEGREES F,,
+07/27/2017,10,FEET,71.6,DEGREES F,,
+07/27/2017,15,FEET,68.8,DEGREES F,,
+07/27/2017,20,FEET,65.4,DEGREES F,,
+07/27/2017,25,FEET,64.9,DEGREES F,,
+07/27/2017,29,FEET,60.1,DEGREES F,,
+08/03/2017,1,FEET,77.2,DEGREES F,,
+08/03/2017,5,FEET,74.7,DEGREES F,,
+08/03/2017,10,FEET,73.9,DEGREES F,,
+08/03/2017,15,FEET,67.3,DEGREES F,,
+08/03/2017,20,FEET,64.8,DEGREES F,,
+08/03/2017,25,FEET,61.3,DEGREES F,,
+08/03/2017,27,FEET,60.1,DEGREES F,,
+08/14/2017,1,FEET,71.9,DEGREES F,,
+08/14/2017,5,FEET,71.6,DEGREES F,,
+08/14/2017,10,FEET,71.1,DEGREES F,,
+08/14/2017,15,FEET,69.5,DEGREES F,,
+08/14/2017,20,FEET,66.8,DEGREES F,,
+08/14/2017,25,FEET,64.4,DEGREES F,,
+08/14/2017,28,FEET,63.2,DEGREES F,,
+08/23/2017,1,FEET,68.9,DEGREES F,,
+08/23/2017,5,FEET,67.3,DEGREES F,,
+08/23/2017,10,FEET,64.5,DEGREES F,,
+08/23/2017,15,FEET,59.6,DEGREES F,,
+08/23/2017,20,FEET,53.2,DEGREES F,,
+08/23/2017,26,FEET,51.4,DEGREES F,,
+08/30/2017,1,FEET,67.8,DEGREES F,,
+08/30/2017,5,FEET,65.4,DEGREES F,,
+08/30/2017,10,FEET,61.2,DEGREES F,,
+08/30/2017,15,FEET,58.6,DEGREES F,,
+08/30/2017,20,FEET,52.3,DEGREES F,,
+08/30/2017,25,FEET,50.9,DEGREES F,,
+08/30/2017,29,FEET,49.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/10/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/08/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/29/2008,Partly sunny- 65 degrees- light breeze;  loon sitting on nest in NW bay (section 2); adult loon spotted in southwest bay by Oswego Fishtrap Lake Rd;   eagles nest on western peninsula property active though didn't  spot chicks.
+06/27/2008,Partly sunny- 70 degrees- light breeze; loon gone from nest and did not spot anywhere- lilly pads up and blooming in bays; pollen still floating on water surface in some bays.
+07/10/2008,72 degrees- partly cloudy- light breeze; southern lake loon pair out on water with two chicks
+07/28/2008,80 degrees- sunny- light breeze; acquatic plants in the shallow bays are reaching the surface now; plenty of lilly pads flowering; watched our two resident eaglets perched by nest screaming with adult perched a few trees over.
+08/04/2008,75 degrees- overcast- hazy; no breeze; saw one adult loon- two adult eagles and an eaglet.
+08/11/2008,74 degrees- sunny- slight breeze.  Water has particles floating throughout it (maybe from vegetation- but not sure what); one of the adult eagles is soaring around; one of the eaglets is perched by the nest.  Saw one adult loon on the northern end of lake when I put in and one on the southern part of the lake where I was taking the water quality reading.
+08/25/2008,68 degrees- sunny- and no breeze.  2 adult loons and a chick fishing in the area of data collection.  Our lake association is working with DNR and UW lakes folks to identify for management purposes what seems to be an outbreak of Najas guadalupensis on Fishtrap.  Can see it in bays in particular.
+09/12/2008,Partly sunny- 68 degrees- calm;  one adult and one immature loon out on lake in sampling area.
+06/01/2009,Partly sunny- 67 degrees- light breeze; water level slightly higher than last season; So. Nyaid investation already growing in bays; Loon on SW bay;  Adult eagle perching on nest 
+06/14/2009,Sunny- 75 degrees- breezy- water looks quite clear; adult eagle perching on nest- loon fishing on north part of lake.  
+06/25/2009,Cloudy to partly sunny- 70 degrees- light breeze- with the refections took a while to get a good reading; water has what looks like tree pollen in it; eaglet perching on nest - no adults around; loon feeding in nw bay; osprey fishing in west bay.  So. nyiad can be seen growing/spreading around bays.
+07/12/2009,67 degrees- mostly sunny- breezy; water appeared very clear-clearest since beginning of season's monitoring; naiad infestation starting to emerge above surface by Kerecman's property (sw bay); pair of loons in the northwest bay area feeding - no young with them; one loon over by the Manitowish River;  eaglet was not perched on nest - could not spot.
+08/08/2009,Cloudy- but bright- 67 degrees- eaglet perched alone on nest- 3 loons flew in to fish- blue heron hunting in the southwestern bay- adult loon swimming northwest of the culvert leading to Rush lake; no sign of the loon chick in that area.  The southern naiad infestation apparent in most of the shallow bays I was in.  Over by Wittigs resort it is floating on the water's surface.
+08/26/2009,Sunny- 74 degrees- very light breeze- adult eagle perched on middle island- saw naiad infestation evident in Manitowish River - as far as 1/4 mile from the lake- lake water had very small pollen like matter floating throughout it. 
+09/30/2009,Sunny- 58 degrees- lightly breezy.  Just had a couple of days of rain and the temperatures have dropped.  One fall/winter feathered loon sighted in the northwest bay feeding.  
+05/17/2010,Mostly sunny- 70's- light to medium breeze.  2 Loons feeding - one by Manitowish River- the other east of the islands.  Two herons fishing in the bay northwest of the islands.  Eagles nest was quiet.  High water clarity; aquatic vegetation just beginning its growth.
+06/10/2010,Mostly sunny-72 degrees- light breeze
+07/06/2010,Sunny- 65 degrees- calm winds; two adult loons in SW bay; two additional adult loons by islands.  water level up 6-8 inches from early June (from June rains )
+08/26/2010,Mostly sunny- 80 degrees- slight breeze
+09/13/2010,Mostly sunny- 72 degrees- light breeze- one adult eagle perched by eagle nest- 3 adult loons at culvert end of lake- water levels seem higher than in last few years.
+10/05/2010,Sunny- 75 degrees- light breeze- water levels definitely up- no loons- eagles or herons around lake this afternoon.
+06/13/2011,Lost monitoring notes - found measuring data
+06/25/2011,lost monitoring notes- found data
+07/06/2011,60 degrees- overcast skies- no breeze.  Nesting loons do not appear to have chicks that survived this year.  Saw 8-10 loons that ended up grouping together on the lake - 2 might have been the same seen twice. Heard an eaglet in the area of the nest but could not see it.  Saw an adult eagle perched on one of the islands trees.
+07/15/2011,Wind 5-7 mph.
+Sunny- rain 2 days ago.
+1 loon nearby.
+08/27/2011,N-Nw wind at 10-12mph.  Sunny.  Trace of rain 1 day prior to testing.  Minimal boat activity and 2 adult loons nearby.
+06/26/2012,Minimal boat traffic.  Light wind on a sunny day.  One adult loon nearby. minimal boat traffic- light windy- sunny- 1 adult loon
+07/23/2012,Wind @ 10-12 knots.  2 loons nearby.  Mostly clear skies with no boat traffic and a tempurature of 85 degrees. George and Mary Sturm- Carolyn Sturm- Chris and Amy Suprise with Ella - Helen and Elise present for the lake monitoring.
+08/28/2012,Partly cloudy. wind 2 mph. Calm.  2 loons nearby.
+06/19/2013,Pair of loons- eagles active- white fluffy clouds.
+07/24/2013,Cool beautiful morning.  Moderate lake activity.  Pair of eagles with young- loons and beavers spotted today.
+08/20/2013,Windy today.  Partly sunny with light boat traffic.  George and Mary Sturm- Chris- Amy- Ella and Helen Surprise on the boat for the sampling. The lake is beautiful today. 
+07/14/2014,Observed 9 loons in a group. Observed 2 eagles.
+07/21/2014,One pair on loons on the lake.  Wind at 5 MPH from the south.
+08/20/2014,It was partly cloudy day after a rather cold and damp night. Two Loons assisted us with the water sampling today. Also saw the Heron and the Osprey on the way to the 'deep hole'. Some Kayakers paddling away near the shore and a few fisherman out enjoying the afternoon.  George and Mary Sturm- Chris and Ella doing the testing today.
+07/07/2015,Partly Cloudy
+Slight N Wind
+07/07/2016,light rain following a few clear days
+07/15/2016,Very clear- beautiful
+07/25/2016,big storms in the prior week- water was definitely cloudy compared to previous observance
+09/15/2019,overcast- slight breeze. Cool 60 degrees. Saw 2 loons on the lake- 1 young. Cloudy. 60 degrees water temperature. Lots of rain this past week. No birds. Boat ran out of gas. Fortunately- no rain. Cloudy. 60 degrees water temperature. Lots of rain this past week. No birds. Boat ran out of gas. Fortunately- no rain.   
+10/01/2019,cloudy. 60 degrees water temperature. Lots of rain last week. No birds. Boat ran out of gas- fortunately no rain.
+10/21/2019,clear skies. 47 degrees water temperature. a few gulls.
+05/26/2020,67 degrees cloudy no birds/wildlife
+06/09/2020,sunny- 68- eagle and heron
+06/25/2020,sunny
+07/13/2020,partly sunny- water temp 80- seagulls
+08/13/2020,party sunny- water temp 74- seagulls-3 loons- grandson reporting dragonflies.
+09/13/2020,sunny- water temp 62- seagulls and 2 loons
+09/30/2020,parly sunn- water temp 60. no birds
+10/14/2020,rainy/overcast.water temp 54. seagull
+10/30/2020,sunny. water temp 39.mallards and wood ducks.
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1984,Data Collectors,Migrated from STORET Legacy
+10/08/1985,Data Collectors,Migrated from STORET Legacy
+05/29/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/27/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/10/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/28/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/04/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/11/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/25/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/12/2008,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/01/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/14/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/25/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/12/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/08/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/26/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/30/2009,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+05/17/2010,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/10/2010,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/06/2010,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/26/2010,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/13/2010,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+10/05/2010,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/13/2011,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/25/2011,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/06/2011,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/15/2011,Chris Suprise,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/26/2011,Chris Suprise,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/27/2011,Chris Suprise,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/27/2011,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+03/29/2012,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/26/2012,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/23/2012,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/28/2012,Chris Suprise,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/28/2012,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+02/26/2013,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+05/15/2013,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+05/26/2013,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/19/2013,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/20/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/24/2013,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/29/2013,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+08/20/2013,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/28/2013,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+09/12/2013,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+05/13/2014,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/25/2014,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/14/2014,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+07/14/2014,Data Collectors,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 1
+07/21/2014,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/20/2014,George Sturm,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/23/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/23/2015,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/07/2015,Angie Stine,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 2
+07/07/2015,Data Collectors,HIGH-FISHTRAP-RUSH LKS ASSOC: High-Fishtrap-Rush Lakes Stewardship Program- Phase 2
+07/14/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/30/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/04/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/12/2015,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/13/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/27/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/01/2015,Leslie Gauberti,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/01/2015,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/24/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/07/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/15/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/25/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/05/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/12/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/13/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/16/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/23/2016,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+04/11/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+05/13/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/04/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/12/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/03/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/11/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/12/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/27/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/03/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/14/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/23/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/30/2017,Robert Hellyer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/15/2019,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+10/01/2019,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+10/21/2019,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+05/09/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+05/26/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/09/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+06/25/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+07/13/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/13/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+08/30/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/13/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+09/30/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+10/14/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole
+10/30/2020,Cathy Royer- Henry Royer,Citizen Lake Monitoring - Water Quality - Fishtrap Lake; Deep Hole

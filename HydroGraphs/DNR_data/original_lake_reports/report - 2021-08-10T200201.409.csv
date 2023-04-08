@@ -1,0 +1,664 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Nelson Lake,Sawyer,2704200,NO,58,,583168,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189957,08/13/2001,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189961,08/20/2001,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189958,09/01/2001,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189959,09/05/2001,3.25,NO,1,,,60,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189961,09/15/2001,3.25,NO,1,,,60,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189961,09/20/2001,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189960,09/27/2001,3.25,NO,1,,,60,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189962,10/07/2001,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189962,10/12/2001,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,05/01/2002,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,05/07/2002,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,05/13/2002,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,05/20/2002,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,06/10/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,07/01/2002,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,07/11/2002,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,07/16/2002,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189961,07/24/2002,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189961,08/02/2002,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,08/09/2002,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,08/24/2002,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,08/30/2002,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,09/06/2002,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,09/15/2002,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189961,09/21/2002,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,09/27/2002,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189961,10/05/2002,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189961,10/16/2002,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,10/20/2002,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,05/03/2003,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,05/13/2003,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,05/19/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189957,05/29/2003,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188968,06/05/2003,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,06/29/2003,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,07/08/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,07/22/2003,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,08/02/2003,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,08/09/2003,5.25,NO,1.6,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189960,08/25/2003,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189961,09/07/2003,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189961,10/10/2003,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,05/05/2004,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,05/18/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,06/04/2004,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,06/06/2004,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189960,06/22/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189957,06/29/2004,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,07/09/2004,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,07/15/2004,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189957,07/24/2004,4.25,NO,1.3,,,56,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189961,07/31/2004,3,NO,0.9,,,61,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189961,08/14/2004,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189961,08/23/2004,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189961,09/08/2004,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189961,09/23/2004,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,10/19/2004,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,05/03/2005,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,05/16/2005,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,05/24/2005,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191435,06/21/2005,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,07/04/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191434,07/19/2005,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189957,07/25/2005,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,08/02/2005,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189957,08/10/2005,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191435,08/22/2005,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191434,09/20/2005,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189961,10/08/2005,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191434,10/18/2005,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,05/16/2006,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,06/08/2006,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,06/23/2006,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,07/08/2006,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,07/18/2006,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189957,07/28/2006,5.25,NO,1.6,,,53,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191434,08/21/2006,5,NO,1.5,,,54,,,LOW,,MURKY,,2-Very minor aesthetic problems
+8189957,08/31/2006,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189960,09/18/2006,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191434,05/03/2007,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189960,05/09/2007,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,05/25/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189957,06/06/2007,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,06/25/2007,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189957,07/09/2007,9.75,NO,3,,,44,,,LOW,,CLEAR,BROWN,
+8189961,07/16/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191434,07/24/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,08/30/2007,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,05/05/2008,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,06/18/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,06/20/2008,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,07/06/2008,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,07/14/2008,3.5,NO,1.1,,,59,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,08/02/2008,3.5,NO,1.1,,,59,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8189960,08/27/2008,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189961,09/24/2008,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8189961,05/11/2009,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189960,06/06/2009,5.75,NO,1.7,,,52,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189957,06/21/2009,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189961,07/07/2009,6,NO,1.8,,,51,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8189960,07/27/2009,5.5,NO,1.7,,,53,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191434,08/31/2009,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8189961,04/27/2010,7.5,NO,2.3,,,48,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189957,06/01/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189957,07/06/2010,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189960,07/26/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189957,08/13/2010,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189960,08/23/2010,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,09/09/2010,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,06/28/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,07/21/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,08/14/2011,3,NO,0.9,,,61,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191434,08/22/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189961,09/07/2011,2,NO,0.6,,,67,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8189961,10/09/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,04/17/2012,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,05/14/2012,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,06/07/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189961,07/19/2012,2.5,NO,0.8,,,64,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189961,08/12/2012,2.5,NO,0.8,,,64,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189961,09/06/2012,4,NO,1.2,,,57,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,06/13/2013,2.5,NO,0.8,,,63,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,06/29/2013,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,07/15/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,08/01/2013,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/16/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,09/03/2013,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+81688587,09/17/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+81688587,10/02/2013,6,NO,1.8,,,51,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+81688587,05/07/2014,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,05/23/2014,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/08/2014,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/16/2014,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/24/2014,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,07/02/2014,3.8,NO,1.2,,,58,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,07/10/2014,3.8,NO,1.2,,,58,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,07/26/2014,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/03/2014,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/27/2014,3.2,NO,1,,,60,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,09/20/2014,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,05/02/2015,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/02/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/11/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/19/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/27/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,07/05/2015,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,07/13/2015,4.75,NO,1.4,,,55,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,07/20/2015,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,07/30/2015,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/06/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/14/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+81688587,08/29/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+81688587,09/07/2015,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,09/15/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,10/02/2015,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,05/12/2016,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,05/20/2016,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/05/2016,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/13/2016,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/21/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/29/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,07/15/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,07/23/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,07/31/2016,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/08/2016,1.5,NO,0.5,,,71,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,09/09/2016,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,10/10/2016,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,05/15/2017,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,05/31/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,06/05/2017,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,07/02/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,07/10/2017,4,NO,1.2,,,57,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,07/24/2017,5,NO,1.5,,,54,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81688587,08/11/2017,3.25,NO,1,,,60,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/19/2017,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+81688587,08/27/2017,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+81688587,09/04/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+81688587,09/15/2017,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+81688587,10/06/2017,3.5,NO,1.1,,,59,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+169822517,05/08/2018,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,05/22/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,06/05/2018,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+169822517,06/19/2018,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+169822517,07/10/2018,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+169822517,07/24/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,08/07/2018,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+169822517,08/22/2018,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+169822517,09/04/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+169822517,09/18/2018,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,05/08/2019,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,05/14/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,05/28/2019,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,06/08/2019,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,06/19/2019,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,06/28/2019,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,07/16/2019,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+169822517,08/06/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+169822517,08/20/2019,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+169822517,09/08/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+169822517,09/28/2019,4.5,NO,1.4,,,55,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+169822517,10/19/2019,5,NO,1.5,,,54,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+169822517,04/19/2020,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,05/05/2020,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,05/24/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,06/06/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,06/23/2020,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,07/13/2020,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,08/23/2020,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169822517,09/04/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/2015,0,FEET,67.5,DEGREES F,,
+06/05/2017,0,FEET,69.4,DEGREES F,,
+07/02/2017,0,FEET,76.6,DEGREES F,,
+07/10/2017,0,FEET,76.7,DEGREES F,,
+07/24/2017,0,FEET,75.1,DEGREES F,,
+08/11/2017,0,FEET,79.9,DEGREES F,,
+08/19/2017,0,FEET,71.1,DEGREES F,,
+08/27/2017,0,FEET,64.5,DEGREES F,,
+09/04/2017,0,FEET,66.8,DEGREES F,,
+09/15/2017,0,FEET,70.7,DEGREES F,,
+10/06/2017,0,FEET,58.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/13/2001,Partly cloudy and slightly cooler after two weeks of hot and humid weather.    
+09/15/2001,Mostly cloudy- cool- and adult and young eagle on Partner Island.    
+09/27/2001,Bright sun and some algae.    
+05/01/2002,Bright- Calm Day.    
+06/10/2002,Some pollen on surface-  Loon pair near island
+
+    
+07/01/2002,Water temp @ 2' 81 F-  Some Algae
+
+    
+07/11/2002,Water temp @ 2' 75 F-  Algae
+
+    
+07/16/2002,Temp @ 2' 82 F-  lots of algae.  Water color 90 Hach color disk.    
+07/24/2002,Temp @ 2' 77 F-  a lot of algae.  Water color 95 hach color disk.    
+08/02/2002,water temp @ 2' 78F- some algae.  Water color 75 Hach color disk.    
+08/09/2002,Water temperature @ 2 feet 75F
+
+    
+08/24/2002,Water temperature at 2 feet 74F
+
+    
+08/30/2002,Water temperature at 2 feet 74F
+
+    
+09/06/2002,Water temp. at 2ft 67F
+
+    
+09/15/2002,Partly cloudy- calm.  63 F air temp. Color 60. Green algae slick.    
+09/21/2002,58 F air temp- overcast with sun.  Slight breeze. Color 60. 4 boats.    
+09/27/2002,Water temp at 2ft 58F-  Lots of algae on the surface.
+
+    
+10/05/2002,Water temp at 2ft 54F-  2 1/2 inches rain yesteday.
+
+    
+10/16/2002,Water temp at 2ft 46F-  some algae
+
+    
+10/20/2002,Water temp 43 F at 2 feet.  Color 55.  Partly cloudy.    
+05/03/2003,bright sunny day- water temp 57F @ 2'.
+
+
+    
+05/13/2003,partly cloudy- calm- water temp 54F @ 2ft- 42F @
+bottom (29.5ft)- 3+ inches rain past week- Totagatic River + Tag Alder
+Creek running high- perfect spring day.    
+05/19/2003,bright sunny day- some algae- water temp 74.5F @ 2'.    
+05/29/2003,very light winds- sunny- pollen in the water near
+shore-  eagle in flight- 5 fishing boats- air temp 63F    
+06/05/2003,Sunny- light wind- water temp 68 F at 2'. Thermocline at 18' at 54 F. 2 loons.    
+06/29/2003,sunny- 2 baby loons- some algae- water temp 70F @ 2'.    
+07/08/2003,sunny- some algae- water temp 79F @ 2'.    
+07/22/2003,sunny- water temp 73.8F @ 2'- pair of loons but only 1
+little one.    
+08/02/2003,water temp 77.6F @ 2'.
+
+
+    
+08/09/2003,Water temp at 2ft 75.8 F. Quite a bit of algae.
+    
+08/25/2003,Water temp at 2ft 76.5F-  lots of algae
+    
+09/07/2003,Water temp at 2ft 76.6F-  lake is pea soup.
+    
+10/10/2003,water temp at 2'   56.2F
+    
+05/05/2004,Water temp at 2' 53 F.  Two swans at Partner Island    
+05/18/2004,sunny- calm- 58F- 2 white trumpeter swans- - 2 fishing boats- perfect day    
+06/04/2004,partly cloudy- light winds- beautiful day- kids swimming- 3 fishing boats- 2 white swans    
+06/06/2004,Water temp. at 2'- 70 F.  Two swans at Stacy Island.    
+06/22/2004,Partly cloudy- water temp at 2' 67.4 F.    
+06/29/2004,partly cloudy- light winds- nice day- 2 fishing boats    
+07/09/2004,Partly cloudy- water temp. at 2' 67.6 F.    
+07/15/2004,Partly cloudy- water temp at 2' 81.6 F.    
+07/24/2004,65F- partly cloudy- light winds- 7 boats    
+07/31/2004,water temp @ 2'  73.4 F    
+08/14/2004,Sunny- water temp @ 2'  68.3F- water is pea soup    
+08/23/2004,Hazy + light wind-  water temp @ 2'  67.9F    
+09/08/2004,Partly cloudy-  water temp @ 2'  65.6F    
+09/23/2004,Sunny- water temp @ 2' 66.7F    
+10/19/2004,Overcast- water temp.@ 2' 45F    
+05/03/2005,Water temp at 3'  44.8 F  Ice out 04/10/2005    
+05/16/2005,Water temp at 3' 51.8 F    
+05/24/2005,Light winds- partly cloudy- beautiful day- 2 boats fishing.    
+06/21/2005,Water temp. at 3' 73.5 F    
+07/04/2005,Water temp. at 3' 75.6 F    
+07/19/2005,Water temp. at 3' 77.7F    
+07/25/2005,Overcast with breaks in clouds- 1 fishing boats- light winds- 78.9F water temp- 3 swimmers in middle of lake with life jackets.    
+08/02/2005,Water temp at 3' 79.0F  Dryest July on record.    
+08/10/2005,Clear sky- air temp 70F- water temp 77.6F- 2 boats fishing- 1 boat cruising.    
+09/20/2005,Water temp at 3' 67.4F.  Driest August on record.    
+10/08/2005,Water temp at 3' 55.4F.  Five inch rain last week.    
+10/18/2005,Water temp at 3' 52.8F    
+05/16/2006,Loon nest on bog east of Stacy Island.
+06/08/2006,Clear with light clouds- light winds- 5 fishing boats sighted
+06/23/2006,Loon nest has been washed out. Water temp at 2 feet 76.6F
+07/08/2006,Blue sky with light clouds- windy- 77F water temp.- 1 pontoon beached (swimming)- gorgeous day- 1 fishing boat.
+07/18/2006,Water temp at 2 feet 80.4 F
+07/28/2006,Very muggy + hot- partly cloudy- 2 boats cruising- 3 boats fishing- light winds.  Water temp at 2 feet 85.0 F
+08/21/2006,Water temp at 2 feet 75.0 F.  Water temp at 33 feet 50.2 F
+08/31/2006,Clear- sunny- light winds- 4 fishing boats.
+09/18/2006,Water temp at 2 feet 64.0 F.  Water level extremely low.
+05/03/2007,Clear sky- water temp at 2 ft 64 deg F.
+05/09/2007,Clear sky- water temp at 2ft 64.8 deg F
+05/25/2007,Clear sky- water temp at 2ft 63 deg F
+06/06/2007,Partly cloudy- light winds- 3 fishing boats- loon on nest at bog- nice day
+06/25/2007,Water temp at 2ft 78.2 deg F
+07/09/2007,Light winds- sunny- 81.4 F water temp- 4 fishing boats- 1 eagle
+07/16/2007,Water temp at 2ft 72.3 deg F
+07/24/2007,Water temp at 2ft 76.4 deg F
+08/30/2007,Water temp at 2ft 72.6 deg F
+05/05/2008,water temp at 2ft 49.4F
+06/18/2008,water temp at 2ft 67.2F
+06/20/2008,10 boats fishing- water temp at 2ft 72.6F
+07/14/2008,water temp at 2ft 77.2F
+08/02/2008,water temp at 2ft 77.4F
+08/27/2008,water temp at 2ft 69.2F
+09/24/2008,water temp at 2ft 64.6F
+05/11/2009,Water temp at 2ft 55.4 degrees F
+06/06/2009,Water temp at 2ft 65.0 degrees F
+06/21/2009,Water temp at 2ft 76.5 degrees F
+07/07/2009,Water temp at 2ft 72.8 degrees F
+07/27/2009,Water temp at 2ft 73.0 degrees F
+08/31/2009,Water temp at 2ft 66 degrees F
+04/27/2010,Water temp 55.2F at 2 ft. 
+06/01/2010,67 degree air temp- partly cloudy- light winds- 1 boat fishing
+07/06/2010,78 degree water temp- partly cloudy- muggy/very warm- 3 boats crusing- 4 boats fishing
+07/26/2010,Water temp 78F at  2 ft. 
+08/13/2010,78.2 water temp- cloudy with some sun- 2 jet ske- algae has diminished
+08/23/2010,Water temp 72.2F at 2 ft. 
+09/09/2010,Water temp 61.6F at 2 ft. 
+06/28/2011,Water temp @  2ft 68.8 F
+07/21/2011,Water temp @ 2ft 81.8 F
+08/14/2011,Water temp @ 2ft 74.4 F
+08/22/2011,Water temp @ 2ft 75.2 F
+09/07/2011,Water temp @ 2ft 68.6 F
+10/09/2011,Water temp @ 2ft 62.6 F
+04/17/2012,Water temp at 2 feet 47 F
+05/14/2012,Water temp at 2 feet 69.8 F
+06/07/2012,Water temp aty 2 feet 74.0 F
+07/19/2012,Water temp at 2 feet 78.0 F
+08/12/2012,Water temp at 2 feet 73.1 F
+09/06/2012,Water temp at 2 feet 75.5 F
+06/13/2013,Partly cloudy day 
+06/13/2013,partly cloudy 
+06/29/2013,Hazy sun
+07/15/2013,Partly cloudy
+08/01/2013,Partly cloudy
+08/16/2013,Mostly sunny
+09/03/2013,Mostly sunny with some thin clouds
+09/17/2013,Clear and sunny day
+10/02/2013,Clear and sunny- no wind- Algae on top- forecast for rain Oct 3-6 so took reading a day early.
+05/07/2014,Sunny with thin clouds Clear sky 
+05/23/2014,Clear sky
+06/08/2014,Clear sky
+06/16/2014,Mostly clear sky
+06/24/2014,Mostly clear and sunny- wind north at 2mph.
+07/02/2014,Sunny with scattered thin clouds- wind North @ 2mph
+07/10/2014,Partly cloudy- wind South @ 9mph- a little algea bloom starting in quiet bays.
+07/26/2014,Clear sky
+08/03/2014,Clear sky with hazy sun due to smoke from Canadian fires.
+08/27/2014,Partly cloudy but sunny while taking measurement
+09/20/2014,Partly cloudy but sunny while taking measurement
+05/02/2015,Clear sky
+06/02/2015,Thin clouds but sunny
+06/11/2015,Mostly thin clouds but sun visible
+06/19/2015,Mostly thin clouds with occasional sun
+06/27/2015,Mostly clear and sunny with thin scattered white clouds
+07/05/2015,Partly cloudy with haze- wind S 10
+07/13/2015,Mostly cloudy with some sun- 1 inch rain last night raised water level. 
+07/20/2015,Partly cloudy- wind NW@15
+07/30/2015,Clear sky- wind WNW@8mph
+08/06/2015,Cloudy- wind W@4mph
+08/14/2015,Mostly sunny- calm
+08/29/2015,Hazy sun. 
+09/07/2015,Mostly sunny- calm
+09/15/2015,Clear sky
+10/02/2015,Partly cloudy
+05/12/2016,Mostly cloudy with some sun
+05/20/2016,Partly cloudy- water temp 61.5
+06/05/2016,Partly cloudy- water temp 68.4
+06/13/2016,Cloudy- water temp 68.9
+06/21/2016,Clear- 15 mph wind- water temp 70.1
+06/29/2016,Hazy sun- 8 mph wind from west- water temp 73.5
+07/15/2016,Recent heavy rains- Lake at highest level ever seen in history- docks under water. 
+07/23/2016,Hazy sun
+07/31/2016,Clear- water temp 75.6
+08/08/2016,Partly cloudy
+05/15/2017,Clear sky Partly cloudy Partly cloudy Partly cloudy Partly cloudy Partly cloudy
+05/31/2017,Partly cloudy
+06/05/2017,Clear sky
+07/02/2017,Partly cloudy
+07/10/2017,Partly cloudy
+07/24/2017,Partly cloudy
+08/11/2017,Partly cloudy- wind N 10mph
+08/19/2017,Hazy sky- wind WSW 7mph
+08/27/2017,Cloudy sky- wind N 3mph
+09/04/2017,Partly cloudy
+09/15/2017,Mostly cloudy Mostly cloudy
+10/06/2017,Clear sky
+05/08/2019,49 F   light winds 49 F   pt cloudy   light winds
+05/14/2019,58 F   full sun   light winds
+05/28/2019,62 F   pt cloudy   light winds
+06/08/2019,71 F   clear sky   medium winds
+06/19/2019,71 F   clear sky   light winds
+06/28/2019,73 F   pt cloudy sky   light winds
+07/16/2019,79 F   cloudy sky   light winds
+08/06/2019,81 F   pt cloudy    light breeze   algae bloom since Aug 1st
+08/20/2019,74 F   pt cloudy   light breeze   algae bloom gone
+09/08/2019,65 F   clear sky   light breeze
+09/28/2019,64 F   clear sky   light NW breeze
+10/19/2019,49 F   pt cloudy sky   light breeze
+
+
+
+
+Start Date,Group Name,Project Name
+08/13/2001,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/20/2001,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/01/2001,Daniel Vertanen And Eldon Johnson,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/05/2001,Daniel Vertanen And Robert Terry,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/15/2001,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/20/2001,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/27/2001,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/07/2001,Robert Terry,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/12/2001,Robert Terry,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/01/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/07/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/13/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/20/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/10/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/01/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/11/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/16/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/24/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/02/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/09/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/24/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/30/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/06/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/15/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/21/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/27/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/05/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/16/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/20/2002,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/03/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/13/2003,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/19/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/29/2003,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/05/2003,Daniel Vertanen- Jim Johnson and William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/29/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/08/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/22/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/02/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/09/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/25/2003,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/07/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/10/2003,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/05/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/18/2004,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/04/2004,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/06/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/22/2004,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/29/2004,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/09/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/15/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/24/2004,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/31/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/14/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/23/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/08/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/23/2004,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/19/2004,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/03/2005,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/16/2005,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/24/2005,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/21/2005,Bill Wilcox and Mel Gavin,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/04/2005,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/19/2005,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/25/2005,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/02/2005,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/10/2005,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/22/2005,Bill Wilcox and Mel Gavin,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/20/2005,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/08/2005,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/18/2005,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/16/2006,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/08/2006,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/23/2006,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/08/2006,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/18/2006,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/28/2006,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/21/2006,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/31/2006,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/18/2006,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/03/2007,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/09/2007,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/25/2007,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/06/2007,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/25/2007,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/09/2007,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/16/2007,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/24/2007,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/30/2007,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/05/2008,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/18/2008,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/20/2008,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/06/2008,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/14/2008,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/02/2008,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/27/2008,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/24/2008,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/11/2009,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/06/2009,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/21/2009,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/07/2009,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/27/2009,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/31/2009,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+04/27/2010,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/01/2010,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/06/2010,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/26/2010,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/13/2010,Daniel Vertanen,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/23/2010,Daniel Vertanen And William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/09/2010,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/28/2011,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/21/2011,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/14/2011,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/22/2011,Bill Wilcox and Al Minar,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/07/2011,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/09/2011,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+04/17/2012,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/14/2012,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/07/2012,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/19/2012,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/12/2012,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/06/2012,William Wilcox,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/13/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/29/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/15/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/01/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/16/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/03/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/17/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/02/2013,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/07/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/23/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/08/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/16/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/24/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/02/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/10/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/26/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/03/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/27/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/20/2014,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/02/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/02/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/11/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/19/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/27/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/05/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/13/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/20/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/30/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/06/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/14/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/29/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/07/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/15/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/02/2015,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/12/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/20/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/05/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/13/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/21/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/29/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/15/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/23/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/31/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/08/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/09/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/10/2016,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/15/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/31/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/05/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/02/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/10/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/24/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/11/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/19/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/27/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/04/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/15/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/06/2017,Rick Lindner,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/08/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/22/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/05/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/19/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/10/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/24/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/07/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/22/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/04/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/18/2018,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/08/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/14/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/28/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/08/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/19/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/28/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/16/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/06/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/20/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/08/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/28/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+10/19/2019,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+04/19/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/05/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+05/24/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/06/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+06/23/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+07/13/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+08/23/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole
+09/04/2020,Steve Bilitz,Citizen Lake Monitoring - Water Quality - Nelson Lake; Site A Deep Hole

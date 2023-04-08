@@ -1,0 +1,725 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Altoona Lake,Eau Claire,2128100,WC,18,,184002,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188631,08/09/1979,,,,30.73,59,,60,61,,,,,
+8188631,07/24/2012,,,,,,,,,,,,,
+10589084,07/24/2012,2,NO,0.6,45.3,144,67,67,64,,,,,
+8188631,08/15/2012,,,,,,,,,,,,,
+10589084,08/15/2012,1.6,NO,0.5,70.5,139,70,66,67,,,,,
+8188631,09/12/2012,,,,,,,,,,,,,
+10589084,09/12/2012,1.6,NO,0.5,42.5,157,70,67,63,,,,,
+10589084,05/08/2013,3,NO,0.9,,84.3,61,62,,,,,,
+83263526,07/06/2013,1.75,NO,0.5,,,69,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+10589084,07/09/2013,2.95,N,0.9,37,121,62,65,62,,,,,
+83263526,07/29/2013,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+10589084,08/06/2013,3.3,NO,1,,,60,,,,,,,
+83263526,08/24/2013,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+10589084,09/04/2013,2.13,N,0.6,52.4,152,65,67,65,,,,,
+83263526,05/10/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,07/27/2014,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,08/01/2014,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,08/30/2014,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+83263526,04/18/2015,3.75,NO,1.1,,,58,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+83263526,06/27/2015,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,07/24/2015,2.75,NO,0.8,,,63,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+83263526,08/29/2015,3.25,NO,1,,,60,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+83263526,09/26/2015,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,05/07/2016,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,06/24/2016,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,07/23/2016,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+83263526,09/04/2016,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83263526,06/26/2017,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,05/19/2018,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+161784843,06/12/2018,2.75,NO,0.8,,,63,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+161784843,06/20/2018,1.5,,0.5,,,71,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+161784843,06/28/2018,2.5,,0.8,,,64,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+161784843,07/14/2018,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,07/22/2018,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161784843,07/29/2018,2,NO,0.6,,,67,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+161784843,08/14/2018,2.25,NO,0.7,,,65,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+161784843,08/23/2018,2,,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+161784843,08/31/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+161784843,09/08/2018,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,09/16/2018,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161784843,09/23/2018,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+161784843,04/14/2019,3.25,NO,1,,,60,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+161784843,04/23/2019,1.5,NO,0.5,,,71,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,05/04/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161784843,05/16/2019,2,,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,06/06/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,06/14/2019,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,06/22/2019,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,07/02/2019,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,07/08/2019,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,07/16/2019,3.25,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161784843,07/24/2019,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,08/01/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,08/27/2019,5.5,,1.7,,,53,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+161784843,04/11/2020,3.25,,1,,,60,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+161784843,04/27/2020,,,,,,,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+161784843,05/24/2020,4.25,,1.3,,,56,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+161784843,05/31/2020,2.5,,0.8,,,64,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+161784843,06/06/2020,2.5,,0.8,,,64,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+161784843,06/08/2020,3,,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+161784843,06/17/2020,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+161784843,06/24/2020,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,07/05/2020,5.25,,1.6,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+161784843,07/11/2020,4.75,,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161784843,07/19/2020,2.25,,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,07/27/2020,2.75,,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,08/09/2020,4.25,,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+161784843,08/11/2020,5,,1.5,,,54,,,NORMAL,,MURKY,,3-Enjoyment somewhat impaired (algae)
+161784843,08/20/2020,4.5,,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161784843,08/27/2020,4.25,,1.3,,,56,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+161784843,09/13/2020,4.5,,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,09/21/2020,3.5,,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,09/30/2020,2.75,,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161784843,10/07/2020,3,,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/09/1979,,,,,.1,MG/L
+07/24/2012,0,METERS,27.32,DEGREES C,9.48,MG/L
+07/24/2012,1,METERS,27.06,DEGREES C,8.16,MG/L
+07/24/2012,2,METERS,26.96,DEGREES C,6.7,MG/L
+07/24/2012,3,METERS,25.78,DEGREES C,2.75,MG/L
+07/24/2012,4,METERS,24.76,DEGREES C,.76,MG/L
+08/15/2012,0,METERS,23.35,DEGREES C,11.75,MG/L
+08/15/2012,1,METERS,23.31,DEGREES C,11.85,MG/L
+08/15/2012,2,METERS,22.55,DEGREES C,8.3,MG/L
+08/15/2012,3,METERS,22.25,DEGREES C,7.85,MG/L
+08/15/2012,4,METERS,22.02,DEGREES C,5.57,MG/L
+09/12/2012,0,METERS,20.62,DEGREES C,8.45,MG/L
+09/12/2012,1,METERS,20.64,DEGREES C,7.98,MG/L
+09/12/2012,2,METERS,20.63,DEGREES C,7.92,MG/L
+09/12/2012,3,METERS,20.63,DEGREES C,7.87,MG/L
+09/12/2012,4,METERS,20.6,DEGREES C,7.61,MG/L
+09/12/2012,5,METERS,19.84,DEGREES C,5.84,MG/L
+05/08/2013,0,METERS,16.5,DEGREES C,11.25,MG/L
+05/08/2013,1,METERS,12.99,DEGREES C,10.78,MG/L
+05/08/2013,2,METERS,11.82,DEGREES C,10.48,MG/L
+05/08/2013,3,METERS,10.44,DEGREES C,10.37,MG/L
+05/08/2013,4,METERS,9.67,DEGREES C,10.34,MG/L
+07/06/2013,3,FEET,77,DEGREES F,8.55,MG/L
+07/06/2013,6,FEET,76,DEGREES F,8.35,MG/L
+07/06/2013,9,FEET,73,DEGREES F,6.3,MG/L
+07/06/2013,12,FEET,70,DEGREES F,1.95,MG/L
+07/06/2013,15,FEET,69,DEGREES F,1.2,MG/L
+07/06/2013,17.6,FEET,69,DEGREES F,.92,MG/L
+07/09/2013,0,METERS,27.16,DEGREES C,9.66,MG/L
+07/09/2013,1,METERS,26.48,DEGREES C,9.4,MG/L
+07/09/2013,2,METERS,25.99,DEGREES C,8.63,MG/L
+07/09/2013,3,METERS,24.1,DEGREES C,5.51,MG/L
+07/09/2013,4,METERS,22.52,DEGREES C,3.33,MG/L
+07/09/2013,,,27.2,C,9.7,MG/L
+07/29/2013,3,FEET,71,DEGREES F,8.73,MG/L
+07/29/2013,6,FEET,70,DEGREES F,8.45,MG/L
+07/29/2013,9,FEET,67,DEGREES F,7.56,MG/L
+07/29/2013,12,FEET,66,DEGREES F,6.48,MG/L
+07/29/2013,15,FEET,67,DEGREES F,4.46,MG/L
+07/29/2013,17.6,FEET,67,DEGREES F,1.2,MG/L
+08/24/2013,3,FEET,76,DEGREES F,13.3,MG/L
+08/24/2013,6,FEET,75,DEGREES F,11.1,MG/L
+08/24/2013,9,FEET,72,DEGREES F,5.7,MG/L
+08/24/2013,12,FEET,69,DEGREES F,1.8,MG/L
+08/24/2013,15,FEET,68,DEGREES F,.2,MG/L
+08/24/2013,17.6,FEET,66,DEGREES F,.2,MG/L
+09/04/2013,0,METERS,24.82,DEGREES C,12.59,MG/L
+09/04/2013,1,METERS,23.66,DEGREES C,11.62,MG/L
+09/04/2013,2,METERS,23.2,DEGREES C,8.95,MG/L
+09/04/2013,3,METERS,23,DEGREES C,7.12,MG/L
+09/04/2013,4,METERS,21.85,DEGREES C,5.25,MG/L
+09/04/2013,5,METERS,20.9,DEGREES C,.6,MG/L
+09/04/2013,,,24.8,C,12.6,MG/L
+05/10/2014,3,FEET,14,DEGREES C,10.7,MG/L
+05/10/2014,6,FEET,12.4,DEGREES C,10.5,MG/L
+05/10/2014,9,FEET,12.1,DEGREES C,9.9,MG/L
+05/10/2014,12,FEET,12,DEGREES C,9.5,MG/L
+05/10/2014,15,FEET,11.9,DEGREES C,9.4,MG/L
+07/27/2014,3,FEET,23.3,DEGREES C,6.58,MG/L
+07/27/2014,6,FEET,23,DEGREES C,5.78,MG/L
+07/27/2014,9,FEET,22.8,DEGREES C,5.5,MG/L
+07/27/2014,12,FEET,22.4,DEGREES C,4.32,MG/L
+07/27/2014,15,FEET,21.5,DEGREES C,2.7,MG/L
+07/27/2014,17.6,FEET,21.4,DEGREES C,2.56,MG/L
+08/01/2014,3,FEET,23.5,DEGREES C,9.95,MG/L
+08/01/2014,6,FEET,23.4,DEGREES C,9.54,MG/L
+08/01/2014,9,FEET,23.4,DEGREES C,9.62,MG/L
+08/01/2014,12,FEET,23,DEGREES C,7.85,MG/L
+08/01/2014,15,FEET,22.5,DEGREES C,6.3,MG/L
+08/01/2014,17.6,FEET,21.4,DEGREES C,1.03,MG/L
+08/30/2014,3,FEET,23.5,DEGREES C,10.22,MG/L
+08/30/2014,6,FEET,23.4,DEGREES C,9.72,MG/L
+08/30/2014,9,FEET,23.2,DEGREES C,8.98,MG/L
+08/30/2014,12,FEET,23.1,DEGREES C,8.75,MG/L
+08/30/2014,15,FEET,21.8,DEGREES C,6.71,MG/L
+08/30/2014,17.4,FEET,21.5,DEGREES C,6.68,MG/L
+04/18/2015,3,FEET,14.3,DEGREES C,11.33,MG/L
+04/18/2015,6,FEET,14.2,DEGREES C,11.5,MG/L
+04/18/2015,9,FEET,14.1,DEGREES C,11.56,MG/L
+04/18/2015,12,FEET,13.9,DEGREES C,11.62,MG/L
+04/18/2015,15,FEET,12.1,DEGREES C,11.3,MG/L
+04/18/2015,17.5,FEET,10.1,DEGREES C,10.3,MG/L
+06/27/2015,3,FEET,24.1,DEGREES C,7.68,MG/L
+06/27/2015,6,FEET,23.8,DEGREES C,7.62,MG/L
+06/27/2015,9,FEET,23.6,DEGREES C,7.48,MG/L
+06/27/2015,12,FEET,22.6,DEGREES C,5.9,MG/L
+06/27/2015,15,FEET,22,DEGREES C,5.04,MG/L
+06/27/2015,17.5,FEET,21.6,DEGREES C,4.11,MG/L
+07/24/2015,3,FEET,26.5,DEGREES C,10.93,MG/L
+07/24/2015,6,FEET,25.2,DEGREES C,10.15,MG/L
+07/24/2015,9,FEET,24.8,DEGREES C,9.4,MG/L
+07/24/2015,12,FEET,24.2,DEGREES C,7.86,MG/L
+07/24/2015,15,FEET,23.9,DEGREES C,5.15,MG/L
+07/24/2015,17.5,FEET,23.4,DEGREES C,4.6,MG/L
+08/29/2015,3,FEET,19.3,DEGREES C,10.2,MG/L
+08/29/2015,6,FEET,19.1,DEGREES C,9.35,MG/L
+08/29/2015,9,FEET,19,DEGREES C,8.51,MG/L
+08/29/2015,12,FEET,18.3,DEGREES C,6.91,MG/L
+08/29/2015,15,FEET,17.8,DEGREES C,5.13,MG/L
+08/29/2015,17.5,FEET,17.6,DEGREES C,3.79,MG/L
+09/26/2015,3,FEET,20.6,DEGREES C,8.18,MG/L
+09/26/2015,6,FEET,19.5,DEGREES C,7.62,MG/L
+09/26/2015,9,FEET,19.3,DEGREES C,7.17,MG/L
+09/26/2015,12,FEET,18.9,DEGREES C,6.19,MG/L
+09/26/2015,15,FEET,18.5,DEGREES C,3.83,MG/L
+09/26/2015,17.6,FEET,18.1,DEGREES C,2.48,MG/L
+05/07/2016,3,FEET,16.2,DEGREES C,10.87,MG/L
+05/07/2016,6,FEET,16.1,DEGREES C,10.92,MG/L
+05/07/2016,9,FEET,16.2,DEGREES C,10.85,MG/L
+05/07/2016,12,FEET,16.1,DEGREES C,10.82,MG/L
+05/07/2016,15,FEET,16.1,DEGREES C,10.79,MG/L
+05/07/2016,17,FEET,14.8,DEGREES C,8.97,MG/L
+06/24/2016,3,FEET,25.1,DEGREES C,7.19,MG/L
+06/24/2016,6,FEET,25.1,DEGREES C,7.5,MG/L
+06/24/2016,9,FEET,24.7,DEGREES C,7.21,MG/L
+06/24/2016,12,FEET,24.3,DEGREES C,7.06,MG/L
+06/24/2016,15,FEET,23,DEGREES C,6.51,MG/L
+07/23/2016,3,FEET,28,DEGREES C,12.69,MG/L
+07/23/2016,6,FEET,27.6,DEGREES C,11.94,MG/L
+07/23/2016,9,FEET,25.9,DEGREES C,8.57,MG/L
+07/23/2016,12,FEET,24.8,DEGREES C,6.8,MG/L
+07/23/2016,15,FEET,23.5,DEGREES C,4.77,MG/L
+07/23/2016,17,FEET,22.9,DEGREES C,1.54,MG/L
+09/04/2016,3,FEET,21.9,DEGREES C,6.64,MG/L
+09/04/2016,6,FEET,21.6,DEGREES C,5.38,MG/L
+09/04/2016,9,FEET,21.4,DEGREES C,4.02,MG/L
+09/04/2016,12,FEET,21.1,DEGREES C,4.83,MG/L
+09/04/2016,15,FEET,20.7,DEGREES C,5.2,MG/L
+09/04/2016,17,FEET,20.7,DEGREES C,5.61,MG/L
+06/26/2017,3,FEET,19,DEGREES C,7.45,MG/L
+06/26/2017,6,FEET,18.9,DEGREES C,7.4,MG/L
+06/26/2017,9,FEET,18.8,DEGREES C,7.4,MG/L
+06/26/2017,12,FEET,18.8,DEGREES C,7.4,MG/L
+06/26/2017,15,FEET,18.8,DEGREES C,7.36,MG/L
+06/26/2017,16.5,FEET,18.6,DEGREES C,7.16,MG/L
+05/19/2018,3,FEET,67.4,DEGREES F,,
+05/19/2018,6,FEET,66.3,DEGREES F,,
+05/19/2018,9,FEET,65.6,DEGREES F,,
+05/19/2018,12,FEET,65.1,DEGREES F,,
+05/19/2018,15,FEET,62.4,DEGREES F,,
+05/19/2018,18,FEET,61.1,DEGREES F,,
+05/19/2018,21,FEET,61.1,DEGREES F,,
+06/12/2018,3,FEET,71.9,DEGREES F,,
+06/12/2018,6,FEET,71,DEGREES F,,
+06/12/2018,9,FEET,70.7,DEGREES F,,
+06/12/2018,12,FEET,70.1,DEGREES F,,
+06/12/2018,15,FEET,69.2,DEGREES F,,
+06/12/2018,18,FEET,69,DEGREES F,,
+06/12/2018,21,FEET,69,DEGREES F,,
+06/12/2018,24,FEET,69,DEGREES F,,
+06/20/2018,3,FEET,71.6,DEGREES F,,
+06/20/2018,6,FEET,71.2,DEGREES F,,
+06/20/2018,9,FEET,71,DEGREES F,,
+06/20/2018,12,FEET,71,DEGREES F,,
+06/20/2018,15,FEET,70.8,DEGREES F,,
+06/20/2018,18,FEET,70.5,DEGREES F,,
+06/20/2018,21,FEET,70.5,DEGREES F,,
+06/28/2018,3,FEET,76.2,DEGREES F,,
+06/28/2018,6,FEET,75.2,DEGREES F,,
+06/28/2018,9,FEET,71.9,DEGREES F,,
+06/28/2018,12,FEET,70.5,DEGREES F,,
+06/28/2018,15,FEET,69.6,DEGREES F,,
+06/28/2018,18,FEET,69.4,DEGREES F,,
+06/28/2018,21,FEET,69.2,DEGREES F,,
+06/28/2018,24,FEET,69.2,DEGREES F,,
+07/14/2018,3,FEET,81.8,DEGREES F,,
+07/14/2018,6,FEET,78,DEGREES F,,
+07/14/2018,9,FEET,77.3,DEGREES F,,
+07/14/2018,12,FEET,74.4,DEGREES F,,
+07/14/2018,15,FEET,73,DEGREES F,,
+07/14/2018,18,FEET,72.8,DEGREES F,,
+07/14/2018,21,FEET,72.8,DEGREES F,,
+07/22/2018,3,FEET,74.4,DEGREES F,,
+07/22/2018,6,FEET,74.4,DEGREES F,,
+07/22/2018,9,FEET,74.4,DEGREES F,,
+07/22/2018,12,FEET,74.3,DEGREES F,,
+07/22/2018,15,FEET,73.4,DEGREES F,,
+07/22/2018,18,FEET,73.2,DEGREES F,,
+07/22/2018,21,FEET,73.2,DEGREES F,,
+07/22/2018,24,FEET,73.2,DEGREES F,,
+07/29/2018,3,FEET,74.1,DEGREES F,,
+07/29/2018,6,FEET,73.4,DEGREES F,,
+07/29/2018,9,FEET,73.2,DEGREES F,,
+07/29/2018,12,FEET,71.9,DEGREES F,,
+07/29/2018,15,FEET,71,DEGREES F,,
+07/29/2018,18,FEET,70.8,DEGREES F,,
+07/29/2018,21,FEET,70.8,DEGREES F,,
+07/29/2018,24,FEET,70.8,DEGREES F,,
+08/14/2018,3,FEET,81.6,DEGREES F,,
+08/14/2018,6,FEET,79.8,DEGREES F,,
+08/14/2018,9,FEET,75.5,DEGREES F,,
+08/14/2018,12,FEET,73.7,DEGREES F,,
+08/14/2018,15,FEET,71.6,DEGREES F,,
+08/14/2018,18,FEET,70.8,DEGREES F,,
+08/14/2018,21,FEET,70.7,DEGREES F,,
+08/14/2018,24,FEET,70.5,DEGREES F,,
+08/23/2018,3,FEET,73.5,DEGREES F,,
+08/23/2018,6,FEET,73.4,DEGREES F,,
+08/23/2018,9,FEET,73.2,DEGREES F,,
+08/23/2018,12,FEET,71.9,DEGREES F,,
+08/23/2018,15,FEET,71.2,DEGREES F,,
+08/23/2018,18,FEET,70.8,DEGREES F,,
+08/23/2018,21,FEET,70.7,DEGREES F,,
+08/23/2018,24,FEET,70.5,DEGREES F,,
+08/31/2018,3,FEET,70.5,DEGREES F,,
+08/31/2018,6,FEET,69.8,DEGREES F,,
+08/31/2018,9,FEET,68.9,DEGREES F,,
+08/31/2018,12,FEET,68.5,DEGREES F,,
+08/31/2018,15,FEET,68.3,DEGREES F,,
+08/31/2018,18,FEET,68.3,DEGREES F,,
+08/31/2018,21,FEET,68.3,DEGREES F,,
+08/31/2018,24,FEET,68.3,DEGREES F,,
+09/08/2018,3,FEET,64.7,DEGREES F,,
+09/08/2018,6,FEET,64.7,DEGREES F,,
+09/08/2018,9,FEET,64.7,DEGREES F,,
+09/08/2018,12,FEET,64.7,DEGREES F,,
+09/08/2018,15,FEET,65.1,DEGREES F,,
+09/08/2018,18,FEET,65.1,DEGREES F,,
+09/08/2018,21,FEET,65.1,DEGREES F,,
+09/08/2018,24,FEET,65.1,DEGREES F,,
+09/16/2018,3,FEET,74.6,DEGREES F,,
+09/16/2018,6,FEET,73.7,DEGREES F,,
+09/16/2018,9,FEET,69.8,DEGREES F,,
+09/16/2018,12,FEET,67.4,DEGREES F,,
+09/16/2018,15,FEET,66.5,DEGREES F,,
+09/16/2018,18,FEET,66.2,DEGREES F,,
+09/16/2018,21,FEET,66.2,DEGREES F,,
+09/16/2018,24,FEET,66.2,DEGREES F,,
+09/23/2018,3,FEET,66.2,DEGREES F,,
+09/23/2018,6,FEET,66,DEGREES F,,
+09/23/2018,9,FEET,63.2,DEGREES F,,
+09/23/2018,12,FEET,62.4,DEGREES F,,
+09/23/2018,15,FEET,61.8,DEGREES F,,
+09/23/2018,18,FEET,61.8,DEGREES F,,
+09/23/2018,21,FEET,61.8,DEGREES F,,
+04/14/2019,3,FEET,38.6,DEGREES F,,
+04/14/2019,6,FEET,38.4,DEGREES F,,
+04/14/2019,9,FEET,38.4,DEGREES F,,
+04/14/2019,12,FEET,38.4,DEGREES F,,
+04/14/2019,15,FEET,38.4,DEGREES F,,
+04/14/2019,18,FEET,38.3,DEGREES F,,
+04/14/2019,21,FEET,38.3,DEGREES F,,
+04/14/2019,24,FEET,38.3,DEGREES F,,
+04/23/2019,3,FEET,48.5,DEGREES F,,
+04/23/2019,6,FEET,48,DEGREES F,,
+04/23/2019,9,FEET,47.6,DEGREES F,,
+04/23/2019,12,FEET,47.1,DEGREES F,,
+04/23/2019,15,FEET,46.7,DEGREES F,,
+04/23/2019,18,FEET,46.7,DEGREES F,,
+04/23/2019,21,FEET,46.7,DEGREES F,,
+05/04/2019,3,FEET,50.5,DEGREES F,,
+05/04/2019,6,FEET,49.6,DEGREES F,,
+05/04/2019,9,FEET,49.1,DEGREES F,,
+05/04/2019,12,FEET,48.2,DEGREES F,,
+05/04/2019,15,FEET,48,DEGREES F,,
+05/04/2019,18,FEET,48,DEGREES F,,
+05/04/2019,21,FEET,47.8,DEGREES F,,
+05/04/2019,24,FEET,47.8,DEGREES F,,
+05/16/2019,3,FEET,64.7,DEGREES F,,
+05/16/2019,6,FEET,63.9,DEGREES F,,
+05/16/2019,9,FEET,59,DEGREES F,,
+05/16/2019,12,FEET,54.6,DEGREES F,,
+05/16/2019,15,FEET,52.1,DEGREES F,,
+05/16/2019,18,FEET,52.1,DEGREES F,,
+05/16/2019,21,FEET,52,DEGREES F,,
+06/06/2019,3,FEET,69.8,DEGREES F,,
+06/06/2019,6,FEET,68.3,DEGREES F,,
+06/06/2019,9,FEET,66.2,DEGREES F,,
+06/06/2019,12,FEET,64.4,DEGREES F,,
+06/06/2019,15,FEET,62.6,DEGREES F,,
+06/06/2019,18,FEET,62,DEGREES F,,
+06/06/2019,21,FEET,62,DEGREES F,,
+06/06/2019,24,FEET,62,DEGREES F,,
+06/14/2019,3,FEET,67.2,DEGREES F,,
+06/14/2019,6,FEET,67.2,DEGREES F,,
+06/14/2019,9,FEET,67.2,DEGREES F,,
+06/14/2019,12,FEET,67.2,DEGREES F,,
+06/14/2019,15,FEET,67.2,DEGREES F,,
+06/14/2019,18,FEET,65.4,DEGREES F,,
+06/14/2019,21,FEET,65.4,DEGREES F,,
+06/14/2019,24,FEET,65.4,DEGREES F,,
+06/22/2019,3,FEET,69.8,DEGREES F,,
+06/22/2019,6,FEET,69.8,DEGREES F,,
+06/22/2019,9,FEET,69.6,DEGREES F,,
+06/22/2019,12,FEET,69.2,DEGREES F,,
+06/22/2019,15,FEET,68,DEGREES F,,
+06/22/2019,18,FEET,67.8,DEGREES F,,
+06/22/2019,21,FEET,68,DEGREES F,,
+06/22/2019,24,FEET,67.6,DEGREES F,,
+07/02/2019,3,FEET,72.9,DEGREES F,,
+07/02/2019,6,FEET,72.6,DEGREES F,,
+07/02/2019,9,FEET,71,DEGREES F,,
+07/02/2019,12,FEET,70.5,DEGREES F,,
+07/02/2019,15,FEET,70.1,DEGREES F,,
+07/02/2019,18,FEET,70.1,DEGREES F,,
+07/02/2019,21,FEET,69.9,DEGREES F,,
+07/02/2019,24,FEET,69.9,DEGREES F,,
+07/08/2019,3,FEET,76.8,DEGREES F,,
+07/08/2019,6,FEET,75.2,DEGREES F,,
+07/08/2019,9,FEET,73.9,DEGREES F,,
+07/08/2019,12,FEET,72.6,DEGREES F,,
+07/08/2019,15,FEET,71.4,DEGREES F,,
+07/08/2019,18,FEET,71,DEGREES F,,
+07/08/2019,21,FEET,70.8,DEGREES F,,
+07/08/2019,24,FEET,70.8,DEGREES F,,
+07/16/2019,3,FEET,79.8,DEGREES F,,
+07/16/2019,6,FEET,78.2,DEGREES F,,
+07/16/2019,9,FEET,77.9,DEGREES F,,
+07/16/2019,12,FEET,75.5,DEGREES F,,
+07/16/2019,15,FEET,73.7,DEGREES F,,
+07/16/2019,18,FEET,73.4,DEGREES F,,
+07/16/2019,21,FEET,73.2,DEGREES F,,
+07/16/2019,24,FEET,73.2,DEGREES F,,
+07/24/2019,3,FEET,72.3,DEGREES F,,
+07/24/2019,6,FEET,70.7,DEGREES F,,
+07/24/2019,9,FEET,69.6,DEGREES F,,
+07/24/2019,12,FEET,69.4,DEGREES F,,
+07/24/2019,15,FEET,69.6,DEGREES F,,
+07/24/2019,18,FEET,69.6,DEGREES F,,
+07/24/2019,21,FEET,69.6,DEGREES F,,
+08/01/2019,3,FEET,75.2,DEGREES F,,
+08/01/2019,6,FEET,73.7,DEGREES F,,
+08/01/2019,9,FEET,73,DEGREES F,,
+08/01/2019,12,FEET,71.6,DEGREES F,,
+08/01/2019,15,FEET,70.8,DEGREES F,,
+08/01/2019,18,FEET,70.5,DEGREES F,,
+08/01/2019,21,FEET,70.8,DEGREES F,,
+08/01/2019,24,FEET,70.5,DEGREES F,,
+08/27/2019,3,FEET,70.8,DEGREES F,,
+08/27/2019,6,FEET,70.8,DEGREES F,,
+08/27/2019,9,FEET,70.8,DEGREES F,,
+08/27/2019,12,FEET,70.7,DEGREES F,,
+08/27/2019,15,FEET,70.3,DEGREES F,,
+08/27/2019,18,FEET,69.8,DEGREES F,,
+08/27/2019,21,FEET,69.8,DEGREES F,,
+04/11/2020,3,FEET,45.3,DEGREES F,,
+04/11/2020,6,FEET,44.9,DEGREES F,,
+04/11/2020,9,FEET,44.9,DEGREES F,,
+04/11/2020,12,FEET,44.7,DEGREES F,,
+04/11/2020,15,FEET,44.7,DEGREES F,,
+04/11/2020,18,FEET,44.7,DEGREES F,,
+04/11/2020,21,FEET,44.7,DEGREES F,,
+04/27/2020,3,FEET,57.2,DEGREES F,,
+04/27/2020,6,FEET,55.5,DEGREES F,,
+04/27/2020,9,FEET,53,DEGREES F,,
+04/27/2020,12,FEET,50,DEGREES F,,
+04/27/2020,15,FEET,49.1,DEGREES F,,
+04/27/2020,18,FEET,48.9,DEGREES F,,
+04/27/2020,21,FEET,48.7,DEGREES F,,
+05/24/2020,3,FEET,66.5,DEGREES F,,
+05/24/2020,6,FEET,66,DEGREES F,,
+05/24/2020,9,FEET,65.3,DEGREES F,,
+05/24/2020,12,FEET,62.7,DEGREES F,,
+05/24/2020,15,FEET,61.9,DEGREES F,,
+05/24/2020,18,FEET,60.8,DEGREES F,,
+05/24/2020,21,FEET,60.8,DEGREES F,,
+05/31/2020,3,FEET,71.7,DEGREES F,,
+05/31/2020,6,FEET,68.5,DEGREES F,,
+05/31/2020,9,FEET,65.3,DEGREES F,,
+05/31/2020,12,FEET,64.2,DEGREES F,,
+05/31/2020,15,FEET,64.2,DEGREES F,,
+05/31/2020,18,FEET,64.2,DEGREES F,,
+05/31/2020,21,FEET,64.2,DEGREES F,,
+05/31/2020,23,FEET,64.2,DEGREES F,,
+06/06/2020,3,FEET,75.5,DEGREES F,,
+06/06/2020,6,FEET,75.5,DEGREES F,,
+06/06/2020,9,FEET,75.2,DEGREES F,,
+06/06/2020,12,FEET,75,DEGREES F,,
+06/06/2020,15,FEET,74.6,DEGREES F,,
+06/06/2020,18,FEET,73.5,DEGREES F,,
+06/06/2020,21,FEET,72.1,DEGREES F,,
+06/06/2020,24,FEET,69.4,DEGREES F,,
+06/08/2020,3,FEET,75.5,DEGREES F,,
+06/08/2020,6,FEET,74.3,DEGREES F,,
+06/08/2020,9,FEET,73.7,DEGREES F,,
+06/08/2020,12,FEET,72.3,DEGREES F,,
+06/08/2020,15,FEET,71,DEGREES F,,
+06/08/2020,18,FEET,70.3,DEGREES F,,
+06/08/2020,21,FEET,70.1,DEGREES F,,
+06/08/2020,24,FEET,70.1,DEGREES F,,
+06/17/2020,3,FEET,72.1,DEGREES F,,
+06/17/2020,6,FEET,71.9,DEGREES F,,
+06/17/2020,9,FEET,71.4,DEGREES F,,
+06/17/2020,12,FEET,69,DEGREES F,,
+06/17/2020,15,FEET,66.5,DEGREES F,,
+06/17/2020,18,FEET,66.7,DEGREES F,,
+06/17/2020,21,FEET,67.2,DEGREES F,,
+06/17/2020,24,FEET,67.2,DEGREES F,,
+06/24/2020,3,FEET,70.1,DEGREES F,,
+06/24/2020,6,FEET,69.9,DEGREES F,,
+06/24/2020,9,FEET,69.6,DEGREES F,,
+06/24/2020,12,FEET,69,DEGREES F,,
+06/24/2020,15,FEET,68.7,DEGREES F,,
+06/24/2020,18,FEET,68.7,DEGREES F,,
+06/24/2020,21,FEET,68.7,DEGREES F,,
+07/05/2020,3,FEET,85.8,DEGREES F,,
+07/05/2020,6,FEET,83.4,DEGREES F,,
+07/05/2020,9,FEET,79.1,DEGREES F,,
+07/05/2020,12,FEET,77.7,DEGREES F,,
+07/05/2020,15,FEET,75,DEGREES F,,
+07/05/2020,18,FEET,73.7,DEGREES F,,
+07/05/2020,21,FEET,73.7,DEGREES F,,
+07/05/2020,24,FEET,73.5,DEGREES F,,
+07/11/2020,3,FEET,81.3,DEGREES F,,
+07/11/2020,6,FEET,80.2,DEGREES F,,
+07/11/2020,9,FEET,79.7,DEGREES F,,
+07/11/2020,12,FEET,78.8,DEGREES F,,
+07/11/2020,15,FEET,76.4,DEGREES F,,
+07/11/2020,18,FEET,76.1,DEGREES F,,
+07/11/2020,21,FEET,75.7,DEGREES F,,
+07/11/2020,24,FEET,75.5,DEGREES F,,
+07/19/2020,3,FEET,75,DEGREES F,,
+07/19/2020,6,FEET,75,DEGREES F,,
+07/19/2020,9,FEET,74.6,DEGREES F,,
+07/19/2020,12,FEET,74.4,DEGREES F,,
+07/19/2020,15,FEET,73.7,DEGREES F,,
+07/19/2020,18,FEET,73.4,DEGREES F,,
+07/19/2020,21,FEET,73,DEGREES F,,
+07/19/2020,24,FEET,72.8,DEGREES F,,
+07/27/2020,3,FEET,76.4,DEGREES F,,
+07/27/2020,6,FEET,76.4,DEGREES F,,
+07/27/2020,9,FEET,76.2,DEGREES F,,
+07/27/2020,12,FEET,74.3,DEGREES F,,
+07/27/2020,15,FEET,72.5,DEGREES F,,
+07/27/2020,18,FEET,71.6,DEGREES F,,
+07/27/2020,21,FEET,71.4,DEGREES F,,
+08/09/2020,3,FEET,74.1,DEGREES F,,
+08/09/2020,6,FEET,74.1,DEGREES F,,
+08/09/2020,9,FEET,73.4,DEGREES F,,
+08/09/2020,12,FEET,71.4,DEGREES F,,
+08/09/2020,15,FEET,70.1,DEGREES F,,
+08/09/2020,18,FEET,69.8,DEGREES F,,
+08/09/2020,21,FEET,69.6,DEGREES F,,
+08/09/2020,24,FEET,69.6,DEGREES F,,
+08/11/2020,3,FEET,75,DEGREES F,,
+08/11/2020,6,FEET,74.1,DEGREES F,,
+08/11/2020,9,FEET,73.5,DEGREES F,,
+08/11/2020,12,FEET,72.3,DEGREES F,,
+08/11/2020,15,FEET,70.8,DEGREES F,,
+08/11/2020,18,FEET,70.5,DEGREES F,,
+08/11/2020,21,FEET,70.5,DEGREES F,,
+08/11/2020,24,FEET,70.3,DEGREES F,,
+08/20/2020,3,FEET,75.9,DEGREES F,,
+08/20/2020,6,FEET,75.9,DEGREES F,,
+08/20/2020,9,FEET,75.3,DEGREES F,,
+08/20/2020,12,FEET,73.4,DEGREES F,,
+08/20/2020,15,FEET,72.6,DEGREES F,,
+08/20/2020,18,FEET,72.3,DEGREES F,,
+08/20/2020,21,FEET,72.1,DEGREES F,,
+08/20/2020,24,FEET,71.9,DEGREES F,,
+08/27/2020,3,FEET,78.6,DEGREES F,,
+08/27/2020,6,FEET,78,DEGREES F,,
+08/27/2020,9,FEET,77.3,DEGREES F,,
+08/27/2020,12,FEET,75.9,DEGREES F,,
+08/27/2020,15,FEET,74.4,DEGREES F,,
+08/27/2020,18,FEET,74.1,DEGREES F,,
+08/27/2020,21,FEET,74.1,DEGREES F,,
+08/27/2020,24,FEET,73.9,DEGREES F,,
+09/13/2020,3,FEET,62.4,DEGREES F,,
+09/13/2020,6,FEET,61.8,DEGREES F,,
+09/13/2020,9,FEET,61.1,DEGREES F,,
+09/13/2020,12,FEET,60.2,DEGREES F,,
+09/13/2020,15,FEET,59.9,DEGREES F,,
+09/13/2020,18,FEET,59.7,DEGREES F,,
+09/13/2020,21,FEET,59.7,DEGREES F,,
+09/13/2020,24,FEET,59.7,DEGREES F,,
+09/21/2020,3,FEET,62,DEGREES F,,
+09/21/2020,6,FEET,61.8,DEGREES F,,
+09/21/2020,9,FEET,61.3,DEGREES F,,
+09/21/2020,12,FEET,60.8,DEGREES F,,
+09/21/2020,15,FEET,60.6,DEGREES F,,
+09/21/2020,18,FEET,60.6,DEGREES F,,
+09/21/2020,21,FEET,60.6,DEGREES F,,
+09/30/2020,3,FEET,60.8,DEGREES F,,
+09/30/2020,6,FEET,60.6,DEGREES F,,
+09/30/2020,9,FEET,60.6,DEGREES F,,
+09/30/2020,12,FEET,60.4,DEGREES F,,
+09/30/2020,15,FEET,60,DEGREES F,,
+09/30/2020,18,FEET,60.2,DEGREES F,,
+09/30/2020,21,FEET,60.2,DEGREES F,,
+10/07/2020,3,FEET,56.8,DEGREES F,,
+10/07/2020,6,FEET,56.6,DEGREES F,,
+10/07/2020,9,FEET,56.4,DEGREES F,,
+10/07/2020,12,FEET,56.4,DEGREES F,,
+10/07/2020,15,FEET,56.4,DEGREES F,,
+10/07/2020,18,FEET,56.1,DEGREES F,,
+10/07/2020,21,FEET,55.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR     
+05/10/2014,Weather: sunny
+Ambient temp=20.0 C
+Wind: SE 0-5 mph
+07/27/2014,Weather: Cloudy. Wind: west 5-10 mph. Ambient temperature: 25.0 C
+08/01/2014,Weather: Partly cloudy. Winds: Light + Variable. Ambient temperature: 22.5 C. 
+08/30/2014,Air temp: 21.4 C; cloudy; winds: light + variable; rainfall: 1.7" in past 24 hours
+04/18/2015,Mostly sunny
+Air Temp: 67 F
+Wind: SE 5 mph
+06/27/2015,Mostly sunny; wind-calm; temp=76F
+07/24/2015,Ambient temp: 84F; Cloudy; Wind: SW 5-10 mph; Secchi reading: 2ft 9 in.
+08/29/2015,Cloudy- wind: calm- ambient air : 63F
+09/26/2015,Ambient temp = 68 F. Sunny. Winds East: 5-10 mph
+secchi disk = 3.75 ft
+05/07/2016,Sunny- Wind NW 10-15 mph. Ambient air temp = 66 F. Some rainfall last night.
+06/24/2016,Weather: Partly sunny; wind south @ 5-10 mph; water level: normal; water color: brown; ambient temperature: 78F
+07/23/2016,Weather: mostly sunny; winds: ESE 5-10 mph; water level: normal; water color: brown with a small amount of green filaments (algae); ambient temp: 82F.
+09/04/2016,Air temp: 75 F; mostly cloudy; winds ESE @ 5-10 mph
+06/26/2017,Cloudy- Wind west @ 10 mph- Ambient temp 57 F
+05/19/2018,70 degrees- light breeze
+06/12/2018,brown water with some algae growth visible.  mostly cloudy
+06/20/2018,partly cloudy skies.  Brown water.
+06/28/2018,partly cloudy skies. 80 degrees.
+07/14/2018,clear skies- 85 degrees.
+07/22/2018,clear skies- 75 deg.  brown/greenish water.
+07/29/2018,Sunny- no wind- 78 degrees.  lots of green algae present on most of the lake.  Higher concentration along some shorelines.
+08/14/2018,Hazy/Partly cloudy w/ light breeze.  Water is green- but not as much floating scum as earlier.  
+08/23/2018,Partly cloudy- 77 degrees
+08/31/2018,Overcast/Partly Cloudy
+09/08/2018,Clear skies/wonderful!
+09/16/2018,77 degrees/clear skies.
+04/14/2019,46 degree- light wind. Spotted several pair of loons on the lake.
+04/23/2019,62 degrees and clear
+05/04/2019,58- clear- no wind
+05/16/2019,70 degrees- partly cloudy
+06/06/2019,79 degrees- clear
+06/14/2019,71 degrees- cloudy and breezy.
+06/22/2019,79 degrees- mostly cloudy and breezy
+07/02/2019,80 degrees clear
+07/08/2019,83 degree- light breeze + partly cloudy
+07/16/2019,84 degrees- light breeze- mostly cloudy
+07/24/2019,79 degrees + clear
+08/01/2019,83 degrees + clear
+08/27/2019,68 degrees- mostly cloudy w/ moderate breeze
+04/11/2020,45 degrees + mostly clear
+04/27/2020,66 degrees- mostly sunny
+05/24/2020,78 degrees + partly cloudy w/ light breeze.
+05/31/2020,mostly clear- 70 degrees
+06/06/2020,75 degrees
+06/08/2020,90 degrees- mostly sunny with light/moderate breeze
+06/17/2020,86 degrees- clear with light/moderatewind 86 degrees- clear with light/moderate wind
+06/24/2020,66 degrees- and clear w/ light breeze.  Water seemed to have more particulate matter than last week. Potential chlorophyl increase noted- though not sampled.
+07/05/2020,93 degrees and humid with partly cloudy skies. 
+
+Some small green particles in water column similar- but not worse than last week.
+07/11/2020,79 degrees partly cloudy with a light breeze.  More green noticed in the water column- though water is still quite clear overall.  There has been blue green algae in spots with little water movement. 
+07/19/2020,82 degrees with partly cloudy skies and breezy.  Some of green growth has diminished due to big rains the past week.
+07/27/2020,80 degrees- partly cloudy + breezy
+08/09/2020,82 degrees/partly cloudy
+08/11/2020,79 degrees + clear. Continued lots of green in water column- w/ some bigger globules.  Beaches have re-opened. Surprising clarity. 
+08/20/2020,78 degrees and mostly cloudy with light breeze.  Lots of green strand algae throughout water column. 
+08/27/2020,80 degrees and humid with hazy/partly cloudy skies. 80 degrees and humid with hazy/partly cloudy skies.  Lots of green algae strands in water column though water color still brown overall.  Some surface green algae noted along shoreline in parts in previous days. 
+09/13/2020,67 degrees- and mostly clear.  Much less green algae strands in the water column.
+09/21/2020,73 degrees- no cloud cover though hazy.
+09/30/2020,54 degrees- partly cloudy and breezy.
+10/07/2020,66 degrees with partly could skies and breezy.  No more green algae visible in the water column. 
+
+
+
+
+Start Date,Group Name,Project Name
+08/09/1979,Buzz Sorge,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+08/09/1979,Buzz Sorge,Migrated from STORET Legacy
+07/24/2012,Buzz Sorge,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+07/24/2012,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+08/15/2012,Buzz Sorge,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+08/15/2012,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+09/12/2012,Buzz Sorge,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+09/12/2012,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+05/08/2013,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+07/06/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/09/2013,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+07/29/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/06/2013,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+08/24/2013,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/04/2013,Jodi Lepsch,Eau Claire County Reservoir 303d Listing and Watershed  Management 
+05/10/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/27/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/01/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/30/2014,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+04/18/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/27/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/24/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/29/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/26/2015,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+05/07/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/24/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/23/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/04/2016,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/26/2017,Mike Raynovic,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+05/19/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/12/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/20/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/28/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/14/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/22/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/29/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/14/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/23/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/31/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/08/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/16/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/23/2018,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+04/14/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+04/23/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+05/04/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+05/16/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/06/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/14/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/22/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/02/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/08/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/16/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/24/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/01/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/27/2019,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+04/11/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+04/27/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+05/24/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+05/31/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/06/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/08/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/17/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+06/24/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/05/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/11/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/19/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+07/27/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/09/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/11/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/20/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+08/27/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/13/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/21/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+09/30/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole
+10/07/2020,Stephen Ambroe,Citizen Lake Monitoring - Water Quality - Altoona Lake - Deep Hole

@@ -1,0 +1,203 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fisher Lake,Iron,2307300,NO,26,,10038255,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+66142112,08/25/2012,4.25,NO,1.3,,,56,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+66142112,06/24/2013,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,RED,2-Very minor aesthetic problems
+66142112,07/08/2013,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,08/01/2013,4.6,NO,1.4,,,55,,,NORMAL,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,08/17/2013,5.3,NO,1.6,,,53,,,LOW,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,07/12/2014,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,07/19/2014,,NO,,,,,,,HIGH,5.0,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,07/27/2014,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,08/05/2014,5.25,NO,1.6,,,53,,,LOW,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,08/12/2014,5.75,NO,1.7,,,52,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+66142112,06/28/2015,6.5,NO,2,8.76,25.4,50,53,51,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,07/07/2015,6.3,NO,1.9,,,51,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+66142112,07/19/2015,5,NO,1.5,5.86,18.3,54,51,48,HIGH,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,07/21/2015,, ,,,,,,,,,,,
+66142112,07/30/2015,5.3,NO,1.6,,,53,,,LOW,,CLEAR,RED,1-Beautiful, could not be nicer
+66142112,08/17/2015,5.9,NO,1.8,9.63,21.1,52,52,52,LOW,,CLEAR,RED,1-Beautiful, could not be nicer
+18138766,04/25/2016,,,,,23.3,,53,,,,,,
+66142112,06/29/2016,,,,5.17,27,,54,47,,,,,
+66142112,07/24/2016,,,,9.98,23.3,,53,52,,,,,
+66142112,08/21/2016,,,,16.9,27,,54,56,,,,,
+161787713,06/04/2018,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,07/06/2018,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,07/14/2018,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,08/31/2018,5,NO,1.5,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,10/02/2018,5,NO,1.5,,,54,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,07/02/2019,7.5,NO,2.3,,,48,,,NORMAL,22.0,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,07/31/2019,8.5,NO,2.6,,,46,,,NORMAL,21.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,09/16/2019,8.5,NO,2.6,,,46,,,NORMAL,21.0,CLEAR,BROWN,1-Beautiful, could not be nicer
+161787713,09/07/2020,5.5,NO,1.7,13.7,22,53,52,55,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/19/2014,1,FEET,22.1,DEGREES C,8.03,MG/L
+07/19/2014,3,FEET,21.8,DEGREES C,7.97,MG/L
+07/19/2014,6,FEET,20.8,DEGREES C,7.13,MG/L
+07/19/2014,9,FEET,20.1,DEGREES C,5.97,MG/L
+07/19/2014,12,FEET,19.8,DEGREES C,5.36,MG/L
+07/19/2014,15,FEET,14.6,DEGREES C,.15,MG/L
+06/28/2015,1,FEET,75,DEGREES F,,
+06/28/2015,3,FEET,71.6,DEGREES F,,
+06/28/2015,6,FEET,69.9,DEGREES F,,
+06/28/2015,9,FEET,68,DEGREES F,,
+06/28/2015,12,FEET,65.6,DEGREES F,,
+06/28/2015,15,FEET,58.4,DEGREES F,,
+06/28/2015,18,FEET,54.8,DEGREES F,,
+07/07/2015,1,FEET,69.6,DEGREES F,,
+07/07/2015,3,FEET,69.8,DEGREES F,,
+07/07/2015,6,FEET,69.8,DEGREES F,,
+07/07/2015,9,FEET,69.6,DEGREES F,,
+07/07/2015,12,FEET,68,DEGREES F,,
+07/07/2015,15,FEET,62.4,DEGREES F,,
+07/07/2015,18,FEET,61.8,DEGREES F,,
+07/19/2015,1,FEET,24.8,DEGREES C,7.02,MG/L
+07/19/2015,3,FEET,24.3,DEGREES C,7.07,MG/L
+07/19/2015,6,FEET,23.5,DEGREES C,6.51,MG/L
+07/19/2015,9,FEET,22.8,DEGREES C,5.78,MG/L
+07/19/2015,12,FEET,20.5,DEGREES C,1.92,MG/L
+07/19/2015,15,FEET,19.8,DEGREES C,.1,MG/L
+07/21/2015,1,FEET,,,7.71,MG/L
+07/21/2015,3,FEET,,,7.54,MG/L
+07/21/2015,6,FEET,,,6.93,MG/L
+07/21/2015,9,FEET,,,6.92,MG/L
+07/21/2015,12,FEET,,,6.45,MG/L
+07/30/2015,1,FEET,75.2,DEGREES F,,
+07/30/2015,3,FEET,73.5,DEGREES F,,
+07/30/2015,6,FEET,73.9,DEGREES F,,
+07/30/2015,9,FEET,73.7,DEGREES F,,
+07/30/2015,12,FEET,72.6,DEGREES F,,
+07/30/2015,15,FEET,61.7,DEGREES F,,
+07/30/2015,18,FEET,60.8,DEGREES F,,
+08/17/2015,1,FEET,75.9,DEGREES F,,
+08/17/2015,3,FEET,75.9,DEGREES F,,
+08/17/2015,6,FEET,75.9,DEGREES F,,
+08/17/2015,9,FEET,74.6,DEGREES F,,
+08/17/2015,12,FEET,70.8,DEGREES F,,
+08/17/2015,15,FEET,62.7,DEGREES F,,
+08/17/2015,18,FEET,57,DEGREES F,,
+06/04/2018,1,FEET,65.9,DEGREES F,6.61,MG/L
+06/04/2018,3,FEET,64.5,DEGREES F,6.56,MG/L
+06/04/2018,6,FEET,65.5,DEGREES F,6.64,MG/L
+06/04/2018,9,FEET,64,DEGREES F,5.28,MG/L
+06/04/2018,12,FEET,58,DEGREES F,2.2,MG/L
+06/04/2018,15,FEET,50.1,DEGREES F,.12,MG/L
+07/06/2018,1,FEET,77.8,DEGREES F,6.22,MG/L
+07/06/2018,3,FEET,76.3,DEGREES F,6.1,MG/L
+07/06/2018,6,FEET,75,DEGREES F,5.5,MG/L
+07/06/2018,9,FEET,74.5,DEGREES F,5.19,MG/L
+07/06/2018,12,FEET,69.6,DEGREES F,.36,MG/L
+07/06/2018,15,FEET,61.8,DEGREES F,.13,MG/L
+07/14/2018,1,FEET,76.3,DEGREES F,5.95,MG/L
+07/14/2018,3,FEET,75.4,DEGREES F,5.85,MG/L
+07/14/2018,6,FEET,74.7,DEGREES F,5.4,MG/L
+07/14/2018,9,FEET,74.4,DEGREES F,5.42,MG/L
+07/14/2018,12,FEET,69.4,DEGREES F,.17,MG/L
+07/14/2018,15,FEET,61,DEGREES F,.08,MG/L
+08/31/2018,1,FEET,68.5,DEGREES F,6.75,MG/L
+08/31/2018,3,FEET,68.3,DEGREES F,6.7,MG/L
+08/31/2018,6,FEET,67.3,DEGREES F,6.29,MG/L
+08/31/2018,9,FEET,66.2,DEGREES F,5.02,MG/L
+08/31/2018,12,FEET,60.8,DEGREES F,2.59,MG/L
+08/31/2018,15,FEET,51.5,DEGREES F,.13,MG/L
+10/02/2018,1,FEET,54.8,DEGREES F,6.79,MG/L
+10/02/2018,3,FEET,54.5,DEGREES F,6.77,MG/L
+10/02/2018,6,FEET,54,DEGREES F,6.73,MG/L
+10/02/2018,9,FEET,53.9,DEGREES F,6.67,MG/L
+10/02/2018,12,FEET,53.9,DEGREES F,6.64,MG/L
+10/02/2018,15,FEET,53.9,DEGREES F,6.59,MG/L
+07/02/2019,1,FEET,74,DEGREES F,8.85,MG/L
+07/02/2019,3,FEET,73.5,DEGREES F,8.82,MG/L
+07/02/2019,6,FEET,73,DEGREES F,8.2,MG/L
+07/02/2019,9,FEET,70.4,DEGREES F,6.74,MG/L
+07/02/2019,12,FEET,64.3,DEGREES F,1.86,MG/L
+07/02/2019,15,FEET,57.3,DEGREES F,.13,MG/L
+07/02/2019,18,FEET,53.8,DEGREES F,.06,MG/L
+07/31/2019,1,FEET,73.4,DEGREES F,7.68,MG/L
+07/31/2019,3,FEET,73.1,DEGREES F,7.56,MG/L
+07/31/2019,6,FEET,72.8,DEGREES F,7.4,MG/L
+07/31/2019,9,FEET,72.2,DEGREES F,6.49,MG/L
+07/31/2019,12,FEET,61.6,DEGREES F,.17,MG/L
+07/31/2019,15,FEET,61.4,DEGREES F,.24,MG/L
+07/31/2019,18,FEET,56.7,DEGREES F,.04,MG/L
+09/16/2019,1,FEET,63.1,DEGREES F,10.2,MG/L
+09/16/2019,3,FEET,62.6,DEGREES F,10.2,MG/L
+09/16/2019,6,FEET,61.9,DEGREES F,9.78,MG/L
+09/16/2019,9,FEET,61.4,DEGREES F,9.57,MG/L
+09/16/2019,12,FEET,60.7,DEGREES F,8.47,MG/L
+09/16/2019,15,FEET,60.6,DEGREES F,8.28,MG/L
+09/16/2019,18,FEET,59.8,DEGREES F,7.3,MG/L
+09/16/2019,21,FEET,57.3,DEGREES F,.11,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/25/2012,Very windy. Sunny. Lake low but not nearly as low as last fall when town did the drawdown. 
+08/25/2012,very windy and sunny; lake low- but not as low as last fall when town did "draw down" (+2ft)
+06/24/2013,Beautiful clear sunny day. Water is clear but pollen at shoreline in the water(pollen in house too-inland source- not the lake)
+07/08/2013,Skies generally clear with big puffy white clouds. Got one inch of rain last night- almost 3 inches of rain few days ago. Water great for swimming. 
+08/01/2013,Gorgeous- windy and partly cloudy.
+08/17/2013,Gorgeous day- very few clouds- windy- no recent rain. Small algae bloom yesterday-now gone. 
+07/19/2014,Very windy but not in this bay. This is the only date this summer that I took the dissolved oxygen reading. 
+07/27/2014,Extremely overcast with rain off and on today but not during the secchi reading. 
+08/05/2014,Yesterday was the date for the satellite but there was a storm so reading was taken today. Today it is gorgeous- clear skies- puffy clouds and calm (unless you are near boat traffic). Loon spotted nesting this month and later one baby seen. Eagle- Osprey and pair of Sandhill cranes spotted. Presently- zero wolf evidence in this area. Bear evidence (claw marks on tree) and wolf scat noted in June only. 
+08/12/2014,Clear day- very few clouds- sunny but waves very irregular but almost no boat traffic. After reading it became very windy. 
+06/28/2015,Saw two loons near deep hole (Fisher Lake Inn area) and one loon at north end of the lake today. Other sightings: two Trumpeter swans on 6/27 and 3 days ago a Greater Scaup (which turns out stayed for a few months). Four days ago saw Merganser with 4 chicks. 
+07/07/2015,Its a clear day with a little bit of wind. Two days ago I noticed that water clarity had dramatically dropped at the north end of Fisher Lake. You could barely see your hand if you put it in the lake. I frequently kayak in this area- and this was new.  At first I thought maybe the 4th of July boat traffic had caused this but then I realized that two beaver dams were removed not far away (the dams are located in Pardee creek- where water enters the lake) on 7/4 by members from the Lake Assoc. and likely the cause was sediment coming into the lake from the creek. The sediment was previously kept back by the dams (a likely scenario I think). There is much silt and vegetation in the creek. Clarity cleared up within two days but decreased with heavy rain the following week. 
+07/19/2015,Sunny and very windy. 
+07/21/2015,On this date only a dissolved oxygen reading was taken. The data might be questioned as I was having a lot of trouble with the meter i.e. the cable kept coming out of the meter and for some reason (I tried 3x) I could not get a reading at 15 feet. 
+07/30/2015,Partly cloudy. Greater Scaup (just one and does not appear to be nesting) has spent most of the last two months at the north end of Fisher Lake. Trumpeter swans have made infrequent visits throughout this summer (there are two and they like the area near the Pardee creek entrance). The swans are shy. This is the most I've seen of these swans in 5 years. Also it is not unusual to see cranes in the Pardee creek area of Fisher (mostly great blue heron but a couple of sandhill too).
+08/17/2015,Very cloudy. First time I've seen a "baby" loon on the lake. It is as big as the parent but has duller colors. The greater scaup has left the north end of Fisher. Saw two small otters a couple of weeks ago on the way to Shay dam. They growled at me. I didn't know they did that. Iv'e seen more porcupine this year (about 4). Back in June found a dead Barred owl in the driveway- cause of death unknown. 
+07/06/2018,Sunny and calm. Sunny and calm. Had several inches of rain over the last few days.  Lake level up.
+07/14/2018,Sunny and clear day.
+08/31/2018,Sunny- light breeze
+08/31/2018,Sunny- light breeze sunny-light breeze
+10/02/2018,cloudy-calm
+07/02/2019,Partly cloudy and calm
+07/31/2019,Sunny and calm
+09/16/2019,Sunny and light breeze
+09/07/2020,The weather was partly cloudy and there was a mild breeze. Was assisted by Teri Hintz. Loons observed on the lake.
+
+
+
+
+Start Date,Group Name,Project Name
+08/25/2012,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+06/24/2013,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/08/2013,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/01/2013,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/17/2013,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/12/2014,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/19/2014,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/27/2014,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/05/2014,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/12/2014,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+06/28/2015,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/07/2015,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/19/2015,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/21/2015,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/30/2015,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/17/2015,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+04/25/2016,Heather Palmquist,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+06/29/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/24/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/21/2016,Kathy Trochlell,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+06/04/2018,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/06/2018,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/14/2018,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/31/2018,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+08/31/2018,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - West End Deep Hole
+10/02/2018,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/02/2019,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+07/31/2019,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+09/16/2019,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole
+09/07/2020,Michael Hintz,Citizen Lake Monitoring - Water Quality - Fisher Lake - Deep Hole

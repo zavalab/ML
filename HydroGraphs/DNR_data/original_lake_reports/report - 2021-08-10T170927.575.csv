@@ -1,0 +1,105 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake ,Florence,584200,NO,19,,10022892,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+29575558,08/03/2009,10,YES,3,,,44,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+35006126,06/02/2010,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18069694,06/14/2010,8.2,NO,2.5,5.65,19,47,51,48,,,,,
+34972236,07/15/2010,6.3,NO,1.9,3.42,16,51,50,44,,,,,
+41886128,08/12/2010,6.4,YES,1.9,1.24,17,50,50,36,,,,,
+29693335,07/18/2012,10,YES,3,,,44,,,,10,CLEAR,GREEN,2-Very minor aesthetic problems
+206974733,06/28/2020,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+206974733,07/16/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+206974733,08/21/2020,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+206974733,09/18/2020,10.5,NO,3.2,,,43,,,HIGH,19.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+206974733,09/27/2020,9.5,NO,2.9,,,45,,,HIGH,19.5,CLEAR,BROWN,1-Beautiful, could not be nicer
+206974733,10/08/2020,13,NO,4,,,40,,,HIGH,19.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/03/2009,3,FEET,23.3,DEGREES C,,
+08/03/2009,6,FEET,22.9,DEGREES C,,
+08/03/2009,9,FEET,22.3,DEGREES C,,
+06/02/2010,0,FEET,75.3,DEGREES F,9.74,MG/L
+06/02/2010,3,FEET,75.4,DEGREES F,9.78,MG/L
+06/02/2010,6,FEET,75.1,DEGREES F,10.09,MG/L
+06/14/2010,,,19.6,C,,
+07/15/2010,,,27.2,C,8.1,MG/L
+08/12/2010,,,29.9,C,8.4,MG/L
+07/18/2012,0,FEET,81.63,DEGREES F,7.18,MG/L
+07/18/2012,3,FEET,81,DEGREES F,7.24,MG/L
+07/18/2012,6,FEET,80.26,DEGREES F,7.72,MG/L
+07/18/2012,9,FEET,78.86,DEGREES F,7.34,MG/L
+06/28/2020,0,FEET,73,DEGREES F,,
+06/28/2020,3,FEET,71,DEGREES F,,
+06/28/2020,6,FEET,67.1,DEGREES F,,
+06/28/2020,9,FEET,58.8,DEGREES F,,
+06/28/2020,12,FEET,58.12,DEGREES F,,
+06/28/2020,15,FEET,53.1,DEGREES F,,
+06/28/2020,18,FEET,52.3,DEGREES F,,
+07/16/2020,3,FEET,80.5,DEGREES F,,
+07/16/2020,6,FEET,79.5,DEGREES F,,
+07/16/2020,9,FEET,77.9,DEGREES F,,
+07/16/2020,12,FEET,75.7,DEGREES F,,
+07/16/2020,15,FEET,67.4,DEGREES F,,
+07/16/2020,18,FEET,61.8,DEGREES F,,
+07/16/2020,19.5,FEET,59,DEGREES F,,
+08/21/2020,0,FEET,78.6,DEGREES F,,
+08/21/2020,3,FEET,77,DEGREES F,,
+08/21/2020,6,FEET,76.2,DEGREES F,,
+08/21/2020,9,FEET,75.9,DEGREES F,,
+08/21/2020,12,FEET,75,DEGREES F,,
+08/21/2020,15,FEET,71.4,DEGREES F,,
+08/21/2020,18,FEET,63.8,DEGREES F,,
+09/27/2020,0,FEET,65.4,DEGREES F,,
+09/27/2020,3,FEET,65.4,DEGREES F,,
+09/27/2020,6,FEET,64.4,DEGREES F,,
+09/27/2020,9,FEET,63.5,DEGREES F,,
+09/27/2020,12,FEET,63.1,DEGREES F,,
+09/27/2020,15,FEET,62.7,DEGREES F,,
+09/27/2020,18,FEET,62.4,DEGREES F,,
+09/27/2020,19,FEET,62,DEGREES F,,
+10/08/2020,0,FEET,58.6,DEGREES F,,
+10/08/2020,3,FEET,57.9,DEGREES F,,
+10/08/2020,6,FEET,57.7,DEGREES F,,
+10/08/2020,9,FEET,57.5,DEGREES F,,
+10/08/2020,12,FEET,57.3,DEGREES F,,
+10/08/2020,15,FEET,57,DEGREES F,,
+10/08/2020,18,FEET,57,DEGREES F,,
+10/08/2020,19.5,FEET,56.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/02/2010,Cloudy- calm.
+Water level extremely low.
+07/18/2012,Collected data with Bill Tuck and Larry Yarck.
+
+Weather was mostly sunny- with 40% cloud cover.
+
+Saw a frog- turtles- and swamp thistle.
+06/28/2020,Weather was clear and sunny 78 degrees. lake level is high- appearance is clear and water color is green. Perception #1. Larry Yarck was assisting. Weather was clear and sunny 78 degrees. lake level is high- appearance is clear and water color is green. Perception #1. Larry Yarck was assisting.
+07/16/2020,Larry Yarck was assisting
+
+
+
+
+Start Date,Group Name,Project Name
+08/03/2009,Robert Ferris,Florence County Land Conservation Department- Secchi Data 
+06/02/2010,Paul Tikusis,Florence County Land Conservation Department- Secchi Data 
+06/14/2010,Eddie Heath - Onterra- LLC,FROG + BASS LAKE ASSOC- INC: Frog + Bass Lake Management Planning Project
+07/15/2010,Todd Hanke - Onterra- LLC,FROG + BASS LAKE ASSOC- INC: Frog + Bass Lake Management Planning Project
+08/12/2010,Dan Cibulka and Eddie Heath- Onterra LLC,FROG + BASS LAKE ASSOC- INC: Frog + Bass Lake Management Planning Project
+07/18/2012,Dave Ferris,Florence County Land Conservation Department- Secchi Data 
+06/28/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+07/16/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+08/21/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+09/18/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+09/27/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole
+10/08/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Bass Lake - Deep Hole

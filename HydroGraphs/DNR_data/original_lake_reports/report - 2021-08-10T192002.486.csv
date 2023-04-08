@@ -1,0 +1,214 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Big Dardis Lake,Price,2244200,NO,51,,513151,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/24/1979,,,,9.48,19,,51,52,,,,,
+7000017,05/01/2003,,,,,19,,51,,,,,,
+7000017,09/08/2003,6.2,NO,1.9,16.4,31,51,55,56,,,,,
+147487179,08/24/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,08/27/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,09/04/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,09/26/2017,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,06/11/2018,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+147487179,07/06/2018,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+147487179,07/23/2018,5,NO,1.5,6.51,22.1,54,52,49,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+147487179,08/10/2018,5.75,NO,1.7,,,52,,,NORMAL,0,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,09/05/2018,5.75,NO,1.7,15.3,21.9,52,52,55,NORMAL,0,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,05/13/2019,4,NO,1.2,,26.5,56,54,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,06/02/2019,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,06/07/2019,4.25,,1.3,,,56,,,,,,,
+147487179,06/14/2019,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,06/26/2019,3.75,NO,1.1,13,33.6,58,55,54,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,07/25/2019,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,07/31/2019,4.75,NO,1.4,23.4,27.6,55,54,59,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,08/19/2019,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,09/18/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,10/04/2019,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,05/24/2020,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,06/13/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,06/28/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+263476002,06/28/2020,,,,2.49,20.7,,52,42,,,,,
+147487179,07/11/2020,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,07/28/2020,,,,6.36,23.4,,53,49,,,,,
+147487179,07/31/2020,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+147487179,08/30/2020,4.5,NO,1.4,16.6,33,55,55,56,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/24/1979,,,,,7.2,MG/L
+09/08/2003,7,FEET,,,8.8,MG/L
+09/08/2003,,,22.4,C,8.8,MG/L
+07/23/2018,1,FEET,76.8,DEGREES F,,
+07/23/2018,3,FEET,74.4,DEGREES F,,
+07/23/2018,6,FEET,73.7,DEGREES F,,
+07/23/2018,9,FEET,73.4,DEGREES F,,
+07/23/2018,12,FEET,62.7,DEGREES F,,
+07/23/2018,15,FEET,54.5,DEGREES F,,
+07/23/2018,18,FEET,50.7,DEGREES F,,
+07/23/2018,21,FEET,50,DEGREES F,,
+07/23/2018,23,FEET,49.2,DEGREES F,,
+09/05/2018,1,FEET,72.6,DEGREES F,,
+09/05/2018,3,FEET,72.6,DEGREES F,,
+09/05/2018,6,FEET,72.3,DEGREES F,,
+09/05/2018,9,FEET,70.8,DEGREES F,,
+09/05/2018,12,FEET,66.5,DEGREES F,,
+09/05/2018,15,FEET,61.5,DEGREES F,,
+09/05/2018,18,FEET,55.5,DEGREES F,,
+09/05/2018,21,FEET,52.5,DEGREES F,,
+09/05/2018,23,FEET,51.8,DEGREES F,,
+05/13/2019,1,FEET,55.4,DEGREES F,,
+05/13/2019,3,FEET,53.6,DEGREES F,,
+05/13/2019,6,FEET,52.7,DEGREES F,,
+05/13/2019,9,FEET,50.1,DEGREES F,,
+05/13/2019,12,FEET,48.5,DEGREES F,,
+05/13/2019,15,FEET,48.2,DEGREES F,,
+05/13/2019,18,FEET,48.2,DEGREES F,,
+05/13/2019,21,FEET,47.4,DEGREES F,,
+05/13/2019,23,FEET,47.4,DEGREES F,,
+06/26/2019,1,FEET,71.9,DEGREES F,,
+06/26/2019,3,FEET,71.6,DEGREES F,,
+06/26/2019,6,FEET,71.6,DEGREES F,,
+06/26/2019,9,FEET,70.5,DEGREES F,,
+06/26/2019,12,FEET,58.8,DEGREES F,,
+06/26/2019,15,FEET,54.6,DEGREES F,,
+06/26/2019,18,FEET,53.6,DEGREES F,,
+06/26/2019,21,FEET,53.4,DEGREES F,,
+06/26/2019,23,FEET,53.4,DEGREES F,,
+07/31/2019,1,FEET,77.3,DEGREES F,,
+07/31/2019,3,FEET,75.5,DEGREES F,,
+07/31/2019,6,FEET,75,DEGREES F,,
+07/31/2019,9,FEET,74.1,DEGREES F,,
+07/31/2019,12,FEET,66.5,DEGREES F,,
+07/31/2019,15,FEET,56.6,DEGREES F,,
+07/31/2019,18,FEET,54.8,DEGREES F,,
+07/31/2019,21,FEET,53.9,DEGREES F,,
+07/31/2019,23,FEET,53.6,DEGREES F,,
+08/19/2019,1,FEET,74.4,DEGREES F,,
+08/19/2019,3,FEET,74.3,DEGREES F,,
+08/19/2019,6,FEET,74.1,DEGREES F,,
+08/19/2019,9,FEET,73.2,DEGREES F,,
+08/19/2019,12,FEET,69.6,DEGREES F,,
+08/19/2019,15,FEET,62.4,DEGREES F,,
+08/19/2019,18,FEET,57.2,DEGREES F,,
+08/19/2019,21,FEET,55.4,DEGREES F,,
+08/19/2019,23,FEET,55.2,DEGREES F,,
+05/24/2020,1,FEET,69.4,DEGREES F,,
+05/24/2020,3,FEET,67.4,DEGREES F,,
+05/24/2020,6,FEET,60,DEGREES F,,
+05/24/2020,9,FEET,55.7,DEGREES F,,
+05/24/2020,12,FEET,54.8,DEGREES F,,
+05/24/2020,15,FEET,54.3,DEGREES F,,
+05/24/2020,18,FEET,53.9,DEGREES F,,
+05/24/2020,21,FEET,53.6,DEGREES F,,
+05/24/2020,23,FEET,53,DEGREES F,,
+06/13/2020,1,FEET,70.5,DEGREES F,,
+06/13/2020,3,FEET,70.1,DEGREES F,,
+06/13/2020,6,FEET,68,DEGREES F,,
+06/13/2020,9,FEET,67.4,DEGREES F,,
+06/13/2020,12,FEET,57.5,DEGREES F,,
+06/13/2020,15,FEET,55.2,DEGREES F,,
+06/13/2020,18,FEET,53.9,DEGREES F,,
+06/13/2020,21,FEET,53.6,DEGREES F,,
+06/13/2020,23,FEET,53,DEGREES F,,
+06/28/2020,1,FEET,80.9,DEGREES F,,
+06/28/2020,3,FEET,80.4,DEGREES F,,
+06/28/2020,6,FEET,76.2,DEGREES F,,
+06/28/2020,9,FEET,71.4,DEGREES F,,
+06/28/2020,12,FEET,61.1,DEGREES F,,
+06/28/2020,15,FEET,55.7,DEGREES F,,
+06/28/2020,18,FEET,54.3,DEGREES F,,
+06/28/2020,21,FEET,53.4,DEGREES F,,
+06/28/2020,23,FEET,52.8,DEGREES F,,
+07/11/2020,1,FEET,82.5,DEGREES F,,
+07/11/2020,3,FEET,82.2,DEGREES F,,
+07/11/2020,6,FEET,79.5,DEGREES F,,
+07/11/2020,9,FEET,75.2,DEGREES F,,
+07/11/2020,12,FEET,63.4,DEGREES F,,
+07/11/2020,15,FEET,56.1,DEGREES F,,
+07/11/2020,18,FEET,54.6,DEGREES F,,
+07/11/2020,21,FEET,53.7,DEGREES F,,
+07/11/2020,23,FEET,53.6,DEGREES F,,
+07/31/2020,1,FEET,79.8,DEGREES F,,
+07/31/2020,3,FEET,77.7,DEGREES F,,
+07/31/2020,6,FEET,76.8,DEGREES F,,
+07/31/2020,9,FEET,74.6,DEGREES F,,
+07/31/2020,12,FEET,70.1,DEGREES F,,
+07/31/2020,15,FEET,60,DEGREES F,,
+07/31/2020,18,FEET,56.6,DEGREES F,,
+07/31/2020,21,FEET,54.1,DEGREES F,,
+07/31/2020,23,FEET,54.1,DEGREES F,,
+08/30/2020,1,FEET,75,DEGREES F,,
+08/30/2020,3,FEET,74.9,DEGREES F,,
+08/30/2020,6,FEET,74.1,DEGREES F,,
+08/30/2020,9,FEET,73.4,DEGREES F,,
+08/30/2020,12,FEET,70.7,DEGREES F,,
+08/30/2020,15,FEET,62.9,DEGREES F,,
+08/30/2020,18,FEET,57.3,DEGREES F,,
+08/30/2020,21,FEET,56.4,DEGREES F,,
+08/30/2020,23,FEET,55.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/24/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/2003,CENTER    
+09/08/2003,DEEPEST SPOT    
+08/10/2018,Sunny- mild wind- beautiful day- no bot traffic
+09/05/2018,Overcast- moderate north wind- no boat traffic- 2" rainfall previous 48 hours
+05/13/2019,lake level slightly above normal.  Light wind.  Partly sunny.  Beautiful day.  Several geese active.
+06/02/2019,Light wind.  Recent heavy rains.
+06/07/2019,Sunny- 84 degrees- S wind 9- Looon surfaced 25' from boat.
+06/26/2019,Sunny- Wind W 10-15
+
+07/31/2019,Blue-green algae floating near shore-  Loons diving near deep hole
+08/19/2019,Strong west wind
+09/18/2019,Overcast- wind W10
+10/04/2019,Overcast- light wind SE
+05/24/2020,Observers Hope- Faith- Terra Risa
+06/13/2020,Observers - Earl- Carol Jewett
+06/28/2020,Observers - Earl- Carol Jewett/  Wind G 15 SW.  Best clarity observed over previous 22 years.
+07/11/2020,Hot week- 3.4" rain 3 days earlier.
+07/31/2020,Previous heavy rains (greater than 10" in previous nine days).  Water level 14" above normal.  Noticed small amount of blue/green algae 3 days earlier.
+08/30/2020,Along with Carol Jewett
+08/30/2020,partly cloudy- water level sightly below normal.  Heavier than normal plant growth this year.  Increasing emergent plant growth.
+
+
+
+
+Start Date,Group Name,Project Name
+07/24/1979,Data Collectors,Migrated from STORET Legacy
+05/01/2003,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+09/08/2003,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+08/24/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+08/27/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+09/04/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+09/26/2017,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/11/2018,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/06/2018,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/23/2018,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+08/10/2018,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+09/05/2018,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+05/13/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/02/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/07/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/14/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/26/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/25/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/31/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+08/19/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+09/18/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+10/04/2019,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+05/24/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/13/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/28/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+06/28/2020,Earl and Carol Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/11/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/28/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+07/31/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole
+08/30/2020,Earl Jewett,Citizen Lake Monitoring - Water Quality - Big Dardis Lake; Deep Hole

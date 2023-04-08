@@ -1,0 +1,659 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bear Lake,Waupaca,279700,NE,69,,693041,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/07/1980,,,,7,150,,51,50,,,,,
+1,11/03/1980,,,,22,,,,58,,,,,
+1,02/11/1981,,,,,20,,51,,,,,,
+1,04/13/1981,,,,,50,,58,,,,,,
+1,10/29/1981,,,,17,50,,58,56,,,,,
+1,03/11/1982,,,,,40,,57,,,,,,
+1,05/04/1982,,,,22,60,,60,58,,,,,
+1,08/20/1990,,,,11,,,,53,,,,,
+8190042,09/02/1990,10,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190042,09/09/1990,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190042,09/16/1990,9.25,NO,2.8,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190042,09/23/1990,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190042,09/30/1990,10,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190042,05/09/1992,12,NO,3.6,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190042,05/24/1992,10.5,NO,3.2,,,43,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190042,05/30/1992,12,NO,3.6,,,41,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190042,06/06/1992,16.5,NO,5,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190042,06/13/1992,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190042,06/21/1992,17,NO,5.2,,,36,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190042,07/01/1992,16,NO,4.9,,,37,,,,,,BROWN,2-Very minor aesthetic problems
+1,02/22/1996,,,,,22,,52,,,,,,
+7302709,05/07/1996,4.75,,1.4,,48,53,58,,,,,,
+7302709,06/25/1996,6.1,,1.85,8.73,17,51,50,51,,,,,
+7302709,07/17/1996,7.2,,2.2,8.09,16,49,50,51,,,,,
+7302709,08/28/1996,6,,1.8,10.2,ND*,51,,52,,,,,
+8189036,04/19/2000,6,NO,1.8,,,51,,,NORMAL,,MURKY,YELLOW,
+1,05/03/2000,,,,,35,,56,,,,,,
+8189036,05/29/2000,5.5,NO,1.7,,,53,,,HIGH,,MURKY,YELLOW,
+8189036,06/29/2000,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,
+8189036,07/14/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,
+8189036,08/21/2000,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,
+8189036,09/13/2000,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,
+8189036,10/19/2000,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,
+7000093,07/23/2002,13.4,NO,4.1,1.19,17,40,50,36,,,,,
+19627399,06/30/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/08/2007,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/15/2007,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/22/2007,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/29/2007,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+19627399,08/04/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/12/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/19/2007,7.75,NO,2.4,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/26/2007,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/02/2007,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/09/2007,27,NO,8.2,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/23/2007,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/30/2007,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/06/2007,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/12/2007,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/20/2007,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/18/2008,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/01/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/08/2008,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/12/2008,12,NO,3.6,,,41,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/22/2008,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/29/2008,8,NO,2.4,,,47,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,07/07/2008,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/11/2008,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/19/2008,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/28/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,08/03/2008,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/10/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/17/2008,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/24/2008,9.25,NO,2.8,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/29/2008,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/05/2008,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/13/2008,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/29/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/04/2008,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/11/2008,13.25,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/18/2008,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/17/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/24/2009,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/31/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/14/2009,7.75,NO,2.4,,,48,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/20/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/05/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/12/2009,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/19/2009,9.25,NO,2.8,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/25/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/01/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/09/2009,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/15/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/23/2009,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/30/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/04/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/13/2009,13.25,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/19/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,05/16/2010,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/30/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/05/2010,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/13/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/26/2010,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/03/2010,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/11/2010,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/18/2010,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/25/2010,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/01/2010,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/10/2010,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/15/2010,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,08/22/2010,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/29/2010,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/04/2010,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/11/2010,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,05/28/2011,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,06/05/2011,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,06/12/2011,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,06/18/2011,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19627399,06/26/2011,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,07/02/2011,7,YES,2.1,,,49,,,HIGH,,MURKY,BROWN,
+19627399,07/09/2011,8,NO,2.4,,,47,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,07/16/2011,9,NO,2.7,,,45,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,07/24/2011,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,07/30/2011,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,08/07/2011,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/14/2011,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/21/2011,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,09/03/2011,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/25/2011,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/19/2012,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,05/27/2012,10,NO,3,,,44,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/04/2012,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/12/2012,9,NO,2.7,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/17/2012,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/28/2012,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,07/06/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/14/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/22/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/28/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/07/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/15/2012,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/23/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/31/2012,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/08/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/16/2012,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/24/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/04/2012,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/19/2013,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,05/26/2013,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/04/2013,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/09/2013,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/16/2013,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/23/2013,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/30/2013,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/07/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/14/2013,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/25/2013,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/31/2013,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/04/2013,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/11/2013,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/22/2013,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/28/2013,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/03/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/10/2013,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/01/2014,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/08/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/21/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/28/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/03/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/11/2014,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/20/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/27/2014,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/07/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/16/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/23/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/28/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/05/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19627399,09/13/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19627399,09/21/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19627399,09/28/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/30/2015,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/06/2015,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/11/2015,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/20/2015,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/28/2015,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/17/2015,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/25/2015,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/01/2015,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/09/2015,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/16/2015,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/05/2015,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/29/2016,9.5,,2.9,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/05/2016,9,,2.7,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/12/2016,8.5,,2.6,,,46,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/18/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/25/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/03/2016,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/12/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/21/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/30/2016,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/06/2016,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/21/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/28/2016,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/31/2016,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/10/2016,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/27/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/02/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19627399,06/10/2017,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/17/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+19627399,06/25/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/08/2017,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/22/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/05/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/13/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/20/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/26/2017,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/02/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/16/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/23/2017,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/30/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,10/08/2017,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,05/26/2018,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,06/02/2018,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+19627399,06/07/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/12/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/19/2018,10,NO,3,,,44,,,NORMAL,10,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+19627399,06/25/2018,10,,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/01/2018,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/25/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/31/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/04/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/09/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,08/15/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/23/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/31/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,06/01/2019,12.5,NO,3.8,,,41,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+19627399,06/09/2019,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/17/2019,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,06/25/2019,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/11/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,07/22/2019,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+19627399,07/28/2019,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/06/2019,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/14/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/21/2019,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,08/28/2019,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/05/2019,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19627399,09/12/2019,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/03/1980,,,8.7,C,8.7,MG/L
+02/22/1996,,,2.37,C,0.57,MG/L
+05/07/1996,,,6.22,C,13.13,MG/L
+06/25/1996,,,20.0,C,0.12,MG/L
+07/17/1996,,,16.0,C,,
+08/28/1996,,,23.2,C,0.1,MG/L
+04/19/2000,3,FEET,44,DEGREES F,12,MG/L
+04/19/2000,6,FEET,43,DEGREES F,11,MG/L
+04/19/2000,10,FEET,43,DEGREES F,12,MG/L
+04/19/2000,15,FEET,43,DEGREES F,10,MG/L
+04/19/2000,20,FEET,43,DEGREES F,12,MG/L
+04/19/2000,25,FEET,43,DEGREES F,11,MG/L
+04/19/2000,30,FEET,43,DEGREES F,11,MG/L
+04/19/2000,35,FEET,43,DEGREES F,12,MG/L
+04/19/2000,40,FEET,43,DEGREES F,11,MG/L
+04/19/2000,45,FEET,43,DEGREES F,11,MG/L
+05/29/2000,3,FEET,62,DEGREES F,12,MG/L
+05/29/2000,6,FEET,62,DEGREES F,11,MG/L
+05/29/2000,10,FEET,61,DEGREES F,9,MG/L
+05/29/2000,15,FEET,59,DEGREES F,9,MG/L
+05/29/2000,20,FEET,55,DEGREES F,8,MG/L
+05/29/2000,25,FEET,48,DEGREES F,7,MG/L
+05/29/2000,30,FEET,46,DEGREES F,7,MG/L
+05/29/2000,35,FEET,44,DEGREES F,7,MG/L
+05/29/2000,40,FEET,44,DEGREES F,5,MG/L
+05/29/2000,45,FEET,43,DEGREES F,5,MG/L
+06/29/2000,3,FEET,78,DEGREES F,13,MG/L
+06/29/2000,6,FEET,77,DEGREES F,10,MG/L
+06/29/2000,10,FEET,76,DEGREES F,9,MG/L
+06/29/2000,15,FEET,70,DEGREES F,7,MG/L
+06/29/2000,20,FEET,64,DEGREES F,6,MG/L
+06/29/2000,25,FEET,54,DEGREES F,6,MG/L
+06/29/2000,30,FEET,54,DEGREES F,5,MG/L
+06/29/2000,35,FEET,47,DEGREES F,5,MG/L
+06/29/2000,40,FEET,46,DEGREES F,4,MG/L
+06/29/2000,45,FEET,44,DEGREES F,4,MG/L
+06/29/2000,50,FEET,43,DEGREES F,2,MG/L
+07/14/2000,3,FEET,74,DEGREES F,12,MG/L
+07/14/2000,6,FEET,74,DEGREES F,11,MG/L
+07/14/2000,10,FEET,69,DEGREES F,11,MG/L
+07/14/2000,15,FEET,64,DEGREES F,10,MG/L
+07/14/2000,20,FEET,57,DEGREES F,7,MG/L
+07/14/2000,25,FEET,51,DEGREES F,6,MG/L
+07/14/2000,30,FEET,47,DEGREES F,5,MG/L
+07/14/2000,35,FEET,45,DEGREES F,5,MG/L
+07/14/2000,40,FEET,44,DEGREES F,4,MG/L
+07/14/2000,45,FEET,43,DEGREES F,3,MG/L
+08/21/2000,3,FEET,70,DEGREES F,11,MG/L
+08/21/2000,6,FEET,68,DEGREES F,11,MG/L
+08/21/2000,10,FEET,64,DEGREES F,10,MG/L
+08/21/2000,15,FEET,58,DEGREES F,10,MG/L
+08/21/2000,20,FEET,52,DEGREES F,9,MG/L
+08/21/2000,25,FEET,46,DEGREES F,8,MG/L
+08/21/2000,30,FEET,44,DEGREES F,6,MG/L
+08/21/2000,35,FEET,43,DEGREES F,5,MG/L
+08/21/2000,40,FEET,43,DEGREES F,4,MG/L
+08/21/2000,45,FEET,43,DEGREES F,4,MG/L
+09/13/2000,3,FEET,66,DEGREES F,11,MG/L
+09/13/2000,6,FEET,64,DEGREES F,11,MG/L
+09/13/2000,10,FEET,63,DEGREES F,10,MG/L
+09/13/2000,15,FEET,60,DEGREES F,10,MG/L
+09/13/2000,20,FEET,54,DEGREES F,9,MG/L
+09/13/2000,25,FEET,46,DEGREES F,8,MG/L
+09/13/2000,30,FEET,44,DEGREES F,6,MG/L
+09/13/2000,35,FEET,43,DEGREES F,5,MG/L
+09/13/2000,40,FEET,43,DEGREES F,4,MG/L
+09/13/2000,45,FEET,43,DEGREES F,4,MG/L
+10/19/2000,3,FEET,55,DEGREES F,11,MG/L
+10/19/2000,6,FEET,52,DEGREES F,11,MG/L
+10/19/2000,10,FEET,45,DEGREES F,11,MG/L
+10/19/2000,15,FEET,44,DEGREES F,11,MG/L
+10/19/2000,20,FEET,43,DEGREES F,10,MG/L
+10/19/2000,25,FEET,43,DEGREES F,10,MG/L
+10/19/2000,30,FEET,43,DEGREES F,10,MG/L
+10/19/2000,35,FEET,43,DEGREES F,10,MG/L
+10/19/2000,40,FEET,43,DEGREES F,8,MG/L
+10/19/2000,45,FEET,43,DEGREES F,6,MG/L
+07/23/2002,,,26.2,C,8.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/07/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/03/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/11/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/13/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/29/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/11/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/04/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/30/1992,Algal bloom in thick floats by shore-blow with the wind.    
+06/06/1992,Saw two osprey for the first time in 4 years.    
+06/21/1992,Boat traffic is light this weekend.    
+04/19/2000,Raining- calm- chilly.  No boaters in sight.  Ice went out a few days ago.    
+05/29/2000,Clear- calm- partly sunny- no boaters.    
+06/29/2000,Clear- sunny- some ducks swimming- some fish jumping.    
+07/14/2000,Clear- calm- sunny- a few fishermen present- ducks swimming.    
+08/21/2000,Cloudy- light rain- some ducks present.    
+09/13/2000,Partly cloudy- chilly- light breeze- no one on lake.    
+10/19/2000,Clear- windy- cold.  No one else on lake.    
+07/23/2002,DEEP SPOT    
+06/30/2007,North end of lake weedy.  Some algae.  Weather clear.
+07/08/2007,Rainfall during week.  More traffic due to holiday.
+07/15/2007,More rain- windy.
+07/29/2007,Water not as clear
+08/04/2007,Lots of watercraft
+08/19/2007,Lots of watercraft.  Water not as clear.
+08/26/2007,Rained most of last week.
+09/02/2007,Holiday weekend.  Lots of boat traffic.
+09/23/2007,Water much clearer.  Little traffic.
+09/30/2007,Clear
+10/06/2007,Sunny- water clear- clean
+10/12/2007,Clear- clean
+10/20/2007,Water clean- clear
+05/17/2009,Water clear- clean
+05/24/2009,Very windy
+06/14/2009,A lot of boat traffic
+07/05/2009,Warm/sunny
+07/12/2009,Windy - a lot of boat traffic
+07/19/2009,Lake leve low
+08/01/2009,Windy
+08/30/2009,Partly sunny - water very clear
+09/04/2009,Sunny/warm weather
+09/13/2009,Sunny- warm weather
+09/19/2009,Water very clear/clean.
+05/16/2010,windy 
+05/30/2010,sunny-nice 
+06/05/2010,overcast
+06/26/2010,storms throughout week-lots of rain
+07/03/2010,warm-high boat traffic 
+07/11/2010,rainy weather --lake higher
+08/10/2010,hot humid weather
+08/15/2010,hot humid-high boat traffic
+08/22/2010,windy warm- lake appears "weedy"
+08/29/2010,hot humid high boat traffic
+06/12/2011,weather overcast
+lake appears "murky"
+06/18/2011,sunny warm 
+07/02/2011,hot sunny lots of boat traffic
+07/16/2011,hot/sunny--     
+06/12/2012,COMPLAINTS OF SWIMMERS ITCH IN VARIOUS PARTS LAKE 
+06/17/2012,COMPLAINTS OF SWIMMERS ITCH CONTINUES--WEATHER HAS BEEN WARM
+06/28/2012,HEAT-HUMIDITY CONTINUES- AS WELL AS SWIMMERS ITCH COMPLAINTS
+07/06/2012,WARM SUNNY DAY- LESS COMPLAINTS OF SWIMMERS ITCH
+08/07/2012,SUNNY- WARM
+10/04/2012,WATER CLARITY READINGS INCREASE WITH LESS BOAT ACTIVITY ON LAKE
+05/26/2013,Some type of algae covering area's of lake
+06/04/2013,film of algae continues on lake
+06/16/2013,Algae film decreasing-but still around various area's of lake
+09/03/2013,Sunny day--lake continues to be very clear 
+09/10/2013,very warm day--water remains clear
+06/01/2014,some algae
+09/13/2014,Water is "dark" appearing
+05/30/2015,Today lake is very clear
+09/05/2015,warm sunny weekend
+06/02/2017,algae around area's 
+06/10/2017,algae on lake continues--some complaints of "swimmers itch"
+09/16/2017,weather unseasonably warm
+06/12/2018,algae in area's aound lake
+07/01/2018,some algae in area's continue
+07/25/2018,weedy in area's around lake
+08/09/2018,weedy in area;'s around lake
+08/31/2018,weedy in area's around lake
+06/17/2019,water clarity higher than measured in previous years
+07/22/2019,Tornado in area 07/20/19--much damage in area
+07/28/2019, water levels increasing due to rainy weather off and om throughout  june and into july 
+
+
+
+
+Start Date,Group Name,Project Name
+08/07/1980,Data Collectors,Migrated from STORET Legacy
+11/03/1980,Data Collectors,Migrated from STORET Legacy
+02/11/1981,Data Collectors,Migrated from STORET Legacy
+04/13/1981,Data Collectors,Migrated from STORET Legacy
+10/29/1981,Data Collectors,Migrated from STORET Legacy
+03/11/1982,Data Collectors,Migrated from STORET Legacy
+05/04/1982,Data Collectors,Migrated from STORET Legacy
+08/20/1990,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+09/02/1990,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/09/1990,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/16/1990,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/23/1990,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/30/1990,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/09/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/24/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/30/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/06/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/13/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/21/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/01/1992,William Brennan III,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+02/22/1996,Data Collectors,NONPOINT SOURCE
+05/07/1996,BRADLEY JOHNSON,NONPOINT SOURCE
+06/25/1996,BRADLEY JOHNSON,NONPOINT SOURCE
+07/17/1996,BRADLEY JOHNSON,NONPOINT SOURCE
+08/28/1996,BRADLEY JOHNSON,NONPOINT SOURCE
+04/19/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/03/2000,Data Collectors,BIG GREEN LAKE SEDIMENT
+05/29/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/29/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/14/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/21/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/13/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/19/2000,Butch Malouf,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/23/2002,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+06/30/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/08/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/15/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/22/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/29/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/04/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/12/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/19/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/26/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/02/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/09/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/23/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/30/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/06/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/12/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/20/2007,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/18/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/01/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/08/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/12/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/22/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/29/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/07/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/11/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/19/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/28/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/03/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/10/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/17/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/24/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/29/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/05/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/13/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/29/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/04/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/11/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/18/2008,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/17/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/24/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/31/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/14/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/20/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/05/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/12/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/19/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/25/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/01/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/09/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/15/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/23/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/30/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/04/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/13/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/19/2009,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/16/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/30/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/05/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/13/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/26/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/03/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/11/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/18/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/25/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/01/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/10/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/15/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/22/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/29/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/04/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/11/2010,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/28/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/05/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/12/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/18/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/26/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/02/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/09/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/16/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/24/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/30/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/07/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/14/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/21/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/03/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/25/2011,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/19/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/27/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/04/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/12/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/17/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/28/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/06/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/14/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/22/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/28/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/07/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/15/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/23/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/31/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/08/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/16/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/24/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/04/2012,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/19/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/26/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/04/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/09/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/16/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/23/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/30/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/07/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/14/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/25/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/31/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/04/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/11/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/22/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/28/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/03/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/10/2013,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/01/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/08/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/21/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/28/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/03/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/11/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/20/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/27/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/07/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/16/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/23/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/28/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/05/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/13/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/21/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/28/2014,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/30/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/06/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/11/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/20/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/28/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/17/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/25/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/01/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/09/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/16/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/05/2015,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/29/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/05/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/12/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/18/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/25/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/03/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/12/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/21/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/30/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/06/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/21/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/28/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/31/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/10/2016,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/27/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/02/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/10/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/17/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/25/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/08/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/22/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/05/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/13/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/20/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/26/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/02/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/16/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/23/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/30/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+10/08/2017,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+05/26/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/02/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/07/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/12/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/19/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/25/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/01/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/25/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/31/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/04/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/09/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/15/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/23/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/31/2018,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/01/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/09/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/17/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+06/25/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/11/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/22/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+07/28/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/06/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/14/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/21/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+08/28/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/05/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point
+09/12/2019,Judy Doud,Citizen Lake Monitoring - Water Quality - Bear Lake - Deepest Point

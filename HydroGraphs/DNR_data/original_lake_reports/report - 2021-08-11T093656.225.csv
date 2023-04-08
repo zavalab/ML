@@ -1,0 +1,102 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Stone Lake,Vilas,2328800,NO,64,,643260,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/19/1984,,,,6,,,,48,,,,,
+1,05/01/1985,6.9,,2.1,,,49,,,,,,,
+8190151,06/28/1993,7.25,NO,2.2,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190151,07/16/1993,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190151,08/07/1993,9,NO,2.7,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190151,08/21/1993,9.5,NO,2.9,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190151,09/25/1993,7,NO,2.1,,,49,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190151,07/10/1994,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190151,08/10/1994,8.75,NO,2.7,,,46,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190151,09/25/1994,7.25,NO,2.2,,,49,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190151,07/09/1995,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190151,07/30/1995,7.5,NO,2.3,,,48,,,NORMAL,,,GREEN BROWN,3-Enjoyment somewhat impaired (algae)
+8190151,08/22/1995,8.75,NO,2.7,,,46,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189501,06/30/2002,9.3,NO,2.8,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,07/28/2002,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,06/15/2003,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,07/05/2003,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,07/19/2003,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,08/27/2003,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,07/20/2004,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,08/04/2004,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189501,07/10/2005,9.5,NO,2.9,,,45,,,HIGH,1.6,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,08/09/2005,6,NO,1.8,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,06/21/2006,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189501,07/11/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+99826168,06/16/2014,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,04/25/2017,6.5,NO,2,5.06,21.8,50,52,47,,,,,
+1,06/27/2017,,,,6.19,18.5,,51,49,,,,,
+1,07/25/2017,7.8,N,2.4,3.75,33.5,48,55,45,,,,,
+1,08/28/2017,8.1,N,2.5,8.58,16.9,47,50,51,,,,,
+1,10/17/2017,6.8,NO,2.1,4.94,20.9,50,52,47,,,,,
+1,02/06/2018,4.4,N,1.3,,14.6,56,49,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/16/2014,5,FEET,,,6,MG/L
+04/25/2017,,,10.8,C,11.0,MG/L
+06/27/2017,,,20.4,C,0.1,MG/L
+07/25/2017,,,10.0,C,0.7,MG/L
+08/28/2017,,,10.5,C,0.1,MG/L
+10/17/2017,,,11.4,C,6.5,MG/L
+02/06/2018,,,0.6,C,4.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/19/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/28/1993,Broken clouds- light ripples    
+08/07/1993,Bright- sunny    
+07/10/1994,Sunny-beautiful.    
+08/10/1994,Bright sun.    
+09/25/1994,Sunny - bright.    
+07/09/1995,Semi-cloudy.    
+08/22/1995,Algae floating into bays.    
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/1984,Data Collectors,Migrated from STORET Legacy
+05/01/1985,Data Collectors,Migrated from STORET Legacy
+06/28/1993,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/16/1993,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/07/1993,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/21/1993,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+09/25/1993,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/10/1994,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/10/1994,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+09/25/1994,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/09/1995,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/30/1995,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/22/1995,Al Evinrude,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/30/2002,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/28/2002,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/15/2003,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/05/2003,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/19/2003,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/27/2003,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/20/2004,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/04/2004,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/10/2005,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+08/09/2005,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/21/2006,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+07/11/2006,Bill Lambrecht,Citizen Lake Monitoring - Water Quality - Stone Lake; Deep Hole
+06/16/2014,Andrew Lockwood,Citizen Lake Water Quality Monitoring - Manitowish Chain / North Lakeland Discovery Center
+04/25/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+06/27/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+07/25/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+08/28/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+10/17/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+02/06/2018,Data Collectors,Bacteria + Plankton (Paid Private)

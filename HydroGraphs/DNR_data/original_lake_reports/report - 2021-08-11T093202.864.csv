@@ -1,0 +1,418 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Otter Lake,Vilas,1600100,NO,64,,643179,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/07/1992,,,,13,20,,51,54,,,,,
+1,07/29/1992,5.2,,1.6,10.1,25,53,53,52,,,,,
+1,09/01/1992,3.6,,1.1,28.5,36,59,56,60,,,,,
+8190625,08/11/1993,5,NO,1.5,,,54,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8188841,08/26/2002,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188841,09/29/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188841,10/28/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188841,05/23/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,RED,2-Very minor aesthetic problems
+8188841,07/13/2003,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188841,08/22/2003,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188841,09/28/2003,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188841,10/31/2003,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188841,05/27/2004,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188841,06/28/2004,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188841,07/26/2004,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188841,09/11/2004,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188841,10/26/2004,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188841,07/04/2005,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,
+8188841,08/01/2005,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,
+8188841,09/28/2005,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,
+8188841,10/22/2005,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,
+16116042,07/31/2006,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,08/08/2006,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,08/20/2006,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/02/2006,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/04/2006,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/15/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/24/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/01/2006,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/07/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,10/21/2006,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,10/29/2006,8.75,NO,2.7,,,46,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,05/28/2007,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,06/21/2007,5.8,NO,1.8,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,06/25/2007,5.9,NO,1.8,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,07/09/2007,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,07/18/2007,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,07/25/2007,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/03/2007,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/12/2007,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/23/2007,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/21/2007,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/26/2007,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,05/08/2008,7,NO,2.1,,,49,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,05/24/2008,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,06/16/2008,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,06/24/2008,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,07/11/2008,5.8,NO,1.8,,,52,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,07/20/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,07/28/2008,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,08/14/2008,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/03/2008,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/17/2008,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/04/2008,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/12/2008,4.8,NO,1.5,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,10/25/2008,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,11/03/2008,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,05/04/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,05/24/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,06/16/2009,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,07/08/2009,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,08/06/2009,4.9,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,08/24/2009,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/08/2009,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/07/2009,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/30/2009,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,11/07/2009,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,05/18/2010,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,06/08/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,07/13/2010,6.9,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,07/25/2010,4.1,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,08/17/2010,3.4,NO,1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,09/08/2010,3.9,NO,1.2,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/05/2010,4.6,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116042,10/09/2010,4.8,NO,1.5,,,55,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,10/22/2010,5.2,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,10/30/2010,6.9,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116042,11/08/2010,7.7,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116042,05/08/2011,6.4,NO,1.9,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116042,05/22/2011,6.2,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,06/02/2011,5.7,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,07/04/2011,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116042,07/25/2011,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116042,08/21/2011,4.1,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/06/2011,3.4,NO,1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/12/2011,4.9,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,11/07/2011,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116042,06/12/2012,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,07/15/2012,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,07/21/2012,3.7,NO,1.1,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,07/29/2012,3.8,NO,1.2,,,58,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,05/20/2013,5.6,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,07/06/2013,4.6,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116042,06/22/2014,4.6,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,07/26/2014,4.3,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/16/2014,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/19/2014,5,NO,1.5,,,54,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,05/24/2015,6.1,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,06/12/2015,6.2,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116042,06/26/2015,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116042,09/15/2015,3.8,NO,1.2,,,58,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,10/21/2015,4.6,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,05/03/2016,5.1,NO,1.6,7.65,30,54,54,50,,,,,
+16116042,06/09/2016,5.2,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/23/2016,4.5,N,1.4,6.07,34,55,55,48,,,,,
+16116042,07/19/2016,4.2,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,07/21/2016,4.4,N,1.3,15.3,40.5,56,57,55,,,,,
+1,08/24/2016,3.4,N,1,26.8,42.4,59,57,60,,,,,
+16116042,09/04/2016,3.1,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/27/2016,4.9,N,1.5,3.16,47.8,54,58,43,,,,,
+16116042,08/13/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,07/30/2018,4.4,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,08/13/2018,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+197239773,06/08/2019,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116042,06/16/2019,5.4,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+197239773,06/16/2019,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+197239773,07/01/2019,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116042,07/06/2019,5.1,NO,1.6,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+197239773,07/10/2019,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+197239773,07/25/2019,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+197239773,08/05/2019,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+197239773,08/11/2019,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16116042,08/12/2019,4.1,NO,1.2,,,57,,,NORMAL,,MURKY,,3-Enjoyment somewhat impaired (algae)
+197239773,08/20/2019,5,,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+197239773,08/26/2019,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116042,09/02/2019,4.1,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+197239773,09/12/2019,6,,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+197239773,09/20/2019,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+197239773,05/22/2020,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+197239773,06/18/2020,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+197239773,07/06/2020,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116042,07/13/2020,5.3,NO,1.6,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+197239773,07/29/2020,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+197239773,08/13/2020,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116042,08/14/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+197239773,09/08/2020,6,,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+197239773,09/24/2020,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/07/1992,,,10.0,C,0.0,MG/L
+07/29/1992,,,11.5,C,0.0,MG/L
+09/01/1992,,,12.4,C,0.1,MG/L
+05/03/2016,,,11.2,C,10.4,MG/L
+06/23/2016,,,12.3,C,0.1,MG/L
+07/21/2016,,,10.1,C,0.1,MG/L
+08/24/2016,,,16.8,C,0.1,MG/L
+10/27/2016,,,9.0,C,8.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/11/1993,After high winds.    
+08/26/2002,Lake is turning over    
+09/29/2002,Tourists gone- lake is quieter    
+10/28/2002,Sunny day- no one on lake    
+05/23/2003,Quiet- sunny. Beautiful day. No traffic on lake. Windy.    
+07/13/2003,Partly cloudy- beautiful. About 3-4 boats on the water.    
+08/22/2003,Beautiful day- 2 boats on water. A little windy.    
+09/28/2003,Quiet on lake- not much traffic    
+10/31/2003,No boats- no wind- dreary day.    
+05/27/2004,No boat traffic- overcast    
+06/28/2004,Hazy day- no boat traffic yet.    
+07/26/2004,sunny    
+09/11/2004,partly cloudy    
+10/26/2004,No one on lake. No wind    
+08/01/2005,Sunny- partly cloudy.  Wave runner on the lake.    
+09/28/2005,Partly cloudy- hardly any boats.    
+10/22/2005,Overcast- no boats on water.    
+07/31/2006,74.2 chop
+08/08/2006,74.9 chop
+08/20/2006,71.4 light chop
+09/02/2006,70.4 ripple
+09/04/2006,72.0 calm
+09/15/2006,61.0 ripple
+09/24/2006,60.1 chop
+10/01/2006,55.3 calm
+10/07/2006,54.1 ripple
+10/21/2006,42.4 ripple 42.4 ripple
+10/29/2006,38.6 heavy chop
+05/28/2007,59.7 ripple
+06/21/2007,73.8 ripple
+06/25/2007,74.5 ripple
+07/09/2007,77.2 calm  -  Time of day and surface water conditions may impact reading!
+07/18/2007,75.2 ripple
+07/25/2007,75.2 ripple
+09/03/2007,69.4 chop
+09/12/2007,63.2 calm
+09/23/2007,62.0 heavy chop
+10/21/2007,52.5 chop
+10/26/2007,50.4 calm
+05/08/2008,50.9 ripple
+05/24/2008,58.7 ripple
+06/16/2008,60.8 ripple
+06/24/2008,66.7 chop
+07/11/2008,69.3 ripple
+07/20/2008,72.4 ripple
+07/28/2008,71.1 calm
+08/14/2008,72.8 chop
+09/03/2008,64.1 chop
+09/17/2008,62.4 ripple
+10/04/2008,56.8 ripple
+10/12/2008,54.4 calm
+10/25/2008,46.1 chop
+11/03/2008,43.9 calm
+05/04/2009,49
+05/24/2009,56
+06/16/2009,64
+07/08/2009,67
+08/06/2009,71
+08/24/2009,68
+09/08/2009,66
+10/07/2009,55
+10/30/2009,45
+11/07/2009,42
+05/18/2010,62.6 calm pollen on surface
+06/08/2010,66.0 chop some pollen
+07/13/2010,74.5 chop 74.5 chop very lite bloom
+07/25/2010,76.8 chop
+08/17/2010,71.1 chop
+09/08/2010,69.8 ripple
+10/05/2010,58.0 calm
+10/09/2010,57.8 calm
+10/22/2010,48.0 chop
+10/30/2010,43.6 chop
+11/08/2010,41.4 ripple
+05/08/2011,49.9 calm
+05/22/2011,60.6 ripple
+06/02/2011,58.7 ripple
+07/04/2011,74.1 chop
+07/25/2011,ripple - algae starting to appear
+08/21/2011,72.6 ripple
+09/06/2011,71.3 calm
+10/12/2011,59.6 ripple
+11/07/2011,40.9 chop
+06/12/2012,chop 68.4
+07/15/2012,chop 81.0
+07/21/2012,chop 78.6
+05/24/2015,light chop haze 61.3
+clearest in years
+06/12/2015,light chop sunny 66.3
+06/26/2015,light ripple 69.8
+09/15/2015,chop 66.2
+10/21/2015,chop 48.9
+06/09/2016,calm 64.5
+07/19/2016,chop 73.5
+09/04/2016,68.4 chop
+08/13/2017,light chop 68.1
+07/30/2018,72.7 chop
+08/13/2018,75.6 chop
+06/08/2019,Partly cloudy- moderate mixed sun and clouds
+06/16/2019,67.0  ripple
+06/16/2019,Clear sky- few slight clouds
+07/06/2019,74.9 choppy
+07/10/2019,Moderate clouds (65%)
+07/25/2019,Full sun
+08/05/2019,Moderate cloud cover
+08/11/2019,Sunny- moderate scattered clouds
+08/12/2019,72-8 light ripple
+08/20/2019,Partly cloudy
+08/26/2019,Moderate clouds- partial sun
+09/02/2019,64.2 ripple
+09/12/2019,Mostly cloudy- slight patchy sun
+09/20/2019,Full sun
+07/13/2020,ripple 77.1 water temp
+08/14/2020,chop 72.8 water temp
+
+
+
+
+Start Date,Group Name,Project Name
+07/07/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/29/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+09/01/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/11/1993,Shirley Ann Splinter,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/26/2002,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/29/2002,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/28/2002,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/23/2003,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/13/2003,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/22/2003,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/28/2003,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/31/2003,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/27/2004,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/28/2004,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/26/2004,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/11/2004,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/26/2004,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/04/2005,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/01/2005,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/28/2005,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/22/2005,Jeanette Boettcher,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/31/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/08/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/20/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/02/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/04/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/15/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/24/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/01/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/07/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/21/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/29/2006,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/28/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/21/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/25/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/09/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/18/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/25/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/03/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/12/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/23/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/21/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/26/2007,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/08/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/24/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/16/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/24/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/11/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/20/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/28/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/14/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/03/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/17/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/04/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/12/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/25/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+11/03/2008,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/04/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/24/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/16/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/08/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/06/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/24/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/08/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/07/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/30/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+11/07/2009,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/18/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/08/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/13/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/25/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/17/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/08/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/05/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/09/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/22/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/30/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+11/08/2010,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/08/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/22/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/02/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/04/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/25/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/21/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/06/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/12/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+11/07/2011,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/12/2012,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/15/2012,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/21/2012,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/29/2012,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/20/2013,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/06/2013,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/22/2014,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/26/2014,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/16/2014,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/19/2014,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/24/2015,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/12/2015,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/26/2015,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/15/2015,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/21/2015,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/03/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+06/09/2016,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/23/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+07/19/2016,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/21/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+08/24/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+09/04/2016,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+10/27/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+08/13/2017,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/30/2018,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/13/2018,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/08/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/16/2019,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/16/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/01/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/06/2019,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/10/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/25/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/05/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/11/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/12/2019,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/20/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/26/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/02/2019,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/12/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/20/2019,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+05/22/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+06/18/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/06/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/13/2020,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+07/29/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/13/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+08/14/2020,Dave Mueller,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/08/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole
+09/24/2020,Jody Voight,Citizen Lake Monitoring - Water Quality - Otter Lake; Deep Hole

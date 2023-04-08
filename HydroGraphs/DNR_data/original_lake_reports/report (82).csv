@@ -1,0 +1,125 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Des Moines Lake,Burnett,2674200,NO,7,,073118,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190602,07/11/1991,19.25,NO,5.9,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190602,07/19/1991,16.25,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190602,07/31/1991,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190602,08/21/1991,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,07/06/2007,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,07/18/2007,16.5,NO,5,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,07/24/2007,19.5,NO,5.9,,,34,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,07/29/2007,18.5,NO,5.6,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,08/11/2007,17.5,NO,5.3,,,36,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,08/26/2007,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,09/02/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+22220884,09/22/2007,11,NO,3.3,,,43,,,LOW,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+22220884,06/07/2008,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,06/30/2008,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,07/14/2008,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,08/01/2008,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,06/15/2009,19,NO,5.8,,,35,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+22220884,06/25/2011,18.5,NO,5.6,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,08/04/2011,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,06/29/2012,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+22220884,07/21/2012,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+85298908,06/08/2014,35,YES,10.6,,,26,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+85298908,07/27/2014,22,NO,6.7,,,33,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+85298908,08/08/2014,32,NO,9.7,,,27,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+85298908,09/06/2014,29,NO,8.8,,,29,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+85298908,05/31/2015,,,,1.09,10.7,,47,35,,,,,
+85298908,07/18/2015,,,,1.21,12.2,,48,36,,,,,
+85298908,07/04/2017,,,,1.4,10.4,,46,37,,,,,
+85298908,09/07/2017,,,,1.37,14.7,,49,37,,,,,
+85298908,06/03/2019,24.75,NO,7.5,0.704,9.03,31,45,32,,,CLEAR,GREEN,2-Very minor aesthetic problems
+85298908,09/23/2019,21,NO,6.4,1.38,ND*,33,,37,,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/03/2019,1,FEET,64.4,DEGREES F,,
+06/03/2019,5,FEET,64,DEGREES F,,
+06/03/2019,10,FEET,62.9,DEGREES F,,
+06/03/2019,15,FEET,58.5,DEGREES F,,
+06/03/2019,20,FEET,54.6,DEGREES F,,
+06/03/2019,25,FEET,50.9,DEGREES F,,
+06/03/2019,30,FEET,48.9,DEGREES F,,
+06/03/2019,35,FEET,48.2,DEGREES F,,
+06/03/2019,36,FEET,48.2,DEGREES F,,
+06/03/2019,37,FEET,48.2,DEGREES F,,
+09/23/2019,3,FEET,68,DEGREES F,,
+09/23/2019,5,FEET,67.8,DEGREES F,,
+09/23/2019,10,FEET,67.4,DEGREES F,,
+09/23/2019,15,FEET,66.2,DEGREES F,,
+09/23/2019,20,FEET,64.7,DEGREES F,,
+09/23/2019,25,FEET,63.3,DEGREES F,,
+09/23/2019,30,FEET,60.6,DEGREES F,,
+09/23/2019,33,FEET,56.4,DEGREES F,,
+09/23/2019,37,FEET,55.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/19/1991,After 2 days of rain    
+07/06/2007,Busy boat traffic- Brian suffering from swimmer's itch- mystery snails- several loons sighted so far this summer.
+07/18/2007,Quiet day on the lake.  Gentle breeze- more particulates in water than last reading.
+07/24/2007,One other boat on the lake- calm- sunny day.  Hot - 90+ degrees.  Same particulates as last reading.
+07/29/2007,Mild breeze today.  Two other boats on the lake.  Several loons on the lake today.
+08/11/2007,Windy day- sunny and hot.  Four boats out on the lake.  Finally rained a little bit last night - very dry August so far!
+08/26/2007,Partly cloudy day.  Few white caps.  Wind out of the south-southwest.  Little activity on the lake this weekend.  1 Loon sighted.  (Brian)
+09/02/2007,Mostly sunny- mild winds out of the West-Southwest.  Busy Labor Day weekend.  Heavy boat activity.  1 loon sighted.  78 degrees.
+09/22/2007,Bright sunny day.  Light breeze.  No boats at all on the lake besides ours.  Water appears cloudy today.  Heavy rains the past few days.  65 degrees.
+06/07/2008,Assisted by Beth Ihry.  Partly sunny; 3 to 4 boats on the lake; breezy @ 10-20 mph; 75 degrees; clear water; no loons observed.
+06/30/2008,Assisted by Beth Ihry.  Clear water.  
+07/14/2008,Assisted by Beth Ihry.  Sunny day; no wind; clear water. No loons observed.
+08/01/2008,Assisted by Beth Ihry.  Sunny day; clear water; no wind. 
+06/15/2009,Assisted by Beth Ihry.  No boats observed.  Partly sunny day; calm wind; 82 degrees; two pair of loons observed; greenish hue to the water.
+06/25/2011,Two loons observed on the lake.  Sunny day.  Light breeze.  Secchi measurement at 18.5 feet. Assisted by Beth Ihry.
+08/04/2011,Assisted by Beth Ihry.  Partly sunny day.  
+06/29/2012,Assisted by Beth Ihry.  Sunny day.  Very hot.  No other boats on the lake. Observed three (3) loons on the lake.  Observed 1 Eagle flying over the lake.
+07/21/2012,Assisted by Beth Ihry.  Observed five (5) boats on the lake. No loons observed.  Sunny- hot day. 
+06/08/2014,Sunny blue skies with minimal clouds. Slight breeze and only smooth water ripples. 66 degrees. Heavy Mayfly population in the air and surface of water.
+07/27/2014,Water appears slightly greener today. Moderately windy with small whitecaps forming. Many cabin owners up this weekend and several boats on the water.
+08/08/2014,Sunny blue skies with scattered white clouds. 82 degrees and windspeed 8mph. John (son-in-law) and I took measurements today.  Noticed Purple Loose Strife in a few areas on the lake - most heavily at NE end of lake close to boat landing.  
+09/06/2014,Slight wind fron SW. Terre and I and friends Peter and Scherrie are out for a boat tour of the lake today. Sunny with no clouds- 76 degrees with moderate ripples on the water but no whitecaps forming. Slight wind from SW.  Observed 2 Bald Eagles flying overhead.  Believe that we have seen a total of 4 Eagles this year that circle the lake.  Had 5 inches of drenching rain yesterday and a total of 10 inches reported over the week. 
+
+
+
+
+Start Date,Group Name,Project Name
+07/11/1991,Sue Sjeklocha,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/19/1991,Sue Sjeklocha,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/31/1991,Sue Sjeklocha,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+08/21/1991,Sue Sjeklocha,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/06/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/18/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/24/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/29/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+08/11/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+08/26/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+09/02/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+09/22/2007,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/07/2008,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/30/2008,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/14/2008,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+08/01/2008,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/15/2009,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/25/2011,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+08/04/2011,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/29/2012,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/21/2012,Chris Franken,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/08/2014,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/27/2014,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+08/08/2014,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+09/06/2014,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+05/31/2015,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/18/2015,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+07/04/2017,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+09/07/2017,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+06/03/2019,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole
+09/23/2019,Steven Markes,Citizen Lake Monitoring - Water Quality - Des Moines Lake - Deep Hole

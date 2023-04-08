@@ -1,0 +1,59 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Duroy Lake,Price,2240100,NO,51,,513092,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000017,05/21/1996,4,,1.2,12.7,33,57,55,54,,,,,
+7000017,08/21/1996,4,,1.2,12.4,41,57,57,54,,,,,
+7000017,04/26/2000,4.2,,1.3,,33,56,55,,,,,,
+7000017,06/12/2000,4,,1.2,7,37,57,56,50,,,,,
+7000017,07/17/2000,2.1,,0.6,13,79,66,62,54,,,,,
+7000017,08/10/2000,4,,1.2,4,86,57,63,45,,,,,
+1,04/30/2019,4,N,1.2,2.37,32.9,57,55,41,,,,,
+1,06/25/2019,2.4,NO,0.7,11.6,38.7,65,56,53,,,,,
+1,07/23/2019,2.8,NO,0.9,31.2,60.2,62,60,61,,,,,
+1,08/29/2019,2.5,N,0.8,5.11,63.3,64,60,47,,,,,
+1,10/16/2019,2.8,NO,0.9,1.56,70.3,62,61,38,,,,,
+1,02/11/2020,2.2,N,0.7,,24.9,66,53,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/21/1996,,,19.6,C,0.3,MG/L
+04/26/2000,1.64,FEET,,,10.4,MG/L
+04/26/2000,,,16.7,C,10.4,MG/L
+06/12/2000,,,15.3,C,0.4,MG/L
+07/17/2000,,,18.4,C,0.1,MG/L
+08/10/2000,,,20.8,C,0.1,MG/L
+04/30/2019,,,6.8,C,10.3,MG/L
+06/25/2019,,,15.4,C,.6,MG/L
+07/23/2019,,,18.7,C,0.2,MG/L
+08/29/2019,,,16.9,C,8,MG/L
+10/16/2019,,,06.0,C,10.4,MG/L
+02/11/2020,,,-0.2,C,0.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+05/21/1996,Craig Roesler,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/21/1996,Craig Roesler,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/26/2000,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/2000,Craig Roesler,Appraisal Monitoring 2000
+07/17/2000,Craig Roesler,Appraisal Monitoring 2000
+08/10/2000,Craig Roesler,Appraisal Monitoring 2000
+08/10/2000,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+04/30/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+06/25/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+07/23/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/29/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+10/16/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+02/11/2020,Data Collectors,Bacteria + Plankton (Paid Private)

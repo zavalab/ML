@@ -1,0 +1,502 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Big Blake Lake,Polk,2627000,NO,49,,493144,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190675,11/02/1990,7,NO,2.1,,,49,,,2' LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190675,11/09/1990,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BLUE,
+8190675,04/18/1991,5.5,NO,1.7,,,53,,,DOWN,,,,
+10589083,08/23/2000,4.3,,1.3,43,68,56,61,63,,,,,
+8189858,05/06/2001,4.75,NO,1.4,,,55,,,HIGH,9.5,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189858,05/12/2001,4.75,NO,1.4,,,55,,,HIGH,9.5,MURKY,GREEN,2-Very minor aesthetic problems
+8189858,05/28/2001,7,NO,2.1,,,49,,,HIGH,9,MURKY,BROWN,2-Very minor aesthetic problems
+8189858,06/08/2001,7,NO,2.1,,,49,,,NORMAL,9,MURKY,BROWN,2-Very minor aesthetic problems
+8189858,06/20/2001,5.5,NO,1.7,,,53,,,NORMAL,9,MURKY,GREEN,2-Very minor aesthetic problems
+8189858,06/30/2001,5.5,NO,1.7,,,53,,,NORMAL,9,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,07/14/2001,4.5,NO,1.4,,,55,,,NORMAL,9,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,07/28/2001,1.75,NO,0.5,,,69,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,08/12/2001,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189858,08/18/2001,1.75,NO,0.5,,,69,,,NORMAL,9,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,08/26/2001,1.5,NO,0.5,,,71,,,NORMAL,10,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,09/03/2001,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,05/27/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189858,06/27/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189858,07/01/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189858,07/08/2002,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189858,07/15/2002,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189858,07/27/2002,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,08/04/2002,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189858,08/11/2002,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189858,08/18/2002,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189858,09/01/2002,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189858,09/21/2002,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18908879,07/07/2007,,,,45.3,61,,60,64,,,,,
+18908879,08/24/2007,,,,95.1,161,,67,69,,,,,
+41880460,05/01/2010,5,NO,1.5,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+41880460,05/15/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+41880460,06/06/2010,4,NO,1.2,,,57,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+41880460,07/01/2010,4,NO,1.2,,,57,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+41880460,07/15/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41880460,08/02/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41880460,08/15/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41880460,09/01/2010,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+41880460,09/15/2010,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+41880460,10/06/2010,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+41880460,07/14/2011,7,NO,2.1,,,49,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+41880460,07/28/2011,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+41880460,08/14/2011,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41880460,08/28/2011,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41880460,09/14/2011,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+42076824,04/30/2012,6,NO,1.8,,,51,,,HIGH,1,CLEAR,BLUE,1-Beautiful, could not be nicer
+42076824,05/15/2012,6,NO,1.8,,,51,,,HIGH,1,CLEAR,BLUE,1-Beautiful, could not be nicer
+63903142,08/14/2012,,,,115,124,,65,71,,,,,
+49173843,05/20/2013,4.5,NO,1.4,,46.4,55,58,,,,,,
+49173843,05/28/2013,, ,,12.1,37.8,,56,54,,,,,
+49230085,05/28/2013,5,NO,1.5,,,54,,,,,,,
+49230085,06/19/2013,8, ,2.4,,,47,,,,,,,
+49173843,06/26/2013,,,,5.81,21.4,,52,48,,,,,
+49230085,06/26/2013,7, ,2.1,,,49,,,,,,,
+49230085,07/18/2013,4,NO,1.2,,,57,,,,,,,
+49173843,07/24/2013,,,,118,84.9,,63,71,,,,,
+49230085,07/24/2013,1.5,NO,0.5,,,71,,,,,,,
+49230085,08/09/2013,2, ,0.6,,,67,,,,,,,
+49230085,08/19/2013,1,NO,0.3,235,135,77,66,76,,,,,
+49230085,09/10/2013,2,NO,0.6,98.6,135,67,66,70,,,,,
+49230085,09/26/2013,2,NO,0.6,,,67,,,,,,,
+49230085,10/24/2013,8,NO,2.4,,,47,,,,,,,
+49230085,11/04/2013,10,NO,3,,,44,,,,,,,
+49230085,11/06/2013,11.5,NO,3.5,,,42,,,,,,,
+49230085,11/12/2013,14,YES,4.3,,27,39,54,,,,,,
+49230085,05/12/2014,3.5, ,1.1,,38.7,59,56,,,,,,
+49230085,05/22/2014,6, ,1.8,,,51,,,,,,,
+49230085,05/28/2014,9,NO,2.7,2.93,30.8,45,55,43,,,,,
+49230085,06/09/2014,6,NO,1.8,,,51,,,,,,,
+49230085,06/24/2014,8,NO,2.4,6.71,21.2,47,52,49,,,,,
+49230085,07/09/2014,4,NO,1.2,,,57,,,,,,,
+49230085,07/21/2014,4,NO,1.2,8.19,37.7,57,56,51,,,,,
+49230085,08/05/2014,4,NO,1.2,,,57,,,,,,,
+49230085,08/19/2014,2,NO,0.6,76.8,62.2,67,60,68,,,,,
+49230085,09/06/2014,3.5,NO,1.1,,,59,,,,,,,
+49230085,09/17/2014,3,NO,0.9,38.1,51,61,59,62,,,,,
+49230085,11/03/2014,9,NO,2.7,,24.7,45,53,,,,,,
+49230085,04/14/2015,7,NO,2.1,,25.2,49,53,,,,,,
+37734328,05/27/2015,,,,3.35,24.8,,53,44,,,,,
+49230085,05/27/2015,11,NO,3.3,,,43,,,,,,,
+49230085,06/09/2015,8,NO,2.4,,,47,,,,,,,
+1,06/25/2015,,,,7.67,22.8,,52,50,,,,,
+49230085,06/25/2015,8.5,NO,2.6,,,46,,,,,,,
+49230085,07/07/2015,6,NO,1.8,,,51,,,,,,,
+49230085,07/20/2015,3.5,NO,1.1,27,43.7,59,57,60,,,,,
+49230085,08/06/2015,1.5,NO,0.5,,,71,,,,,,,
+49230085,08/17/2015,1.5,NO,0.5,123,77,71,62,71,,,,,
+49230085,08/31/2015,2,NO,0.6,,,67,,,,,,,
+49230085,09/14/2015,3,NO,0.9,33.8,69.1,61,61,61,,,,,
+18137793,11/17/2015,10,NO,3,,,44,,,,,,,
+49230085,11/17/2015,,,,,30.5,,55,,,,,,
+63903142,05/08/2016,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+63903142,05/22/2016,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+63903142,06/10/2016,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+63903142,06/20/2016,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+63903142,07/08/2016,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+63903142,07/24/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+63903142,08/05/2016,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/15/2010,0,FEET,64,DEGREES F,,
+05/15/2010,5,FEET,64,DEGREES F,,
+05/15/2010,10,FEET,63,DEGREES F,,
+05/15/2010,15,FEET,63,DEGREES F,,
+06/06/2010,0,FEET,74,DEGREES F,,
+06/06/2010,5,FEET,74,DEGREES F,,
+06/06/2010,10,FEET,73,DEGREES F,,
+06/06/2010,15,FEET,72,DEGREES F,,
+07/15/2010,0,FEET,78,DEGREES F,,
+07/15/2010,5,FEET,78,DEGREES F,,
+07/15/2010,10,FEET,77,DEGREES F,,
+07/15/2010,15,FEET,76,DEGREES F,,
+08/15/2010,0,FEET,78,DEGREES F,,
+08/15/2010,5,FEET,77,DEGREES F,,
+08/15/2010,10,FEET,75,DEGREES F,,
+08/15/2010,15,FEET,75,DEGREES F,,
+09/15/2010,0,FEET,73,DEGREES F,,
+09/15/2010,5,FEET,73,DEGREES F,,
+09/15/2010,10,FEET,71,DEGREES F,,
+09/15/2010,15,FEET,70,DEGREES F,,
+07/14/2011,0,FEET,80,DEGREES F,,
+07/14/2011,5,FEET,80,DEGREES F,,
+07/14/2011,10,FEET,79,DEGREES F,,
+07/14/2011,15,FEET,77,DEGREES F,,
+08/14/2011,0,FEET,81,DEGREES F,,
+08/14/2011,5,FEET,80,DEGREES F,,
+08/14/2011,10,FEET,79,DEGREES F,,
+08/14/2011,15,FEET,78,DEGREES F,,
+09/14/2011,0,FEET,75,DEGREES F,,
+09/14/2011,5,FEET,74,DEGREES F,,
+09/14/2011,10,FEET,74,DEGREES F,,
+09/14/2011,15,FEET,73,DEGREES F,,
+04/30/2012,0,FEET,49,DEGREES F,,
+04/30/2012,5,FEET,48,DEGREES F,,
+04/30/2012,10,FEET,47.5,DEGREES F,,
+04/30/2012,15,FEET,47,DEGREES F,,
+05/20/2013,0,METERS,16.76,DEGREES C,7.46,MG/L
+05/20/2013,1,METERS,16.74,DEGREES C,7.89,MG/L
+05/20/2013,2,METERS,16.73,DEGREES C,8.18,MG/L
+05/20/2013,3,METERS,16.53,DEGREES C,8.19,MG/L
+05/20/2013,4,METERS,15.59,DEGREES C,5.54,MG/L
+05/28/2013,0,METERS,15.28,DEGREES C,3.35,MG/L
+05/28/2013,1,METERS,15.27,DEGREES C,4.13,MG/L
+05/28/2013,2,METERS,15.26,DEGREES C,5.06,MG/L
+05/28/2013,3,METERS,15.23,DEGREES C,5.9,MG/L
+05/28/2013,4,METERS,15.23,DEGREES C,5.97,MG/L
+06/19/2013,0,METERS,22.39,DEGREES C,2.96,MG/L
+06/19/2013,1,METERS,22.19,DEGREES C,4.12,MG/L
+06/19/2013,2,METERS,21.99,DEGREES C,5.28,MG/L
+06/19/2013,3,METERS,19.99,DEGREES C,3.1,MG/L
+06/19/2013,4,METERS,18.94,DEGREES C,1.29,MG/L
+06/26/2013,0,METERS,25.71,DEGREES C,7.35,MG/L
+06/26/2013,1,METERS,25.51,DEGREES C,6.62,MG/L
+06/26/2013,2,METERS,25.34,DEGREES C,6.93,MG/L
+06/26/2013,3,METERS,24.68,DEGREES C,5.98,MG/L
+06/26/2013,4,METERS,21.64,DEGREES C,1.61,MG/L
+07/18/2013,0,METERS,28.52,DEGREES C,2.91,MG/L
+07/18/2013,1,METERS,29.15,DEGREES C,5.81,MG/L
+07/18/2013,2,METERS,26.74,DEGREES C,5.83,MG/L
+07/18/2013,3,METERS,24.26,DEGREES C,.03,MG/L
+07/18/2013,4,METERS,23.85,DEGREES C,0,MG/L
+07/24/2013,0,METERS,24.19,DEGREES C,5.67,MG/L
+07/24/2013,1,METERS,24.23,DEGREES C,7.37,MG/L
+07/24/2013,2,METERS,24.11,DEGREES C,4.85,MG/L
+07/24/2013,3,METERS,24.04,DEGREES C,5.5,MG/L
+07/24/2013,4,METERS,23.87,DEGREES C,3.93,MG/L
+08/09/2013,0,METERS,23.09,DEGREES C,7.86,MG/L
+08/09/2013,1,METERS,23.19,DEGREES C,10.83,MG/L
+08/09/2013,2,METERS,22.12,DEGREES C,5.77,MG/L
+08/09/2013,3,METERS,21.39,DEGREES C,2.04,MG/L
+08/09/2013,4,METERS,21.31,DEGREES C,.86,MG/L
+08/19/2013,0,METERS,23.65,DEGREES C,3.4,MG/L
+08/19/2013,1,METERS,23.46,DEGREES C,8.57,MG/L
+08/19/2013,2,METERS,23.14,DEGREES C,7,MG/L
+08/19/2013,3,METERS,22.53,DEGREES C,1.71,MG/L
+08/19/2013,4,METERS,21.79,DEGREES C,0,MG/L
+09/10/2013,0,METERS,22.87,DEGREES C,2.86,MG/L
+09/10/2013,1,METERS,22.84,DEGREES C,3.4,MG/L
+09/10/2013,2,METERS,22.38,DEGREES C,1.46,MG/L
+09/10/2013,3,METERS,22.24,DEGREES C,1.42,MG/L
+09/10/2013,4,METERS,21.88,DEGREES C,0,MG/L
+09/26/2013,0,METERS,17.81,DEGREES C,7.37,MG/L
+09/26/2013,1,METERS,17.74,DEGREES C,10.63,MG/L
+09/26/2013,2,METERS,17.74,DEGREES C,8.47,MG/L
+09/26/2013,3,METERS,17.64,DEGREES C,9.05,MG/L
+09/26/2013,4,METERS,17.43,DEGREES C,8.84,MG/L
+10/24/2013,0,METERS,7.25,DEGREES C,5.7,MG/L
+10/24/2013,1,METERS,7.23,DEGREES C,3.61,MG/L
+10/24/2013,2,METERS,7.13,DEGREES C,3.67,MG/L
+10/24/2013,3,METERS,7.03,DEGREES C,4.26,MG/L
+10/24/2013,4,METERS,6.98,DEGREES C,4.77,MG/L
+11/04/2013,0,METERS,5.76,DEGREES C,23.56,MG/L
+11/04/2013,1,METERS,5.74,DEGREES C,22.47,MG/L
+11/04/2013,2,METERS,5.73,DEGREES C,20.76,MG/L
+11/04/2013,3,METERS,5.73,DEGREES C,19.63,MG/L
+11/04/2013,4,METERS,5.72,DEGREES C,12.49,MG/L
+11/06/2013,0,METERS,5.39,DEGREES C,8.65,MG/L
+11/06/2013,1,METERS,5.37,DEGREES C,7.84,MG/L
+11/06/2013,2,METERS,5.38,DEGREES C,7.15,MG/L
+11/06/2013,3,METERS,5.29,DEGREES C,6.85,MG/L
+11/06/2013,4,METERS,5.18,DEGREES C,6.81,MG/L
+11/12/2013,0,METERS,2.71,DEGREES C,24.76,MG/L
+11/12/2013,1,METERS,2.54,DEGREES C,26.06,MG/L
+11/12/2013,2,METERS,2.54,DEGREES C,22.28,MG/L
+11/12/2013,3,METERS,2.57,DEGREES C,15.99,MG/L
+11/12/2013,4,METERS,3.39,DEGREES C,14.65,MG/L
+05/12/2014,0,METERS,14.07,DEGREES C,11.85,MG/L
+05/12/2014,1,METERS,13.9,DEGREES C,11.94,MG/L
+05/12/2014,2,METERS,13.3,DEGREES C,11.82,MG/L
+05/12/2014,3,METERS,12.89,DEGREES C,9.63,MG/L
+05/12/2014,4,METERS,12.22,DEGREES C,3.8,MG/L
+05/22/2014,0,METERS,15.51,DEGREES C,8.56,MG/L
+05/22/2014,1,METERS,15.34,DEGREES C,8.22,MG/L
+05/22/2014,2,METERS,14.13,DEGREES C,7.84,MG/L
+05/22/2014,3,METERS,13.95,DEGREES C,9.51,MG/L
+05/22/2014,4,METERS,13.9,DEGREES C,6.96,MG/L
+05/28/2014,0,METERS,20.39,DEGREES C,5.58,MG/L
+05/28/2014,1,METERS,20.04,DEGREES C,5.25,MG/L
+05/28/2014,2,METERS,18.68,DEGREES C,4.88,MG/L
+05/28/2014,3,METERS,17.84,DEGREES C,2.8,MG/L
+05/28/2014,4,METERS,15.8,DEGREES C,.7,MG/L
+06/09/2014,0,METERS,21.41,DEGREES C,5.7,MG/L
+06/09/2014,1,METERS,21.39,DEGREES C,5.43,MG/L
+06/09/2014,2,METERS,21.13,DEGREES C,5.42,MG/L
+06/09/2014,3,METERS,20.18,DEGREES C,3.1,MG/L
+06/09/2014,4,METERS,19.53,DEGREES C,1.06,MG/L
+06/24/2014,0,METERS,24.62,DEGREES C,5.16,MG/L
+06/24/2014,1,METERS,24.04,DEGREES C,5.19,MG/L
+06/24/2014,2,METERS,23.64,DEGREES C,4.82,MG/L
+06/24/2014,3,METERS,21.63,DEGREES C,2.82,MG/L
+06/24/2014,4,METERS,20.87,DEGREES C,1.16,MG/L
+07/09/2014,0,METERS,23.61,DEGREES C,3.77,MG/L
+07/09/2014,1,METERS,23.24,DEGREES C,3.62,MG/L
+07/09/2014,2,METERS,22.87,DEGREES C,3.56,MG/L
+07/09/2014,3,METERS,22.78,DEGREES C,3.34,MG/L
+07/09/2014,4,METERS,22.62,DEGREES C,.63,MG/L
+07/21/2014,0,METERS,24.04,DEGREES C,4.13,MG/L
+07/21/2014,1,METERS,23.98,DEGREES C,4.01,MG/L
+07/21/2014,2,METERS,23.77,DEGREES C,3.8,MG/L
+07/21/2014,3,METERS,23.58,DEGREES C,3.52,MG/L
+07/21/2014,4,METERS,22.46,DEGREES C,.95,MG/L
+08/05/2014,0,METERS,25.17,DEGREES C,8.45,MG/L
+08/05/2014,1,METERS,24.76,DEGREES C,9.36,MG/L
+08/05/2014,2,METERS,24.24,DEGREES C,7.05,MG/L
+08/05/2014,3,METERS,23.73,DEGREES C,0,MG/L
+08/05/2014,4,METERS,23.4,DEGREES C,0,MG/L
+08/19/2014,0,METERS,23.61,DEGREES C,4.87,MG/L
+08/19/2014,1,METERS,23.43,DEGREES C,4.53,MG/L
+08/19/2014,2,METERS,23.39,DEGREES C,4.09,MG/L
+08/19/2014,3,METERS,23.34,DEGREES C,3.29,MG/L
+08/19/2014,4,METERS,23.07,DEGREES C,.93,MG/L
+09/06/2014,0,METERS,20.92,DEGREES C,2.61,MG/L
+09/06/2014,1,METERS,20.94,DEGREES C,2.52,MG/L
+09/06/2014,2,METERS,20.94,DEGREES C,2.52,MG/L
+09/06/2014,3,METERS,20.94,DEGREES C,2.52,MG/L
+09/06/2014,4,METERS,20.93,DEGREES C,1.86,MG/L
+09/17/2014,0,METERS,18.13,DEGREES C,10.06,MG/L
+09/17/2014,1,METERS,16.69,DEGREES C,10.37,MG/L
+09/17/2014,2,METERS,15.94,DEGREES C,9.2,MG/L
+09/17/2014,3,METERS,15.68,DEGREES C,5.78,MG/L
+09/17/2014,4,METERS,15.49,DEGREES C,5.6,MG/L
+09/17/2014,4.5,METERS,15.33,DEGREES C,1.43,MG/L
+11/03/2014,0,METERS,6.13,DEGREES C,3.25,MG/L
+11/03/2014,1,METERS,6.14,DEGREES C,3.21,MG/L
+11/03/2014,2,METERS,6.13,DEGREES C,3.32,MG/L
+11/03/2014,3,METERS,6.12,DEGREES C,3.46,MG/L
+11/03/2014,4,METERS,6.12,DEGREES C,3.49,MG/L
+04/14/2015,0,METERS,10.14,DEGREES C,3.33,MG/L
+04/14/2015,1,METERS,10.08,DEGREES C,3.49,MG/L
+04/14/2015,2,METERS,9.73,DEGREES C,3.66,MG/L
+04/14/2015,3,METERS,9.66,DEGREES C,3.81,MG/L
+04/14/2015,4,METERS,9.61,DEGREES C,3.6,MG/L
+05/27/2015,0,METERS,17.95,DEGREES C,5.83,MG/L
+05/27/2015,1,METERS,17.51,DEGREES C,5.66,MG/L
+05/27/2015,2,METERS,17.09,DEGREES C,5.44,MG/L
+05/27/2015,3,METERS,16.96,DEGREES C,5.57,MG/L
+05/27/2015,4,METERS,16.69,DEGREES C,2.66,MG/L
+05/27/2015,4.5,METERS,16.66,DEGREES C,2.22,MG/L
+06/09/2015,0,METERS,24.65,DEGREES C,5.06,MG/L
+06/09/2015,1,METERS,22.56,DEGREES C,5.12,MG/L
+06/09/2015,2,METERS,21.64,DEGREES C,5.09,MG/L
+06/09/2015,3,METERS,21.27,DEGREES C,4.54,MG/L
+06/09/2015,4,METERS,20.46,DEGREES C,2.4,MG/L
+06/09/2015,4.25,METERS,20.32,DEGREES C,.89,MG/L
+06/25/2015,0,METERS,24.51,DEGREES C,4.15,MG/L
+06/25/2015,1,METERS,24.23,DEGREES C,4.12,MG/L
+06/25/2015,2,METERS,23.41,DEGREES C,4.08,MG/L
+06/25/2015,3,METERS,22.34,DEGREES C,1.86,MG/L
+06/25/2015,4,METERS,21.84,DEGREES C,.14,MG/L
+06/25/2015,4.25,METERS,21.71,DEGREES C,0,MG/L
+07/07/2015,0,METERS,23.56,DEGREES C,1.38,MG/L
+07/07/2015,1,METERS,23.57,DEGREES C,1.42,MG/L
+07/07/2015,2,METERS,23.43,DEGREES C,1.45,MG/L
+07/07/2015,3,METERS,23.33,DEGREES C,1.45,MG/L
+07/07/2015,4,METERS,22.98,DEGREES C,1.47,MG/L
+07/07/2015,4.5,METERS,22.92,DEGREES C,0,MG/L
+07/20/2015,0,METERS,25.68,DEGREES C,3.82,MG/L
+07/20/2015,1,METERS,25.67,DEGREES C,3.87,MG/L
+07/20/2015,2,METERS,25.59,DEGREES C,3.9,MG/L
+07/20/2015,3,METERS,24.43,DEGREES C,1.69,MG/L
+07/20/2015,4,METERS,24.13,DEGREES C,.99,MG/L
+07/20/2015,4.5,METERS,23.86,DEGREES C,0,MG/L
+08/06/2015,0,METERS,24.44,DEGREES C,7.99,MG/L
+08/06/2015,1,METERS,24.43,DEGREES C,8.26,MG/L
+08/06/2015,2,METERS,24.37,DEGREES C,7.95,MG/L
+08/06/2015,3,METERS,23.92,DEGREES C,6,MG/L
+08/06/2015,4,METERS,22.83,DEGREES C,2.22,MG/L
+08/06/2015,4.5,METERS,22.77,DEGREES C,0,MG/L
+08/17/2015,0,METERS,25.67,DEGREES C,5.65,MG/L
+08/17/2015,1,METERS,25.68,DEGREES C,6.05,MG/L
+08/17/2015,2,METERS,24.68,DEGREES C,.31,MG/L
+08/17/2015,3,METERS,23.61,DEGREES C,0,MG/L
+08/17/2015,4,METERS,23.01,DEGREES C,0,MG/L
+08/17/2015,4.5,METERS,22.83,DEGREES C,0,MG/L
+08/31/2015,0,METERS,21.82,DEGREES C,9.21,MG/L
+08/31/2015,1,METERS,21.74,DEGREES C,11.04,MG/L
+08/31/2015,2,METERS,21.43,DEGREES C,11.43,MG/L
+08/31/2015,3,METERS,21.17,DEGREES C,9.43,MG/L
+08/31/2015,4,METERS,20.67,DEGREES C,2.77,MG/L
+08/31/2015,4.5,METERS,19.84,DEGREES C,0,MG/L
+09/14/2015,0,METERS,20.3,DEGREES C,6.93,MG/L
+09/14/2015,1,METERS,20.19,DEGREES C,8.7,MG/L
+09/14/2015,2,METERS,20.07,DEGREES C,8.09,MG/L
+09/14/2015,3,METERS,19.83,DEGREES C,7.66,MG/L
+09/14/2015,4,METERS,19.71,DEGREES C,6.8,MG/L
+09/14/2015,4.5,METERS,19.72,DEGREES C,0,MG/L
+11/17/2015,0,METERS,7.19,DEGREES C,4.73,MG/L
+11/17/2015,1,METERS,7.18,DEGREES C,4.94,MG/L
+11/17/2015,2,METERS,7.17,DEGREES C,5.21,MG/L
+11/17/2015,3,METERS,7.16,DEGREES C,5.42,MG/L
+11/17/2015,4,METERS,7.12,DEGREES C,5.54,MG/L
+11/17/2015,4.5,METERS,7.17,DEGREES C,4.64,MG/L
+05/08/2016,0,FEET,55.2,DEGREES F,,
+05/08/2016,3,FEET,54.8,DEGREES F,,
+05/08/2016,6,FEET,54,DEGREES F,,
+05/08/2016,9,FEET,53.2,DEGREES F,,
+05/22/2016,0,FEET,59.9,DEGREES F,,
+05/22/2016,3,FEET,58,DEGREES F,,
+05/22/2016,6,FEET,57.3,DEGREES F,,
+05/22/2016,9,FEET,56.8,DEGREES F,,
+06/10/2016,0,FEET,70.8,DEGREES F,,
+06/10/2016,3,FEET,69.9,DEGREES F,,
+06/10/2016,6,FEET,68,DEGREES F,,
+06/10/2016,9,FEET,67.3,DEGREES F,,
+06/20/2016,0,FEET,74,DEGREES F,,
+06/20/2016,3,FEET,73.1,DEGREES F,,
+06/20/2016,6,FEET,72.3,DEGREES F,,
+06/20/2016,9,FEET,71.8,DEGREES F,,
+07/08/2016,0,FEET,74.3,DEGREES F,,
+07/08/2016,3,FEET,74,DEGREES F,,
+07/08/2016,6,FEET,73.1,DEGREES F,,
+07/08/2016,9,FEET,72.3,DEGREES F,,
+07/24/2016,0,FEET,77.3,DEGREES F,,
+07/24/2016,3,FEET,77,DEGREES F,,
+07/24/2016,6,FEET,75.8,DEGREES F,,
+07/24/2016,9,FEET,74.7,DEGREES F,,
+08/05/2016,0,FEET,77.3,DEGREES F,,
+08/05/2016,3,FEET,77,DEGREES F,,
+08/05/2016,6,FEET,76.1,DEGREES F,,
+08/05/2016,9,FEET,75.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+11/02/1990,Overcast- 47 F- light N wind.    
+11/09/1990,Overcast- windy- 39 F.    
+04/18/1991,Sporadic showers- light wind- 50 F- water dark.    
+05/06/2001,A lot of rain and snow melt--water is high.    
+05/28/2001,A lot of rain this week--water is high. It's sunny today.    
+06/08/2001,Finally sunny and warm.    
+06/20/2001,Not much rain- pretty hot outside.    
+06/30/2001,No rain- hot- weedy.    
+07/14/2001,Lake turning over. Very hot and no rain for a long time.    
+07/28/2001,Lake has turned a lot of rain.  Lake is very green with lots of weed.  Humid weather.    
+05/27/2002,Ice out about 4/17/02.    
+07/01/2002,Hot- humid and no rain.    
+07/08/2002,Rain last night.    
+07/27/2002,3" rain this week.    
+08/04/2002,3-1/2" rain yesterday.    
+09/01/2002,Rain- rain- rain.    
+09/21/2002,Weeds.    
+07/28/2011,clear no wind 
+08/14/2011,clear no wind 
+08/28/2011,cloudy 
+09/14/2011,sunny 
+04/30/2012,sunny sunny sunny sunny sunny sunny        
+08/19/2013,Lab results had 8/19/2010.  Corrected to 2013.
+
+
+
+
+Start Date,Group Name,Project Name
+11/02/1990,Donald Thompson,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+11/09/1990,Donald Thompson,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+04/18/1991,Donald Thompson,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/23/2000,MARTIN GRIFFIN,GMU LAKE CLASS STUDY
+05/06/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/12/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/28/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/08/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/20/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/30/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/14/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/28/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/12/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/18/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/26/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+09/03/2001,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/27/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/27/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/01/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/08/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/15/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/27/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/04/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/11/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/18/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+09/01/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+09/21/2002,Lorri Simon,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/07/2007,Ford Elliott,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/24/2007,Ford Elliott,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/01/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/15/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/06/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/01/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/15/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/02/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/15/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+09/01/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+09/15/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+10/06/2010,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/14/2011,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/28/2011,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/14/2011,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/28/2011,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+09/14/2011,Jim Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+04/30/2012,Jim and Joan Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/15/2012,Jim and Joan Maxwell,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/14/2012,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/20/2013,Katelin Anderson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/28/2013,Katelin Anderson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/28/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/19/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/26/2013,Katelin Anderson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/26/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/18/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/24/2013,Katelin Anderson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/24/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/09/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/19/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+09/10/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+09/26/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+10/24/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+11/04/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+11/06/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+11/12/2013,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/12/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/22/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/28/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/09/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/24/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/09/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/21/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/05/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/19/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+09/06/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+09/17/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+11/03/2014,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+04/14/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/27/2015,Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/27/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/09/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/25/2015,Data Collectors,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/25/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+06/25/2015,Katelin Anderson and Jeremy Williamson,FOREST COUNTY SILVER LAKE ASSOC: Silver Lake Management Planning Project
+07/07/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/20/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+07/20/2015,Katelin Anderson and Jeremy Williamson,NORTH LAKELAND DISCOVERY CENTER: Town of Winchester Lake Management Planning Project Ph1- Hiawatha + Harris Lks
+08/06/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/17/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+08/17/2015,Katelin Anderson and Jeremy Williamson,NORTH LAKELAND DISCOVERY CENTER: Town of Winchester Lake Management Planning Project Ph1- Hiawatha + Harris Lks
+08/31/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+09/14/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+11/17/2015,Big Blake Lake P Dist.,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+11/17/2015,Katelin Anderson and Jeremy Williamson,BLAKE LAKE PROTECTION + REHABILITATION DIST: Big Blake Lake AIS Control: Education- Prevention + Planning Project
+05/08/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+05/22/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/10/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+06/20/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/08/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+07/24/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin
+08/05/2016,Shawn Perkins,Citizen Lake Monitoring - Water Quality - Big Blake Lake - Deep Hole/Main Basin

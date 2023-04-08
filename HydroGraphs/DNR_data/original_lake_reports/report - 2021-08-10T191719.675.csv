@@ -1,0 +1,92 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Glisezinski Lake,Portage,987100,WC,50,,503089,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189787,06/01/1994,5,NO,1.5,,,54,,,GAUGE,12,,BROWN,
+8189787,06/10/1994,5,NO,1.5,,,54,,,GAUGE,12,,BROWN,
+8189787,06/14/1995,6,NO,1.8,,,51,,,FEET,12,,BROWN,1-Beautiful, could not be nicer
+8189787,07/11/1995,5,NO,1.5,,,54,,,FEET,10,,BROWN,2-Very minor aesthetic problems
+8189787,09/18/1995,5,NO,1.5,,,54,,,FEET,11,,BROWN,2-Very minor aesthetic problems
+243843010,07/26/2002,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+79323097,06/14/2013,6.25,NO,1.9,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+79323097,07/01/2013,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+79323097,08/04/2013,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+79323097,08/09/2013,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+79323097,05/30/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+79323097,10/17/2014,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+48063989,07/13/2020,,,,,,,,,,,,,
+243843010,07/13/2020,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+48063989,07/29/2020,,,,,,,,,,,,,
+48063989,08/07/2020,,,,,,,,,,,,,
+243843010,08/07/2020,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+243843010,08/13/2020,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+48063989,09/05/2020,,,,,,,,,,,,,
+48063989,10/14/2020,,,,,,,,,,,,,
+48063989,12/21/2020,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/13/2020,3,FEET,80.4,DEGREES F,8.05,MG/L
+07/13/2020,6,FEET,79.3,DEGREES F,8.31,MG/L
+07/13/2020,10,FEET,79.5,DEGREES F,7.41,MG/L
+07/29/2020,3,FEET,81.14,DEGREES F,5.5,MG/L
+07/29/2020,6,FEET,78.62,DEGREES F,5.74,MG/L
+07/29/2020,10,FEET,76.1,DEGREES F,5.2,MG/L
+08/07/2020,5,FEET,72.86,DEGREES F,5.79,MG/L
+08/07/2020,9,FEET,71.78,DEGREES F,5.52,MG/L
+08/07/2020,12,FEET,70.2,DEGREES F,2,MG/L
+09/05/2020,3,FEET,68.36,DEGREES F,7.39,MG/L
+09/05/2020,6,FEET,67.64,DEGREES F,7.3,MG/L
+09/05/2020,9,FEET,67.46,DEGREES F,6.88,MG/L
+09/05/2020,12,FEET,67.28,DEGREES F,6.55,MG/L
+10/14/2020,3,FEET,53.6,DEGREES F,8.97,MG/L
+10/14/2020,6,FEET,53.6,DEGREES F,9.04,MG/L
+10/14/2020,9,FEET,53.6,DEGREES F,9.29,MG/L
+10/14/2020,12,FEET,53.4,DEGREES F,10.06,MG/L
+12/21/2020,3,FEET,37.58,DEGREES F,16.18,MG/L
+12/21/2020,6,FEET,37.76,DEGREES F,14.27,MG/L
+12/21/2020,9,FEET,37.94,DEGREES F,13.76,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/26/2002,Part/cloudy- slight breeze- 81deg. 4 days after weed harvesting.
+07/13/2020,Part/cloudy- slight breeze- 79deg.
+08/07/2020,Cyndi Adams-volunteer monitor
+08/07/2020,Part/cloudy- windy- 82deg.
+08/13/2020,Part cloudy- breezy- 82deg.
+09/05/2020,Cyndi Adams-volunteer monitor
+10/14/2020,Cyndi Adams-volunteer monitor
+12/21/2020,Ryan Yenter-volunteer monitor and Tracy Arnold
+
+
+
+
+Start Date,Group Name,Project Name
+06/01/1994,Ed And Bernice Gollwitzer,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+06/10/1994,Ed And Bernice Gollwitzer,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+06/14/1995,Ed And Bernice Gollwitzer,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+07/11/1995,Ed And Bernice Gollwitzer,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+09/18/1995,Ed And Bernice Gollwitzer,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+07/26/2002,Jerry Nault,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+06/14/2013,Ryan Haney,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+07/01/2013,Ryan Haney,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+08/04/2013,Ryan Haney,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+08/09/2013,Ryan Haney,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+05/30/2014,Ryan Haney,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+10/17/2014,Ryan Haney,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+07/13/2020,Jerry Nault,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+07/13/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+07/29/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+08/07/2020,Jerry Nault,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+08/07/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+08/13/2020,Jerry Nault,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+09/05/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+10/14/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole
+12/21/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Glisezinski Lake - Deep Hole

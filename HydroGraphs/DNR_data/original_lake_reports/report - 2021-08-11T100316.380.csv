@@ -1,0 +1,760 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kusel Lake,Waushara,189600,NE,70,,703103,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189423,05/30/1999,18.75,NO,5.7,,,35,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189423,06/05/1999,16.75,NO,5.1,,,37,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189423,06/19/1999,14.5,NO,4.4,,,39,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189423,06/30/1999,12.25,NO,3.7,,,41,,,LOW,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189422,07/11/1999,11,NO,3.3,,,43,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189423,07/18/1999,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189423,07/25/1999,13.5,NO,4.1,,,40,,,NO CHANGE,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189423,08/02/1999,15.25,NO,4.6,,,38,,,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189423,08/14/1999,17.75,NO,5.4,,,36,,,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189423,08/21/1999,15.25,NO,4.6,,,38,,,NO CHANGE,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8189423,08/29/1999,14,NO,4.3,,,39,,,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189423,09/06/1999,12.25,NO,3.7,,,41,,,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189423,09/11/1999,11.25,NO,3.4,,,42,,,NO CHANGE,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189423,09/19/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189422,05/29/2000,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189422,06/11/2000,18,NO,5.5,,,35,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189422,06/25/2000,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/01/2000,19.25,NO,5.9,,,35,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/15/2000,14.75,NO,4.5,,,38,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/23/2000,15.25,NO,4.6,,,38,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/30/2000,15,NO,4.6,,,38,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+7000093,08/02/2000,11.2,,3.4,3,10,42,46,43,,,,,
+8189422,08/05/2000,14.25,NO,4.3,,,39,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,08/11/2000,14.5,NO,4.4,,,39,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,09/09/2000,14.75,NO,4.5,,,38,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,09/17/2000,14.25,NO,4.3,,,39,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+7000093,04/25/2001,,,,,12,,47,,,,,,
+8188659,06/07/2001,,,,3.2,10,,46,44,,,,,
+8189423,06/09/2001,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,06/24/2001,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,07/08/2001,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+7000093,07/09/2001,,,,3,12,,47,43,,,,,
+8189423,07/15/2001,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,08/05/2001,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,08/12/2001,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,08/19/2001,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,09/03/2001,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188659,09/05/2001,,,,4.4,16,,50,46,,,,,
+8189423,06/30/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,07/07/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,07/14/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,07/28/2002,15,NO,4.6,,,38,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,08/11/2002,15,NO,4.6,,,38,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189423,08/25/2002,16,NO,4.9,,,37,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,05/26/2003,15.5,NO,4.7,,,38,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,06/15/2003,12,NO,3.6,,,41,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,06/29/2003,11,NO,3.3,,,43,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,08/10/2003,9.75,NO,3,,,44,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,06/20/2004,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/03/2004,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/14/2004,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,07/22/2004,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,08/02/2004,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,08/17/2004,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,08/26/2004,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,09/01/2004,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,09/14/2004,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189422,11/01/2004,,,,,20,,51,,,,,,
+8189422,06/16/2005,9,NO,2.7,,,45,,,LOW,1.72,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189422,06/26/2005,7,YES,2.1,,,49,,,LOW,1.72,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189422,07/04/2005,7.75,NO,2.4,,,48,,,LOW,1.72,CLEAR,BROWN,2-Very minor aesthetic problems
+1,04/15/2006,15.6,,4.7,,,38,,,,,,,
+1,04/29/2008,15,,4.6,,,38,,,,,,,
+1,07/14/2008,,,,0.64,13,,48,31,,,,,
+1,09/26/2008,,,,2.57,10,,46,42,,,,,
+28613168,02/10/2009,,,,0.57,,,,31,,,,,
+116239278,05/03/2010,16,,4.9,,15,37,49,,,,,,
+1,11/08/2010,12.5,,3.8,,18,41,51,,,,,,
+116350785,02/22/2011,,,,,197,,69,,,,,,
+1,02/24/2011,,,,,,,,,,,,,
+1,04/25/2011,10,,3,,,44,,,,,,,
+116239278,05/04/2011,13,,4,,,40,,,,,,,
+1,06/09/2011,8.75,,2.7,,,46,,,,,,,
+83119654,06/09/2011,,,,,19,,51,,,,,,
+1,06/30/2011,11.25,,3.4,,16,42,50,,,,,,
+1,07/18/2011,,,,,14,,49,,,,,,
+1,07/19/2011,10.75,,3.3,,,43,,,,,,,
+1,08/08/2011,,,,,14,,49,,,,,,
+1,08/29/2011,11.25,,3.4,,11,42,47,,,,,,
+1,10/31/2011,8.75,,2.7,,,46,,,,,,,
+116239278,11/14/2011,10,,3,,17,44,50,,,,,,
+1,02/18/2012,,,,,9,,45,,,,,,
+1,04/26/2012,11.25,,3.4,,30,42,54,,,,,,
+116239278,04/30/2012,13,,4,,22,40,52,,,,,,
+1,06/06/2012,7,,2.1,,,49,,,,,,,
+1,06/07/2012,,,,,15,,49,,,,,,
+1,06/27/2012,10,,3,,,44,,,,,,,
+1,06/29/2012,,,,,15,,49,,,,,,
+1,07/16/2012,,,,,16,,50,,,,,,
+1,07/18/2012,13.75,,4.2,,,39,,,,,,,
+1,08/06/2012,,,,,14,,49,,,,,,
+1,08/08/2012,12,,3.6,,,41,,,,,,,
+1,08/27/2012,,,,,6,,42,,,,,,
+1,08/30/2012,12,,3.6,,,41,,,,,,,
+116239278,11/13/2012,13,,4,,12,40,47,,,,,,
+116239213,05/25/2014,6,,1.8,,9,51,45,,,,,,
+116239213,11/15/2014,,,,,10,,46,,,,,,
+1,05/02/2015,,,,,6,,42,,,,,,
+116356405,05/06/2015,27,YES,8.2,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,05/23/2015,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/03/2015,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/19/2015,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/30/2015,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+116356405,07/19/2015,12.25,NO,3.7,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/03/2015,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/22/2015,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/23/2015,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,11/01/2015,,,,,18,,51,,,,,,
+1,04/16/2016,,,,,16,,50,,,,,,
+116356405,06/01/2016,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/12/2016,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/01/2016,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/04/2016,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,
+116356405,07/10/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/29/2016,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/07/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/21/2016,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/28/2016,9.75,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/24/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,10/04/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,10/06/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,11/25/2016,,,,,6,,42,,,,,,
+1,04/01/2017,,,,,12,,47,,,,,,
+116356405,05/08/2017,19.75,NO,6,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,05/16/2017,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,05/28/2017,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/10/2017,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/27/2017,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/01/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/02/2017,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+116356405,07/04/2017,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/17/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/20/2017,9.25,,2.8,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/27/2017,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/09/2017,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/19/2017,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/29/2017,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/14/2017,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/27/2017,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+116356405,10/01/2017,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,11/10/2017,,,,,22,,52,,,,,,
+1,05/08/2018,,,,,26,,53,,,,,,
+116356405,05/15/2018,20.75,,6.3,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,05/28/2018,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/01/2018,20.25,NO,6.2,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/11/2018,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645808,06/15/2018,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/17/2018,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/19/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/25/2018,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/27/2018,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/08/2018,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/15/2018,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/19/2018,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/23/2018,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/24/2018,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/30/2018,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/31/2018,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/18/2018,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/24/2018,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/02/2018,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/11/2018,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+116356405,09/17/2018,10,NO,3,,,44,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+116356405,09/27/2018,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+116356405,10/02/2018,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+169645800,04/28/2019,14,NO,4.3,,23.1,39,52,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,05/26/2019,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+116356405,06/08/2019,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/16/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/22/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,06/30/2019,9,NO,2.7,7.23,17.5,45,50,50,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+116356405,07/04/2019,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/08/2019,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/14/2019,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/19/2019,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/27/2019,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,07/27/2019,11,NO,3.3,7.14,20.5,43,52,50,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+116356405,08/16/2019,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/25/2019,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,08/25/2019,11,NO,3.3,5.98,12.8,43,48,48,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+116356405,08/27/2019,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/14/2019,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,09/30/2019,9,NO,2.7,,,45,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+169645800,05/12/2020,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+116356405,06/07/2020,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,06/21/2020,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,06/25/2020,13,NO,4,5.07,14.4,40,49,47,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+116356405,06/30/2020,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,
+116356405,07/12/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,07/20/2020,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,07/20/2020,12.5,NO,3.8,2.61,15.5,41,49,42,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+116356405,07/25/2020,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/01/2020,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/05/2020,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/13/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,08/16/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+169645800,08/18/2020,12,NO,3.6,4.15,16.9,41,50,46,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+116356405,08/30/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,09/23/2020,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+116356405,10/04/2020,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/2000,,,25.2,C,8.6,MG/L
+05/03/2010,,,58,F,,
+11/08/2010,,,7.25,C,8.57,MG/L
+02/24/2011,,,0.6,C,11.15,MG/L
+04/25/2011,,,6.2,C,12.94,MG/L
+05/04/2011,,,51,F,,
+06/09/2011,,,10.8,C,0.70,MG/L
+06/30/2011,,,11.6,C,0.28,MG/L
+07/19/2011,,,12.0,C,0.21,MG/L
+08/29/2011,,,11.7,C,0.99,MG/L
+10/31/2011,,,8.9,C,4.36,MG/L
+11/14/2011,,,44,F,,
+02/18/2012,,,1.1,C,2.96,MG/L
+04/26/2012,,,10.6,C,10.03,MG/L
+04/30/2012,,,56,F,,
+06/06/2012,,,10.8,C,10.58,MG/L
+06/27/2012,,,10.5,C,0.13,MG/L
+07/18/2012,,,12.4,C,1.68,MG/L
+08/08/2012,,,12.0,C,0.22,MG/L
+08/30/2012,,,13.17,C,0,MG/L
+11/13/2012,,,41,F,,
+05/25/2014,,,60,F,,
+05/02/2015,,,50,F,,
+11/25/2016,,,40,F,,
+11/10/2017,,,32,F,,
+04/28/2019,3,FEET,52.8,DEGREES F,,
+04/28/2019,6,FEET,52.5,DEGREES F,,
+04/28/2019,9,FEET,51.6,DEGREES F,,
+04/28/2019,12,FEET,47.6,DEGREES F,,
+04/28/2019,15,FEET,44.6,DEGREES F,,
+04/28/2019,18,FEET,43.5,DEGREES F,,
+04/28/2019,21,FEET,42.8,DEGREES F,,
+04/28/2019,24,FEET,42,DEGREES F,,
+04/28/2019,27,FEET,42,DEGREES F,,
+04/28/2019,29,FEET,42,DEGREES F,,
+06/30/2019,3,FEET,78,DEGREES F,,
+06/30/2019,6,FEET,76.2,DEGREES F,,
+06/30/2019,9,FEET,72.6,DEGREES F,,
+06/30/2019,12,FEET,65.6,DEGREES F,,
+06/30/2019,15,FEET,57.5,DEGREES F,,
+06/30/2019,18,FEET,51.6,DEGREES F,,
+06/30/2019,21,FEET,47.3,DEGREES F,,
+06/30/2019,24,FEET,45.3,DEGREES F,,
+06/30/2019,27,FEET,44.2,DEGREES F,,
+06/30/2019,30,FEET,43.8,DEGREES F,,
+07/27/2019,3,FEET,78.8,DEGREES F,,
+07/27/2019,6,FEET,78.4,DEGREES F,,
+07/27/2019,9,FEET,78.2,DEGREES F,,
+07/27/2019,12,FEET,69,DEGREES F,,
+07/27/2019,15,FEET,60.2,DEGREES F,,
+07/27/2019,18,FEET,53.6,DEGREES F,,
+07/27/2019,21,FEET,49.2,DEGREES F,,
+07/27/2019,24,FEET,46.4,DEGREES F,,
+07/27/2019,27,FEET,45.1,DEGREES F,,
+07/27/2019,30,FEET,44.4,DEGREES F,,
+08/25/2019,3,FEET,73.5,DEGREES F,,
+08/25/2019,6,FEET,73.2,DEGREES F,,
+08/25/2019,9,FEET,73,DEGREES F,,
+08/25/2019,12,FEET,72.5,DEGREES F,,
+08/25/2019,15,FEET,64,DEGREES F,,
+08/25/2019,18,FEET,55.9,DEGREES F,,
+08/25/2019,21,FEET,50.3,DEGREES F,,
+08/25/2019,24,FEET,42.4,DEGREES F,,
+08/25/2019,27,FEET,45.6,DEGREES F,,
+08/25/2019,30,FEET,45.5,DEGREES F,,
+06/25/2020,3,FEET,76.6,DEGREES F,,
+06/25/2020,6,FEET,75.2,DEGREES F,,
+06/25/2020,9,FEET,74.3,DEGREES F,,
+06/25/2020,12,FEET,69.9,DEGREES F,,
+06/25/2020,15,FEET,62.6,DEGREES F,,
+06/25/2020,18,FEET,56.1,DEGREES F,,
+06/25/2020,21,FEET,52.7,DEGREES F,,
+06/25/2020,24,FEET,49.8,DEGREES F,,
+06/25/2020,27,FEET,48.5,DEGREES F,,
+06/25/2020,30,FEET,47.3,DEGREES F,,
+07/20/2020,3,FEET,80.3,DEGREES F,,
+07/20/2020,6,FEET,80.4,DEGREES F,,
+07/20/2020,9,FEET,80,DEGREES F,,
+07/20/2020,12,FEET,76.2,DEGREES F,,
+07/20/2020,15,FEET,66.5,DEGREES F,,
+07/20/2020,18,FEET,58.4,DEGREES F,,
+07/20/2020,21,FEET,54.3,DEGREES F,,
+07/20/2020,24,FEET,51,DEGREES F,,
+07/20/2020,27,FEET,49.2,DEGREES F,,
+07/20/2020,30,FEET,48,DEGREES F,,
+08/18/2020,3,FEET,76.2,DEGREES F,,
+08/18/2020,6,FEET,76.2,DEGREES F,,
+08/18/2020,9,FEET,76.1,DEGREES F,,
+08/18/2020,12,FEET,75.2,DEGREES F,,
+08/18/2020,15,FEET,69.8,DEGREES F,,
+08/18/2020,18,FEET,66.7,DEGREES F,,
+08/18/2020,21,FEET,59.3,DEGREES F,,
+08/18/2020,24,FEET,51.8,DEGREES F,,
+08/18/2020,27,FEET,50,DEGREES F,,
+08/18/2020,30,FEET,48.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/30/1999,Clear sunny morning. reading taken during no wake hours. no rain 5 days. no wind.    
+06/05/1999,Partly cloudy. windy from west. little boat traffic. rained yesterday.    
+06/19/1999,Mostly cloudy. slight breeze from southwest. taken during no wake hours.    
+06/30/1999,Partly cloudy. high algae content in lake. hard rain 2 days ago. little boat traffic. south wind slight.    
+07/11/1999,Clear- no wind- no wake hours- little boat traffic.    
+07/18/1999,Overcast. no wind. no wake hour. little boat traffic. rained 2 in since last reading.    
+07/25/1999,Clear. no wind. no wake hour. little boat traffic. rain 6+ inches since last reading.    
+08/02/1999,Clear sky. calm. no wake hours. no boat traffic. sat  + sun a lot of blue-green algae floating. perception=4 only by shore.    
+08/14/1999,Clear. no wind. no wake hour. fishing boat out. blue-green algae spreading. milfoil thicker.    
+08/21/1999,Hazy. no wake hour. 3 fishing boats on lake. milfoil spreading. blue-green algae covered lake last evening. mostly gone this a.m.    
+08/29/1999,Very windy- easterly. no wake hour. moderate boat activity.    
+09/06/1999,Light NW winds. no wake hour. light boat traffic. high milfoil weed level.    
+09/11/1999,Moderate wind- little boat traffic- milfoil in bloom.    
+09/19/1999,Overcast- 1 canoe on lake- cool temp.    
+05/29/2000,Partly cloudy- quiet- little boating- and the winds are calm.    
+06/11/2000,Mostly cloudy- quiet- two fisherman- and calm winds.    
+06/25/2000,Clear sky- one fishing boat on lake- no wind- and lots of milfoil.    
+07/01/2000,Saturday of July 4th weekend- four fishing boats- clear and sunny.    
+07/15/2000,Hot prior week.    
+07/23/2000,Bright sun- calm winds- two fishing boats- and milfoil at top in three areas.    
+07/30/2000,Bright sun- low water level- milfoil on top- and two fishing boats.    
+08/02/2000,INTEGRATED SAMPLER    
+08/05/2000,Overcast- three fishing boats- and windy from the south.    
+08/11/2000,Partly cloudy and slight wind.    
+09/09/2000,Clear and calm.    
+09/17/2000,Clear- calm- no boat traffic- and cold nights.    
+04/25/2001,1FT BELOW SURFACE- DEEPEST SPOT- SURFACE- SPRING TURNOVER    
+06/07/2001,ONE FOOT BELOW SURFACE- DEEPEST SPOT    
+06/24/2001,Windy.    
+07/09/2001,1FT BELOW SURFACE- DEEPEST SPOT    
+07/15/2001,Light wind- clear sky- and no boat traffic.    
+08/05/2001,Warm- humid- and clear- very hot last two weeks.    
+08/12/2001,Cooler- partly cloudy- and calm.    
+08/19/2001,Sunny and moderate boat traffic.    
+09/05/2001,1FT BELOW SURFACE- DEEPEST SPOT    
+06/30/2002,Clear sky- few days after 9 inches of rain- calm wind.    
+07/07/2002,Partly cloudy- very hot this past week- past days 85-95 degrees and nights in 70s- calm wind.    
+07/14/2002,Partly cloudy- days 75-85 degrees- nights temperature 60d- calm wind.    
+08/11/2002,Clear sky and very calm.    
+08/25/2002,Clear sky and calm.    
+05/26/2003,clear + sunny- little boat traffic- very busy the day
+before
+
+
+    
+06/15/2003,clear- cloudless- + calm
+
+
+    
+06/29/2003,windy- partly cloudy- rained previous day + early
+morning
+
+
+    
+08/10/2003,clear + sunny
+
+
+    
+06/20/2004,Herbicide treatment 6 days prior to reading.  Lake level rose 6 in. in last 2 weeks (rain).    
+07/03/2004,Mostly cloudy- some boat traffic day before (Fri. of July 4 weekend).    
+07/14/2004,Partly cloudy- quiet with moderate winds.  Rained previous day.    
+07/22/2004,Clear- sunny and calm.    
+08/02/2004,Following a morning of rain - no boat traffic.    
+08/17/2004,Hard rain previous nite.  No wind or boat traffic.    
+08/26/2004,Light wind- clear skies- no boat traffic.    
+09/01/2004,Partly cloudy- no wind or boat traffic.    
+09/14/2004,Clear to PC - no boat traffic.    
+05/06/2015,Weather: Sunny + clear with slight breeze
+
+Eric Evensen- DNR Trainer was with training me today; he noted EWM floatables and removed them from deep hole- middle lake and near Evergreen boat launch. Eric stated that the Evergreen channel area looked  a lot better (less EWM) than last year. Eric also informed me that Evergreen owner had used a hose method to remove EWM in 2014.  Eric Evensen also noted that some "fish sticks" were removed on SW shore near new development area.
+
+
+05/23/2015,Weather: Sunny + calm; Yellowish tree pollen noted on water surface intermittently along southern shoreline;II found what appeared to be one EWM floatable  and removed it from mid-lake; I spoke with lake property owners to confirm observation that water level is lower this year than last year. Diverse dragonfly population noted. Joe Guidote assisted me today.
+
+
+06/03/2015,Weather: Sunny with slight breeze. Temperature:74F ; Wildlife observed: mallard pair- numerous birds and fish. I noted what appeared to be EWM floatables near Springwater resort. Several other types of aquatic plants floating in water today- but I am not sure of the types or names of what is present.  Weather: Sunny with slight breeze. Temperature:74F ; Wildlife observed: mallard pair- numerous birds and fish. I noted what appeared to be EWM floatables near Springwater resort. Several other types of aquatic plants floating in water today- but I am not sure of the types or names of what is present. 
+
+Water level is still low; however due to  a lot of rainfall since 5/23- water level is perhaps 2-3 inches higher today than on 5/23/15.
+06/19/2015,Weather: Sunny + calm. Very little boat traffic. Heard and saw many birds including kingfischer. Observed in tact "fish sticks" that remain along SW shoreline. Evergreen + County Park Public beach areas busy with swimmers today. Dogs also observed swimming at public beach area. In conversation with land owners- sense is that water level is "almost normal" now- is 1-2 inches higher than on 06/03/15.
+
+06/30/2015,Weather: Light wind and part sun + clouds. Boat action with tubers near deep hole as testing today. More evidence of weed growth and more floating weeds observed today than previously. Joe Guidote assisted me today. Water level a bit lower today than on 06/19/15- by approximately 1 inch it seems.
+07/19/2015,Weather: clear + sunny with moderate wind.Very few clouds present. Clearer water and less floating weeds than on 06/30/15. Some boaters and jet skis today- but less than on 06/30/15. Water level is lower than on 06/30/15- by approximately 7 inches as measured by markers on beach.
+08/03/2015,Assisted by Joe Guidote. Water level quite a bit lower than on 07/19/15 as per my marker on beach- approximately 12 inches or so. 
+08/22/2015,Weather: Windy but clear with sun. Water level much lower than it was on 08/03/15-lower by approximately 14 inches as per my stake marking shoreline water mark. Less floating weeds noted today as kayaking around lake perimeter; however- piles of weeds observed along southern shoreline including quite a bit that appear to be EWM washed ashore. Assisted by Joe Guidote.
+09/23/2015,Weather: calm- clear- hazy with sunshine. Temperature:75F. Water level has risen since 08/22/15. Assisted by Joe Guidote.
+06/01/2016,Weather: 78 degrees F with slight breeze
+ 
+06/12/2016,Weather: 73 degrees F; Sunny with light breeze. Two other powerboats present plus two personal watercraft observed
+07/01/2016,Weather: 74 degrees F; Sunny with slight breeze.
+07/04/2016,Weather: 77 degrees F; Overcast; Several speedboats- fishing boats and personal watercrafts present. Several kayaks also. Observed 2 resident flocks of geese and one great blue heron; heron was in SW corner of lake.
+07/10/2016,Weather: 77 degrees F w/ steady breeze. 3 Fishing boats and one speedboat pulling a tuber. Numerous pan fish near dock on south shore. Also observed hornets near boat lift on south shore. 2 flocks of geese present today.
+07/29/2016,Weather: 90 degrees F; Sunny + breezy. Muggy- Heat index high this week. Rained yesterday + this morning. Water level back up to 7/10/16 level.
+Lots of goose poop noted on docks; I believe resident goose population has increased since last year- counted at least 49 today. Again- plastic owls do not seem to deter geese from docks. Numerous small fish observed today + many dragonflies spotted. 
+Several powerboats- pontoons and personal watercraft present.
+08/07/2016,Weather: 76 degrees F; Partly cloudy + slight breeze.
+08/21/2016,Weather: Windy today; Lots of rain yesterday.
+Noticeably more/taller weeds present at north end of sandbar- just west of Springwater Resort today than previously this summer.
+4-5 motorboats present- one pulling a tuber.
+08/28/2016,Weather: 81 degrees F; Sunny + clear w/ very little wind. It rained yesterday.
+Moderate boat and personal watercraft activity-two boats pulling tubers; moderate amount of swimmers today also.
+09/24/2016,Weather: 68 degrees F; Partly cloudy with steady- moderate breeze. Rained a lot this past week.
+Only 2 other boats present. No goose dung observed on any docks and did not see any geese today either.
+10/04/2016,Weather: 68 degrees F; Overcast- but calm.
+ Most docks on lake already removed. Our boat only one present on water.
+10/06/2016,Weather: 68 degrees F; Cloudy + calm.
+05/08/2017,Weather: 60 degrees F- clear + sunny with light breeze; No other boats out with me- just my paddle boat. Water level higher than last year by about 2-3 feet.
+05/16/2017,77 degrees F; Intermittent sun/partly cloudy with light breeze. It rained hard last night. Satellite overhead on 5/17/17.
+
+05/28/2017,70 degrees F; Rained this morning but sunny + very windy now. A lot of boat traffic besides me. Helper: Joe Guidote.
+06/10/2017,88 degrees F; Clear- sunny + windy. Moderate boat activity present. Satellite overhead today. Helpers: Josh Guidote + Joe Guidote.
+ 88 degrees F; Clear- sunny + windy. Moderate boat activity present. Satellite overhead today. Helpers: Josh Guidote + Joe Guidote.
+ 88 degrees F; Clear- sunny + windy. Moderate boat activity present. Satellite overhead today. Helpers: Josh Guidote + Joe Guidote.
+
+06/27/2017,74 degrees F; Mostly sunny with a few clouds and light wind. Satellite was overhead 6/26/17. Helper: Josh Guidote.
+
+Note: On Wed.- 6/14/17 severe storms with 60-70 mph winds went through area with widespread storm damage in Waushara County. Tornadoes confirmed near Wild Rose.
+07/01/2017,76 degrees F; Sunny with light wind. Many boats out today.Helper: Joe Guidote. 
+It's Secchi Dip In Day. 
+07/02/2017,77 degrees F; Thunderstorms 'til noon- then clear and sunny with moderate wind today;  Lots of boats + waves present.
+Helper: Joe Guidote.
+07/04/2017,77 degrees F; Sunny + calm but lots of jet skis + boaters out today- so a lot of waves. Satellite overhead today.
+Helper: Joe Guidote.
+07/17/2017,77 degrees F; Sunny with slight breeze. Light boat traffic. Helper: Joe Guidote.
+
+
+
+
+
+
+07/20/2017,85 degrees F; Partly cloudy with light breeze. Light boat activity present. Satellite overhead today.
+Helper: Michelle Roach.
+07/27/2017,83 degrees F; Sunny + moderate wind. Several powerboats- two personal watercraft- and one kayak out with us. 
+Helper: Joe Guidote. Satellite overhead 7/28/17.
+08/09/2017,77 degrees F; Partly cloudy + very light breeze. Very few boats- just my paddleboat + two fishing boats.
+08/19/2017,76 degrees F; Sunny with light breeze. Heavy boat traffic today. Assistance from Joe Guidote + Gary Whipp.
+08/29/2017,73 degrees F; Mostly sunny with slight breeze. Only two boats out- ours and one jet skier. Assistance from Joe Guidote + Rob Sunstrom.
+09/14/2017,82 degrees F; Mostly sunny + light breeze. Only my boat and one other fisherman present. Satellite overhead today. I saw a bald eagle and also a cormorant- double crested cormorant- I believe. Fisherman stated he was "sad" to see this water bird present because he felt they were "bad for lake".
+09/27/2017,Reported to Lynn Z. Guidote by Mary Smaby- CLMN Assistant for Kusel Lake.
+Overcast-dark with slight breeze- ripples in water. No boat traffic. 
+10/01/2017,70 degrees F; Sunny + clear with light breeze. No other boaters out. Satellite overhead yesterday (9/30/17). Helper: Joe Guidote.
+05/15/2018,71 degrees + sunny; No other boat traffic. Water level much higher than normal; Jeremy Gaboury has fixed pier + his observation is that water level is 1-2 inches higher than last year at this time.
+05/28/2018,94 degrees F. Sunny + humid with light breeze;  Rained this a.m. Moderate boat traffic now- but was heavy all weekend. Satellite overhead today.
+Tree pollen present on top of water. After I got my secchi reading-  I used secchi rope to measure my site/location depth @ 27.50 ft.     
+Helper today was Joe Guidote.
+06/01/2018,73 degrees F; was cold  + cloudy this morning-but sunny + clear this afternoon. Only one other boat out ( Fisherman).
+06/11/2018,76 degrees F; Sunny with moderate wind; boat traffic light-only two kayakers out. Helper today: Deb Wingate.
+06/15/2018,Today was Mary Smaby's CLMN training day- she was present + trained by me- as directed by Christopher Kolansinski- Water Resource Specialist- Wisconsin DNR NE.
+
+67 degrees F; It rained this morning + was cloudy with slight wind at 1 pm. After getting secchi reading- we tested location/site depth by lowering secchi rope to bottom of lake- depth of our test site today was: 28.50 ft.
+06/17/2018,83 degrees F + sunny; It has been hot + humid for several days. Very light wind today. 4 other boats out today during my secchi reading. Post secchi reading- I tested my test site depth via lowering secchi rope to bottom- site depth was 29 ft.
+Lots of dragonflies- bluejays + swallows observed so far this year; Today I saw 2 geese with gosling on NW end of Kusel Lake. Lily pads reaching water's surface + beginning to flower now. Iris spotted along central SW shore.
+Joe Guidote helped me today.
+06/19/2018,All of today's data taken by + reported to Lynn Z. Guidote by Mary Smaby- CLMN assistant for Kusel Lake this year; I simply recorded her readings as per Christopher Kolansinski- WI DNR NE.
+
+67 degrees F + cloudy at 2 pm; It rained last night + all morning.
+06/25/2018,75 degrees F. Partly cloudy + windy with some wave action despite no other boats out; Water level higher than 06/17/18.
+06/27/2018,Reported to Lynn Z. Guidote by Mary Smaby- CLMN Assistant for Kusel Lake. Sunny. 70 degrees F. It rained last night.
+07/08/2018,86 degrees F. Sunny with light breeze. Several jet skiis out and one power boat out pulling tubers. 
+Observed lots of dragonflies and one great blue heron today. Also: noticeably more snails present on lake bottom + floating at water's surface this year.
+07/15/2018,82 degrees F.- Sunny + humid with no noticeable breeze. Just a few other small boats out with me. Satellite overhead today. 
+Again- I observed many floating snails when walking in water on south shore I also found a clam- first time I've ever found a clam/ mussel at Kusel; I took pics and shared them with Christopher Kolansinski- Water Resource Specialist- WI DNR NE. Via email to me dated 7/23/18- Chris identified the snail shells as banded mystery snails. According to Chris- the clam shell was a native clam/ mussel- either a giant floater or a fragile papershell + said both are a good thing to have around. Helper: Joe Guidote.
+
+
+07/19/2018,73 degrees F.; Sunny with moderate breeze. After secchi reading completed- I tested site depth by relowering secchi rope to bottom of lake- site depth today was 27.50 ft.
+3 other boaters out with me. I saw 2 great blue herons near SW shore + observed many fish in the water; bluegills- perch- northern all sited.
+07/23/2018,82 degrees F. + Sunny with Satellite overhead today. Only a light wind/ breeze present- but lots of waves experienced from a power boat + a few jet skis  all pulling tubers nearby. 
+07/24/2018,73 degrees F. Clear + sunny with light breeze. Very few waves at time of secchi reading.
+ I kayaked entire shoreline of lake early this morning; I observed what I believe to be a combination of both native and invasive type plants. One example is what I believe is purple loosestrife on the north side of the Waushara County boat landing. Other types of invasives I may have sited were: eurasion milfoil- curly pondleaf and banded mystery snails.
+I also saw and heard many birds: great blue heron ( in cattails along SE shore)- geese and many other smaller birds.
+I observed two fishing boats and one paddleboarder.
+
+07/30/2018,72 degrees F. Clear- sunny + virtually no wind- water glasslike. No other boaters. 
+07/31/2018,73 degrees F. Clear- sunny with light breeze. Lots of loose floating weeds present along shoreline areas (various types).
+Light boat traffic: Only one pontoon and one power boat out with me. 
+After secchi reading obtained- I tested site depth using secchi rope: 28.75 ft. Satellite overhead today.
+
+08/18/2018,76 degrees F. Sunny + clear. Water level approximately 3 inches lower than 7/31/18. A lot of boat traffic today- mostly power boats and jet skis- a couple of pontoons too. Helper: Joe Guidote.
+08/24/2018,77 degrees F. Partly cloudy with a mild but steady wind.Satellite overhead today.
+ Water level decreased since July- but still high for August. 
+Post secchi reading- relowered secchi rope to see how deep water was at test site: 29 ft.
+Helper: Joe Guidote
+09/02/2018,Data taken by Mary Smaby- CLMN Assistant for Kusel Lake + reported to Lynn Z. Guidote- who recorded Mary's data as per Christopher Kolansinski- Wi DNR NE.
+
+Raining. Boat traffic all morning.
+09/11/2018,Data collected by Mary Smaby + reported to Lynn Z. Guidote. Beautiful- sunny day. No boat traffic. Slightly wavy.
+09/17/2018,Reported to Lynn Z. Guidote by Mary Smaby- CLMN Assistant for Kusel Lake this year; Beautiful sunny day. No boat traffic. Calm. 
+(Note: Satellite overhead today)
+09/27/2018,Reported to LZG by Mary Smaby. 
+Overcast- dark- slight breeze. Ripples in water. No boat traffic.
+10/02/2018,Reported to Lynn Z. Guidote by Mary Smaby- CLMN Assistant for Kusel Lake.
+Overcast- calm. No boat traffic.
+05/26/2019,This was my first secchi reading for 2019.  Water depth at my secchi test site ( Deep Hole) was 30 feet. 60 degrees F today; Clear skies + sunny. Water is calm today- but yesterday there were very windy conditions with whitecaps evident. Today there were lots of fine particles (perhaps pollen) in the water below the surface and also floating  on top surface.  There were a few other boaters out too- kayakers- fishermen- and one canoeist). I saw one great blue heron- fish- and two turtles.  
+
+This is the highest water I've witnessed (and so say many others who've been landowners here a long time). A No Wake Order is in effect as issued by Springwater Township due to high water level. Water level is about 15 ft higher up shoreline than usual. Many landowners have not put in docks yet due to high water. Water is also quite cold yet- so not comfortable for swimming.
+06/08/2019,Satellite overhead today. 79 degrees F. Sunny and windy with a lot of waves and minor whitecaps on a few of them. Light boat traffic. No wake order still in effect due to high water level. Test depth where I took secchi reading was 31 feet.
+06/16/2019,Today is Father's Day and the Satellite is overhead.
+It's 59 degrees F;Cloudy- cool + calm now- however- it has rained alot since Wed. and it rained today until about 3:15 pm.  Only one other boater out and no swimmers. Water level even higher than last week and No Wake order still in place. Water temp. is cold yet + still uncomfortable for swimming. Pine pollen evident along shoreline at water's surface. I observed lilypads and what appears to be some type of pondweed/pondleaf nearing surface of water. I also saw + heard various birds- including Kingfisher today.
+06/22/2019,76 degrees F; Clear- Sunny + windy conditions. Moderate boat traffic:kayaks- pontoons- SUPs + a small sailboat. Observed many dragonflies + birds- including kingfisher. Water depth at secchi test site:29.5 ft.
+06/30/2019,Cloudy- no wake
+07/04/2019,85 degrees F; Sunny- clear and water is calm. Biting black flies present and a nuisance. Pondleaf tops obvious in spots around lake- but not at deep hole. Jan Youwer accompanied me today.  85 degrees F; Sunny- clear and water is calm. Biting black flies present and a nuisance. Pondleaf tops obvious in spots around lake- but not at deep hole. Water depth at secchi test site: 31.50 ft.
+ Jan Youwer accompanied me today. 
+07/08/2019,82 degrees F; Sunny + clear with gentle breeze. No Wake order still in effect; however a few boats seem unaware as they are violating that order. Many swimmers and boats out today- mostly kayakers- canoeists- paddleboarders and fishermen; only a few powerboats and pontoons. Pond leaf ( what I believe to be clasping type) evident in various spots but not at deep hole. 
+  Water depth at secchi test site: 30 ft.
+Joe Guidote accompanied me today. 
+
+07/14/2019,
+85 degrees F; Sunny- clear. Humid with gentle wind. Geese are back as evidenced by sightings and also goose droppings on some docks. Slough area is filled with water liles now. Water depth at secchi test site: 28 ft.
+
+Joe Guidote accompanied me today. Also Rob + Jennifer S.
+07/19/2019,90 degrees F; Sunny sky with very mild breeze. Very humid. Calm water with very light boat traffic. Nasty biting flies at deep hole- but not at dock area. Gelatinous floating stuff attached to weeds floating in some areas- but not present at deep hole. Also observed curly pond leaf + lily pads is some areas- but not at deep hole test site. Water depth at secchi test site: 31.75 ft.
+
+Accompanied by Joe Guidote.
+07/27/2019,85 degrees F; sunny with clear- blue sky. Moderate wind. Humidity high. Lots of swimmers- a few pontoons- kayaks and a small sailboat out. No powerboats. Water depth at secchi test site: 30 ft.
+Accompanied by Joe Guidote.
+07/27/2019,Sunny- no wake
+08/16/2019,72 degrees F; Partly Cloudy + Breezy. Very few boats out. Rained this morning + supposed to rain again later. Water level still high- but lower than 7/27/29. Water depth at my secchi test site today was 30 feet deep.
+08/25/2019,73 degrees F. Partly cloudy with mild breeze. light boat  traffic. Water level on lake still high but lower than it was on 8/16/19; Water was 28 feet deep at my secchi test site today as measured by my secchi disc rope post secchi test. No wake order still in effect. 73 degrees F. Partly cloudy with mild breeze. light boat  traffic. Water level on lake still high but lower than it was on 8/16/19; Water was 28 feet deep at my secchi test site today as measured by my secchi disc rope post secchi test. No wake order still in effect.
+08/25/2019,Partly cloudy- no wake
+08/27/2019,73 degrees F; Partly cloudy and windy. Satellite overhead today. Water depth at my secchi test site (as measured by my secchi rope post secchi test) was 29.50 ft. Wind picked up a lot + whitecaps developed post testing as I returned to land.  
+09/14/2019,71 degrees F; Partly cloudy. No other boat traffic. Assistance from Joe Guidote. I did not measure water depth at my secchi test site today- but water level is still much higher than normal for this time of year.
+09/30/2019,Cloudy- no wake
+06/07/2020,On 4/1/20 Waushara County restricted travel for tourists + second home people due to Covid-19- these people were asked to stay away. Wi issued a ban on gatherings of 10 or more people effective 3/17/20 due to the Coronovirus.
+
+Water levels on Kusel Lake were high again this year + a No Wake order was issued by the Springwater Township.
+Weather on day of my first secchi test (6/7/20) was: 84 degrees F; Sunny + Clear with Moderate Wind. Boat traffic was light.
+
+06/21/2020,82 degrees F; Sunny + clear with mild wind. Light boat traffic. Observed tree downed and in water ( a new "fish stick") on south central shoreline. Water was 31 feet deep at site of secchi reading as measured via secchi rope post test.
+06/30/2020,88 degrees F; Partly Cloudy with moderate wind. Water depth at test site as measured post secchi reading was 30 feet. 88 degrees F; Partly Cloudy with moderate wind. Water depth at test site as measured post secchi reading was 30 feet. 88 degrees F; Partly Cloudy with moderate wind. Water depth at test site as measured post secchi reading was 30 feet.
+07/12/2020,71 degrees F; Sunny- clear with a very light wind. Saw + heard many birds today including: 26 geese + one king fisher; also observed many dragonflies. Water depth as measured by secchi rope post test was 29.5 ft. Very little boat traffic.
+Satellite overhead today. 
+  
+07/20/2020,75degrees F; Partly cloudy with light breeze; Accompanied by Marlene S. today. Satellite overhead today. Water level a bit lower than on 7/12/20 but still high. No wake order still in place. We saw a bald eagle flying over the lake. Test depth at secchi test site was 29 ft.
+07/25/2020,88 degrees F; Sunny and humid with moderate breeze. Many swimmers and moderate boat traffic- mostly pontoons. Saw many birds including hawks. Observed bluegills along shoreline. Water depth at secchi test site was 30 ft.
+Assisted by Joe Guidote.
+08/01/2020,Sunny with almost no wind today; Lake busy with boat traffic- but all obeying No Wake order. Water level lower today - about 1 1/2 ft  of shoreline more visible today than on 7/25/20. Water depth at test site was 28.50 ft. Accompanied by  Jen S.
+08/05/2020,75 degrees F; Sunny with intermittent light breeze. Water calm. Satellite overhead today. Water depth at test site was 29 ft.
+08/13/2020,82 degrees F; Partly cloudy with moderate breeze. Light boat traffic. Water level still high- but has receded a bit since 8/05/20. Saw bald eagle overhead again today. Satellite overhead today. 82 degrees F; Partly cloudy with moderate breeze. Light boat traffic. Water level still high- but has receded a bit since 8/05/20. Saw bald eagle overhead again today. Satellite overhead today. Water depth at secchi test site was 28.5 ft as measured with secchi rope.
+08/16/2020,82 degrees F; Mostly sunny with moderate wind. Water level continues to decrease; however- still higher than normal high water mark. Light boat traffic- mostly kayaks and pontoons. 
+08/30/2020,Unfortunately-it was too windy ( whitecaps present)  to test on 8/29/20 when satellite was overhead.
+Weather today (8/30/20) is sunny and clear. 70 degrees F. Light boat traffic. Water level still going down. 
+Water depth at secchi test site was 29.0 ft.
+09/23/2020,80 degrees F; Sunny with moderate wind. Light boat traffic. Water level still higher than normal high water mark- but is much lower than it was on 8/30/20.
+10/04/2020,52 degrees F; Sunny with light wind. Water depth at secchi test site today was 27.25 ft. Assisted by Joe Guidote.
+
+
+
+
+Start Date,Group Name,Project Name
+05/30/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/05/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/19/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/30/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/11/1999,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/18/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/25/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/02/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/14/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/21/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/29/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/06/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/11/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/19/1999,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/29/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/11/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/25/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/01/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/15/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/23/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/30/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/02/2000,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+08/05/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/11/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/09/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/17/2000,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+04/25/2001,Mary Gansberg,KUSEL- WILSON- + ROUND LAKES R + P DISTRICT: Kusel Lake Aquatic Plant Management Plan Phase I
+06/07/2001,Chad Cason,KUSEL- WILSON- + ROUND LAKES R + P DISTRICT: Kusel Lake Aquatic Plant Management Plan Phase I
+06/09/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/24/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/08/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/09/2001,Mary Gansberg,KUSEL- WILSON- + ROUND LAKES R + P DISTRICT: Kusel Lake Aquatic Plant Management Plan Phase I
+07/15/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/05/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/12/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/19/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/03/2001,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/05/2001,Chad Cason,KUSEL- WILSON- + ROUND LAKES R + P DISTRICT: Kusel Lake Aquatic Plant Management Plan Phase I
+06/30/2002,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/07/2002,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/14/2002,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/28/2002,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/11/2002,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/25/2002,Barb And Richard Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/26/2003,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/15/2003,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/29/2003,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/10/2003,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/20/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/03/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/14/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/22/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/02/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/17/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/26/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/01/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/14/2004,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+11/01/2004,Barb Nass,
+06/16/2005,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/26/2005,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/04/2005,Barb Nass,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+04/15/2006,Data Collectors,
+04/29/2008,Data Collectors,
+07/14/2008,Data Collectors,KUSEL- WILSON- + ROUND LAKES P + R DISTRICT: Kusel Lake APM Plan Development
+09/26/2008,Data Collectors,KUSEL- WILSON- + ROUND LAKES P + R DISTRICT: Kusel Lake APM Plan Development
+02/10/2009,Brad Roost,KUSEL- WILSON- + ROUND LAKES P + R DISTRICT: Kusel Lake APM Plan Development
+05/03/2010,Kirk Zirbel,
+11/08/2010,Data Collectors,
+02/22/2011,Ed Hernandez- Terry Liska,
+02/24/2011,Data Collectors,
+04/25/2011,Data Collectors,
+05/04/2011,Kirk Zirbel,
+06/09/2011,Data Collectors,
+06/09/2011,Ed Hernandez,
+06/30/2011,Data Collectors,
+07/18/2011,Data Collectors,
+07/19/2011,Data Collectors,
+08/08/2011,Data Collectors,
+08/29/2011,Data Collectors,
+10/31/2011,Data Collectors,
+11/14/2011,Kirk Zirbel,
+02/18/2012,Data Collectors,
+04/26/2012,Data Collectors,
+04/30/2012,Kirk Zirbel,
+06/06/2012,Data Collectors,
+06/07/2012,Data Collectors,
+06/27/2012,Data Collectors,
+06/29/2012,Data Collectors,
+07/16/2012,Data Collectors,
+07/18/2012,Data Collectors,
+08/06/2012,Data Collectors,
+08/08/2012,Data Collectors,
+08/27/2012,Data Collectors,
+08/30/2012,Data Collectors,
+11/13/2012,Kirk Zirbel,
+05/25/2014,James Buck,
+11/15/2014,James Buck,
+05/02/2015,Data Collectors,
+05/06/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/23/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/03/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/19/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/30/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/19/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/03/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/22/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/23/2015,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+11/01/2015,Data Collectors,
+04/16/2016,Data Collectors,
+06/01/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/12/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/01/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/04/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/10/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/29/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/07/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/21/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/28/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/24/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+10/04/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+10/06/2016,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+11/25/2016,Data Collectors,
+04/01/2017,Data Collectors,
+05/08/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/16/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/28/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/10/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/27/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/01/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/02/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/04/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/17/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/20/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/27/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/09/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/19/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/29/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/14/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/27/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+10/01/2017,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+11/10/2017,Data Collectors,
+05/08/2018,Data Collectors,
+05/15/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/28/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/01/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/11/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/15/2018,Lynn Z Guidote- Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/17/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/19/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/25/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/27/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/08/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/15/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/19/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/23/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/24/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/30/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/31/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/18/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/24/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/02/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/11/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/17/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/27/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+10/02/2018,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+04/28/2019,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/26/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/08/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/16/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/22/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/30/2019,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/04/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/08/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/14/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/19/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/27/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/27/2019,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/16/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/25/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/25/2019,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/27/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/14/2019,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/30/2019,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+05/12/2020,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/07/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/21/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/25/2020,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+06/30/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/12/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/20/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/20/2020,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+07/25/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/01/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/05/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/13/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/16/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/18/2020,Mary Smaby,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+08/30/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+09/23/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole
+10/04/2020,Lynn Guidote,Citizen Lake Monitoring - Water Quality - Kusel Lake; Deep Hole

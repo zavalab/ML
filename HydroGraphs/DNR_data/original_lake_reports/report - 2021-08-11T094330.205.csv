@@ -1,0 +1,426 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Lorraine,Walworth,777500,SE,65,,653255,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+41731863,07/17/1978,7,NO,2.1,,,49,,,,,,,
+41731863,02/19/1980,,,,,,,,,,,,,
+8190456,08/15/1995,3,NO,0.9,,,61,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190456,08/26/1995,4.75,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190456,09/08/1995,3,NO,0.9,,,61,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190456,09/25/1995,3.25,NO,1,,,60,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190456,04/11/1996,2.5,NO,0.8,,,64,,,LOW/DEPTH IS ABOUT 6' AT TEST SITE,,,BROWN,2-Very minor aesthetic problems
+8190456,05/13/1996,3,NO,0.9,,,61,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190456,06/12/1996,5,NO,1.5,,,54,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190456,07/02/1996,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190456,07/15/1996,5,YES,1.5,,,54,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190456,07/30/1996,5,NO,1.5,,,54,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190456,08/25/1996,3,NO,0.9,,,61,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190456,09/13/1996,2,NO,0.6,,,67,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190456,05/05/1997,3.5,NO,1.1,,,59,,,,,,BROWN,
+8190456,06/26/1997,2,NO,0.6,,,67,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190456,07/09/1997,2.75,NO,0.8,,,63,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8190456,08/05/1997,2.75,NO,0.8,,,63,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000045,08/10/2006,,,,14.4,,,,55,,,,,
+22550881,04/24/2007,4.5,NO,1.4,,39,55,57,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+22550881,06/29/2007,3,NO,0.9,23.9,55,61,59,59,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+22550881,07/29/2007,5.5,NO,1.7,19.2,70,53,61,57,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+22550881,09/01/2007,8,NO,2.4,8.88,45,47,58,51,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/11/2008,,,,32.2,90,,63,61,,,,,
+18138575,05/29/2009,,,,,50,,58,,,,,,
+18138575,06/30/2009,,,,8.49,44,,57,51,,,,,
+18138575,07/30/2009,,,,7.53,32,,55,50,,,,,
+7000045,08/29/2009,,,,20.6,34,,55,58,,,,,
+18138575,06/09/2010,5,NO,1.5,,,54,,,HIGH,9.4,CLEAR,BROWN,2-Very minor aesthetic problems
+18138575,06/24/2010,6.25,NO,1.9,,,51,,,HIGH,8.7,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,07/09/2010,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,07/21/2010,4.25,NO,1.3,18,26,56,53,57,HIGH,8.0,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18138575,08/09/2010,3.5,NO,1.1,,,59,,,HIGH,9.3,MURKY,GREEN,
+18138575,08/25/2010,5.5,NO,1.7,9.9,25,53,53,52,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18138575,05/25/2011,5.25,NO,1.6,,23,53,52,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,06/09/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,06/23/2011,6.25,NO,1.9,18.7,44,51,57,57,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,07/07/2011,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18138575,07/18/2011,6,NO,1.8,5.18,29,51,54,47,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18138575,08/10/2011,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18138575,08/29/2011,7.5,YES,2.3,5.17,26,48,53,47,NORMAL,,CLEAR,BROWN,
+18138575,06/26/2012,4,NO,1.2,14.1,56,57,59,55,LOW,,MURKY,BROWN,
+18138575,07/25/2012,3,NO,0.9,34.4,95,61,63,62,LOW,,MURKY,GREEN,
+18138575,08/28/2012,3.75,NO,1.1,,,58,,,LOW,,MURKY,GREEN,
+18138575,08/29/2012,,,,15.6,40,,57,56,,,,,
+18138575,05/31/2013,3.9,NO,1.2,,,58,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18138575,06/25/2013,4.3,NO,1.3,,,56,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18138575,06/26/2013,,,,7.84,63.6,,60,50,,,,,
+18138575,07/24/2013,2.5,NO,0.8,33.8,76.5,64,62,61,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138575,08/26/2013,2.5,NO,0.8,44.3,74.7,64,62,63,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138575,05/27/2014,7,NO,2.1,,27.5,49,54,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18138575,06/26/2014,6,NO,1.8,6.42,38.5,51,56,49,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138575,07/23/2014,5,NO,1.5,21.9,48.7,54,58,58,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18138575,08/27/2014,4.25,NO,1.3,14.3,35.8,56,56,55,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18138575,05/31/2015,,,,,36.4,,56,,,,,,
+124345337,05/31/2015,7,YES,2.1,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,06/23/2015,,,,5.03,38.6,,56,47,,,,,
+124345337,06/23/2015,5.5,YES,1.7,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+18138575,07/23/2015,,,,6.76,30.4,,55,49,,,,,
+124345337,07/23/2015,6,YES,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18138575,08/25/2015,,,,18.3,45.4,,58,57,,,,,
+124345337,08/25/2015,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+124345337,05/31/2016,6.5,YES,2,,42,50,57,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18138575,06/27/2016,,,,13.3,83.6,,62,54,,,,,
+124345337,06/27/2016,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+124345337,07/26/2016,,,,2.81,32,,55,43,,,,,
+124345337,08/30/2016,3.5,,1.1,,,59,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+124345337,08/31/2016,,,,16.1,51.8,,59,56,,,,,
+124345337,05/25/2017,4.5,NO,1.4,,49.7,55,58,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+124345337,05/31/2017,6.5,YES,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+124345337,06/27/2017,4.3,NO,1.3,9.73,50,50,58,52,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+124345337,07/26/2017,4,,1.2,,,57,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+124345337,07/27/2017,4,YES,1.2,22.1,58,57,60,58,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+124345337,08/28/2017,2.5,,0.8,50.2,75.6,64,62,64,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+124345337,08/30/2017,3.5,,1.1,,,59,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+18138575,05/29/2018,,,,,46.4,,58,,,,,,
+18138575,06/25/2018,,,,16.9,63.5,,60,56,,,,,
+18138575,07/31/2018,,,,42.3,100,,64,63,,,,,
+18138575,08/29/2018,,,,34.3,53.9,,59,62,,,,,
+18138575,05/31/2019,,,,,35.7,,56,,,,,,
+215879848,06/29/2019,,,,4.3,46.6,,58,46,,,,,
+215879848,07/30/2019,,,,30.9,89,,63,61,,,,,
+215879848,08/28/2019,,,,18.9,85.9,,63,57,,,,,
+215879848,05/28/2020,,,,,31.7,,55,,,,,,
+215879846,06/30/2020,,,,10.2,39.4,,57,52,,,,,
+215879848,07/28/2020,,,,66.3,155,,67,67,,,,,
+215879848,08/28/2020,,,,47.3,100,,64,64,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1978,0,FEET,25.5,DEGREES C,5.8,MG/L
+07/17/1978,3,FEET,25.5,DEGREES C,5.8,MG/L
+07/17/1978,6,FEET,25.5,DEGREES C,5.8,MG/L
+07/17/1978,7,FEET,25.5,DEGREES C,5.5,MG/L
+02/19/1980,0,FEET,0,DEGREES C,18,MG/L
+02/19/1980,1,FEET,0,DEGREES C,17.9,MG/L
+02/19/1980,2,FEET,1,DEGREES C,17,MG/L
+02/19/1980,3,FEET,1,DEGREES C,14.2,MG/L
+02/19/1980,4,FEET,2,DEGREES C,14.2,MG/L
+02/19/1980,5,FEET,2,DEGREES C,14.1,MG/L
+02/19/1980,6.5,FEET,2.5,DEGREES C,14,MG/L
+04/24/2007,0,FEET,61,DEGREES F,,
+04/24/2007,3,FEET,61,DEGREES F,,
+06/29/2007,0,FEET,76,DEGREES F,,
+06/29/2007,3,FEET,75,DEGREES F,,
+07/29/2007,0,FEET,80,DEGREES F,,
+07/29/2007,3,FEET,76,DEGREES F,,
+09/01/2007,0,FEET,76,DEGREES F,,
+09/01/2007,3,FEET,76,DEGREES F,,
+06/09/2010,0,FEET,74,DEGREES F,,
+06/09/2010,3,FEET,73,DEGREES F,,
+06/09/2010,6,FEET,72,DEGREES F,,
+06/09/2010,9,FEET,72,DEGREES F,,
+06/24/2010,0,FEET,76,DEGREES F,,
+06/24/2010,3,FEET,76,DEGREES F,,
+06/24/2010,6,FEET,76,DEGREES F,,
+07/09/2010,0,FEET,82,DEGREES F,,
+07/09/2010,3,FEET,80,DEGREES F,,
+07/09/2010,6,FEET,80,DEGREES F,,
+07/09/2010,9,FEET,80,DEGREES F,,
+07/21/2010,0,FEET,82,DEGREES F,,
+07/21/2010,3,FEET,82,DEGREES F,,
+08/09/2010,0,FEET,80,DEGREES F,,
+08/09/2010,3,FEET,79,DEGREES F,,
+08/09/2010,6,FEET,79,DEGREES F,,
+08/09/2010,9,FEET,79,DEGREES F,,
+08/25/2010,0,FEET,76,DEGREES F,,
+08/25/2010,3,FEET,76,DEGREES F,,
+08/25/2010,6,FEET,76,DEGREES F,,
+08/25/2010,8.5,FEET,75,DEGREES F,,
+05/25/2011,3,FEET,58,DEGREES F,,
+05/25/2011,6,FEET,59,DEGREES F,,
+05/25/2011,9,FEET,62,DEGREES F,,
+06/09/2011,0,FEET,70,DEGREES F,,
+06/09/2011,3,FEET,74,DEGREES F,,
+06/09/2011,6,FEET,75,DEGREES F,,
+07/07/2011,0,FEET,78,DEGREES F,,
+07/07/2011,3,FEET,79,DEGREES F,,
+07/07/2011,6,FEET,80,DEGREES F,,
+07/07/2011,9,FEET,80,DEGREES F,,
+07/18/2011,3,FEET,85,DEGREES F,,
+07/18/2011,6,FEET,84,DEGREES F,,
+07/18/2011,9,FEET,83,DEGREES F,,
+08/10/2011,0,FEET,77,DEGREES F,,
+08/10/2011,3,FEET,79,DEGREES F,,
+08/10/2011,6,FEET,79,DEGREES F,,
+08/10/2011,9,FEET,79,DEGREES F,,
+08/29/2011,0,FEET,87,DEGREES F,,
+08/29/2011,3,FEET,80,DEGREES F,,
+08/29/2011,6,FEET,75,DEGREES F,,
+08/29/2011,8.5,FEET,75,DEGREES F,,
+06/26/2012,0,FEET,76,DEGREES F,,
+06/26/2012,3,FEET,75,DEGREES F,,
+06/26/2012,6,FEET,74,DEGREES F,,
+06/26/2012,8,FEET,74,DEGREES F,,
+07/25/2012,0,FEET,80,DEGREES F,,
+07/25/2012,3,FEET,79,DEGREES F,,
+07/25/2012,6,FEET,79,DEGREES F,,
+07/25/2012,8,FEET,78,DEGREES F,,
+08/28/2012,0,FEET,77,DEGREES F,,
+08/28/2012,3,FEET,76,DEGREES F,,
+08/28/2012,6,FEET,76,DEGREES F,,
+05/31/2013,0,FEET,69,DEGREES F,,
+05/31/2013,1,FEET,69,DEGREES F,,
+05/31/2013,3,FEET,69,DEGREES F,,
+06/25/2013,0,FEET,76,DEGREES F,,
+06/25/2013,3,FEET,76,DEGREES F,,
+06/25/2013,6,FEET,75,DEGREES F,,
+06/25/2013,9,FEET,74,DEGREES F,,
+07/24/2013,0,FEET,75,DEGREES F,,
+07/24/2013,3,FEET,77,DEGREES F,,
+07/24/2013,6,FEET,77,DEGREES F,,
+07/24/2013,9,FEET,75,DEGREES F,,
+08/26/2013,0,FEET,77,DEGREES F,,
+08/26/2013,3,FEET,76,DEGREES F,,
+08/26/2013,6,FEET,76,DEGREES F,,
+08/26/2013,9,FEET,75,DEGREES F,,
+05/27/2014,0,FEET,76,DEGREES F,,
+05/27/2014,3,FEET,74,DEGREES F,,
+05/27/2014,6,FEET,72,DEGREES F,,
+05/27/2014,9,FEET,70,DEGREES F,,
+06/26/2014,0,FEET,76,DEGREES F,,
+06/26/2014,3,FEET,80,DEGREES F,,
+06/26/2014,6,FEET,78,DEGREES F,,
+06/26/2014,9,FEET,78,DEGREES F,,
+07/23/2014,0,FEET,77,DEGREES F,,
+07/23/2014,3,FEET,78,DEGREES F,,
+07/23/2014,6,FEET,76,DEGREES F,,
+07/23/2014,8,FEET,76,DEGREES F,,
+08/27/2014,0,FEET,75,DEGREES F,,
+08/27/2014,3,FEET,76,DEGREES F,,
+08/27/2014,6,FEET,77,DEGREES F,,
+08/27/2014,9,FEET,76,DEGREES F,,
+05/31/2015,0,FEET,66,DEGREES F,,
+05/31/2015,3,FEET,65,DEGREES F,,
+05/31/2015,6,FEET,64,DEGREES F,,
+05/31/2015,9,FEET,64,DEGREES F,,
+06/23/2015,0,FEET,76,DEGREES F,,
+06/23/2015,3,FEET,74,DEGREES F,,
+06/23/2015,6,FEET,73,DEGREES F,,
+06/23/2015,9,FEET,72,DEGREES F,,
+07/23/2015,0,FEET,84,DEGREES F,,
+07/23/2015,3,FEET,80,DEGREES F,,
+07/23/2015,6,FEET,78,DEGREES F,,
+07/23/2015,9,FEET,78,DEGREES F,,
+08/25/2015,0,FEET,68,DEGREES F,,
+08/25/2015,3,FEET,68,DEGREES F,,
+08/25/2015,6,FEET,67,DEGREES F,,
+08/25/2015,9,FEET,67,DEGREES F,,
+05/31/2016,0,FEET,80,DEGREES F,,
+05/31/2016,3,FEET,76,DEGREES F,,
+05/31/2016,6,FEET,70,DEGREES F,,
+05/31/2016,8.5,FEET,68,DEGREES F,,
+06/27/2016,0,FEET,80,DEGREES F,,
+06/27/2016,3,FEET,80,DEGREES F,,
+06/27/2016,6,FEET,78,DEGREES F,,
+06/27/2016,8,FEET,78,DEGREES F,,
+08/30/2016,0,FEET,76,DEGREES F,,
+08/30/2016,3,FEET,76,DEGREES F,,
+08/30/2016,6,FEET,76,DEGREES F,,
+08/30/2016,9,FEET,77,DEGREES F,,
+05/25/2017,0,FEET,61,DEGREES F,,
+05/25/2017,3,FEET,60,DEGREES F,,
+05/25/2017,6,FEET,58,DEGREES F,,
+05/25/2017,9,FEET,58,DEGREES F,,
+05/31/2017,0,FEET,80,DEGREES F,,
+05/31/2017,3,FEET,76,DEGREES F,,
+05/31/2017,6,FEET,70,DEGREES F,,
+05/31/2017,8.5,FEET,68,DEGREES F,,
+06/27/2017,0,FEET,76,DEGREES F,,
+06/27/2017,3,FEET,74,DEGREES F,,
+06/27/2017,6,FEET,73,DEGREES F,,
+06/27/2017,8,FEET,78,DEGREES F,,
+06/27/2017,9,FEET,72,DEGREES F,,
+07/26/2017,0,FEET,84,DEGREES F,,
+07/26/2017,3,FEET,82,DEGREES F,,
+07/26/2017,6,FEET,80,DEGREES F,,
+07/26/2017,8,FEET,79,DEGREES F,,
+07/27/2017,0,FEET,76,DEGREES F,,
+07/27/2017,3,FEET,77,DEGREES F,,
+07/27/2017,4,FEET,77,DEGREES F,,
+08/28/2017,0,FEET,70,DEGREES F,,
+08/28/2017,3,FEET,70,DEGREES F,,
+08/28/2017,6,FEET,70,DEGREES F,,
+08/28/2017,9,FEET,70,DEGREES F,,
+08/30/2017,0,FEET,76,F,,
+08/30/2017,3,FEET,76,DEGREES F,6,MG/L
+08/30/2017,6,FEET,76,DEGREES F,,
+08/30/2017,9,FEET,77,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/17/1978,Aphanizomenom bloom.  Many 2"-3" LMB around landing.
+02/19/1980,13" to 14" ice
+08/15/1995,Rainfall earlier today.  Very heavy weed growth in this lake.    
+08/26/1995,Weeds still very dense.  Weather has been hot + dry for several days.    
+09/08/1995,Lake level very low.  Weeds very dense making it difficult to boat in many areas.  Lake smells in very weedy areas.    
+09/25/1995,Public perception due to weeds.  Still very weedy.    
+04/11/1996,Lake has been open for about 3 weeks.  No sign of winter kill.    
+05/13/1996,Weed growth almost to surface. would not swim in it but still good for boating. beautiful day-mostly sunny.    
+06/12/1996,Disk reading only about 2" shy of bottom.  Still lots of weed growth. about 30% of lake has growth to surface now. lots of rain the past 2 or so weeks.    
+07/02/1996,Partly sunny today- light rain last night. overall- the lake looks pretty good. large patches of slimy growth in some areas + along shore (algae ) .    
+07/15/1996,Disc about 2" off bottom. milfoil seems better. lots of algal bloom though.    
+07/30/1996,Lake looks good! most of algal bloom is gone- no EM growth to the surface yet! partly sunny day.    
+08/25/1996,Large blankets of algae near boat landing + at north end of lake + patches in between. beautiful partly cloudy day. very dry. milfoil is very thick now in areas.    
+09/13/1996,Can't read disc due to weed growth--not clarity. very large patches of algae at both lake extremities + small patches in between. water is very clear but weeds once again are very dense.    
+05/05/1997,Lake level is up.  Very windy the past few days.  Weeds have not surfaced yet so lake looks good still.  Weeds are still visible beneath the surface though.    
+06/26/1997,Sunny and mild wind.  85 degrees.  Wow!!  Eurasian milfoil has declined in the main part of the lake.  It looks great.  Still heavy weed growth in east bay where weevel study was moved to.  Poor clarity though but not because of weeds.    
+07/09/1997,Main part of lake still looks great.  Duckweed is speckled over the top.  Some strands of weeds still present but not bad.  Lots of particles in the water.  Today is sunny and calm.    
+08/05/1997,Water is brownish yellow. sunny- 80 degrees.  Lake's weed growth is still reduced from last year- but milfoil is still present- especially in the back bay.  Aesthetically- looks good in main part of lake.    
+08/10/2006,DEEP HOLE    
+04/24/2007,Secchi lost in vegetation - not due to lack of water clarity. Water depth ~ 5 3/4'. 
+06/29/2007,Weed harvesting took place two days prior to monitoring. Water depth ~7'. 
+07/29/2007,Dry spell of 3 weeks- then some rain previous day 
+09/01/2007,2 days past extremely rainy weather (~ 12" rain over last 2 weeks). 
+06/09/2010,West wind- slight chop- sunny and breezy with a temp of 80
+BG algae noted on east side of lake
+06/24/2010,Breezy- North wind 72 degrees and sunny  Slight breeze- north wind- sunny and a temperature of 72 
+
+(only have 0- 3 and 6 ft temperature depths the 9 ft temp got cut off)   
+07/09/2010,North breeze- 76 degrees and algae fairly thick on southeast part of the lake 
+07/21/2010,slight breeze- sunny and 82 degrees 
+water receeding  
+08/09/2010,Partly cloudy- breezy- slight chop- temperature of 82 
+Heavy rain last evening- this morning humid
+Found Purple Loostrife 
+BG algae present 
+08/25/2010,slight breezy- recent heavy rains- temperature of 72
+Found purple loosestrife- lilly pads and BG Algae
+05/25/2011,John and Diane Brinkman. Overcast- breeze from North- no chop. 50*f  John and Diane Brinkman.  Overcast- breeze from the North- no chop. Surface temp 59* F
+06/09/2011,John and Diane Brinkman. South breeze. Overcast- thunderstorms/windy- rain last evening. Weed growth low.   58*F
+06/23/2011,John and Diane Brinkman.  Overcast- West breeze- bluegreen algae on East side of lake. Some lilly pads and cara grass.
+07/07/2011,John and Diane Brinkman. Slight overcast-slight breeze out of South East- no chop. Algae evident- lilly pads emerging.
+07/18/2011,John and Diane Brinkman.  Clear sky- sunny- Southern breeze-slight chop. 84*F. Extremly muggy.
+08/10/2011,John adn Diane Brinkman. Sunny- breeze from the Northwest. Bog detered us to test last week.  North/ blurgreen algae. West/ purple loostrife evident.
+08/29/2011,John and Diane Brinkman.  Calm waters-sunny- no clouds. Purple loostrife evident. Bog mooved so we could access lake for water test this week.
+06/26/2012,Lowest water in 8 years. Sunny. Cloudless day. Lots of weeds and loose bog. Lily pads on south end.
+07/25/2012,SE breeze. Partly cloudy. Water is clearer on east side of lake. 80 degrees. Low water. Appears less weedy. 
+08/28/2012,Calm breeze from the south. Fair skies. 80 degrees. Low water- lots of aquatic plants.
+05/31/2013,very windy- southern; very weedy! Overcast- water clarity was decent except for weeds- curly leaf pond weed very evident- milfoil also
+06/25/2013,lily pads-east side- slight breeze- overcast- 74F- much rain lately
+07/24/2013,loosestrife increasing- some blue-green algae evident- sunny- breezy (north)- 76F- few clouds- deep 10' hole- weeds were cut- lily pads evident
+08/26/2013,blue-green algae- purple loosestrife in abundance- clam day- 76F- lilly pads to east- chemical treatment appears effective
+05/27/2014,sunny- slight breeze from southwest- 80 deg F
+06/26/2014,few clouds- sunny- breezy- southwest wind- lily pads present- 70 deg F
+07/23/2014,sunny; breeze from northeast; few clouds; 70 deg F
+08/27/2014,breeze from northeast; rain previous day; mostly sunny; some blue-green algae
+05/31/2015,Sunny- 66F- breezy
+06/23/2015,Sunny- 72F- Breezy- No clouds- beautiful day- weedy on the north end
+07/23/2015,Sunny- 71F- no clouds- submerging weeds- weedy- satellite day- calm- East ends have lily pads and some loosestrife.  
+08/25/2015,60F (brr!)- breezy- NW wind- overcast- satellite today
+05/31/2016,Wind out of the SE- heavy weeds- 72 deg- partly cloudy- sunny. Very woody
+06/27/2016,Breezy day- wind from NW- windy. 82 deg- no clouds- sunny- still very weedy
+08/30/2016,70 deg- sunny- wispy clouds- a lot less weeds- low algae observed
+05/25/2017,overcast- winds from the north- little weed growth- air temp 59 degrees- some lily pads
+05/31/2017,Windy out of the south east- heavy weeds- 72 degrees F- partly cloudy- sunny- VERY WEEDY
+06/27/2017,breezy day- winds from the northwest- weedy- 82 degrees- no clouds- still very weedy
+06/27/2017,partly cloudy- 75 degrees- Lilly pads on west side- weed sit good- wind west- light breeze at deep hole 11-12
+07/26/2017,sunny day- no clouds- 84 degrees- still weeds- lots more lily pads- slight breeze
+07/27/2017,performed test from dock closest to "deep hole-" restrictions on motor use in place
+08/28/2017,72 degrees- overcast- low weed growth- lilly pads- east and southwest- water brown- little wind- no floating bogs- no free floating bog
+08/30/2017,70 degrees- sunny- wispy clouds- a lot less weeds- low algae observed
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/19/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+08/15/1995,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/26/1995,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+09/08/1995,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+09/25/1995,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+04/11/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/13/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/12/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/02/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/15/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/30/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/25/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+09/13/1996,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/05/1997,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/26/1997,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/09/1997,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/05/1997,Laura Myers,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/10/2006,Heidi Bunk,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+04/24/2007,Neil W Sawyer,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/29/2007,Neil W Sawyer,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/29/2007,Neil W Sawyer,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+09/01/2007,Neil W Sawyer,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/11/2008,Data Collectors,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/29/2009,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/30/2009,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/30/2009,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/29/2009,Heidi Bunk,
+06/09/2010,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/24/2010,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/09/2010,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/21/2010,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/09/2010,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/25/2010,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/25/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/09/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/23/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/07/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/18/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/10/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/29/2011,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/26/2012,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/25/2012,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/28/2012,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/29/2012,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/31/2013,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/25/2013,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/26/2013,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/24/2013,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/26/2013,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/27/2014,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/26/2014,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/23/2014,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/27/2014,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/31/2015,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/31/2015,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/23/2015,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/23/2015,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/23/2015,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/23/2015,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/25/2015,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/25/2015,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/31/2016,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/27/2016,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/27/2016,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/26/2016,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/26/2016,Diane + John Brinkman,Citizen Lake Monitoring Network QA/QC - 2016
+08/30/2016,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/31/2016,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/25/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/31/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/27/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/26/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/27/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/28/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/30/2017,Diane + John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/29/2018,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/25/2018,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/31/2018,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/29/2018,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/31/2019,John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/29/2019,Nick Knickerbocker- John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/30/2019,Nick Knickerbocker- John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/28/2019,Nick Knickerbocker- John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+05/28/2020,Nick Knickerbocker- John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+06/30/2020,Nick Knickerbocker,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+07/28/2020,Nick Knickerbocker- John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole
+08/28/2020,Nick Knickerbocker- John Brinkman,Citizen Lake Monitoring - Water Quality - Lake Lorraine; Deep Hole

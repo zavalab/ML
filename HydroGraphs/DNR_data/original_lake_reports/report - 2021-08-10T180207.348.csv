@@ -1,0 +1,329 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Mary,Marinette,530500,NE,38,,383208,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/29/1982,,,,7,20,,51,50,,,,,
+1,10/28/1982,8.9,,2.7,3,20,46,51,43,,,,,
+1,01/18/1983,,,,5,20,,51,47,,,,,
+1,04/28/1983,9.8,,3,6,20,44,51,48,,,,,
+1,11/17/1983,,,,2,,,,40,,,,,
+1,02/20/1984,,,,5,30,,54,47,,,,,
+1,05/10/1984,8.9,,2.7,7,20,46,51,50,,,,,
+1,05/06/1993,10.2,,3.1,3.51,,44,,44,,,,,
+8189599,05/11/1993,,,,5.81,,,,48,,,,,
+1,06/09/1993,7.5,,2.3,4.94,10,48,46,47,,,,,
+8189599,06/27/1993,4,NO,1.2,5.76,,57,,48,,,,BROWN,2-Very minor aesthetic problems
+1,07/08/1993,7,,2.13,5.2,13,49,48,47,,,,,
+8189599,07/16/1993,5,NO,1.5,6.26,,54,,49,GAUGE,13,,BROWN,2-Very minor aesthetic problems
+8189599,08/11/1993,6,NO,1.8,4.57,,51,,46,GAUGE,13,,BROWN,2-Very minor aesthetic problems
+1,09/09/1993,5.9,,1.8,6.19,11,51,47,49,,,,,
+1,02/07/1994,,,,,11,,47,,,,,,
+8189599,05/17/1994,5,NO,1.5,3.2,13,54,48,44,GAUGE,13,,BROWN,2-Very minor aesthetic problems
+8189599,07/26/1994,9,NO,2.7,4.37,12,45,47,46,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189599,04/23/1995,5,NO,1.5,,,54,,,GAUGE,13,,BROWN,2-Very minor aesthetic problems
+8189599,06/17/1995,8.5,NO,2.6,2.42,13,46,48,41,GAUGE,13,,BROWN,1-Beautiful, could not be nicer
+8189599,07/31/1995,8,NO,2.4,0.24,12,47,47,24,,,,GREEN,1-Beautiful, could not be nicer
+8189665,05/22/1996,8,NO,2.4,,,47,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189599,05/27/1996,8,NO,2.4,3.58,72,47,61,44,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189599,07/05/1996,8,NO,2.4,3.62,13,47,48,45,,,CLEAR,GREEN,
+8189599,05/11/1997,7,NO,2.1,,17,49,50,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189599,07/01/1997,6,NO,1.8,6,40,51,57,48,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189599,04/26/1998,,,,,18,,51,,,,,,
+8189599,06/21/1998,9,NO,2.7,2.89,11,45,47,43,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188623,08/05/2004,9.7,NO,2.9,4.47,23,44,52,46,,,,,
+162692612,06/07/2018,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162692612,06/21/2018,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162692612,07/13/2018,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162692612,08/10/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162692612,09/10/2018,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162692612,09/24/2018,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+162692612,07/10/2019,7,NO,2.1,,,49,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+162692612,07/14/2019,,,,2.33,11.9,,47,41,,,,,
+162692612,08/04/2019,8.75,NO,2.7,2.57,14.8,46,49,42,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+162692612,08/13/2019,7,NO,2.1,,,49,,,NORMAL,,,YELLOW,3-Enjoyment somewhat impaired (algae)
+162692612,08/27/2019,8.5,NO,2.6,1.9,12.9,46,48,40,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+162692612,05/15/2020,9.75,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+162692612,05/30/2020,6.5,NO,2,,,50,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+162692612,06/06/2020,,,,1.21,13,,48,36,,,,,
+162692612,06/11/2020,8.5,NO,2.6,,,46,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+162692612,07/06/2020,6.5,NO,2,,,50,,,NORMAL,,,YELLOW,3-Enjoyment somewhat impaired (algae)
+162692612,07/28/2020,7.5,NO,2.3,2.52,12,48,47,42,NORMAL,,,YELLOW,3-Enjoyment somewhat impaired (algae)
+162692612,08/12/2020,10.5,NO,3.2,,,43,,,NORMAL,,,YELLOW,4-Would not swim but boating OK (algae)
+162692612,08/31/2020,,,,3.8,14.1,,49,45,,,,,
+162692612,09/16/2020,9,NO,2.7,,,45,,,NORMAL,,,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/28/1982,,,8,C,10.3,MG/L
+01/18/1983,,,1,C,12.1,MG/L
+04/28/1983,,,12.5,C,10.8,MG/L
+11/17/1983,,,3,C,11.8,MG/L
+02/20/1984,,,2,C,1.6,MG/L
+05/10/1984,,,10.5,C,10.3,MG/L
+05/06/1993,,,10,C,10.0,MG/L
+07/08/1993,,,18.0,C,2.3,MG/L
+09/09/1993,,,17.5,C,4.3,MG/L
+02/07/1994,,,4,C,1.8,MG/L
+07/26/1994,1,FEET,57,DEGREES F,,
+04/23/1995,1,FEET,50,DEGREES F,,
+04/23/1995,3,FEET,50,DEGREES F,,
+06/17/1995,1,FEET,46,DEGREES F,,
+06/17/1995,3,FEET,46,DEGREES F,,
+07/05/1996,1,FEET,78,DEGREES F,,
+07/05/1996,3,FEET,78,DEGREES F,,
+07/05/1996,6,FEET,78,DEGREES F,,
+07/05/1996,9,FEET,78,DEGREES F,,
+05/11/1997,3,FEET,55,DEGREES F,,
+07/01/1997,3,FEET,78,DEGREES F,,
+08/05/2004,6,FEET,,,7.8,MG/L
+08/05/2004,,,23.9,C,7.8,MG/L
+06/07/2018,0,FEET,70.8,DEGREES F,,
+06/07/2018,3,FEET,70.5,DEGREES F,,
+06/07/2018,6,FEET,69.2,DEGREES F,,
+06/07/2018,9,FEET,68.7,DEGREES F,,
+06/07/2018,12,FEET,66.5,DEGREES F,,
+06/07/2018,15,FEET,55.7,DEGREES F,,
+06/07/2018,18,FEET,51.8,DEGREES F,,
+06/07/2018,21,FEET,50.5,DEGREES F,,
+06/21/2018,0,FEET,75.7,DEGREES F,,
+06/21/2018,3,FEET,75.5,DEGREES F,,
+06/21/2018,6,FEET,75.2,DEGREES F,,
+06/21/2018,9,FEET,73.2,DEGREES F,,
+06/21/2018,12,FEET,69,DEGREES F,,
+06/21/2018,15,FEET,62.4,DEGREES F,,
+06/21/2018,18,FEET,54.1,DEGREES F,,
+06/21/2018,21,FEET,52.8,DEGREES F,,
+07/13/2018,0,FEET,79.7,DEGREES F,,
+07/13/2018,3,FEET,79.3,DEGREES F,,
+07/13/2018,6,FEET,79.1,DEGREES F,,
+07/13/2018,9,FEET,78.8,DEGREES F,,
+07/13/2018,12,FEET,71.9,DEGREES F,,
+07/13/2018,15,FEET,61.5,DEGREES F,,
+07/13/2018,18,FEET,57.5,DEGREES F,,
+07/13/2018,21,FEET,56.1,DEGREES F,,
+07/13/2018,24,FEET,55.4,DEGREES F,,
+07/13/2018,27,FEET,54,DEGREES F,,
+08/10/2018,1,FEET,82.4,DEGREES F,,
+08/10/2018,3,FEET,82.2,DEGREES F,,
+08/10/2018,6,FEET,81.6,DEGREES F,,
+08/10/2018,9,FEET,79.3,DEGREES F,,
+08/10/2018,12,FEET,71.9,DEGREES F,,
+08/10/2018,15,FEET,66.9,DEGREES F,,
+08/10/2018,18,FEET,60,DEGREES F,,
+08/10/2018,21,FEET,57.9,DEGREES F,,
+08/10/2018,24,FEET,57.2,DEGREES F,,
+09/10/2018,0,FEET,71,DEGREES F,,
+09/10/2018,3,FEET,70.7,DEGREES F,,
+09/10/2018,6,FEET,70.1,DEGREES F,,
+09/10/2018,9,FEET,69.8,DEGREES F,,
+09/10/2018,12,FEET,69,DEGREES F,,
+09/10/2018,15,FEET,68.3,DEGREES F,,
+09/10/2018,18,FEET,64.4,DEGREES F,,
+09/10/2018,21,FEET,61.5,DEGREES F,,
+09/10/2018,24,FEET,58.2,DEGREES F,,
+09/10/2018,27,FEET,55.7,DEGREES F,,
+09/24/2018,0,FEET,67.4,DEGREES F,,
+09/24/2018,3,FEET,66.5,DEGREES F,,
+09/24/2018,6,FEET,66,DEGREES F,,
+09/24/2018,9,FEET,65.6,DEGREES F,,
+09/24/2018,12,FEET,65.4,DEGREES F,,
+09/24/2018,15,FEET,65.1,DEGREES F,,
+09/24/2018,18,FEET,64.7,DEGREES F,,
+09/24/2018,21,FEET,65.5,DEGREES F,,
+09/24/2018,24,FEET,64.3,DEGREES F,,
+09/24/2018,27,FEET,63.5,DEGREES F,,
+09/24/2018,30,FEET,57.5,DEGREES F,,
+07/10/2019,2,FEET,78.2,DEGREES F,,
+07/10/2019,3,FEET,78,DEGREES F,,
+07/10/2019,6,FEET,77.9,DEGREES F,,
+07/10/2019,9,FEET,76,DEGREES F,,
+07/10/2019,12,FEET,65.5,DEGREES F,,
+07/10/2019,15,FEET,60.6,DEGREES F,,
+07/10/2019,18,FEET,59,DEGREES F,,
+07/10/2019,21,FEET,58.4,DEGREES F,,
+07/10/2019,24,FEET,58.2,DEGREES F,,
+07/10/2019,27,FEET,57.5,DEGREES F,,
+07/10/2019,30,FEET,57.3,DEGREES F,,
+08/04/2019,1,FEET,80.9,DEGREES F,,
+08/04/2019,3,FEET,78.8,DEGREES F,,
+08/04/2019,6,FEET,78.2,DEGREES F,,
+08/04/2019,9,FEET,77,DEGREES F,,
+08/04/2019,12,FEET,73.7,DEGREES F,,
+08/04/2019,15,FEET,69.6,DEGREES F,,
+08/04/2019,18,FEET,62,DEGREES F,,
+08/04/2019,21,FEET,60.8,DEGREES F,,
+08/04/2019,24,FEET,60.4,DEGREES F,,
+08/04/2019,27,FEET,60,DEGREES F,,
+08/04/2019,30,FEET,59.7,DEGREES F,,
+08/13/2019,1,FEET,76.4,DEGREES F,,
+08/13/2019,3,FEET,75.9,DEGREES F,,
+08/27/2019,1,FEET,71.9,DEGREES F,,
+08/27/2019,3,FEET,71.7,DEGREES F,,
+08/27/2019,6,FEET,71.6,DEGREES F,,
+08/27/2019,9,FEET,71.6,DEGREES F,,
+08/27/2019,12,FEET,71.6,DEGREES F,,
+08/27/2019,15,FEET,71.4,DEGREES F,,
+08/27/2019,18,FEET,71,DEGREES F,,
+08/27/2019,21,FEET,62.9,DEGREES F,,
+08/27/2019,24,FEET,61.1,DEGREES F,,
+08/27/2019,27,FEET,60,DEGREES F,,
+05/15/2020,1,FEET,57,DEGREES F,,
+05/15/2020,3,FEET,56.8,DEGREES F,,
+05/15/2020,6,FEET,56.6,DEGREES F,,
+05/15/2020,9,FEET,56.4,DEGREES F,,
+05/15/2020,12,FEET,55.4,DEGREES F,,
+05/15/2020,15,FEET,53,DEGREES F,,
+05/15/2020,18,FEET,52.5,DEGREES F,,
+05/15/2020,21,FEET,52.1,DEGREES F,,
+05/15/2020,24,FEET,51.9,DEGREES F,,
+05/15/2020,27,FEET,52.5,DEGREES F,,
+06/11/2020,1,FEET,72.8,DEGREES F,,
+06/11/2020,3,FEET,71.4,DEGREES F,,
+06/11/2020,6,FEET,69.6,DEGREES F,,
+06/11/2020,9,FEET,69,DEGREES F,,
+06/11/2020,12,FEET,66.5,DEGREES F,,
+06/11/2020,15,FEET,58.2,DEGREES F,,
+06/11/2020,18,FEET,56.4,DEGREES F,,
+07/06/2020,1,FEET,86,DEGREES F,,
+07/06/2020,3,FEET,85.2,DEGREES F,,
+07/06/2020,6,FEET,83.4,DEGREES F,,
+07/06/2020,9,FEET,72.6,DEGREES F,,
+07/06/2020,12,FEET,66.5,DEGREES F,,
+07/06/2020,15,FEET,61.5,DEGREES F,,
+07/06/2020,18,FEET,59,DEGREES F,,
+07/06/2020,21,FEET,58.4,DEGREES F,,
+07/06/2020,24,FEET,58.2,DEGREES F,,
+07/06/2020,27,FEET,58.1,DEGREES F,,
+07/06/2020,30,FEET,58.1,DEGREES F,,
+07/28/2020,1,FEET,80.4,DEGREES F,,
+07/28/2020,3,FEET,80.4,DEGREES F,,
+07/28/2020,6,FEET,80,DEGREES F,,
+07/28/2020,9,FEET,79.5,DEGREES F,,
+07/28/2020,12,FEET,71.9,DEGREES F,,
+07/28/2020,15,FEET,64.2,DEGREES F,,
+07/28/2020,18,FEET,60.2,DEGREES F,,
+07/28/2020,21,FEET,59.7,DEGREES F,,
+07/28/2020,24,FEET,59.3,DEGREES F,,
+07/28/2020,27,FEET,59,DEGREES F,,
+08/12/2020,1,FEET,80,DEGREES F,,
+08/12/2020,3,FEET,78.4,DEGREES F,,
+08/12/2020,6,FEET,77.7,DEGREES F,,
+08/12/2020,9,FEET,75.5,DEGREES F,,
+08/12/2020,12,FEET,71.9,DEGREES F,,
+08/12/2020,15,FEET,67.8,DEGREES F,,
+08/12/2020,18,FEET,62,DEGREES F,,
+08/12/2020,21,FEET,60.8,DEGREES F,,
+08/12/2020,24,FEET,59.9,DEGREES F,,
+08/12/2020,27,FEET,58.8,DEGREES F,,
+08/12/2020,30,FEET,58.8,DEGREES F,,
+09/16/2020,1,FEET,67.2,DEGREES F,,
+09/16/2020,3,FEET,67.2,DEGREES F,,
+09/16/2020,6,FEET,67.1,DEGREES F,,
+09/16/2020,9,FEET,66.9,DEGREES F,,
+09/16/2020,12,FEET,63.6,DEGREES F,,
+09/16/2020,15,FEET,63.1,DEGREES F,,
+09/16/2020,18,FEET,62.9,DEGREES F,,
+09/16/2020,21,FEET,62.2,DEGREES F,,
+09/16/2020,24,FEET,62,DEGREES F,,
+09/16/2020,26,FEET,62.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/29/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/28/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/18/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/28/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/17/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/20/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/10/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/11/1993,No field sheets sent for this date- only phosphorus and chlorophyll data    
+06/27/1993,Heard someone was pouring raw sewage in the lake.    
+07/16/1993,Good weather.    
+08/11/1993,Beautiful day- 85 degrees    
+07/26/1994,Very windy    
+04/23/1995,Cool    
+06/17/1995,Sunny- nice weather    
+07/31/1995,Nice weather (90's)    
+05/11/1997,LAKE SAMPLE    
+07/01/1997,LAKE SAMPLE    
+04/26/1998,LAKE SAMPLE    
+06/21/1998,LAKE SAMPLE    
+08/05/2004,DEEPEST AREA - INTEGRATED SAMPLER    
+06/07/2018,Brian Zalay was training.   It was sunny and the weather was good.
+06/21/2018,Sky was hazy or lightly overcast.  Helper was husband- Dave Riemer.   We did see one loon.
+07/13/2018,Sunny.  Lake weeds are reaching the water surface causing some problems with boating and swimming.  I weighted the thermometer it get a better reading straight down.   
+08/10/2018,The lake clarity was almost blue but still a light yellow tint.   Very clear as can be seen by the depth of the Secchi disc.
+The lake level is low which is normal due to lack of rain.  
+09/24/2018,Partly cloudy.   There has been rain in the past week and the lake has risen about a half inch.  There's a brown scum  on the surface of the shoreline water.
+07/10/2019,The day was sunny but a little windy.  Wind ruffed the surface of the water but didn't appear to hinder the readings.
+08/04/2019,Sunny day.  Water clarity was a little less yellow than normal.  
+08/13/2019,The sky was lightly overcast.  A few days previously there was blue-green algae mats along the shoreline.  The small mats had floated into shore and kept people away from the shoreline.  The center of the lake appeared clear of the algae. Two baby otters were spotted along with an immature bald eagle and the adult.  The eagles were trying their hunting skills on the otters.  
+08/27/2019,The day was very windy with occasional whitecaps on the lake which made it difficult to remain anchored in one place. There were small spots of green algae- about the size of a nickle.  These may have been stirred around by the wind.
+05/15/2020,My husband helped gather the data.   The day was sunny but windy.  Saw a pair of common loons and a pair of tundra swans.  The eagle was also out enjoying the wind.  
+05/30/2020,Very windy and was churning up the lake.  Secchi depth reflects this. 
+06/11/2020,Could not find my usual deepest spot.  The day was sunny and not windy.  Did notice the common loons have a nest on the floating Lilly pad roots.  
+07/06/2020,Very sunny and calm morning.  The water near the shore appeared to have a black ash floating on it.  With a closer look it was small floating leaves of what appeared to be elodea.  There were also many dead snails that had washed up to the shore.  On the bright side- the loon eggs have hatched and we have two new loons on the lake.  
+07/28/2020,One baby loon is still alive and thriving.  A lot of dead floating plant matter or brown algae along the shores.  I couldn't tell the difference. 
+08/12/2020,The water was very clear but had the bright green algae (paint chips) suspended everywhere in the lake.   There was also brown algae floating along the shores.  
+09/16/2020,The wind started roughing the surface of the lake after paddling out to the deepest part.  The surface plants are starting to die off and as the lake water level becomes lower the submerged plants are touching or lying on the surface.   One adult loon is still on the lake with a baby loon who is looking more like the adult.    The muskrats are starting to pile up lily roots and other vegetation out from the shores to create "push ups" for the winter.   
+
+
+
+
+Start Date,Group Name,Project Name
+07/29/1982,Data Collectors,Migrated from STORET Legacy
+10/28/1982,Data Collectors,Migrated from STORET Legacy
+01/18/1983,Data Collectors,Migrated from STORET Legacy
+04/28/1983,Data Collectors,Migrated from STORET Legacy
+11/17/1983,Data Collectors,Migrated from STORET Legacy
+02/20/1984,Data Collectors,Migrated from STORET Legacy
+05/10/1984,Data Collectors,Migrated from STORET Legacy
+05/06/1993,Data Collectors,LAKE EVALUATION
+05/11/1993,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+06/09/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/27/1993,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/08/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/16/1993,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/11/1993,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+09/09/1993,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/07/1994,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/17/1994,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/26/1994,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+04/23/1995,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+06/17/1995,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/31/1995,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+05/22/1996,Mindy Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+05/27/1996,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/05/1996,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+05/11/1997,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/01/1997,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+04/26/1998,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+06/21/1998,Anne And Jeana Biernasz,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/05/2004,Greg Sevener,Lake Baseline Monitoring- DNR (1970s-2006)
+06/07/2018,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+06/21/2018,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/13/2018,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/10/2018,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+09/10/2018,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+09/24/2018,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/10/2019,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/14/2019,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/04/2019,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/13/2019,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/27/2019,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+05/15/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+05/30/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+06/06/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+06/11/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/06/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+07/28/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/12/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+08/31/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part
+09/16/2020,Carol Kasdorf,Citizen Lake Monitoring - Water Quality - Mary Lake - Deepest Part

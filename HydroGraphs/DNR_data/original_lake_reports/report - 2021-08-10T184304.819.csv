@@ -1,0 +1,479 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Fourmile Lake,Oneida,1610800,NO,44,,443098,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/25/1979,,,,,,,,,,,,,
+8190184,08/10/1993,2.25,NO,0.7,,,65,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190184,08/21/1993,2.25,NO,0.7,,,65,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190184,06/08/1994,4,NO,1.2,,,57,,,,,,BROWN,2-Very minor aesthetic problems
+8190184,06/24/1994,4,NO,1.2,,,57,,,,,,BROWN,1-Beautiful, could not be nicer
+8190184,07/28/1994,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190184,08/17/1994,3,NO,0.9,,,61,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190184,07/04/1995,4,NO,1.2,,,57,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190184,07/04/1996,4,NO,1.2,,,57,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190184,08/10/1996,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190184,08/24/1996,3.25,NO,1,,,60,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+34972236,04/10/2012,3.1,NO,0.9,3.26,35,61,56,44,,,,,
+72779815,06/05/2012,5,NO,1.5,12.2,27,54,54,54,,,,,
+16073539,07/19/2012,4.9,NO,1.5,12,29,54,54,54,,,,,
+16073539,08/20/2012,3.2,NO,1,7.03,25,60,53,50,,,,,
+34972236,10/29/2012,4.4,NO,1.3,8.85,37,56,56,51,,,,,
+87692597,02/14/2013,4,NO,1.2,,23,57,52,,,,,,
+41890154,07/07/2014,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+41890154,07/20/2014,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+41890154,08/13/2014,2.75,NO,0.8,,,63,,,NORMAL,3.8,CLEAR,BROWN,1-Beautiful, could not be nicer
+41890154,09/28/2014,2.1,NO,0.6,,,66,,,NORMAL,3.5,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+41890154,07/05/2015,2.5,NO,0.8,,,64,,,NORMAL,3,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/21/2015,2.5,NO,0.8,,,64,,,NORMAL,3,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,07/15/2016,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/17/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/03/2016,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/17/2016,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/04/2017,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/28/2017,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/29/2017,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/13/2017,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+41890154,07/06/2018,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,07/14/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/07/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/13/2018,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/28/2018,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/31/2018,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,04/26/2019,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+41890154,06/24/2019,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,07/17/2019,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+41890154,08/10/2019,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+41890154,08/19/2019,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/27/2019,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/06/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/14/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/23/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,06/26/2020,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,06/30/2020,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,07/10/2020,2.75,,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/05/2020,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,08/20/2020,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/10/2020,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+41890154,09/18/2020,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/1979,,,23.5,C,,
+04/10/2012,,,8.0,C,10.0,MG/L
+06/05/2012,,,13.8,C,1.5,MG/L
+07/19/2012,,,15.0,C,0.0,MG/L
+08/20/2012,,,14.9,C,0.1,MG/L
+10/29/2012,,,7.5,C,10.1,MG/L
+02/14/2013,,,1.1,C,0.3,MG/L
+07/07/2014,3,FEET,71.6,DEGREES F,6,MG/L
+07/07/2014,6,FEET,71.6,DEGREES F,4.4,MG/L
+07/07/2014,9,FEET,71.4,DEGREES F,6.6,MG/L
+07/07/2014,12,FEET,68.3,DEGREES F,2.4,MG/L
+07/07/2014,15,FEET,56.1,DEGREES F,1,MG/L
+07/07/2014,18,FEET,51.6,DEGREES F,.4,MG/L
+07/07/2014,21,FEET,50.7,DEGREES F,.2,MG/L
+07/07/2014,24,FEET,50,DEGREES F,.1,MG/L
+07/07/2014,27,FEET,49.2,DEGREES F,0,MG/L
+07/20/2014,3,FEET,70.5,DEGREES F,6.2,MG/L
+07/20/2014,6,FEET,70.3,DEGREES F,6,MG/L
+07/20/2014,9,FEET,70.1,DEGREES F,6.2,MG/L
+07/20/2014,12,FEET,66.9,DEGREES F,5.2,MG/L
+07/20/2014,15,FEET,60.8,DEGREES F,.8,MG/L
+07/20/2014,18,FEET,53.1,DEGREES F,.2,MG/L
+07/20/2014,21,FEET,51.2,DEGREES F,.2,MG/L
+07/20/2014,24,FEET,50.4,DEGREES F,0,MG/L
+07/20/2014,27,FEET,49.8,DEGREES F,0,MG/L
+08/13/2014,3,FEET,71.3,DEGREES F,5.2,MG/L
+08/13/2014,6,FEET,70.4,DEGREES F,5.4,MG/L
+08/13/2014,9,FEET,69.8,DEGREES F,4.8,MG/L
+08/13/2014,12,FEET,67.3,DEGREES F,3,MG/L
+08/13/2014,15,FEET,63.1,DEGREES F,1.8,MG/L
+08/13/2014,18,FEET,56.9,DEGREES F,.4,MG/L
+08/13/2014,21,FEET,53.3,DEGREES F,.4,MG/L
+08/13/2014,24,FEET,52.4,DEGREES F,.4,MG/L
+09/28/2014,3,FEET,63.9,DEGREES F,,
+09/28/2014,6,FEET,62.3,DEGREES F,,
+09/28/2014,9,FEET,59.1,DEGREES F,,
+09/28/2014,12,FEET,58,DEGREES F,,
+09/28/2014,15,FEET,57.5,DEGREES F,,
+09/28/2014,18,FEET,57,DEGREES F,,
+09/28/2014,21,FEET,56.4,DEGREES F,,
+09/28/2014,24,FEET,54.8,DEGREES F,,
+09/28/2014,27,FEET,54.8,DEGREES F,,
+07/05/2015,3,FEET,74,DEGREES F,4.8,MG/L
+07/05/2015,6,FEET,72.6,DEGREES F,5.8,MG/L
+07/05/2015,9,FEET,69.5,DEGREES F,5.2,MG/L
+07/05/2015,12,FEET,62.5,DEGREES F,4.6,MG/L
+07/05/2015,15,FEET,57.6,DEGREES F,6.2,MG/L
+07/05/2015,18,FEET,54,DEGREES F,2.2,MG/L
+07/05/2015,21,FEET,52.9,DEGREES F,3.6,MG/L
+07/05/2015,24,FEET,52.2,DEGREES F,4.2,MG/L
+07/05/2015,27,FEET,51.3,DEGREES F,0,MG/L
+08/21/2015,3,FEET,69.4,DEGREES F,4.3,MG/L
+08/21/2015,6,FEET,69.3,DEGREES F,4.2,MG/L
+08/21/2015,9,FEET,69.2,DEGREES F,4.2,MG/L
+08/21/2015,12,FEET,69.1,DEGREES F,4.4,MG/L
+08/21/2015,15,FEET,65.5,DEGREES F,4,MG/L
+08/21/2015,18,FEET,57.1,DEGREES F,3,MG/L
+08/21/2015,21,FEET,54.5,DEGREES F,1,MG/L
+08/21/2015,24,FEET,54,DEGREES F,2.7,MG/L
+08/21/2015,27,FEET,52.8,DEGREES F,0,MG/L
+07/15/2016,3,FEET,72,DEGREES F,7.94,MG/L
+07/15/2016,6,FEET,71.7,DEGREES F,7.43,MG/L
+07/15/2016,9,FEET,71.2,DEGREES F,7.3,MG/L
+07/15/2016,12,FEET,68.6,DEGREES F,4.27,MG/L
+07/15/2016,15,FEET,60.8,DEGREES F,.73,MG/L
+07/15/2016,18,FEET,55,DEGREES F,.32,MG/L
+07/15/2016,21,FEET,53.1,DEGREES F,.25,MG/L
+07/15/2016,24,FEET,52.3,DEGREES F,.2,MG/L
+07/15/2016,27,FEET,51.8,DEGREES F,.15,MG/L
+08/17/2016,3,FEET,76.3,DEGREES F,8.35,MG/L
+08/17/2016,6,FEET,73.9,DEGREES F,6.09,MG/L
+08/17/2016,9,FEET,73,DEGREES F,5.6,MG/L
+08/17/2016,12,FEET,70.3,DEGREES F,1.87,MG/L
+08/17/2016,15,FEET,65.1,DEGREES F,.46,MG/L
+08/17/2016,18,FEET,57.5,DEGREES F,.26,MG/L
+08/17/2016,21,FEET,55.2,DEGREES F,.19,MG/L
+08/17/2016,24,FEET,53.9,DEGREES F,.15,MG/L
+08/17/2016,27,FEET,53.2,DEGREES F,.13,MG/L
+09/03/2016,3,FEET,69.4,DEGREES F,7.64,MG/L
+09/03/2016,6,FEET,69.2,DEGREES F,7.28,MG/L
+09/03/2016,9,FEET,68.6,DEGREES F,7.14,MG/L
+09/03/2016,12,FEET,68.2,DEGREES F,6.69,MG/L
+09/03/2016,15,FEET,66.2,DEGREES F,1.07,MG/L
+09/03/2016,18,FEET,60.8,DEGREES F,.48,MG/L
+09/03/2016,21,FEET,56,DEGREES F,.31,MG/L
+09/03/2016,24,FEET,54.7,DEGREES F,.24,MG/L
+09/03/2016,27,FEET,53.8,DEGREES F,.19,MG/L
+09/17/2016,3,FEET,66.9,DEGREES F,7.81,MG/L
+09/17/2016,6,FEET,66.7,DEGREES F,7.6,MG/L
+09/17/2016,9,FEET,66.5,DEGREES F,7.46,MG/L
+09/17/2016,12,FEET,65.4,DEGREES F,6.46,MG/L
+09/17/2016,15,FEET,64.7,DEGREES F,4.16,MG/L
+09/17/2016,18,FEET,61.4,DEGREES F,.65,MG/L
+09/17/2016,21,FEET,57.6,DEGREES F,.36,MG/L
+09/17/2016,24,FEET,55.3,DEGREES F,.27,MG/L
+09/17/2016,27,FEET,53.9,DEGREES F,.22,MG/L
+08/04/2017,3,FEET,67.6,DEGREES F,84.4,MG/L
+08/04/2017,6,FEET,67.8,DEGREES F,72.1,MG/L
+08/04/2017,9,FEET,67.4,DEGREES F,59.2,MG/L
+08/04/2017,12,FEET,63.7,DEGREES F,6.5,MG/L
+08/04/2017,15,FEET,58.9,DEGREES F,5.5,MG/L
+08/04/2017,18,FEET,56.9,DEGREES F,2.5,MG/L
+08/04/2017,21,FEET,54.9,DEGREES F,1.7,MG/L
+08/04/2017,24,FEET,54.3,DEGREES F,1.3,MG/L
+08/04/2017,27,FEET,53.6,DEGREES F,.9,MG/L
+08/28/2017,3,FEET,67,DEGREES F,7.58,MG/L
+08/28/2017,6,FEET,65.7,DEGREES F,7.02,MG/L
+08/28/2017,9,FEET,65.4,DEGREES F,6.87,MG/L
+08/28/2017,12,FEET,64.7,DEGREES F,4.68,MG/L
+08/28/2017,15,FEET,61.8,DEGREES F,.91,MG/L
+08/28/2017,18,FEET,58.6,DEGREES F,.28,MG/L
+08/28/2017,21,FEET,56.1,DEGREES F,.19,MG/L
+08/28/2017,24,FEET,54.8,DEGREES F,.13,MG/L
+08/28/2017,27,FEET,54.1,DEGREES F,.09,MG/L
+08/29/2017,3,FEET,65.6,DEGREES F,7.27,MG/L
+08/29/2017,6,FEET,65.1,DEGREES F,6.71,MG/L
+08/29/2017,9,FEET,64.9,DEGREES F,6.7,MG/L
+08/29/2017,12,FEET,64.6,DEGREES F,6.16,MG/L
+08/29/2017,15,FEET,62.8,DEGREES F,4.72,MG/L
+08/29/2017,18,FEET,57.2,DEGREES F,.6,MG/L
+08/29/2017,21,FEET,56,DEGREES F,.31,MG/L
+08/29/2017,24,FEET,54.9,DEGREES F,.21,MG/L
+08/29/2017,27,FEET,54.2,DEGREES F,.14,MG/L
+09/13/2017,3,FEET,69.3,DEGREES F,8.22,MG/L
+09/13/2017,6,FEET,64.2,DEGREES F,7.71,MG/L
+09/13/2017,9,FEET,62.7,DEGREES F,7.05,MG/L
+09/13/2017,12,FEET,61.5,DEGREES F,6.53,MG/L
+09/13/2017,15,FEET,59.8,DEGREES F,5.07,MG/L
+09/13/2017,18,FEET,59,DEGREES F,2.86,MG/L
+09/13/2017,21,FEET,56.9,DEGREES F,.55,MG/L
+09/13/2017,24,FEET,55.9,DEGREES F,.21,MG/L
+09/13/2017,27,FEET,54.7,DEGREES F,.12,MG/L
+07/06/2018,3,FEET,78.2,DEGREES F,82.5,MG/L
+07/06/2018,6,FEET,76.4,DEGREES F,75,MG/L
+07/06/2018,9,FEET,73.8,DEGREES F,56.7,MG/L
+07/06/2018,12,FEET,57.5,DEGREES F,7.9,MG/L
+07/06/2018,15,FEET,54.3,DEGREES F,4.9,MG/L
+07/06/2018,18,FEET,51.1,DEGREES F,4.1,MG/L
+07/06/2018,21,FEET,49.4,DEGREES F,3.7,MG/L
+07/06/2018,24,FEET,48.5,DEGREES F,3.5,MG/L
+07/06/2018,27,FEET,47.9,DEGREES F,3.2,MG/L
+07/14/2018,3,FEET,74,DEGREES F,83.3,MG/L
+07/14/2018,6,FEET,73.8,DEGREES F,80.2,MG/L
+07/14/2018,9,FEET,72.8,DEGREES F,69.7,MG/L
+07/14/2018,12,FEET,63.2,DEGREES F,9.7,MG/L
+07/14/2018,15,FEET,55.6,DEGREES F,4.9,MG/L
+07/14/2018,18,FEET,51.3,DEGREES F,4.1,MG/L
+07/14/2018,21,FEET,49.5,DEGREES F,3.7,MG/L
+07/14/2018,24,FEET,48.5,DEGREES F,3.5,MG/L
+07/14/2018,27,FEET,48,DEGREES F,3.2,MG/L
+08/07/2018,3,FEET,73.8,DEGREES F,8.47,MG/L
+08/07/2018,6,FEET,73,DEGREES F,8.09,MG/L
+08/07/2018,9,FEET,69.6,DEGREES F,6.02,MG/L
+08/07/2018,12,FEET,65,DEGREES F,.99,MG/L
+08/07/2018,15,FEET,60,DEGREES F,.46,MG/L
+08/07/2018,18,FEET,53.6,DEGREES F,.39,MG/L
+08/07/2018,21,FEET,50.8,DEGREES F,.38,MG/L
+08/07/2018,24,FEET,49.7,DEGREES F,.37,MG/L
+08/07/2018,27,FEET,49.3,DEGREES F,.34,MG/L
+08/13/2018,3,FEET,80.9,DEGREES F,8.92,MG/L
+08/13/2018,6,FEET,76.8,DEGREES F,7.67,MG/L
+08/13/2018,9,FEET,69.5,DEGREES F,4.27,MG/L
+08/13/2018,12,FEET,64.5,DEGREES F,.78,MG/L
+08/13/2018,15,FEET,59.9,DEGREES F,.47,MG/L
+08/13/2018,18,FEET,54,DEGREES F,.4,MG/L
+08/13/2018,21,FEET,51.4,DEGREES F,.39,MG/L
+08/13/2018,24,FEET,50.4,DEGREES F,.37,MG/L
+08/13/2018,27,FEET,50,DEGREES F,.34,MG/L
+08/28/2018,3,FEET,70.8,DEGREES F,7.81,MG/L
+08/28/2018,6,FEET,70.6,DEGREES F,7.75,MG/L
+08/28/2018,9,FEET,69.8,DEGREES F,7.2,MG/L
+08/28/2018,12,FEET,68,DEGREES F,4.48,MG/L
+08/28/2018,15,FEET,60,DEGREES F,.94,MG/L
+08/28/2018,18,FEET,55.6,DEGREES F,.58,MG/L
+08/28/2018,21,FEET,53,DEGREES F,.49,MG/L
+08/28/2018,24,FEET,51.4,DEGREES F,.44,MG/L
+08/28/2018,27,FEET,50.7,DEGREES F,.4,MG/L
+06/24/2019,3,FEET,68.6,DEGREES F,8.4,MG/L
+06/24/2019,6,FEET,67.9,DEGREES F,8.4,MG/L
+06/24/2019,9,FEET,67.4,DEGREES F,8.3,MG/L
+06/24/2019,12,FEET,57.5,DEGREES F,4.4,MG/L
+06/24/2019,15,FEET,55,DEGREES F,3.1,MG/L
+06/24/2019,18,FEET,52.9,DEGREES F,2.5,MG/L
+06/24/2019,21,FEET,52.1,DEGREES F,1.8,MG/L
+06/24/2019,24,FEET,51.5,DEGREES F,.7,MG/L
+06/24/2019,27,FEET,50.9,DEGREES F,.5,MG/L
+07/17/2019,3,FEET,79.8,DEGREES F,8.3,MG/L
+07/17/2019,6,FEET,79.5,DEGREES F,8.3,MG/L
+07/17/2019,9,FEET,72.9,DEGREES F,4.7,MG/L
+07/17/2019,12,FEET,61.9,DEGREES F,.6,MG/L
+07/17/2019,15,FEET,56.2,DEGREES F,.5,MG/L
+07/17/2019,18,FEET,53.4,DEGREES F,.4,MG/L
+07/17/2019,21,FEET,52.4,DEGREES F,.4,MG/L
+07/17/2019,24,FEET,51.9,DEGREES F,.4,MG/L
+07/17/2019,27,FEET,51.3,DEGREES F,.4,MG/L
+08/10/2019,3,FEET,74,DEGREES F,8.3,MG/L
+08/10/2019,6,FEET,73.4,DEGREES F,7.5,MG/L
+08/10/2019,9,FEET,71.9,DEGREES F,6.5,MG/L
+08/10/2019,12,FEET,66.9,DEGREES F,.8,MG/L
+08/10/2019,15,FEET,61.2,DEGREES F,.5,MG/L
+08/10/2019,18,FEET,54.7,DEGREES F,.5,MG/L
+08/10/2019,21,FEET,53.4,DEGREES F,.5,MG/L
+08/10/2019,24,FEET,52.9,DEGREES F,.4,MG/L
+08/10/2019,27,FEET,52.4,DEGREES F,.4,MG/L
+08/19/2019,3,FEET,72.6,DEGREES F,8.3,MG/L
+08/19/2019,6,FEET,72,DEGREES F,8.2,MG/L
+08/19/2019,9,FEET,70,DEGREES F,7.2,MG/L
+08/19/2019,12,FEET,69.2,DEGREES F,6.4,MG/L
+08/19/2019,15,FEET,59.9,DEGREES F,.6,MG/L
+08/19/2019,18,FEET,55.5,DEGREES F,.5,MG/L
+08/19/2019,21,FEET,54,DEGREES F,.5,MG/L
+08/19/2019,24,FEET,52.9,DEGREES F,.4,MG/L
+08/19/2019,27,FEET,52.4,DEGREES F,.4,MG/L
+08/27/2019,3,FEET,67.7,DEGREES F,8.2,MG/L
+08/27/2019,6,FEET,67.6,DEGREES F,7.9,MG/L
+08/27/2019,9,FEET,67.6,DEGREES F,7.9,MG/L
+08/27/2019,12,FEET,65,DEGREES F,3.4,MG/L
+08/27/2019,15,FEET,61,DEGREES F,2.9,MG/L
+08/27/2019,18,FEET,59.1,DEGREES F,1.2,MG/L
+08/27/2019,21,FEET,55.6,DEGREES F,.7,MG/L
+08/27/2019,24,FEET,54.7,DEGREES F,.6,MG/L
+08/27/2019,27,FEET,53.5,DEGREES F,.5,MG/L
+09/06/2019,3,FEET,63.3,DEGREES F,8.1,MG/L
+09/06/2019,6,FEET,63.2,DEGREES F,8.1,MG/L
+09/06/2019,9,FEET,63.1,DEGREES F,8.1,MG/L
+09/06/2019,12,FEET,63.1,DEGREES F,8,MG/L
+09/06/2019,15,FEET,62.8,DEGREES F,7.1,MG/L
+09/06/2019,18,FEET,61.4,DEGREES F,3,MG/L
+09/06/2019,21,FEET,55.2,DEGREES F,.7,MG/L
+09/06/2019,24,FEET,53.2,DEGREES F,.5,MG/L
+09/06/2019,27,FEET,52.4,DEGREES F,.5,MG/L
+09/14/2019,3,FEET,60.3,DEGREES F,8.9,MG/L
+09/14/2019,6,FEET,60,DEGREES F,8.8,MG/L
+09/14/2019,9,FEET,59.8,DEGREES F,8.8,MG/L
+09/14/2019,12,FEET,59.7,DEGREES F,8.8,MG/L
+09/14/2019,15,FEET,59.5,DEGREES F,8.7,MG/L
+09/14/2019,18,FEET,59.4,DEGREES F,8.7,MG/L
+09/14/2019,21,FEET,59.3,DEGREES F,8.6,MG/L
+09/14/2019,24,FEET,58.6,DEGREES F,7.8,MG/L
+09/14/2019,27,FEET,52.4,DEGREES F,.6,MG/L
+09/23/2019,3,FEET,66.1,DEGREES F,9.1,MG/L
+09/23/2019,6,FEET,65.9,DEGREES F,8.9,MG/L
+09/23/2019,9,FEET,62.8,DEGREES F,7.3,MG/L
+09/23/2019,12,FEET,60.7,DEGREES F,6.4,MG/L
+09/23/2019,15,FEET,59.8,DEGREES F,6.1,MG/L
+09/23/2019,18,FEET,59,DEGREES F,4.6,MG/L
+09/23/2019,21,FEET,58.5,DEGREES F,3,MG/L
+09/23/2019,24,FEET,57.4,DEGREES F,.6,MG/L
+09/23/2019,27,FEET,55.4,DEGREES F,.5,MG/L
+06/30/2020,3,FEET,78,DEGREES F,7.8,MG/L
+06/30/2020,6,FEET,76.9,DEGREES F,7.9,MG/L
+06/30/2020,9,FEET,67.9,DEGREES F,5,MG/L
+06/30/2020,12,FEET,61.1,DEGREES F,2.6,MG/L
+06/30/2020,15,FEET,55.5,DEGREES F,1.3,MG/L
+06/30/2020,18,FEET,52,DEGREES F,.4,MG/L
+06/30/2020,21,FEET,51.6,DEGREES F,0,MG/L
+06/30/2020,24,FEET,51.1,DEGREES F,-.1,MG/L
+06/30/2020,27,FEET,50.6,DEGREES F,-.1,MG/L
+07/10/2020,3,FEET,80.2,DEGREES F,7.2,MG/L
+07/10/2020,6,FEET,79.1,DEGREES F,6.8,MG/L
+07/10/2020,9,FEET,71.3,DEGREES F,1.9,MG/L
+07/10/2020,12,FEET,63.2,DEGREES F,1,MG/L
+07/10/2020,15,FEET,57.5,DEGREES F,.1,MG/L
+07/10/2020,18,FEET,54,DEGREES F,0,MG/L
+07/10/2020,21,FEET,52.8,DEGREES F,0,MG/L
+07/10/2020,24,FEET,52.1,DEGREES F,0,MG/L
+07/10/2020,27,FEET,51.7,DEGREES F,-.1,MG/L
+08/05/2020,3,FEET,72.5,DEGREES F,7.2,MG/L
+08/05/2020,6,FEET,70.2,DEGREES F,6.7,MG/L
+08/05/2020,9,FEET,68.2,DEGREES F,5.8,MG/L
+08/05/2020,12,FEET,65.6,DEGREES F,1.2,MG/L
+08/05/2020,15,FEET,59,DEGREES F,.1,MG/L
+08/05/2020,18,FEET,55.5,DEGREES F,0,MG/L
+08/05/2020,21,FEET,54,DEGREES F,0,MG/L
+08/05/2020,24,FEET,53.3,DEGREES F,0,MG/L
+08/05/2020,27,FEET,52.9,DEGREES F,0,MG/L
+08/20/2020,3,FEET,71.8,DEGREES F,8,MG/L
+08/20/2020,6,FEET,71.5,DEGREES F,7.9,MG/L
+08/20/2020,9,FEET,71.3,DEGREES F,7.8,MG/L
+08/20/2020,12,FEET,66.2,DEGREES F,.3,MG/L
+08/20/2020,15,FEET,60.7,DEGREES F,.1,MG/L
+08/20/2020,18,FEET,56.3,DEGREES F,0,MG/L
+08/20/2020,21,FEET,55.1,DEGREES F,0,MG/L
+08/20/2020,24,FEET,54,DEGREES F,0,MG/L
+08/20/2020,27,FEET,53.4,DEGREES F,-.1,MG/L
+09/10/2020,3,FEET,59.6,DEGREES F,7.4,MG/L
+09/10/2020,6,FEET,59.5,DEGREES F,7.3,MG/L
+09/10/2020,9,FEET,59.4,DEGREES F,7.3,MG/L
+09/10/2020,12,FEET,59.4,DEGREES F,7.4,MG/L
+09/10/2020,15,FEET,59.3,DEGREES F,7.3,MG/L
+09/10/2020,18,FEET,58.8,DEGREES F,6.9,MG/L
+09/10/2020,21,FEET,57.6,DEGREES F,7.1,MG/L
+09/10/2020,24,FEET,54.6,DEGREES F,.3,MG/L
+09/10/2020,27,FEET,53.9,DEGREES F,.1,MG/L
+09/18/2020,3,FEET,59.3,DEGREES F,8.6,MG/L
+09/18/2020,6,FEET,59,DEGREES F,8.3,MG/L
+09/18/2020,9,FEET,58.9,DEGREES F,8.2,MG/L
+09/18/2020,12,FEET,58.7,DEGREES F,7.9,MG/L
+09/18/2020,15,FEET,58.5,DEGREES F,8.1,MG/L
+09/18/2020,18,FEET,58.2,DEGREES F,7.5,MG/L
+09/18/2020,21,FEET,56.8,DEGREES F,2.2,MG/L
+09/18/2020,24,FEET,55.5,DEGREES F,.3,MG/L
+09/18/2020,27,FEET,54.3,DEGREES F,.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/10/1993,Sunny to partly cloudy- light NW wind- boating activity. 0.4" of rain yesterday.    
+08/21/1993,Sunny- light SW wind- no recent rain- substantial boating activity    
+06/08/1994,Sunny- light SE wind.  Lake quiet with calm spots- little boating activity- last rain sun. 6/4 (~.6") .    
+06/24/1994,Mostly sunny- but a storm is moving in from the east-east wind light- little boating activity- lake level back to normal- last rain Thursday a.m.    
+07/28/1994,Hazy sun- light NW wind- little boating activity- slight algae bloom started- last rain Monday 7/25-water temp. 75 degrees.    
+08/17/1994,Partly cloudy- light SW wind- little boating activity- last rain 8/7/94- water temp. 72 degrees.    
+07/04/1995,Partly cloudy- SW wind- lake level normal- no rain of significance for 1 week- no algal bloom.    
+07/04/1996,Sunny- light S wind- some green algae on water surface early a.m. last rain on Sunday night 6/30-water temp. 70s. some boating- water and jet ski activity.    
+08/10/1996,Partly cloudy to mostly sunny.  Light SW breeze- no visible algae bloom- water temperature 75 degrees- last rain wed pm 8/7 and early Thursday am 8/8 (heavy with high winds-heavy tree damage in three lakes area) .    
+08/24/1996,Mostly sunny to partly cloudy- light NE breeze- no rain since sun. 8/25- air temps daytime 70's night cooling to 40's. water temp. 70 degrees- lake quiet- no water-skiing or jet skis since weekend- few boaters.    
+07/07/2014,Partly sunny- winds 10 miles per hour- air temperature 73 degrees.
+07/20/2014,Mostly cloudy- wind 11 mph from southwest- minimal boat traffic. Birds and bald eagle flying overhead.
+08/13/2014,Mostly sunny- few clouds- wind NNW 7-8 mph- minimal boat activity.
+07/05/2015,Sunny- few clouds/haze- wind SSW 11mph- a lot of boat traffic on lake this holiday weekend.
+08/21/2015,Sunny- few clouds- wind SSE 12 mph- no boat traffic- air temp 72 degrees.
+07/15/2016,Cloudy/Partly sunny; wind NW 8 mph; no boat traffic; air temp 65 degrees; Water surface temp 72.5 degrees; humidity 75%
+08/17/2016,Sunny- air temp 75 degrees- wind 1-2 mph- no boat traffic.
+09/03/2016,Sunny and no clouds; air temp 68 degrees; wind 8 mph from the south; no real boat traffic - 1 fisherman and 1 sailboat
+09/17/2016,Sunny with a few clouds; air temp 70 degrees; wind 8 mph out of southeast; 3 fisherman; water is cloudy and looks like fall turnover is beginning.
+08/04/2017,Partly cloudy; 66 degrees F; wind 11 - 15mph out of NNW; minor boat activity
+08/28/2017,Air temperature 66 degrees; cloudy with a little sun peeking out; wind 7 mph out of the ESE; no boat activity. Air temperature 66 degrees; cloudy with a little sun peeking out; wind 7 mph out of the ESE; no boat activity.
+08/29/2017,Sunny- only a few clouds. 77 degrees F; wind 4 mph out of SSW; minor boat activity. Noticed a green film on Lake surface in the morning - could be a start to the Fall turnover given cooler night time temps.
+09/13/2017,Sunny- no clouds. Air temp - 81 degrees. Water surface temp 72.4 degrees. Wind calm/1 mph out of the south; minor boat activity.  Turnover in process.
+07/06/2018,AIR TEMP 81 DEGREES- SUNNY; WIND 6 MPH OUT OF SSW; MODERATE BOAT TRAFFIC
+07/14/2018,Sunny with only a few clouds; 81 degrees F; Wind out of the west at 0-2 mph; minimal boat activity.
+08/07/2018,74 degrees sunny; Wind - calm; minimal boat activity - 2 fishermen.
+08/13/2018,87 degrees F and sunny; wind 8 mph out of the west; minimal boat activity; Note : equipment was recalibrated a few days ago to barametric pressure readings per Fred Knoch.
+08/28/2018,Mostly cloudy; 71 degrees F; a few sprinkles of rain; winds calm; no boat traffic at all.
+08/31/2018,Partly sunny; air temperature 71 degrees; wind 10 mph out of SSE. No boat traffic.
+04/26/2019,Ice completely off Fourmile Lake Ice completely off Fourmile Lake.
+06/24/2019,73 degrees; mostly cloudy; wind 10 mph S/SE; no boat traffic.
+07/17/2019,84 degrees air temp; partly cloudy; wind 8-10 mph S/SE; water surface temp 80.4 degrees; minimal boat activity.
+08/10/2019,70 degrees and sunny; wind 2-3 mph from the south; water surface temp 74 degrees; barefoot waterskier on north side of lake; water level down 6 inches.
+08/19/2019,Sunny and 76 degree air temp; wind 8 mph out of SE; water surface temp 73 degrees; 2 fishing boats in lake; water level back up to normal after two heavy (1 inch plus) rains.
+08/27/2019,Air temp 71 degrees; partly cloudy; wind 13 mph SE; no boat activity- water surface temp 67.4 degrees.
+09/06/2019,Air temp 64 degrees; cloudy + misting; wind 9-10 W NW; 1 boat cruising; water surface temp of 62 degrees.
+09/14/2019,Air temp 61 degrees; sunny/partly cloudy; wind 7mph west; 4 fishermen + 2 kayakers; water surface temp 60.5 degrees. Maple trees starting to turn colors.
+09/23/2019,Air temp 64 degrees; sunny with a few clouds; wind from the west at 8 mph; no activity on the lake; water surface temp 67.4 degrees. Lake turnover starting. Air temp 64 degrees; sunny with a few clouds; wind 8 mph from the west; no activity on the lake; water surface temp 67.4 degrees; lake started Fall turnover; maple trees turning color.
+06/26/2020,Partly sunny; wind out of south at 10mph; two boats on lake - one sail boat.
+06/30/2020,Sunny with a few clouds; Air Temp 84 degrees;Water surface temp 77.4 degrees; Wind out of the south at 12 mph; 2 boats and one waterskier.
+07/10/2020,Sunny with air temp of 84 degrees; surface water temp of 80.4 degrees; wind out of north/northwest at 12 + mph; 5 boats and one sailboat on the lake at present. Beautiful day.
+08/05/2020,Sunny with a few clouds; air temp 75 degrees; surface water temp 74.5 degrees; wind out of south at 6 mph; 6 boats
+08/20/2020,Sunny with few clouds; air temp 72 degrees; surface water temp 72.3 degrees; wind out of south/south west at 10 mph; 2 boats fishing; starting to see algae along shore of wind swept side of lake; wild rice in bloom and a few geese frequenting the lake.
+09/10/2020,Sunny - fog just cleared the lake; air temp of 42 degrees; surface water temp of 58.4 degrees; wind - calm; no boats seen; lake turnover beginning !  Heard a couple of sand hill cranes in the wild rice.
+09/18/2020,Sunny with very few clouds; air temp 53 degrees; surface water temp 62.2 degrees; wind 3 mph out of west; 3 boats; lake turnover in process - surface algae as a result.
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1979,Data Collectors,Migrated from STORET Legacy
+08/10/1993,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/21/1993,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+06/08/1994,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+06/24/1994,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/28/1994,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/17/1994,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/04/1995,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/04/1996,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/10/1996,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/24/1996,Herb Gaustad,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+04/10/2012,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Fourmile Lake
+06/05/2012,Tim Hoyman and Brenton Butterfield - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Fourmile Lake
+07/19/2012,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Fourmile Lake
+08/20/2012,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Big Fork Lake
+08/20/2012,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Fourmile Lake
+10/29/2012,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Fourmile Lake
+02/14/2013,Todd Hanke- Eric Gale,THREE LAKES WATERFRONT ASSOCIATION: Three Lakes Management Planning Project - Phase 3 Fourmile Lake
+07/07/2014,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/20/2014,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/13/2014,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/28/2014,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/05/2015,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/21/2015,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/15/2016,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/17/2016,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/03/2016,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/17/2016,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/04/2017,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/28/2017,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/29/2017,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/13/2017,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/06/2018,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/14/2018,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/07/2018,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/13/2018,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/28/2018,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/31/2018,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+04/26/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+04/26/2019,John Scheid,Ice Observations on Fourmile Lake- Oneida County 
+06/24/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/17/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/10/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/19/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/27/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/06/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/14/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/23/2019,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+06/26/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+06/30/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+07/10/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/05/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+08/20/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/10/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole
+09/18/2020,John Scheid,Citizen Lake Monitoring - Water Quality - Four Mile Lake - Deep Hole

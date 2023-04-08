@@ -1,0 +1,840 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horsehead Lake,Oneida,1588000,NO,44,,443111,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,12/01/1972,,,,,30,,54,,,,,,
+1,12/21/1972,6.6,,2,,20,50,51,,,,,,
+1,02/07/1973,,,,,20,,51,,,,,,
+1,03/02/1973,,,,,10,,46,,,,,,
+1,05/03/1973,,,,,30,,54,,,,,,
+1,06/27/1973,,,,,60,,60,,,,,,
+1,08/08/1973,0.2,,0.05,,100,103,64,,,,,,
+1,10/02/1973,1,,0.3,,,77,,,,,,,
+1,10/08/1973,,,,,90,,63,,,,,,
+1,10/16/1973,,,,,140,,66,,,,,,
+1,11/23/1973,3.6,,1.1,,10,59,46,,,,,,
+1,12/01/1973,,,,,20,,51,,,,,,
+1,12/28/1973,,,,,30,,54,,,,,,
+1,03/14/1974,,,,,20,,51,,,,,,
+1,05/07/1974,,,,,50,,58,,,,,,
+1,08/14/1974,,,,,40,,57,,,,,,
+1,10/17/1974,,,,,,,,,,,,,
+1,01/29/1975,,,,,20,,51,,,,,,
+1,09/05/1979,,,,,,,,,,,,,
+8190269,06/08/1988,8,NO,2.4,,,47,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190269,06/20/1988,3.5,NO,1.1,,,59,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,06/30/1988,3.75,NO,1.1,,,58,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,07/12/1988,3.75,NO,1.1,,,58,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,08/01/1988,4,NO,1.2,,,57,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,08/16/1988,3.75,NO,1.1,,,58,,,HIGH,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,08/30/1988,3.75,NO,1.1,,,58,,,HIGH,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,09/10/1988,3.75,NO,1.1,,,58,,,NORMAL,,,YELLOW,4-Would not swim but boating OK (algae)
+8190269,10/11/1988,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,05/27/1990,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190269,06/14/1990,3.5,NO,1.1,,,59,,,NORMAL,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190269,07/12/1990,1,NO,0.3,,,77,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,08/15/1990,1.25,NO,0.4,,,74,,,HIGH,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190269,05/15/1992,5,NO,1.5,,,54,,,DOWN 16",,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,06/11/1992,3.5,NO,1.1,,,59,,,DOWN 8",,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,07/14/1992,3.5,NO,1.1,,,59,,,DOWN 3",,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,08/05/1992,3,NO,0.9,,,61,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,09/01/1992,2,NO,0.6,,,67,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,06/02/1993,5.5,NO,1.7,,,53,,,NORMAL,,,,2-Very minor aesthetic problems
+8190269,06/21/1993,5.25,NO,1.6,,,53,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190269,07/27/1993,2.5,NO,0.8,,,64,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,09/15/1993,2.5,NO,0.8,,,64,,,HIGH,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,05/20/1994,9,NO,2.7,,,45,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190269,06/24/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190269,07/06/1994,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190269,09/09/1994,4,NO,1.2,,,57,,,NORMAL,,,,3-Enjoyment somewhat impaired (algae)
+8190269,05/25/1995,8.5,NO,2.6,,,46,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190269,06/13/1995,7.75,NO,2.4,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190269,07/23/1995,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190269,05/14/1996,3.5,NO,1.1,,,59,,,HIGH,,,GREEN,4-Would not swim but boating OK (algae)
+8190269,06/06/1996,9.5,NO,2.9,,,45,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190269,07/03/1996,9.5,NO,2.9,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190269,09/05/1996,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190269,10/18/1996,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190269,06/09/1997,6.5,NO,2,,,50,,,LOW,,,BROWN,
+8190269,07/29/1997,6.5,NO,2,,,50,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190269,04/29/1998,8,YES,2.4,,,47,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189456,06/03/1999,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189456,06/18/1999,6,NO,1.8,,,51,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189456,06/24/1999,4.5,NO,1.4,,,55,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189458,07/17/1999,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189456,07/23/1999,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189458,08/06/1999,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189456,09/13/1999,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189456,06/08/2000,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189456,06/16/2000,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189456,06/18/2000,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189456,07/04/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189456,07/20/2000,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189456,08/05/2000,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189456,08/21/2000,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189456,08/22/2000,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189456,09/06/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189456,09/25/2000,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,10/08/2000,,,,2,20,,51,40,,,,,
+8189456,10/08/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,
+7000068,08/06/2001,4.5,NO,1.4,26,35,55,56,59,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189900,08/19/2001,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189900,09/02/2001,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189516,09/18/2001,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189900,10/01/2001,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000068,10/12/2001,8,NO,2.4,5,30,47,54,47,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,05/20/2002,6.75,NO,2.1,,38,50,56,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189722,06/09/2002,6.75,NO,2.1,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,07/01/2002,6.5,NO,2,2.85,51,50,59,43,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,07/18/2002,4,NO,1.2,20,51,57,59,57,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189722,08/07/2002,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,08/16/2002,2.75,NO,0.8,34.2,62,63,60,62,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189722,08/31/2002,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189722,09/17/2002,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,10/10/2002,3,NO,0.9,38.3,48,61,58,62,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189722,05/27/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8189722,06/19/2003,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,07/24/2003,6,NO,1.8,11.5,43,51,57,53,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/14/2003,4,NO,1.2,14.5,31,57,55,55,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189722,09/12/2003,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189722,10/02/2003,5.75,NO,1.7,,,52,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189722,05/28/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188761,06/08/2004,8,NO,2.4,4.68,19,47,51,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188511,07/20/2004,6.75,NO,2.1,9.99,25,50,53,52,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188511,08/23/2004,5,NO,1.5,8.43,32,54,55,51,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188511,09/29/2004,8.5,YES,2.6,2.74,21,46,52,42,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189722,10/21/2004,9,YES,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188511,06/21/2005,5,YES,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188761,06/21/2005,,,,24.5,25,,53,59,,,,,
+8188511,07/13/2005,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188761,07/13/2005,,,,3.9,25,,53,45,,,,,
+8188511,08/16/2005,4.25,NO,1.3,,,56,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188761,08/16/2005,,,,13.4,38,,56,54,,,,,
+8188511,06/26/2006,7,YES,2.1,11.4,33,49,55,53,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188511,07/18/2006,6.5,NO,2,12.6,31,50,55,54,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188511,08/27/2006,3,NO,0.9,21.6,48,61,58,58,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18069694,02/19/2007,4.8,NO,1.5,,28,55,54,,,,,,
+8188511,06/25/2007,3,YES,0.9,5.19,29,48,54,47,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8188511,07/17/2007,5.5,YES,1.7,11.5,35,53,56,53,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8188511,08/20/2007,4.5,NO,1.4,14,35,55,56,55,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+26009631,06/11/2008,,,,1.79,37,,56,39,,,,,
+8188511,06/13/2008,9.2,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8188511,07/14/2008,7,NO,2.1,6.01,33,49,55,48,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8188511,08/11/2008,4,NO,1.2,16.2,42,57,57,56,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+29406985,07/05/2009,6.5,NO,2,17.1,56,50,59,56,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+29406985,08/07/2009,5.5,NO,1.7,16.4,39,53,57,56,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188511,06/29/2010,9,NO,2.7,8.74,36,45,56,51,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188511,08/03/2010,9,NO,2.7,6.85,24,45,53,49,NORMAL,6,MURKY,GREEN,2-Very minor aesthetic problems
+37125551,08/30/2010,8.25,NO,2.5,5.4,32,47,55,48,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+37125551,06/27/2011,5,NO,1.5,9.48,33,54,55,52,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+37125551,07/25/2011,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+37125551,08/29/2011,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+62795467,06/14/2012,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+62795467,06/19/2012,,,,6.42,30,,54,49,,,,,
+62795467,07/03/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62795467,07/17/2012,,,,6.12,19,,51,48,,,,,
+62795467,07/18/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,08/06/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,08/22/2012,8,NO,2.4,13.5,25,47,53,54,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,05/16/2013,5,NO,1.5,,18.9,54,51,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,06/24/2013,,,,22.3,44.9,,58,58,,,,,
+62795467,06/25/2013,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+62795467,07/16/2013,4.5,NO,1.4,,,55,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+62795467,07/24/2013,5,NO,1.5,22.4,39.2,54,57,58,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+62795467,08/09/2013,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62795467,08/28/2013,6.5,NO,2,15.5,37.9,50,56,56,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,05/06/2014,2.5,NO,0.8,,73.1,64,61,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+62795467,06/16/2014,9.5,YES,2.9,7.08,34.7,45,56,50,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+62795467,07/14/2014,,,,9.38,37.7,,56,52,,,,,
+62795467,07/21/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+62795467,08/13/2014,7,NO,2.1,17.6,52.5,49,59,56,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+62795467,04/28/2015,,,,,33,,55,,,,,,
+62795467,05/04/2015,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,06/16/2015,6.5,NO,2,7.42,60.2,50,60,50,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,07/20/2015,4,NO,1.2,15.9,68.9,57,61,56,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+62795467,08/26/2015,3.5,NO,1.1,24.3,72.2,59,61,59,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+62795467,06/29/2016,4,NO,1.2,12,48,57,58,54,NORMAL,,,BROWN,2-Very minor aesthetic problems
+99584802,04/24/2017,,,,,21.9,,52,,,,,,
+1,04/25/2017,6.1,NO,1.9,,22.1,51,52,,,,,,
+99584802,06/27/2017,9,YES,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+1,07/19/2017,,,,,,,,,,,,,
+18069694,07/19/2017,3.7,NO,1.1,13.1,37.4,58,56,54,,,,,
+1,10/23/2017,10,Y,3,7.51,25,44,53,50,,,,,
+1,02/05/2018,5,N,1.5,,28.6,54,54,,,,,,
+99584802,06/28/2018,,,,3.79,13.9,,49,45,,,,,
+99584802,07/25/2018,,,,11.7,48.3,,58,53,,,,,
+99584802,07/26/2018,5,NO,1.5,,,54,,,NORMAL,11,CLEAR,GREEN,2-Very minor aesthetic problems
+193569328,05/10/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+193569328,07/25/2019,5,NO,1.5,9.82,45.5,54,58,52,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+193569328,08/29/2019,5.75,NO,1.7,14.3,45.9,52,58,55,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+193569328,03/10/2020,,,,,,,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+193569328,05/03/2020,5,NO,1.5,,32.9,54,55,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+193569328,06/28/2020,6.25,NO,1.9,5.86,43,51,57,48,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+193569328,07/28/2020,7.5,NO,2.3,6.82,34.5,48,56,49,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+193569328,08/17/2020,5.5,NO,1.7,10.8,53.6,53,59,53,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+12/01/1972,,,.8,C,15,MG/L
+12/21/1972,,,1,C,10,MG/L
+02/07/1973,,,0,C,2,MG/L
+03/02/1973,,,1.2,C,2.6,MG/L
+05/03/1973,,,7.5,C,10.9,MG/L
+06/27/1973,,,,,3.8,MG/L
+08/08/1973,,,21.3,C,1.8,MG/L
+10/02/1973,,,15.1,C,11.6,MG/L
+10/08/1973,,,21.6667,C,6.8,MG/L
+10/16/1973,,,10.5556,C,9,MG/L
+11/23/1973,,,3.5,C,12.3,MG/L
+12/01/1973,,,2.9,C,1.7,MG/L
+12/28/1973,,,.3,C,10.5,MG/L
+03/14/1974,,,2.77778,C,2,MG/L
+05/07/1974,,,10.8333,C,13.2,MG/L
+08/14/1974,,,20,C,5.6,MG/L
+10/17/1974,,,45.5,C,10.7,MG/L
+01/29/1975,,,.277778,C,10.1,MG/L
+09/05/1979,,,22,C,,
+10/08/2000,3,FEET,47,DEGREES F,8,MG/L
+10/08/2000,6,FEET,46,DEGREES F,5,MG/L
+10/08/2000,9,FEET,46,DEGREES F,5,MG/L
+10/08/2000,11,FEET,46,DEGREES F,5,MG/L
+08/06/2001,3,FEET,81,DEGREES F,,
+08/06/2001,6,FEET,80,DEGREES F,,
+08/06/2001,9,FEET,72,DEGREES F,,
+08/06/2001,11,FEET,69,DEGREES F,,
+08/19/2001,3,FEET,69,DEGREES F,,
+08/19/2001,6,FEET,69,DEGREES F,,
+08/19/2001,9,FEET,68,DEGREES F,,
+08/19/2001,11,FEET,68,DEGREES F,,
+09/02/2001,3,FEET,67,DEGREES F,,
+09/02/2001,6,FEET,66,DEGREES F,,
+09/02/2001,9,FEET,66,DEGREES F,,
+09/02/2001,11,FEET,66,DEGREES F,,
+09/18/2001,3,FEET,63,DEGREES F,,
+09/18/2001,6,FEET,63,DEGREES F,,
+09/18/2001,9,FEET,63,DEGREES F,,
+09/18/2001,11,FEET,63,DEGREES F,,
+10/01/2001,3,FEET,60,DEGREES F,,
+10/01/2001,6,FEET,59,DEGREES F,,
+10/01/2001,9,FEET,57,DEGREES F,,
+10/01/2001,11,FEET,57,DEGREES F,,
+10/12/2001,3,FEET,52,DEGREES F,,
+10/12/2001,6,FEET,51,DEGREES F,,
+10/12/2001,9,FEET,52,DEGREES F,,
+10/12/2001,11,FEET,52,DEGREES F,,
+05/20/2002,3,FEET,52,DEGREES F,,
+05/20/2002,6,FEET,52,DEGREES F,,
+05/20/2002,9,FEET,52,DEGREES F,,
+05/20/2002,11,FEET,51,DEGREES F,,
+06/09/2002,3,FEET,66,DEGREES F,,
+06/09/2002,6,FEET,66,DEGREES F,,
+06/09/2002,9,FEET,66,DEGREES F,,
+06/09/2002,11,FEET,64,DEGREES F,,
+07/01/2002,3,FEET,80,DEGREES F,,
+07/01/2002,6,FEET,79,DEGREES F,,
+07/01/2002,9,FEET,79,DEGREES F,,
+07/01/2002,11,FEET,76,DEGREES F,,
+07/18/2002,3,FEET,80,DEGREES F,,
+07/18/2002,6,FEET,80,DEGREES F,,
+07/18/2002,9,FEET,78,DEGREES F,,
+07/18/2002,11,FEET,75,DEGREES F,,
+08/07/2002,3,FEET,73,DEGREES F,,
+08/07/2002,6,FEET,73,DEGREES F,,
+08/07/2002,9,FEET,73,DEGREES F,,
+08/07/2002,11,FEET,72,DEGREES F,,
+08/16/2002,3,FEET,73,DEGREES F,,
+08/16/2002,6,FEET,73,DEGREES F,,
+08/16/2002,9,FEET,73,DEGREES F,,
+08/16/2002,11,FEET,72,DEGREES F,,
+08/31/2002,3,FEET,75,DEGREES F,,
+09/17/2002,3,FEET,68,DEGREES F,,
+10/10/2002,3,FEET,51,DEGREES F,,
+05/27/2003,3,FEET,68,DEGREES F,,
+05/27/2003,6,FEET,63.8,DEGREES F,,
+05/27/2003,9,FEET,63.3,DEGREES F,,
+05/27/2003,11,FEET,63.1,DEGREES F,,
+06/19/2003,3,FEET,73.2,DEGREES F,,
+06/19/2003,6,FEET,72.6,DEGREES F,,
+06/19/2003,9,FEET,71.9,DEGREES F,,
+06/19/2003,11,FEET,71.4,DEGREES F,,
+07/24/2003,3,FEET,73.9,DEGREES F,,
+07/24/2003,6,FEET,73.7,DEGREES F,,
+07/24/2003,9,FEET,72.3,DEGREES F,,
+07/24/2003,11,FEET,72.1,DEGREES F,,
+08/14/2003,3,FEET,75.5,DEGREES F,,
+08/14/2003,6,FEET,74.1,DEGREES F,,
+08/14/2003,9,FEET,73.1,DEGREES F,,
+08/14/2003,11,FEET,72.8,DEGREES F,,
+09/12/2003,3,FEET,69.8,DEGREES F,,
+09/12/2003,6,FEET,69.6,DEGREES F,,
+09/12/2003,9,FEET,69.6,DEGREES F,,
+09/12/2003,11,FEET,69.4,DEGREES F,,
+10/02/2003,3,FEET,46.5,DEGREES F,,
+10/02/2003,6,FEET,46.4,DEGREES F,,
+10/02/2003,9,FEET,46,DEGREES F,,
+10/02/2003,11,FEET,47.6,DEGREES F,,
+05/28/2004,3,FEET,59.3,DEGREES F,,
+05/28/2004,6,FEET,58.6,DEGREES F,,
+05/28/2004,9,FEET,57.5,DEGREES F,,
+05/28/2004,11,FEET,56.6,DEGREES F,,
+06/08/2004,3,FEET,69.8,DEGREES F,8,MG/L
+06/08/2004,6,FEET,69.2,DEGREES F,8,MG/L
+06/08/2004,9,FEET,68.7,DEGREES F,8,MG/L
+06/08/2004,10,FEET,66.2,DEGREES F,7,MG/L
+07/20/2004,3,FEET,78,DEGREES F,9,MG/L
+07/20/2004,6,FEET,75.5,DEGREES F,9,MG/L
+07/20/2004,9,FEET,74.4,DEGREES F,9,MG/L
+07/20/2004,10,FEET,72.6,DEGREES F,5,MG/L
+08/23/2004,3,FEET,63.6,DEGREES F,9,MG/L
+08/23/2004,6,FEET,63.8,DEGREES F,9,MG/L
+08/23/2004,9,FEET,64,DEGREES F,9,MG/L
+08/23/2004,11,FEET,64.2,DEGREES F,3,MG/L
+09/29/2004,3,FEET,60.8,DEGREES F,9,MG/L
+09/29/2004,6,FEET,61.3,DEGREES F,9,MG/L
+09/29/2004,8.5,FEET,61.5,DEGREES F,9,MG/L
+10/21/2004,3,FEET,44.9,DEGREES F,,
+10/21/2004,6,FEET,44.7,DEGREES F,,
+10/21/2004,9,FEET,46,DEGREES F,,
+06/21/2005,3,FEET,75.9,DEGREES F,10,MG/L
+06/21/2005,6,FEET,75.2,DEGREES F,9,MG/L
+06/21/2005,9,FEET,72.6,DEGREES F,7,MG/L
+07/13/2005,3,FEET,84,DEGREES F,10,MG/L
+07/13/2005,6,FEET,81.8,DEGREES F,9,MG/L
+07/13/2005,9,FEET,79.1,DEGREES F,9,MG/L
+08/16/2005,3,FEET,73.4,DEGREES F,9,MG/L
+08/16/2005,6,FEET,72.8,DEGREES F,9,MG/L
+08/16/2005,9,FEET,72.6,DEGREES F,7,MG/L
+08/16/2005,12,FEET,72.3,DEGREES F,,
+06/26/2006,3,FEET,71.9,DEGREES F,9,MG/L
+06/26/2006,6,FEET,71.4,DEGREES F,9,MG/L
+06/26/2006,9,FEET,71.4,DEGREES F,7,MG/L
+07/18/2006,3,FEET,78,DEGREES F,9,MG/L
+07/18/2006,6,FEET,78,DEGREES F,9,MG/L
+07/18/2006,9,FEET,76.4,DEGREES F,7,MG/L
+07/18/2006,10,FEET,74,DEGREES F,3,MG/L
+08/27/2006,3,FEET,70.5,DEGREES F,9,MG/L
+08/27/2006,6,FEET,69.8,DEGREES F,7,MG/L
+08/27/2006,9,FEET,69.6,DEGREES F,6,MG/L
+08/27/2006,10,FEET,69.6,DEGREES F,1.5,MG/L
+02/19/2007,,,2.2,C,5.5,MG/L
+06/25/2007,3,FEET,77,DEGREES F,9,MG/L
+06/25/2007,6,FEET,77,DEGREES F,9,MG/L
+06/25/2007,9,FEET,75.3,DEGREES F,7,MG/L
+06/25/2007,,,25,C,,
+07/17/2007,3,FEET,71.6,DEGREES F,9,MG/L
+07/17/2007,6,FEET,70.5,DEGREES F,9,MG/L
+07/17/2007,9,FEET,69.8,DEGREES F,7,MG/L
+07/17/2007,,,21.1,C,,
+08/20/2007,3,FEET,66.5,DEGREES F,7,MG/L
+08/20/2007,6,FEET,66.9,DEGREES F,7,MG/L
+08/20/2007,9,FEET,66.9,DEGREES F,4,MG/L
+08/20/2007,,,19.2,C,,
+06/13/2008,3,FEET,19.3,DEGREES C,8.4,MG/L
+06/13/2008,6,FEET,19.3,DEGREES C,8.3,MG/L
+06/13/2008,9,FEET,19.3,DEGREES C,8.4,MG/L
+07/14/2008,3,FEET,69.6,DEGREES F,,
+07/14/2008,6,FEET,68.7,DEGREES F,,
+07/14/2008,9,FEET,68.3,DEGREES F,,
+08/11/2008,3,FEET,72.8,DEGREES F,,
+08/11/2008,6,FEET,71.6,DEGREES F,,
+08/11/2008,9,FEET,71.4,DEGREES F,,
+07/05/2009,5,FEET,73.2,DEGREES F,,
+07/05/2009,9,FEET,70.8,DEGREES F,,
+08/07/2009,3,FEET,69.8,DEGREES F,,
+08/07/2009,6,FEET,69,DEGREES F,,
+06/29/2010,3,FEET,72.8,DEGREES F,,
+06/29/2010,6,FEET,71.6,DEGREES F,,
+06/29/2010,9,FEET,70.8,DEGREES F,,
+08/03/2010,3,FEET,79.1,DEGREES F,,
+08/03/2010,6,FEET,78,DEGREES F,,
+08/03/2010,9,FEET,77,DEGREES F,,
+08/30/2010,3,FEET,74.5,DEGREES F,,
+08/30/2010,6,FEET,74,DEGREES F,,
+08/30/2010,9,FEET,73.7,DEGREES F,,
+06/27/2011,3,FEET,69.5,DEGREES F,,
+06/27/2011,6,FEET,66.5,DEGREES F,,
+06/27/2011,9,FEET,65.5,DEGREES F,,
+07/25/2011,3,FEET,77.7,DEGREES F,,
+07/25/2011,6,FEET,77.3,DEGREES F,,
+07/25/2011,9,FEET,73.2,DEGREES F,,
+08/29/2011,3,FEET,75.2,DEGREES F,,
+08/29/2011,6,FEET,73.2,DEGREES F,,
+08/29/2011,9,FEET,72.3,DEGREES F,,
+06/14/2012,1,FEET,72.6,DEGREES F,,
+06/14/2012,3,FEET,71.7,DEGREES F,,
+06/14/2012,6,FEET,70.7,DEGREES F,,
+06/14/2012,9,FEET,69.6,DEGREES F,,
+07/03/2012,1,FEET,80,DEGREES F,,
+07/03/2012,3,FEET,79.8,DEGREES F,,
+07/03/2012,6,FEET,79.5,DEGREES F,,
+07/03/2012,9,FEET,77.7,DEGREES F,,
+07/18/2012,1,FEET,79.8,DEGREES F,,
+07/18/2012,3,FEET,79.8,DEGREES F,,
+07/18/2012,6,FEET,79.8,DEGREES F,,
+07/18/2012,9,FEET,79.7,DEGREES F,,
+08/06/2012,1,FEET,75.3,DEGREES F,,
+08/06/2012,3,FEET,75.2,DEGREES F,,
+08/06/2012,6,FEET,74.6,DEGREES F,,
+08/06/2012,9,FEET,73.7,DEGREES F,,
+08/22/2012,1,FEET,70.1,DEGREES F,,
+08/22/2012,3,FEET,69.9,DEGREES F,,
+08/22/2012,6,FEET,69.8,DEGREES F,,
+08/22/2012,9,FEET,69.6,DEGREES F,,
+05/16/2013,1,FEET,56.8,DEGREES F,,
+05/16/2013,3,FEET,56.4,DEGREES F,,
+05/16/2013,6,FEET,56.1,DEGREES F,,
+05/16/2013,9,FEET,55.4,DEGREES F,,
+06/25/2013,1,FEET,75.2,DEGREES F,,
+06/25/2013,3,FEET,74.6,DEGREES F,,
+06/25/2013,6,FEET,73.4,DEGREES F,,
+06/25/2013,9,FEET,70.5,DEGREES F,,
+07/16/2013,1,FEET,83.1,DEGREES F,,
+07/16/2013,3,FEET,82.9,DEGREES F,,
+07/16/2013,6,FEET,80.6,DEGREES F,,
+07/16/2013,9,FEET,79.7,DEGREES F,,
+07/24/2013,1,FEET,73.4,DEGREES F,,
+07/24/2013,3,FEET,72.3,DEGREES F,,
+07/24/2013,6,FEET,71.9,DEGREES F,,
+07/24/2013,9,FEET,71.6,DEGREES F,,
+08/09/2013,1,FEET,69.8,DEGREES F,,
+08/09/2013,3,FEET,69.6,DEGREES F,,
+08/09/2013,6,FEET,69.6,DEGREES F,,
+08/09/2013,9,FEET,68.9,DEGREES F,,
+08/28/2013,1,FEET,75.7,DEGREES F,,
+08/28/2013,3,FEET,75.7,DEGREES F,,
+08/28/2013,6,FEET,75.5,DEGREES F,,
+08/28/2013,9,FEET,75.2,DEGREES F,,
+05/06/2014,1,FEET,48.2,DEGREES F,,
+05/06/2014,3,FEET,48,DEGREES F,,
+05/06/2014,6,FEET,47.6,DEGREES F,,
+05/06/2014,9,FEET,44.4,DEGREES F,,
+06/16/2014,1,FEET,66.3,DEGREES F,,
+06/16/2014,3,FEET,66.2,DEGREES F,,
+06/16/2014,6,FEET,66,DEGREES F,,
+06/16/2014,9,FEET,65.4,DEGREES F,,
+07/21/2014,1,FEET,72.6,DEGREES F,,
+07/21/2014,3,FEET,72.3,DEGREES F,,
+07/21/2014,6,FEET,72.1,DEGREES F,,
+07/21/2014,9,FEET,71.7,DEGREES F,,
+08/13/2014,1,FEET,70.5,DEGREES F,,
+08/13/2014,3,FEET,70.7,DEGREES F,,
+08/13/2014,6,FEET,70.7,DEGREES F,,
+08/13/2014,9,FEET,70.7,DEGREES F,,
+05/04/2015,1,FEET,53.4,DEGREES F,,
+05/04/2015,3,FEET,53,DEGREES F,,
+05/04/2015,6,FEET,52.8,DEGREES F,,
+05/04/2015,9,FEET,51.8,DEGREES F,,
+06/16/2015,1,FEET,69.6,DEGREES F,,
+06/16/2015,3,FEET,69.2,DEGREES F,,
+06/16/2015,6,FEET,68.7,DEGREES F,,
+06/16/2015,9,FEET,68.3,DEGREES F,,
+07/20/2015,1,FEET,74.8,DEGREES F,,
+07/20/2015,3,FEET,74.6,DEGREES F,,
+07/20/2015,6,FEET,74.4,DEGREES F,,
+07/20/2015,9,FEET,74.1,DEGREES F,,
+08/26/2015,1,FEET,61.8,DEGREES F,,
+08/26/2015,3,FEET,61.8,DEGREES F,,
+08/26/2015,6,FEET,61.5,DEGREES F,,
+08/26/2015,9,FEET,61.5,DEGREES F,,
+06/29/2016,1,FEET,73.4,DEGREES F,,
+06/29/2016,3,FEET,73,DEGREES F,,
+06/29/2016,6,FEET,72.6,DEGREES F,,
+06/29/2016,9,FEET,71.9,DEGREES F,,
+04/25/2017,,,12.6,C,11.1,MG/L
+06/27/2017,1,FEET,69.5,DEGREES F,,
+06/27/2017,3,FEET,69.6,DEGREES F,,
+06/27/2017,6,FEET,66.3,DEGREES F,,
+06/27/2017,9,FEET,66,DEGREES F,,
+06/27/2017,10,FEET,65.4,DEGREES F,,
+07/19/2017,,,23.3,C,10.7,MG/L
+10/23/2017,,,12.1,C,10.5,MG/L
+02/05/2018,,,3.1,C,0.5,MG/L
+07/26/2018,3,FEET,75.3,DEGREES F,,
+07/26/2018,6,FEET,75,DEGREES F,,
+07/26/2018,8,FEET,74.8,DEGREES F,,
+07/26/2018,10,FEET,72.8,DEGREES F,,
+05/10/2019,3,FEET,49.8,DEGREES F,,
+05/10/2019,5,FEET,49.4,DEGREES F,,
+05/10/2019,8,FEET,49.4,DEGREES F,,
+05/10/2019,10,FEET,49.4,DEGREES F,,
+05/10/2019,13,FEET,49.4,DEGREES F,,
+07/25/2019,3,FEET,78.6,DEGREES F,,
+07/25/2019,5,FEET,77.9,DEGREES F,,
+07/25/2019,8,FEET,76.4,DEGREES F,,
+07/25/2019,10,FEET,75.5,DEGREES F,,
+08/29/2019,3,FEET,65.6,DEGREES F,,
+08/29/2019,5,FEET,65.4,DEGREES F,,
+08/29/2019,8,FEET,65.4,DEGREES F,,
+08/29/2019,10,FEET,65.3,DEGREES F,,
+03/10/2020,3,FEET,35.6,DEGREES F,5.48,MG/L
+03/10/2020,5,FEET,37,DEGREES F,1.1,MG/L
+03/10/2020,8,FEET,40.8,DEGREES F,.3,MG/L
+05/03/2020,3,FEET,55,DEGREES F,11.3,MG/L
+06/28/2020,3,FEET,76.8,DEGREES F,,
+06/28/2020,5,FEET,75.5,DEGREES F,,
+06/28/2020,8,FEET,72.6,DEGREES F,,
+06/28/2020,10,FEET,71,DEGREES F,,
+07/28/2020,3,FEET,76.1,DEGREES F,10.4,MG/L
+07/28/2020,5,FEET,76.1,DEGREES F,10.3,MG/L
+07/28/2020,8,FEET,75.7,DEGREES F,10.2,MG/L
+07/28/2020,10,FEET,75.3,DEGREES F,2.5,MG/L
+08/17/2020,3,FEET,74.7,DEGREES F,9.3,MG/L
+08/17/2020,5,FEET,74.3,DEGREES F,9.6,MG/L
+08/17/2020,8,FEET,74.1,DEGREES F,9.3,MG/L
+08/17/2020,10,FEET,71.9,DEGREES F,.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+12/01/1972,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/21/1972,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/07/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/02/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/03/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/27/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/08/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/02/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/08/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/16/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/23/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/01/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+12/28/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/14/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/14/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/17/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/29/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/05/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/08/1988,Warm- slight breeze.  Dam level board put back in on 6/3/1988 (2 by 12).    
+06/20/1988,Very warm- slight breeze- no rise in lake level since board went back in.    
+06/30/1988,76 degrees- clear- and slight wind.    
+07/12/1988,Mostly sunny- second cool day after long hot spell.    
+08/01/1988,88 degrees- two days prior lake was full of algae bloom.  Rain and storms helped settle it some- mostly sunny.    
+08/16/1988,78 degrees- sunny- calm- water temperature at 5' is 76 degrees- great deal of suspended algae.  Some dead crappies on shoreline.  Water level: Up 3" from previous sample    
+08/30/1988,Water temperature at 5' is 64 degrees- mostly sunny- slight breeze- past four days mostly cloudy.  Lots of suspended algae yet.  Water level: UP approximately 5"    
+09/10/1988,Sunny- calm- water temperature at 5' is 62 degrees- hardly any change in condition of lake.    
+10/11/1988,Temperature is 46 degrees- water temperature at 5' is 44 degrees- sunny- slight breeze- some periods of cloudy or windy conditions.    
+05/27/1990,Sunny    
+06/14/1990,Partly cloudy- water 66 F @ 5'- rain and wind 2 days ago    
+07/12/1990,Sunny- calm- water 76 F- heavy surface algae- had to stir to see 1'    
+08/15/1990,Sunny- calm- water 70 F @ 5'- 1" rain 8/14- worst scum on surface we've seen.  Water level: up slightly    
+05/15/1992,Water temp: 58 degrees at 5'- air temp: 78 degrees.    
+06/11/1992,Very heavy fishing on lake- water temp: 68 degrees at 5'- air temp: 82.    
+07/14/1992,Weeds very sparse- water temp: 68 at 5 feet.    
+08/05/1992,Water cleanest it's been in a number of years- water temp: 72 at 5'.    
+09/01/1992,Rain on the 29-30 of August was 2".  Water temp is 60 degrees at 5'- air temp is 62 degrees.  Fishing pressure has dropped off- but still plenty of fishermen.    
+06/02/1993,Partly cloudy- slight breeze- water green tint- water temp at 5' 52- air temp 56    
+06/21/1993,Sunny- air temp 74- slight breeze- water temp at 5' 62- weeds appearing    
+07/27/1993,Calm- sunny- water temp is 68 degrees at 5'.  Algae blooming.    
+09/15/1993,Clear and calm- water temp is 54 degrees at 5'.  Air temp is 68 degrees- weed density is increasing.    
+05/20/1994,Calm + sunny-60 degrees water temp. at 5'- air temp. 78 degrees- no weeds.    
+06/24/1994,Partly cloudy- slight breeze.  Air temp. 76 degrees- water temperature at 5' 72 degrees- some weeds starting to grow.    
+07/06/1994,1.5" rain past 24 hr.  Partly cloudy- slight wind.  Air temp. 86 degrees.  Water temp. at 5' 70 degrees.  Weeds drying.  Water level: up slightly    
+09/09/1994,Air temp. 76 degrees- water temp. at 5'- 64 degrees- sunny + calm.    
+05/25/1995,Sunny- slight breeze- water temp. 5' 58 degrees.    
+06/13/1995,Sunny- calm- water temp. 68 degrees 5'.    
+07/23/1995,Partly sunny- slight breeze- water clear for this time of year.    
+05/14/1996,Air 64 degrees- water 54 degrees at 5'- sunny. lots of sediment in water. ice out 5-11-96.  Water level: up slightly    
+06/06/1996,Cloudy- degree air- 64 degrees at 5' water temp. pan fishing poor at best.  Water level: up slightly    
+07/03/1996,80 degrees air temp.- slight breeze- 72 degrees at 5'- mostly sunny.  Water level: up slightly    
+09/05/1996,Air 84 degrees- water 74 degrees at 5'- getting very weedy.    
+10/18/1996,Air 50 degrees- water 50 degrees at 5'- sunny. lots of bladderwort weeds.    
+06/09/1997,Air temperature 76 degrees-  Lake level: STILL DOWN- 1.5 FEET- WAS DOWN 3 FEET.    
+07/29/1997,Water is 74 degrees at 5 feet- air is 72 degrees.  5 families of ducks.    
+06/03/1999,Sky clear- humidity 44%- air temp 69 F- wind at S 8 mph. water temp 64 F.    
+06/18/1999,Air temp @ 8: 53 am 61 F. humidity 60%. wind S 6 mph. water temp 70 F.    
+06/24/1999,Water running over dam 1". air temp 80 F- humidity 31%. wind NW @ 10 mph.    
+07/17/1999,Water running over slough 4 3/4"- air 82 F- humidity 68%- wind S @ 7 mph. water temp 72 F.    
+07/23/1999,Air temp 80 F- humidity 79%- winds SW at 10 mph. water over dam 2 1/4". water temp 84 F.    
+08/06/1999,Water over dam 2 1/2"- west side of lake trees down from storm 6/30. air temp 73 F- humidity 76%- winds 4-6 mph. water temp 79 F.    
+09/13/1999,Water temp 64 F. water over dam 2". air temp 52 F. wind SW at 14 mph. light rain.    
+06/08/2000,Clear.    
+06/16/2000,Cloudy- the temperature is 60 degrees- 64% humidity- and west wind at 16 mph- gust at 25 mph.    
+06/18/2000,Cloudy- the temperature is 62 degrees- 62% humidity- and south wind at 14 mph- gust at 18 mph.    
+07/04/2000,Cloudy- the temperature is 61 degrees- 75% humidity- 6 mph wind gust- and water over dam is 1/2".    
+07/20/2000,Cloudy- the temperature is 67 degrees- 42% humidity- cloudy and rain in the morning but clear in the afternoon- and weeds growing.    
+08/05/2000,Weeds growing- cloudy- the temperature is 68 degrees- and the humidity is high.    
+08/21/2000,Partly cloudy- the temperature is 72 degrees- 53% humidity- and some weeds floating.    
+08/22/2000,Partly cloudy- the temperature is 71 degrees- mist- 3.5 mph wind- and looks like lake turnover.    
+09/06/2000,The temperature is 56 degrees- clear- and wind at 6.8 mph- gust to 13.8 mph.    
+09/25/2000,The temperature is 59 degrees and it is clear out.    
+10/08/2000,INTEGRATED WATER SAMPLE    
+10/08/2000,Sunny- 45 degrees. slight wind. one board out of dam.    
+08/06/2001,Long hot spell.  Average rain- fairly heavy weed growth- overcast- the temperature is 90 degrees F- and high humidity.    
+08/19/2001,Clear- calm- little rain in the past two weeks- the temperature is 72 degrees- average humidity- and more weeds.    
+09/02/2001,Clear- southwest wind at 10 mph- little rain in the past two weeks- the temperature is 67 degrees- average humidity- and filamentous algae in north end.    
+09/18/2001,Overcast- calm- some rain the past two weeks- the temperature is 62 degrees- average humidity- and filamentous algae coats all week in north end.    
+10/01/2001,Calm- clear- southwest wind at 5 mph- little rain past two weeks- the temperature is 74 degrees- low humidity- lake 6" lower- and algae persists.    
+10/12/2001,Clear- calm- 1" rain two days ago- the temperature is 50 degrees- average humidity- lots of ducks- strange moss with small white worms growing under water on piers and boat bottoms- and we saw eagles and loons.    
+05/20/2002,Ice out April 17 - Very cold and wet spring - today
+sunny at 50 - NW winds @ 5mph
+
+    
+06/09/2002,Overcast- and mild breeze from the south @ 5 mph    
+07/01/2002,Hot + Humid- no wind- hazy sunshine -82 degrees     Cool windy day. Only 59 Degrees. Water really cleared up lately. Weed harvesting completed a few weeks ago but weeds are still growing fast and only a few feet below the surface now.
+07/18/2002,Weather has been very hot- the water is very murky    
+08/07/2002,Calm day about 70 degrees- partly cloudy. Some weeds.    
+08/16/2002,72 degres- Sunny- with light SW winds    
+08/31/2002,about 75 degrees- partly cloudy- light winds.    
+09/17/2002,Temp about 76 gegrees with moderate winds and a sunny
+day.    
+10/10/2002,About 55 degrees- cloudy day and calm    
+05/27/2003,Clear sunny day with air temp about 75 degrees with a
+gentle brezze.    
+06/19/2003,Clear and sunny day with a gental breeze.  The weeds
+are just starting to show.    
+07/24/2003,Air temp about 78 degrees- light winds- sunshine.
+Some weeds showing in parts of the lake    
+08/14/2003,Clear- sunny- gental breeze.  Air temp 78 degrees some
+algae.    
+09/12/2003,Cool and overcast with some wind- the air temp was 60
+degrees.    
+10/02/2003,Clear- sunny day with some wind.    
+06/08/2004,DEEP HOLE-6FT INTEGRATED SAMPLE    
+07/20/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/23/2004,Cool- slight wind- sun feels like clear + crisp fall day. VERY cool summer- so far. Lows in 30's-40's many nights. Temperature currently low 60's.    
+09/29/2004,Zero wind- 68 degrees- sunny- clear weather- no clouds- visibility perfect; could see bottom (8.5 feet) with a 9" drawdown of lake. Has been a very cool summer.    
+06/21/2005,Clear- warm- slight breeze. Perfect summer day. 80's temp.    
+06/21/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/13/2005,Beautiful summer day; clear- warm (86 degrees); slight breeze- full sun- moderate amount of floating weeds. June water temp. was 6 degrees above 2004 reading. Lots of hot weather this year. Very little rain.    
+07/13/2005,DEEP HOLE - INTEGRATED SAMPLE    
+08/16/2005,Clear sky; pleasant 70 degrees; slight breeze; very weedy with floating masses- some sinking. June water temps were 6 degrees higher than June- '04 sparking heavy weed growth; More water skiing with big motors this year has increased turbidity; very dry summer.    
+08/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+06/26/2006,Beautiful day; full sun- 82 degrees- no wind- blue sky- some loose floating weeds- some algae- water 4 degrees cooler than last year on 6/21.
+07/18/2006,No wind or clouds; bright- sunny day; 5 days of weed cutting finished 7/17/06; lake looks good; a few small floating weed patches.
+08/27/2006,83 degrees; light breeze- fluffy white clouds; weeds below surface in some areas; lake surface clear; a few boats out. Water cooled down 8 degrees since 7/18/06.
+02/19/2007,NEAR SURFACE - 3L VAN DORN
+06/25/2007,Warm (88 degrees)- sunny- some clouds- light wind- one other boat on lake. 
+07/17/2007,Partly cloudy- light breeze- air temp. 74 degrees- no other boats on lake- warm- pleasant summer day.
+08/20/2007,Cloudy- unseasonably cool (air temp - 60.4 degrees)- light breeze from east and southeast.
+06/13/2008,100% clouds- 70 degrees F
+07/14/2008,Sunny- few clouds- 72 F- breezy- beautiful summer day. One speed boat w/skier- two pontoon boats on lake.
+08/11/2008,Sunny- light breeze- puffy white clouds- no boat traffic. Excellent summer day.
+07/05/2009,Breezy with a number of power boaters on the lake including some water-skiers and a jet-ski or two.
+08/07/2009,Nice- summer day
+06/29/2010,Clear-no clouds- blue sky; high 60's -low 70's temp; breezy NW wind- high pressure; 3"waves- 
+08/03/2010,Clear- sunny- few cumulus clouds- 83 F degrees- mild breeze- relatively calm water
+08/30/2010,Full sun- very few clouds-75 Deg. F- mild breeze- 4" waves- 10 seagulls.  Sandy Wickman went thru the procedures with us.
+06/27/2011,Full sun- 70 degrees-mild breeze- few clouds
+07/25/2011,full sun. 75 degrees. Slight breeze with a few clouds.
+08/29/2011,Full sun- 75 degrees- mild breeze- no clouds Full sun- 75 degrees- mild breeze- no clouds
+Two ducks on the lake - near the deep hole
+Helper - Dick Wuestenhagen
+06/14/2012,clear skies- slight west wind
+07/03/2012,clear skies- temp 79.7 degrees- light breeze from the west-rained 2 inches last night.
+07/18/2012,temp. 75.4-  mostly cloudy. calm winds. today they start harvesting weeds from the lake.
+08/06/2012,bright sun. temp 81 degrees. pretty windy today and yesterday was windier. looks like the wind may have stirred up some sediment.
+08/22/2012, outside temp was 75.5. bright sunny day with light wind from the southwest.could have seen secchi disc lower but got into weeds at about 7.5 to 8 feet.
+05/16/2013,Light breeze and sunny. Temp 60 degrees at test time. Ice went out May1st and 2nd. Water very cloudy.
+06/25/2013,Weather hot- 80 degrees already at 11 o'clock. Lake really green from  big doses of pine tree pollen falling yesterday and Sunday. Weeds seem to be growing more rapidly than usual. Large plumes appearing at the top of the water in many places.
+07/16/2013,Weed harvesting starts tomorrow. Secchi reading was impaired by weeds. Could not find a spot the weeds were not laying across the top of the water.Weed growth is the worst I've seen in the eight years we've been here.
+07/24/2013,Cool temps today. 63 degrees at 11 am. Weed harvesting is just finishing up. Lots of weeds floating around and blowing into shore daily. Water color very brown for a change. Probably from all the weeds being pulled up from the bottom
+08/09/2013,Cool windy day . Only 59 degrees out. Water really cleared up lately. Weed harvesting was completed a few weeks ago but weeds are still growing fast. Weeds are only a foot or two below the surface in some places.
+08/28/2013,Warm- calm day. Temps near 80 degrees at 9 A.M. After two days of heavy rain- 3 and 1/2 inches over both days- the lake again turned a cloudy green. A week ago I could see fish swimming 5 to 6 feet deep. Speaking of fish- last week the DNR stocked another 17-000 bass fingerlings. This on top of 17-000 last year and we were told possibly another 17-000 next year.
+05/06/2014,Ice went out May 3rd and 4th. Lake water high and dirty/cloudy. A few dead fish [small] seen floating from winter kill but not many.Cold clear day temps in the low 40's
+06/16/2014,Water very clear. Saw disc all the way till it hit bottom. Very few weeds growing so far. Most places can see sandy bottom.Windy and sunny today. Temps in the low 80's.
+07/21/2014,Hot sunny day. Temps to hit 90 today. No weeds at surface yet this year and we called off the weed harvesting because of no weeds. First time we have not harvested weeds in a long time. Still not much for fishing. Must have had a pretty good winter kill. There are tons and tons of small fish [minnow size] by shore. Hope they all grow up.
+08/13/2014,Cool morning about 53 degrees. Partly cloudy now. Lake looks very nice. No weed harvesting this year and still virtually no weeds at the surface to be seen. Water is pretty clear and can see sand bottom in most shallow areas.
+05/04/2015,Ice off April 11th and 12th. 
+06/16/2015,Cool breezy day. Rain every other day for the past two weeks at least. Monitoring weed growth to determine if harvesting is needed this year. Last year[2014] we did not cut weeds. So far there does not seem to be any weed growth at all. Our cut off date for our weed guy is this Saturday June 20th so we have to make a decision or pay a penalty if we cancel later.
+07/20/2015,No weeds in lake to speak of. Will be cancelling our weed harvesting for this year. Water color is unusually dark. Not really dirty just very dark colored- can only see secchi disc down to 4 feet. Maybe dark color is blocking the light and retarding weed growth?
+08/26/2015,Cool-windy day. Temps below normal for several days now. EWM divers on lake beginning of August found only four small plants and removed them by the roots.No weed harvesting for the second year now. Very few weeds visible on the lake. Water color very dark green. 
+06/29/2016,Water color very brown. Could only see down about 4 feet. Some blade grass weeds starting to show up near the surface but no broad leaf weeds showing yet. Have to decide if we need to harvest weeds this year.Bright sunny day temp 70 degrees.
+06/27/2017,assume noon. Calm winds- 71 degrees and partly sunny.
+07/19/2017,Abundant ostracods present in zebra mussel veliger tow sample.--Shelby Kail 
+07/26/2018,Actually collected Data yesterday Wednesday July 25th-2018. Overcast skies- Partly Sunny with light winds + 70 degrees. No boat activity seen- lake gulls and one pair of Loons on South portion of Lake. I had Helpers Paul + Julie Scarbough  guests .
+07/25/2019,Partly Cloudy- 75 deg F.- 55% RHI- SSW wind @ 8 mph.  Light chop on lake.    Heavy weeds in deep hole.
+08/29/2019,Heavy weeds in deep hole.   64.3 F air temp- wind 8 mph WSW- partly cloudy- rain and wind prior two days.
+05/03/2020,Temp 47.0 deg F- wind from N at 10 Mph- Gust to 24 Mph. Clear to Partly cloudy.   Winds have been sustained for over 24 hours varying from WNW to N running the fetch of the lake.     Mallards and Loons sighted.
+06/28/2020,Air temp 84F- Winds SSE 3-8 mph- partly cloudy.    Observed ducks- geese (2 adults- 4 goslings)- 3 loons- 4 eagles.   
+07/28/2020,Sunny- wind: west @3-8 mph- air temp 71 deg F- 55% humidity- BP 759.3 mm Hg -  Elev 1640 ft- 45.78 ?N- 89.58 ?W
+Horsehead Lake - KWILAKET2 local site.     2 fishing boats-   ducks and geese
+
+08/17/2020,Mostly sunny 68 deg F- Wind N @ 8 mph.   No boats. Seagulls and ducks(ducklings) on lake
+
+
+
+
+Start Date,Group Name,Project Name
+12/01/1972,Data Collectors,Migrated from STORET Legacy
+12/21/1972,Data Collectors,Migrated from STORET Legacy
+02/07/1973,Data Collectors,Migrated from STORET Legacy
+03/02/1973,Data Collectors,Migrated from STORET Legacy
+05/03/1973,Data Collectors,Migrated from STORET Legacy
+06/27/1973,Data Collectors,Migrated from STORET Legacy
+08/08/1973,Data Collectors,Migrated from STORET Legacy
+10/02/1973,Data Collectors,Migrated from STORET Legacy
+10/08/1973,Data Collectors,Migrated from STORET Legacy
+10/16/1973,Data Collectors,Migrated from STORET Legacy
+11/23/1973,Data Collectors,Migrated from STORET Legacy
+12/01/1973,Data Collectors,Migrated from STORET Legacy
+12/28/1973,Data Collectors,Migrated from STORET Legacy
+03/14/1974,Data Collectors,Migrated from STORET Legacy
+05/07/1974,Data Collectors,Migrated from STORET Legacy
+08/14/1974,Data Collectors,Migrated from STORET Legacy
+10/17/1974,Data Collectors,Migrated from STORET Legacy
+01/29/1975,Data Collectors,Migrated from STORET Legacy
+09/05/1979,Data Collectors,Migrated from STORET Legacy
+06/08/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/20/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/30/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/12/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/01/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/16/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/30/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/10/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/11/1988,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/27/1990,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/14/1990,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/12/1990,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/15/1990,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/15/1992,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/11/1992,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/14/1992,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/05/1992,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/01/1992,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/02/1993,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/21/1993,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/27/1993,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/15/1993,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/20/1994,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/24/1994,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/06/1994,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/09/1994,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/25/1995,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/13/1995,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/23/1995,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/14/1996,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/06/1996,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/03/1996,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/05/1996,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/18/1996,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/09/1997,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/29/1997,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+04/29/1998,Jack Houghton,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/03/1999,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/18/1999,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/24/1999,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/17/1999,Bud And Joyce England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/23/1999,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/06/1999,Bud And Joyce England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/13/1999,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/08/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/16/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/18/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/04/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/20/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/05/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/21/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/22/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/06/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/25/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/08/2000,Bud England,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/08/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/06/2001,JENNIFER WUDI,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+08/19/2001,Hans Delius,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/02/2001,Hans Delius,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/18/2001,Hans Delius And Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/01/2001,Hans Delius,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/12/2001,JENNIFER WUDI,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+05/20/2002,Data Collectors,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+06/09/2002,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/01/2002,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/01/2002,Mike Esler,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+07/18/2002,Data Collectors,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+08/07/2002,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/16/2002,Data Collectors,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+08/31/2002,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/17/2002,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/10/2002,Data Collectors,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+05/27/2003,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/19/2003,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/24/2003,Data Collectors,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/14/2003,Data Collectors,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/12/2003,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/02/2003,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/28/2004,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/08/2004,Daryl Dvorak and Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/20/2004,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/23/2004,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+09/29/2004,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+10/21/2004,Daryl Dvorak,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/21/2005,Daryl Dvorak and Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/21/2005,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/13/2005,Daryl Dvorak and Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/13/2005,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/16/2005,Daryl Dvorak and Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/16/2005,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/26/2006,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/18/2006,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/27/2006,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+02/19/2007,Eddie Heath - Onterra- LLC,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Comprehensive Mgt. Planning Proj. - Phase I
+06/25/2007,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/25/2007,Dennis Batchelet,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Comprehensive Mgt. Planning Proj. - Phase I
+07/17/2007,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/17/2007,Dennis Batchelet,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Comprehensive Mgt. Planning Proj. - Phase I
+08/20/2007,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/20/2007,Dennis Batchelet,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Comprehensive Mgt. Planning Proj. - Phase I
+06/11/2008,Brenton Butterfield and Sonya (Krogh) Rowe - Onterra- LLC,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/13/2008,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/14/2008,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/11/2008,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/05/2009,Stuart Utley,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/07/2009,Stuart Utley,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/29/2010,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/03/2010,Dennis Batchelet,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/30/2010,Marilyn Wuestenhagen,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/27/2011,Marilyn Wuestenhagen,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/25/2011,Marilyn Wuestenhagen,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/29/2011,Marilyn Wuestenhagen,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/14/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/19/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/03/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/17/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/18/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/06/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/22/2012,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/16/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/24/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/25/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/16/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/24/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/09/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/28/2013,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/06/2014,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/16/2014,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/14/2014,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/21/2014,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/13/2014,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+04/28/2015,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/04/2015,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/16/2015,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/20/2015,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/26/2015,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/29/2016,Mike Esler,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+04/24/2017,Hallie Moline,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+04/25/2017,Data Collectors,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Management Plan Update
+06/27/2017,Hallie Moline,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/19/2017,Data Collectors,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Management Plan Update
+07/19/2017,Eddie Heath - Onterra- LLC,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/19/2017,Eddie Heath - Onterra- LLC,DNR AIS Monitoring -Oneida County (Spiny Waterflea and Zebra Mussel Veliger Tows)
+07/19/2017,Eddie Heath - Onterra- LLC,HORSEHEAD LAKE P + R DISTRICT: Horsehead Lake Management Plan Update
+10/23/2017,Data Collectors,Bacteria + Plankton (Paid Private)
+02/05/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+06/28/2018,Hallie Moline,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/25/2018,Hallie Moline,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/26/2018,Hallie Moline,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/10/2019,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/25/2019,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/29/2019,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+03/10/2020,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+05/03/2020,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+06/28/2020,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+07/28/2020,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole
+08/17/2020,Kevin Collins,Citizen Lake Monitoring - Water Quality - Horsehead Lake; Deep Hole

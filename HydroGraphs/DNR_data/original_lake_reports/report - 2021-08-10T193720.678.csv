@@ -1,0 +1,526 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Black Dan Lake,Sawyer,2381900,NO,58,,583162,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189871,06/20/2001,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189871,06/28/2001,10,NO,3,,,44,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189871,07/05/2001,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189871,07/28/2001,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189871,08/22/2001,14,NO,4.3,,,39,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189871,09/19/2001,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189871,10/01/2001,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8189871,06/16/2002,12,NO,3.6,,,41,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8189871,06/28/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189871,07/07/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189871,07/23/2002,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189871,08/14/2002,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000017,04/22/2003,,,,,28,,54,,,,,,
+8189871,06/15/2003,10,NO,3,,,44,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8189871,06/25/2003,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189871,08/03/2003,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000017,09/02/2003,12,NO,3.6,2.93,20,41,51,43,,,,,
+15899269,05/07/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/21/2006,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/28/2006,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/03/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/11/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/18/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/27/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/05/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/28/2006,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/04/2006,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/21/2006,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/30/2006,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/14/2006,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/30/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,04/29/2007,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/12/2007,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899269,05/29/2007,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/09/2007,12,NO,3.6,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+15899269,06/15/2007,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/21/2007,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/07/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/24/2007,12.5,NO,3.8,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/08/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/25/2007,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/08/2007,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/26/2007,10.5,,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,10/21/2007,8,,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/25/2008,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/08/2008,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/16/2008,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/27/2008,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/20/2009,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/03/2009,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/22/2009,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/11/2009,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/06/2009,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/20/2010,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/10/2010,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/09/2010,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+15899269,06/11/2011,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/29/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/23/2011,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/31/2011,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/10/2011,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+15899269,08/25/2011,11.5,NO,3.5,,,42,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+15899269,05/26/2012,8.5,NO,2.6,,,46,,,HIGH,5,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/09/2012,10,NO,3,,,44,,,HIGH,6,CLEAR,GREEN,2-Very minor aesthetic problems
+15899269,07/28/2012,12.5,NO,3.8,,,41,,,NORMAL,9,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/10/2013,7.5,NO,2.3,,21,48,52,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+15899269,07/01/2013,11,NO,3.3,4.43,,43,,46,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/14/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/30/2013,, ,,4.59,8.3,,45,46,,,,,
+15899269,08/01/2013,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/11/2013,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/01/2013,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/02/2013,, ,,3.19,16.7,,50,44,,,,,
+15899269,06/05/2014,9,NO,2.7,,16.6,45,50,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+15899269,06/24/2014,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/02/2014,10.5,NO,3.2,8.38,15.3,43,49,51,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/10/2014,11,NO,3.3,,,43,,,HIGH,26.5,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/26/2014,11,NO,3.3,,,43,,,NORMAL,22,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/29/2014,, ,,4.17,14.4,,49,46,,,,,
+15899269,09/02/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/08/2014,10,NO,3,7.32,16.6,44,50,50,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+15899269,05/25/2015,11,NO,3.3,,20.2,43,51,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/01/2015,12,NO,3.6,2.69,17,41,50,42,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/02/2015,11,NO,3.3,2.84,16.3,43,50,43,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/27/2015,12,NO,3.6,3.43,20.3,41,51,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/30/2016,14,NO,4.3,,16.6,39,50,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/28/2016,9.5,NO,2.9,6.36,18.8,45,51,49,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/24/2016,9.5,NO,2.9,3.16,13.2,45,48,43,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/04/2016,,,,1.07,18.3,,51,35,,,,,
+15899269,09/05/2016,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/28/2017,8.5,NO,2.6,,,46,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/29/2017,,,,,29.8,,54,,,,,,
+15899269,06/26/2017,10,NO,3,9.63,26.7,44,54,52,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/03/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/01/2017,14,NO,4.3,1.38,17.8,39,50,37,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/04/2017,10.5,NO,3.2,3.26,20.5,43,52,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,05/28/2018,9,NO,2.7,,12.7,45,48,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/03/2018,11.5,NO,3.5,2.41,13,42,48,41,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,08/03/2018,11.5,NO,3.5,3.32,5.95,42,42,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,06/24/2019,11,NO,3.3,5.44,14.4,43,49,48,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/02/2019,8.5,NO,2.6,4.43,12.1,46,47,46,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/05/2020,13,NO,4,1.44,13,40,48,38,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,07/27/2020,11,NO,3.3,1.57,12.2,43,48,38,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+15899269,09/07/2020,10,NO,3,8.52,15.5,44,49,51,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/02/2003,7,FEET,,,8.4,MG/L
+09/02/2003,,,22.4,C,8.4,MG/L
+08/10/2011,0,FEET,74.8,DEGREES F,6,MG/L
+08/10/2011,5,FEET,74.6,DEGREES F,5.5,MG/L
+08/10/2011,10,FEET,74.3,DEGREES F,6.2,MG/L
+08/10/2011,15,FEET,66.2,DEGREES F,1.8,MG/L
+08/10/2011,20,FEET,54.3,DEGREES F,.1,MG/L
+08/10/2011,25,FEET,48.5,DEGREES F,.1,MG/L
+08/10/2011,30,FEET,47.4,DEGREES F,.1,MG/L
+06/10/2013,0,FEET,65.1,DEGREES F,,
+06/10/2013,5,FEET,62.6,DEGREES F,8.2,MG/L
+06/10/2013,10,FEET,59.7,DEGREES F,4.4,MG/L
+06/10/2013,15,FEET,49.4,DEGREES F,3.2,MG/L
+06/10/2013,20,FEET,44.4,DEGREES F,1.8,MG/L
+06/10/2013,25,FEET,42.2,DEGREES F,1.6,MG/L
+06/10/2013,30,FEET,41.3,DEGREES F,.6,MG/L
+06/10/2013,35,FEET,41,DEGREES F,0,MG/L
+07/01/2013,0,FEET,73.7,DEGREES F,,
+07/01/2013,5,FEET,73,DEGREES F,7.9,MG/L
+07/01/2013,10,FEET,67.2,DEGREES F,8.2,MG/L
+07/01/2013,15,FEET,51.6,DEGREES F,6.7,MG/L
+07/01/2013,20,FEET,44.9,DEGREES F,1,MG/L
+07/01/2013,25,FEET,42.6,DEGREES F,.5,MG/L
+07/01/2013,30,FEET,41.7,DEGREES F,.6,MG/L
+07/01/2013,35,FEET,41.3,DEGREES F,0,MG/L
+07/30/2013,0,FEET,69.8,DEGREES F,,
+07/30/2013,5,FEET,69,DEGREES F,8.1,MG/L
+07/30/2013,10,FEET,68.1,DEGREES F,7.6,MG/L
+07/30/2013,15,FEET,57.5,DEGREES F,10.5,MG/L
+07/30/2013,20,FEET,46.2,DEGREES F,3,MG/L
+07/30/2013,25,FEET,43.1,DEGREES F,0,MG/L
+07/30/2013,30,FEET,42,DEGREES F,0,MG/L
+07/30/2013,35,FEET,41.7,DEGREES F,0,MG/L
+09/02/2013,0,FEET,73.9,DEGREES F,,
+09/02/2013,5,FEET,73.9,DEGREES F,8.2,MG/L
+09/02/2013,10,FEET,73.7,DEGREES F,7,MG/L
+09/02/2013,15,FEET,63.6,DEGREES F,10.2,MG/L
+09/02/2013,20,FEET,49.2,DEGREES F,2.1,MG/L
+09/02/2013,25,FEET,44,DEGREES F,.8,MG/L
+09/02/2013,30,FEET,42.2,DEGREES F,0,MG/L
+09/02/2013,35,FEET,42,DEGREES F,0,MG/L
+06/05/2014,0,FEET,71,DEGREES F,,
+06/05/2014,5,FEET,69.9,DEGREES F,10,MG/L
+06/05/2014,10,FEET,58.1,DEGREES F,7.4,MG/L
+06/05/2014,15,FEET,48.2,DEGREES F,6,MG/L
+06/05/2014,20,FEET,42.6,DEGREES F,1.2,MG/L
+06/05/2014,25,FEET,40.8,DEGREES F,1,MG/L
+06/05/2014,30,FEET,40.2,DEGREES F,0,MG/L
+06/05/2014,35,FEET,40.1,DEGREES F,0,MG/L
+07/02/2014,0,FEET,71.4,DEGREES F,,
+07/02/2014,5,FEET,71.2,DEGREES F,5.7,MG/L
+07/02/2014,10,FEET,71,DEGREES F,6.8,MG/L
+07/02/2014,15,FEET,53.6,DEGREES F,5.8,MG/L
+07/02/2014,20,FEET,44.4,DEGREES F,2.1,MG/L
+07/02/2014,25,FEET,41.7,DEGREES F,1,MG/L
+07/02/2014,30,FEET,40.8,DEGREES F,0,MG/L
+07/02/2014,35,FEET,40.4,DEGREES F,0,MG/L
+07/29/2014,0,FEET,72.8,DEGREES F,,
+07/29/2014,5,FEET,72.1,DEGREES F,3,MG/L
+07/29/2014,10,FEET,71.4,DEGREES F,3.6,MG/L
+07/29/2014,15,FEET,56.4,DEGREES F,3.2,MG/L
+07/29/2014,20,FEET,45.6,DEGREES F,1.6,MG/L
+07/29/2014,25,FEET,42,DEGREES F,0,MG/L
+07/29/2014,30,FEET,41,DEGREES F,0,MG/L
+07/29/2014,35,FEET,40.8,DEGREES F,0,MG/L
+09/08/2014,0,FEET,67,DEGREES F,,
+09/08/2014,5,FEET,68,DEGREES F,7,MG/L
+09/08/2014,10,FEET,67,DEGREES F,6.1,MG/L
+09/08/2014,15,FEET,64,DEGREES F,3.6,MG/L
+09/08/2014,20,FEET,53,DEGREES F,1.2,MG/L
+09/08/2014,25,FEET,45,DEGREES F,1.5,MG/L
+09/08/2014,30,FEET,43,DEGREES F,1.8,MG/L
+09/08/2014,35,FEET,42,DEGREES F,0,MG/L
+05/25/2015,0,FEET,63,DEGREES F,,
+05/25/2015,5,FEET,63,DEGREES F,9,MG/L
+05/25/2015,10,FEET,60,DEGREES F,8.8,MG/L
+05/25/2015,15,FEET,55,DEGREES F,7.5,MG/L
+05/25/2015,20,FEET,49,DEGREES F,1.9,MG/L
+05/25/2015,25,FEET,46,DEGREES F,.9,MG/L
+05/25/2015,30,FEET,45,DEGREES F,1.1,MG/L
+05/25/2015,35,FEET,44,DEGREES F,0,MG/L
+07/01/2015,0,FEET,71.9,DEGREES F,,
+07/01/2015,5,FEET,71.7,DEGREES F,5.8,MG/L
+07/01/2015,10,FEET,71.4,DEGREES F,6.3,MG/L
+07/01/2015,15,FEET,58.4,DEGREES F,7.4,MG/L
+07/01/2015,20,FEET,49.2,DEGREES F,3.6,MG/L
+07/01/2015,25,FEET,46.2,DEGREES F,1.3,MG/L
+07/01/2015,30,FEET,44.6,DEGREES F,0,MG/L
+07/01/2015,35,FEET,44,DEGREES F,0,MG/L
+08/02/2015,0,FEET,76.4,DEGREES F,,
+08/02/2015,5,FEET,75.5,DEGREES F,,
+08/02/2015,10,FEET,75.3,DEGREES F,,
+08/02/2015,15,FEET,65.6,DEGREES F,,
+08/02/2015,20,FEET,51.2,DEGREES F,,
+08/02/2015,25,FEET,46.5,DEGREES F,,
+08/02/2015,30,FEET,44.6,DEGREES F,,
+08/02/2015,35,FEET,44,DEGREES F,,
+08/27/2015,0,FEET,66.5,DEGREES F,,
+08/27/2015,5,FEET,65.6,DEGREES F,,
+08/27/2015,10,FEET,65.1,DEGREES F,,
+08/27/2015,15,FEET,64.7,DEGREES F,,
+08/27/2015,20,FEET,53.6,DEGREES F,,
+08/27/2015,25,FEET,47.3,DEGREES F,,
+08/27/2015,30,FEET,44.9,DEGREES F,,
+08/27/2015,35,FEET,44.2,DEGREES F,,
+05/30/2016,0,FEET,69,DEGREES F,,
+05/30/2016,5,FEET,68.3,DEGREES F,3.6,MG/L
+05/30/2016,10,FEET,61.8,DEGREES F,6.3,MG/L
+05/30/2016,15,FEET,54.6,DEGREES F,8.2,MG/L
+05/30/2016,20,FEET,48,DEGREES F,4.2,MG/L
+05/30/2016,25,FEET,43.8,DEGREES F,3.3,MG/L
+05/30/2016,30,FEET,42.2,DEGREES F,2.4,MG/L
+05/30/2016,35,FEET,41.9,DEGREES F,0,MG/L
+06/28/2016,0,FEET,76.2,DEGREES F,,
+06/28/2016,5,FEET,73.4,DEGREES F,7.3,MG/L
+06/28/2016,10,FEET,71.9,DEGREES F,4.7,MG/L
+06/28/2016,15,FEET,57.3,DEGREES F,1.6,MG/L
+06/28/2016,20,FEET,48.7,DEGREES F,,
+06/28/2016,25,FEET,45.3,DEGREES F,,
+06/28/2016,30,FEET,43.5,DEGREES F,,
+06/28/2016,35,FEET,42.8,DEGREES F,,
+07/24/2016,0,FEET,78.8,DEGREES F,,
+07/24/2016,5,FEET,78.8,DEGREES F,,
+07/24/2016,10,FEET,72.3,DEGREES F,,
+07/24/2016,15,FEET,58.6,DEGREES F,,
+07/24/2016,20,FEET,49.4,DEGREES F,,
+07/24/2016,25,FEET,45.3,DEGREES F,,
+07/24/2016,30,FEET,43.8,DEGREES F,,
+07/24/2016,35,FEET,43.1,DEGREES F,,
+09/05/2016,0,FEET,70.1,DEGREES F,,
+09/05/2016,5,FEET,69.8,DEGREES F,,
+09/05/2016,10,FEET,69.6,DEGREES F,,
+09/05/2016,15,FEET,63.6,DEGREES F,,
+09/05/2016,20,FEET,51,DEGREES F,,
+09/05/2016,25,FEET,46.2,DEGREES F,,
+09/05/2016,30,FEET,44.4,DEGREES F,,
+09/05/2016,35,FEET,43.5,DEGREES F,,
+05/28/2017,0,FEET,62.6,DEGREES F,,
+05/28/2017,5,FEET,61.7,DEGREES F,,
+05/28/2017,10,FEET,55.2,DEGREES F,,
+05/28/2017,15,FEET,53.4,DEGREES F,,
+05/28/2017,20,FEET,48.5,DEGREES F,,
+05/28/2017,25,FEET,46.2,DEGREES F,,
+05/28/2017,30,FEET,44.9,DEGREES F,,
+05/28/2017,35,FEET,44.2,DEGREES F,,
+06/26/2017,0,FEET,68.3,DEGREES F,,
+06/26/2017,5,FEET,66.7,DEGREES F,,
+06/26/2017,10,FEET,66.2,DEGREES F,,
+06/26/2017,15,FEET,55.7,DEGREES F,,
+06/26/2017,20,FEET,48.5,DEGREES F,,
+06/26/2017,25,FEET,46.4,DEGREES F,,
+06/26/2017,30,FEET,44.9,DEGREES F,,
+06/26/2017,35,FEET,44.4,DEGREES F,,
+08/01/2017,0,FEET,79.5,DEGREES F,,
+08/01/2017,5,FEET,78.8,DEGREES F,,
+08/01/2017,10,FEET,75.2,DEGREES F,,
+08/01/2017,15,FEET,59,DEGREES F,,
+08/01/2017,20,FEET,49.2,DEGREES F,,
+08/01/2017,25,FEET,46.4,DEGREES F,,
+08/01/2017,30,FEET,44.9,DEGREES F,,
+08/01/2017,35,FEET,44.4,DEGREES F,,
+09/04/2017,0,FEET,66.7,DEGREES F,,
+09/04/2017,5,FEET,66.7,DEGREES F,,
+09/04/2017,10,FEET,65.8,DEGREES F,,
+09/04/2017,15,FEET,64.4,DEGREES F,,
+09/04/2017,20,FEET,52.1,DEGREES F,,
+09/04/2017,25,FEET,47.4,DEGREES F,,
+09/04/2017,30,FEET,45.3,DEGREES F,,
+09/04/2017,35,FEET,44.6,DEGREES F,,
+05/28/2018,0,FEET,77.7,DEGREES F,,
+05/28/2018,5,FEET,74.1,DEGREES F,,
+05/28/2018,10,FEET,54.3,DEGREES F,,
+05/28/2018,15,FEET,45.5,DEGREES F,,
+05/28/2018,20,FEET,42,DEGREES F,,
+05/28/2018,25,FEET,40.8,DEGREES F,,
+05/28/2018,30,FEET,41,DEGREES F,,
+05/28/2018,35,FEET,41,DEGREES F,,
+07/03/2018,0,FEET,77,DEGREES F,,
+07/03/2018,5,FEET,77,DEGREES F,,
+07/03/2018,10,FEET,70.1,DEGREES F,,
+07/03/2018,15,FEET,51.8,DEGREES F,,
+07/03/2018,20,FEET,43.3,DEGREES F,,
+07/03/2018,25,FEET,41.7,DEGREES F,,
+07/03/2018,30,FEET,41.3,DEGREES F,,
+08/03/2018,0,FEET,71.2,DEGREES F,,
+08/03/2018,5,FEET,70.8,DEGREES F,,
+08/03/2018,10,FEET,70.1,DEGREES F,,
+08/03/2018,15,FEET,59,DEGREES F,,
+08/03/2018,20,FEET,45.1,DEGREES F,,
+08/03/2018,25,FEET,42.4,DEGREES F,,
+08/03/2018,30,FEET,41.6,DEGREES F,,
+08/03/2018,35,FEET,41.4,DEGREES F,,
+06/24/2019,0,FEET,69.8,DEGREES F,,
+06/24/2019,5,FEET,69.8,DEGREES F,,
+06/24/2019,10,FEET,67.4,DEGREES F,,
+06/24/2019,15,FEET,54.3,DEGREES F,,
+06/24/2019,20,FEET,46.7,DEGREES F,,
+06/24/2019,25,FEET,42.9,DEGREES F,,
+06/24/2019,30,FEET,41.9,DEGREES F,,
+06/24/2019,35,FEET,41.5,DEGREES F,,
+09/02/2019,0,FEET,69.4,DEGREES F,,
+09/02/2019,5,FEET,67.6,DEGREES F,,
+09/02/2019,10,FEET,66.2,DEGREES F,,
+09/02/2019,15,FEET,65.1,DEGREES F,,
+09/02/2019,20,FEET,50,DEGREES F,,
+09/02/2019,25,FEET,44.9,DEGREES F,,
+09/02/2019,30,FEET,42.8,DEGREES F,,
+09/02/2019,35,FEET,42.2,DEGREES F,,
+07/05/2020,0,FEET,83.3,DEGREES F,,
+07/05/2020,5,FEET,81.8,DEGREES F,,
+07/05/2020,10,FEET,71.9,DEGREES F,,
+07/05/2020,15,FEET,58.8,DEGREES F,,
+07/05/2020,20,FEET,49.8,DEGREES F,,
+07/05/2020,25,FEET,45.6,DEGREES F,,
+07/05/2020,30,FEET,43.7,DEGREES F,,
+07/05/2020,35,FEET,43.1,DEGREES F,,
+07/27/2020,0,FEET,75.5,DEGREES F,,
+07/27/2020,5,FEET,75.2,DEGREES F,,
+07/27/2020,10,FEET,73.4,DEGREES F,,
+07/27/2020,15,FEET,64.7,DEGREES F,,
+07/27/2020,20,FEET,51.8,DEGREES F,,
+07/27/2020,25,FEET,46.4,DEGREES F,,
+07/27/2020,30,FEET,44.6,DEGREES F,,
+07/27/2020,35,FEET,43.7,DEGREES F,,
+09/07/2020,0,FEET,66.5,DEGREES F,,
+09/07/2020,5,FEET,66.2,DEGREES F,,
+09/07/2020,10,FEET,65.8,DEGREES F,,
+09/07/2020,15,FEET,65.4,DEGREES F,,
+09/07/2020,20,FEET,53.4,DEGREES F,,
+09/07/2020,25,FEET,47.6,DEGREES F,,
+09/07/2020,30,FEET,44.6,DEGREES F,,
+09/07/2020,35,FEET,43.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/20/2001,Water skiers on lake before reading and 4" of rain day before.    
+06/28/2001,Sunny and clear- and no activity on the lake.    
+07/05/2001,Sunny and clear.    
+07/28/2001,Sunny and clear.    
+08/22/2001,Clear and calm- and no activity on the lake.    
+09/19/2001,Clear and calm.    
+10/01/2001,Clear and light wind.    
+06/16/2002,Weather clear and lake calm
+
+    
+06/28/2002,Weather hazy and lake calm    
+07/07/2002,Weather Clear / A lot of activity on lake
+
+    
+07/23/2002,Weather clear    
+08/14/2002,weather Clear Lake Choppie
+
+    
+04/22/2003,CENTER    
+06/15/2003,Weather clear.  Lake calm.
+
+
+    
+06/25/2003,Weather hazy.  Lake calm
+
+
+    
+08/03/2003,Weather clear.   Lake calm.
+
+
+    
+09/02/2003,DEEPEST SPOT    
+05/07/2006,Sunny- 67- calm - water 50
+05/21/2006,Sunny 50 Calm Water 52
+05/28/2006,Sunny 85 Wind 10-15 Water 63
+06/03/2006,Mostly Sunny 72 Wind 5-10 Water 67
+06/11/2006,Mostly Sunny 65 Wind 10-15 Water 62
+06/18/2006,Sunny 75 Wind 10-15 Water 69
+06/27/2006,Hazy 62 Wind 5-10 Water 69
+07/05/2006,Mostly Sunny 72 Wind 10-15 Water 69
+07/28/2006,Sunny 80 Wind 5-10 Water 82
+08/04/2006,Sunny 75 Calm Water very high - half way up 2x6 on dock
+08/21/2006,Sunny w few clouds- 73- wind 10-15
+08/30/2006,Sunny 70 Wind 0-5
+09/14/2006,Sunny 67 Wind 10-15
+09/30/2006,Sunny 50- Wind 10-15
+04/29/2007,New eagle nest in top of large white pine on Emma Isaland.
+06/09/2007,Dead crayfish found - not Rusty
+10/21/2007,Cloudy
+08/09/2010,Lake up 8" due to storm on 8/7
+08/10/2011,Peter Howe and Jim Gammon did the Temperature and D.O. (Pete's depth rope not quite long enough to reach bottom). Lake extremely high due to recent rains. Secchi 2 feet less than previous. Pete and Jim could see algae in the water column. Probably the worst mid-summer water clarity I've seen since I started monitoring. 
+Note: D.O. data are suspect: Pete's device wasn't working properly. One week later there were fish on the bottom (34-37 ft) per Hummingbird locator. This shouldn't be possible if D.O. was zero.
+07/09/2012,Small ( less than 1mm) microorganisms in water column- silver in color- look like little birds
+07/14/2013,Sunny- wind 10-15
+08/01/2013,Sunny- wind 5-10
+08/11/2013,Sunny- nearly calm. Did invasive survey. 3 otters. 
+09/01/2013,Sunny- wind 10-15
+09/08/2014,Windy. Visibility down into water was reduced- but still could see secchi disk. Digital thermometer failed - used thermometer in Varn Dorn sampler.
+07/05/2020,Sunny- dead calm
+09/07/2020,Partly sunny- Windy - more than  calm
+
+
+
+
+Start Date,Group Name,Project Name
+06/20/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/28/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/05/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/28/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/22/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/19/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+10/01/2001,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/16/2002,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/28/2002,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/07/2002,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/23/2002,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/14/2002,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+04/22/2003,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+06/15/2003,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/25/2003,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/03/2003,Bill Jandt,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/02/2003,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+05/07/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/21/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/28/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/03/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/11/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/18/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/27/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/05/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/28/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/04/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/21/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/30/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/14/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/30/2006,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+04/29/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/12/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/29/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/09/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/15/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/21/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/07/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/24/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/08/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/25/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/08/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/26/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+10/21/2007,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/25/2008,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/08/2008,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/16/2008,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/27/2008,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/20/2009,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/03/2009,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/22/2009,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/11/2009,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/06/2009,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/20/2010,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/10/2010,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/09/2010,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/11/2011,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/29/2011,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/23/2011,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/31/2011,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/10/2011,Herb Archibald,Citizen Aquatic Invasives Monitoring - Black Dan Lake
+08/10/2011,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/25/2011,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/26/2012,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/09/2012,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/28/2012,Herb Archibald,Citizen Aquatic Invasives Monitoring - Black Dan Lake
+07/28/2012,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/10/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/01/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/14/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/30/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/01/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/11/2013,Herb Archibald,Citizen Aquatic Invasives Monitoring - Black Dan Lake
+08/11/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/01/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/02/2013,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/05/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/24/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/02/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/10/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/26/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/29/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/02/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/08/2014,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/25/2015,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/01/2015,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/02/2015,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/27/2015,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/30/2016,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/28/2016,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/24/2016,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/04/2016,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/05/2016,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/28/2017,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/29/2017,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/26/2017,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/03/2017,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/01/2017,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/04/2017,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+05/28/2018,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/03/2018,Herb Archibald,Citizen Aquatic Invasives Monitoring - Black Dan Lake
+07/03/2018,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+08/03/2018,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+06/24/2019,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/02/2019,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/05/2020,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+07/27/2020,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole
+09/07/2020,Herb Archibald,Citizen Lake Monitoring - Water Quality - Black Dan Lake; Deep Hole

@@ -1,0 +1,327 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Rice Lake,Dane,779500,SC,13,,10033450,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+11984606,06/30/2011,,,,15.5,,,,56,,,,,
+11984606,08/01/2011,,,,55.4,,,,65,,,,,
+114081025,06/03/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/09/2016,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/09/2016,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/09/2016,1.25,NO,0.4,,,74,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,05/29/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,06/27/2017,1.75,NO,0.5,,,69,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/18/2017,2.5,NO,0.8,,,64,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/29/2017,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/14/2017,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,05/22/2018,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+114081025,06/14/2018,2.5,NO,0.8,,,64,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/26/2018,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/03/2018,1.25,NO,0.4,,,74,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/25/2018,1.75,NO,0.5,,,69,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/14/2018,1.5,NO,0.5,,,71,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/20/2018,1.75,NO,0.5,,,69,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,10/03/2018,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,05/31/2019,12,NO,3.6,,,41,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+114081025,06/07/2019,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+114081025,07/01/2019,4,NO,1.2,,,57,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/04/2019,1.75,NO,0.5,,,69,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/21/2019,1.5,NO,0.5,,,71,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/27/2019,1.5,NO,0.5,,,71,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,06/17/2020,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+114081025,07/12/2020,2.25,NO,0.7,,,65,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/28/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/14/2020,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/07/2020,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/19/2020,1,NO,0.3,,,77,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,10/06/2020,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/2017,1,FEET,73.7,DEGREES F,,
+08/29/2017,2,FEET,73.7,DEGREES F,,
+08/29/2017,3,FEET,73.4,DEGREES F,,
+08/29/2017,4,FEET,73.2,DEGREES F,,
+08/29/2017,5,FEET,73.2,DEGREES F,,
+08/29/2017,6,FEET,72.1,DEGREES F,,
+08/29/2017,7,FEET,72.3,DEGREES F,,
+08/29/2017,8,FEET,71.9,DEGREES F,,
+08/29/2017,9,FEET,71.4,DEGREES F,,
+08/29/2017,10,FEET,71.4,DEGREES F,,
+08/29/2017,11,FEET,71.2,DEGREES F,,
+08/29/2017,12,FEET,71.4,DEGREES F,,
+09/14/2017,1,FEET,71.6,DEGREES F,,
+09/14/2017,2,FEET,71.6,DEGREES F,,
+09/14/2017,3,FEET,71.4,DEGREES F,,
+09/14/2017,4,FEET,70.5,DEGREES F,,
+09/14/2017,5,FEET,69,DEGREES F,,
+09/14/2017,6,FEET,66.9,DEGREES F,,
+09/14/2017,7,FEET,66.9,DEGREES F,,
+09/14/2017,8,FEET,66.5,DEGREES F,,
+09/14/2017,9,FEET,66.3,DEGREES F,,
+09/14/2017,10,FEET,66.2,DEGREES F,,
+09/14/2017,11,FEET,66.2,DEGREES F,,
+09/14/2017,12,FEET,66.2,DEGREES F,,
+05/22/2018,1,FEET,66.5,DEGREES F,,
+05/22/2018,2,FEET,66,DEGREES F,,
+05/22/2018,3,FEET,65.8,DEGREES F,,
+05/22/2018,4,FEET,65.3,DEGREES F,,
+05/22/2018,5,FEET,64.9,DEGREES F,,
+05/22/2018,6,FEET,64.7,DEGREES F,,
+05/22/2018,7,FEET,64.4,DEGREES F,,
+05/22/2018,8,FEET,64.4,DEGREES F,,
+05/22/2018,9,FEET,64,DEGREES F,,
+05/22/2018,10,FEET,63.8,DEGREES F,,
+05/22/2018,11,FEET,62,DEGREES F,,
+05/22/2018,12,FEET,61.1,DEGREES F,,
+06/14/2018,1,FEET,75.9,DEGREES F,,
+06/14/2018,2,FEET,75.5,DEGREES F,,
+06/14/2018,3,FEET,74.4,DEGREES F,,
+06/14/2018,4,FEET,74.1,DEGREES F,,
+06/14/2018,5,FEET,73.9,DEGREES F,,
+06/14/2018,6,FEET,73.5,DEGREES F,,
+06/14/2018,7,FEET,72.8,DEGREES F,,
+06/14/2018,8,FEET,72.1,DEGREES F,,
+06/14/2018,9,FEET,71,DEGREES F,,
+06/14/2018,10,FEET,69,DEGREES F,,
+06/14/2018,11,FEET,66.9,DEGREES F,,
+06/14/2018,12,FEET,64.7,DEGREES F,,
+07/26/2018,1,FEET,77.9,DEGREES F,,
+07/26/2018,2,FEET,77.9,DEGREES F,,
+07/26/2018,3,FEET,77.9,DEGREES F,,
+07/26/2018,4,FEET,77.7,DEGREES F,,
+07/26/2018,5,FEET,77.1,DEGREES F,,
+07/26/2018,6,FEET,76.8,DEGREES F,,
+07/26/2018,7,FEET,76.4,DEGREES F,,
+07/26/2018,8,FEET,76.4,DEGREES F,,
+07/26/2018,9,FEET,76.2,DEGREES F,,
+07/26/2018,10,FEET,75.7,DEGREES F,,
+07/26/2018,11,FEET,74.4,DEGREES F,,
+07/26/2018,12,FEET,73.4,DEGREES F,,
+07/26/2018,13,FEET,72.8,DEGREES F,,
+09/14/2018,1,FEET,73.7,DEGREES F,,
+09/14/2018,2,FEET,72.8,DEGREES F,,
+09/14/2018,3,FEET,72.6,DEGREES F,,
+09/14/2018,4,FEET,72.2,DEGREES F,,
+09/14/2018,5,FEET,71.9,DEGREES F,,
+09/14/2018,6,FEET,71.6,DEGREES F,,
+09/14/2018,7,FEET,71,DEGREES F,,
+09/14/2018,8,FEET,70.8,DEGREES F,,
+09/14/2018,9,FEET,70.5,DEGREES F,,
+09/14/2018,10,FEET,70.3,DEGREES F,,
+09/14/2018,11,FEET,70.1,DEGREES F,,
+10/03/2018,1,FEET,61.1,DEGREES F,,
+10/03/2018,2,FEET,60.9,DEGREES F,,
+10/03/2018,3,FEET,60.9,DEGREES F,,
+10/03/2018,4,FEET,60.8,DEGREES F,,
+10/03/2018,5,FEET,60.8,DEGREES F,,
+10/03/2018,6,FEET,60.8,DEGREES F,,
+10/03/2018,7,FEET,60.8,DEGREES F,,
+10/03/2018,8,FEET,60.8,DEGREES F,,
+10/03/2018,9,FEET,60.8,DEGREES F,,
+10/03/2018,10,FEET,60.6,DEGREES F,,
+10/03/2018,11,FEET,60.6,DEGREES F,,
+10/03/2018,12,FEET,60.6,DEGREES F,,
+10/03/2018,13,FEET,60.6,DEGREES F,,
+05/31/2019,1,FEET,70.5,DEGREES F,,
+05/31/2019,2,FEET,70,DEGREES F,,
+05/31/2019,3,FEET,69.8,DEGREES F,,
+05/31/2019,4,FEET,69.8,DEGREES F,,
+05/31/2019,5,FEET,69.8,DEGREES F,,
+05/31/2019,6,FEET,69.8,DEGREES F,,
+05/31/2019,7,FEET,69.6,DEGREES F,,
+05/31/2019,8,FEET,69.4,DEGREES F,,
+05/31/2019,9,FEET,69,DEGREES F,,
+05/31/2019,10,FEET,66.9,DEGREES F,,
+05/31/2019,11,FEET,65.9,DEGREES F,,
+05/31/2019,12,FEET,65.3,DEGREES F,,
+05/31/2019,13,FEET,65.3,DEGREES F,,
+06/07/2019,1,FEET,75.7,DEGREES F,,
+06/07/2019,2,FEET,74.6,DEGREES F,,
+06/07/2019,3,FEET,74.1,DEGREES F,,
+06/07/2019,4,FEET,73.4,DEGREES F,,
+06/07/2019,5,FEET,72.6,DEGREES F,,
+06/07/2019,6,FEET,71,DEGREES F,,
+06/07/2019,7,FEET,70.3,DEGREES F,,
+06/07/2019,8,FEET,69.2,DEGREES F,,
+06/07/2019,9,FEET,68.3,DEGREES F,,
+06/07/2019,10,FEET,68,DEGREES F,,
+06/07/2019,11,FEET,67.6,DEGREES F,,
+06/07/2019,12,FEET,67.2,DEGREES F,,
+06/07/2019,13,FEET,65.6,DEGREES F,,
+07/01/2019,1,FEET,80.1,DEGREES F,,
+07/01/2019,2,FEET,78.2,DEGREES F,,
+07/01/2019,3,FEET,77.3,DEGREES F,,
+07/01/2019,4,FEET,76.6,DEGREES F,,
+07/01/2019,5,FEET,76.1,DEGREES F,,
+07/01/2019,6,FEET,75.9,DEGREES F,,
+07/01/2019,7,FEET,74.5,DEGREES F,,
+07/01/2019,8,FEET,72.7,DEGREES F,,
+07/01/2019,9,FEET,71.2,DEGREES F,,
+07/01/2019,10,FEET,70.1,DEGREES F,,
+07/01/2019,11,FEET,69.4,DEGREES F,,
+07/01/2019,12,FEET,69,DEGREES F,,
+07/01/2019,13,FEET,68,DEGREES F,,
+08/04/2019,1,FEET,81.8,DEGREES F,,
+08/04/2019,2,FEET,80,DEGREES F,,
+08/04/2019,3,FEET,79.75,DEGREES F,,
+08/04/2019,4,FEET,79.1,DEGREES F,,
+08/04/2019,5,FEET,78.9,DEGREES F,,
+08/04/2019,6,FEET,78.6,DEGREES F,,
+08/04/2019,7,FEET,78.2,DEGREES F,,
+08/04/2019,8,FEET,77.7,DEGREES F,,
+08/04/2019,9,FEET,77,DEGREES F,,
+08/04/2019,10,FEET,76.2,DEGREES F,,
+08/04/2019,11,FEET,75.5,DEGREES F,,
+08/04/2019,12,FEET,73.2,DEGREES F,,
+08/04/2019,13,FEET,71.7,DEGREES F,,
+08/21/2019,1,FEET,78.6,DEGREES F,,
+08/21/2019,2,FEET,78,DEGREES F,,
+08/21/2019,3,FEET,77.3,DEGREES F,,
+08/21/2019,4,FEET,77.1,DEGREES F,,
+08/21/2019,5,FEET,77,DEGREES F,,
+08/21/2019,6,FEET,77,DEGREES F,,
+08/21/2019,7,FEET,76.8,DEGREES F,,
+08/21/2019,8,FEET,76.2,DEGREES F,,
+08/21/2019,9,FEET,75.7,DEGREES F,,
+08/21/2019,10,FEET,75.2,DEGREES F,,
+08/21/2019,11,FEET,75,DEGREES F,,
+08/21/2019,12,FEET,74.6,DEGREES F,,
+08/21/2019,13,FEET,73.2,DEGREES F,,
+06/17/2020,1,FEET,75.2,DEGREES F,,
+06/17/2020,2,FEET,75,DEGREES F,,
+06/17/2020,3,FEET,74.8,DEGREES F,,
+06/17/2020,4,FEET,74.6,DEGREES F,,
+06/17/2020,5,FEET,74.6,DEGREES F,,
+06/17/2020,6,FEET,74.3,DEGREES F,,
+06/17/2020,7,FEET,74,DEGREES F,,
+06/17/2020,8,FEET,72.3,DEGREES F,,
+06/17/2020,9,FEET,72.1,DEGREES F,,
+06/17/2020,10,FEET,71.9,DEGREES F,,
+06/17/2020,11,FEET,71.7,DEGREES F,,
+06/17/2020,12,FEET,71.4,DEGREES F,,
+07/28/2020,2,FEET,82.5,DEGREES F,,
+07/28/2020,3,FEET,82.4,DEGREES F,,
+07/28/2020,4,FEET,82.2,DEGREES F,,
+07/28/2020,5,FEET,82.2,DEGREES F,,
+07/28/2020,6,FEET,82.2,DEGREES F,,
+07/28/2020,7,FEET,82.2,DEGREES F,,
+07/28/2020,8,FEET,79.3,DEGREES F,,
+07/28/2020,9,FEET,79.1,DEGREES F,,
+07/28/2020,10,FEET,77.7,DEGREES F,,
+07/28/2020,11,FEET,77.3,DEGREES F,,
+07/28/2020,12,FEET,75.9,DEGREES F,,
+08/14/2020,1,FEET,82.7,DEGREES F,,
+08/14/2020,2,FEET,80.6,DEGREES F,,
+08/14/2020,3,FEET,79.1,DEGREES F,,
+08/14/2020,4,FEET,78.2,DEGREES F,,
+08/14/2020,5,FEET,77.7,DEGREES F,,
+08/14/2020,6,FEET,77,DEGREES F,,
+08/14/2020,7,FEET,76.2,DEGREES F,,
+08/14/2020,8,FEET,75.9,DEGREES F,,
+08/14/2020,9,FEET,75.3,DEGREES F,,
+08/14/2020,10,FEET,74.6,DEGREES F,,
+08/14/2020,11,FEET,74.1,DEGREES F,,
+08/14/2020,12,FEET,73.5,DEGREES F,,
+09/07/2020,1,FEET,71.9,DEGREES F,,
+09/07/2020,2,FEET,72.1,DEGREES F,,
+09/07/2020,3,FEET,72.1,DEGREES F,,
+09/07/2020,4,FEET,71.9,DEGREES F,,
+09/07/2020,5,FEET,71.9,DEGREES F,,
+09/07/2020,6,FEET,71.9,DEGREES F,,
+09/07/2020,7,FEET,71.9,DEGREES F,,
+09/07/2020,8,FEET,71.9,DEGREES F,,
+09/07/2020,9,FEET,71.7,DEGREES F,,
+09/07/2020,10,FEET,71.7,DEGREES F,,
+09/07/2020,11,FEET,71.7,DEGREES F,,
+09/07/2020,12,FEET,71.6,DEGREES F,,
+10/06/2020,1,FEET,56.8,DEGREES F,,
+10/06/2020,2,FEET,56.6,DEGREES F,,
+10/06/2020,3,FEET,56.6,DEGREES F,,
+10/06/2020,4,FEET,56.6,DEGREES F,,
+10/06/2020,5,FEET,56.6,DEGREES F,,
+10/06/2020,6,FEET,56.6,DEGREES F,,
+10/06/2020,7,FEET,56.6,DEGREES F,,
+10/06/2020,8,FEET,56.6,DEGREES F,,
+10/06/2020,9,FEET,56.6,DEGREES F,,
+10/06/2020,10,FEET,56.6,DEGREES F,,
+10/06/2020,11,FEET,56.6,DEGREES F,,
+10/06/2020,12,FEET,57.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/30/2011,Samples analyzed at Madison-Dane County Health Department Lab.
+08/01/2011,Samples analyzed at Madison-Dane County Health Department Lab.
+06/03/2016,Water is 9.0 feet deep.  Partly cloudy- southerly breeze- saw 6 turtles- some small fish- slight flow of water Rice Lake into Sweet Lake.  
+07/09/2016,Water is 9.25 feet deep.  Clear- calm- slight southerly breeze- 4 turtles on west bank.  
+08/09/2016,Water is 9.25 feet deep.  Partly cloudy- southerly breeze- saw 2 Great Blue Herons- 8 turtles on west bank.  
+09/09/2016,Water is 9.5 feet deep and was able to paddle and pole from Sweet Lake to Rice Lake without portage.  
+05/29/2017,Easy to launch with 11 feet- 2 inches depth at deep hole.  Several cars in lot- canoes- row boats- fishermen- windy with pat sun.  
+06/27/2017,Parking lot about half flooded with water depth of 11 feet- 6 inches at deep hole.  Sunny- slight breeze- saw eagle- osprey- heron- hawk.  
+07/18/2017,Parking lot still partially flooded- with water depth 11.5 feet at deep hole.  sunny- sleigh breeze.  
+08/29/2017,Parking lot still flooded with water depth 12.0 feet at deep hole.  Partly cloudy- calm- good depth readings.  
+09/14/2017,Parking lot still flooded with 12.0 feet water depth at deep hole.  One other kayaker in lake- calm- sunny- particles of algae- not strings like in Koshkonong.
+05/22/2018,Most of parking lot is under water.  Depth to bottom is 12 feet compared to 9 feet when I started measuring in 2016.  Partly cloudy- calm.  
+06/14/2018,Cloudy- slight breeze from the south.  Depth to bottom is 12.25 feet.
+07/26/2018,North west breeze- choppy. Depth to bottom is 13 feet.  Did chemistry sample for Phosphorus- chlorophyll- and atrazine at my cost of $87.00
+Results are:  P = 0.110 mg/L  Chlorophyll A = 76.1 ug/L   Atrazine = 2.6 ppb 
+08/03/2018,Calm- sunny- slight southerly breeze.  Particulate algae in water- nothing floating on water.  Saw 8 turtles- 2 herons- 1 osprey.  Depth is 13.0 feet.  
+08/25/2018,Calm- partly sunny.  Small amount of duckweed floating- some particulate algae.  Depth is 13.0 feet.  Paddled to the  north end of Rice Lake and noticed a dam made of straw bales at GPS 42/54/17 N; 89/01/49 W.    
+09/14/2018,Lots of small algae- some clumps.  Depth is 11.5 feet.  Straw bale dam at north end of lake had broken on the  left (west) side and a soybean field on the north side of the dam was now flooded.  A pond had formed on the north side of the dam and water was running through a culvert under Craig Road forming another pond north of the road.  I reported the broken dam to Friends of Silverwood Park and they indicated later that this was a matter for the DNR- who I assumed they had contacted.      
+09/20/2018,Very little algae.  Depth is 12.5 feet.  Water continues to flow north through the Craig Road Culvert.  There has been 2.2" rain since 9/14/18 when the lake was 1 foot shallower.  
+10/03/2018,Depth is 13 feet.  Strong flow north under Craig Road.  Rainfall in last week was 4.5"  measured at the Lake Koshkonong USGS gage.  The Silverwood parking lot at State Highway 106 is flooded to the point of only one vehicle able to park on dry ground and Highway 106 is nearly under water.  I wonder how much higher the water can go before it finds an outlet?  Is the pond north of Craig Road able to freely drain into Koshkonong Creek nearby- or are there blockages- natural or manmade- that impede this flow?  Is this a question for the DNR- the township- the state highway department- or all of the above?  
+05/31/2019,Sunny- steady wind from south- depth = 12.75'- pelicans. 
+06/07/2019,noticeable 1/8" algae rods. 3 fishermen in boat on west shore.  depth = 13'.  
+07/01/2019,sunny- westerly breeze- warm and muggy- depth = 13'
+08/04/2019,partly cloudy- calm. depth = 13'. 
+08/21/2019,cloudy- NW b breeze- very little algae in water
+06/17/2020,Depth is 13.25'. An earthen berm was observed on the north end preventing drainage from the lake.  This was reported to Silverwood Park and ultimately Dane County Parks intervened and the berm was breached so that water could again drain out of the lake.   
+07/12/2020,depth is 12.5'. sunny- breeze from north.  Berm has been opened- strong flow out of lake.  Thermometer not working.  
+07/28/2020,Water depth 12.0 feet- slow flow through opened berm at north end.  
+08/14/2020,Depth is 12.25'.  Sunny- slight breeze from south.  Saw 6 turtles in Sweet Lake.  
+09/07/2020,Depth is 12'.  Cloudy- cool- breeze from north.  
+09/19/2020,Depth is 12.5'.  Sunny- cool.  Saw 28 turtles on one log in SW corner of Rice Lake.  
+10/06/2020,Depth = 12'. Sunny- slight breeze from SW.  Saw about 30a turtles in SW bay if Rice Lake.  
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/2011,Pete Jopke,DANE COUNTY: Survey of Rice Lake
+08/01/2011,Pete Jopke,DANE COUNTY: Survey of Rice Lake
+06/03/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+07/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+09/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+05/29/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+06/27/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+07/18/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/29/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+09/14/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+05/22/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+06/14/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+07/26/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/03/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/25/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+09/14/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+09/20/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+10/03/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+05/31/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+06/07/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+07/01/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/04/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/21/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/27/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+06/17/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+07/12/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+07/28/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+08/14/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+09/07/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+09/19/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 
+10/06/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Rice Lake - Deep Hole 

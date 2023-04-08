@@ -1,0 +1,796 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Hallie- Lake Hallie 2,Chippewa,2150200,WC,9,,093115,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/14/1991,,,,5,31,,55,47,,,,,
+1,06/24/1991,8.2,,2.5,10,30,47,54,52,,,,,
+1,07/30/1991,8.5,,2.6,9,30,46,54,51,,,,,
+1,08/26/1991,8.5,,2.6,7,20,46,51,50,,,,,
+8190706,04/28/1995,4.75,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,05/11/1995,7.5,NO,2.3,,,48,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,05/18/1995,8.25,NO,2.5,,,47,,,,,,GREEN,1-Beautiful, could not be nicer
+8190706,05/25/1995,8.25,NO,2.5,,,47,,,,,,GREEN,1-Beautiful, could not be nicer
+8190706,06/01/1995,8.25,NO,2.5,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/08/1995,8,NO,2.4,,,47,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/15/1995,5.75,NO,1.7,,,52,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,06/22/1995,8.25,NO,2.5,,,47,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,06/29/1995,8.25,NO,2.5,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,07/07/1995,3.5,NO,1.1,,,59,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,07/13/1995,3.75,NO,1.1,,,58,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/20/1995,3.75,NO,1.1,,,58,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/27/1995,2.25,NO,0.7,,,65,,,,,,GREENISH TAN,4-Would not swim but boating OK (algae)
+8190706,08/03/1995,1.5,NO,0.5,,,71,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/08/1995,3.25,NO,1,,,60,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,08/17/1995,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,08/31/1995,5.25,NO,1.6,,,53,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,09/08/1995,5.5,NO,1.7,,,53,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/14/1995,7,NO,2.1,,,49,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190706,09/21/1995,8.25,NO,2.5,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,10/04/1995,8.25,NO,2.5,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,10/16/1995,8.25,NO,2.5,,,47,,,,,,GREEN,1-Beautiful, could not be nicer
+8190706,10/30/1995,8.25,NO,2.5,,,47,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190706,04/27/1996,7.75,NO,2.4,,,48,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,05/11/1996,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,05/26/1996,11.75,NO,3.6,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,06/05/1996,11.25,YES,3.4,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,06/20/1996,11.25,YES,3.4,,,42,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,06/30/1996,11.25,YES,3.4,,,42,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/08/1996,11.25,YES,3.4,,,42,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/16/1996,11,YES,3.3,,,43,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/02/1996,10.5,NO,3.2,,,43,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190706,08/23/1996,11,NO,3.3,,,43,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190706,09/15/1996,11,NO,3.3,,,43,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,05/04/1997,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,05/13/1997,11.25,NO,3.4,,,42,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,05/30/1997,11,NO,3.3,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8190706,06/12/1997,9.75,NO,3,,,44,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/23/1997,4.5,NO,1.4,,,55,,,APPROXIMATELY 6 INCHES DOWN DUE TO DAM REPAIR WORK,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/06/1997,2.75,NO,0.8,,,63,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/17/1997,5.5,NO,1.7,,,53,,,DOWN 8 INCHES DUE TO DAM REPAIR.,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/08/1997,5.25,NO,1.6,,,53,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/18/1997,8.5,NO,2.6,,,46,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/21/1997,11,YES,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,04/21/1998,6.75,NO,2.1,,,50,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,05/05/1998,11,YES,3.3,,,43,,,NO CHANGE,,,GREEN,2-Very minor aesthetic problems
+8190706,05/19/1998,9.5,NO,2.9,,,45,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,06/05/1998,9.25,NO,2.8,,,45,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/21/1998,9.75,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/29/1998,9.25,NO,2.8,,,45,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/16/1998,7.5,NO,2.3,,,48,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/29/1998,7.25,NO,2.2,,,49,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/28/1998,8.25,NO,2.5,,,47,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,09/12/1998,10.5,YES,3.2,,,43,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,04/14/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,05/13/1999,6.5,NO,2,,,50,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,05/26/1999,8.75,NO,2.7,,,46,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/13/1999,8.75,NO,2.7,,,46,,,NO CHANGE,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,06/29/1999,9,NO,2.7,,,45,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,07/14/1999,9.75,NO,3,,,44,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,07/25/1999,11,YES,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/10/1999,11,YES,3.3,,,43,,,,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,09/03/1999,10.25,NO,3.1,,,44,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/24/1999,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190706,10/08/1999,11,YES,3.3,,,43,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+1,02/14/2000,,,,,113,,63,,,,,,
+8190706,05/06/2000,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,05/19/2000,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/11/2000,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/03/2000,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/27/2000,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/12/2000,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,08/28/2000,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,09/13/2000,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/29/2000,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,10/17/2000,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,05/13/2001,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190706,06/20/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/28/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/14/2001,10.75,YES,3.3,,,43,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8190706,07/31/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/17/2001,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/31/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/21/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,10/02/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,10/19/2001,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190706,06/15/2002,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/01/2002,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/15/2002,7.75,NO,2.4,,,48,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8190706,08/02/2002,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,08/19/2002,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,09/03/2002,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/23/2002,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,05/26/2003,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190706,06/19/2003,9.75,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190706,06/27/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190706,07/13/2003,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000104,07/23/2003,8.5,YES,2.6,,,46,,,,,,,
+8190706,07/29/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+7000104,08/21/2003,6.6,YES,2,,,50,,,,,,,
+7000104,09/04/2003,5.6,YES,1.7,,,52,,,,,,,
+8190706,09/04/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,09/30/2003,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,06/03/2004,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,06/13/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/10/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/30/2004,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,08/03/2004,6.9,YES,2.1,,,49,,,,,,,
+8190706,08/17/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,08/30/2004,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,09/15/2004,8.2,YES,2.5,,,47,,,,,,,
+8190706,09/26/2004,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/10/2005,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,06/22/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/19/2005,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+7000001,07/27/2005,8.9,YES,2.7,,,46,,,,,,,
+8190706,08/10/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+7000001,08/15/2005,8.9,YES,2.7,,,46,,,,,,,
+8190706,08/21/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+7000001,09/12/2005,10.7,YES,3.25,,,43,,,,,,,
+8190706,09/18/2005,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,10/09/2005,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,04/24/2006,3.3,,1,,,60,,,,,,,
+8190706,04/27/2006,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/27/2006,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/12/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,07/20/2006,6.1,YES,1.85,,,51,,,,,,,
+8190706,07/28/2006,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,08/05/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,08/15/2006,8.2,YES,2.5,,,47,,,,,,,
+8190706,08/29/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,09/06/2006,6.9,YES,2.1,,,49,,,,,,,
+8190706,09/13/2006,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,10/06/2006,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000001,04/25/2007,4.1,NO,1.25,,58,57,60,,,,,,
+8190706,06/09/2007,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/01/2007,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+7000001,07/09/2007,8.2,YES,2.5,8.21,55,47,59,51,,,,,
+8190706,07/17/2007,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+7000001,08/06/2007,7.5,YES,2.3,17.8,36,48,56,57,,,,,
+7000104,08/06/2007,7.5,,2.3,,,48,,,,,,,
+8190706,08/12/2007,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,09/03/2007,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000001,09/10/2007,6.2,YES,1.9,2.07,27,51,54,40,,,,,
+7000104,09/10/2007,6.2,YES,1.9,,,51,,,,,,,
+8190706,09/26/2007,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+7000001,05/01/2008,3.3,NO,1,,70,60,61,,,,,,
+8190706,06/25/2008,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/07/2008,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+7000001,07/22/2008,6.6,YES,2,1.31,43,50,57,37,,,,,
+7000104,07/22/2008,6.6,,2,,,50,,,,,,,
+8190706,07/30/2008,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+7000001,08/13/2008,7.5,YES,2.3,9.76,37,48,56,52,,,,,
+7000104,08/13/2008,8.2,YES,2.5,,,47,,,,,,,
+8190706,08/20/2008,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,09/09/2008,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000104,09/10/2008,3.3,,1,,,60,,,,,,,
+7000001,09/11/2008,8.2,YES,2.5,3.72,20,47,51,45,,,,,
+7000104,09/11/2008,8.2,YES,2.5,,,47,,,,,,,
+8190706,10/16/2008,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,06/13/2009,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/06/2009,10.45,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+7000104,07/09/2009,8.5,YES,2.6,,,46,,,,,,,
+8190706,07/31/2009,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000104,08/03/2009,7.4,YES,2.25,,,48,,,,,,,
+8190706,08/23/2009,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+7000104,09/02/2009,8,YES,2.44,,,47,,,,,,,
+20761132,04/20/2010,4.6,,1.4,,,55,,,,,,,
+29663055,04/20/2010,4.6,NO,1.4,,22,55,52,,,,,,
+8190706,05/19/2010,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,06/16/2010,9.25,NO,2.8,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190706,07/12/2010,10.25,YES,3.1,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+20761132,07/26/2010,6.4,,1.95,,,50,,,,,,,
+29663055,07/26/2010,6.6,NO,2,23.9,36,50,56,59,,,,,
+20761132,08/23/2010,,,,,,,,,,,,,
+29663055,08/23/2010,6.2,YES,1.9,5.57,21,51,52,48,,,,,
+8190706,08/25/2010,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,09/08/2010,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+20761132,09/16/2010,25.9,,7.9,,,30,,,,,,,
+29663055,09/16/2010,7.9,YES,2.4,8.3,39,47,57,51,,,,,
+10589084,04/25/2011,6.6,YES,2,,31,50,55,,,,,,
+8190706,07/06/2011,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10589084,07/25/2011,5.2,YES,1.6,18.5,34,53,55,57,,,,,
+8190706,08/03/2011,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10589084,08/22/2011,6.6,,2,3.04,20,50,51,43,,,,,
+8190706,09/05/2011,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10589084,09/12/2011,6.6,YES,2,1.83,22,50,52,39,,,,,
+10589084,03/23/2012,5.9,YES,1.8,,47,52,58,,,,,,
+8190706,06/12/2012,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190706,07/11/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+10589084,07/17/2012,5.2,YES,1.6,25.2,56,53,59,59,,,,,
+8190706,08/05/2012,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+10589084,08/14/2012,5.9,YES,1.8,7.2,20,52,51,50,,,,,
+10589084,09/11/2012,6.2,YES,1.9,7.26,31,51,55,50,,,,,
+8190706,09/13/2012,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10589084,05/15/2013,4.9,N,1.5,,63.4,54,60,,,,,,
+8190706,07/05/2013,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+10589084,07/08/2013,6.53,Y,2,5.12,27.8,50,54,47,,,,,
+10589084,08/07/2013,7.5,YES,2.3,3.31,16.4,48,50,44,,,,,
+8190706,08/13/2013,9.5,YES,2.9,,,45,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8190706,09/03/2013,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+10589084,09/03/2013,7.2,Y,2.2,3.2,19.3,49,51,44,,,,,
+8190706,09/05/2013,9.25,YES,2.8,,,45,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+10589084,05/06/2014,6,YES,1.8,,21.2,51,52,,,,CLEAR,,
+8190706,06/11/2014,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,07/10/2014,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+10589084,07/14/2014,6.6,Y,2,2.54,22.2,50,52,42,,,,,
+101850106,07/14/2014,6.5,YES,2,,,50,,,,,,,
+8190706,08/06/2014,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+10589084,08/19/2014,8.2,N,2.5,5.37,24.4,47,53,48,,,,,
+101850106,08/19/2014,8.2,YES,2.5,,,47,,,,,,,
+10589084,09/11/2014,6.6,Y,2,7.02,28,50,54,50,,,,,
+101850106,09/11/2014,6.56,YES,2,,,50,,,,,,,
+8190706,09/16/2014,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10589084,04/15/2015,9.2,Y,2.8,,34.6,45,56,,,,,,
+8190706,06/10/2015,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8190706,07/10/2015,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+10589084,07/13/2015,8.2,Y,2.5,16.3,31.5,47,55,56,,,,,
+8190706,07/22/2015,10.5,YES,3.2,,,43,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190706,08/05/2015,10.25,YES,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+10589084,08/19/2015,,,,3.57,21.7,,52,44,,,,,
+10589084,09/15/2015,,,,2.72,21.9,,52,42,,,,,
+8190706,10/07/2015,10,YES,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+141320471,07/19/2016,7.75,NO,2.4,,,48,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+141320471,09/04/2016,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+141320471,10/08/2016,11.5,YES,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+141320471,03/25/2017,6.25,NO,1.9,,,51,,,HIGH,12,MURKY,BROWN,2-Very minor aesthetic problems
+10589084,04/05/2017,,,,,57,,59,,,,,,
+141320471,07/08/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+10589084,07/11/2017,6,Y,1.8,3.61,26.5,51,54,45,,,,,
+141320471,03/31/2018,6.25,NO,1.9,,,51,,,NORMAL,12,MURKY,BROWN,2-Very minor aesthetic problems
+141320471,05/20/2018,7.5,NO,2.3,,,48,,,NORMAL,12,MURKY,BROWN,2-Very minor aesthetic problems
+141320471,07/06/2018,7.75,NO,2.4,,,48,,,NORMAL,12,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+141320471,09/15/2018,7.5,NO,2.3,,,48,,,HIGH,12,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/14/1991,,,4,C,14.9,MG/L
+06/24/1991,,,22.0,C,13.0,MG/L
+07/30/1991,,,17.0,C,11.4,MG/L
+08/26/1991,,,15.5,C,11.5,MG/L
+02/14/2000,,,4.05,C,1.35,MG/L
+07/23/2003,0,METERS,23.63,DEGREES C,14.11,MG/L
+07/23/2003,1,METERS,21.96,DEGREES C,12.44,MG/L
+07/23/2003,2,METERS,19.27,DEGREES C,14.81,MG/L
+08/21/2003,0,METERS,25,DEGREES C,12.48,MG/L
+08/21/2003,1,METERS,23.9,DEGREES C,15.19,MG/L
+08/21/2003,2,METERS,21.55,DEGREES C,19.02,MG/L
+09/04/2003,0,METERS,19.64,DEGREES C,14.26,MG/L
+09/04/2003,1.5,METERS,18.87,DEGREES C,14.92,MG/L
+08/03/2004,0,METERS,23.74,DEGREES C,14.79,MG/L
+08/03/2004,1,METERS,23.83,DEGREES C,15.53,MG/L
+09/15/2004,0,METERS,19.76,DEGREES C,9.92,MG/L
+09/15/2004,1,METERS,19.05,DEGREES C,12.62,MG/L
+09/15/2004,2,METERS,16.95,DEGREES C,13.92,MG/L
+09/15/2004,3,METERS,15.79,DEGREES C,3.51,MG/L
+07/27/2005,0,METERS,22.92,DEGREES C,12.28,MG/L
+07/27/2005,1,METERS,21.94,DEGREES C,11.98,MG/L
+07/27/2005,2,METERS,19.35,DEGREES C,14.6,MG/L
+08/15/2005,0,METERS,22.89,DEGREES C,12.48,MG/L
+08/15/2005,1,METERS,21.6,DEGREES C,10.86,MG/L
+09/12/2005,0,METERS,21.43,DEGREES C,11.9,MG/L
+09/12/2005,1,METERS,20.3,DEGREES C,12.02,MG/L
+09/12/2005,2,METERS,20.16,DEGREES C,15.73,MG/L
+09/12/2005,3,METERS,18.95,DEGREES C,9.53,MG/L
+04/24/2006,0,METERS,16.52,DEGREES C,6.88,MG/L
+04/24/2006,1,METERS,16.37,DEGREES C,7.18,MG/L
+07/20/2006,0,METERS,25.75,DEGREES C,10.13,MG/L
+07/20/2006,1,METERS,24.91,DEGREES C,13.33,MG/L
+07/20/2006,1.5,METERS,21.48,DEGREES C,15.25,MG/L
+08/15/2006,0,METERS,24.05,DEGREES C,10.85,MG/L
+08/15/2006,1,METERS,23.01,DEGREES C,12.14,MG/L
+08/15/2006,2,METERS,19.81,DEGREES C,14.07,MG/L
+09/06/2006,0,METERS,21.75,DEGREES C,12.9,MG/L
+09/06/2006,1,METERS,20,DEGREES C,15.6,MG/L
+04/25/2007,0,METERS,16.03,DEGREES C,13.94,MG/L
+04/25/2007,1,METERS,15.96,DEGREES C,14.66,MG/L
+04/25/2007,2,METERS,13.56,DEGREES C,6.6,MG/L
+04/25/2007,,,16.0,C,13.9,MG/L
+07/09/2007,0,METERS,27.19,DEGREES C,10.65,MG/L
+07/09/2007,1,METERS,26.48,DEGREES C,10.82,MG/L
+07/09/2007,2,METERS,22.53,DEGREES C,14.4,MG/L
+07/09/2007,,,27.2,C,10.7,MG/L
+08/06/2007,0,METERS,23.64,DEGREES C,10.94,MG/L
+08/06/2007,1,METERS,22.88,DEGREES C,10.13,MG/L
+08/06/2007,2,METERS,21.21,DEGREES C,7.15,MG/L
+08/06/2007,,,23.64,C,10.94,MG/L
+09/10/2007,0,METERS,20.87,DEGREES C,10.03,MG/L
+09/10/2007,1,METERS,20.8,DEGREES C,10.76,MG/L
+09/10/2007,2,METERS,20.7,DEGREES C,8.3,MG/L
+09/10/2007,,,20.9,C,10.0,MG/L
+05/01/2008,,,13.0,C,16.5,MG/L
+07/22/2008,0,METERS,25.41,DEGREES C,13.52,MG/L
+07/22/2008,1,METERS,24.84,DEGREES C,14.6,MG/L
+07/22/2008,2,METERS,21.51,DEGREES C,20.48,MG/L
+07/22/2008,,,24.8,C,14.6,MG/L
+08/13/2008,0,METERS,22.36,DEGREES C,11.77,MG/L
+08/13/2008,1,METERS,21.83,DEGREES C,12.97,MG/L
+08/13/2008,,,22.4,C,11.8,MG/L
+09/10/2008,0,METERS,12.95,DEGREES C,16.45,MG/L
+09/10/2008,1,METERS,12.54,DEGREES C,16.51,MG/L
+09/10/2008,2,METERS,11.9,DEGREES C,16.5,MG/L
+09/11/2008,0,METERS,17.18,DEGREES C,15.93,MG/L
+09/11/2008,1,METERS,17.07,DEGREES C,16.17,MG/L
+09/11/2008,2,METERS,16.73,DEGREES C,13.68,MG/L
+09/11/2008,,,17.2,C,15.9,MG/L
+07/09/2009,0,METERS,22.85,DEGREES C,11.08,MG/L
+07/09/2009,1,METERS,22.63,DEGREES C,11.42,MG/L
+07/09/2009,2,METERS,20,DEGREES C,21.55,MG/L
+08/03/2009,0,METERS,22.21,DEGREES C,15.15,MG/L
+08/03/2009,1,METERS,21.69,DEGREES C,16.66,MG/L
+08/03/2009,2,METERS,19.65,DEGREES C,16.98,MG/L
+09/02/2009,0,METERS,19.57,DEGREES C,13.6,MG/L
+09/02/2009,1,METERS,19.2,DEGREES C,13.48,MG/L
+09/02/2009,2,METERS,18.74,DEGREES C,13.72,MG/L
+04/20/2010,0,METERS,16.14,DEGREES C,25.75,MG/L
+04/20/2010,1,METERS,15.45,DEGREES C,26.06,MG/L
+04/20/2010,2,METERS,14.84,DEGREES C,25.9,MG/L
+04/20/2010,,,16.1,C,25.8,MG/L
+07/26/2010,0,METERS,26.12,DEGREES C,13.32,MG/L
+07/26/2010,1,METERS,25.43,DEGREES C,11.56,MG/L
+07/26/2010,2,METERS,20.49,DEGREES C,16.83,MG/L
+07/26/2010,,,25.4,C,11.6,MG/L
+08/23/2010,0,METERS,24.94,DEGREES C,14.44,MG/L
+08/23/2010,1,METERS,24.34,DEGREES C,18.62,MG/L
+08/23/2010,,,24.96,C,18.6,MG/L
+09/16/2010,0,METERS,17.45,DEGREES C,12.01,MG/L
+09/16/2010,1,METERS,17.35,DEGREES C,12.33,MG/L
+09/16/2010,2,METERS,16.87,DEGREES C,11.79,MG/L
+09/16/2010,,,17.45,C,12.01,MG/L
+04/25/2011,0,METERS,12.01,DEGREES C,16.01,MG/L
+04/25/2011,1,METERS,11.59,DEGREES C,16.07,MG/L
+04/25/2011,2,METERS,10.94,DEGREES C,16.68,MG/L
+04/25/2011,,,11.6,C,16.1,MG/L
+03/23/2012,0,METERS,15.84,DEGREES C,15.87,MG/L
+03/23/2012,1,METERS,14.89,DEGREES C,16.36,MG/L
+07/17/2012,0,METERS,26.46,DEGREES C,,
+07/17/2012,1,METERS,25.81,DEGREES C,,
+08/14/2012,0,METERS,21.4,DEGREES C,11.82,MG/L
+08/14/2012,1,METERS,20.07,DEGREES C,11.25,MG/L
+09/11/2012,0,METERS,18.47,DEGREES C,11.49,MG/L
+09/11/2012,1,METERS,18.18,DEGREES C,11.24,MG/L
+05/15/2013,0,METERS,15.57,DEGREES C,14.34,MG/L
+05/15/2013,1,METERS,15.43,DEGREES C,14.4,MG/L
+07/08/2013,0,METERS,24.9,DEGREES C,13.9,MG/L
+07/08/2013,1,METERS,24.2,DEGREES C,15.04,MG/L
+07/08/2013,,,24.9,C,13.9,MG/L
+08/07/2013,,,20.5,C,12.9,MG/L
+09/03/2013,0,METERS,21.01,DEGREES C,10.86,MG/L
+09/03/2013,1,METERS,20.7,DEGREES C,11.07,MG/L
+09/03/2013,2,METERS,19.27,DEGREES C,11.1,MG/L
+05/06/2014,0,METERS,13.15,DEGREES C,16.86,MG/L
+05/06/2014,1,METERS,13.14,DEGREES C,16.96,MG/L
+07/14/2014,0,METERS,21.64,DEGREES C,13.89,MG/L
+07/14/2014,1,METERS,21.62,DEGREES C,13.83,MG/L
+07/14/2014,,,21.6,C,13.9,MG/L
+08/19/2014,0,METERS,21.43,DEGREES C,10.71,MG/L
+08/19/2014,1,METERS,21.3,DEGREES C,11.52,MG/L
+08/19/2014,,,21.4,C,10.7,MG/L
+09/11/2014,0,METERS,15.73,DEGREES C,10.98,MG/L
+09/11/2014,1,METERS,15.54,DEGREES C,10.95,MG/L
+09/11/2014,,,15.7,C,10.9,MG/L
+07/11/2017,,,23.7,C,13.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/30/1991,SUMMER SAMPLING    
+08/26/1991,SUMMER SAMPLING    
+04/28/1995,West wind 5-10 mph- partly sunny- 62 degrees.  40+ buffleheads still on lake.    
+05/11/1995,Wind NW 6-12- partly sunny- 68 degrees.    
+05/18/1995,Bottom visible from point east to east shore this deepest spot (map wrong) 9.5' south of point can see bottom.  Floating algae collecting on calm shore line.  Sunny 68 degrees- variable light wind.  Took readings both south and east from p    
+05/25/1995,Sunny- south wind 15 mph- 58 degrees.    
+06/01/1995,Cloudy- light wind- 64 degrees- floating algae now covering close to 1/4 of the lake.    
+06/08/1995,Cloudy- wind NW 10 mph- 60 degrees.  Floating algae along south shore.  Green slimy algae on weeds by the islands.  Floating algae also being held by weeds on part of east side.    
+06/15/1995,Sunny- SE to E variable wind.  Slimy green algae turning brown on weeds.  Floating algae covered 1/2 lake before winds came.  Four pair geese have 31 gosling on lake this year.    
+06/22/1995,Sunny- south wind 5-10- 89 degrees.  75% floating algae on lake until wind came up-then about 40% coverage.  Weeds worse than ever this year.    
+06/29/1995,Overcast- light SW winds- 78 degrees.  Duckwort mixed with floating algae on 10% of lake.    
+07/07/1995,Partly cloudy- variable light wind- 72 degrees- no floating algae due to break-up from rain + strong winds yesterday.  Kids swimming by boat landing.    
+07/13/1995,Sunny- wind calm to light- 86 degrees- floating algae along most of the shore 5 to 20'.    
+07/20/1995,Partly sunny- light south wind- 68 degrees- floating algae broken up and being pushed to north shore of lake- effecting about 1/3 of the lake.    
+07/27/1995,Cloudy- south wind 10-15 mph- 74 degrees- very little floating algae.  Long time residents say water clarity worst they have seen on lake.  Bald eagle fishing + caught bass today.    
+08/03/1995,82 degrees- partly cloudy- light south wind.    
+08/08/1995,82 degrees- partly sunny- south wind 10 mph- 3" of rain this week.    
+08/17/1995,Partly sunny- 76 degrees- light south wind.  Disc shows clear/blue first 1.75' then begins to show green.    
+08/31/1995,Sunny- 74 degrees- NW wind 10-15 mph- floating algae covered lake before wind-now in big chunks below surface.  Eagle still here.    
+09/08/1995,60 degrees- sunny- NW light wind- small clumps of floating algae.  2 mature eagles on lake today.    
+09/14/1995,58 degrees- partly sunny- northwest-southwest variable wind-floating algae on most of lake-boat landing closed in by algae-no boats on lake except me.    
+09/21/1995,52 degrees- mostly cloudy- calm to light north wind-some floating algae-pushed up along south shore.    
+10/04/1995,14:00 partly cloudy- light south wind.  Bottom can be seen without secchi disc.  Floating algae on north side of lake.    
+10/16/1995,Sunny- light south wind- 58 degrees.  Over 100 Canada geese on lake today.    
+10/30/1995,Partly sunny- west wind- 40 degrees- took boat out- two eagles fishing this week.  Lake produced 31 geese- 14 mallard and 4 wood duck.  Snapping turtles took many small mallards this year.    
+04/27/1996,Sunny- 52 degrees- NW wind 10-20 mph. 29 cormorants killing trout- 2 osprey- 1 bald eagle on lake also.    
+05/11/1996,50 degrees- wind variable 0-15 mph- partly sunny.    
+05/26/1996,62 degrees- wind east 5-10- reading taken at dam.    
+06/05/1996,Partly sunny- east wind.  56 degrees- floating algae on north end of lake and along part of eastern shore.    
+06/20/1996,75 degrees- W wind @ 10 mph.  Heavy slim algae weed growth all over lake.  Floating algae from island north- west + south shores covered with floating algae.    
+06/30/1996,86 degrees- sunny- light variable wind floating algae 80% weeds high almost to the surface even in deep water.    
+07/08/1996,68 degrees- partly cloudy- SW wind 10-15 mph- very weedy- few fishermen because of weeds.  Floating algae east shore of and from island north.    
+07/16/1996,88 degrees- SE wind light and weed choking off island and very thick west of point.    
+08/02/1996,Public perception due to weed level.  Weeds choke out outboard motors. weeds hide disc in deeper water- 80 degrees- sunny- light variable wind- floating algae on east half of the lake.    
+08/23/1996,82 degrees- sunny- no wind- floating algae covering most of lake.    
+09/15/1996,Public perception due to weeds. partly cloudy- 64 degrees- light N wind- weeds are recording + dropping to the bottom.    
+05/04/1997,62 degrees and sunny.  South wind 5-10 mph.    
+05/13/1997,44 degrees and partly sunny.  Light variable wind.    
+05/30/1997,68 degrees.  Partly sunny.  Light wind to calm.  Algae beginning to float on the top.    
+06/12/1997,80 degrees and light wind from northwest.  Floating algae on 50 % of east end of lake.    
+06/23/1997,84 degrees.  Partly cloudy.  South wind 10-15 mph.  Floating algae all broke up.    
+07/06/1997,Partly cloudy.  58 degrees- wind north at 8-10 mph.    
+07/17/1997,88 degrees.  WSW  wind 0-5 mph.  Floating algae in small clumps all over the lake.    
+08/08/1997,76 degrees NW light wind.  Pea soup green algae coming from the west side of the island on 18 and 29 of July.    
+08/18/1997,66 degrees.  Partly sunny.  Light east wind.  Floating algae on 1/4 of the lake.    
+09/21/1997,62 degrees- partly cloudy- wind southeast at 5 mph- sample taken by the dam.    
+04/21/1998,66 degrees- partly cloudy- light NW wind.    
+05/05/1998,76 degrees- partly cloudy- light SW wind.    
+05/19/1998,83 degrees- sunny.  Light W wind. weeds very thick and to surface.    
+06/05/1998,58 degrees- partly sunny and very windy.  W wind 10 to 15 mph.    
+06/21/1998,76 degrees- SW wind 10-15 mph.  Wind has knocked down some of the weeds.    
+06/29/1998,78 degrees- NW wind at 5-8 mph. Partly sunny.    
+07/16/1998,82 degrees. NW wind- partly sunny.  Eagle fishing.    
+07/29/1998,79 degrees. SW wind 5-10 mph- partly cloudy.  Osprey fishing.    
+08/28/1998,74 degrees- partly cloudy- light west wind.    
+09/12/1998,82 degrees- sunny- light NW wind. Weed mat will not allow disc to hit the bottom.    
+04/14/1999,Partly sunny- light NW wind- 64 F    
+05/13/1999,Partly sunny- NW wind 10 mph- 62 F    
+05/26/1999,Curly leaves hit surface on 1/2 of lake-catching floating algae. Sunny. 68 F. Light NW wind.    
+06/13/1999,Partly sunny. W wind 5-10 mph. 78 F. All west side of lake covered with floating algae.    
+06/29/1999,Partly sunny. W wind 5-10 mph. 68 F. Floating algae in spots where weeds are surface level.    
+07/14/1999,Partly sunny. South wind approximately 10 mph. 78 F    
+07/25/1999,Partly cloudy- 90 F- light east wind- east end of lake 90% covered with floating algae.    
+08/10/1999,Partly sunny- 70 F- west wind light- floating algae east end of lake.    
+09/03/1999,Partly cloudy. 88 F. Southeast wind 10 mph. Algae on northside of lake + boat landing.    
+09/24/1999,68 F. Partly cloudy. SW wind 5-10 mph. Floating algae covering boat landing + along shore on S + E end of lake.    
+10/08/1999,Partly cloudy. Light SW wind.    
+05/06/2000,76 degrees- south wind at 12-20 mph- and partly cloudy.    
+05/19/2000,Partly cloudy and southwest wind at 10-15 mph.    
+06/11/2000,78 degrees- northwest wind at 5-10 mph- partly cloudy- and floating algae on 70% of east part of lake.    
+07/03/2000,Partly cloudy- southeast wind at 5-10 mph- and floating algae on 50% of lake.    
+07/27/2000,Northwest wind at 8 mph- partly cloudy- and floating  algae on 80% of the east part of lake.    
+08/12/2000,Southeast wind at 8-15 mph- 74 degrees- partly sunny- and floating algae bunched up on deepest part of lake.    
+08/28/2000,South wind at 10-15 mph- 72 degrees- hazy- and floating algae covering deepest part of lake.    
+09/13/2000,Partly cloudy- 62 degrees- and southwest wind at 10 mph.    
+09/29/2000,Partly sunny- light variable winds- and floating algae at north end of lake.    
+10/17/2000,Partly cloudy.    
+05/13/2001,78 F- SW wind 15 to 20 mph- partly cloudy.  Only trace of floating filamentous algae.    
+06/20/2001,73 F- NW wind 10 to 20 mph.  Partly cloudy.  Filamentous algae on 1/5 of lake.    
+06/28/2001,80 degrees F.  SE wind- 5 to 10 mph.  Hazy.  Filamentous algae on and around most shores.    
+07/14/2001,78 F- light southwest winds- sunny.  Floating filamentous algae over 60% of lake.    
+07/31/2001,91 F- 10 to 15 mph south wind. Partly cloudy.  Floating filamentous algae along north shores.    
+08/17/2001,58 F- SW wind 5 mph.  Sunny.  Floating algae over entire north end.    
+08/31/2001,66 F- N wind 5 to 10 mph- partly cloudy.  Algae in patches on lake.    
+09/21/2001,68 F- SW wind 5 to 10 mph.  Partly cloudy.  Floating algae on north end.    
+10/02/2001,72 F- light south wind.  Partly cloudy.  Floating algae on 75% of lake.    
+10/19/2001,56 F- SW wind 10 to 15 mph.  Partly sunny.    
+06/15/2002,The temperature is 71 degrees- sun and light variable winds.    
+07/01/2002,Temperature is 78 degrees- sun and south wind 5 to 10 mph.    
+07/15/2002,Temperature is 85 degrees- sunny- light SW wind- and filamentous algae on most of the lake.    
+08/02/2002,Temperature is 71 degrees- sunny and calm.    
+08/19/2002,Temperature is 64 degrees- sunny- WNW wind at 5 mph- and filamentous algae on most of lake.    
+09/03/2002,Temperature is 79 degrees- sunny- SW wind at 15 to 20 mph.    
+09/23/2002,Temperature is 62 degrees- partly cloudy- SW wind at 10 to 15 mph.    
+05/26/2003,72 F- 10 mph NE wind.  Mostly sunny.    
+06/27/2003,64 F- wind calm.  Mostly cloudy.    
+07/13/2003,79 F.  10 to 15 mph SW wind.  Partly cloudy.  North end lake 40% filamentous algae and duck wort.    
+07/29/2003,72 F- 5 mph variable wind.  Partly cloudy.  Filamentous algae rising on entire lake.    
+09/04/2003,5 to 10 mph NW wind.  Partly sunny. 68 F. West lake clean- north filamentous algae 40% coverage.    
+09/30/2003,38 F- calm wind.  Partly cloudy.    
+06/03/2004,sunny- light north wind- 71F- some bluegill winter kill along shore    
+06/13/2004,partly sunny- calm to light wind S- 76F    
+07/10/2004,sunny- calm- 66F- fil. algae build up on east part of lake    
+07/30/2004,clear calm- 69F- fil. algae on 70% of east end of lake    
+08/17/2004,west wind- 15mph- 66F partly sunny- fil. algae on half east part of lake.    
+08/30/2004,partly cloudy- light south west wind- 74F- fil. algae on 60% of east part of lake    
+09/26/2004,sunny south wind- 10 mph- 68F- fil. algae on 40% east part of lake    
+06/22/2005,Sunny- SW wind 15 mph.  Filamentous algae 30% north part of lake.    
+07/19/2005,Sunny- 77 F.  SE wind.  Filamentous algae over most of the lkae.    
+08/10/2005,Sunny- NW wind 5-10 mph.  Filamentous algae over most of the lake.    
+08/21/2005,Partly cloudy.  75 F.  Wind NNW 15 mph.  Filamentous algae over 50% of the lake.    
+09/18/2005,Sunny- 68 F.  Calm wind.  Filamentous algae on 30% of the lake.    
+10/09/2005,Partly cloudy.  56 F.  Wind variable 5-10 mph.    
+06/27/2006,Part Shady- NW wind- 5 to 10 mph- 68F- Duckwort bloom
+07/12/2006,E wind- 10 mph- sunny- 89F- Big Duckwort Bloom
+07/28/2006,SUnny- SE wind- 5mph- 82F alfae bloom over 80% NE part of lake- SW very little algae
+08/05/2006,partly sunny- S wind- 5 to 10 mph- 85F
+08/29/2006,Partly cloudy- NNW wind- 5mph- filam. algae on 95% east end- clear west end
+09/13/2006,sunny- 49F- NNW wind 5 mph- Filam. algae on 70% east end lake clear west end
+10/06/2006,SUnny- 48F- SE wind- 10-15 mph
+06/09/2007,SW wind 20 mph.  East half of lake 90% milfoil.
+07/01/2007,SE wind 15 mph.  Sunny- fil. algae on 50% of lake.
+07/17/2007,NW wind 5 to 10 mph.  Partly cloudy.  Fil. algae still 50% of lake.
+08/12/2007,NE wind 12 mph.  Sunny.
+09/03/2007,SEw ind 5 to 10 mph.  88F  Partly cloudy.  Patches of algae on east side of lake.
+09/26/2007,SW wind 5 mph.  Partly sunny.  58 F.
+06/25/2008,Partly sunny- wind SE 10-20 mph
+84 degrees
+07/07/2008,Sunny- wind SW 10-25 mph
+82 degrees
+Filamentous algae on 70% of east end of lake
+07/30/2008,Sunny wind WNW  15 mph 
+78 degrees
+Filamentous algae completely covering north part of lake
+08/20/2008,Sunny light SE wind
+Filamentous algae covering landing and north part of lake
+
+09/09/2008,Sunny light SW wind
+Filamentous algae covering north end of lake
+10/16/2008,Sunny light to no wind
+54 degrees
+06/13/2009,Partly cloudy- calm- 58 F.  Filamentous algae on 40% east part of lake.
+07/06/2009,Partly cloudy- 77 F.  NW wind 5 to 10 mph.  Filamentous algae whole east end.
+07/31/2009,Partly cloudy- 72 F.  SW wind 10 to 15 mph.  Filamentous algae covering north end of lake.
+08/23/2009,68 F.  Light south wind.  Filamentous algae covering 2/3 north east end lake.
+07/06/2011,Fil. algae and muc milfoil  on East end of lake Fil. algae and much milfoil  on East end of lake
+08/03/2011,Fil. alga on much of east end of lake. Sunny- 72 degrees. N. wind 5-10 mph
+09/05/2011,Sunny- 58 degrees- calm wind. Still fil. algae 60% of east part of lake
+06/12/2012,62 degrees- west wind 10 -20 mph- partly sunny
+07/11/2012,84 degrees- light wond- sunny- film. algae on whole lake
+08/05/2012,77 degres- partly cloudy- film. algae on most of east end of lake
+09/13/2012,62 degrees- 10 - 20 mph southern wind-  patchy film. algae - broken up by wind
+07/05/2013,Film- algae approx 30%. East part of lake 78 f. South Wind 10 to 20 mph.
+08/13/2013,Film- algae on whole east end. 62 f- N/W wind 5 to 10 mph. Partly cloudy.
+09/03/2013,Film- algae on all east end of lake. 64 f- s/w wind at 10mph
+09/05/2013,58 f wind calm partly sunny
+06/11/2014,Sunny 74F- S/E wind 5 to 10 MPH- fil. algae beginning to rise
+07/10/2014,Sunny 76F- N/W wind 10 to 15 MPH. Fil. algae on 3/4 east end of lake
+08/06/2014,81F Wind light- variable. Film. algae 75% east part of lake
+09/16/2014,60F- wind S/SW variable. Fil. algae broke up in patches
+06/10/2015,76F- light wind-  filamentous algae on 80% of E side of lake
+07/10/2015,72F- SSW wind 5-10 mph; SW Lake clean- E side 30% f. algae
+07/22/2015,76F- light SW wind- fil. algae on E side of lake
+08/05/2015,78F S Wind 10-15mph- algae along E shore
+10/07/2015,62F- light variable wind- light algae on E shore
+07/19/2016,83? Partly sunny. Algae along N shoreline. S wind- 5-10mph
+09/04/2016,86? Sunny. Algae along NW shoreline
+10/08/2016,79? Sunny. No visable algae. No wind.
+03/25/2017,58% Sunny Ice Off measurement.
+03/31/2018,58? Sunny. Ice off measurement.
+05/20/2018,64? Sunny 
+07/06/2018,80? Sunny.  Algea on surface
+
+
+
+
+Start Date,Group Name,Project Name
+03/14/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/24/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/30/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/26/1991,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/28/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/11/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/18/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/25/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/01/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/08/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/15/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/22/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/29/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/07/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/13/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/20/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/27/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/03/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/08/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/17/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/31/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/08/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/14/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/21/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/04/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/16/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/30/1995,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/27/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/11/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/26/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/05/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/20/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/30/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/08/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/16/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/02/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/23/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/15/1996,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/04/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/13/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/30/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/12/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/23/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/06/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/17/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/08/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/18/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/21/1997,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/21/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/05/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/19/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/05/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/21/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/29/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/16/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/29/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/28/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/12/1998,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/14/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/13/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/26/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/13/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/29/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/14/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/25/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/10/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/03/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/24/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/08/1999,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+02/14/2000,Data Collectors,RESPONSE MONITORING
+05/06/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/19/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/11/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/03/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/27/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/12/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/28/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/13/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/29/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/17/2000,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/13/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/20/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/28/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/14/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/31/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/17/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/31/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/21/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/02/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/19/2001,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/15/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/01/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/15/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/02/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/19/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/03/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/23/2002,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/26/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/19/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/27/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/13/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/23/2003,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+07/29/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/21/2003,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+09/04/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/04/2003,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+09/30/2003,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/03/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/13/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/10/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/30/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/03/2004,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/17/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/30/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/15/2004,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/26/2004,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/10/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/22/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/19/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/27/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/10/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/15/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/21/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/12/2005,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/18/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/09/2005,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/24/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+04/27/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/27/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/12/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/20/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+07/28/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/05/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/15/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/29/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/06/2006,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/13/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/06/2006,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/25/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+06/09/2007,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/01/2007,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/09/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+07/17/2007,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/06/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/06/2007,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/12/2007,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/03/2007,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/10/2007,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/10/2007,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+09/26/2007,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/01/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+06/25/2008,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/07/2008,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/22/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+07/22/2008,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+07/30/2008,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/13/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+08/13/2008,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/20/2008,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/09/2008,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/10/2008,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2008,Amy Lesik,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2008,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+10/16/2008,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/13/2009,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/06/2009,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/09/2009,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+07/31/2009,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/03/2009,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+08/23/2009,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/02/2009,PATRICK SORGE,Lakes Long Term Trend Monitoring (1986-present)
+04/20/2010,Buzz Sorge and Neil Trombly,Lakes Long Term Trend Monitoring (1986-present)
+04/20/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+05/19/2010,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+06/16/2010,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/12/2010,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/26/2010,Buzz Sorge and Neil Trombly,Lakes Long Term Trend Monitoring (1986-present)
+07/26/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+08/23/2010,Buzz Sorge and Neil Trombly,Lakes Long Term Trend Monitoring (1986-present)
+08/23/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+08/25/2010,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/08/2010,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/16/2010,Buzz Sorge and Neil Trombly,Lakes Long Term Trend Monitoring (1986-present)
+09/16/2010,NEIL TROMBLY,Lakes Long Term Trend Monitoring (1986-present)
+04/25/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/06/2011,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/25/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/03/2011,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/22/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/05/2011,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/12/2011,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+03/23/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+06/12/2012,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/11/2012,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/17/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/05/2012,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/14/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2012,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/13/2012,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/15/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/05/2013,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/08/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/07/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/13/2013,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/03/2013,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/03/2013,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/05/2013,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/06/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+06/11/2014,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/10/2014,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/14/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+07/14/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+08/06/2014,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/19/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+08/19/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2014,JODI A LEPSCH- JACOB D RING,Lakes Long Term Trend Monitoring (1986-present)
+09/11/2014,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/16/2014,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/15/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+06/10/2015,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/10/2015,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/13/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/22/2015,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/05/2015,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+08/19/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+09/15/2015,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+10/07/2015,George Wanserski,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/19/2016,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/04/2016,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+10/08/2016,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+03/25/2017,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+04/05/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+07/08/2017,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/11/2017,Jodi Lepsch,Lakes Long Term Trend Monitoring (1986-present)
+03/31/2018,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+05/20/2018,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+07/06/2018,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point
+09/15/2018,Pete Emery,Citizen Lake Monitoring - Water Quality - Hallie Lake; At Deepest Point

@@ -1,0 +1,56 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Helen Lake,Iowa,1242400,SC,25,,10031527,SW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/19/2010,,,,31.8,,,,61,,,,,
+99475467,07/27/2017,2,NO,0.6,36.3,82.4,66,62,62,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99475467,08/10/2017,,,,14,46.7,,58,55,,,,,
+146145687,08/10/2017,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+99475467,08/24/2017,,,,76.3,79.8,,62,68,,,,,
+146145687,08/24/2017,3.2,NO,1,,,60,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/27/2017,0,METERS,26.3,DEGREES C,11.15,MG/L
+07/27/2017,1,METERS,22.2,DEGREES C,1.72,MG/L
+07/27/2017,2,METERS,20.9,DEGREES C,3.67,MG/L
+07/27/2017,3,METERS,19.1,DEGREES C,1.83,MG/L
+07/27/2017,4,METERS,15.7,DEGREES C,.08,MG/L
+08/10/2017,0,METERS,23.3,DEGREES C,,
+08/10/2017,1,METERS,23.1,DEGREES C,,
+08/10/2017,2,METERS,21.2,DEGREES C,,
+08/10/2017,3,METERS,18.2,DEGREES C,,
+08/10/2017,4,METERS,14.4,DEGREES C,,
+08/10/2017,5,METERS,12.4,DEGREES C,,
+08/10/2017,6,METERS,11.7,DEGREES C,,
+08/24/2017,0,METERS,21.1,DEGREES C,11.47,MG/L
+08/24/2017,1,METERS,21.5,DEGREES C,11.4,MG/L
+08/24/2017,2,METERS,21,DEGREES C,5.98,MG/L
+08/24/2017,3,METERS,19.4,DEGREES C,1.71,MG/L
+08/24/2017,4,METERS,15.4,DEGREES C,,
+08/24/2017,5,METERS,12.6,DEGREES C,,
+
+
+
+Start Date,Fieldwork Comment
+07/27/2017,Collectors: Kevin Olson- Shelley Warwick
+08/24/2017,Spiny water flea sample was collected with Ekman dredge method-5 aliquots were examined.--Shelby Kail
+
+
+
+
+
+Start Date,Group Name,Project Name
+07/19/2010,Data Collectors,TROUT UNLIMITED-DRIFTLESS AREA RESTORATION: Study of LWR Floodplain lakes- Iowa Co
+07/27/2017,KEVIN OLSON,Directed Lakes 2017 Graham
+08/10/2017,KEVIN OLSON,Directed Lakes 2017 Graham
+08/10/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Directed Lakes 2017 Graham
+08/24/2017,KEVIN OLSON,Directed Lakes 2017 Graham
+08/24/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,DNR AIS Monitoring -Iowa County (Spiny Waterflea and Zebra Mussel Veliger Tows)
+08/24/2017,TAYLOR J STEAGER- KEVIN T OLSON- AMANDA S SMITH,Directed Lakes 2017 Graham

@@ -1,0 +1,491 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wilson Lake,Price,2239400,NO,51,,513137,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189336,07/23/1998,1.5,NO,0.5,,,71,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189336,07/31/1998,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189336,08/10/1998,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189336,08/18/1998,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189336,08/26/1998,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189336,09/06/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189336,09/16/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189336,09/28/1998,3.5,NO,1.1,,,59,,,NO CHANGE,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189336,10/08/1998,3.5,NO,1.1,,,59,,,NO CHANGE,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189453,06/20/1999,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189453,07/04/1999,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189453,07/25/1999,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189453,08/25/1999,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189001,09/06/1999,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189453,09/06/1999,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189453,10/02/1999,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189001,10/06/1999,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+7000017,04/26/2000,6.1,,1.9,,30,51,54,,,,,,
+8189453,05/21/2000,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+7000017,06/12/2000,4.7,,1.4,11,37,55,56,53,,,,,
+8189001,06/18/2000,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189453,06/18/2000,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,07/04/2000,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189001,07/14/2000,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000017,07/17/2000,2.6,,0.8,29,88,63,63,60,,,,,
+8189453,07/23/2000,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+7000017,08/10/2000,2.6,,0.8,,74,63,61,,,,,,
+8189001,08/20/2000,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189453,09/04/2000,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,09/23/2000,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189453,10/08/2000,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189453,05/20/2001,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189453,06/03/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,06/09/2001,4,NO,1.2,7,39,57,57,50,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,06/22/2001,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189453,06/23/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189453,07/06/2001,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,07/07/2001,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189001,07/15/2001,2,NO,0.6,29,55,67,59,60,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189453,07/28/2001,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+8189001,08/09/2001,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189001,08/13/2001,2,NO,0.6,53,91,67,63,65,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189453,08/26/2001,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189001,09/16/2001,3.5,NO,1.1,25,62,59,60,59,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189453,09/30/2001,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,10/11/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,10/14/2001,6,NO,1.8,3.3,44,51,57,44,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,05/21/2002,4,NO,1.2,,36,57,56,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189453,06/01/2002,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,06/16/2002,4,NO,1.2,,47,57,58,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,07/07/2002,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189001,07/27/2002,3,NO,0.9,29.4,71,61,61,60,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000017,08/13/2002,3,NO,0.9,33.3,,61,,61,,,,,
+8189001,08/23/2002,3.5,NO,1.1,30.9,58,59,60,61,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189001,10/20/2002,3.5,NO,1.1,12.4,47,59,58,54,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,05/18/2003,3.25,NO,1,,33,60,55,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189001,07/22/2003,2,NO,0.6,41.5,85,67,63,63,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189001,08/17/2003,3,NO,0.9,36.7,63,61,60,62,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189001,09/20/2003,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189001,10/31/2003,5,NO,1.5,12.5,34,54,55,54,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,05/22/2004,4.5,NO,1.4,,33,55,55,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,06/20/2004,3,NO,0.9,19.5,54,61,59,57,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,07/31/2004,3,NO,0.9,32.4,50,61,58,61,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189001,08/22/2004,3.5,NO,1.1,18.7,50,59,58,57,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189001,09/19/2004,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189001,10/25/2004,3.5,NO,1.1,19.8,37,59,56,57,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191427,05/20/2005,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/21/2005,,,,11.3,39,,57,53,,,,,
+8191427,06/21/2005,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189001,07/24/2005,,,,44.2,93,,63,63,,,,,
+8191427,07/24/2005,2.5,NO,0.8,,,64,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189001,08/22/2005,,,,20.7,69,,61,58,,,,,
+8191427,08/22/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191427,09/20/2005,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189001,10/16/2005,,,,23.2,53,,59,59,,,,,
+8191427,10/16/2005,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191427,05/14/2006,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191427,05/21/2006,,,,,52,,59,,,,,,
+8191427,06/18/2006,3,NO,0.9,14.2,58,61,60,55,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191427,07/15/2006,3,NO,0.9,20.4,59,61,60,58,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191427,08/13/2006,3,NO,0.9,19.5,55,61,59,57,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191427,09/20/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191427,10/14/2006,3.75,NO,1.1,14.8,37,58,56,55,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189001,04/29/2007,4,NO,1.2,,34,57,55,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,06/24/2007,3.5,NO,1.1,9.66,48,59,58,52,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,07/23/2007,4,NO,1.2,14.9,37,57,56,55,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189001,09/01/2007,4.5,NO,1.4,10.4,35,55,56,53,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,05/01/2008,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189001,05/04/2008,,,,,43,,57,,,,,,
+8189001,07/06/2008,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191427,07/06/2008,,,,12.4,67,,61,54,,,,,
+8189001,08/04/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191427,08/04/2008,,,,25.5,60,,60,59,,,,,
+8189001,09/03/2008,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191427,09/03/2008,,,,22.8,46,,58,58,,,,,
+8189001,10/28/2008,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,04/30/2019,5.1,N,1.6,9.58,41,54,57,52,,,,,
+1,06/25/2019,3.6,30,1.1,14,45,59,58,55,,,,,
+1,07/23/2019,3.1,NO,0.9,30.1,49.3,61,58,61,,,,,
+1,08/29/2019,2.9,N,0.9,6.15,47.5,62,58,49,,,,,
+1,10/16/2019,4.7,NO,1.4,6.62,33.1,55,55,49,,,,,
+1,02/11/2020,3.5,N,1.1,,39.5,59,57,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/26/2000,,,16.0,C,11.1,MG/L
+06/12/2000,,,22.8,C,8.0,MG/L
+07/17/2000,,,25.4,C,7.9,MG/L
+08/20/2000,1,FEET,69,DEGREES F,7,MG/L
+08/20/2000,3,FEET,69,DEGREES F,8,MG/L
+08/20/2000,6,FEET,69,DEGREES F,7,MG/L
+08/20/2000,9,FEET,69,DEGREES F,6,MG/L
+09/23/2000,1,FEET,56,DEGREES F,8,MG/L
+09/23/2000,3,FEET,56,DEGREES F,8,MG/L
+09/23/2000,6,FEET,56,DEGREES F,8,MG/L
+09/23/2000,9,FEET,56,DEGREES F,8,MG/L
+06/09/2001,1,FEET,67,DEGREES F,10,MG/L
+06/09/2001,3,FEET,64,DEGREES F,9,MG/L
+06/09/2001,6,FEET,60,DEGREES F,8,MG/L
+06/09/2001,8,FEET,58,DEGREES F,8,MG/L
+07/07/2001,1,FEET,76,DEGREES F,10,MG/L
+07/07/2001,3,FEET,73,DEGREES F,11,MG/L
+07/07/2001,6,FEET,70,DEGREES F,9,MG/L
+07/07/2001,9,FEET,64,DEGREES F,7,MG/L
+07/15/2001,1,FEET,76,DEGREES F,10,MG/L
+07/15/2001,3,FEET,76,DEGREES F,9,MG/L
+07/15/2001,6,FEET,72,DEGREES F,8,MG/L
+07/15/2001,9,FEET,69,DEGREES F,7,MG/L
+08/09/2001,1,FEET,82,DEGREES F,9,MG/L
+08/09/2001,3,FEET,81,DEGREES F,7,MG/L
+08/09/2001,6,FEET,81,DEGREES F,6,MG/L
+08/09/2001,9,FEET,73,DEGREES F,4,MG/L
+09/16/2001,1,FEET,63,DEGREES F,9,MG/L
+09/16/2001,3,FEET,63,DEGREES F,7,MG/L
+09/16/2001,6,FEET,63,DEGREES F,7,MG/L
+09/16/2001,8,FEET,63,DEGREES F,9,MG/L
+10/14/2001,1,FEET,51,DEGREES F,9,MG/L
+10/14/2001,3,FEET,51,DEGREES F,9,MG/L
+10/14/2001,6,FEET,51,DEGREES F,9,MG/L
+10/14/2001,9,FEET,52,DEGREES F,7,MG/L
+05/21/2002,0,FEET,58,DEGREES F,12,MG/L
+05/21/2002,3,FEET,58,DEGREES F,11,MG/L
+05/21/2002,6,FEET,56,DEGREES F,11,MG/L
+05/21/2002,9,FEET,54,DEGREES F,11,MG/L
+06/16/2002,0,FEET,69,DEGREES F,7,MG/L
+06/16/2002,3,FEET,68,DEGREES F,7,MG/L
+06/16/2002,6,FEET,66,DEGREES F,7,MG/L
+06/16/2002,9,FEET,65,DEGREES F,7,MG/L
+07/07/2002,0,FEET,83,DEGREES F,,
+07/07/2002,3,FEET,81,DEGREES F,,
+07/07/2002,6,FEET,79,DEGREES F,,
+07/07/2002,9,FEET,76,DEGREES F,,
+07/27/2002,0,FEET,78,DEGREES F,10,MG/L
+07/27/2002,3,FEET,76,DEGREES F,10,MG/L
+07/27/2002,6,FEET,74,DEGREES F,9,MG/L
+07/27/2002,9,FEET,71,DEGREES F,9,MG/L
+08/13/2002,,,24.5,C,9.1,MG/L
+08/23/2002,0,FEET,80,DEGREES F,12,MG/L
+08/23/2002,3,FEET,72,DEGREES F,10,MG/L
+08/23/2002,6,FEET,68,DEGREES F,8,MG/L
+08/23/2002,9,FEET,67,DEGREES F,3,MG/L
+10/20/2002,0,FEET,42,DEGREES F,9,MG/L
+10/20/2002,3,FEET,42,DEGREES F,9,MG/L
+10/20/2002,6,FEET,41,DEGREES F,9,MG/L
+10/20/2002,9,FEET,42,DEGREES F,9,MG/L
+05/18/2003,1,FEET,63.5,DEGREES F,9,MG/L
+05/18/2003,3,FEET,63.3,DEGREES F,9,MG/L
+05/18/2003,6,FEET,53.9,DEGREES F,9,MG/L
+05/18/2003,9,FEET,48.5,DEGREES F,7,MG/L
+07/22/2003,1,FEET,72.5,DEGREES F,9,MG/L
+07/22/2003,3,FEET,71.7,DEGREES F,9,MG/L
+07/22/2003,6,FEET,71.4,DEGREES F,7,MG/L
+07/22/2003,9,FEET,68.3,DEGREES F,5,MG/L
+08/17/2003,1,FEET,80.6,DEGREES F,8,MG/L
+08/17/2003,3,FEET,78,DEGREES F,6,MG/L
+08/17/2003,6,FEET,77.1,DEGREES F,6,MG/L
+08/17/2003,9,FEET,48.2,DEGREES F,4,MG/L
+09/20/2003,1,FEET,63.3,DEGREES F,,
+09/20/2003,3,FEET,61.8,DEGREES F,9,MG/L
+09/20/2003,6,FEET,60.6,DEGREES F,9,MG/L
+09/20/2003,9,FEET,60.6,DEGREES F,9,MG/L
+10/31/2003,1,FEET,42,DEGREES F,9,MG/L
+10/31/2003,3,FEET,41.7,DEGREES F,9,MG/L
+10/31/2003,6,FEET,41.7,DEGREES F,9,MG/L
+10/31/2003,9,FEET,41.7,DEGREES F,9,MG/L
+05/22/2004,1,FEET,62.9,DEGREES F,7,MG/L
+05/22/2004,3,FEET,60,DEGREES F,7,MG/L
+05/22/2004,6,FEET,59.3,DEGREES F,7,MG/L
+05/22/2004,9,FEET,59,DEGREES F,7,MG/L
+06/20/2004,1,FEET,68.1,DEGREES F,7,MG/L
+06/20/2004,3,FEET,68,DEGREES F,7,MG/L
+06/20/2004,6,FEET,67.4,DEGREES F,7,MG/L
+06/20/2004,9,FEET,67.4,DEGREES F,7,MG/L
+07/31/2004,1,FEET,72.8,DEGREES F,9,MG/L
+07/31/2004,3,FEET,71.3,DEGREES F,9,MG/L
+07/31/2004,6,FEET,71.6,DEGREES F,7,MG/L
+07/31/2004,9,FEET,69.9,DEGREES F,9,MG/L
+08/22/2004,1,FEET,62.9,DEGREES F,7,MG/L
+08/22/2004,3,FEET,62.9,DEGREES F,7,MG/L
+08/22/2004,6,FEET,62.4,DEGREES F,7,MG/L
+08/22/2004,9,FEET,62.4,DEGREES F,7,MG/L
+09/19/2004,1,FEET,65.1,DEGREES F,10,MG/L
+09/19/2004,3,FEET,64.8,DEGREES F,6,MG/L
+09/19/2004,6,FEET,64.2,DEGREES F,6,MG/L
+09/19/2004,9,FEET,64,DEGREES F,5,MG/L
+10/25/2004,1,FEET,49.2,DEGREES F,9,MG/L
+10/25/2004,3,FEET,48.9,DEGREES F,9,MG/L
+10/25/2004,6,FEET,48.5,DEGREES F,9,MG/L
+10/25/2004,9,FEET,48.2,DEGREES F,9,MG/L
+05/20/2005,1,FEET,61,DEGREES F,9,MG/L
+05/20/2005,3,FEET,58.8,DEGREES F,9,MG/L
+05/20/2005,6,FEET,55.5,DEGREES F,9,MG/L
+05/20/2005,9,FEET,55,DEGREES F,9,MG/L
+06/21/2005,1,FEET,80.2,DEGREES F,9,MG/L
+06/21/2005,3,FEET,77,DEGREES F,8,MG/L
+06/21/2005,6,FEET,72.8,DEGREES F,6,MG/L
+06/21/2005,9,FEET,69,DEGREES F,4,MG/L
+07/24/2005,1,FEET,79.7,DEGREES F,9,MG/L
+07/24/2005,3,FEET,78,DEGREES F,9,MG/L
+07/24/2005,6,FEET,76.8,DEGREES F,8,MG/L
+07/24/2005,9,FEET,70.8,DEGREES F,8,MG/L
+08/22/2005,1,FEET,69.6,DEGREES F,8,MG/L
+08/22/2005,3,FEET,69.6,DEGREES F,7,MG/L
+08/22/2005,6,FEET,69.4,DEGREES F,7,MG/L
+08/22/2005,9,FEET,67.8,DEGREES F,4,MG/L
+09/20/2005,1,FEET,59,DEGREES F,8,MG/L
+09/20/2005,3,FEET,58.8,DEGREES F,8,MG/L
+09/20/2005,6,FEET,58.8,DEGREES F,8,MG/L
+09/20/2005,9,FEET,58.4,DEGREES F,7,MG/L
+10/16/2005,1,FEET,56,DEGREES F,9,MG/L
+10/16/2005,3,FEET,53,DEGREES F,9,MG/L
+10/16/2005,9,FEET,51.8,DEGREES F,9,MG/L
+10/16/2005,63,FEET,52.7,DEGREES F,7,MG/L
+05/14/2006,1,FEET,60.8,DEGREES F,9,MG/L
+05/14/2006,3,FEET,59,DEGREES F,7,MG/L
+05/14/2006,6,FEET,57.9,DEGREES F,7,MG/L
+05/14/2006,9,FEET,55.4,DEGREES F,7,MG/L
+06/18/2006,1,FEET,76.8,DEGREES F,7,MG/L
+06/18/2006,3,FEET,76.2,DEGREES F,7,MG/L
+06/18/2006,6,FEET,74.3,DEGREES F,7,MG/L
+06/18/2006,9,FEET,67.8,DEGREES F,7,MG/L
+07/15/2006,1,FEET,79.8,DEGREES F,7,MG/L
+07/15/2006,3,FEET,79.1,DEGREES F,6,MG/L
+07/15/2006,6,FEET,78.6,DEGREES F,7,MG/L
+07/15/2006,9,FEET,78.4,DEGREES F,7,MG/L
+08/13/2006,1,FEET,74.4,DEGREES F,7,MG/L
+08/13/2006,3,FEET,74.4,DEGREES F,7,MG/L
+08/13/2006,6,FEET,74.1,DEGREES F,7,MG/L
+08/13/2006,9,FEET,69.6,DEGREES F,7,MG/L
+09/20/2006,1,FEET,59.9,DEGREES F,8,MG/L
+09/20/2006,3,FEET,57.5,DEGREES F,7,MG/L
+09/20/2006,6,FEET,57,DEGREES F,7,MG/L
+09/20/2006,9,FEET,56.6,DEGREES F,7,MG/L
+10/14/2006,1,FEET,40.1,DEGREES F,12,MG/L
+10/14/2006,3,FEET,39.3,DEGREES F,12,MG/L
+10/14/2006,6,FEET,39.9,DEGREES F,11,MG/L
+10/14/2006,9,FEET,39.9,DEGREES F,11,MG/L
+04/29/2007,1,FEET,59,DEGREES F,10,MG/L
+04/29/2007,3,FEET,58.4,DEGREES F,11,MG/L
+04/29/2007,6,FEET,57.9,DEGREES F,11,MG/L
+04/29/2007,9,FEET,51.9,DEGREES F,11,MG/L
+06/24/2007,1,FEET,77.1,DEGREES F,9,MG/L
+06/24/2007,3,FEET,76.1,DEGREES F,9,MG/L
+06/24/2007,6,FEET,73.9,DEGREES F,9,MG/L
+06/24/2007,9,FEET,71.6,DEGREES F,9,MG/L
+07/23/2007,1,FEET,73.2,DEGREES F,8,MG/L
+07/23/2007,3,FEET,73.1,DEGREES F,7,MG/L
+07/23/2007,6,FEET,72.3,DEGREES F,7,MG/L
+07/23/2007,9,FEET,68.7,DEGREES F,7,MG/L
+09/01/2007,1,FEET,72.6,DEGREES F,9,MG/L
+09/01/2007,3,FEET,71.6,DEGREES F,9,MG/L
+09/01/2007,6,FEET,70.1,DEGREES F,9,MG/L
+09/01/2007,9,FEET,67.2,DEGREES F,9,MG/L
+05/01/2008,1,FEET,47.8,DEGREES F,9,MG/L
+05/01/2008,3,FEET,47.6,DEGREES F,8,MG/L
+05/01/2008,6,FEET,47.4,DEGREES F,8,MG/L
+05/01/2008,9,FEET,47.4,DEGREES F,8,MG/L
+07/06/2008,1,FEET,73.7,DEGREES F,9,MG/L
+07/06/2008,3,FEET,73.7,DEGREES F,9,MG/L
+07/06/2008,6,FEET,72.5,DEGREES F,9,MG/L
+07/06/2008,9,FEET,70.8,DEGREES F,9,MG/L
+08/04/2008,1,FEET,78.2,DEGREES F,9,MG/L
+08/04/2008,3,FEET,73.7,DEGREES F,8,MG/L
+08/04/2008,6,FEET,73.2,DEGREES F,8,MG/L
+08/04/2008,9,FEET,70.5,DEGREES F,7,MG/L
+09/03/2008,1,FEET,74.1,DEGREES F,9,MG/L
+09/03/2008,3,FEET,72.8,DEGREES F,9,MG/L
+09/03/2008,6,FEET,71.4,DEGREES F,9,MG/L
+09/03/2008,9,FEET,70.1,DEGREES F,8,MG/L
+04/30/2019,,,7.4,C,10.0,MG/L
+06/25/2019,,,20.0,C,5.2,MG/L
+07/23/2019,,,20.6,C,4.4,MG/L
+08/29/2019,,,18.3,C,7.9,MG/L
+10/16/2019,,,0.67,C,10.4,MG/L
+02/11/2020,,,1.2,C,0.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1998,Slight overcast.  Pristine day.  Wildlife abounds.    
+07/31/1998,Some humidity.  Lightly fished.  Some wildlife.    
+08/10/1998,Pleasant day.  One water skier.    
+08/18/1998,Muggy day.  No boaters.    
+08/26/1998,Sunny nice breeze pleasant day.    
+09/06/1998,Water cooling- autumn colors starting.    
+09/16/1998,Quiet and cool.  Full autumn colors.    
+09/28/1998,Cool.  Believe lake has flip flopped.    
+06/20/1999,Partly cloudy day.  Slight chop on water surface.    
+07/04/1999,Partly cloudy day.  Water surface choppy.  Windy.    
+07/25/1999,Sunny day.  Water surface smooth.    
+08/25/1999,Sunny day. water surface smooth.    
+09/06/1999,Bright sunny day- this is the first cool day after hot humid weather.  Boating traffic is very light.  Could not find 13' hole.    
+09/06/1999,Sunny day and the water surface is fairly smooth.    
+10/02/1999,Sunny day. water surface choppy.  Windy.  Last test of this year.    
+10/06/1999,Bright sunny day.  45 F.  Cold weather is setting in.  Very few boats out.    
+05/21/2000,Windy- water had slight chop.    
+06/18/2000,Calm- sunny day.    
+06/18/2000,Very windy and some white caps. Very difficult to get a good depth reading.    
+07/04/2000,Sunny- light breeze- moderate boat traffic.    
+07/14/2000,Sunny- light breeze- moderate boat traffic.    
+07/23/2000,Sunny- calm.  No waves.    
+08/20/2000,Partly cloudy- light breeze.  No boat traffic.    
+09/04/2000,Sunny day- fairly calm.    
+09/23/2000,Sunny- light breeze- no boat traffic.  Rained on and off yesterday.    
+10/08/2000,Sunny and cool day.  Put boat away for the season.    
+05/20/2001,Water had a slight chop. First check for 2001.    
+06/03/2001,Partly cloudy- water fairly smooth.    
+06/09/2001,Sunny- warm- breezy.  Low boat traffic.    
+06/22/2001,Partly sunny- warm- breezy.  Rained about 1" yesterday.  Moderate boat traffic.    
+07/06/2001,Windy and overcast.    
+07/07/2001,Sunny- warm- humid.  No rain lately.  Moderate boat traffic.    
+07/15/2001,Partly sunny- overcast.  Warm- humid.  76 F air temp.  No rain for 2 weeks.    
+07/28/2001,Partly cloudy day- smooth water. Very little boat traffic.    
+08/09/2001,Sunny- warm- light breeze.  Has been hot and humid for the last 9 days.  Boat traffic low.    
+08/13/2001,DEEP HOLE- 6FT INTEGRATED SAMPLE    
+08/26/2001,Sunny day- a few clouds. Water smooth. Very little boat traffic.    
+09/16/2001,Overcast- light boat traffic.  Visible bloom.    
+09/30/2001,Partly cloudy day- little wind. Last observation- taking pontoon out of water.    
+10/11/2001,Sunny- light boat traffic.    
+10/14/2001,Partly sunny.  No boat traffic.  Rained yesterday 2".    
+05/21/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/01/2002,First check for 2002.  Sunny day.    
+06/16/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/27/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/13/2002,DEEPEST SPOT    
+08/23/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/20/2002,Sunny- cold- temperature is 34 degrees- and there is a light breeze.    
+05/18/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/22/2003,Partly cloudy- but sunny during testing.  Light boat traffic.  No rain for 48 hours.    
+08/17/2003,Intermittent clouds- sunny during test.  Light boat traffic- no rain days.    
+09/20/2003,Sunny- no boat traffic- light rain yesterday- windy.    
+10/31/2003,Cloudy- no boat traffic- slight breeze.    
+05/22/2004,Overcast- 62 F.    
+06/20/2004,Sunny and windy.  68 F.  No rain for 4 days.    
+07/31/2004,Sunny and light wind.  69 F.  Rain / storm last evening.    
+08/22/2004,Partly sunny and windy.  64 F.  Rained overnight.    
+09/19/2004,Windy- sunny- light rain this morning.    
+10/25/2004,Sunny- 51 F- Rain 2 days ago    
+06/21/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/24/2005,DEEP HOLE - INTERGRATED SAMPLE    
+08/22/2005,DEEP HOLE - INTEGRATED SAMPLE    
+10/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+05/14/2006,sunny- cool
+06/18/2006,warm- sunny- slight wind
+07/15/2006,humid- warm- partly sunny
+10/14/2006,cold- 34F- sunny
+04/29/2007,Bright sunny day- no recent rain.  Warm.  Little boat traffic.
+06/24/2007,Bright sunny day.  Light boat traffic.  No rain in 4 days.  Warm.
+07/23/2007,Overcast day.  Light boat traffic.  Rained 1/2 inch yesterday.  Light breeze.
+09/01/2007,Bright sunny day.  Calm.  No recent rain.  Very little boat traffic.
+07/06/2008,Partly cloudy- low boat traffic
+08/04/2008,Sunny. Rained and t'storms yesterday. Low boat traffic
+09/03/2008,Sunny- rained yesterday afternoon
+10/28/2008,Cold snap for 3 days (~25F at night) minimal boat traffic- sunny- snowed yesterday
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/31/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/10/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/18/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/26/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/06/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/16/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/28/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/08/1998,Walter Smith,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/20/1999,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/04/1999,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/25/1999,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/25/1999,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/06/1999,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/06/1999,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/02/1999,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/06/1999,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+04/26/2000,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+05/21/2000,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/12/2000,Craig Roesler,Appraisal Monitoring 2000
+06/18/2000,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/18/2000,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/04/2000,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/14/2000,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/17/2000,Craig Roesler,Appraisal Monitoring 2000
+07/23/2000,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/10/2000,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+08/20/2000,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/04/2000,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/23/2000,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/08/2000,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/20/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/03/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/09/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/22/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/23/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/06/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/07/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/15/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/28/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/09/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/13/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/26/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/16/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/30/2001,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/11/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/14/2001,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/21/2002,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/01/2002,Dennis Ashbeck,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/16/2002,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/07/2002,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/27/2002,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/13/2002,Craig Roesler,Lake Baseline Monitoring- DNR (1970s-2006)
+08/23/2002,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/20/2002,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/18/2003,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/22/2003,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/17/2003,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/20/2003,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/31/2003,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/22/2004,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/20/2004,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/31/2004,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/22/2004,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/19/2004,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/25/2004,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/20/2005,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/21/2005,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/21/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/24/2005,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/24/2005,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/22/2005,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/22/2005,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/20/2005,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/16/2005,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/16/2005,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/14/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/21/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/18/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/15/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/13/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/20/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/14/2006,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+04/29/2007,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+06/24/2007,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/23/2007,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/01/2007,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/01/2008,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+05/04/2008,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/06/2008,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+07/06/2008,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/04/2008,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+08/04/2008,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/03/2008,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+09/03/2008,Daren Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+10/28/2008,Daren And Jane Daily,Citizen Lake Monitoring - Water Quality - Wilson Flowage; Deep Hole
+04/30/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+06/25/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+07/23/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/29/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+10/16/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+02/11/2020,Data Collectors,Bacteria + Plankton (Paid Private)

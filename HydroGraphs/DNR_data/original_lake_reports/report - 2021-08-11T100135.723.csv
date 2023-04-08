@@ -1,0 +1,356 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+White Lake,Waupaca,272900,NE,69,,693081,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/19/1982,,,,6,20,,51,48,,,,,
+1,10/26/1982,,,,,20,,51,,,,,,
+1,02/24/1983,,,,,20,,51,,,,,,
+8191100,04/11/1986,4,NO,1.2,,,57,,,GAUGE,5.92,,,
+8191100,06/06/1986,5.25,NO,1.6,,,53,,,GAUGE,5.32,,,
+8191100,06/12/1986,4.75,NO,1.4,,,55,,,GAUGE,4.8,CLEAR,BLUE,
+8191100,06/27/1986,5,NO,1.5,,,54,,,GAUGE,5.51,,GREEN,
+8191100,07/12/1986,3.5,NO,1.1,,,59,,,GAUGE,5.33,,BROWN,
+8191100,08/12/1986,4.25,NO,1.3,,,56,,,GAUGE,5.56,,GREEN,
+8191100,09/13/1986,,,,,,,,,GAUGE,5.56,,GREEN,
+8191100,09/28/1986,6.75,NO,2.1,,,50,,,GAUGE,6.03,,BROWN,
+8191100,11/02/1986,7,NO,2.1,,,49,,,GAUGE,5.86,CLEAR,BLUE,
+8191100,04/17/1987,5,YES,1.5,,,54,,,GAUGE,5.7,CLEAR,BLUE,
+8191100,05/02/1987,5,YES,1.5,,,54,,,GAUGE,5,CLEAR,BLUE,
+8191100,05/17/1987,7.75,NO,2.4,,,48,,,,,CLEAR,BLUE,
+8191100,05/31/1987,7.5,NO,2.3,,,48,,,GAUGE,5.56,CLEAR,BLUE,
+8191100,06/14/1987,7,NO,2.1,,,49,,,GAUGE,5.36,CLEAR,BLUE,
+8191100,07/03/1987,5.5,NO,1.7,,,53,,,GAUGE,5.44,CLEAR,BLUE,
+8191100,07/18/1987,5.75,NO,1.7,,,52,,,GAUGE,5.28,CLEAR,BLUE,
+8191100,07/31/1987,6.5,NO,2,,,50,,,GAUGE,5.26,CLEAR,BLUE,
+8191100,08/15/1987,6.5,YES,2,,,50,,,,,CLEAR,,
+8191100,08/28/1987,9,NO,2.7,,,45,,,GAUGE,5.04,CLEAR,BLUE,
+8191100,09/12/1987,7.5,NO,2.3,,,48,,,GAUGE,4.94,CLEAR,BLUE,
+8191100,10/03/1987,9.75,YES,3,,,44,,,,,CLEAR,,
+8191100,10/23/1987,9.75,YES,3,,,44,,,GAUGE,4.96,CLEAR,,
+8191100,11/07/1987,9.25,YES,2.8,,,45,,,GAUGE,4.98,CLEAR,BLUE,
+8191100,04/09/1988,7.6,NO,2.3,,,48,,,GAUGE,5.42,CLEAR,,
+8191100,04/24/1988,7,YES,2.1,,,49,,,GAUGE,5.21,CLEAR,,
+8191100,05/08/1988,8,YES,2.4,,,47,,,GAUGE,5.62,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,05/22/1988,9,NO,2.7,,,45,,,GAUGE,5.39,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,06/05/1988,8,NO,2.4,,,47,,,GAUGE,5.19,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,07/29/1988,8,NO,2.4,,,47,,,GAUGE,4.48,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,08/14/1988,8,YES,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,09/11/1988,9.5,YES,2.9,,,45,,,GAUGE,4.18,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,09/25/1988,7,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,10/09/1988,9,YES,2.7,,,45,,,GAUGE,4.34,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,11/01/1988,5,YES,1.5,,,54,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,04/16/1989,5,YES,1.5,,,54,,,GAUGE,5.44,CLEAR,BLUE,
+8191100,05/07/1989,5,YES,1.5,,,54,,,GAUGE,5.41,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,05/21/1989,8,NO,2.4,,,47,,,-2 IN.,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,07/06/1989,6.5,NO,2,,,50,,,GAUGE,5.14,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,08/27/1989,6.5,NO,2,,,50,,,GAUGE,4.84,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,11/13/1989,6.5,NO,2,,,50,,,GAUGE,4.84,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,04/15/1990,5,NO,1.5,,,54,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,05/20/1990,6,NO,1.8,,,51,,,GAUGE,5.9,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,05/27/1990,7.5,NO,2.3,,,48,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,07/13/1990,6,YES,1.8,,,51,,,GAUGE,5.8,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,09/08/1990,5,YES,1.5,,,54,,,GAUGE,5.7,CLEAR,BLUE,2-Very minor aesthetic problems
+8191100,10/14/1990,5,NO,1.5,,,54,,,GAUGE,5.58,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191100,05/13/1991,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190559,07/17/1992,5.5,YES,1.7,,,53,,,5.44 AT DAM,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190559,10/04/1992,4,YES,1.2,,,57,,,,,,BROWN,2-Very minor aesthetic problems
+8190559,04/25/1993,5,YES,1.5,,,54,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000093,04/22/2002,6,,1.8,,,51,,,,,,,
+7000093,06/04/2002,8.2,NO,2.5,,,47,,,,,,,
+7000093,08/08/2002,7.7,NO,2.3,3.72,,48,,45,,,,,
+7000093,08/22/2002,5.9,NO,1.8,8.54,24,52,53,51,,,,,
+7000093,11/04/2002,6.2,NO,1.9,9.63,,51,,52,,,,,
+8188638,04/23/2003,,,,,27,,54,,,,,,
+1,07/22/2003,,,,,21,,52,,,,,,
+1,08/27/2003,4.3,NO,1.3,10.5,25,56,53,53,,,,,
+21928796,04/08/2010,4.7,NO,1.4,8.76,18,55,51,51,,,,,
+35019794,06/02/2010,2.9,NO,0.9,9.19,32,62,55,52,,,,,
+34972236,07/14/2010,3.5,NO,1.1,6.54,24,59,53,49,,,,,
+16073539,08/30/2010,7.1,NO,2.2,3.23,18,49,51,44,,,,,
+34972236,10/13/2010,7.5,NO,2.3,2.61,24,48,53,42,,,,,
+34972236,02/23/2011,5,NO,1.5,,20,54,51,,,,,,
+83286152,05/28/2015,3.7,YES,1.1,,29.9,58,54,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+83286152,06/27/2015,3.5,NO,1.1,7.51,26.6,59,54,50,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+83286152,07/27/2015,6,YES,1.8,35.2,150,51,67,62,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+83286152,08/27/2015,5.5,YES,1.7,13.1,57.3,53,59,54,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+83286152,06/28/2016,5.5,YES,1.7,7.32,21.1,53,52,50,HIGH,5.5,CLEAR,GREEN,1-Beautiful, could not be nicer
+83286152,07/23/2016,4.5,YES,1.4,6.29,17.1,55,50,49,HIGH,4.5,CLEAR,BROWN,2-Very minor aesthetic problems
+83286152,08/27/2016,5,YES,1.5,6.62,22.3,54,52,49,HIGH,5,MURKY,BROWN,2-Very minor aesthetic problems
+83286152,05/30/2017,7,NO,2.1,,23.5,49,53,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83286152,06/27/2017,7,NO,2.1,4.7,23.2,49,53,46,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+83286152,07/31/2017,6,NO,1.8,12.8,26.5,51,54,54,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83286152,05/28/2018,,,,,27.4,,54,,,,,,
+83286152,07/30/2018,5,NO,1.5,,,54,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+83286152,08/31/2018,5,NO,1.5,9.49,32.3,54,55,52,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83286152,05/29/2019,6,YES,1.8,,70.9,51,61,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+83286152,07/29/2019,6,NO,1.8,4.85,22.5,51,52,47,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/26/1982,,,8.1,C,10.4,MG/L
+02/24/1983,,,2.1,C,7.9,MG/L
+04/22/2002,,,17.7,C,8.4,MG/L
+06/04/2002,,,15.4,C,7.9,MG/L
+08/08/2002,,,23.6,C,8.9,MG/L
+08/22/2002,,,21.7,C,8.5,MG/L
+11/04/2002,,,3.3,C,12.4,MG/L
+04/08/2010,,,8.0,C,10.5,MG/L
+06/02/2010,,,24.6,C,8.8,MG/L
+07/14/2010,,,26.2,C,7.9,MG/L
+08/30/2010,,,25.9,C,10.0,MG/L
+10/13/2010,,,17.3,C,9.2,MG/L
+02/23/2011,,,4.1,C,0.1,MG/L
+05/28/2015,0,FEET,73.7,DEGREES F,,
+05/28/2015,1,FEET,73.2,DEGREES F,,
+05/28/2015,2,FEET,71.4,DEGREES F,,
+05/28/2015,3,FEET,70.8,DEGREES F,,
+05/28/2015,4,FEET,69,DEGREES F,,
+05/28/2015,5,FEET,69.6,DEGREES F,,
+06/27/2015,0,FEET,77.9,DEGREES F,,
+06/27/2015,1,FEET,78.6,DEGREES F,,
+06/27/2015,2,FEET,78,DEGREES F,,
+06/27/2015,3,FEET,78.2,DEGREES F,,
+06/27/2015,4,FEET,78,DEGREES F,,
+06/27/2015,5,FEET,73.2,DEGREES F,,
+07/27/2015,0,FEET,85.8,DEGREES F,,
+07/27/2015,1,FEET,80.9,DEGREES F,,
+07/27/2015,2,FEET,80.6,DEGREES F,,
+07/27/2015,3,FEET,80.2,DEGREES F,,
+07/27/2015,4,FEET,80,DEGREES F,,
+07/27/2015,5,FEET,80,DEGREES F,,
+08/27/2015,0,FEET,76.2,DEGREES F,,
+08/27/2015,1,FEET,65.6,DEGREES F,,
+08/27/2015,2,FEET,65.4,DEGREES F,,
+08/27/2015,3,FEET,64.7,DEGREES F,,
+08/27/2015,4,FEET,64.7,DEGREES F,,
+08/27/2015,5,FEET,64.7,DEGREES F,,
+06/28/2016,0,FEET,73.2,DEGREES F,,
+06/28/2016,1,FEET,75.2,DEGREES F,,
+06/28/2016,2,FEET,75.2,DEGREES F,,
+06/28/2016,3,FEET,74.6,DEGREES F,,
+06/28/2016,4,FEET,74.6,DEGREES F,,
+06/28/2016,5,FEET,73.9,DEGREES F,,
+07/23/2016,0,FEET,83.1,DEGREES F,,
+07/23/2016,1,FEET,84,DEGREES F,,
+07/23/2016,2,FEET,84,DEGREES F,,
+07/23/2016,3,FEET,84.2,DEGREES F,,
+07/23/2016,4,FEET,83.6,DEGREES F,,
+07/23/2016,5,FEET,81.3,DEGREES F,,
+08/27/2016,0,FEET,71.6,DEGREES F,,
+08/27/2016,1,FEET,71.9,DEGREES F,,
+08/27/2016,2,FEET,72.1,DEGREES F,,
+08/27/2016,3,FEET,72.3,DEGREES F,,
+08/27/2016,4,FEET,72.3,DEGREES F,,
+08/27/2016,5,FEET,72.5,DEGREES F,,
+05/30/2017,0,FEET,64.2,DEGREES F,,
+05/30/2017,1,FEET,64.4,DEGREES F,,
+05/30/2017,2,FEET,64.5,DEGREES F,,
+05/30/2017,3,FEET,64.5,DEGREES F,,
+05/30/2017,4,FEET,64.5,DEGREES F,,
+05/30/2017,5,FEET,64.5,DEGREES F,,
+05/30/2017,6,FEET,64.5,DEGREES F,,
+06/27/2017,0,FEET,66.5,DEGREES F,,
+06/27/2017,1,FEET,66.3,DEGREES F,,
+06/27/2017,2,FEET,66,DEGREES F,,
+06/27/2017,3,FEET,66,DEGREES F,,
+06/27/2017,4,FEET,66,DEGREES F,,
+06/27/2017,5,FEET,65.8,DEGREES F,,
+06/27/2017,6,FEET,65.6,DEGREES F,,
+07/31/2017,0,FEET,87.6,DEGREES F,,
+07/31/2017,1,FEET,86.3,DEGREES F,,
+07/31/2017,2,FEET,83.3,DEGREES F,,
+07/31/2017,3,FEET,82.4,DEGREES F,,
+07/31/2017,4,FEET,81.3,DEGREES F,,
+07/31/2017,5,FEET,76.5,DEGREES F,,
+07/30/2018,0,FEET,81.6,DEGREES F,,
+07/30/2018,1,FEET,81.8,DEGREES F,,
+07/30/2018,2,FEET,77.3,DEGREES F,,
+07/30/2018,3,FEET,77,DEGREES F,,
+07/30/2018,4,FEET,75.7,DEGREES F,,
+07/30/2018,5,FEET,76,DEGREES F,,
+08/31/2018,0,FEET,72.1,DEGREES F,,
+08/31/2018,1,FEET,72.3,DEGREES F,,
+08/31/2018,2,FEET,72.1,DEGREES F,,
+08/31/2018,3,FEET,72.1,DEGREES F,,
+08/31/2018,4,FEET,71.9,DEGREES F,,
+08/31/2018,5,FEET,71.9,DEGREES F,,
+05/29/2019,0,FEET,67.6,DEGREES F,,
+05/29/2019,1,FEET,64.2,DEGREES F,,
+05/29/2019,2,FEET,62.6,DEGREES F,,
+05/29/2019,3,FEET,62,DEGREES F,,
+05/29/2019,4,FEET,62,DEGREES F,,
+05/29/2019,5,FEET,61.8,DEGREES F,,
+05/29/2019,6,FEET,61.8,DEGREES F,,
+07/29/2019,0,FEET,79.8,DEGREES F,,
+07/29/2019,1,FEET,79.8,DEGREES F,,
+07/29/2019,2,FEET,79.5,DEGREES F,,
+07/29/2019,3,FEET,78.4,DEGREES F,,
+07/29/2019,4,FEET,78,DEGREES F,,
+07/29/2019,5,FEET,78,DEGREES F,,
+07/29/2019,6,FEET,78,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/19/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/26/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/24/1983,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/11/1986,Breakup.    
+06/06/1986,No rain for the past 30 days.    
+06/12/1986,Personal visit.  There was 3.1" of rain on 6/11/86.    
+06/27/1986,1.5" rain yesterday- 4" in last 10 days.    
+07/12/1986,.5 in. rain yesterday.    
+08/12/1986,Still raining every day    
+09/13/1986,Lots of rain.    
+09/28/1986,There had been 5.5" of rain since 9/13.    
+11/02/1986,There has been 2.5" of rain since last report.  Freeze up on 11/11/1986.    
+04/17/1987,2" rain last week.    
+05/02/1987,2.1" rain since last report- white caps.    
+05/17/1987,Lake depth 10.3'- .2" rain this week.    
+05/31/1987,Partly cloudy and 0.5" of rain since the last reading.    
+06/14/1987,It rained 0.3" since last reading.    
+07/03/1987,Rained 4.6" since last sample.    
+07/18/1987,Rained 0.3" since previous reading.    
+07/31/1987,Rained 3.3" since last report.    
+08/15/1987,Rained 1.8" since last report.    
+08/28/1987,No rain since last report- lake level reading on 8/21 was 5.16.    
+09/12/1987,Rained .8" since last reading.    
+10/03/1987,Rained 2.1" since last report- Dissolved Oxygen is 19 parts per million.    
+10/23/1987,Rained 1.1" since last report- lake level on 10/10 was 4.89- air temp. 40 F.    
+11/07/1987,Rained .5' since last reading- final report for the year.    
+04/09/1988,Ice out 4/5- rain 2.2".    
+04/24/1988,1/4" rain.    
+05/08/1988,Mostly cloudy- 6-8" waves    
+05/22/1988,No rain.    
+06/05/1988,.8" rain- swimmer's itch- fish die off.    
+07/29/1988,3.25" rain since last report.    
+08/14/1988,.5" rain since last report.    
+09/11/1988,4" rain since last report.    
+09/25/1988,2.7" rain since last report- lots of geese and ducks on lake.    
+10/09/1988,No rain since last report    
+11/01/1988,1.2" rain  since last report- dam area iced.    
+04/16/1989,Ice out 4/14.    
+05/07/1989,9/10 in. rain since last report.    
+05/21/1989,Rain 3/10 in.    
+07/06/1989,Rain 1.9 in. since last report    
+08/27/1989,Rain 4.3 in. since last report    
+11/13/1989,Rain 3 in.    
+04/15/1990,Ice out 3/28/90.    
+05/20/1990,Rain 4.5" since last report    
+05/27/1990,Rain .75" since last report    
+07/13/1990,Rain since last report 7.25"    
+09/08/1990,Rain 8" since last report    
+10/14/1990,2.3" rain since last reading.    
+05/13/1991,Rain from 3 days: 2"    
+07/17/1992,Partly cloudy- temperature in the 70's.  13 parts per million of dissolved oxygen in the water.    
+10/04/1992,Water temp is 60 degrees- oxygen - 13.    
+04/22/2002,DEEP SPOT- 1FT BELOW SURFACE    
+06/04/2002,DEEP SPOT    
+08/08/2002,DEEP SPOT - 1FT BELOW SURFACE    
+08/22/2002,DEEP SPOT - INTEGRATED SAMPLE 0-2M    
+11/04/2002,DEEP SPOT - MAIN LAKE    
+04/23/2003,DEEP HOLE - INTEGRATED SAMPLE 0-2M    
+07/22/2003,DEEP HOLE    
+08/27/2003,DEEP SPOT - INTEGRATED SAMPLE 0-2M    
+05/30/2017,Cloudy- windy. Finally found the deep hole! Son's depth/fish finder. 
+06/27/2017,Nice 70 degree day- mild breezes. Eric Tweed was my "find the deep hole" helper. 
+07/31/2017,First attempt at temperature failed as battery in thermometer unit was dead. Went back at 2pm and got it! Saw a bald eagle flying over head. Sunny and hot but storm clouds gathering. 
+07/30/2018,Sunny day with some clouds- calm lake.
+08/31/2018,Sunny with light clouds- windy with waves
+05/29/2019,Overcast day- water level high. Earl Tweed was my boat driver. 
+07/29/2019,Beautiful day- few clouds and nice breeze. 
+After the "tornado" of 7/20/19- homes on the south side of the lake are still dealing with downed trees- including trees in the water. 
+
+
+
+
+Start Date,Group Name,Project Name
+08/19/1982,Data Collectors,Migrated from STORET Legacy
+10/26/1982,Data Collectors,Migrated from STORET Legacy
+02/24/1983,Data Collectors,Migrated from STORET Legacy
+04/11/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/06/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/12/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/27/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/12/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/12/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+09/13/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+09/28/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+11/02/1986,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/17/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/02/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/17/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/31/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/14/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/03/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/18/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/31/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/15/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/28/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+09/12/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+10/03/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+10/23/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+11/07/1987,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/09/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/24/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/08/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/22/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/05/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/29/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/14/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+09/11/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+09/25/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+10/09/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+11/01/1988,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/16/1989,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/07/1989,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/21/1989,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/06/1989,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/27/1989,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+11/13/1989,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/15/1990,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/20/1990,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/27/1990,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/13/1990,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+09/08/1990,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+10/14/1990,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/13/1991,Beck And Henry Tank,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/17/1992,Warner Schafer,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+10/04/1992,Warner Schafer,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/25/1993,Warner Schafer,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+04/22/2002,Mary Gansberg,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Comprehensive Management Plan
+06/04/2002,Mary Gansberg,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Comprehensive Management Plan
+08/08/2002,Mary Gansberg,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Comprehensive Management Plan
+08/22/2002,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+11/04/2002,Mary Gansberg,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Comprehensive Management Plan
+04/23/2003,Crystal Olson,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/2003,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/2003,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+04/08/2010,Brenton Butterfield - Onterra- LLC,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Management Planning Project Ph 1
+06/02/2010,Todd Hanke and Sonya Rowe - Onterra- LLC,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Management Planning Project Ph 1
+07/14/2010,Todd Hanke - Onterra- LLC,MT. MORRIS LAKES MANAGEMENT DISTRICT: Mt. Morris Lakes Management Plan Update Ph 1
+07/14/2010,Todd Hanke - Onterra- LLC,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Management Planning Project Ph 1
+08/30/2010,Tim Hoyman - Onterra- LLC,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Management Planning Project Ph 1
+10/13/2010,Todd Hanke - Onterra- LLC,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Management Planning Project Ph 1
+02/23/2011,Todd Hanke - Onterra- LLC,WHITE LAKE PRESERVATION ASSOCIATION: White Lake Management Planning Project Ph 1
+05/28/2015,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/27/2015,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/27/2015,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/27/2015,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/28/2016,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/23/2016,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/27/2016,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/30/2017,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+06/27/2017,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/31/2017,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/28/2018,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/30/2018,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+08/31/2018,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+05/29/2019,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole
+07/29/2019,Beth Tweed,Citizen Lake Monitoring - Water Quality - White Lake - Deep Hole

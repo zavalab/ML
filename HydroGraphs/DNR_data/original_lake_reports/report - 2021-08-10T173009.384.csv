@@ -1,0 +1,232 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Pine Lake,Iron,2949200,NO,26,,263036,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/28/1991,,,,7,16,,50,50,,,,,
+1,09/03/1991,,,,,,,,,,,,,
+8190321,09/06/1993,6,NO,1.8,,,51,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+1,05/21/1997,5.9,,1.8,,41,52,57,,,,,,
+1,08/14/1997,5.9,,1.8,,15,52,49,,,,,,
+38107237,07/05/2011,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,07/26/2011,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,08/05/2011,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+38107237,08/28/2011,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+38107237,09/10/2011,5.33,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,10/05/2011,6.7,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,10/21/2011,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+32099607,04/23/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+32099607,05/03/2012,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+38107237,05/16/2012,9.5,,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+32099607,08/02/2012,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+38107237,08/19/2012,5.25,,1.6,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+38107237,09/08/2012,6.25,,1.9,,,51,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,05/07/2014,, ,,,,,,,,,,,
+38107237,05/29/2014,4.75, ,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,06/17/2014,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,07/24/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,08/30/2014,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+38107237,09/26/2014,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188687,07/05/2017,4.5,NO,1.4,3.96,23.8,55,53,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188687,07/25/2017,4.5,NO,1.4,6.79,26.4,55,54,49,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188687,08/24/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,08/24/2017,,,,,19.2,,51,,,,,,
+163225913,05/08/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,05/15/2018,,,,,20,,51,,,,,,
+163225913,06/25/2018,4.25,NO,1.3,6.1,23.6,56,53,48,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,07/24/2018,4.5,NO,1.4,4.72,15.9,55,50,47,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,08/27/2018,4.5,NO,1.4,5.77,17.2,55,50,48,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,05/07/2019,,,,,20.7,,52,,,,,,
+163225913,05/08/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,06/17/2019,4,NO,1.2,0.319,15.5,57,49,26,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,07/12/2019,5,NO,1.5,4.19,14.3,54,49,46,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+163225913,08/20/2019,6,NO,1.8,0.424,12.5,51,48,28,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+163225913,05/06/2020,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+163225913,06/05/2020,7,NO,2.1,0.36,16.5,49,50,27,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+163225913,07/20/2020,4,NO,1.2,7.09,19.4,57,51,50,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+163225913,08/18/2020,4,NO,1.2,7.74,18.4,57,51,50,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/28/1991,,,20.6,C,7.5,MG/L
+09/03/1991,,,10.4,C,0.0,MG/L
+05/21/1997,,,9.3,C,10.2,MG/L
+08/14/1997,,,19.5,C,8.0,MG/L
+07/26/2011,1,FEET,81,DEGREES F,,
+08/05/2011,1,FEET,78,DEGREES F,,
+08/28/2011,0,FEET,74,DEGREES F,,
+09/10/2011,0,FEET,73,DEGREES F,,
+10/05/2011,0,FEET,59,DEGREES F,,
+10/21/2011,0,FEET,49.8,DEGREES F,,
+04/23/2012,3,FEET,47,DEGREES F,9.93,MG/L
+05/03/2012,3,FEET,62.6,DEGREES F,8.27,MG/L
+08/02/2012,3,FEET,79,DEGREES F,6.92,MG/L
+09/08/2012,1,FEET,72,DEGREES F,,
+05/29/2014,0,FEET,71,DEGREES F,,
+06/17/2014,0.4,FEET,69,DEGREES F,,
+07/24/2014,0.2,FEET,74,DEGREES F,,
+08/30/2014,0.1,FEET,68,DEGREES F,,
+09/26/2014,0.2,FEET,60,DEGREES F,,
+07/05/2017,1,FEET,75.2,DEGREES F,,
+07/05/2017,3,FEET,73.5,DEGREES F,,
+07/05/2017,6,FEET,71.4,DEGREES F,,
+07/05/2017,9,FEET,69.6,DEGREES F,,
+07/05/2017,12,FEET,66.5,DEGREES F,,
+07/05/2017,15,FEET,65.3,DEGREES F,,
+07/05/2017,18,FEET,63.6,DEGREES F,,
+07/05/2017,21,FEET,60,DEGREES F,,
+07/05/2017,24,FEET,57,DEGREES F,,
+07/25/2017,1,FEET,73.7,DEGREES F,,
+07/25/2017,3,FEET,73.5,DEGREES F,,
+07/25/2017,6,FEET,71.4,DEGREES F,,
+07/25/2017,9,FEET,69.6,DEGREES F,,
+07/25/2017,12,FEET,66.5,DEGREES F,,
+07/25/2017,15,FEET,65.3,DEGREES F,,
+07/25/2017,18,FEET,63.6,DEGREES F,,
+07/25/2017,21,FEET,60,DEGREES F,,
+07/25/2017,24,FEET,57,DEGREES F,,
+08/24/2017,1,FEET,68.3,DEGREES F,,
+08/24/2017,3,FEET,67.2,DEGREES F,,
+08/24/2017,6,FEET,68.9,DEGREES F,,
+08/24/2017,9,FEET,69,DEGREES F,,
+08/24/2017,12,FEET,69,DEGREES F,,
+08/24/2017,15,FEET,68.7,DEGREES F,,
+08/24/2017,21,FEET,61.1,DEGREES F,,
+08/24/2017,24,FEET,58.4,DEGREES F,,
+05/08/2018,1,FEET,62,DEGREES F,,
+05/08/2018,3,FEET,59,DEGREES F,,
+05/08/2018,5,FEET,58.8,DEGREES F,,
+05/08/2018,7,FEET,57.9,DEGREES F,,
+05/08/2018,9,FEET,53,DEGREES F,,
+05/08/2018,11,FEET,51,DEGREES F,,
+05/08/2018,13,FEET,50,DEGREES F,,
+05/08/2018,17,FEET,48.5,DEGREES F,,
+05/08/2018,19,FEET,47,DEGREES F,,
+05/08/2018,21,FEET,47,DEGREES F,,
+05/08/2018,23,FEET,46.5,DEGREES F,,
+05/08/2018,25,FEET,46.1,DEGREES F,,
+06/25/2018,1,FEET,76,DEGREES F,,
+06/25/2018,6,FEET,73,DEGREES F,,
+06/25/2018,12,FEET,67.4,DEGREES F,,
+06/25/2018,18,FEET,55.7,DEGREES F,,
+06/25/2018,25,FEET,50.3,DEGREES F,,
+07/24/2018,1,FEET,86.4,DEGREES F,,
+07/24/2018,3,FEET,76.4,DEGREES F,,
+07/24/2018,9,FEET,75.9,DEGREES F,,
+07/24/2018,15,FEET,70.1,DEGREES F,,
+07/24/2018,25,FEET,53.4,DEGREES F,,
+08/27/2018,3,FEET,71,DEGREES F,,
+08/27/2018,6,FEET,71,DEGREES F,,
+08/27/2018,12,FEET,70,DEGREES F,,
+08/27/2018,18,FEET,62,DEGREES F,,
+08/27/2018,25,FEET,54.8,DEGREES F,,
+05/08/2019,1,FEET,47.1,DEGREES F,,
+05/08/2019,6,FEET,47.3,DEGREES F,,
+05/08/2019,12,FEET,47,DEGREES F,,
+05/08/2019,15,FEET,47,DEGREES F,,
+05/08/2019,24,FEET,47,DEGREES F,,
+06/17/2019,1,FEET,69.2,DEGREES F,,
+06/17/2019,3,FEET,64.8,DEGREES F,,
+06/17/2019,12,FEET,64.9,DEGREES F,,
+06/17/2019,15,FEET,60.4,DEGREES F,,
+06/17/2019,25,FEET,54.3,DEGREES F,,
+07/12/2019,3,FEET,78,DEGREES F,,
+07/12/2019,6,FEET,77,DEGREES F,,
+07/12/2019,9,FEET,75.2,DEGREES F,,
+07/12/2019,15,FEET,61.3,DEGREES F,,
+07/12/2019,20,FEET,57.2,DEGREES F,,
+07/12/2019,25,FEET,55.4,DEGREES F,,
+08/20/2019,3,FEET,71.8,DEGREES F,,
+08/20/2019,9,FEET,71.6,DEGREES F,,
+08/20/2019,15,FEET,69.2,DEGREES F,,
+08/20/2019,20,FEET,59.5,DEGREES F,,
+08/20/2019,25,FEET,56,DEGREES F,,
+05/06/2020,3,FEET,52,DEGREES F,,
+05/06/2020,6,FEET,50,DEGREES F,,
+05/06/2020,9,FEET,50,DEGREES F,,
+05/06/2020,15,FEET,49,DEGREES F,,
+05/06/2020,20,FEET,48,DEGREES F,,
+05/06/2020,30,FEET,48,DEGREES F,,
+06/05/2020,3,FEET,72,DEGREES F,,
+06/05/2020,6,FEET,69,DEGREES F,,
+06/05/2020,9,FEET,67,DEGREES F,,
+06/05/2020,12,FEET,62,DEGREES F,,
+06/05/2020,15,FEET,54,DEGREES F,,
+06/05/2020,20,FEET,53,DEGREES F,,
+06/05/2020,25,FEET,51,DEGREES F,,
+07/20/2020,3,FEET,75,DEGREES F,,
+07/20/2020,6,FEET,75,DEGREES F,,
+07/20/2020,9,FEET,75,DEGREES F,,
+07/20/2020,15,FEET,56.5,DEGREES F,,
+07/20/2020,20,FEET,58,DEGREES F,,
+07/20/2020,30,FEET,54.3,DEGREES F,,
+07/20/2020,35,FEET,53.9,DEGREES F,,
+08/18/2020,3,FEET,73.2,DEGREES F,,
+08/18/2020,9,FEET,73.2,DEGREES F,,
+08/18/2020,15,FEET,71,DEGREES F,,
+08/18/2020,20,FEET,62.4,DEGREES F,,
+08/18/2020,25,FEET,57.2,DEGREES F,,
+08/18/2020,30,FEET,55.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/28/1991,IF TP  more than  0.2 RUN HIGH LEVEL    
+09/03/1991,IF TP  more than  0.2 RUN AT HIGH LEVEL    
+09/06/1993,Northwest wind @ 5 mph- 60 degrees- partly cloudy.    
+04/23/2012,pH-7.94
+05/03/2012,pH-7.0
+08/02/2012,pH-7.29
+05/07/2014,Ice out
+
+
+
+
+Start Date,Group Name,Project Name
+08/28/1991,Data Collectors,LAKE EVALUATION
+09/03/1991,Data Collectors,LAKE EVALUATION
+09/06/1993,Kelly Klein,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/21/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+08/14/1997,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+07/05/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/26/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/05/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/28/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+09/10/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+10/05/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+10/21/2011,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+04/23/2012,Hurley School- Palmquist,Citizen Lake Monitoring - Water Quality - Hurley School
+05/03/2012,Hurley School- Palmquist,Citizen Lake Monitoring - Water Quality - Hurley School
+05/16/2012,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/02/2012,Hurley School- Palmquist,Citizen Lake Monitoring - Water Quality - Hurley School
+08/19/2012,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+09/08/2012,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/07/2014,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/29/2014,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+06/17/2014,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/24/2014,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/30/2014,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+09/26/2014,Stephen Sash,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/05/2017,Zach Wilson,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/25/2017,Zach Wilson,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/24/2017,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/24/2017,Zach Wilson,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/08/2018,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/15/2018,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+06/25/2018,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/24/2018,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/27/2018,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/07/2019,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/08/2019,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+06/17/2019,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/12/2019,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/20/2019,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+05/06/2020,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+06/05/2020,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+07/20/2020,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)
+08/18/2020,Richard Mascolino,Citizen Lake Monitoring - Water Quality - Pine Lake - Deep Hole  (T44 R03E S29)

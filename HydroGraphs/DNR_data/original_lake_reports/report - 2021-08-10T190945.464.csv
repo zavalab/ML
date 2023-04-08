@@ -1,0 +1,747 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Balsam Lake,Polk,2620600,NO,49,,493056,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190944,08/16/1987,4.5,NO,1.4,,,55,,,,,,GREEN,
+8190944,08/22/1987,4.5,NO,1.4,,,55,,,,,,GREEN,
+8190944,09/07/1987,5,NO,1.5,,,54,,,DOWN 2' FROM LAST WEEK,,,GREEN,
+8190944,09/26/1987,5.25,NO,1.6,,,53,,,HIGH,,,LIGHT GREEN,
+8190944,09/29/1987,5.5,NO,1.7,,,53,,,,,,GREEN,
+8190944,10/03/1987,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,
+8190519,05/18/1988,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/25/1988,15.5,NO,4.7,,,38,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,06/01/1988,14.5,NO,4.4,,,39,,,,,,GREEN,2-Very minor aesthetic problems
+8190519,06/08/1988,11,NO,3.3,,,43,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,06/21/1988,10,NO,3,,,44,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,06/29/1988,8.5,NO,2.6,,,46,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/06/1988,11.5,NO,3.5,,,42,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/13/1988,9.5,NO,2.9,,,45,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/20/1988,7.5,NO,2.3,,,48,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/27/1988,7.5,NO,2.3,,,48,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,08/11/1988,4,NO,1.2,,,57,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,08/17/1988,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,08/29/1988,4,NO,1.2,,,57,,,,,,GREEN,
+8190519,09/05/1988,5,NO,1.5,,,54,,,,,,GREENISH BLUE,
+8190519,09/13/1988,5,NO,1.5,,,54,,,,,,BROWN,
+8190519,09/21/1988,5,NO,1.5,,,54,,,,,,BROWN,
+8190519,05/07/1989,4,NO,1.2,,,57,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/21/1989,23,NO,7,,,32,,,,,,,2-Very minor aesthetic problems
+8190519,05/30/1989,18,NO,5.5,,,35,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,06/12/1989,19.75,NO,6,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/22/1989,18.5,NO,5.6,,,35,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,06/30/1989,14.25,NO,4.3,,,39,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,07/04/1989,11.5,NO,3.5,,,42,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190519,07/07/1989,16.5,NO,5,,,37,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,07/15/1989,16,NO,4.9,,,37,,,,,,BLUE,2-Very minor aesthetic problems
+8190519,07/26/1989,16,NO,4.9,,,37,,,,,,BLUE,2-Very minor aesthetic problems
+8190519,08/14/1989,9,NO,2.7,,,45,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/23/1989,8.5,NO,2.6,,,46,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/30/1989,7,NO,2.1,,,49,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,09/12/1989,6.25,NO,1.9,,,51,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,05/12/1990,19,NO,5.8,,,35,,,,,CLEAR,BLUE,
+8190519,05/18/1990,17,NO,5.2,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/26/1990,16,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/09/1990,15,NO,4.6,,,38,,,,,CLEAR,BLUE,
+8190519,06/18/1990,16,NO,4.9,,,37,,,,,CLEAR,BLUE,
+8190519,06/30/1990,18,NO,5.5,,,35,,,,,CLEAR,BLUE,
+8190519,07/07/1990,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,07/20/1990,16.5,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,07/30/1990,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,08/11/1990,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,09/21/1990,5,NO,1.5,,,54,,,LOW,,,BROWN,
+8190519,09/30/1990,4.5,NO,1.4,,,55,,,LOW,,,BROWN,
+8190519,10/12/1990,4,NO,1.2,,,57,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190519,05/11/1991,16.5,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/18/1991,16,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/28/1991,26,NO,7.9,,,30,,,,,CLEAR,BLUE,
+8190519,06/08/1991,23,NO,7,,,32,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,06/16/1991,19,NO,5.8,,,35,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,06/22/1991,16,NO,4.9,,,37,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,07/01/1991,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,07/10/1991,9,NO,2.7,,,45,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/19/1991,8,NO,2.4,,,47,,,,,,GREEN,2-Very minor aesthetic problems
+8190519,07/28/1991,8.25,NO,2.5,,,47,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,08/10/1991,7.5,NO,2.3,,,48,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/21/1991,4.5,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,08/25/1991,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,09/02/1991,6,NO,1.8,,,51,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,09/16/1991,4.5,NO,1.4,,,55,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,09/26/1991,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,10/04/1991,3.5,NO,1.1,,,59,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,10/13/1991,3.5,NO,1.1,,,59,,,,,,,3-Enjoyment somewhat impaired (algae)
+8190519,10/23/1991,4.5,NO,1.4,,,55,,,,,,,3-Enjoyment somewhat impaired (algae)
+8190519,05/17/1992,11,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/24/1992,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/31/1992,12,NO,3.6,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/07/1992,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/13/1992,16.25,NO,4.9,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/21/1992,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,07/26/1992,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,08/03/1992,9,NO,2.7,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8190519,08/08/1992,9,NO,2.7,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,08/20/1992,7.5,NO,2.3,,,48,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,09/12/1992,6.5,NO,2,,,50,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,09/27/1992,9.5,NO,2.9,,,45,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,05/16/1993,7,NO,2.1,,,49,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/23/1993,9,NO,2.7,,,45,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190519,05/30/1993,6.25,NO,1.9,,,51,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,06/05/1993,14.25,NO,4.3,,,39,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190519,06/15/1993,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/26/1993,6.25,NO,1.9,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190519,07/04/1993,9,NO,2.7,,,45,,,,,,GREEN,
+8190519,07/15/1993,10,NO,3,,,44,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,07/26/1993,7.25,NO,2.2,,,49,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/05/1993,5,NO,1.5,,,54,,,,,,BROWN,
+1,08/09/1993,,,,,23,,52,,,,,,
+8190519,08/15/1993,3,NO,0.9,,,61,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190519,08/23/1993,4,NO,1.2,,,57,,,,,,BROWN,
+8190519,09/03/1993,3,NO,0.9,,,61,,,,,,BROWN,
+8190519,09/13/1993,2,NO,0.6,,,67,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,09/23/1993,2,NO,0.6,,,67,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190519,10/03/1993,6,NO,1.8,,,51,,,,,,GREEN,
+8190519,10/15/1993,9,NO,2.7,,,45,,,,,,GREEN,
+1,05/02/1994,22,,6.7,0.299,,33,,26,,,,,
+8190519,05/09/1994,6.5,NO,2,,,50,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,05/17/1994,12.25,NO,3.7,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/26/1994,19,NO,5.8,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/01/1994,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/07/1994,13,NO,4,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190519,06/16/1994,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/28/1994,7,NO,2.1,,,49,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,07/04/1994,8.5,NO,2.6,,,46,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,07/11/1994,5.25,NO,1.6,,,53,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/18/1994,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/25/1994,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/01/1994,4.5,NO,1.4,,,55,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/07/1994,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/15/1994,4,NO,1.2,,,57,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,08/22/1994,3.5,NO,1.1,,,59,,,,,,BROWN,
+8190519,08/29/1994,5,NO,1.5,,,54,,,,,,BROWN,
+8190519,09/08/1994,2.25,NO,0.7,,,65,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,09/14/1994,2,NO,0.6,,,67,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,09/24/1994,2.25,NO,0.7,,,65,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,04/18/1995,11,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,04/25/1995,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000017,05/02/1995,,,,7.1,16,,50,50,,,,,
+8190519,05/04/1995,8.5,NO,2.6,,,46,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,05/10/1995,7.5,NO,2.3,,,48,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,05/16/1995,6,NO,1.8,,,51,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,05/23/1995,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,06/03/1995,6,NO,1.8,,,51,,,,,,BROWN,2-Very minor aesthetic problems
+8190519,06/12/1995,7,NO,2.1,,,49,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,06/23/1995,6,NO,1.8,,,51,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,07/04/1995,8,NO,2.4,,,47,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/12/1995,6.5,NO,2,,,50,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190519,07/23/1995,5.5,NO,1.7,,,53,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,07/30/1995,5,NO,1.5,,,54,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,05/02/1996,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190519,05/10/1996,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/21/1996,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,05/31/1996,11,NO,3.3,,,43,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/11/1996,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190519,06/25/1996,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190519,07/09/1996,10,NO,3,,,44,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190519,07/30/1996,10.5,NO,3.2,,,43,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,08/07/1996,9,NO,2.7,,,45,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190519,09/09/1996,10,NO,3,,,44,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189716,08/09/1997,10,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000017,05/19/2000,24,,7.3,,,31,,,,,,,
+8189329,05/27/2001,18,NO,5.5,,,35,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189329,06/14/2001,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189329,07/14/2001,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189329,07/29/2001,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189329,08/17/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189329,09/27/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189329,10/06/2001,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189329,05/27/2002,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189329,07/11/2002,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189329,08/09/2002,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18136767,06/02/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,
+18136767,06/10/2007,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+18136767,06/17/2007,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,
+18136767,06/30/2007,10.25,NO,3.1,,,44,,,LOW,,MURKY,GREEN,
+18136767,07/06/2007,10.25,NO,3.1,,,44,,,LOW,,MURKY,GREEN,
+18136767,07/15/2007,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,
+18136767,07/28/2007,6,NO,1.8,,,51,,,LOW,,MURKY,GREEN,
+18136767,08/11/2007,5.25,NO,1.6,,,53,,,LOW,,MURKY,GREEN,
+18136767,08/25/2007,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,
+18136767,09/01/2007,5.5,NO,1.7,,,53,,,LOW,,MURKY,GREEN,
+18136767,06/30/2008,9.25,NO,2.8,3.12,21,45,52,43,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18136767,07/30/2008,5,NO,1.5,6.43,23,54,52,49,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18136767,09/17/2008,5,NO,1.5,20.8,42,54,57,58,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18136767,04/23/2009,,,,,24,,53,,,,,,
+18136767,06/24/2009,,,,4.44,18,,51,46,,,,,
+18136767,08/26/2009,,,,12.4,27,,54,54,,,,,
+18136767,09/30/2009,,,,16,57,,59,56,,,,,
+18136767,04/26/2010,,,,,25,,53,,,,,,
+18136767,07/29/2010,,,,3.8,16,,50,45,,,,,
+18136767,08/31/2010,,,,20.3,23,,52,58,,,,,
+18136767,06/08/2011,,,,2.33,24,,53,41,,,,,
+23168321,08/03/2011,,,,9.19,26,,53,52,,,,,
+18136767,08/30/2012,,,,37.2,39,,57,62,,,,,
+37157028,08/30/2012,,,,,,,,,,,,,
+18136767,08/15/2013,,,,105,81.5,,62,70,,,,,
+18136767,08/16/2013,,,,10.2,18,,51,52,,,,,
+18136767,09/11/2013,,,,10.5,93,,63,53,,,,,
+118959144,08/13/2016,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+118959144,04/13/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118959144,05/27/2017,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118959144,06/21/2017,12,NO,3.6,2.58,30.5,38,55,42,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+118959144,07/10/2017,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+118959144,08/19/2017,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+1,08/22/2017,,,,10.1,16.8,,50,52,,,,,
+118959144,06/14/2018,16.5,NO,5,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+118959144,08/22/2018,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+118959144,05/28/2019,18,NO,5.5,,18.2,35,51,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+118959144,06/15/2019,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+118959144,06/25/2019,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+118959144,07/24/2019,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+118959144,08/19/2019,6.5,NO,2,11.2,23.6,50,53,53,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118959144,05/31/2020,19.25,NO,5.9,,,35,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+118959144,07/23/2020,14,NO,4.3,2.15,14,39,49,41,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118959144,08/25/2020,9.5,NO,2.9,6.41,20,45,51,49,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/09/1993,,,20.4,C,3.1,MG/L
+05/02/1994,,,9.4,C,10.3,MG/L
+05/02/1995,,,9.5,C,9.6,MG/L
+06/30/2008,0,FEET,73.9,DEGREES F,7,MG/L
+06/30/2008,5,FEET,73.5,DEGREES F,,
+06/30/2008,10,FEET,73.2,DEGREES F,,
+06/30/2008,15,FEET,71,DEGREES F,8,MG/L
+06/30/2008,20,FEET,66.5,DEGREES F,3.5,MG/L
+06/30/2008,25,FEET,63.5,DEGREES F,1.5,MG/L
+06/30/2008,30,FEET,61.5,DEGREES F,,
+06/30/2008,35,FEET,60.4,DEGREES F,1.5,MG/L
+06/30/2008,37,FEET,60,DEGREES F,,
+07/30/2008,0,FEET,76.4,DEGREES F,7,MG/L
+07/30/2008,5,FEET,76.2,DEGREES F,,
+07/30/2008,10,FEET,76.1,DEGREES F,,
+07/30/2008,15,FEET,73.4,DEGREES F,7,MG/L
+07/30/2008,20,FEET,70.5,DEGREES F,3,MG/L
+07/30/2008,25,FEET,66.9,DEGREES F,1.5,MG/L
+07/30/2008,30,FEET,63.3,DEGREES F,,
+07/30/2008,35,FEET,60.8,DEGREES F,,
+07/30/2008,40,FEET,59.9,DEGREES F,,
+07/30/2008,43,FEET,59.7,DEGREES F,,
+09/17/2008,0,FEET,,,5,MG/L
+09/17/2008,5,FEET,65.1,DEGREES F,5,MG/L
+09/17/2008,10,FEET,64.4,DEGREES F,,
+09/17/2008,15,FEET,64.2,DEGREES F,5,MG/L
+09/17/2008,20,FEET,63.8,DEGREES F,4,MG/L
+09/17/2008,25,FEET,63.8,DEGREES F,4,MG/L
+09/17/2008,30,FEET,63.8,DEGREES F,,
+09/17/2008,35,FEET,63.8,DEGREES F,,
+09/17/2008,40,FEET,62,DEGREES F,,
+09/17/2008,45,FEET,61.5,DEGREES F,,
+08/13/2016,0,FEET,69.2,DEGREES F,,
+08/13/2016,5,FEET,68,DEGREES F,,
+08/13/2016,10,FEET,67.8,DEGREES F,,
+08/13/2016,15,FEET,67.4,DEGREES F,,
+08/13/2016,20,FEET,67.1,DEGREES F,,
+08/13/2016,25,FEET,66.9,DEGREES F,,
+08/13/2016,30,FEET,66.2,DEGREES F,,
+04/13/2017,0,FEET,47.1,DEGREES F,,
+04/13/2017,5,FEET,46.4,DEGREES F,,
+04/13/2017,10,FEET,46.2,DEGREES F,,
+04/13/2017,15,FEET,46.2,DEGREES F,,
+04/13/2017,20,FEET,46.2,DEGREES F,,
+04/13/2017,25,FEET,46.2,DEGREES F,,
+04/13/2017,30,FEET,46.2,DEGREES F,,
+05/27/2017,0,FEET,61.8,DEGREES F,,
+05/27/2017,5,FEET,61.7,DEGREES F,,
+05/27/2017,10,FEET,61.5,DEGREES F,,
+05/27/2017,15,FEET,57.2,DEGREES F,,
+05/27/2017,20,FEET,55.7,DEGREES F,,
+05/27/2017,25,FEET,54.3,DEGREES F,,
+05/27/2017,30,FEET,51.8,DEGREES F,,
+06/21/2017,0,FEET,71.6,DEGREES F,,
+06/21/2017,1,FEET,68.5,DEGREES F,,
+06/21/2017,3,FEET,68.5,DEGREES F,,
+06/21/2017,5,FEET,71,DEGREES F,,
+06/21/2017,6,FEET,68.3,DEGREES F,,
+06/21/2017,9,FEET,68.1,DEGREES F,,
+06/21/2017,10,FEET,70.7,DEGREES F,,
+06/21/2017,12,FEET,68,DEGREES F,,
+06/21/2017,15,FEET,67.8,DEGREES F,,
+06/21/2017,18,FEET,67.4,DEGREES F,,
+06/21/2017,20,FEET,65.6,DEGREES F,,
+06/21/2017,21,FEET,66.7,DEGREES F,,
+06/21/2017,24,FEET,57.3,DEGREES F,,
+06/21/2017,25,FEET,57.2,DEGREES F,,
+06/21/2017,27,FEET,56.1,DEGREES F,,
+06/21/2017,30,FEET,55.7,DEGREES F,,
+06/21/2017,33,FEET,54.8,DEGREES F,,
+06/21/2017,35,FEET,54.6,DEGREES F,,
+06/21/2017,36,FEET,53.4,DEGREES F,,
+06/21/2017,37,FEET,53.4,DEGREES F,,
+07/10/2017,0,FEET,77,DEGREES F,,
+07/10/2017,5,FEET,76.6,DEGREES F,,
+07/10/2017,10,FEET,75.5,DEGREES F,,
+07/10/2017,15,FEET,75,DEGREES F,,
+07/10/2017,20,FEET,66.5,DEGREES F,,
+07/10/2017,25,FEET,59.9,DEGREES F,,
+07/10/2017,30,FEET,57,DEGREES F,,
+07/10/2017,35,FEET,55.5,DEGREES F,,
+07/10/2017,40,FEET,54.5,DEGREES F,,
+08/19/2017,0,FEET,72.3,DEGREES F,,
+08/19/2017,5,FEET,71.9,DEGREES F,,
+08/19/2017,10,FEET,71.7,DEGREES F,,
+08/19/2017,15,FEET,71,DEGREES F,,
+08/19/2017,20,FEET,70.8,DEGREES F,,
+08/19/2017,25,FEET,66.7,DEGREES F,,
+08/19/2017,30,FEET,58.1,DEGREES F,,
+08/19/2017,35,FEET,55.7,DEGREES F,,
+06/14/2018,1,FEET,71.4,DEGREES F,,
+06/14/2018,3,FEET,71,DEGREES F,,
+06/14/2018,6,FEET,71,DEGREES F,,
+06/14/2018,9,FEET,71,DEGREES F,,
+06/14/2018,12,FEET,69.8,DEGREES F,,
+06/14/2018,15,FEET,68.7,DEGREES F,,
+06/14/2018,18,FEET,63.6,DEGREES F,,
+06/14/2018,21,FEET,54.6,DEGREES F,,
+06/14/2018,24,FEET,49.2,DEGREES F,,
+06/14/2018,27,FEET,47.6,DEGREES F,,
+06/14/2018,30,FEET,46.7,DEGREES F,,
+06/14/2018,33,FEET,46.4,DEGREES F,,
+08/22/2018,0,FEET,84.2,DEGREES F,,
+08/22/2018,1,FEET,76.2,DEGREES F,,
+08/22/2018,3,FEET,75.9,DEGREES F,,
+08/22/2018,5,FEET,75.9,DEGREES F,,
+08/22/2018,10,FEET,75.9,DEGREES F,,
+08/22/2018,15,FEET,75.7,DEGREES F,,
+08/22/2018,18,FEET,72.3,DEGREES F,,
+08/22/2018,20,FEET,70.1,DEGREES F,,
+08/22/2018,22,FEET,65.8,DEGREES F,,
+08/22/2018,24,FEET,60.8,DEGREES F,,
+08/22/2018,27,FEET,54.3,DEGREES F,,
+08/22/2018,30,FEET,51.6,DEGREES F,,
+08/22/2018,33,FEET,49.8,DEGREES F,,
+08/22/2018,35,FEET,49.4,DEGREES F,,
+08/22/2018,39,FEET,48.7,DEGREES F,,
+08/22/2018,40,FEET,48.5,DEGREES F,,
+05/28/2019,1,FEET,59,DEGREES F,,
+05/28/2019,3,FEET,57.2,DEGREES F,,
+05/28/2019,5,FEET,57.2,DEGREES F,,
+05/28/2019,10,FEET,56.8,DEGREES F,,
+05/28/2019,15,FEET,56.6,DEGREES F,,
+05/28/2019,20,FEET,56.6,DEGREES F,,
+05/28/2019,25,FEET,56.4,DEGREES F,,
+05/28/2019,26,FEET,53.6,DEGREES F,,
+05/28/2019,27,FEET,56.1,DEGREES F,,
+05/28/2019,30,FEET,55.2,DEGREES F,,
+05/28/2019,33,FEET,54.1,DEGREES F,,
+06/15/2019,0,FEET,70.1,DEGREES F,,
+06/15/2019,1,FEET,68.5,DEGREES F,,
+06/15/2019,5,FEET,68.3,DEGREES F,,
+06/15/2019,10,FEET,67.8,DEGREES F,,
+06/15/2019,15,FEET,67.6,DEGREES F,,
+06/15/2019,18,FEET,65.6,DEGREES F,,
+06/15/2019,20,FEET,65.1,DEGREES F,,
+06/15/2019,24,FEET,57.2,DEGREES F,,
+06/15/2019,27,FEET,56.1,DEGREES F,,
+06/15/2019,30,FEET,55.2,DEGREES F,,
+06/15/2019,33,FEET,54.3,DEGREES F,,
+06/15/2019,35,FEET,53.6,DEGREES F,,
+06/15/2019,39,FEET,53.2,DEGREES F,,
+06/25/2019,1,FEET,69.2,DEGREES F,,
+06/25/2019,5,FEET,69.6,DEGREES F,,
+06/25/2019,9,FEET,69.6,DEGREES F,,
+06/25/2019,12,FEET,69.6,DEGREES F,,
+06/25/2019,17,FEET,66.2,DEGREES F,,
+06/25/2019,20,FEET,59.3,DEGREES F,,
+06/25/2019,24,FEET,57,DEGREES F,,
+06/25/2019,27,FEET,55.7,DEGREES F,,
+06/25/2019,30,FEET,55.4,DEGREES F,,
+06/25/2019,33,FEET,54.6,DEGREES F,,
+06/25/2019,37,FEET,53.1,DEGREES F,,
+07/24/2019,1,FEET,79.1,DEGREES F,,
+07/24/2019,5,FEET,78.6,DEGREES F,,
+07/24/2019,9,FEET,77.5,DEGREES F,,
+07/24/2019,12,FEET,75.9,DEGREES F,,
+07/24/2019,20,FEET,65.1,DEGREES F,,
+07/24/2019,22,FEET,59,DEGREES F,,
+07/24/2019,24,FEET,58.1,DEGREES F,,
+07/24/2019,27,FEET,57,DEGREES F,,
+07/24/2019,30,FEET,55.9,DEGREES F,,
+07/24/2019,33,FEET,55.4,DEGREES F,,
+07/24/2019,37,FEET,53.6,DEGREES F,,
+08/19/2019,1,FEET,74.6,DEGREES F,,
+08/19/2019,5,FEET,74.6,DEGREES F,,
+08/19/2019,9,FEET,74.4,DEGREES F,,
+08/19/2019,12,FEET,74.3,DEGREES F,,
+08/19/2019,15,FEET,74.1,DEGREES F,,
+08/19/2019,18,FEET,73.2,DEGREES F,,
+08/19/2019,21,FEET,68.3,DEGREES F,,
+08/19/2019,24,FEET,62.4,DEGREES F,,
+08/19/2019,27,FEET,59,DEGREES F,,
+08/19/2019,30,FEET,57.2,DEGREES F,,
+08/19/2019,33,FEET,55.7,DEGREES F,,
+08/19/2019,36,FEET,55.4,DEGREES F,,
+08/19/2019,37,FEET,54.3,DEGREES F,,
+05/31/2020,3,FEET,66.5,DEGREES F,,
+05/31/2020,6,FEET,65,DEGREES F,,
+05/31/2020,9,FEET,65.6,DEGREES F,,
+07/23/2020,1,FEET,76.2,DEGREES F,,
+07/23/2020,3,FEET,75.9,DEGREES F,,
+08/25/2020,3,FEET,77.3,DEGREES F,,
+08/25/2020,6,FEET,77.1,DEGREES F,,
+08/25/2020,9,FEET,77,DEGREES F,,
+08/25/2020,12,FEET,76.8,DEGREES F,,
+08/25/2020,15,FEET,76.2,DEGREES F,,
+08/25/2020,18,FEET,74.6,DEGREES F,,
+08/25/2020,21,FEET,73.4,DEGREES F,,
+08/25/2020,24,FEET,69,DEGREES F,,
+08/25/2020,27,FEET,65.6,DEGREES F,,
+08/25/2020,30,FEET,59,DEGREES F,,
+08/25/2020,33,FEET,57.5,DEGREES F,,
+08/25/2020,36,FEET,56.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/16/1987,Partly sunny- rained .7" night before.    
+08/22/1987,Sunny- lake down 2" from last week- south wind.    
+09/07/1987,Heavy algae all over lake- no wind.    
+09/26/1987,Cool- sunny- rained 4" during previous week.  Water level: up 4"    
+09/29/1987,Sunny- W wind.  The water color is green but is leans towards brown.    
+10/03/1987,Sunny- cool.    
+05/18/1988,Sunny- calm.    
+05/25/1988,Sunny.    
+06/08/1988,Cloudy- algae bloom.    
+06/21/1988,Sunny- no wind.    
+06/29/1988,More algae- lake very weedy.    
+07/06/1988,Algae bloom.    
+07/13/1988,.5" rain night before.    
+07/20/1988,Partly cloudy- rain from 11:00 A.M. to 2:00 P.M.    
+07/27/1988,Sunny day- 15 mph winds.    
+08/11/1988,Little Balsam - lots of algae- sunny- rain- strong wind at 8:00.    
+08/17/1988,Algae in Little Balsam- sunny- no wind.    
+08/29/1988,Cloudy- algae bloom.    
+09/05/1988,Partly cloudy- no algae- windy.    
+09/13/1988,Cloudy.    
+09/21/1988,Clear- sunny.    
+05/07/1989,Sunny- calm.    
+05/21/1989,Clear- sunny day- rained day before.    
+05/30/1989,Cloudy- rained this morning.    
+06/12/1989,Algal bloom after rain.    
+07/07/1989,After rain.    
+08/14/1989,Cloudy- windy.    
+08/23/1989,Sunny- rain in morning.    
+09/12/1989,Lots of rain past few days.    
+05/12/1990,Sunny- slight wind.    
+05/18/1990,Sunny- cold- slight wind.    
+05/26/1990,Cloudy- almost rain.    
+06/09/1990,Sunny.    
+06/18/1990,Sunny- slight wind.    
+07/07/1990,Sunny- algae bloom.    
+07/20/1990,Sunny.    
+08/11/1990,Sunny.  First time Site Two is better than Site One.    
+09/21/1990,Water very brown.    
+09/30/1990,Lots of runoff into Little Balsam- water very brown.    
+10/12/1990,Lake very dirty- last reading.    
+05/11/1991,Sunny.    
+05/18/1991,Cloudy.    
+05/28/1991,Sunny.    
+06/08/1991,Sunny.    
+07/01/1991,Cloudy.    
+08/21/1991,Sunny- windy- Little Balsam better than Big Balsam for 1st time.    
+08/25/1991,Sunny day.    
+09/02/1991,Windy- partly sunny.    
+10/04/1991,Windy.    
+10/23/1991,Last one for year.    
+05/17/1992,Ice out- April 15- partly cloudy.    
+05/24/1992,Sunny and calm.    
+05/31/1992,Sunny.    
+06/07/1992,Lake rough.    
+06/13/1992,Sunny and windy.    
+06/21/1992,Water is dirty and sunny.    
+07/26/1992,Sunny day.    
+08/03/1992,Windy.    
+08/08/1992,Sunny and windy.    
+08/20/1992,Windy- partly cloudy.    
+09/12/1992,Very windy.    
+09/27/1992,Sunny- very windy.    
+05/16/1993,Cloudy.    
+05/23/1993,Partly cloudy.    
+05/30/1993,Algal blooms.    
+06/05/1993,Sunny.    
+06/15/1993,Sunny.    
+07/04/1993,Cloudy.    
+07/26/1993,Lake is brown.    
+08/05/1993,Water is very brown.    
+08/15/1993,Water is very brown- cloudy.    
+08/23/1993,Lake is still brown.    
+09/03/1993,Bad.    
+09/23/1993,Water is very brown- 1st time in last 5 years Little Balsam better than Big Balsam Lake.    
+10/03/1993,Sunny.    
+10/15/1993,Water is improving- this is the last reading of the year.    
+05/09/1994,Not good for this time of year.    
+06/07/1994,Best Little Balsam has ever been in last 8 years.    
+07/18/1994,Cloudy.    
+08/01/1994,Water very brown.    
+09/24/1994,Last reading this year.    
+04/18/1995,Ice out 4-16-95.    
+05/16/1995,Cloudy.    
+05/23/1995,Cloudy.    
+07/23/1995,Algal bloom.    
+07/30/1995,Algae.    
+08/09/1997,Overcast day.    
+05/27/2001,Sunny to partly cloudy.    
+06/14/2001,Cloudy- overcast- and the temperature is 78 degrees.    
+07/14/2001,Overcast- partly sunny- and the temperature is 85 degrees.    
+07/29/2001,Sunny and the temperature is 80 degrees.    
+08/17/2001,The water temperature is 72 degrees.    
+09/27/2001,Sunny and the water is cloudy.    
+10/06/2001,Sunny and the air temperature is 47 degrees.    
+05/27/2002,Sunny - 78 degrees.    
+07/11/2002,Sunny - 80 degrees.    
+08/09/2002,Overcast - 78 degrees.    
+06/02/2007,Clear day- no wind
+06/10/2007,Clear day- no wind
+06/17/2007,Slightly overcast- windy
+06/30/2007,Clear day- windy
+07/06/2007,Clear day- little wind
+07/15/2007,Clear day- little wind
+07/28/2007,Clear day- little wind
+08/11/2007,Cloudy- windy
+08/25/2007,Cloudy- little wind
+09/01/2007,Clear- little wind
+08/13/2016,Partly cloudy- wind clam. Helper: Laura Sloss
+04/13/2017,Overcast- Southeasterly winds 10 - 15 mph
+05/27/2017,Partly cloudy- westerly winds at 15mph. 
+06/21/2017,Beautiful warm day- no clouds clear sky / wind SSE at 13 mph / barometer 30.12 in Hg / Air Temp 85.0 degrees F.
+Lake use light recreational fishing- swimming using boat or pontoon as the platform- some water skiing.
+Noted that Snapping and Red Ear Slider (or similar) are coming ashore to lay eggs.  Racoon enjoying the eggs nightly. 
+
+Assisting in data collection Faelin Flynn- 6 yrs and Torsten Flynn- 8 yrs.   
+06/21/2017,Clear sky and sunny- southerly winds 8 mph
+07/10/2017,Partly Cloudy- Winds from the North at 7 mph.  Additional helper was Laura Sloss.
+08/19/2017,Clear to partly cloudy sky.  Light southwest winds at 7 mph. Air temperature at 74 degrees F.  Helpers: Laura Sloss- Faylin Flynn (3 yrs old) and Torsten Flynn (5 yrs old).
+06/14/2018,Sky Sunny and blue.  Outside air temperature 80.2 F.  Wind speed and direction: Not recorded.
+08/22/2018,Blue Sky- Winds speed and direction not recorded.
+05/28/2019,Partly cloudy with blue sky.  Winds calm. Ambient air temp 78.8 degrees F. Ice out on 04/21/2019
+Canadian goose population in Boston Bay and Stumps Bay is significantly down do to a successful 2018 eradication program executed by the Village of Balsam Lake and the Balsam Lake Protection and Rehab district.  Observed one single mature- one young pair with no goslings- one young pair with three healthy goslings.  Bald Eagle sightings appear to be down.  Two young loons sighted. Gold Finches- Barn Swallows- Brown Creepers- Baltimore Orioles- Scarlet Tangager- a pair of Pileated Wood Pecker- Wild Turkey- Red-Bellied Wood Pecker- Mink and a Bull Snake. 
+06/15/2019,Lake level is still relatively high.  Goose population is down by 50%- an acceptable level.  Two tundra swans nesting in Stumps Bay as are a pair of Sandhill Cranes.  It is enjoyable to hear their calls.
+
+Today was clear skies- temp in the low 70's- wind from the East. Water is a little cool but several water skiers and wake boarders.   
+
+06/25/2019,Clear blue sky- winds out of the West at 10 - 15 mph.  Ambient temp 70.5 degrees Fahrenheit.  Working with Andy Wilhoit.  Grab samples were taken per procedure for phosphorus and Chlorophyll at both sites on Balsam- site 493056 and 493058.  Samples were sent to state lab for analysis.
+07/24/2019,Clear blue sky- winds out of the West. air temperature 80.4 degrees Fahrenheit.
+08/19/2019,Clear Blue sky.  Lake. 15 mph wind out of the West.  Haven't heard the geese or the swans in three days.  Saturday night and Sunday experienced substantial rainfall.  The water clarity has deteriorated.  Air Temperature 74.3 degrees F.
+05/31/2020,Clear blue sky. Wind SSW  at 5mph. Barometric pressure 30.24 in hg. Lake use light moderate tubing and fishing.
+07/23/2020,Blue Sky - Partly cloudy- SE Wind at 6 mph- Barometric pressure 30.11 in hg- Ambient Air Temperature 76.4 F
+
+Light mixed use today. Mostly recreational boating. 
+08/25/2020,Ambient air temp 87.0 degrees Fahrenheit; Winds ESE at 12 mph; barometric pressure 29.95 in Hg; cloud cover at about 55% - 60%. Light pleasure boating use- swimmers enjoying pleasant water temps to cool off.  Waterfowl includes evening vocalization of Loons- 4 a.m. vocalization of tundra swans before they leave to feeding locations. Have seen several diver ducks in Stumps Bay.  They tend to hang close to shore.  Canadian geese are absent the lake as nuisance control measures have had an impact.  I observed one goose today and have seldom heard any early morning vocalizations. 
+
+
+
+
+Start Date,Group Name,Project Name
+08/16/1987,Greg Moore,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/22/1987,Greg Moore,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/07/1987,Greg Moore,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/26/1987,Greg Moore,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/29/1987,Greg Moore,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/03/1987,Greg Moore,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/18/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/25/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/01/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/08/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/21/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/29/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/06/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/13/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/20/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/27/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/11/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/17/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/29/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/05/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/13/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/21/1988,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/07/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/21/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/30/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/12/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/22/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/30/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/04/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/07/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/15/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/26/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/14/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/23/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/30/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/12/1989,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/12/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/18/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/26/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/09/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/18/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/30/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/07/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/20/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/30/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/11/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/21/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/30/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/12/1990,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/11/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/18/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/28/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/08/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/16/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/22/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/01/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/10/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/19/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/28/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/10/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/21/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/25/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/02/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/16/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/26/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/04/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/13/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/23/1991,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/17/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/24/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/31/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/07/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/13/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/21/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/26/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/03/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/08/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/20/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/12/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/27/1992,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/16/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/23/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/30/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/05/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/15/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/26/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/04/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/15/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/26/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/05/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/09/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/15/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/23/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/03/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/13/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/23/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/03/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/15/1993,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/02/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/09/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/17/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/26/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/01/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/07/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/16/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/28/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/04/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/11/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/18/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/25/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/01/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/07/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/15/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/22/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/29/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/08/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/14/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/24/1994,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+04/18/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+04/25/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/02/1995,Craig Roesler,NONPOINT SOURCE
+05/04/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/10/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/16/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/23/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/03/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/12/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/23/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/04/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/12/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/23/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/30/1995,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/02/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/10/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/21/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/31/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/11/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/25/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/09/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/30/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/07/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/09/1996,Ken Prose,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/09/1997,Allen Dornfeld,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/19/2000,Craig Roesler,Statewide Sediment Analysis 1999-2000
+05/27/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/14/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/14/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/29/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/17/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/27/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+10/06/2001,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/27/2002,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/11/2002,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/09/2002,Robert Winter,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/02/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/10/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/17/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/30/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/06/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/15/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/28/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/11/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/25/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/01/2007,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/30/2008,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/30/2008,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/17/2008,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+04/23/2009,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/24/2009,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/26/2009,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/30/2009,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+04/26/2010,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/29/2010,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/31/2010,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/08/2011,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/03/2011,Gordon Hanson- Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/30/2012,Michael Jones,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/30/2012,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/15/2013,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/16/2013,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/11/2013,Milt Stanze,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+09/11/2013,Milt Stanze,Citizen Lake Monitoring Network QA/QC - 2013
+08/13/2016,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+04/13/2017,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/27/2017,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/21/2017,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/10/2017,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/19/2017,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/22/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/14/2018,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/22/2018,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/28/2019,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/15/2019,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+06/25/2019,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/24/2019,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/19/2019,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+05/31/2020,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+07/23/2020,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole
+08/25/2020,Ray Sloss,Citizen Lake Monitoring - Water Quality - Balsam Lake- Main Basin- Site #1; Deep Hole

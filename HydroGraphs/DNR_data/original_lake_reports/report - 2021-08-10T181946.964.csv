@@ -1,0 +1,222 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Star Lake,Oconto,427900,NE,43,,10020599,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18137454,05/13/2007,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137454,05/27/2007,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137454,06/02/2007,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137454,06/10/2007,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137454,06/24/2007,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+18137454,07/04/2007,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137454,07/15/2007,11.75,NO,3.6,,,42,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137454,08/04/2007,12.4,NO,3.8,,,41,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137454,08/26/2007,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18137454,09/08/2007,13.7,NO,4.2,,,39,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18137454,09/30/2007,10.5,NO,3.2,,,43,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+148112004,06/07/2018,18,N,5.5,1.36,11.8,35,47,37,,,,,
+148112004,07/06/2018,,,,1.68,9.39,,46,39,,,,,
+179480916,07/06/2018,18.5,NO,5.6,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+148112004,07/18/2018,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+148112004,08/22/2018,13,N,4,3.35,7.78,40,44,44,,,,,
+179480916,08/22/2018,,,,,,,,,,,,,
+259212062,08/22/2018,13,,4,,,40,,,NORMAL,,CLEAR,BROWN,
+179480916,09/14/2018,,,,,,,,,,,,,
+259212062,09/14/2018,18,,5.5,,,35,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+79323097,11/07/2018,11,NO,3.3,,,43,,,,,,,
+79323097,02/13/2019,,,,,,,,,,,,,
+79323097,04/24/2019,10,NO,3,,,44,,,HIGH,,,,
+259212062,05/19/2019,19,,5.8,,,35,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+259212062,05/21/2019,19,Y,5.8,,10.1,35,46,,,,,,
+259212062,06/19/2019,15,,4.6,,,38,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+259212062,06/25/2019,15,YES,4.6,4.1,12.8,38,48,45,,,,,
+259212062,07/16/2019,9,,2.7,6.19,16.9,45,50,49,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+259212062,08/26/2019,12,Y,3.6,5.27,11,41,47,47,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+259212062,09/17/2019,15,,4.6,,,38,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+143167470,07/07/2020,20,YES,6.1,1.69,13.6,34,48,39,,,,,
+259212062,07/07/2020,20,NO,6.1,,,34,,,HIGH,,CLEAR,BROWN,
+259212062,08/04/2020,16,NO,4.9,,,37,,,HIGH,,CLEAR,BROWN,
+259212062,09/14/2020,17,NO,5.2,1.89,14.2,36,49,40,HIGH,,CLEAR,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/07/2018,,,21.67,C,,
+07/06/2018,0,FEET,79.8,DEGREES F,,
+07/06/2018,3,FEET,79.7,DEGREES F,,
+07/06/2018,6,FEET,79.3,DEGREES F,,
+07/06/2018,9,FEET,79.1,DEGREES F,,
+07/06/2018,12,FEET,78.6,DEGREES F,,
+07/06/2018,15,FEET,74.4,DEGREES F,,
+07/06/2018,18,FEET,68.7,DEGREES F,,
+07/06/2018,21,FEET,64.7,DEGREES F,,
+07/06/2018,24,FEET,63.3,DEGREES F,,
+07/06/2018,27,FEET,62.9,DEGREES F,,
+07/18/2018,3,FEET,26.93,DEGREES C,10.81,MG/L
+07/18/2018,6,FEET,26.38,DEGREES C,11.35,MG/L
+07/18/2018,9,FEET,26.23,DEGREES C,10.65,MG/L
+07/18/2018,12,FEET,25.94,DEGREES C,10.62,MG/L
+07/18/2018,15,FEET,25.65,DEGREES C,9.88,MG/L
+07/18/2018,18,FEET,21.82,DEGREES C,11.21,MG/L
+07/18/2018,21,FEET,19.56,DEGREES C,4.83,MG/L
+08/22/2018,0,FEET,75,DEGREES F,,
+08/22/2018,3,FEET,75,DEGREES F,,
+08/22/2018,6,FEET,74.8,DEGREES F,,
+08/22/2018,9,FEET,74.6,DEGREES F,,
+08/22/2018,12,FEET,74.4,DEGREES F,,
+08/22/2018,15,FEET,74.3,DEGREES F,,
+08/22/2018,18,FEET,74.1,DEGREES F,,
+08/22/2018,21,FEET,73.5,DEGREES F,,
+08/22/2018,24,FEET,72.8,DEGREES F,,
+08/22/2018,27,FEET,72.6,DEGREES F,,
+08/22/2018,,,22.56-23.89,C,,
+09/14/2018,0,FEET,73.7,DEGREES F,,
+09/14/2018,3,FEET,71.2,DEGREES F,,
+09/14/2018,6,FEET,70.5,DEGREES F,,
+09/14/2018,9,FEET,70.1,DEGREES F,,
+09/14/2018,12,FEET,69.8,DEGREES F,,
+09/14/2018,15,FEET,69.6,DEGREES F,,
+09/14/2018,18,FEET,69,DEGREES F,,
+09/14/2018,21,FEET,68.9,DEGREES F,,
+09/14/2018,24,FEET,68.3,DEGREES F,,
+09/14/2018,27,FEET,68.3,DEGREES F,,
+11/07/2018,2,FEET,6.15,DEGREES C,11.15,MG/L
+11/07/2018,4,FEET,6.11,DEGREES C,11.3,MG/L
+11/07/2018,5,FEET,6.08,DEGREES C,11.3,MG/L
+11/07/2018,6,FEET,6.04,DEGREES C,11.25,MG/L
+11/07/2018,7,FEET,6.06,DEGREES C,11.28,MG/L
+11/07/2018,8,FEET,6.03,DEGREES C,11.32,MG/L
+11/07/2018,9,FEET,6.05,DEGREES C,11.26,MG/L
+11/07/2018,10,FEET,6.04,DEGREES C,11.26,MG/L
+11/07/2018,11,FEET,6.03,DEGREES C,11.31,MG/L
+11/07/2018,12,FEET,6.03,DEGREES C,11.31,MG/L
+11/07/2018,13,FEET,6.03,DEGREES C,11.29,MG/L
+11/07/2018,15,FEET,6.04,DEGREES C,11.29,MG/L
+11/07/2018,17,FEET,7.44,DEGREES C,10.34,MG/L
+02/13/2019,5,FEET,4.8,DEGREES C,8.17,MG/L
+02/13/2019,7,FEET,4.6,DEGREES C,6.06,MG/L
+02/13/2019,9,FEET,4.5,DEGREES C,5.83,MG/L
+02/13/2019,11,FEET,4.5,DEGREES C,5.72,MG/L
+02/13/2019,13,FEET,4.7,DEGREES C,4.94,MG/L
+02/13/2019,15,FEET,4.7,DEGREES C,3.45,MG/L
+02/13/2019,17,FEET,4.9,DEGREES C,2.27,MG/L
+02/13/2019,19,FEET,5,DEGREES C,1.48,MG/L
+02/13/2019,21,FEET,5.1,DEGREES C,.75,MG/L
+04/24/2019,2,FEET,7.77,DEGREES C,9.73,MG/L
+04/24/2019,4,FEET,7.63,DEGREES C,9.69,MG/L
+04/24/2019,6,FEET,7.32,DEGREES C,9.52,MG/L
+04/24/2019,8,FEET,7.2,DEGREES C,9.45,MG/L
+04/24/2019,10,FEET,7.12,DEGREES C,9.41,MG/L
+04/24/2019,12,FEET,7.05,DEGREES C,9.37,MG/L
+04/24/2019,14,FEET,7.01,DEGREES C,9.29,MG/L
+04/24/2019,16,FEET,6.81,DEGREES C,9.23,MG/L
+04/24/2019,18,FEET,6.55,DEGREES C,8.63,MG/L
+04/24/2019,20,FEET,6.53,DEGREES C,8.56,MG/L
+04/24/2019,21,FEET,6.42,DEGREES C,8.47,MG/L
+05/19/2019,5,FEET,55.4,DEGREES F,,
+05/19/2019,10,FEET,54.6,DEGREES F,,
+05/19/2019,15,FEET,54.5,DEGREES F,,
+05/19/2019,20,FEET,52.8,DEGREES F,,
+05/19/2019,25,FEET,51,DEGREES F,,
+05/21/2019,5,FEET,55.4,DEGREES F,,
+05/21/2019,10,FEET,54.6,DEGREES F,,
+05/21/2019,15,FEET,54.5,DEGREES F,,
+05/21/2019,20,FEET,52.8,DEGREES F,,
+05/21/2019,25,FEET,51,DEGREES F,,
+05/21/2019,,,12.83,C,,
+06/25/2019,5,FEET,70.5,DEGREES F,,
+06/25/2019,10,FEET,70.1,DEGREES F,,
+06/25/2019,15,FEET,68.1,DEGREES F,,
+06/25/2019,20,FEET,63.8,DEGREES F,,
+06/25/2019,25,FEET,60.2,DEGREES F,,
+06/25/2019,,,70.5,C,,
+07/16/2019,5,FEET,78.2,DEGREES F,,
+07/16/2019,10,FEET,78,DEGREES F,,
+07/16/2019,15,FEET,75.7,DEGREES F,,
+07/16/2019,20,FEET,69.7,DEGREES F,,
+07/16/2019,25,FEET,61.8,DEGREES F,,
+07/16/2019,,,25.67,C,,
+08/26/2019,5,FEET,70.8,DEGREES F,,
+08/26/2019,10,FEET,70.8,DEGREES F,,
+08/26/2019,15,FEET,70.7,DEGREES F,,
+08/26/2019,20,FEET,70.3,DEGREES F,,
+08/26/2019,25,FEET,69.8,DEGREES F,,
+08/26/2019,,,21.56,C,,
+09/17/2019,5,FEET,66,DEGREES F,,
+09/17/2019,10,FEET,64.5,DEGREES F,,
+09/17/2019,15,FEET,63.8,DEGREES F,,
+09/17/2019,20,FEET,63.3,DEGREES F,,
+09/17/2019,25,FEET,63.1,DEGREES F,,
+07/07/2020,5,FEET,82,DEGREES F,,
+07/07/2020,10,FEET,81.3,DEGREES F,,
+07/07/2020,15,FEET,76.2,DEGREES F,,
+07/07/2020,20,FEET,71.4,DEGREES F,,
+07/07/2020,25,FEET,67.8,DEGREES F,,
+07/07/2020,,,83.1,C,,
+08/04/2020,5,FEET,73.7,DEGREES F,,
+08/04/2020,10,FEET,73.7,DEGREES F,,
+08/04/2020,15,FEET,73.5,DEGREES F,,
+08/04/2020,20,FEET,73,DEGREES F,,
+08/04/2020,25,FEET,71.9,DEGREES F,,
+09/14/2020,5,FEET,63.6,DEGREES F,,
+09/14/2020,10,FEET,63.6,DEGREES F,,
+09/14/2020,15,FEET,63.6,DEGREES F,,
+09/14/2020,20,FEET,63.5,DEGREES F,,
+09/14/2020,25,FEET,63.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/13/2007,First sample!
+05/27/2007,Partly Cloudy
+06/10/2007,good reading- no wind
+06/24/2007,clear sky clear sky
+07/15/2007,partly cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+05/13/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+05/27/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+06/02/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+06/10/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+06/24/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+07/04/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+07/15/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+08/04/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+08/26/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+09/08/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+09/30/2007,Tom Case,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+06/07/2018,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2018
+07/06/2018,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2018
+07/06/2018,Tom Morgan,Directed Lakes 2018
+07/18/2018,Brenda L Nordin- BRIAN D ZALAY,Oconto County Lake Studies
+08/22/2018,Brenda L Nordin- BRIAN D ZALAY,Directed Lakes 2018
+08/22/2018,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+08/22/2018,Tom Morgan,Directed Lakes 2018
+08/22/2018,Tom Morgan,Directed Lakes 2018 Nordin
+09/14/2018,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+09/14/2018,Tom Morgan,Directed Lakes 2018
+11/07/2018,Ryan Haney,Oconto County Lake Studies
+02/13/2019,Ryan Haney,Oconto County Lake Studies
+04/24/2019,Ryan Haney,Oconto County Lake Studies
+05/19/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+05/21/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+05/21/2019,Linda and Tom Morgan,Directed Lakes 2018 Nordin
+06/19/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+06/25/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+06/25/2019,Linda and Tom Morgan,Directed Lakes 2018 Nordin
+07/16/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+07/16/2019,Linda and Tom Morgan,Directed Lakes 2018 Nordin
+08/26/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+08/26/2019,Linda and Tom Morgan,Directed Lakes 2018 Nordin
+09/17/2019,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+07/07/2020,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+07/07/2020,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+08/04/2020,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole
+09/14/2020,Linda and Tom Morgan,Citizen Lake Monitoring - Water Quality - Star Lake - Deep Hole

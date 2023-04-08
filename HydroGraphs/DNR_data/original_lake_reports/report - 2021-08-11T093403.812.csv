@@ -1,0 +1,219 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Roach Lake,Vilas,1014000,NO,64,,643450,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190483,07/28/1995,23.5,NO,7.1,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,08/04/1995,22,NO,6.7,,,33,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,08/18/1995,23.5,NO,7.1,,,32,,,,,,GREEN,1-Beautiful, could not be nicer
+8190483,09/01/1995,23.5,NO,7.1,,,32,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+8190483,09/27/1995,24.5,NO,7.4,,,31,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+8190483,10/15/1995,20,NO,6.1,,,34,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+8190483,06/26/1996,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,07/10/1996,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,07/20/1996,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,08/01/1996,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,09/18/1996,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,05/30/1997,30,NO,9.1,,,28,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,06/17/1997,27.5,NO,8.4,,,29,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,07/07/1997,27,NO,8.2,0.7,8,30,44,32,HIGH,,,BLUE,1-Beautiful, could not be nicer
+8190483,07/13/1997,26.5,NO,8.1,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,08/12/1997,21,NO,6.4,1.01,ND*,33,,35,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,09/24/1997,16.5,NO,5,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190483,10/07/1997,16,YES,4.9,1.64,ND*,37,,39,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,04/22/1998,14,NO,4.3,,9,39,45,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,05/19/1998,,,,,ND*,,,,,,,,
+8190483,05/19/1998,29,NO,8.8,,,29,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,07/05/1998,28,NO,8.5,0.92,5,29,41,34,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,07/21/1998,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,07/22/1998,,,,0.58,6,,42,31,,,,,
+8190483,08/24/1998,22,NO,6.7,1.33,5,33,41,37,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,09/09/1998,26,NO,7.9,,,30,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,10/24/1998,10,YES,3,8.98,12,44,47,51,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,06/22/1999,28,NO,8.5,0.59,ND*,29,,31,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190483,07/26/1999,17,NO,5.2,1.32,ND*,36,,37,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190483,08/28/1999,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190483,08/29/1999,,,,1.22,5,,41,36,,,,,
+8190483,10/28/1999,18,NO,5.5,3.21,12,35,47,44,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+205001956,09/14/2019,18,NO,5.5,,,35,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+205001956,06/12/2020,22,,6.7,,,33,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+205001956,07/05/2020,26,NO,7.9,,,30,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/07/1997,3,FEET,68,DEGREES F,,
+07/07/1997,6,FEET,67,DEGREES F,,
+07/07/1997,9,FEET,67,DEGREES F,,
+07/07/1997,15,FEET,66,DEGREES F,,
+07/07/1997,20,FEET,56,DEGREES F,,
+08/12/1997,3,FEET,74,DEGREES F,,
+08/12/1997,6,FEET,74,DEGREES F,,
+08/12/1997,9,FEET,74,DEGREES F,,
+08/12/1997,15,FEET,74,DEGREES F,,
+08/12/1997,20,FEET,68,DEGREES F,,
+08/12/1997,25,FEET,64,DEGREES F,,
+08/12/1997,30,FEET,58,DEGREES F,,
+08/12/1997,36,FEET,54,DEGREES F,,
+10/07/1997,3,FEET,60,DEGREES F,,
+10/07/1997,6,FEET,60,DEGREES F,,
+10/07/1997,9,FEET,60,DEGREES F,,
+10/07/1997,15,FEET,60,DEGREES F,,
+10/07/1997,20,FEET,60,DEGREES F,,
+10/07/1997,25,FEET,60,DEGREES F,,
+10/07/1997,30,FEET,60,DEGREES F,,
+10/07/1997,35,FEET,58,DEGREES F,,
+10/07/1997,38,FEET,60,DEGREES F,,
+04/22/1998,3,FEET,49,DEGREES F,,
+04/22/1998,6,FEET,48,DEGREES F,,
+04/22/1998,9,FEET,48,DEGREES F,,
+04/22/1998,15,FEET,47,DEGREES F,,
+04/22/1998,20,FEET,45,DEGREES F,,
+04/22/1998,25,FEET,44,DEGREES F,,
+04/22/1998,30,FEET,44,DEGREES F,,
+05/19/1998,3,FEET,70,DEGREES F,,
+05/19/1998,6,FEET,70,DEGREES F,,
+05/19/1998,9,FEET,68,DEGREES F,,
+05/19/1998,15,FEET,63,DEGREES F,,
+05/19/1998,20,FEET,62,DEGREES F,,
+05/19/1998,25,FEET,57,DEGREES F,,
+05/19/1998,30,FEET,47,DEGREES F,,
+05/19/1998,41,FEET,44,DEGREES F,,
+07/05/1998,3,FEET,75,DEGREES F,,
+07/05/1998,6,FEET,75,DEGREES F,,
+07/05/1998,9,FEET,74,DEGREES F,,
+07/05/1998,15,FEET,72,DEGREES F,,
+07/05/1998,20,FEET,66,DEGREES F,,
+07/05/1998,25,FEET,60,DEGREES F,,
+07/05/1998,30,FEET,54,DEGREES F,,
+07/05/1998,35,FEET,48,DEGREES F,,
+07/21/1998,6,FEET,71,DEGREES F,,
+07/21/1998,9,FEET,71,DEGREES F,,
+07/21/1998,15,FEET,70,DEGREES F,,
+07/21/1998,20,FEET,62,DEGREES F,,
+07/21/1998,25,FEET,54,DEGREES F,,
+07/21/1998,30,FEET,49,DEGREES F,,
+07/21/1998,35,FEET,44,DEGREES F,,
+07/21/1998,40,FEET,43,DEGREES F,,
+08/24/1998,3,FEET,69,DEGREES F,,
+08/24/1998,6,FEET,68,DEGREES F,,
+08/24/1998,9,FEET,68,DEGREES F,,
+08/24/1998,15,FEET,68,DEGREES F,,
+08/24/1998,20,FEET,68,DEGREES F,,
+08/24/1998,25,FEET,68,DEGREES F,,
+08/24/1998,30,FEET,61,DEGREES F,,
+08/24/1998,35,FEET,52,DEGREES F,,
+08/24/1998,42,FEET,42,DEGREES F,,
+10/24/1998,3,FEET,48,DEGREES F,,
+10/24/1998,6,FEET,48,DEGREES F,,
+10/24/1998,9,FEET,47,DEGREES F,,
+10/24/1998,15,FEET,47,DEGREES F,,
+10/24/1998,20,FEET,47,DEGREES F,,
+10/24/1998,25,FEET,47,DEGREES F,,
+10/24/1998,30,FEET,47,DEGREES F,,
+10/24/1998,35,FEET,47,DEGREES F,,
+10/24/1998,41,FEET,47,DEGREES F,,
+06/22/1999,3,FEET,68,DEGREES F,,
+06/22/1999,6,FEET,64,DEGREES F,,
+06/22/1999,9,FEET,64,DEGREES F,,
+06/22/1999,15,FEET,63,DEGREES F,,
+06/22/1999,20,FEET,54,DEGREES F,,
+06/22/1999,25,FEET,47,DEGREES F,,
+06/22/1999,30,FEET,45,DEGREES F,,
+06/22/1999,35,FEET,45,DEGREES F,,
+06/22/1999,40,FEET,40,DEGREES F,,
+07/26/1999,3,FEET,75,DEGREES F,,
+07/26/1999,6,FEET,74,DEGREES F,,
+07/26/1999,9,FEET,73,DEGREES F,,
+07/26/1999,15,FEET,73,DEGREES F,,
+07/26/1999,20,FEET,63,DEGREES F,,
+07/26/1999,25,FEET,55,DEGREES F,,
+07/26/1999,30,FEET,47,DEGREES F,,
+07/26/1999,35,FEET,43,DEGREES F,,
+08/28/1999,3,FEET,67,DEGREES F,,
+08/28/1999,6,FEET,67,DEGREES F,,
+08/28/1999,9,FEET,67,DEGREES F,,
+08/28/1999,15,FEET,67,DEGREES F,,
+08/28/1999,20,FEET,65,DEGREES F,,
+08/28/1999,25,FEET,58,DEGREES F,,
+08/28/1999,30,FEET,50,DEGREES F,,
+08/28/1999,35,FEET,46,DEGREES F,,
+08/28/1999,39,FEET,45,DEGREES F,,
+10/28/1999,3,FEET,43,DEGREES F,,
+10/28/1999,6,FEET,42,DEGREES F,,
+10/28/1999,9,FEET,42,DEGREES F,,
+10/28/1999,15,FEET,42,DEGREES F,,
+10/28/1999,20,FEET,42,DEGREES F,,
+10/28/1999,25,FEET,42,DEGREES F,,
+10/28/1999,30,FEET,42,DEGREES F,,
+10/28/1999,35,FEET,42,DEGREES F,,
+10/28/1999,39,FEET,42,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/04/1995,Slight breeze.    
+08/18/1995,Windy- cloudy.    
+06/26/1996,Have been away for 5 weeks or we would have reported sooner.  Last year mid-summer readings were 23'.    
+07/10/1996,Last year readings were 23! what is going on     
+06/17/1997,Raining    
+07/07/1997,Sunny    
+08/12/1997,Cloudy    
+10/07/1997,LAKE SAMPLE    
+04/22/1998,LAKE SAMPLE    
+05/19/1998,LAKE SAMPLE    
+07/05/1998,Windy.    
+07/21/1998,Windy    
+07/22/1998,LAKE SAMPLE    
+08/24/1998,Green algae globs in lake    
+10/24/1998,Lower lake level this year.    
+06/22/1999,Hazy day. lake level lower this year.    
+07/26/1999,Thunderstorms last night.    
+10/28/1999,Lake level is falling.  Lowest we've ever seen it in 15 years.    
+09/14/2019,Water level extremely high. Lots of rain this year. Lake is not as clear as last summer.
+06/12/2020,Lake is even higher than last summer.  Some Piers are flooded. The loon pair abandon their eggs on the floating nest and restarted on the western shore. 1 baby loon hatched.  There is a fox den with 5 kits on the south shore.  Otters were spotted but have now left.
+07/05/2020,Maximum depth was 53 feet measured with a depth finder
+
+
+
+
+Start Date,Group Name,Project Name
+07/28/1995,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/04/1995,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/18/1995,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+09/01/1995,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+09/27/1995,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+10/15/1995,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+06/26/1996,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/10/1996,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/20/1996,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/01/1996,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+09/18/1996,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+05/30/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+06/17/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/07/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/13/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/12/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+09/24/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+10/07/1997,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+04/22/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+05/19/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+05/19/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/05/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/21/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/22/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/24/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+09/09/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+10/24/1998,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+06/22/1999,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/26/1999,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/28/1999,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+08/29/1999,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+10/28/1999,Carolyn Parker,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+09/14/2019,Brad Ryan,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+06/12/2020,Brad Ryan,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth
+07/05/2020,Brad Ryan,Citizen Lake Monitoring - Water Quality - Roach Lake - Max Depth

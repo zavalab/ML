@@ -1,0 +1,377 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+McCullough Lake,Vilas,2960400,NO,64,,643244,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/11/1984,5.9,,1.8,9,,52,,51,,,,,
+1,10/02/1985,5.6,,1.7,,22,52,52,,,,,,
+8190956,07/15/1990,7,NO,2.1,,,49,,,-4",,,BROWN,2-Very minor aesthetic problems
+8190956,08/02/1990,8,NO,2.4,,,47,,,-2",,,GREEN/BROWN,2-Very minor aesthetic problems
+8190956,08/26/1990,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190956,09/16/1990,7.25,NO,2.2,,,49,,,3" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190956,09/25/1990,7,NO,2.1,,,49,,,3.5" HIGH,,,BROWN,2-Very minor aesthetic problems
+8190956,05/30/1991,8.5,NO,2.6,,,46,,,DOWN 1",,,BROWN,2-Very minor aesthetic problems
+8190213,05/31/1997,9,NO,2.7,,,45,,,,,,,
+8190213,08/20/1997,7.75,NO,2.4,,,48,,,,,,,
+8189926,07/25/2001,6.6,NO,2,,,50,,,LOW,,CLEAR,BROWN,
+8189926,07/30/2001,5.6,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,
+8189926,08/04/2001,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,
+8189926,08/17/2001,4.9,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,
+8189926,08/20/2001,5.6,NO,1.7,,,52,,,LOW,,CLEAR,GREEN,
+8189926,09/10/2001,4.6,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,
+8189926,09/21/2001,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,
+8189926,10/14/2001,5.9,NO,1.8,,,52,,,LOW,,CLEAR,BROWN,
+8189926,10/19/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,
+8189926,06/10/2002,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,06/16/2002,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,07/02/2002,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/13/2002,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/24/2002,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/13/2002,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/20/2002,4.25,NO,1.3,,,56,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,09/11/2002,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,10/03/2002,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,10/09/2002,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,05/21/2003,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,06/30/2003,5.25,NO,1.6,,,53,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/12/2003,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/19/2003,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/28/2003,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/15/2003,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/25/2003,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,09/15/2003,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,10/03/2003,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,10/19/2003,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,05/15/2004,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,06/03/2004,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,06/21/2004,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,06/27/2004,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,07/17/2004,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/06/2004,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/23/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,09/21/2004,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,10/10/2004,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189926,10/25/2004,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,05/30/2005,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,06/22/2005,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,07/08/2005,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,07/13/2005,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/05/2005,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/14/2005,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/28/2005,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,09/19/2005,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,10/10/2005,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,05/07/2006,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189926,05/21/2006,5.75,NO,1.7,,,52,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,06/11/2006,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,06/21/2006,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,06/26/2006,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,07/14/2006,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,08/11/2006,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,08/20/2006,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,10/01/2006,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,10/16/2006,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,05/16/2007,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,06/10/2007,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,06/12/2007,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,06/24/2007,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,06/25/2007,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,07/24/2007,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,08/06/2007,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,08/28/2007,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000126,08/29/2007,,,,4.83,10,,46,47,,,,,
+8189926,05/12/2008,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,06/09/2008,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,06/23/2008,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/04/2008,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/14/2008,4.75,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/21/2008,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,08/04/2008,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/25/2008,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,09/15/2008,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,10/10/2008,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,05/18/2009,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,06/23/2009,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,07/10/2009,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,07/19/2009,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/11/2009,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,08/24/2009,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,09/21/2009,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,05/08/2010,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,05/15/2010,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,06/03/2010,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,06/23/2010,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,07/19/2010,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,07/25/2010,6.75,NO,2.1,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,08/24/2010,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189926,10/05/2010,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189926,06/04/2011,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,06/29/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,07/11/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,07/31/2011,4.9,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/12/2011,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,08/26/2011,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,09/15/2011,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,10/04/2011,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189926,05/18/2012,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,06/04/2012,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,07/14/2012,8.6,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189926,07/31/2012,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189926,08/31/2012,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+67689798,05/15/2018,,,,,26.8,,54,,,,,,
+67689798,06/25/2018,7.5,NO,2.3,4.19,22.8,48,52,46,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67689798,07/23/2018,7,NO,2.1,7.48,18.2,49,51,50,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,07/24/2018,6,,1.8,,,51,,,,,,,
+34997658,07/24/2018,6,NO,1.8,,,51,,,,,,,
+67689798,08/30/2018,7,NO,2.1,6.6,14.4,49,49,49,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67689798,05/07/2019,,,,,24,,53,,,,,,
+67689798,06/25/2019,7,NO,2.1,10.5,19.4,49,51,53,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67689798,07/23/2019,6.5,NO,2,7.68,20.3,50,51,50,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+67689798,08/25/2019,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+67689798,08/26/2019,,,,9.38,13.4,,48,52,,,,,
+1,05/11/2020,,,,,22.1,,52,,,,,,
+67689798,06/29/2020,,,,4.39,18.9,,51,46,,,,,
+67689798,08/23/2020,6.5,NO,2,8.26,17.3,50,50,51,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/02/1985,,,9,C,8.8,MG/L
+06/25/2018,3,FEET,76.4,DEGREES F,8.12,MG/L
+06/25/2018,6,FEET,74.3,DEGREES F,8.12,MG/L
+06/25/2018,9,FEET,71,DEGREES F,6.18,MG/L
+06/25/2018,12,FEET,64.5,DEGREES F,3.4,MG/L
+06/25/2018,15,FEET,59,DEGREES F,1.3,MG/L
+06/25/2018,18,FEET,50.7,DEGREES F,.3,MG/L
+06/25/2018,21,FEET,48.2,DEGREES F,.09,MG/L
+07/23/2018,3,FEET,72.6,DEGREES F,7.79,MG/L
+07/23/2018,6,FEET,71.6,DEGREES F,7.72,MG/L
+07/23/2018,9,FEET,71.2,DEGREES F,7.51,MG/L
+07/23/2018,12,FEET,70.5,DEGREES F,6.26,MG/L
+07/23/2018,15,FEET,60.6,DEGREES F,.31,MG/L
+07/23/2018,18,FEET,53.6,DEGREES F,.15,MG/L
+07/24/2018,0,METERS,24.3,DEGREES C,8.03,MG/L
+07/24/2018,1,METERS,24.1,DEGREES C,8.05,MG/L
+07/24/2018,2,METERS,23.9,DEGREES C,8.05,MG/L
+07/24/2018,3,METERS,22.1,DEGREES C,6.86,MG/L
+07/24/2018,4,METERS,21.2,DEGREES C,4.74,MG/L
+07/24/2018,5,METERS,13.7,DEGREES C,.13,MG/L
+07/24/2018,6,METERS,11.4,DEGREES C,.08,MG/L
+07/24/2018,7,METERS,10.3,DEGREES C,.07,MG/L
+07/24/2018,,,24.3,C,08.0,MG/L
+08/30/2018,3,FEET,69.8,DEGREES F,7.78,MG/L
+08/30/2018,6,FEET,68.7,DEGREES F,7.78,MG/L
+08/30/2018,9,FEET,68.7,DEGREES F,7.72,MG/L
+08/30/2018,12,FEET,68.5,DEGREES F,7.7,MG/L
+08/30/2018,15,FEET,66.2,DEGREES F,7.29,MG/L
+08/30/2018,18,FEET,57.9,DEGREES F,.22,MG/L
+08/30/2018,21,FEET,54.6,DEGREES F,.15,MG/L
+07/23/2019,3,FEET,75,DEGREES F,,
+07/23/2019,6,FEET,74.3,DEGREES F,,
+07/23/2019,9,FEET,73.4,DEGREES F,,
+07/23/2019,12,FEET,72.8,DEGREES F,,
+07/23/2019,15,FEET,60.4,DEGREES F,,
+07/23/2019,18,FEET,56.1,DEGREES F,,
+07/23/2019,21,FEET,54.6,DEGREES F,,
+07/23/2019,24,FEET,54.1,DEGREES F,,
+08/25/2019,3,FEET,68.7,DEGREES F,,
+08/25/2019,6,FEET,68.5,DEGREES F,,
+08/25/2019,9,FEET,68.5,DEGREES F,,
+08/25/2019,12,FEET,68.5,DEGREES F,,
+08/25/2019,15,FEET,68.5,DEGREES F,,
+08/25/2019,18,FEET,64.2,DEGREES F,,
+08/25/2019,21,FEET,57.2,DEGREES F,,
+08/25/2019,24,FEET,54.5,DEGREES F,,
+08/23/2020,3,FEET,74.1,DEGREES F,,
+08/23/2020,6,FEET,73.4,DEGREES F,,
+08/23/2020,9,FEET,72.8,DEGREES F,,
+08/23/2020,12,FEET,70.8,DEGREES F,,
+08/23/2020,15,FEET,66.3,DEGREES F,,
+08/23/2020,18,FEET,60.2,DEGREES F,,
+08/23/2020,21,FEET,56.3,DEGREES F,,
+08/23/2020,24,FEET,54.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/11/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/02/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/25/2001,Four loons together feeding- partly cloudy- and the lake is calm.    
+07/30/2001,Rained in the morning- partly cloudy- and small waves.    
+08/04/2001,Three water skiers- two jet skies- after two hours of activity- and clear skies and low wind.    
+08/20/2001,Lake is starting to bloom.    
+09/10/2001,1.5" of rain the last three days- low waves- and approximately 10 mph wind.    
+09/21/2001,Partly cloudy and 5 mph wind.    
+10/14/2001,Rain and strong winds two days prior.    
+10/19/2001,Windy and approximately 20 mph wind.    
+06/10/2002,Wind and 7.5" of rain three days previously.    
+06/16/2002,Less than 1" of rain three days previously and the loons are active.    
+07/02/2002,Calm and partly sunny.    
+07/13/2002,Calm- loons active and one chick can dive.    
+08/13/2002,Partly cloudy.    
+09/11/2002,Sunny.  Mother and chick loon feeding.    
+10/03/2002,Algae on windward shore out 3'.    
+10/09/2002,Algae near shore is gone.    
+05/21/2003,Over 3" rain 10 days previously.    
+06/30/2003,pH 7.2 at 3' below surface.    
+07/12/2003,Partly sunny- over 1" rain 2 days previous.    
+07/19/2003,Sunny- slightly windy    
+07/28/2003,Lake level very low. 2 loons but no chick. Partly cloudy.    
+08/15/2003,Breezy- hot and humid.    
+08/25/2003,pH 7.2 measured 3' below surface. Over 2" rain in the past week.    
+09/15/2003,1" rain the previous two days.    
+10/03/2003,Lake has risen from extreme low - 2" rain in last two weeks.    
+10/19/2003,Lake has risen 3"-5" from its low.    
+05/15/2004,Sunny    
+06/21/2004,Windy    
+07/17/2004,Partly sunny    
+08/06/2004,Sunny- slight wind    
+09/21/2004,Very windy during the past week.  2"-3" of rain past week.    
+10/10/2004,Beautiful sunny- calm day.  Loons active.    
+10/25/2004,1.5"-2" rainfall past 3 days.    
+05/07/2006,pine pollen prevalent
+06/21/2006,windy waves
+08/28/2007,Heavy rain storm previous day
+06/09/2008,Loon on nest
+06/23/2008,One loon chick hatched
+07/14/2008,Strong winds past 2 days
+07/21/2008,Loon chick doing well - feeding with adults
+08/04/2008,One adult loon and chick were tagged and weighed
+
+
+
+
+Start Date,Group Name,Project Name
+07/11/1984,Data Collectors,Migrated from STORET Legacy
+10/02/1985,Data Collectors,Migrated from STORET Legacy
+07/15/1990,Art Ostermann,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/02/1990,Art Ostermann,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/26/1990,Art Ostermann,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/16/1990,Art Ostermann,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/25/1990,Art Ostermann,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/30/1991,Art Ostermann,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/31/1997,Inge Grosso,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/20/1997,Inge Grosso,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/25/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/30/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/04/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/17/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/20/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/10/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/21/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/14/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/19/2001,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/10/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/16/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/02/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/13/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/24/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/13/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/20/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/11/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/03/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/09/2002,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/21/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/30/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/12/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/19/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/28/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/15/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/25/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/15/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/03/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/19/2003,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/15/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/03/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/21/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/27/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/17/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/06/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/23/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/21/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/10/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/25/2004,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/30/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/22/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/08/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/13/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/05/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/14/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/28/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/19/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/10/2005,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/07/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/21/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/11/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/21/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/26/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/14/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/11/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/20/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/01/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/16/2006,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/16/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/10/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/12/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/24/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/25/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/24/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/06/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/28/2007,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/29/2007,STEVEN GREB,Dissolved Organic Carbon (DOC) Assessment for Remote Sensing 2007
+05/12/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/09/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/23/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/04/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/14/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/21/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/04/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/25/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/15/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/10/2008,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/18/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/23/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/10/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/19/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/11/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/24/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/21/2009,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/08/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/15/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/03/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/23/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/19/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/25/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/24/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/05/2010,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/04/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/29/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/11/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/31/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/12/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/26/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+09/15/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+10/04/2011,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/18/2012,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/04/2012,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/14/2012,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/31/2012,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/31/2012,Ron Gebhard,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/15/2018,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/25/2018,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/23/2018,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/24/2018,Angie Stine,TOWN OF PRESQUE ISLE: Wilderness Waters: McCullough- Morton- Dunn + Beaver Lakes
+07/24/2018,Data Collectors,TOWN OF PRESQUE ISLE: Wilderness Waters: McCullough- Morton- Dunn + Beaver Lakes
+08/30/2018,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/07/2019,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/25/2019,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+07/23/2019,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/25/2019,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/26/2019,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+05/11/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+06/29/2020,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole
+08/23/2020,Jack Klein,Citizen Lake Monitoring - Water Quality - McCullough Lake; Deep Hole

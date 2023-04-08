@@ -1,0 +1,413 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spring Lake,Waukesha,770600,SE,68,,683250,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/10/1980,26.2,,8,6,,30,,48,,,,,
+8190327,08/28/1989,7,NO,2.1,,,49,,,,,,BROWN,2-Very minor aesthetic problems
+8190327,09/02/1989,7,NO,2.1,,,49,,,,,,BROWN,2-Very minor aesthetic problems
+8190327,09/14/1989,6.5,NO,2,,,50,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190327,09/21/1989,7.25,NO,2.2,,,49,,,,,,BROWN,2-Very minor aesthetic problems
+8190327,10/01/1989,7,NO,2.1,,,49,,,,,,BROWN,2-Very minor aesthetic problems
+8190327,05/20/1990,5.25,NO,1.6,,,53,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,05/27/1990,5.75,NO,1.7,,,52,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/02/1990,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/16/1990,6.75,NO,2.1,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190327,07/12/1990,6.5,NO,2,,,50,,,,,,BROWN,2-Very minor aesthetic problems
+8190327,07/21/1990,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190327,08/03/1990,5.25,NO,1.6,,,53,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,08/10/1990,5.5,NO,1.7,,,53,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,08/17/1990,5,NO,1.5,,,54,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,09/04/1990,5.25,NO,1.6,,,53,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,05/04/1991,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,05/11/1991,9.25,NO,2.8,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,05/18/1991,10,NO,3,,,44,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,05/25/1991,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/02/1991,7,NO,2.1,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/09/1991,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/16/1991,8,NO,2.4,,,47,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/23/1991,7.25,NO,2.2,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,06/30/1991,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190327,07/07/1991,5.5,NO,1.7,,,53,,,NORMAL,,,,
+8190327,07/14/1991,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190327,07/21/1991,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190327,07/30/1991,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190327,08/03/1991,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190327,08/10/1991,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190327,08/18/1991,5.25,NO,1.6,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190327,08/25/1991,7.5,NO,2.3,,,48,,,NORMAL,,,,2-Very minor aesthetic problems
+8190327,08/31/1991,10,NO,3,,,44,,,NORMAL,,,,2-Very minor aesthetic problems
+1,04/14/1998,3.9,,1.2,5.49,23,57,52,48,,,,,
+1,06/24/1998,5.9,,1.8,1.95,11,52,47,40,,,,,
+1,10/21/1998,4.3,,1.3,5.84,13,56,48,48,,,,,
+7000045,07/27/2000,4.9,,1.5,3,,54,,43,,,,,
+8191154,08/12/2001,5.6,NO,1.7,,,52,,,HIGH,,,BROWN,
+8191154,09/22/2001,5,NO,1.5,,,54,,,HIGH,,,BROWN,
+8191154,06/22/2002,6.5,NO,2,,,50,,,HIGH,,,BROWN,
+8191154,07/08/2002,4,NO,1.2,,,57,,,HIGH,,,BROWN,
+8191154,07/16/2002,5.5,NO,1.7,,,53,,,HIGH,,,BROWN,
+8191154,07/29/2002,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,
+8191154,06/16/2003,6.5,NO,2,,,50,,,NORMAL,,,BROWN,
+8191154,07/19/2003,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,
+8191154,08/24/2003,6,NO,1.8,,,51,,,LOW,,,BROWN,
+8191154,09/01/2003,5,NO,1.5,,,54,,,LOW,,,BROWN,
+8191154,10/04/2003,6,NO,1.8,,,51,,,LOW,,,BROWN,
+8191154,06/06/2004,4,NO,1.2,,,57,,,HIGH,,,BROWN,
+8191154,07/07/2004,4.5,NO,1.4,,,55,,,HIGH,,,BROWN,
+8191154,07/26/2004,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,
+8191154,08/06/2004,4,NO,1.2,,,57,,,NORMAL,,,BROWN,
+8191154,09/26/2004,4,NO,1.2,,,57,,,NORMAL,,,BROWN,
+8191154,06/16/2005,,,,3.09,14,,49,43,,,,,
+1,07/31/2005,,,,5.09,14,,49,47,,,,,
+1,06/11/2006,,,,5.21,23,,52,47,,,,,
+1,08/05/2006,,,,2.62,12,,47,42,,,,,
+1,09/02/2006,,,,2.12,14,,49,40,,,,,
+8191154,06/10/2007,5.5,NO,1.7,3.21,24,53,53,44,HIGH,,CLEAR,BROWN,
+8191154,06/25/2007,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,
+8191154,07/21/2007,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,
+8191154,08/26/2007,5,NO,1.5,2.3,17,54,50,41,HIGH,,CLEAR,BROWN,
+8191154,09/02/2007,7,NO,2.1,,,49,,,,,,,
+8191154,09/15/2007,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8191154,07/05/2008,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,
+8191154,07/06/2008,4.5,NO,1.4,0.69,15,55,49,32,,,,,
+8191154,08/02/2008,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,
+8191154,05/31/2009,7.5,NO,2.3,,11,48,47,,HIGH,,CLEAR,BROWN,
+8191154,06/24/2009,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,
+8191154,08/04/2009,5.5,,1.7,,,53,,,HIGH,,CLEAR,BROWN,
+8191154,08/07/2009,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,
+8191154,09/25/2009,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,
+8191154,07/05/2010,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,
+8191154,08/22/2010,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8191154,10/02/2010,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,
+8191154,07/17/2011,4.5,NO,1.4,3.31,18,55,51,44,LOW,,MURKY,BROWN,
+8191154,08/21/2011,4,,1.2,6.59,14,57,49,49,LOW,,MURKY,BROWN,
+8191154,09/11/2011,7.5,NO,2.3,2.7,12,48,47,42,LOW,,CLEAR,BROWN,
+8191154,10/23/2011,,,,5.37,21,,52,48,,,,,
+8191154,06/03/2012,5.5,,1.7,1.72,14,53,49,39,LOW,,CLEAR,BROWN,
+8191154,07/22/2012,8,,2.4,2.68,18,47,51,42,LOW,,CLEAR,BROWN,
+8191154,09/03/2012,7,,2.1,,,49,,,,,,,
+8191154,07/07/2013,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,
+8191154,09/01/2013,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,
+8191154,07/20/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,
+8191154,08/24/2014,7.5,NO,2.3,2.99,15,48,49,43,NORMAL,,CLEAR,BROWN,
+1,06/28/2015,,,,3.34,15.8,,50,44,,,,,
+1,07/26/2015,,,,3.13,11.3,,47,43,,,,,
+121395983,08/12/2018,,,,1.43,12.2,,48,38,,,,,
+121395985,08/30/2019,,,,2.06,9.92,,46,40,,,,,
+121395985,06/28/2020,,,,1.69,12.2,,48,39,,,,,
+121395985,07/26/2020,,,,1.9,10.3,,46,40,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/14/1998,,,10.5,C,10.4,MG/L
+06/24/1998,,,13.5,C,0.4,MG/L
+10/21/1998,,,12.1,C,10.6,MG/L
+07/27/2000,,,24.2,C,7.97,MG/L
+06/10/2007,3,FEET,74.4,DEGREES F,,
+06/10/2007,6,FEET,71.4,DEGREES F,,
+06/10/2007,9,FEET,69.6,DEGREES F,,
+06/10/2007,12,FEET,68,DEGREES F,,
+06/10/2007,15,FEET,64.7,DEGREES F,,
+06/10/2007,18,FEET,55.7,DEGREES F,,
+06/10/2007,21,FEET,52.7,DEGREES F,,
+07/21/2007,3,FEET,75,DEGREES F,,
+07/21/2007,6,FEET,74.8,DEGREES F,,
+07/21/2007,9,FEET,74.4,DEGREES F,,
+07/21/2007,12,FEET,73,DEGREES F,,
+07/21/2007,15,FEET,69.2,DEGREES F,,
+07/21/2007,18,FEET,62,DEGREES F,,
+07/21/2007,21,FEET,56.6,DEGREES F,,
+08/26/2007,3,FEET,76.8,DEGREES F,,
+08/26/2007,6,FEET,78.6,DEGREES F,,
+08/26/2007,9,FEET,69.8,DEGREES F,,
+08/26/2007,12,FEET,67.4,DEGREES F,,
+08/26/2007,15,FEET,66.3,DEGREES F,,
+08/26/2007,18,FEET,64,DEGREES F,,
+08/26/2007,21,FEET,61.1,DEGREES F,,
+09/15/2007,3,FEET,62.4,DEGREES F,,
+09/15/2007,6,FEET,62.4,DEGREES F,,
+09/15/2007,9,FEET,62.4,DEGREES F,,
+09/15/2007,12,FEET,62,DEGREES F,,
+09/15/2007,15,FEET,61.8,DEGREES F,,
+09/15/2007,18,FEET,61.5,DEGREES F,,
+09/15/2007,21,FEET,60.9,DEGREES F,,
+07/05/2008,3,FEET,79.5,DEGREES F,,
+07/05/2008,6,FEET,72.3,DEGREES F,,
+07/05/2008,9,FEET,71.2,DEGREES F,,
+07/05/2008,12,FEET,69.2,DEGREES F,,
+07/05/2008,15,FEET,64.4,DEGREES F,,
+07/05/2008,18,FEET,60.2,DEGREES F,,
+07/05/2008,21,FEET,57.2,DEGREES F,,
+07/06/2008,3,FEET,76.8,DEGREES F,,
+07/06/2008,6,FEET,72.3,DEGREES F,,
+07/06/2008,9,FEET,71.2,DEGREES F,,
+07/06/2008,12,FEET,69.2,DEGREES F,,
+07/06/2008,15,FEET,64.4,DEGREES F,,
+07/06/2008,18,FEET,60.2,DEGREES F,,
+07/06/2008,21,FEET,57.2,DEGREES F,,
+08/02/2008,3,FEET,79.5,DEGREES F,,
+08/02/2008,6,FEET,79.5,DEGREES F,,
+08/02/2008,9,FEET,75.1,DEGREES F,,
+08/02/2008,12,FEET,70.1,DEGREES F,,
+08/02/2008,15,FEET,66.3,DEGREES F,,
+08/02/2008,18,FEET,61.7,DEGREES F,,
+08/02/2008,21,FEET,58.4,DEGREES F,,
+05/31/2009,3,FEET,64.7,DEGREES F,,
+05/31/2009,6,FEET,63.6,DEGREES F,,
+05/31/2009,9,FEET,62.9,DEGREES F,,
+05/31/2009,12,FEET,62.4,DEGREES F,,
+05/31/2009,15,FEET,61.8,DEGREES F,,
+05/31/2009,18,FEET,59.7,DEGREES F,,
+05/31/2009,21,FEET,57,DEGREES F,,
+06/24/2009,3,FEET,82.4,DEGREES F,,
+06/24/2009,6,FEET,75.9,DEGREES F,,
+06/24/2009,9,FEET,69,DEGREES F,,
+06/24/2009,12,FEET,65.3,DEGREES F,,
+06/24/2009,15,FEET,62.7,DEGREES F,,
+06/24/2009,18,FEET,60.6,DEGREES F,,
+06/24/2009,21,FEET,58.4,DEGREES F,,
+09/25/2009,3,FEET,68.7,DEGREES F,,
+09/25/2009,6,FEET,68.3,DEGREES F,,
+09/25/2009,9,FEET,68.1,DEGREES F,,
+09/25/2009,12,FEET,67.8,DEGREES F,,
+09/25/2009,15,FEET,67.2,DEGREES F,,
+09/25/2009,18,FEET,65.6,DEGREES F,,
+09/25/2009,21,FEET,64,DEGREES F,,
+07/05/2010,3,FEET,81.6,DEGREES F,,
+07/05/2010,6,FEET,81.1,DEGREES F,,
+07/05/2010,9,FEET,78,DEGREES F,,
+07/05/2010,12,FEET,73.4,DEGREES F,,
+07/05/2010,15,FEET,65.8,DEGREES F,,
+07/05/2010,18,FEET,60.2,DEGREES F,,
+07/05/2010,21,FEET,59,DEGREES F,,
+08/22/2010,3,FEET,80.9,DEGREES F,,
+08/22/2010,6,FEET,78,DEGREES F,,
+08/22/2010,9,FEET,75,DEGREES F,,
+08/22/2010,12,FEET,72.8,DEGREES F,,
+08/22/2010,15,FEET,69,DEGREES F,,
+08/22/2010,18,FEET,63.8,DEGREES F,,
+08/22/2010,21,FEET,60.8,DEGREES F,,
+10/02/2010,3,FEET,61.1,DEGREES F,,
+10/02/2010,6,FEET,61.5,DEGREES F,,
+10/02/2010,9,FEET,61.5,DEGREES F,,
+07/17/2011,0,FEET,83.1,DEGREES F,,
+07/17/2011,5,FEET,81.6,DEGREES F,,
+07/17/2011,10,FEET,76.8,DEGREES F,,
+07/17/2011,15,FEET,69,DEGREES F,,
+07/17/2011,20,FEET,59.9,DEGREES F,,
+07/17/2011,25,FEET,58.1,DEGREES F,,
+09/11/2011,0,FEET,71,DEGREES F,,
+09/11/2011,3,FEET,70.8,DEGREES F,,
+09/11/2011,6,FEET,70.7,DEGREES F,,
+09/11/2011,9,FEET,70.1,DEGREES F,,
+09/11/2011,12,FEET,69.2,DEGREES F,,
+09/11/2011,15,FEET,68.5,DEGREES F,,
+09/11/2011,18,FEET,67.8,DEGREES F,,
+09/11/2011,21,FEET,66.5,DEGREES F,,
+06/03/2012,3,FEET,68.3,DEGREES F,,
+06/03/2012,6,FEET,67.8,DEGREES F,,
+06/03/2012,9,FEET,67.2,DEGREES F,,
+06/03/2012,12,FEET,66,DEGREES F,,
+06/03/2012,15,FEET,63.8,DEGREES F,,
+06/03/2012,18,FEET,56.4,DEGREES F,,
+07/22/2012,3,FEET,79.7,DEGREES F,,
+07/22/2012,6,FEET,79.3,DEGREES F,,
+07/22/2012,9,FEET,79.1,DEGREES F,,
+07/22/2012,12,FEET,78.9,DEGREES F,,
+07/22/2012,15,FEET,71.9,DEGREES F,,
+07/22/2012,18,FEET,64.2,DEGREES F,,
+09/03/2012,3,FEET,77,DEGREES F,,
+09/03/2012,6,FEET,75.5,DEGREES F,,
+09/03/2012,9,FEET,75,DEGREES F,,
+09/03/2012,12,FEET,73.5,DEGREES F,,
+09/03/2012,15,FEET,72.6,DEGREES F,,
+09/03/2012,18,FEET,69.4,DEGREES F,,
+09/03/2012,21,FEET,66.2,DEGREES F,,
+07/07/2013,3,FEET,806,DEGREES F,,
+07/07/2013,6,FEET,74.6,DEGREES F,,
+07/07/2013,9,FEET,71,DEGREES F,,
+07/07/2013,12,FEET,65.1,DEGREES F,,
+07/07/2013,15,FEET,59.7,DEGREES F,,
+07/07/2013,18,FEET,54.5,DEGREES F,,
+09/01/2013,3,FEET,78.8,DEGREES F,,
+09/01/2013,6,FEET,78.6,DEGREES F,,
+09/01/2013,9,FEET,75.5,DEGREES F,,
+09/01/2013,12,FEET,69.6,DEGREES F,,
+09/01/2013,15,FEET,60.8,DEGREES F,,
+09/01/2013,18,FEET,57,DEGREES F,,
+09/01/2013,21,FEET,53.4,DEGREES F,,
+07/20/2014,3,FEET,75.9,DEGREES F,,
+07/20/2014,6,FEET,74.4,DEGREES F,,
+07/20/2014,9,FEET,72.5,DEGREES F,,
+07/20/2014,12,FEET,70.1,DEGREES F,,
+07/20/2014,15,FEET,64.2,DEGREES F,,
+07/20/2014,18,FEET,59.3,DEGREES F,,
+07/20/2014,21,FEET,56.1,DEGREES F,,
+08/24/2014,3,FEET,79.5,DEGREES F,,
+08/24/2014,6,FEET,78.2,DEGREES F,,
+08/24/2014,9,FEET,76.4,DEGREES F,,
+08/24/2014,12,FEET,72.6,DEGREES F,,
+08/24/2014,15,FEET,68,DEGREES F,,
+08/24/2014,18,FEET,63.3,DEGREES F,,
+08/24/2014,21,FEET,58.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+09/10/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/28/1989,Rained in a.m.- partly cloudy now    
+05/04/1991,Overcast    
+05/11/1991,Clear    
+05/18/1991,Cloudy    
+06/02/1991,Lake level: very high    
+08/12/2001,Sunny side of boat 4.6 ft.  Shady side of boat 5.6 ft.  21.6 ft deep at sampling location. Windy.    
+09/22/2001,Sunny side of the boat 6 ft.  Shady side of the boat 5 ft.  Windy and recent heavy rains.    
+06/22/2002,Sunny side of boat 6.5 ft.  Shady side of boat 6.5 ft.  Windy and recent heavy rains.    
+07/08/2002,Sunny side of boat 4 ft.  Shady side of boat 4 ft.  Windy.    
+07/16/2002,Sunny side of boat 5.5 ft.  Shady side of boat 5.5 ft.  10 PPO@6" surface 8 PPO@5 ft.  6.5 PPO@10 ft. pH -4.5.  Windy.    
+07/29/2002,Sunny side of boat 5.5 ft.  Shady side of boat 4.5 ft.  Windy.    
+06/16/2003,Sunny side of boat 6.5 ft.  Shady side of boat 6.5 ft.  Moderate wind.    
+07/19/2003,Sunny side of boat 6.5 ft.  Shady side of boat 5.5 ft.  Moderate wind.    
+08/24/2003,Sunny side of boat 6.5 ft.  Shady side of boat 6 ft.  Very windy.    
+09/01/2003,Sunny side of boat 5.5 ft.  Shady side of boat 5 ft.  Moderate wind and mostly cloudy.    
+10/04/2003,Sunny side of boat 6 ft.  Shady side of boat 6 ft.  Moderate wind.    
+06/06/2004,Sunny side of boat 4 ft.  Shady side of boat 4 ft.  Moderate wind.  Heavy rains for past month.    
+07/07/2004,Sunny side of boat 4.5 ft.  Shady side of boat 4.5 ft.  No wind.    
+07/26/2004,Sunny side of boat 5.5 ft.  Shady side of boat 4.75 ft.  Windy.    
+08/06/2004,Sunny side of boat 4.75 ft.  Shady side of boat 4 ft.  Windy.    
+09/26/2004,Sunny side of boat 5 ft.  Shady side of boat 4 ft.  No wind.    
+06/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/31/2005,DEEP HOLE    
+06/11/2006,DEEP HOLE    
+08/05/2006,DEEP HOLE    
+09/02/2006,DEEP HOLE    
+06/10/2007,Warm Day High 70's Slightly windy Lake level high   
+06/25/2007,Lake level high - sunny day
+07/21/2007,Lake level high.  Sunny and slight wind
+08/26/2007,Lake level high.  7" of rain last week.  Mild wind. 
+09/02/2007,Extra Secchi disk reading.
+09/15/2007,Lake level high.  Cold past day and night.  Sunny.
+07/05/2008,Lake level high for this time of year due to 100" of snow this winter- wet spring- and beavers.
+Windy
+08/02/2008,Lake level high - beavers
+Windy
+05/31/2009,Lake level very high due to beaver and spring rains. lake level very high due to beavers and spring rains
+08/04/2009,lake level high - beavers.  partly cloudy very windy.
+Thermometer not functioning
+08/07/2009,Lake level very high. Sunny and partly cloudy. Very windy.
+09/25/2009,Drizzling. 
+07/05/2010,Lake level rim aims high - Beaver Dam's blocking flow from outlet.
+08/22/2010,Water level down from previously 6-8 inches. Beavers seem to have abandoned their hut- but sunny!
+10/02/2010,Very- very windy - sunny day.
+07/17/2011,Beavers gone - lake level low- minimal rain
+08/21/2011,windy- almost choppy water
+06/03/2012,windy- sunny day
+07/22/2012,windy- sunny day - extreme drought entrie month - only 1.5" rain - lake level down 2 ft
+09/03/2012,slight breeze- sunny- still in drought conditions. Couple of inches in August - lake level remains low
+07/07/2013,partly cloudy- warm/humid. Large areas of Milfoil and pondweed
+09/01/2013,partly cloudy- breeze- heavy rains 2 days ago- milfoil crashed
+07/20/2014,Milfoil minimal compared to previous years or perhaps late due to winter and spring
+08/24/2014,milfoil remained minimal and never reached the surface
+
+
+
+
+Start Date,Group Name,Project Name
+09/10/1980,Data Collectors,Migrated from STORET Legacy
+08/28/1989,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/02/1989,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/14/1989,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/21/1989,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+10/01/1989,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/20/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/27/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/02/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/16/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/12/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/21/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/03/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/10/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/17/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/04/1990,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/04/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/11/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/18/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/25/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/02/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/09/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/16/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/23/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/30/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/07/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/14/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/21/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/30/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/03/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/10/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/18/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/25/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/31/1991,Lester Knutsen,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+04/14/1998,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/24/1998,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+10/21/1998,Data Collectors,BASIN ASSESSMENT BASIC 1998
+07/27/2000,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/12/2001,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/22/2001,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/22/2002,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/08/2002,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/16/2002,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/29/2002,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/16/2003,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/19/2003,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/24/2003,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/01/2003,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+10/04/2003,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/06/2004,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/07/2004,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/26/2004,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/06/2004,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/26/2004,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/16/2005,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/31/2005,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/11/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/05/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/02/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/10/2007,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/25/2007,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/21/2007,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/26/2007,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/02/2007,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/15/2007,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/05/2008,Judy Wagner,
+07/06/2008,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/02/2008,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+05/31/2009,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/24/2009,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/04/2009,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/07/2009,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/25/2009,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/05/2010,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/22/2010,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+10/02/2010,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/17/2011,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/21/2011,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/11/2011,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+10/23/2011,Judy Wagner,
+06/03/2012,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/22/2012,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/03/2012,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/07/2013,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+09/01/2013,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/20/2014,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/24/2014,Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/28/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/26/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/12/2018,Dick Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+08/30/2019,Dick + Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+06/28/2020,Dick + Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole
+07/26/2020,Dick + Judy Wagner,Citizen Lake Monitoring - Water Quality - Spring Lake; Deep Hole

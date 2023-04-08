@@ -1,0 +1,60 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Harris Lake,Vilas,2958500,NO,64,,643402,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/30/1992,,,,,18,,51,,,,,,
+1,11/02/1992,,,,,10,,46,,,,,,
+1,06/28/1993,,,,2.36,20,,51,41,,,,,
+1,07/30/1993,,,,2.97,11,,47,43,,,,,
+1,08/11/1993,,,,1.88,,,,40,,,,,
+1,10/19/1993,,,,3.76,23,,52,45,,,,,
+1,05/22/1994,,,,1.93,12,,47,40,,,,,
+1,06/27/1994,,,,2.42,9,,45,41,,,,,
+1,07/31/1994,,,,2.7,10,,46,42,,,,,
+1,10/31/1994,,,,3.56,15,,49,44,,,,,
+1,06/19/1995,,,,1.1,ND*,,,36,,,,,
+1,07/25/1995,,,,0.02,7,,43,5,,,,,
+1,09/05/1995,,,,2.22,ND*,,,41,,,,,
+1,06/05/1996,,,,2.36,10,,46,41,,,,,
+1,07/17/1996,,,,2.26,8,,44,41,,,,,
+1,08/25/1996,,,,2.42,10,,46,41,,,,,
+7000068,07/28/2003,,,,3.89,,,,45,,,,,
+19316375,08/17/2007,,,,2.3,9,,45,41,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+06/05/1996,DEEP HOLE    
+07/28/2003,DEEP HOLE - INTEGRATED SAMPLER    
+
+
+
+
+Start Date,Group Name,Project Name
+09/30/1992,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+11/02/1992,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+06/28/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+07/30/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+08/11/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+10/19/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+05/22/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+06/27/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+07/31/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+10/31/1994,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+06/19/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+07/25/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+09/05/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+06/05/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+07/17/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+08/25/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole
+07/28/2003,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/17/2007,Tim Nickels,Citizen Lake Monitoring - Water Quality - Harris Lake - Deep Hole

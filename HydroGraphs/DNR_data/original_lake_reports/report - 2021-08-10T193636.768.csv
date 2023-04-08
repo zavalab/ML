@@ -1,0 +1,503 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+White Mound Lake,Sauk,1258100,SC,57,,573058,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+50691751,07/01/1980,6.6,,2,42,,50,,63,,,,,
+7000028,08/22/2000,2,,0.6,104,62,67,60,70,,,,,
+7000028,09/06/2000,,,,97,60,,60,69,,,,,
+7000028,08/13/2001,2.5,NO,0.8,,58,64,60,,,,,,
+7000028,09/11/2001,,,,,51,,59,,,,,,
+7000028,09/25/2001,,,,32,39,,57,61,,,,,
+7000028,08/01/2002,,,,,38,,56,,,,,,
+7000028,08/06/2002,,,,,41,,57,,,,,,
+7000028,08/07/2002,,,,,251,,71,,,,,,
+7000028,08/19/2002,,,,,54,,59,,,,,,
+7000028,08/26/2002,,,,,55,,59,,,,,,
+8188774,04/19/2004,,,,,50,,58,,,,,,
+8188661,07/21/2004,6,NO,1.8,,,51,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188774,08/08/2004,4.5,NO,1.4,,,55,,,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8188774,08/18/2004,,,,23.5,47,,58,59,,,,,
+8188774,09/13/2004,4.25,NO,1.3,,,56,,,,,,,
+8188774,09/29/2004,3.3,NO,1,42.3,53,60,59,63,,,,,
+8191196,09/29/2004,3.25,NO,1,,,60,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+7000028,06/28/2005,,,,7.9,20,,51,50,,,,,
+7000028,07/14/2005,,,,17.2,24,,53,56,,,,,
+7000028,07/27/2005,,,,42.6,50,,58,63,,,,,
+7000028,08/09/2005,,,,105,69,,61,70,,,,,
+7000028,08/24/2005,,,,64.4,50,,58,66,,,,,
+7000028,09/12/2005,,,,27.7,49,,58,60,,,,,
+7000028,09/19/2005,,,,34.8,58,,60,62,,,,,
+7000028,10/04/2005,,,,54.3,56,,59,65,,,,,
+7000129,07/26/2006,,,,27.4,31,,55,60,,,,,
+8188676,07/27/2006,6.5,NO,2,,,50,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+22221158,06/19/2007,8.5,NO,2.6,,,46,,,,,CLEAR,GREEN,
+22221158,07/05/2007,9.5,NO,2.9,,,45,,,,,CLEAR,GREEN,
+22221158,07/17/2007,5.5,NO,1.7,,,53,,,,,MURKY,GREEN,
+22221158,07/03/2008,,,,14.4,32,,55,55,,,,,
+22221158,06/30/2009,,,,6.29,20,,51,49,,,,,
+22221158,07/23/2009,,,,12.4,22,,52,54,,,,,
+22221158,08/29/2009,,,,49.8,56,,59,64,,,,,
+22221158,05/24/2010,,,,,38,,56,,,,,,
+142000564,05/24/2010,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+142000569,05/24/2010,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+142000566,06/10/2010,9.5,NO,2.9,13.2,25,45,53,54,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+34800707,07/29/2010,3.75,NO,1.1,35.9,67,58,61,62,LOW,3,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34800707,08/18/2010,2.75,NO,0.8,39.2,51,63,59,63,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+50691760,06/29/2011,12,NO,3.6,4.73,20,41,51,47,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+50691744,07/20/2011,11,NO,3.3,3.18,20,43,51,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,08/22/2011,,,,66,44,,57,66,,,,,
+50691744,08/22/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+22221158,08/14/2012,,,,34,40,,57,61,,,,,
+50691751,07/30/2013,5,NO,1.5,20.6,25,54,53,58,,,MURKY,GREEN,1-Beautiful, could not be nicer
+103053543,07/30/2013,5,NO,1.5,,,54,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+50691751,08/28/2013,3.5,NO,1.1,10.4,26,59,53,53,,,MURKY,GREEN,1-Beautiful, could not be nicer
+103053543,08/28/2013,3.5,NO,1.1,,,59,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+103053543,07/15/2014,7.25,NO,2.2,11.1,26.3,49,53,53,,,MURKY,GREEN,1-Beautiful, could not be nicer
+103053543,08/19/2014,5,NO,1.5,25.1,35.5,54,56,59,,,MURKY,GREEN,2-Very minor aesthetic problems
+1,03/31/2016,,,,,24.6,,53,,,,,,
+103053543,03/31/2016,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+103053543,04/05/2016,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+103053543,06/15/2016,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,06/21/2016,8.5,NO,2.6,3.63,14.5,46,49,45,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,04/05/2017,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+143167470,04/05/2017,,,,,39.2,,57,,,,,,
+103053543,04/18/2017,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+103053543,04/28/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,05/09/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+103053543,05/31/2017,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+103053543,06/27/2017,,NO,,2,17.4,,50,40,NORMAL,15,CLEAR,BLUE,1-Beautiful, could not be nicer
+103053543,07/18/2017,12,NO,3.6,12.8,22.6,41,52,54,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,08/22/2017,4,NO,1.2,29.7,41.5,57,57,60,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+103053543,04/29/2018,4,NO,1.2,,68.4,57,61,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+103053543,06/12/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+103053543,06/20/2018,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+103053543,06/28/2018,4,NO,1.2,22.5,38.7,57,56,58,NORMAL,,CLEAR,GREEN,
+103053543,07/03/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,07/17/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,07/26/2018,3,NO,0.9,,,61,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+103053543,07/31/2018,4,NO,1.2,18.1,23,57,52,57,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,08/13/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,08/22/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+103053543,04/16/2019,6,NO,1.8,,31.9,51,55,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+231065087,06/01/2020,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+231065087,06/17/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+231065087,06/25/2020,6,NO,1.8,11.4,30.1,51,55,53,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+231065087,07/12/2020,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+103053543,07/28/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+231065087,07/28/2020,,,,27,32.8,,55,60,,,,,
+103053543,08/13/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+103053543,08/20/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+231065087,08/20/2020,,,,24,51.8,,59,59,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/22/2000,,,16.2,C,0.11,MG/L
+08/13/2001,,,14.5,C,0.05,MG/L
+09/11/2001,,,20.4,C,3.8,MG/L
+09/25/2001,,,16.6,C,7.75,MG/L
+08/01/2002,,,18.0,C,0.0,MG/L
+08/06/2002,,,16.9,C,0.1,MG/L
+08/07/2002,,,20.4,C,,
+07/21/2004,0,FEET,25.3,DEGREES C,10.7,MG/L
+07/21/2004,3,FEET,25.1,DEGREES C,11,MG/L
+07/21/2004,6,FEET,24.3,DEGREES C,12.1,MG/L
+07/21/2004,9,FEET,21.9,DEGREES C,7.1,MG/L
+07/21/2004,12,FEET,19.2,DEGREES C,.3,MG/L
+07/21/2004,15,FEET,16.8,DEGREES C,.3,MG/L
+07/21/2004,18,FEET,16,DEGREES C,.2,MG/L
+07/21/2004,21,FEET,15.3,DEGREES C,.2,MG/L
+07/21/2004,24,FEET,14.5,DEGREES C,.2,MG/L
+07/21/2004,27,FEET,13.8,DEGREES C,.2,MG/L
+08/08/2004,0,FEET,22.9,DEGREES C,12.4,MG/L
+08/08/2004,3,FEET,22.7,DEGREES C,12.8,MG/L
+08/08/2004,6,FEET,21.7,DEGREES C,11.6,MG/L
+08/08/2004,9,FEET,20.7,DEGREES C,7.2,MG/L
+08/08/2004,12,FEET,20.2,DEGREES C,3.5,MG/L
+08/08/2004,15,FEET,19.8,DEGREES C,.6,MG/L
+08/08/2004,18,FEET,18.7,DEGREES C,.3,MG/L
+08/08/2004,21,FEET,16.5,DEGREES C,.2,MG/L
+09/13/2004,0,FEET,22.5,DEGREES C,9.8,MG/L
+09/13/2004,3,FEET,22.4,DEGREES C,9.6,MG/L
+09/13/2004,6,FEET,21.6,DEGREES C,7.1,MG/L
+09/13/2004,9,FEET,21,DEGREES C,4.4,MG/L
+09/13/2004,12,FEET,20.8,DEGREES C,2.6,MG/L
+09/13/2004,15,FEET,20.1,DEGREES C,.4,MG/L
+09/13/2004,18,FEET,19.6,DEGREES C,.2,MG/L
+09/13/2004,21,FEET,18.1,DEGREES C,.2,MG/L
+09/13/2004,22,FEET,18,DEGREES C,.1,MG/L
+09/29/2004,0,FEET,20.1,DEGREES C,9.1,MG/L
+09/29/2004,3,FEET,19,DEGREES C,9.3,MG/L
+09/29/2004,6,FEET,18.9,DEGREES C,8.6,MG/L
+09/29/2004,9,FEET,18,DEGREES C,8.5,MG/L
+09/29/2004,12,FEET,18.7,DEGREES C,8.3,MG/L
+09/29/2004,15,FEET,18.2,DEGREES C,7.9,MG/L
+09/29/2004,18,FEET,18,DEGREES C,7.7,MG/L
+09/29/2004,21,FEET,18,DEGREES C,7.8,MG/L
+09/29/2004,22,FEET,18,DEGREES C,7.3,MG/L
+07/27/2006,0,FEET,28.3,DEGREES C,10.7,MG/L
+07/27/2006,3,FEET,28.1,DEGREES C,11.3,MG/L
+07/27/2006,6,FEET,27.1,DEGREES C,12.6,MG/L
+07/27/2006,9,FEET,25.4,DEGREES C,8.6,MG/L
+07/27/2006,12,FEET,24.2,DEGREES C,1.1,MG/L
+07/27/2006,15,FEET,22.3,DEGREES C,.4,MG/L
+07/27/2006,18,FEET,20.5,DEGREES C,.3,MG/L
+07/27/2006,21,FEET,18.7,DEGREES C,.3,MG/L
+06/19/2007,1,FEET,76,DEGREES F,8,MG/L
+06/19/2007,5,FEET,76.5,DEGREES F,,
+06/19/2007,10,FEET,75.5,DEGREES F,8,MG/L
+06/19/2007,15,FEET,69.5,DEGREES F,,
+06/19/2007,20,FEET,65,DEGREES F,1,MG/L
+06/19/2007,25,FEET,63,DEGREES F,,
+06/19/2007,30,FEET,52.5,DEGREES F,1,MG/L
+06/19/2007,35,FEET,52,DEGREES F,,
+07/05/2007,1,FEET,80.5,DEGREES F,8,MG/L
+07/05/2007,5,FEET,78.8,DEGREES F,,
+07/05/2007,10,FEET,77.7,DEGREES F,8,MG/L
+07/05/2007,15,FEET,74.5,DEGREES F,,
+07/05/2007,20,FEET,67.5,DEGREES F,5,MG/L
+07/05/2007,25,FEET,61.8,DEGREES F,,
+07/05/2007,30,FEET,60,DEGREES F,1,MG/L
+07/17/2007,1,FEET,76.4,DEGREES F,8,MG/L
+07/17/2007,5,FEET,76.8,DEGREES F,,
+07/17/2007,10,FEET,76.8,DEGREES F,8,MG/L
+07/17/2007,15,FEET,75.5,DEGREES F,,
+07/17/2007,20,FEET,69.8,DEGREES F,2,MG/L
+07/17/2007,25,FEET,67.6,DEGREES F,,
+05/24/2010,1,FEET,,,8,MG/L
+05/24/2010,5,FEET,,,8,MG/L
+05/24/2010,10,FEET,,,6,MG/L
+05/24/2010,15,FEET,,,4,MG/L
+05/24/2010,20,FEET,,,4,MG/L
+05/24/2010,25,FEET,,,0,MG/L
+06/10/2010,1,FEET,69.6,DEGREES F,10,MG/L
+06/10/2010,5,FEET,69.6,DEGREES F,,
+06/10/2010,10,FEET,69.2,DEGREES F,8,MG/L
+06/10/2010,15,FEET,59.1,DEGREES F,,
+06/10/2010,20,FEET,55.4,DEGREES F,1,MG/L
+06/10/2010,25,FEET,53.4,DEGREES F,,
+07/29/2010,1,FEET,,,12,MG/L
+08/18/2010,1,FEET,73.2,DEGREES F,8,MG/L
+08/18/2010,5,FEET,73.3,DEGREES F,,
+08/18/2010,10,FEET,70.5,DEGREES F,2,MG/L
+08/18/2010,15,FEET,64.5,DEGREES F,,
+08/18/2010,20,FEET,61.5,DEGREES F,1,MG/L
+08/18/2010,25,FEET,58.2,DEGREES F,,
+08/18/2010,30,FEET,57.9,DEGREES F,,
+06/29/2011,1,FEET,,,10,MG/L
+06/29/2011,5,FEET,,,10,MG/L
+06/29/2011,10,FEET,,,8,MG/L
+06/29/2011,15,FEET,,,3,MG/L
+06/29/2011,20,FEET,,,5,MG/L
+06/29/2011,25,FEET,,,5,MG/L
+07/20/2011,1,FEET,,,12,MG/L
+07/20/2011,5,FEET,,,12,MG/L
+07/20/2011,10,FEET,,,12,MG/L
+07/20/2011,15,FEET,,,12,MG/L
+07/20/2011,20,FEET,,,1,MG/L
+07/20/2011,25,FEET,,,10,MG/L
+08/22/2011,1,FEET,,,6,MG/L
+08/22/2011,5,FEET,,,4,MG/L
+08/22/2011,10,FEET,,,3,MG/L
+08/22/2011,15,FEET,,,2,MG/L
+08/22/2011,20,FEET,,,1,MG/L
+08/22/2011,25,FEET,,,1,MG/L
+07/30/2013,1,FEET,,,6,MG/L
+07/30/2013,5,FEET,,,8,MG/L
+07/30/2013,10,FEET,,,5,MG/L
+07/30/2013,15,FEET,,,5,MG/L
+07/30/2013,20,FEET,,,1,MG/L
+08/28/2013,1,FEET,,,8,MG/L
+08/28/2013,5,FEET,,,8,MG/L
+08/28/2013,10,FEET,,,6,MG/L
+08/28/2013,15,FEET,,,1,MG/L
+08/28/2013,20,FEET,,,0,MG/L
+07/15/2014,1,FEET,71.8,DEGREES F,,
+07/15/2014,5,FEET,72.3,DEGREES F,,
+07/15/2014,10,FEET,72.5,DEGREES F,,
+07/15/2014,15,FEET,66,DEGREES F,,
+07/15/2014,20,FEET,58.2,DEGREES F,,
+04/05/2016,1,FEET,45.8,DEGREES F,,
+04/05/2016,5,FEET,44.9,DEGREES F,,
+06/15/2016,1,FEET,76.4,DEGREES F,,
+06/15/2016,5,FEET,75.3,DEGREES F,,
+06/15/2016,10,FEET,73.7,DEGREES F,,
+06/15/2016,15,FEET,71.9,DEGREES F,,
+06/15/2016,20,FEET,71.9,DEGREES F,,
+06/21/2016,1,FEET,77.1,DEGREES F,,
+06/21/2016,5,FEET,77.1,DEGREES F,,
+06/21/2016,10,FEET,77,DEGREES F,,
+06/21/2016,15,FEET,74.6,DEGREES F,,
+06/21/2016,20,FEET,73.9,DEGREES F,,
+04/18/2017,1,FEET,56.4,DEGREES F,,
+04/18/2017,5,FEET,55.5,DEGREES F,,
+04/18/2017,10,FEET,55.2,DEGREES F,,
+04/18/2017,15,FEET,54.6,DEGREES F,,
+04/28/2017,1,FEET,55.7,DEGREES F,,
+04/28/2017,5,FEET,55.2,DEGREES F,,
+04/28/2017,10,FEET,54.6,DEGREES F,,
+04/28/2017,15,FEET,52.5,DEGREES F,,
+05/09/2017,1,FEET,57,DEGREES F,,
+05/09/2017,5,FEET,57.2,DEGREES F,,
+05/09/2017,10,FEET,54.1,DEGREES F,,
+05/09/2017,15,FEET,53.4,DEGREES F,,
+05/31/2017,1,FEET,65.1,DEGREES F,,
+05/31/2017,5,FEET,64.2,DEGREES F,,
+05/31/2017,10,FEET,64,DEGREES F,,
+05/31/2017,15,FEET,61.7,DEGREES F,,
+06/27/2017,1,FEET,72.6,DEGREES F,,
+06/27/2017,5,FEET,70.3,DEGREES F,,
+06/27/2017,10,FEET,69.8,DEGREES F,,
+06/27/2017,15,FEET,69.6,DEGREES F,,
+07/18/2017,1,FEET,80.4,DEGREES F,,
+07/18/2017,5,FEET,79.5,DEGREES F,,
+07/18/2017,10,FEET,78.2,DEGREES F,,
+07/18/2017,15,FEET,72.6,DEGREES F,,
+08/22/2017,1,FEET,76.2,DEGREES F,,
+08/22/2017,5,FEET,74.1,DEGREES F,,
+08/22/2017,10,FEET,73,DEGREES F,,
+08/22/2017,15,FEET,70.5,DEGREES F,,
+04/29/2018,1,FEET,55,DEGREES F,,
+04/29/2018,5,FEET,53,DEGREES F,,
+04/29/2018,10,FEET,53,DEGREES F,,
+04/29/2018,15,FEET,48,DEGREES F,,
+04/29/2018,20,FEET,45,DEGREES F,,
+06/12/2018,1,FEET,75,DEGREES F,,
+06/12/2018,5,FEET,72.6,DEGREES F,,
+06/12/2018,10,FEET,95.8,DEGREES F,,
+06/12/2018,15,FEET,52.8,DEGREES F,,
+06/12/2018,20,FEET,50.7,DEGREES F,,
+06/20/2018,1,FEET,76.4,DEGREES F,,
+06/20/2018,5,FEET,76.4,DEGREES F,,
+06/20/2018,10,FEET,66.5,DEGREES F,,
+06/20/2018,15,FEET,55.4,DEGREES F,,
+06/20/2018,20,FEET,52.5,DEGREES F,,
+06/28/2018,1,FEET,79.8,DEGREES F,,
+06/28/2018,5,FEET,76.4,DEGREES F,,
+06/28/2018,10,FEET,66,DEGREES F,,
+06/28/2018,15,FEET,53.4,DEGREES F,,
+06/28/2018,20,FEET,51.6,DEGREES F,,
+07/03/2018,1,FEET,83.6,DEGREES F,,
+07/03/2018,5,FEET,83.3,DEGREES F,,
+07/03/2018,10,FEET,69,DEGREES F,,
+07/03/2018,15,FEET,59,DEGREES F,,
+07/03/2018,20,FEET,53.2,DEGREES F,,
+07/17/2018,1,FEET,80.4,DEGREES F,,
+07/17/2018,5,FEET,80.5,DEGREES F,,
+07/17/2018,10,FEET,76.1,DEGREES F,,
+07/17/2018,15,FEET,59.3,DEGREES F,,
+07/17/2018,20,FEET,51.2,DEGREES F,,
+07/26/2018,1,FEET,76.4,DEGREES F,,
+07/26/2018,5,FEET,76.8,DEGREES F,,
+07/26/2018,10,FEET,74.1,DEGREES F,,
+07/26/2018,15,FEET,58.4,DEGREES F,,
+07/26/2018,20,FEET,51,DEGREES F,,
+07/31/2018,1,FEET,82.2,DEGREES F,,
+07/31/2018,5,FEET,78,DEGREES F,,
+07/31/2018,10,FEET,74,DEGREES F,,
+07/31/2018,15,FEET,62,DEGREES F,,
+07/31/2018,20,FEET,57,DEGREES F,,
+08/13/2018,1,FEET,86,DEGREES F,,
+08/13/2018,5,FEET,82,DEGREES F,,
+08/13/2018,10,FEET,75.9,DEGREES F,,
+08/13/2018,15,FEET,66.2,DEGREES F,,
+08/13/2018,20,FEET,60.8,DEGREES F,,
+08/22/2018,1,FEET,75.2,DEGREES F,,
+08/22/2018,5,FEET,74.3,DEGREES F,,
+08/22/2018,10,FEET,74.1,DEGREES F,,
+08/22/2018,15,FEET,68.7,DEGREES F,,
+08/22/2018,20,FEET,59,DEGREES F,,
+04/16/2019,1,FEET,46.7,DEGREES F,,
+04/16/2019,5,FEET,45.8,DEGREES F,,
+04/16/2019,10,FEET,43.1,DEGREES F,,
+04/16/2019,15,FEET,42.8,DEGREES F,,
+04/16/2019,20,FEET,42.8,DEGREES F,,
+06/01/2020,1,FEET,67.2,DEGREES F,,
+06/01/2020,5,FEET,68.7,DEGREES F,,
+06/01/2020,10,FEET,68,DEGREES F,,
+06/01/2020,15,FEET,68,DEGREES F,,
+06/01/2020,20,FEET,61.1,DEGREES F,,
+06/17/2020,1,FEET,74.6,DEGREES F,,
+06/17/2020,5,FEET,74.4,DEGREES F,,
+06/17/2020,10,FEET,69.4,DEGREES F,,
+06/17/2020,15,FEET,64.2,DEGREES F,,
+06/17/2020,20,FEET,59,DEGREES F,,
+06/25/2020,1,FEET,75,DEGREES F,,
+06/25/2020,5,FEET,73.4,DEGREES F,,
+06/25/2020,10,FEET,69.8,DEGREES F,,
+06/25/2020,15,FEET,60.6,DEGREES F,,
+06/25/2020,20,FEET,59,DEGREES F,,
+07/12/2020,1,FEET,80.6,DEGREES F,,
+07/12/2020,5,FEET,79.8,DEGREES F,,
+07/12/2020,10,FEET,73.7,DEGREES F,,
+07/12/2020,15,FEET,66.2,DEGREES F,,
+07/12/2020,20,FEET,62.6,DEGREES F,,
+07/28/2020,1,FEET,81.3,DEGREES F,,
+07/28/2020,5,FEET,80.4,DEGREES F,,
+07/28/2020,10,FEET,77.3,DEGREES F,,
+07/28/2020,15,FEET,69.6,DEGREES F,,
+07/28/2020,20,FEET,66.2,DEGREES F,,
+08/13/2020,1,FEET,78,DEGREES F,,
+08/13/2020,5,FEET,76.8,DEGREES F,,
+08/13/2020,10,FEET,75.4,DEGREES F,,
+08/13/2020,15,FEET,72.8,DEGREES F,,
+08/13/2020,20,FEET,70.5,DEGREES F,,
+08/20/2020,1,FEET,77.1,DEGREES F,,
+08/20/2020,5,FEET,76.2,DEGREES F,,
+08/20/2020,10,FEET,75.2,DEGREES F,,
+08/20/2020,15,FEET,72.3,DEGREES F,,
+08/20/2020,20,FEET,68.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/01/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR     
+09/06/2000,CHL-A IS 15FT INTEGRATED    
+08/13/2001,DEEP HOLE    
+09/11/2001,SURFACE 0.5M    
+09/25/2001,0.5M BELOW SURFACE    
+08/07/2002,PLUNGE POOL @ DAM    
+04/19/2004,DEEP HOLE    
+08/18/2004,DEEP HOLE - INTEGRATED SAMPLER    
+09/29/2004,DEEP HOLE - INTEGRATED SURFACE SAMPLE    
+06/28/2005,DEEP HOLE    
+07/14/2005,DEEP HOLE    
+07/27/2005,DEEP HOLE    
+08/09/2005,DEEP HOLE    
+08/24/2005,DEEP HOLE    
+09/12/2005,DEEP HOLE    
+09/19/2005,DEEP HOLE    
+07/26/2006,DEEP HOLE    
+07/27/2006,calm- hot- humid- aquatic plant survey by Sefton- Molter- and Tiede
+06/19/2007,Phosphorus (PH) = 1.5 @ 10ft deep
+07/05/2007,Phosphorus (PH) = 1.5 @ 10ft deep
+07/17/2007,Overcast day Overcast day. Phosphorus 1.5
+05/24/2010,No wind- humid
+05/24/2010,Overcast
+06/10/2010,Sunny- medium breeze- light cloud cover Sunny- medium breeze- light cloud cover
+07/29/2010,clear day and sunny
+08/18/2010,Cloudy and strong breeze; sun breaking through clouds
+06/29/2011,warm- sunny- calm
+07/20/2011,hot- sunny- some wind
+07/30/2013,cloudy- partly sunny
+08/28/2013,Cloudy
+07/15/2014,Sam Peterson was an additional helper. Cloudy and rainy 
+08/19/2014,Sam Peterson was an additional helper. Sunny 
+03/31/2016,Weather was rainy and cloudy. Lake seemed high due to recent rainfall. 2 loons (possibly juvenile common loons) were on the lake. Water towards the boat landing was very murky and brown. Towards the middle of the lake was clear.
+06/15/2016,sunny- cloudy- hot- muggy
+04/05/2017,Sunny- cool- small wind
+04/18/2017,Very windy- cool- overcast
+04/28/2017,Sunny and cool
+05/09/2017,Cloudy- cool- and breezy. Mikaela Zenz was additional helper.
+05/31/2017,Colton Hahn and Mikaela Zenz took measurements. Very windy- partly sunny- moderate temp of 65F.
+06/27/2017,Micah Reimer was an additional helper. Calm- mostly sunny- and moderate temp of 65F.
+07/18/2017,Micah Reimer was an additional helper. Calm- breezy- sunny- hot and humid.
+08/22/2017,Mikaela Zenz and Matt Pfaff took measurements. Sunny- warm- windy and somewhat humid. Moderate temp of 74F.
+04/29/2018,Windy- Sunny- 55-60 degrees- four seagulls
+06/12/2018,Cloudy- Calm- 75-80 degrees
+06/20/2018,Cloudy- rainy- slight breeze- 65-70 degrees
+06/28/2018,hot- humid- sunny- 84 degrees- slight wind
+07/03/2018,light wind- hot- partly cloudy
+07/17/2018,Andrew Schwiefitenberg- Sam Lindloff
+07/26/2018,MIkaela Tourdot- Matt Pfaff
+04/16/2019,Craig Meyer
+06/17/2020,Sunny
+06/25/2020,Jekka Alt helped- sunny
+07/12/2020,Sunny- Partly Cloudy
+
+
+
+
+Start Date,Group Name,Project Name
+07/01/1980,Liz Deitelhoff,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/01/1980,Liz Deitelhoff,Migrated from STORET Legacy
+08/22/2000,DAVID MARSHALL,Lake Baseline Monitoring- DNR (1970s-2006)
+09/06/2000,DAVID MARSHALL,AMBIENT MONITORING STREAMS
+08/13/2001,DAVID MARSHALL,AMBIENT MONITORING STREAMS
+09/11/2001,DAVID MARSHALL,Lake Baseline Monitoring- DNR (1970s-2006)
+09/25/2001,DAVID MARSHALL,Lake Baseline Monitoring- DNR (1970s-2006)
+08/01/2002,DAVID MARSHALL,Lake Baseline Monitoring- DNR (1970s-2006)
+08/06/2002,DAVID MARSHALL,Devils Lake Research
+08/07/2002,DAVID MARSHALL,Lake Baseline Monitoring- DNR (1970s-2006)
+08/19/2002,DAVID MARSHALL,Devils Lake Research
+08/26/2002,DAVID MARSHALL,Devils Lake Research
+04/19/2004,Jon Simonsen,Lake Baseline Monitoring- DNR (1970s-2006)
+07/21/2004,Jon Simonsen and Carl Molter,Lakes Baseline and Trends Monitoring
+08/08/2004,Jon Simonsen,Lakes Baseline and Trends Monitoring
+08/18/2004,Jon Simonsen,Lake Baseline Monitoring- DNR (1970s-2006)
+09/13/2004,Jon Simonsen,Lakes Baseline and Trends Monitoring
+09/29/2004,Adam Ray,Lakes Baseline and Trends Monitoring
+09/29/2004,Jon Simonsen,Lake Baseline Monitoring- DNR (1970s-2006)
+06/28/2005,DAVID MARSHALL,Response Monitoring
+07/14/2005,DAVID MARSHALL,Lakes Long Term Trend Monitoring (1986-present)
+07/27/2005,DAVID MARSHALL,Regional Special Projects
+08/09/2005,DAVID MARSHALL,Regional Special Projects
+08/24/2005,DAVID MARSHALL,Regional Special Projects
+09/12/2005,DAVID MARSHALL,Regional Special Projects
+09/19/2005,DAVID MARSHALL,Regional Special Projects
+10/04/2005,DAVID MARSHALL,Regional Special Projects
+07/26/2006,Susan Graham,Lakes Long Term Trend Monitoring (1986-present)
+07/27/2006,Carl Molter,
+06/19/2007,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/05/2007,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/17/2007,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/03/2008,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/30/2009,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/23/2009,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/29/2009,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+05/24/2010,Abby Scott,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+05/24/2010,Abby Scott- Liz Scott,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+05/24/2010,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/10/2010,Liz Scott,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/29/2010,Kim Shankland,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/18/2010,Kim Shankland,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/29/2011,Liz Deitelhoff- Abby Dolan,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/20/2011,Abby Dolan,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/22/2011,Abby Dolan,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/22/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/14/2012,Nick Hebel,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/30/2013,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/30/2013,Liz Deitelhoff,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/28/2013,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/28/2013,Liz Deitelhoff,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/15/2014,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/19/2014,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+03/31/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+03/31/2016,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/05/2016,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/15/2016,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/21/2016,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/05/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/05/2017,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/18/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/28/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+05/09/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+05/31/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/27/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/18/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/22/2017,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/29/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/12/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/20/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/28/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/03/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/17/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/26/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/31/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/13/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/22/2018,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+04/16/2019,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/01/2020,Mikaela Tourdot,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/17/2020,Mikaela Tourdot,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+06/25/2020,Mikaela Tourdot,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/12/2020,Mikaela Tourdot,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/28/2020,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+07/28/2020,Mikaela Tourdot,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/13/2020,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/20/2020,Jessica Steinhorst,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole
+08/20/2020,Mikaela Tourdot,Citizen Lake Monitoring - Water Quality - White Mound Lake - Deep Hole

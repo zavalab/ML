@@ -1,0 +1,902 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Myrtle Lake,Vilas,1626000,NO,64,,643089,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/26/1979,,,,,,,,,,,,,
+8190207,07/02/1993,8,YES,2.4,,,47,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190207,07/18/1993,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,08/01/1993,7.75,YES,2.4,,,48,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/23/1993,8,YES,2.4,,,47,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,09/05/1993,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/19/1993,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/25/1993,8,YES,2.4,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,05/02/1994,,,,,,,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/24/1994,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/13/1994,8.5,NO,2.6,,,46,,,HIGH,,,,1-Beautiful, could not be nicer
+8190207,07/18/1994,8,NO,2.4,,,47,,,MEDIUM-DOWN 6",,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/02/1994,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/15/1994,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,09/18/1994,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,
+8190207,05/27/1995,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,05/28/1995,8.75,YES,2.7,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/01/1995,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/15/1995,9.25,YES,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/05/1995,8.25,YES,2.5,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/19/1995,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/02/1995,8.5,YES,2.6,,,46,,,,,,,1-Beautiful, could not be nicer
+8190207,10/16/1995,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/29/1996,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/09/1996,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,07/21/1996,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/15/1996,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190207,08/30/1996,8,NO,2.4,,,47,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8190207,09/17/1996,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190207,10/01/1996,9.5,NO,2.9,,,45,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190207,10/13/1996,9,NO,2.7,,,45,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190207,05/13/1997,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190207,05/26/1997,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BLUE,
+8190207,06/17/1997,8,YES,2.4,,,47,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190207,07/07/1997,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190207,07/21/1997,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190207,08/04/1997,9,YES,2.7,,,45,,,BIT LOW,,,BROWN,1-Beautiful, could not be nicer
+8190207,08/18/1997,8.5,YES,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190207,09/16/1997,8.5,YES,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/30/1997,8.5,YES,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,04/20/1998,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,05/05/1998,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,05/26/1998,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/08/1998,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/23/1998,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/07/1998,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/20/1998,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/03/1998,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/16/1998,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/08/1998,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/21/1998,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,10/20/1998,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,04/20/1999,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/04/1999,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/01/1999,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/12/1999,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/15/1999,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/29/1999,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/12/1999,10.5,YES,3.2,,,43,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/27/1999,9,YES,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/02/1999,9,YES,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/10/1999,9,YES,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/24/1999,9.5,YES,2.9,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/06/1999,9.5,YES,2.9,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/17/1999,9.5,YES,2.9,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,10/04/1999,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,11/02/1999,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,05/02/2000,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/12/2000,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190207,05/26/2000,9.5,YES,2.9,,19,45,51,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/26/2000,9.5,YES,2.9,2.7,16,45,50,42,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/09/2000,9.75,YES,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/25/2000,8.5,NO,2.6,2,16,46,50,40,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/07/2000,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/22/2000,9,YES,2.7,3.1,16,45,50,43,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/05/2000,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/30/2000,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/08/2000,10,YES,3,2,15,44,49,40,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/15/2001,9,YES,2.7,,16,45,50,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/28/2001,9.75,YES,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/12/2001,9.5,YES,2.9,3.3,13,45,48,44,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/26/2001,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/09/2001,10,YES,3,6.5,19,44,51,49,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/21/2001,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,08/21/2001,9.75,YES,3,2.6,20,44,51,42,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/03/2001,10,YES,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/16/2001,9.5,YES,2.9,12,38,45,56,54,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8190207,05/28/2002,8.6,NO,2.6,,19,46,51,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/25/2002,8.6,NO,2.6,2.75,26,46,53,42,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/09/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/24/2002,9.6,NO,2.9,,,45,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/05/2002,8.6,NO,2.6,,,46,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/20/2002,10.25,YES,3.1,2.53,13,44,48,42,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/03/2002,10,YES,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/18/2002,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/01/2002,8.6,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/27/2002,8.6,NO,2.6,6.63,14,46,49,49,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/20/2003,9.6,NO,2.9,,24,45,53,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/03/2003,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/15/2003,9.6,NO,2.9,2.17,22,45,52,41,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/30/2003,,,,,,,,,,,,,
+8190207,07/19/2003,10,YES,3,4.21,15,44,49,46,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/28/2003,10,YES,3,,,44,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/12/2003,9.6,YES,2.9,3.41,23,45,52,44,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/05/2003,10,YES,3,3.63,19,44,51,45,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/15/2004,9.5,NO,2.9,2.31,19,45,51,41,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/24/2004,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/26/2004,,,,15.7,23,,52,56,,,,,
+8190207,08/20/2004,8,NO,2.4,10.2,16,47,50,52,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/21/2004,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,11/01/2004,9,NO,2.7,6.77,20,45,51,49,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,06/01/2005,10,YES,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/13/2005,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/24/2005,8.5,NO,2.6,4.07,23,46,52,45,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,07/21/2005,8,NO,2.4,5.32,33,47,55,47,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/25/2005,7.5,NO,2.3,9.14,28,48,54,52,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,08/27/2005,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,09/11/2005,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,10/19/2005,9,NO,2.7,7.65,15,45,49,50,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/12/2006,9.5,YES,2.9,2.83,33,45,55,43,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,08/21/2006,9.5,NO,2.9,4.45,21,45,52,46,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/24/2006,10,YES,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,11/01/2006,8,NO,2.4,4.08,20,47,51,45,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,04/30/2007,10,YES,3,,22,44,52,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,06/19/2007,9.5,YES,2.9,1.07,25,45,53,35,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/15/2007,10,YES,3,,,44,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/01/2007,9,YES,2.7,1.75,15,45,49,39,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/06/2007,,,,1.8,16,,50,39,,,,,
+8190207,09/09/2007,8.4,YES,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/18/2008,11,YES,3.3,1.87,22,43,52,40,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,06/19/2008,,,,,,,,,,,,,
+8190207,07/12/2008,9.5,YES,2.9,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/23/2008,9.75,YES,3,1.49,24,44,53,38,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/16/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/10/2008,9,YES,2.7,5.23,20,45,51,47,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,10/16/2008,9,YES,2.7,,,45,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,05/11/2009,9,YES,2.7,,19,45,51,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,06/20/2009,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,06/30/2009,7.5,YES,2.3,3.95,17,48,50,45,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190207,08/06/2009,8.5,YES,2.6,4.36,21,46,52,46,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190207,09/10/2009,7,YES,2.1,6.79,23,49,52,49,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190207,04/19/2010,10,NO,3,,18,44,51,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/29/2010,7,NO,2.1,5.51,28,49,54,48,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,08/04/2010,7,NO,2.1,5.66,21,49,52,48,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/09/2010,8,NO,2.4,6.07,20,47,51,48,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,05/04/2011,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,05/26/2011,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,07/05/2011,8,NO,2.4,3.67,29,47,54,45,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,08/04/2011,6,NO,1.8,5.81,23,51,52,48,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,08/29/2011,9,NO,2.7,4.09,17,45,50,45,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,10/24/2011,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,04/23/2012,9.5,YES,2.9,,21,45,52,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/31/2012,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,06/27/2012,9.5,NO,2.9,5,21,45,52,47,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,07/30/2012,9,NO,2.7,2.21,18,45,51,41,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190207,09/10/2012,9,YES,2.7,1.97,14,45,49,40,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/15/2013,9.5,YES,2.9,,20.2,45,51,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/25/2013,9,NO,2.7,2.75,23.3,45,53,42,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/29/2013,9.5,YES,2.9,4.5,16,45,50,46,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/04/2013,, ,,3.05,16.5,,50,43,,,,,
+8190207,05/14/2014,9.5,NO,2.9,,21.2,45,52,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/14/2014,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/07/2014,9.5,NO,2.9,1.89,28.4,45,54,40,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,08/05/2014,,,,5.9,19.8,,51,48,,,,,
+8190207,08/06/2014,9,YES,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,10/21/2014,10.5,YES,3.2,2.54,17.4,43,50,42,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,04/27/2015,10,YES,3,,12.3,44,48,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/03/2015,7,NO,2.1,7.52,27.3,49,54,50,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,09/03/2015,8.5,NO,2.6,8.31,20.9,46,52,51,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,04/28/2016,9.5,NO,2.9,,20,45,51,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,06/29/2016,9.5,NO,2.9,5.34,30.5,45,55,47,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,07/28/2016,7.5,NO,2.3,6.14,24.2,48,53,49,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,09/06/2016,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8190207,04/19/2017,7,NO,2.1,,18.6,49,51,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,06/27/2017,5.5,NO,1.7,6.28,38.7,53,56,49,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,07/09/2017,,,,2.18,14.8,,49,41,,,,,
+8190207,08/07/2017,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190207,09/07/2017,,,,5.78,20.8,,52,48,,,,,
+8190207,05/16/2018,,,,,17.8,,50,,,,,,
+8190207,06/19/2018,10.6,YES,3.2,1.83,16.8,43,50,39,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/01/2018,9.5,NO,2.9,2.27,8.87,45,45,41,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/22/2018,,,,15.1,70.9,,61,55,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,05/06/2019,9.5,NO,2.9,,15.1,45,49,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/08/2019,9.5,NO,2.9,2.9,19,45,51,43,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/30/2019,11,NO,3.3,2.96,16.8,43,50,43,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/05/2019,,,,2.43,14.8,,49,42,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,06/14/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,07/01/2020,10.5,YES,3.2,1.65,22.8,43,52,39,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,08/04/2020,10.5,YES,3.2,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190207,09/01/2020,,,,22.7,18.9,,51,58,,,,,
+8190207,09/20/2020,10,YES,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/26/1979,,,24,C,,
+06/26/2000,3,FEET,70,DEGREES F,,
+06/26/2000,6,FEET,70,DEGREES F,,
+06/26/2000,9,FEET,68,DEGREES F,,
+07/25/2000,3,FEET,71,DEGREES F,,
+07/25/2000,9,FEET,69,DEGREES F,,
+08/22/2000,3,FEET,71,DEGREES F,,
+08/22/2000,6,FEET,70,DEGREES F,,
+08/22/2000,8,FEET,69,DEGREES F,,
+09/05/2000,3,FEET,66,DEGREES F,,
+09/05/2000,9,FEET,64,DEGREES F,,
+10/08/2000,3,FEET,46,DEGREES F,,
+10/08/2000,6,FEET,46,DEGREES F,,
+10/08/2000,10,FEET,46,DEGREES F,,
+05/15/2001,3,FEET,62,DEGREES F,,
+05/15/2001,6,FEET,61,DEGREES F,,
+05/15/2001,9,FEET,61,DEGREES F,,
+05/28/2001,3,FEET,60,DEGREES F,,
+05/28/2001,6,FEET,58,DEGREES F,,
+05/28/2001,9,FEET,58,DEGREES F,,
+06/12/2001,3,FEET,68,DEGREES F,,
+06/12/2001,6,FEET,67,DEGREES F,,
+06/12/2001,9,FEET,64,DEGREES F,,
+06/26/2001,3,FEET,73,DEGREES F,,
+06/26/2001,6,FEET,72,DEGREES F,,
+06/26/2001,9,FEET,70,DEGREES F,,
+07/09/2001,3,FEET,73,DEGREES F,,
+07/09/2001,6,FEET,72,DEGREES F,,
+07/09/2001,9,FEET,70,DEGREES F,,
+07/21/2001,3,FEET,80,DEGREES F,,
+07/21/2001,6,FEET,78,DEGREES F,,
+07/21/2001,9,FEET,76,DEGREES F,,
+08/21/2001,3,FEET,70,DEGREES F,,
+08/21/2001,6,FEET,69,DEGREES F,,
+08/21/2001,9,FEET,69,DEGREES F,,
+09/03/2001,3,FEET,68,DEGREES F,,
+09/03/2001,6,FEET,68,DEGREES F,,
+09/03/2001,9,FEET,68,DEGREES F,,
+10/16/2001,3,FEET,48,DEGREES F,,
+10/16/2001,6,FEET,48,DEGREES F,,
+10/16/2001,9,FEET,48,DEGREES F,,
+05/28/2002,3,FEET,64,DEGREES F,,
+05/28/2002,6,FEET,59,DEGREES F,,
+05/28/2002,9,FEET,57,DEGREES F,,
+06/25/2002,3,FEET,72,DEGREES F,,
+06/25/2002,6,FEET,70,DEGREES F,,
+06/25/2002,9,FEET,66,DEGREES F,,
+07/09/2002,3,FEET,80,DEGREES F,,
+07/09/2002,6,FEET,79,DEGREES F,,
+07/09/2002,9,FEET,73,DEGREES F,,
+07/24/2002,3,FEET,75,DEGREES F,,
+07/24/2002,6,FEET,75,DEGREES F,,
+07/24/2002,9,FEET,74,DEGREES F,,
+08/05/2002,3,FEET,75,DEGREES F,,
+08/05/2002,6,FEET,73,DEGREES F,,
+08/05/2002,9,FEET,72,DEGREES F,,
+08/20/2002,3,FEET,68,DEGREES F,,
+08/20/2002,6,FEET,67,DEGREES F,,
+08/20/2002,9,FEET,66,DEGREES F,,
+09/03/2002,3,FEET,71,DEGREES F,,
+09/03/2002,6,FEET,71,DEGREES F,,
+09/03/2002,9,FEET,70,DEGREES F,,
+09/18/2002,3,FEET,66,DEGREES F,,
+09/18/2002,6,FEET,66,DEGREES F,,
+09/18/2002,9,FEET,65,DEGREES F,,
+10/01/2002,3,FEET,57,DEGREES F,,
+10/01/2002,6,FEET,56,DEGREES F,,
+10/01/2002,9,FEET,54,DEGREES F,,
+10/27/2002,3,FEET,37,DEGREES F,,
+10/27/2002,6,FEET,37,DEGREES F,,
+10/27/2002,9,FEET,37,DEGREES F,,
+05/20/2003,3,FEET,59,DEGREES F,,
+05/20/2003,6,FEET,59,DEGREES F,,
+05/20/2003,9,FEET,58,DEGREES F,,
+06/03/2003,3,FEET,63.5,DEGREES F,,
+06/03/2003,6,FEET,61.7,DEGREES F,,
+06/03/2003,9,FEET,61.7,DEGREES F,,
+06/15/2003,3,FEET,68.9,DEGREES F,,
+06/15/2003,6,FEET,68,DEGREES F,,
+06/15/2003,9,FEET,65.3,DEGREES F,,
+06/30/2003,3,FEET,66.2,DEGREES F,,
+06/30/2003,6,FEET,66.2,DEGREES F,,
+06/30/2003,9,FEET,66.2,DEGREES F,,
+07/19/2003,3,FEET,71.6,DEGREES F,,
+07/19/2003,6,FEET,71.6,DEGREES F,,
+07/19/2003,9,FEET,71.6,DEGREES F,,
+07/28/2003,3,FEET,72.5,DEGREES F,,
+07/28/2003,6,FEET,71.6,DEGREES F,,
+07/28/2003,9,FEET,71.6,DEGREES F,,
+08/12/2003,3,FEET,71.6,DEGREES F,,
+08/12/2003,6,FEET,71.6,DEGREES F,,
+08/12/2003,9,FEET,70.7,DEGREES F,,
+10/05/2003,3,FEET,45.5,DEGREES F,,
+10/05/2003,6,FEET,44.6,DEGREES F,,
+10/05/2003,9,FEET,43.7,DEGREES F,,
+06/15/2004,3,FEET,68.9,DEGREES F,6,MG/L
+06/15/2004,6,FEET,67.1,DEGREES F,7,MG/L
+06/15/2004,9,FEET,64.4,DEGREES F,8,MG/L
+07/24/2004,3,FEET,73.4,DEGREES F,7,MG/L
+07/24/2004,6,FEET,71.6,DEGREES F,7,MG/L
+07/24/2004,9,FEET,70.7,DEGREES F,7,MG/L
+08/20/2004,3,FEET,62.6,DEGREES F,7,MG/L
+08/20/2004,6,FEET,62.6,DEGREES F,8,MG/L
+08/20/2004,9,FEET,61.7,DEGREES F,8,MG/L
+09/21/2004,3,FEET,63.5,DEGREES F,8,MG/L
+09/21/2004,9,FEET,62.6,DEGREES F,7,MG/L
+11/01/2004,3,FEET,44.6,DEGREES F,7,MG/L
+11/01/2004,6,FEET,44.6,DEGREES F,7,MG/L
+11/01/2004,9,FEET,44.6,DEGREES F,7,MG/L
+06/01/2005,3,FEET,65.3,DEGREES F,9,MG/L
+06/01/2005,6,FEET,63.5,DEGREES F,9,MG/L
+06/01/2005,9,FEET,60,DEGREES F,9,MG/L
+06/13/2005,3,FEET,74.3,DEGREES F,,
+06/13/2005,6,FEET,74.3,DEGREES F,,
+06/13/2005,9,FEET,72.5,DEGREES F,,
+06/24/2005,3,FEET,75.2,DEGREES F,7,MG/L
+06/24/2005,6,FEET,75.2,DEGREES F,7,MG/L
+06/24/2005,9,FEET,70.6,DEGREES F,7,MG/L
+07/21/2005,3,FEET,77.9,DEGREES F,7,MG/L
+07/21/2005,6,FEET,77,DEGREES F,7,MG/L
+07/21/2005,9,FEET,76.1,DEGREES F,6,MG/L
+08/25/2005,3,FEET,66.2,DEGREES F,7,MG/L
+08/25/2005,6,FEET,66.2,DEGREES F,7,MG/L
+08/25/2005,9,FEET,66.2,DEGREES F,7,MG/L
+08/27/2005,3,FEET,67.1,DEGREES F,,
+08/27/2005,6,FEET,67.1,DEGREES F,,
+08/27/2005,9,FEET,66.2,DEGREES F,,
+09/11/2005,3,FEET,70.7,DEGREES F,,
+09/11/2005,6,FEET,70.7,DEGREES F,,
+09/11/2005,9,FEET,67.1,DEGREES F,,
+10/19/2005,3,FEET,50.1,DEGREES F,8,MG/L
+10/19/2005,6,FEET,49.1,DEGREES F,9,MG/L
+10/19/2005,9,FEET,48.2,DEGREES F,9,MG/L
+06/12/2006,3,FEET,68,DEGREES F,9,MG/L
+06/12/2006,6,FEET,67,DEGREES F,8,MG/L
+06/12/2006,9,FEET,67,DEGREES F,8,MG/L
+08/21/2006,3,FEET,70.7,DEGREES F,9,MG/L
+08/21/2006,6,FEET,70.7,DEGREES F,9,MG/L
+08/21/2006,9,FEET,69.8,DEGREES F,9,MG/L
+09/24/2006,3,FEET,56.3,DEGREES F,0,MG/L
+09/24/2006,6,FEET,55.4,DEGREES F,,
+09/24/2006,9,FEET,54.5,DEGREES F,,
+11/01/2006,3,FEET,35,DEGREES F,9,MG/L
+11/01/2006,6,FEET,35.6,DEGREES F,9,MG/L
+11/01/2006,9,FEET,35.6,DEGREES F,10,MG/L
+04/30/2007,3,FEET,57.2,DEGREES F,9,MG/L
+04/30/2007,6,FEET,57.2,DEGREES F,9,MG/L
+04/30/2007,9,FEET,56.3,DEGREES F,9,MG/L
+06/19/2007,3,FEET,71.6,DEGREES F,8,MG/L
+06/19/2007,6,FEET,71.6,DEGREES F,8,MG/L
+06/19/2007,9,FEET,71.6,DEGREES F,8,MG/L
+07/15/2007,3,FEET,68,DEGREES F,9,MG/L
+07/15/2007,6,FEET,67,DEGREES F,9,MG/L
+07/15/2007,9,FEET,66.5,DEGREES F,9,MG/L
+08/01/2007,3,FEET,79.7,DEGREES F,9,MG/L
+08/01/2007,6,FEET,78.8,DEGREES F,9,MG/L
+08/01/2007,9,FEET,77.9,DEGREES F,9,MG/L
+09/09/2007,3,FEET,73.4,DEGREES F,9,MG/L
+09/09/2007,6,FEET,70.7,DEGREES F,9,MG/L
+09/09/2007,9,FEET,69.8,DEGREES F,9,MG/L
+06/18/2008,3,FEET,66.4,DEGREES F,9.5,MG/L
+06/18/2008,6,FEET,64.3,DEGREES F,9.5,MG/L
+06/18/2008,9,FEET,63.2,DEGREES F,9.5,MG/L
+07/23/2008,3,FEET,,,9,MG/L
+07/23/2008,6,FEET,,,9,MG/L
+07/23/2008,9,FEET,,,9,MG/L
+08/16/2008,3,FEET,70.7,DEGREES F,,
+08/16/2008,6,FEET,69.8,DEGREES F,,
+08/16/2008,9,FEET,68.9,DEGREES F,,
+09/10/2008,3,FEET,61.1,DEGREES F,9,MG/L
+09/10/2008,6,FEET,59.2,DEGREES F,9,MG/L
+09/10/2008,9,FEET,59,DEGREES F,9,MG/L
+10/16/2008,3,FEET,49.1,DEGREES F,,
+10/16/2008,6,FEET,49.1,DEGREES F,,
+10/16/2008,9,FEET,49.1,DEGREES F,,
+05/11/2009,3,FEET,54.5,DEGREES F,9,MG/L
+05/11/2009,6,FEET,53.6,DEGREES F,9,MG/L
+05/11/2009,9,FEET,53.6,DEGREES F,9,MG/L
+06/20/2009,3,FEET,70,DEGREES F,9,MG/L
+06/20/2009,6,FEET,69.8,DEGREES F,9,MG/L
+06/20/2009,9,FEET,62.9,DEGREES F,9,MG/L
+06/30/2009,3,FEET,64.9,DEGREES F,9,MG/L
+06/30/2009,6,FEET,64.4,DEGREES F,9,MG/L
+06/30/2009,9,FEET,63.5,DEGREES F,9,MG/L
+08/06/2009,3,FEET,67.1,DEGREES F,9,MG/L
+08/06/2009,6,FEET,66.2,DEGREES F,9,MG/L
+08/06/2009,9,FEET,66.2,DEGREES F,9,MG/L
+09/10/2009,3,FEET,67.1,DEGREES F,9,MG/L
+09/10/2009,6,FEET,67.1,DEGREES F,9,MG/L
+09/10/2009,9,FEET,66.2,DEGREES F,9,MG/L
+04/19/2010,3,FEET,52.7,DEGREES F,10,MG/L
+04/19/2010,6,FEET,49.1,DEGREES F,10,MG/L
+04/19/2010,9,FEET,49.1,DEGREES F,10,MG/L
+06/29/2010,3,FEET,68,DEGREES F,9,MG/L
+06/29/2010,6,FEET,68,DEGREES F,9,MG/L
+06/29/2010,9,FEET,68,DEGREES F,9,MG/L
+08/04/2010,3,FEET,73.4,DEGREES F,8,MG/L
+08/04/2010,6,FEET,72.5,DEGREES F,8,MG/L
+08/04/2010,9,FEET,71.6,DEGREES F,7,MG/L
+09/09/2010,3,FEET,58.1,DEGREES F,9,MG/L
+09/09/2010,6,FEET,57.2,DEGREES F,9,MG/L
+09/09/2010,9,FEET,57.2,DEGREES F,9,MG/L
+05/26/2011,3,FEET,61.5,DEGREES F,,
+05/26/2011,6,FEET,61.5,DEGREES F,,
+05/26/2011,9,FEET,61.3,DEGREES F,,
+07/05/2011,3,FEET,79.1,DEGREES F,,
+07/05/2011,6,FEET,75.9,DEGREES F,,
+07/05/2011,9,FEET,71.6,DEGREES F,,
+08/04/2011,3,FEET,76.2,DEGREES F,,
+08/04/2011,6,FEET,75,DEGREES F,,
+08/04/2011,9,FEET,74.8,DEGREES F,,
+08/29/2011,3,FEET,71.6,DEGREES F,,
+08/29/2011,6,FEET,70.8,DEGREES F,,
+08/29/2011,9,FEET,70.8,DEGREES F,,
+04/23/2012,3,FEET,52.7,DEGREES F,,
+04/23/2012,6,FEET,52.7,DEGREES F,,
+04/23/2012,9,FEET,52.5,DEGREES F,,
+05/31/2012,3,FEET,65.1,DEGREES F,,
+05/31/2012,6,FEET,64.7,DEGREES F,,
+05/31/2012,9,FEET,64.5,DEGREES F,,
+06/27/2012,3,FEET,75.7,DEGREES F,,
+06/27/2012,6,FEET,74.3,DEGREES F,,
+06/27/2012,9,FEET,73.9,DEGREES F,,
+07/30/2012,3,FEET,78.2,DEGREES F,,
+07/30/2012,6,FEET,77.7,DEGREES F,,
+07/30/2012,9,FEET,77,DEGREES F,,
+09/10/2012,3,FEET,66.7,DEGREES F,,
+09/10/2012,6,FEET,66.3,DEGREES F,,
+09/10/2012,9,FEET,66.3,DEGREES F,,
+05/15/2013,3,FEET,53,DEGREES F,,
+05/15/2013,6,FEET,52,DEGREES F,,
+05/15/2013,9,FEET,48.5,DEGREES F,,
+06/25/2013,3,FEET,74.6,DEGREES F,,
+06/25/2013,6,FEET,72.8,DEGREES F,,
+06/25/2013,9,FEET,69.4,DEGREES F,,
+07/29/2013,3,FEET,65.8,DEGREES F,7.11,MG/L
+07/29/2013,6,FEET,65,DEGREES F,7.48,MG/L
+07/29/2013,9,FEET,64.8,DEGREES F,7.81,MG/L
+09/04/2013,3,FEET,71,DEGREES F,,
+09/04/2013,6,FEET,69.9,DEGREES F,,
+09/04/2013,9,FEET,69.6,DEGREES F,,
+05/14/2014,3,FEET,53.9,DEGREES F,,
+05/14/2014,6,FEET,53.6,DEGREES F,,
+05/14/2014,9,FEET,49.2,DEGREES F,,
+07/07/2014,3,FEET,73.7,DEGREES F,,
+07/07/2014,6,FEET,72.6,DEGREES F,,
+07/07/2014,9,FEET,72.3,DEGREES F,,
+08/06/2014,3,FEET,73.7,DEGREES F,,
+08/06/2014,6,FEET,73.2,DEGREES F,,
+08/06/2014,9,FEET,72.6,DEGREES F,,
+10/21/2014,3,FEET,46.4,DEGREES F,,
+10/21/2014,6,FEET,46.5,DEGREES F,,
+10/21/2014,9,FEET,46.4,DEGREES F,,
+04/27/2015,3,FEET,52,DEGREES F,,
+04/27/2015,6,FEET,51.8,DEGREES F,,
+04/27/2015,9,FEET,51.2,DEGREES F,,
+08/03/2015,3,FEET,72.8,DEGREES F,,
+08/03/2015,6,FEET,72.8,DEGREES F,,
+08/03/2015,9,FEET,72.5,DEGREES F,,
+09/03/2015,3,FEET,74.6,DEGREES F,,
+09/03/2015,6,FEET,68.9,DEGREES F,,
+09/03/2015,9,FEET,66.9,DEGREES F,,
+04/28/2016,3,FEET,57,DEGREES F,,
+04/28/2016,6,FEET,51,DEGREES F,,
+04/28/2016,9,FEET,50.5,DEGREES F,,
+06/29/2016,3,FEET,72,DEGREES F,,
+06/29/2016,6,FEET,71.9,DEGREES F,,
+06/29/2016,9,FEET,71.4,DEGREES F,,
+07/28/2016,3,FEET,77.7,DEGREES F,,
+07/28/2016,6,FEET,77.5,DEGREES F,,
+07/28/2016,9,FEET,77,DEGREES F,,
+09/06/2016,3,FEET,71,DEGREES F,,
+09/06/2016,6,FEET,70.8,DEGREES F,,
+09/06/2016,9,FEET,70.1,DEGREES F,,
+04/19/2017,3,FEET,48.7,DEGREES F,,
+04/19/2017,6,FEET,48.5,DEGREES F,,
+04/19/2017,9,FEET,48.2,DEGREES F,,
+06/27/2017,3,FEET,65.8,DEGREES F,,
+06/27/2017,6,FEET,64.9,DEGREES F,,
+06/27/2017,9,FEET,64.7,DEGREES F,,
+08/07/2017,3,FEET,69.6,DEGREES F,,
+08/07/2017,6,FEET,69.2,DEGREES F,,
+08/07/2017,9,FEET,69,DEGREES F,,
+06/19/2018,3,FEET,74.3,DEGREES F,,
+06/19/2018,6,FEET,74.4,DEGREES F,,
+06/19/2018,9,FEET,70.8,DEGREES F,,
+08/22/2018,3,FEET,73.2,DEGREES F,,
+08/22/2018,6,FEET,71.4,DEGREES F,,
+08/22/2018,9,FEET,71.4,DEGREES F,,
+05/06/2019,3,FEET,53.6,DEGREES F,,
+05/06/2019,6,FEET,50,DEGREES F,,
+05/06/2019,9,FEET,46.7,DEGREES F,,
+07/08/2019,3,FEET,77.7,DEGREES F,,
+07/08/2019,6,FEET,76.6,DEGREES F,,
+07/08/2019,9,FEET,76.4,DEGREES F,,
+07/30/2019,3,FEET,74.6,DEGREES F,,
+07/30/2019,6,FEET,74.4,DEGREES F,,
+07/30/2019,9,FEET,74.3,DEGREES F,,
+09/05/2019,3,FEET,64.2,DEGREES F,,
+09/05/2019,6,FEET,64.2,DEGREES F,,
+09/05/2019,9,FEET,64.2,DEGREES F,,
+06/14/2020,3,FEET,67.2,DEGREES F,,
+06/14/2020,6,FEET,67.2,DEGREES F,,
+06/14/2020,9,FEET,67.1,DEGREES F,,
+07/01/2020,3,FEET,81.5,DEGREES F,,
+07/01/2020,6,FEET,79.8,DEGREES F,,
+07/01/2020,9,FEET,77.3,DEGREES F,,
+08/04/2020,3,FEET,71.6,DEGREES F,,
+08/04/2020,6,FEET,71.4,DEGREES F,,
+08/04/2020,9,FEET,71,DEGREES F,,
+09/20/2020,3,FEET,68.7,DEGREES F,,
+09/20/2020,6,FEET,68.3,DEGREES F,,
+09/20/2020,9,FEET,68,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/02/1993,Partly sunny- still trying to find different spot- maximum spot seems to be 8.5 ft    
+07/18/1993,Partly cloudy- humid- air temp 80's- great loon + beaver- large weed beds for first time this year    
+08/01/1993,Light chop- windy- cool- 70s- dry and beautiful.  On and off clouds- good fishing.  Noted lots of new weeds and lily pads for the 1st time.  Nice day.    
+08/23/1993,Windy- slight clouds and chop.  70s and humid- good loon activity- beavers took down several more birch- still trying to find deeper spot.    
+09/05/1993,Lots of minnows- cool 65 degrees- light breeze.  Very quiet- gorgeous lake- no fish biting.  Lots of birds- loons- many dead weeds.    
+09/19/1993,Clear- mild wind- no water activity.  No loons- ducks- people- otters- etc.    
+10/25/1993,Windy- cool- 50 degrees- great day- geese over water- loon on the lake.  Lake level: very high    
+05/02/1994,Cold 50 degrees- ice out 4/17/94- loons- ducks- beaver- crane-lots of activity-noticed many dead frogs -little fish sightings-hope not a winter kill.  Assumed sample time was noon.  No secchi depth taken.    
+05/24/1994,Great day-loons.  Fish- minnow.  Thought it May have been a freeze/out- saw a 20" snapper.    
+06/13/1994,Beautiful- some loons- duck.  Good fishing- slight wind + chop- fish spawning near piers.    
+07/18/1994,Fantastic-all except for the flies-also more weeds on/at surface than usual.    
+08/02/1994,Many weeds-cloudy-loons-turtles-great day!    
+08/15/1994,Many more weeds than before.  Loons out- fish jumping.  Sunny- warm- 78 degrees- nice day.    
+09/18/1994,Perfect day - fishing for Panfish improved - still many weeds near pier that were not there last year - lots of minnows - sunny - 70's.    
+05/27/1995,Overcast.  Many fish.  Lake looks healthy.  Bought new mini pontoon with electric motor.  Will enjoy lake even more now.  Loons- ducks etc.  Water Level: Very high-up 6-8"    
+05/28/1995,Best I've seen it.  Loons- minnow activity + a beaver at dusk.  Sunny-no clouds-clear.  No wind.  Gorgeous day.    
+08/01/1995,Lots of lily pads + submerged weeds.  Loads of fish-catch one-each cast.    
+08/15/1995,Best I've ever enjoyed lake except too many weeds-loons.  Assumed sample time was noon.    
+09/05/1995,Weeds-still can't find deepest spot!  Lots of fish.    
+09/19/1995,More lily pads than we've ever seen + many other weeds-otherwise 100%.    
+10/02/1995,Weeds on way out.    
+10/16/1995,Weeds gone- but beaver back.    
+05/29/1996,Secchi reading hard to tell-wavy. yea! lake looks great!! ice-off 5/10/96-other lakes had winter kill-not ours! ours is terrific- best Memorial-day ever!!!  Lake level: Very high (beavers)    
+07/09/1996,1st time couldn't see before hit bottom.    
+07/21/1996,Lily pad springing up all over. have had lots of rain. don't see or catch any fish-just minnows-loons active.    
+08/15/1996,Many lily pads-minnows-not good fishing at all-lots of loon activity-no beaver so far.    
+08/30/1996,3 loons- first sighting of fish approx. 6"- lots of minnows-neighbors + I still not sure of winter kill last year.    
+09/17/1996,Loons gone-many minnows + small fish-weeds not as bad as previous years-fall colors starting!! beavers gone.    
+10/01/1996,Secchi depth estimate-could see 10' or more. thought loons were gone-they're still here!    
+10/13/1996,Fantastic day-65 degrees- calm-some fish active.    
+05/13/1997,Ice finally out.    
+05/26/1997,Lots of snails on the beach.  Loons out.  No beaver this year.    
+06/17/1997,Loons - minnows out- goshawk in yard- bit cooler.    
+07/07/1997,Have plan to search for deepest spot.  1 loon- heron- lots of minnows- weeds coming.    
+07/21/1997,No rain for awhile- loons out- saw 5-6 Panfish.    
+08/04/1997,Found a deeper spot- loons - mosquitoes a bear.    
+08/18/1997,Loons also went fishing.  Caught small bass lots of heavy rain - 3.5 to 4 inches.    
+04/20/1998,Loons- ducks- lots of minnows. pontoon rides.    
+05/05/1998,No rain in weeks.  Loons- ducks and wood ducks in house.    
+05/26/1998,No rain. beautiful.    
+06/08/1998,5 loons- many ducks.    
+06/23/1998,Sunny- clear.  3 loons- many minnows.  No rain.    
+07/07/1998,Lots of rain. loon- perch.    
+07/20/1998,2 pair loons.  Gorgeous day.    
+08/03/1998,Gorgeous weekend.  No rain. caught 18" northern.    
+08/16/1998,Getting close to finding deep spot.  Water level: very low.    
+09/08/1998,Saw eagle- loons- no rain.  Water level very low.    
+09/21/1998,Lots of smallish weeds- round- thick.  Water level: very low.    
+10/20/1998,Rain- cold- windy.  No loon- no fish.    
+04/20/1999,Cloudy. windy. 2 pair loons. just put pontoon in. pier needs leveling. muskrat at work.    
+05/04/1999,Cloudy. windy. lake level still high. must straighten pier (time 2) . whitecaps at times.    
+06/01/1999,Cloudy. pier sank again. lake level high. weeds coming. loons. pontoon lift canopy in.    
+06/12/1999,Cloudy. lots + lots of rain. Lake level very high.  Very hot- then very cool.  More weeds.  Loons.  Pier out of whack.    
+06/15/1999,Cloudy.  Cool.  Lots of minnows. Great weekend.  Culvert running - lake very high!    
+06/29/1999,Sunny- nice day- clouds drifting in + out.    
+07/12/1999,Saw loons with 1 baby- lots of bugs- bass- minnows- going to try fishing.  Deepest secchi ever - could have seen deeper!    
+07/27/1999,Loons with 1 baby.  Gorgeous day.  Bugs not too bad.    
+08/02/1999,Loons (3) still around.  Perfect days.  Had violent storm.  Power out to 50-000 homes - not us.    
+08/10/1999,Another great day.  Loons -mom- dad- + baby.  Lots of fish.    
+08/24/1999,Gorgeous day.  Loons (3) .  Nice breeze.  Culvert not running.  Some beaver activity on back 80.    
+09/06/1999,Perfect day!  Did some road work + took a long walk.    
+09/17/1999,What a gorgeous day.  No loons lately.  Lots of fish.  Super calm clear week.  Freezing rain.    
+10/04/1999,Great day.  Cool.  Ice starting on lake in A.M.    
+11/02/1999,Overcast.  Last day before boat taken out of the lake.    
+05/02/2000,Sunny- nice- another blissful- gorgeous day. Loons active. Could have seen deeper- need to search for hole. Lift cable snaps - crash!    
+05/12/2000,Cloudy- loons out. No sign of beaver on lake. Lots of rain- mist last night. Black flies out - yeow. Chickadees making nests.    
+05/26/2000,Beautiful and clear.    
+06/26/2000,Another perfect day on the lake. 2 loons- otter near pier. flies are bad. First time alone doing chemistry sampling.    
+07/09/2000,Had tons of rain- lakes is the highest it has ever been. beaver is blocking culvert- removed debris- okay now.    
+07/25/2000,Why was reading almost 1 foot off   Strange- did I miss my spot   Weeds     
+08/07/2000,As always- another great day at the lake. Can't believe how nice.    
+08/22/2000,Perfect day- light clouds. Very calm- 82 degrees.    
+09/05/2000,Better than perfect- spectacular! Crystal clear day- had 4 days of rain. Loons at night- hummers gone.    
+09/30/2000,Absolutely gorgeous day- heard loons. Fall colors beautiful.    
+10/08/2000,38 degrees F.- had 5" snow. 3 eagles soaring. Lake beauteous as ever. Last reading for year.    
+05/15/2001,Another beautiful day.  First reading of 2001.    
+06/12/2001,Tent caterpillars galore - yuk!  Had lots of rain in the past two days- was muggy with temperatures in the 80s- lake great- only one loon.    
+06/26/2001,Found deepest spot so far!  Hot- muggy- two loons- and tent caterpillars going away- but now lots of flies - can't win.    
+07/09/2001,Two loons- many weeds and lily pads- deer flies are bad- been hot with temperatures at 85-90 degrees- and no beaver activity at culvert- culvert ok.    
+07/21/2001,Found dead loon on shore - sad- but pair still active on lake.  Really- really hot and muggy- and a cloudy day.    
+08/21/2001,The temperature is 92 degrees- a perfect day and three loons at night carrying on.    
+09/03/2001,Ma and Pa loons with baby- very active - perfect day!  Cool breeze from the north and the temperature is 75 degrees.    
+10/16/2001,Snow flurries- cold- damp- and overcast - plain nasty!    
+05/28/2002,Hot and muggy. 1st reading of the year and the first time in awhile that the secchi disk did not hit the bottom - guess bottom is at 11 feet.  Loons are out and lake is beautiful.    
+06/25/2002,Flies are really bad!  Friendly flies everywhere- loons out- beautiful day- been hot and muggy- tent caterpillars galore but not as bad as last year.    
+07/09/2002,Cloudy but gorgeous. Ouch!  Wasp nest on pontoon- little bugger got me!  Been muggy - not super weather.    
+07/24/2002,Had 60 mph winds- now dry- not humid- loons active- perfect day- lots of weeds in the lake- lily pads too!    
+08/05/2002,It's always a pleasure to be out on/in this little lake- way more weeds than ever though!    
+08/20/2002,God is good! what a day! nary a cloud- loons (2) are
+great company..cool - nice- calm- could stay on lake for hours and just enjoy it.  all except for more weeds than ever before .. fouls the prop on the little electric motor often    
+09/03/2002,Another spectacular day! Strong west wind. Loons active. Lush green everywhere- rain last night. Could've seen Secchi deeper    
+09/18/2002,Overcast- weather has been fantastic. Rain expected today. Very low humidity. Perfect weather.    
+10/01/2002,No loons- lots of panfish. Humid last night. Cloudy- 1" rain.    
+10/27/2002,Cold- 20's- cloudy- humid. Damp- 78 F. Snow on ground- ice forming on lake. Taking boat out.    
+05/20/2003,Could see to 10' but choppy - strong wind. 2 loons active. Lake level highest in 20 years. Pier in water. Beavers active. Air temp 45 F.    
+06/03/2003,Cool breeze. Air temp 70 F. Lots mosquitoes. Some frost at night. First cluster fly today and fawn with mom!  First weeds today.    
+06/15/2003,2 loon eggs. Perfect day. Light breeze.    
+06/30/2003,Another 100% day. 3 adult loons  And birds nest with eggs under pontoon canopy - still 2 loon eggs!    
+07/19/2003,Loons and 2 babies. :)  Beautiful day. Weeds. Pontoon. Birds flying.    
+07/28/2003,6 loons on lake- very active. Didn't see any young.    
+08/12/2003,4 loons- adults- 2 young. Bear destroys bird feeder. Always perfect day - when I secchi- etc.    
+10/05/2003,Loons gone. Lake is quiet- perfect- blue sky - love it!  Last reading for year - boat out soon!  Been in 20's at night.    
+06/15/2004,2 loons -- 2 eggs -- 100% perfect day- calm- cool- sunny- always a treat to be on the lake.    
+07/24/2004,2 loons/with young- nice weather- deer flies still bad- lake as gorgeous as ever    
+07/26/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+08/20/2004,clear- loons w/young- always a pleasure to be on lake- almost a fall day- 64F- puuurrrrfect.
+    
+09/21/2004,Perfect Day! Neighbors say that fishing is no good- Hear loons- but can not see them. Slight breeze    
+11/01/2004,Lake highest ever- lots of rain-(for days) cloudy- took pontoon out.    
+06/01/2005,CAN'T BELIEVE ANOTHER PERFECT DAY- NO WEEDS YET 2 LOONS ON NEST WITH 2 EGGS. SE WIND 70'S    
+06/13/2005,Some flies- light breeze- loons with only 1 young    
+06/24/2005,Cloudy- windy.  Loons with 1 chick.  Hot- humid.  Loads of deerflies.    
+07/21/2005,Pair of loons with 1 chick.  Beautiful as always - no flies today!    
+08/25/2005,Lite rain- lots of weeds - seem to be spreading.  Loon doing great with 1 chick - spotted purple loosestrife.  Confirmed with DNR.    
+08/27/2005,3 otters playing along shore.  Lake is turbid.  Otherwise 100% day.  Loons with chick OK.  Light breeze- 70 F. Retired after 50 years - now able to spend more time on the lake.    
+09/11/2005,Hot- humid- windy.  Loons OK.  Much turbidity.    
+10/19/2005,Loons gone - some ducks - chilly.  Last reading for year.    
+06/12/2006,1st secchi reading and phos/oxg reading- cloudy- loons with 2 eggs- new nest spot- breezy pleasant
+08/21/2006,Gorgeous windy day- 2 loons- lost eggs to predator- missed July Aug. readings- always nice to be on lake
+09/24/2006,could have seen secchi deeper- can't find spot! perfect day- no clouds
+11/01/2006,Sunny- 36F- very windy- Ice forming mornings- cold- 20F at night
+04/30/2007,First reading of year.  Black flies bad.  (2) loons are back!  Weather has been great.  Nice to be on lake again.
+06/19/2007,Windy - lost loon eggs.  Much needed rain.  Been very dry.  Horray - new batch loon eggs (2) old nest.  Wasps on pontoon - yuk!
+07/15/2007,Oh my God....another perfect day out on the lake! We have a loon chick after losing 2 eggs weeks ago. How exciting. Lite breeze- 70's could see past 10 sechhi but always hit bottom. they say Myrtle Lake has a max depth of 29' ....we and our neighbors don't think so. Max we can find is 10' ..sometimes 11' depending on water levels.  
+08/01/2007,Gorgeous day..lite breeze-no rain very dry. Loons and chick ok..doing very well. This is another could see past 10' secchi day but always hit bottom. Gonna pray for rain. Really very dry.grass is brown- garden needs constant watering.  
+09/09/2007,Lake is very weedy- gets worse each year. Our pond 9approx 20 acres) adjacent to our lake is so full of surface weeds you can't see the water! Scary!
+Loons and chick ok. another spectacular day. We need rain ....alot!! Forgot to mention that I got new ampule kit in June ..so reading for do went from 8 to 9 ..Hooray. Guess chemicals were bad.
+06/18/2008,Ist reading of yr. loons w/2 eggs- had serious winter kill- lots of dead fish. no weeds yet.100% perfect day.
+07/12/2008,Another nice day ..breezy and cool.
+07/23/2008,Great day... pair of loons w/1 chick..my water temp gauge quit working--cloudy glass. 
+08/16/2008,Very dry- need rain- loon w/1 chick- aways nice to be on lake-lots of weeds..seems they get worse each year.
+09/10/2008,Cloudy and windy.. loons with 1 chick- Very dry..need rain- lots of weeds. 
+10/16/2008,Maybe last session on lake. Clear- cool- windy no loons in 3 weeks. Has been unusually warm till now.  
+05/11/2009,First reading- 2 loons- windy- pleasant- many deep weeds already.  Cloudy and cool.
+06/20/2009,Breezy- cloudy- nice.  Lost 2 loon eggs in water.  Very dry.  Just some light rain!
+06/30/2009,Too overcast for good read   Very dry for weeks.  Now lots rain - cloudy for days!  Site 2 - loons- no new eggs.  Temp 55 F- cool!
+08/06/2009,Perfect weather- 2 loons- breezy.  Very dry!  Low humidity.  Lots weeds (surface).
+09/10/2009,Very dry - need rain.  Warm- calm- loons
+04/19/2010,Very dry. Calm. No clouds. First reading of the year. Ice out 3 weeks ago. 2 loons. Going to search again for deepest hole.
+06/29/2010,Gorgeous day. Windy- cool - 60's. Dry. Few clouds. Lost 3 loon eggs in past month:( 
+Have had a lot of rain.
+08/04/2010,Another perfect day. Low humidity. 2 loons. No bugs. Have had lots of rain. Lake very high.
+09/09/2010,Lake level highest in years. Still have loons. Nice day. Cloudy and calm. Cool. 50's.
+05/04/2011,FAIR- CLOUDY- DRY- WATER MURKY- 1ST TEST OF THE YEAR- JUST SECHHI..NO OTHER READINGS. 
+05/26/2011,Sunny- chilly- windy--loons on man made nest 2 eggs- 1st time out w/new dog tootsie- goona be cold tonite 28 degrees...take plants in!
+07/05/2011,Always pleasant when i'm out doing tests.. loons and 1 chick came up to boat..chick disappeared for 2 hrs- parents frantic...chick shows up ok. 2nd chick was lost due to floating upside down 2 days after hatch..we put back in nest but no luck. dead chick goes to dnr for evaluation.  
+08/04/2011,Breezy- adult loons only ..lost 2nd chickh to predation a few days ago. Recent 2" rain..water murky..more than usual.
+08/29/2011,Weather perfect- idyllic day on Myrtle Lake...just sad we lost both loon chicks.. 
+10/24/2011,Nice day- sunny and windy
+04/23/2012,sunny- crisp- breezy. 2 loons- wind is cold- swallows out buzzing - great blue sky- 1st time out
+05/31/2012,partly siny- cool- breezy- 2 loons nesting- weeds present but not too bad. 55 degrees and brisk
+06/27/2012,loons with 2 chicks- breez- clear- 85 degrees- smashing gorgeous day! need rain- pair of ducks now down from 14 ducklings to 6
+07/30/2012,cloudy- light breeze- loons with two chicks- turtles wastchin us- out with our daughters Kelly + Tracey :)
+09/10/2012,sunny- breezy- clear- loons gone- 70 degrees and gorgeous on the lake- lake low - hard to get on/off the lift
+05/15/2013,1st reading- 2 loons using our man-made nest- another great day- nature at its best. How wonderful it is to enjoy our
+private little lake. Life is good. Hungry bear attacking our bird feeders again.
+06/25/2013,Loons now with 2 chicks- few clouds- worse mosquitos ever- but nice to be out. Have had lots of rain. 
+07/29/2013,Breezy- gorgeous day- borrowed do meter from Phelps...first time using. 
+09/04/2013,Another perfect day- still have 2 loons with 2 chicks- blue sky- lite breeze-- we all sure do love our lake-  wild life loves it too!
+05/14/2014,Sunny-breezy- had 2 loons but not seen in 2 days- lake is beautiful- had partial winter fish kill- partial gazeboat pushing towards shore.    
+07/07/2014,2 loons with 2 chicks- water has been exceptionally clear past week- seeing lots of fish- put pontoon canopy on . 
+08/06/2014,Hope we didn't lose both loon chix- have not seen them in couple days- lots of fish so winter kill was not as thought- perfect day 73 degrees- adult loons circling boat but still can't see chix...they are hiding!
+10/21/2014,Loons gone- left sept 15-25  had 1 chick- sorry I missed August reading - lake very clear  
+04/27/2015,Breezy - Ice Out 15th
+08/03/2015,Cloudy- breezy - weeds back
+09/03/2015,Nice day- cloudy - breezy
+04/28/2016,Two loons. Nest is ready and in place. Lots of rain. Very few non-residents. Spring has sprung. Two loons. Nest is ready and in place. Lots of rain. Very few non-residents. Spring has sprung.
+06/29/2016,Lost first nestling to flies. One left. 68 degrees. Calm. Pine pollen over- deer flies bad. Dragon flies visit me during tests.
+07/28/2016,Many recent storms. Lots of trees down and property damage everywhere. Conover hit hard. Only one loon chick.
+09/06/2016,Assume noon. Cloudy- have had lots of rain. Big storms. Many trees uprooted. Loons okay with chick. 
+06/27/2017,Sunny dry- but had lots rain past weeks- lake highest ever- lons w/2 chix- bears veryactive- hardly any weeds- all local lake levels way up. Sunny dry- but had lots rain past weeks- lake highest ever- loons w/2 chix- bears veryactive- hardly any weeds- all local lake levels way up.
+06/19/2018,Breezy- cloudy- Loons w/3 chicks- Gorgeous day all animals happy had 8' rain past week- all lakes very high- parts of pier under water.
+08/01/2018,Eerie calm - 2 adult loons- 1 chick- been hot- lots rain- bugs still here everywhere- 70 degrees today. water nice.
+08/22/2018,1 adult loon 1 chick- but have seen other adult past few days- quiet day- lite breeze-bugs gone --hooray-hummers active- woods are magnificent
+05/06/2019,clear- some clouds- 2 boats- no fish
+07/08/2019,calm- quiet- flys and bugs are out
+07/30/2019,68 F- windy- low weed level- north wind- bugs almost gone- pine dust gone
+09/05/2019,2 loons- lots of rain- calm
+06/14/2020,Blue sky- gorgeous- loon on nest- breezy- no bugs. 
+07/01/2020,Loons with 2 chicks- hot- muggy- bugs- water very clear- and lots of weeds. 
+08/04/2020,Loons 4- 2 chicks- doing ok- bugs- gone- lake more weeds- 62 degrees- clouds. 
+09/20/2020,Cloudy- lots of weeds- no bugs- cold. 
+
+
+
+
+Start Date,Group Name,Project Name
+07/26/1979,Data Collectors,Migrated from STORET Legacy
+07/02/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/18/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/01/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/23/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/05/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/19/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/25/1993,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/02/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/24/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/13/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/18/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/02/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/15/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/18/1994,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/27/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/28/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/01/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/15/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/05/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/19/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/02/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/16/1995,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/29/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/09/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/21/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/15/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/30/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/17/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/01/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/13/1996,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/13/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/26/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/17/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/07/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/21/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/04/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/18/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/16/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/30/1997,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/20/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/05/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/26/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/08/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/23/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/07/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/20/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/03/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/16/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/08/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/21/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/20/1998,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/20/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/04/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/01/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/12/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/15/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/29/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/12/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/27/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/02/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/10/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/24/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/06/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/17/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/04/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+11/02/1999,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/02/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/12/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/26/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/26/2000,Bill Green,Lake Baseline Monitoring- DNR (1970s-2006)
+07/09/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/25/2000,Bill Green,
+08/07/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/22/2000,Bill Green,
+09/05/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/30/2000,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/08/2000,Bill Green,
+05/15/2001,Bill Green,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+05/28/2001,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/12/2001,Bill Green,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+06/26/2001,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/09/2001,Bill Green,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+07/21/2001,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/21/2001,Bill Green,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+09/03/2001,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/16/2001,Bill Green,ONEIDA COUNTY LAKES AND RIVERS ASSOCIATION: Oneida Volunteers
+05/28/2002,Bill Green,VILAS COUNTY LAKES ASSOCIATION: Vilas Volunteers
+06/25/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/09/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/24/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/05/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/20/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/03/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/18/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/01/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/27/2002,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/20/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/03/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/15/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/30/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/19/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/28/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/12/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/05/2003,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/15/2004,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/24/2004,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/26/2004,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/20/2004,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/21/2004,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+11/01/2004,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/01/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/13/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/24/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/21/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/25/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/27/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/11/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/19/2005,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/12/2006,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/21/2006,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/24/2006,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+11/01/2006,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/30/2007,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/19/2007,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/15/2007,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/01/2007,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/06/2007,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/06/2007,Bill Green,Citizen Lake Monitoring Network QA/QC - 2007
+09/09/2007,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/18/2008,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/19/2008,Data Collectors,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/12/2008,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/23/2008,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/16/2008,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/10/2008,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/16/2008,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/11/2009,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/20/2009,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/30/2009,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/06/2009,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/10/2009,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/10/2009,Bill Green,Citizen Lake Monitoring Network QA/QC - 2009
+04/19/2010,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/29/2010,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/04/2010,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/09/2010,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/04/2011,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/26/2011,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/05/2011,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/04/2011,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/29/2011,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/24/2011,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/23/2012,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/31/2012,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/27/2012,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/30/2012,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/10/2012,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/15/2013,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/25/2013,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/29/2013,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/04/2013,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/14/2014,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/14/2014,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/07/2014,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/05/2014,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/06/2014,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+10/21/2014,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/27/2015,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/03/2015,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/03/2015,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/28/2016,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/29/2016,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/28/2016,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/06/2016,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+04/19/2017,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/27/2017,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/09/2017,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/07/2017,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/07/2017,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/16/2018,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/19/2018,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/01/2018,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/22/2018,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+05/06/2019,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/08/2019,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/30/2019,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/05/2019,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+06/14/2020,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+07/01/2020,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+08/04/2020,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/01/2020,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole
+09/20/2020,Bill Green,Citizen Lake Monitoring - Water Quality - Myrtle Lake; Deep Hole

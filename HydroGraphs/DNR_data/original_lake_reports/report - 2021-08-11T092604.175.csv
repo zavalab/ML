@@ -1,0 +1,841 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Island Lake,Vilas,2334400,NO,64,,643200,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190191,06/07/1993,8.5,NO,2.6,,,46,,,NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,06/13/1993,9,NO,2.7,,,45,,,NORMAL,,,GREEN/BROWN,
+8190191,06/21/1993,10,NO,3,,,44,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,06/29/1993,7.75,NO,2.4,,,48,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,07/07/1993,5.5,NO,1.7,,,53,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,07/14/1993,7,NO,2.1,,,49,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,07/22/1993,7,NO,2.1,,,49,,,DOWN,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,07/31/1993,6.25,NO,1.9,,,51,,,NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,08/04/1993,6.25,NO,1.9,,,51,,,NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,08/15/1993,7.5,NO,2.3,,,48,,,NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,08/24/1993,7.75,NO,2.4,,,48,,,HIGH,,,GREEN/BROWN,1-Beautiful, could not be nicer
+8189999,08/29/1993,6.25,NO,1.9,,,51,,,NORMAL,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,09/04/1993,5.5,NO,1.7,,,53,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,09/12/1993,5,NO,1.5,,,54,,,NORM,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,09/18/1993,5.75,NO,1.7,,,52,,,HIGH,,,GREEN/BROWN,1-Beautiful, could not be nicer
+8190191,10/04/1993,6,NO,1.8,,,51,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,10/09/1993,6.25,NO,1.9,,,51,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190191,06/12/1994,13.25,NO,4,,,40,,,LOW,,,GREEN BROWN,2-Very minor aesthetic problems
+8190191,07/10/1994,6.5,NO,2,,,50,,,LOW,,,GREEN BROWN,1-Beautiful, could not be nicer
+8190191,07/24/1994,6,NO,1.8,,,51,,,NORMAL,,,GREEN BROWN,1-Beautiful, could not be nicer
+8190191,08/09/1994,6,NO,1.8,,,51,,,NORMAL,,,GREEN BROWN,2-Very minor aesthetic problems
+8190191,08/21/1994,7,NO,2.1,,,49,,,HIGH,,,GREEN BROWN,1-Beautiful, could not be nicer
+8190191,09/01/1994,4.5,NO,1.4,,,55,,,HIGH,,,GREEN BROWN,2-Very minor aesthetic problems
+8190191,09/29/1994,7.75,NO,2.4,,,48,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8189999,06/24/1995,10,NO,3,,,44,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189999,07/11/1995,8,NO,2.4,,,47,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189999,07/23/1995,9.5,NO,2.9,,,45,,,HIGH,,,GREEN BROWN,1-Beautiful, could not be nicer
+8189999,08/06/1995,8.5,NO,2.6,,,46,,,NORMAL,,,GREEN BROWN,1-Beautiful, could not be nicer
+8189999,08/15/1995,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189999,08/20/1995,8.75,NO,2.7,,,46,,,NORMAL,,,GREEN BROWN,1-Beautiful, could not be nicer
+8189999,08/29/1995,8,NO,2.4,,,47,,,NORMAL,,,GREEN BROWN,1-Beautiful, could not be nicer
+8189999,09/15/1995,5.25,NO,1.6,,,49,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189999,06/12/1996,11.5,NO,3.5,,,42,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189999,06/30/1996,8.25,NO,2.5,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189999,07/10/1996,6.75,NO,2.1,,,50,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8189999,07/16/1996,6,NO,1.8,,,51,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189999,08/02/1996,6.75,NO,2.1,,,50,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8189999,08/23/1996,7,NO,2.1,,,49,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189999,08/29/1996,9,NO,2.7,,,45,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189999,09/25/1996,5.25,NO,1.6,,,53,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189999,08/19/1997,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189999,09/04/1997,8.25,NO,2.5,,,47,,,NO CHANGE,,CLEAR,,1-Beautiful, could not be nicer
+8189999,09/25/1997,5.5,NO,1.7,,,53,,,NO CHANGE,,,BROWN,
+8189999,06/14/1998,7.5,NO,2.3,,,48,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,07/01/1998,7.75,NO,2.4,,,48,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,07/12/1998,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,08/11/1998,6.25,NO,1.9,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,08/28/1998,6.75,NO,2.1,,,50,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,08/30/1998,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,09/15/1998,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,06/18/1999,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,07/11/1999,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189999,05/21/2002,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,05/29/2002,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,06/04/2002,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,06/09/2002,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,07/01/2002,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,07/06/2002,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,07/13/2002,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,07/19/2002,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,07/27/2002,6.25,NO,1.9,,,51,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,08/05/2002,6.5,YES,2,,,50,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189999,08/16/2002,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188680,07/30/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/12/2003,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/30/2003,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,09/13/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,09/30/2003,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/10/2003,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,05/11/2004,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/02/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/15/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/29/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/15/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/30/2004,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/21/2004,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/04/2004,6.75,NO,2.1,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/21/2004,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/02/2004,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/30/2004,10,NO,3,,,44,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,05/22/2005,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/14/2005,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/19/2005,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/21/2005,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/01/2005,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/07/2005,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/23/2005,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/31/2005,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/10/2005,7,NO,2.1,,,49,,,LOW,1681.22,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,09/21/2005,6.75,NO,2.1,,,50,,,LOW,1681.22,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,09/30/2005,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,05/07/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/03/2006,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/21/2006,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/05/2006,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/23/2006,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/29/2006,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/14/2006,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,08/30/2006,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,09/07/2006,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,09/23/2006,7.75,NO,2.4,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/27/2006,14.5,NO,4.4,,,39,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,05/29/2007,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/06/2007,10,NO,3,,,44,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/22/2007,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/08/2007,8.75,NO,2.7,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/17/2007,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/24/2007,7.25,NO,2.2,,,49,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/02/2007,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/17/2007,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/24/2007,5.25,NO,1.6,,,53,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+7000126,08/29/2007,,,,1.94,30,,54,40,,,,,
+8188680,09/02/2007,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/10/2007,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/16/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/25/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,07/18/2008,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/26/2008,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/11/2008,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/20/2008,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188680,09/28/2008,6.75,NO,2.1,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/18/2009,12.75,NO,3.9,,,40,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/26/2009,11.5,NO,3.5,,,42,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/05/2009,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/13/2009,9.25,NO,2.8,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/21/2009,8.25,NO,2.5,,,47,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/22/2009,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/30/2009,6.25,NO,1.9,,,51,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/07/2009,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/15/2009,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/23/2009,8.5,NO,2.6,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,05/29/2010,16.5,NO,5,,,37,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/06/2010,12.25,NO,3.7,,,41,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/15/2010,11,NO,3.3,,,43,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/22/2010,9.25,NO,2.8,,,45,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/30/2010,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/08/2010,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/16/2010,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/25/2010,8.25,NO,2.5,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/01/2010,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/25/2010,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/02/2010,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/26/2010,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/02/2011,11.75,NO,3.6,,,42,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/09/2011,11.75,NO,3.6,,,42,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/03/2011,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/11/2011,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/19/2011,10.25,NO,3.1,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/28/2011,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/04/2011,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/12/2011,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/21/2011,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/28/2011,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/07/2011,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34972236,04/09/2012,7.1,NO,2.2,6.24,22,49,52,49,,,,,
+8188680,06/03/2012,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34972236,06/06/2012,9.9,NO,3,2.73,13,44,48,42,,,,,
+8188680,06/11/2012,8.75,NO,2.7,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/19/2012,8.75,NO,2.7,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/27/2012,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/05/2012,9.75,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/13/2012,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/21/2012,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+21928796,07/26/2012,6.2,NO,1.9,4.03,17,51,50,45,,,,,
+8188680,07/29/2012,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/06/2012,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/14/2012,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16073539,08/21/2012,5.6,NO,1.7,12.4,22,52,52,54,,,,,
+8188680,08/22/2012,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/31/2012,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/08/2012,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/16/2012,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/23/2012,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/01/2012,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+73543800,10/30/2012,8.2,NO,2.5,9.52,43,47,57,52,,,,,
+34972236,02/18/2013,7.7,NO,2.3,,14,48,49,,,,,,
+8188680,05/30/2013,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/08/2013,12,NO,3.6,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/14/2013,12.25,NO,3.7,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/22/2013,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/01/2013,8.75,NO,2.7,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/08/2013,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/17/2013,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/24/2013,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+8188680,08/01/2013,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/09/2013,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/17/2013,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/25/2013,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/02/2013,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/10/2013,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/18/2013,6.5,NO,2,,,50,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/27/2013,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,05/17/2014,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,05/25/2014,6.75,NO,2.1,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/02/2014,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/10/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/18/2014,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/26/2014,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/04/2014,7.75,NO,2.4,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/12/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/20/2014,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/28/2014,7.75,NO,2.4,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/05/2014,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/13/2014,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/21/2014,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/29/2014,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/07/2014,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/14/2014,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/23/2014,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/30/2014,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/08/2014,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,BROWN,
+8188680,10/16/2014,9.75,NO,3,,,44,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/24/2014,11,NO,3.3,,,43,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,05/19/2015,14,NO,4.3,,,39,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188680,05/27/2015,13.25,NO,4,,,40,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/04/2015,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/12/2015,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/20/2015,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/29/2015,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/07/2015,8.25,NO,2.5,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/14/2015,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/22/2015,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/30/2015,7.75,NO,2.4,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/08/2015,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/16/2015,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/23/2015,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/31/2015,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/08/2015,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/18/2015,8.25,NO,2.5,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/24/2015,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/02/2015,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/10/2015,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/20/2015,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188680,06/14/2016,8.25,NO,2.5,,,47,,,HIGH,,MURKY,,2-Very minor aesthetic problems
+8188680,06/23/2016,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+8188680,06/30/2016,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/08/2016,9.25,NO,2.8,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/16/2016,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/24/2016,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BROWN,
+8188680,08/09/2016,8.25,NO,2.5,,,47,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+8188680,08/17/2016,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,08/26/2016,7.25,NO,2.2,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8188680,09/02/2016,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/11/2016,8.25,NO,2.5,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,09/18/2016,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/04/2016,7.75,NO,2.4,,,48,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/20/2016,7.25,NO,2.2,,,49,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,10/28/2016,7.75,NO,2.4,,,48,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/09/2017,9.25,NO,2.8,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,06/17/2017,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/03/2017,10.5,NO,3.2,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/19/2017,9.75,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188680,07/27/2017,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+146497899,09/07/2019,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+146497899,09/14/2019,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+146497899,07/29/2020,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+146497899,08/04/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/09/2012,,,8.3,C,11.2,MG/L
+06/06/2012,,,13.0,C,0.1,MG/L
+07/26/2012,,,16.5,C,0.0,MG/L
+08/21/2012,,,15.7,C,0.1,MG/L
+10/30/2012,,,6.8,C,10.3,MG/L
+02/18/2013,,,1.3,C,0.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/07/1993,Cool- cloudy    
+06/13/1993,Windy- cloudy- warm    
+06/21/1993,2.25" rain previous 2 days- sunny- warm- light wind- barometer pressure steady.    
+06/29/1993,Calm- cloudy- air temp 58    
+07/07/1993,Partly cloudy- light breeze- barometer steady- air temp 70    
+07/14/1993,Partly cloudy- light wind- air temp 70    
+07/22/1993,Partly cloudy- light wind- 76 degrees air temp.  Barometer is rising slightly.    
+07/31/1993,Very cloudy- light breeze.    
+08/04/1993,Mostly cloudy- light breeze- 65 degrees.    
+08/15/1993,Partly cloudy- (reading taken in full sun light.) light breeze- 78 degrees- high humidity.    
+08/24/1993,Sunny- breeze- air temp 80- water temp 75 at 18" depth    
+08/29/1993,Partly cloudy- light breeze- air temp 74    
+09/04/1993,Very cloudy- cool- 60 degrees air temp- 66 degrees water temp.  Breezy.    
+09/12/1993,Partly cloudy- 70 F- moderate wind- barometric pressure falling.    
+09/18/1993,Cool- air is 56 degrees- sunny- good breeze.    
+10/04/1993,Very windy- partly cloudy- air temp is 50 degrees- water temp is 52 degrees.    
+10/09/1993,Windy- cloudy- air temp is 33 degrees- water temp is 47 degrees- last reading for the season.    
+06/12/1994,Partly cloudy- windy- air 71 degrees F.  Water level: very low.    
+07/10/1994,Relatively calm- partly cloudy- air temp. 72 degrees F.    
+07/24/1994,Partly cloudy- light wind- 72 degrees F.    
+08/09/1994,Cloudy- calm- 66 degrees F.    
+08/21/1994,Hazy- light breeze- 72 degrees.    
+09/01/1994,Partly cloudy- breezy- 52 degrees F air (reading taken when clouds covered sun) .    
+09/29/1994,Sunny- calm.    
+06/24/1995,Mostly sunny- calm- 89 degrees F.    
+07/11/1995,Partly cloudy- haze over water- 82 degrees F- light wind.    
+07/23/1995,Partly cloudy- light breeze- 75 degrees F.  Heavier than normal traffic.    
+08/06/1995,Partly cloudy- breezy- 78 degrees F.    
+08/15/1995,Mostly cloudy.  We took the boat out.  May be able to take reading coming home from duck hunting in October    
+08/20/1995,Sunny. light breeze.    
+08/29/1995,Partly cloudy- light wind- 75 degrees F.    
+09/15/1995,Mostly cloudy.  We took the boat out.  May be able to take reading coming home from duck hunting in October    
+06/12/1996,Scattered clouds- light wind.    
+06/30/1996,Sunny- very windy.    
+07/10/1996,Sunny- light wind.    
+07/16/1996,Sunny- light wind- 78 degrees F.    
+08/02/1996,Mostly sunny- light wind- 76 degrees.    
+08/23/1996,Partly cloudy- light wind- 74 degrees F.    
+08/29/1996,No rain for over a week. sunny- light wind- 75 degrees F. very few boats on lake.    
+09/25/1996,Mostly cloudy- light breeze.    
+08/19/1997,Cloudy- calm.    
+09/04/1997,Mostly sunny- light wind- 65 degrees    
+07/12/1998,Scattered clouds light breeze.    
+08/28/1998,Breezy mostly sunny.    
+08/30/1998,Cloudy windy.    
+09/15/1998,Sunny windy.    
+05/21/2002,Sunny and light winds. Air Temp is 60 degrees F.    
+05/29/2002,Partly cloudy and light winds. Air Temp is 70 degrees F.    
+06/04/2002,Sunny and breezy. Saw a family of Canadian geese with 2 little ones.    
+06/09/2002,Hazy- very breezy- humid- and water is choppy.    
+07/01/2002,Sunny and humid with a few clouds. Air temp 84 degrees F. Saw a lot of ducklings in channel and an eagle.    
+07/06/2002,Sunny and pleasant. Air temp is 80 degrees F. Saw ducklings and goslings in channel between Spider and Island.    
+07/13/2002,Partly cloudy and a light wind. Saw an eagle over the site. Saw 20 Canadian geese near river.    
+07/19/2002,Sunny and 80 degrees F air temp. Saw families of ducks and geese. Saw an eagle and loon on Manitowish Lake.    
+07/27/2002,Partly cloudy and humid with an air temp of 80 degrees F. Saw families of ducks and geese in channel.    
+07/30/2003,Thunderstorm last night (7/29). 10 mph- wind.    
+08/12/2003,Sunny- no clouds- light breeze- air temp 74 F- barometric pressure 30.32.  Light lake traffic.    
+08/30/2003,Sunny- few small clouds- wind about 10 mph from west.  Air temp 72 F.    
+09/13/2003,Overcast- 1/2" rain yesterday- light wind from SW. Air temp 62 F.    
+09/30/2003,Rain yesterday- temp 34 F- low clouds- wind 15-20 mph from NW. No boats on lake.    
+10/10/2003,Sunny- no clouds- wind 15-20 mph from south- air temp 71 F.  Lake low because of fall drawdown.    
+05/11/2004,Air temp. 65F wind 15-20 from SE- high thin clouds    
+06/02/2004,Air Temp. 60F- wind 10-15 from the north- mostly sunny    
+06/15/2004,Air Temp. 61F- wind light from the NW- mostly sunny    
+06/29/2004,Air temp. 62F wind light from the NW- partly cloudy    
+07/15/2004,Air temp. 68F light wind from NW- mostly sunny no rain for several days    
+07/30/2004,Air temp. 70F- clear- no clouds- wind-light from SE- rain yesterday    
+08/21/2004,Air temp. 52F- mostly sunny- wind-moderate from NW    
+09/04/2004,Air temp. 78F- clear- few clouds- wind-moderate from the south    
+09/21/2004,Air temp. 66F- mostly sunny- wind south west 10-15 Mph- windy the last few days    
+10/02/2004,Air temp. 43F- sunny- wind from the west- lake draw down has begun (fall)    
+10/30/2004,Air temp. 47F- overcast sky- brisk wind from SW- lake low because of draw down    
+05/22/2005,Air temp. 69 F- wind from south- hazy sun.    
+07/14/2005,Light wind from east- sunny.  No clouds.  No rain for days.  Air temp. is 75 F.    
+07/19/2005,Light wind from SW.  Sunny- no clouds.  Lighr rain 2 days ago.  Air temp. 68 F.    
+07/21/2005,Light wind from the east- sunny.  High thin clouds.  Air temp. 68 F.    
+08/01/2005,Light wind from the west- partly sunny.  Lots of clouds.  Air temp. 78 F.    
+08/07/2005,Stiff wind from west- sunny- high thin clouds.  Air temp. 75 F.    
+08/23/2005,Light wind from east- sunny- few clouds.  Air temp. 64 F.    
+08/31/2005,Light wind from northwest- partly cloudy.  Air temp. 65 F.    
+09/10/2005,Wind from south at 5-10 mph.  Sunny- high thin clouds.  Air temp. 75 F.    
+09/21/2005,10 mph + wind from SE.  Sunny.  High thin clouds.  Air temp. 69 F.    
+09/30/2005,Wind from SW- mostly cloudy- air temp. 62 F.    
+05/07/2006,Air temp 65F- sunny- clear sky- light wind from SW
+06/03/2006,Air temp 69F- mostly sunny- few small clouds- wind E about 10
+06/21/2006,Air temp 73F- hazy sun- light wind from SE
+07/05/2006,Air temp 75F- wind SE- sunny with few clouds
+07/23/2006,Air temp 70F- cloudy- wind from SE
+07/29/2006,Air temp 81F- sunny with few clouds- wind NW
+08/14/2006,Air temp 70F- strong wind from NW- sunny- few clouds
+08/30/2006,Air temp 65F- light wind from SE- sunny- high clouds-
+09/07/2006,Air temp 73F- brisk wind from NW- partly cloudy
+09/23/2006,Air temp 58- calm wind- cloudy sky
+10/27/2006,Air temp 45F- mod. wind from SW- mostly sunny- some large clouds
+05/29/2007,air temp 63 degrees- high small broken clouds- wind from the south 5-10 mph
+
+secchi depth-9.0' - hit bottom-2- lake level-2- appearence-2-water color-3 perception-2
+06/06/2007,air temp 85 degrees- sunny- light wind from the south
+06/22/2007,air temp 72 degrees- sunny- brisk wind from the south
+07/08/2007,Mostly sunny- high thin clouds- wind from the west.
+07/17/2007,Air temp 72 degrees- partly cloudy- light breeze from the southwest.
+07/24/2007,Air temp 82 degrees- mostly sunny- light breeze from the south.
+08/02/2007,Air temp 82 degrees- sunny- no clouds- wind from the northwest.
+08/17/2007,air temp 60 degrees- mostly sunny- wind very brisk from N N W.
+08/24/2007,Air temp 70 degrees- mostly sunny- wind light from the north. Lake VERY low for this
+time of the year.
+09/02/2007,Air temp 71 degrees- mostly sunny- wind brisk from the west.
+09/10/2007,Air temp 50 degrees- cloudy- sun peeksthrough once in awhile- wind -light from the SSE.
+06/25/2008,temp 79 degrees- wind SSW 16- mostly sunny
+07/18/2008,Temp 77 degrees- wind NW at 6 MPH. sky is mostly sunny.
+07/26/2008,Air temp 79 degrees- wind NW 17 MPH- sky sunny with some small clouds.
+08/11/2008,Mostly sunny- few small clouds- wind light from the NNW
+09/20/2008,Wind NNE at 6 MPH (weather channel ) - sky is sunny with high thin clouds.
+The secchi  disc could not be seen past 6 ft.
+09/28/2008,Temp was 54 degrees- wind light from the NE. Sky is sunny.
+06/18/2009,A cloudy day with the wind light from the south. Temp is 68 degrees.
+06/26/2009,Mostly sunny- wind is 8 MPH from the SSW.
+07/05/2009,TEMP IS 72 DEGREES- SKY IS MOSTLY SUNNY. WIND IS NW AT 7 MPH ( WEATHER CHANNEL ).
+07/13/2009,
+Sunny with few clouds- temp is 72 degrees- wind is 12 MPH from the NE ( weather Channel ).
+07/21/2009,Air temp 65 degrees- sunny with thin high clouds- wind is SSW at 12 MPH ( weather channel ).
+08/22/2009,temp is 58 degrees- wind N at 12 MPH ( weather channel ). Sky is partly sunny.
+08/30/2009,Wind from the north at 15 MPH ( weather channel ). Sky partly cloudy- temp is 58 degrees.
+09/07/2009,Temp is 71 degrees-sky is sunny-wind is calm.
+09/15/2009,Temp is 77 degrees. Wind from the north at 10 MPH ( weather channel ). The sky is sunny. 
+09/23/2009,The temp is 72 degrees- the sky is sunny- the wind is out of the NW at 3 MPH (weather channel ).
+05/29/2010,The sky was sunny- wind SSW at 7 MPH ( weather channel )- the temp was 76 degrees. The sky was sunny- wind SSW at 7 MPH ( weather channel )- the temp was 76 degrees.
+ The sky was sunny- wind SSW at 7 MPH ( weather channel )- the temp was 76 degrees.
+The depth of 16.5 feet is the deepest that I can remember see the secchi disc.
+06/06/2010,The wind was at 6 MPH from the north- the sky was cloudy / overcast- the temp was 56 degrees. The wind was at 6 MPH from the north- the sky was cloudy / overcast- the temp was 56 degrees.
+06/15/2010,The sky was cloudy- the wind was at 13 MPH from the SE. The temp was 63 degrees.
+06/22/2010,The sky is partly sunny- the wind is west at 11 MPH- the temp is 76 degrees.
+06/30/2010,The temp is 64 degrees- the wind is NW at 5 MPH- the sky is sunny with a few 
+small clouds.
+07/08/2010,The temp was 75 degrees- wind NNW at8 MPH- the sky was sunny- with few small clouds.
+07/16/2010,The temp was 79 degrees-the sky was sunny- the wind was W13.
+07/25/2010,Temp is 77 degrees- wind is NW 8 MPH- the sky is sunny.
+08/01/2010,The temp. is 76 degrees- the wind is WSW 8 MPH- the sky is cloudy.
+08/25/2010,The sky was sunny- the temp was 65 degrees- the wind was NNW at13 MPH.
+09/02/2010,The temp is 72 degrees-the sky is mostly cloudy- the wind is WNW at 12 MPH.
+09/26/2010,The temp was 55 degrees- the wind was SW at 1 MPH- the sky was sunny.
+06/02/2011,The temp was 63 degrees- sky was sunny ( no clouds )- the wind was SSE at 13 MPH.
+06/09/2011,The sky had high thin clouds- and was mostly sunny.The wind was NE at 10 MPH.
+
+The temp was 59 degrees.
+07/03/2011,The temp was 74 degrees- the sky is sunny- with few small clouds.
+The wind is NNW at 6 MPH.
+07/11/2011,The temp was 80 degrees- the sky was sunny with few clouds- the wind was N at 
+9 MPG.
+07/19/2011,The temp was 82 degrees- the sky was partly cloudy- the wind was SE at 2 MPH.
+07/28/2011,The temp was 76 degrees- the sky was partly sunny- the wind was SW at 2 MPH.
+
+This is a day late because of the rain on the 27th.
+08/04/2011,The temp was 71 degrees- the sky was sunny-with few high clouds. The wind was
+SW at 2 MPH.
+08/12/2011,The temp was 65 degrees- the sky was partly cloudy- the wind was WSW at 4 MPH.
+08/21/2011,The temp was 68 degrees- the sky was mostly sunny- the wind was NNW at 8 MPH.
+08/28/2011,The temp was 65 degrees- the sky was sunny- no clouds- the wind was S at 1 MPH.
+09/07/2011,The temp was 65 degrees- the sky was sunny- ( no clouds ) the wind was calm. 
+
+06/03/2012,The sky was mostly sunny- wind was NNW 8- the temp was 70 degrees.
+06/11/2012,The temp was 72 degrees- the sky was partly cloudy- and the wind was SSW at 
+10 MPH.
+06/19/2012,The temp was 75 degrees- the sky was cloudy- wind was S 15 MPH.
+06/27/2012,The temp was 73 degrees- the sky was sunny- the wind was S-9 MPH.
+07/05/2012,The temp was 82 degrees- the sky was sunny- wind was WNW at 10 MPH.
+07/13/2012,the temp was 73 degrees- the sky was sunny- the wind was SSW at 8 MPH.
+07/21/2012,temp was 79 degrees- the sky was sunny- wind was NNW at 8 MPH.
+07/29/2012,Temp was 74 degrees-the sky was partly cloudy- wind was W at 7 MPH.
+08/06/2012,the temp was 68 degrees- sky was sunny (no clouds)- wind was WSW at 9 MPH.
+08/14/2012,The temp was 70 degrees-sky was mostly cloudy- wind was W at 7 MPH.
+08/22/2012,Temp was 63 degrees- the sky was sunny- the wind was WSW 7 MPH.
+08/31/2012,the temp was 70 degrees- the sky was sunny- the wind was N 6 MPH.
+09/08/2012,The temp was 50 degrees- sky is cloudy- wind is W 9 MPH.
+09/16/2012,The temp was 68 degrees- the sky was sunny- no clouds- Wind was WSW at II MPH.
+09/23/2012,the temp was 43degrees- the sky was mostly cloudy- wind was NW at 11 MPH.
+10/01/2012,The temp was 60 degrees- the sky was sunny with thin high clouds- the wind
+
+was SSW at 6 MPH.
+05/30/2013,The sky was partly cloudy- the temp was 78 degrees- the wind was SSE at 19 MPH. 
+
+
+06/08/2013,The temp was 60 degrees- the sky was sunny- the wind was ESE at 5 MPH.
+06/14/2013,The temp was 62 degrees- the sky was sunny- the wind was SE at 5 MPH.
+06/22/2013,The temp was 64 degrees- the sky was cloudy- and the wind was SE at 5 MPH.
+07/01/2013,The temp was 75 degrees- the sky was sunny- the wind was NNE at 9 MPH.
+07/08/2013,The temp was 75 degrees- the sky was mostly sunny- the wind was WNW at 7 MPH.
+07/17/2013,The temp was 83 degrees- the sky was partly cloudy- the wind was W at 9 MPH.
+07/24/2013,the temp is 67 degrees- the sky is mostly cloudy- the wind is W at 5 MPH.
+08/01/2013,The temp was 70 degrees- the sky was mostly cloudy- the wind was NNW at 13 MPH.
+08/09/2013,The temp was 64 degrees- the sky was mostly sunny- the wind was NW at 15 MPH.
+08/17/2013,The temp was 72 degrees- the sky was mostly sunny- the wind was W at 7 MPH.
+08/25/2013,The temp was 77 degrees- the sky was mostly sunny- the wind was SW at 14 MPH.
+09/02/2013,The temp was 52 degrees- the sky was cloudy ( overcast )- the wind was N at 8 MPH.
+09/10/2013,The temp was 69 degrees- the sky was mostly cloudy- the wind was W at 7 MPH.
+09/18/2013,The temp was 60 degrees- the sky was overcast- and some fog- the wind was S at 9 MPH.
+09/27/2013,The temp was 73 degrees- the sky was partly sunny- the wind was S at 15 MPH.
+The water level is high for this time of the year. I am not sure what the dam control will do this year.
+05/17/2014,The temp was 53 degrees- the sky was mostly sunny with high thin clouds. The wind was WSW at 7 MPH.
+The water was dark brown and water clarity was not good.
+05/25/2014,The temp was73 degrees- the sky was sunny- the wind was S at 7 MPH. The water is still very dark brown.
+06/02/2014,The temp was 71 degrees- the sky was mostly cloudy- the wind was W at 13 MPH.
+The water is still very brown- and just a little clearer than the last reading.
+06/10/2014,The temp was 71 degrees- the sky was mostly sunny- the wind was SSE at 3 MPH.
+The water is still very brown- as seen in the wake of the motor. Heard my first loon today.
+06/18/2014,The temp was 63 degrees- the sky was cloudy- the wind was ENE at 12 MPH.
+Water is still very brown.
+06/26/2014,The temp was 65 degrees- the sky was cloudy- the wind was calm.
+07/04/2014,The temp was 63 degrees- the sky was sunny- the wind was SW at 5 MPH.
+07/12/2014,The temp was 71 degrees- the sky was mostly sunny- the wind was NW at 5 MPH.
+07/20/2014,The temp was 74 degrees- the sky was mostly cloudy- the wind was SSW at 12 MPH.
+07/28/2014,The temp was 66 degrees- the sky was mostly cloudy- the wind was NNW at 10 MPH.
+A young duck having a heck of a time trying to takeoff into rough waves.
+08/05/2014,The temp was 69 degrees- the sky was partly cloudy- the wind was SSE at 3 MPH. One Loon watching two
+jet-skiers going around him at a distance.
+08/13/2014,The temp was 62 degrees- the sky was mostly cloudy- the wind was NNE at 9 MPH. one lone duck in a cove.
+08/21/2014,The temp was 66 degrees- the sky was partly sunny with high thin clouds- the wind was ESE at 7 MPH.
+I did see about a dozen geese around an island last Saturday- the 16th.
+08/29/2014, The temp was 60 degrees- the sky was cloudy- rain before and after I went out- the wind was S at 7 MPH.
+ Saw no wildlife.
+09/07/2014,The temp was 71 degrees- the sky was sunny- the wind was 9 MPH- from the SW.
+09/14/2014,The temp was 57 degrees- the sky was mostly cloudy- the wind was WSW at 13 MPH.
+I saw one lone Loon near the middle of the lake.
+09/23/2014,The temp was 72 degrees- the sky was sunny- the wind was S at 9 MPH.
+09/30/2014,The temp was 40 degrees- the sky was cloudy- and the wind was E at 6 MPH. A few geese heading South.
+10/08/2014,The temp was 42 degrees- the sky was mostly sunny- the wind was WNW at 17 MPH.
+10/16/2014,The temp was 56 degrees- the sky was sunny- clouds only on the horizon- the wind was S at 3 MPH.
+Saw nobody on the lake.
+10/24/2014,The temp was 44 degrees- the sky was foggy- the wind was SSW at 8 MPH.
+No body was seen on the lake.
+05/19/2015,The temp was 45 degrees- the sky was sunny- no clouds- the wind was N at 12 MPH.
+The water is high.
+05/27/2015,The temp was 67 degrees- the sky was sunny with high thin clouds- the wind was W at 10 MPH.
+Saw one Loon on the lake in a cove.
+06/04/2015,Temp was 60 degrees- the sky was cloudy- the wind was NE at 5 MPH.
+I saw one duck.
+06/12/2015,The temp was 75 degrees- the sky was sunny- the wind was NE at 6 MPH.
+I saw one Loon on the lake.
+06/20/2015,The temp was 61 degrees- the sky was cloudy- the wind was SW at 6 MPH.
+I saw one Loon in the middle of the lake- since it was diving- I guess it was fishing.
+06/29/2015,The temp was 72 degrees- the sky was mostly cloudy- the wind was W at 6 MPH.
+
+Saw one Loon on the lake.
+07/07/2015,The temp was 54 degrees- the sky was mostly cloudy- the wind was N at 8 MPH.
+07/14/2015,The temp was 67 degrees- the sky was mostly sunny- the wind was NNE at 8 MPH.
+07/22/2015,The temp was 68 degrees- the sky was sunny- the wind was calm.
+07/30/2015,The temp was 71 degrees- the sky was very sunny- the wind was WNW at 12 MPH.
+I saw one Loon near the middle of the lake.
+08/08/2015,The temp was 63 degrees- the sky was cloudy- the wind was S at 8 MPH.
+No wildlife seen.
+08/16/2015,The temp was 80 degrees- the sky was mostly cloudy- the wind was SW at 8 MPH.
+08/23/2015,The temp was 58 degrees- the sky was cloudy with light rain- the wind was SSW at 8 MPH.
+08/31/2015,The temp was 64 degrees- the sky was partly cloudy- the wind was SSW at 6 MPH.
+I saw 3 loons near the middle of the lake. Two together- and one alone- several hundred yards apart.
+09/08/2015,The temp was 73 degrees- the sky was partly cloudy- the wind was NW at 12 MPH.
+
+I saw 2 loons about 100 yards off shore.
+09/18/2015,The temp was 55 degrees- the sky was sunny- the wind was NNW at 6 MPH.
+Saw one gull on the lake. If it had been in one of the bays- it would have been a BAGEL.
+09/24/2015,The temp was 55 degrees- the sky was cloudy with light drizzle- the wind was calm.
+10/02/2015,The temp was 58 degrees- the sky was sunny- no clouds- the wind was ENE at 9 MPH.
+10/10/2015,The temp was 61 degrees- the sky was sunny- with high thin clouds- the wind was SSW at 16 MPH.
+Saw 3 gulls sitting on the water.
+10/20/2015,The temp was 50 degrees- the sky was sunny with high thin clouds- the wind was ENE at 9 MPH.
+Saw two eagles just above the trees on the shore line. Saw one Canada goose on a raft- till I got close.
+
+My son was with me.
+06/14/2016,The sky was mostly cloudy- the wind was E at 3 MPH.
+06/23/2016,The sky was mostly sunny. the wind was WNE at 3 MPH.
+06/30/2016,The sky was cloudy. The wind was SSW at 9 MPH.
+07/08/2016,The sky was mostly cloudy. The wind was WSW at 8 MPH.
+07/16/2016,The sky was partly cloudy. The temp was 72 degrees. The wind was WSW at 7 MPH
+07/24/2016,The sky was mostly cloudy. The temp was 74 degrees. The wind was WSW at 12 MPH.
+08/09/2016,The temp was 77 degrees- the sky was partly cloudy- the wind was SW at 3 MPH.
+Two Loons were on the lake. 
+08/17/2016,The temp was 72 degrees- the sky was sunny- no clouds- the wind was NW at 2 MPH.
+
+I always check the depth twice. this time I got 2 different readings. I got 8.5 feet on one side of the boat-
+and 10 feet on the other. The 10 foot reading was in the shadow side of the boat- but the Sun was shinning
+under the boat on the Secchi disc. I am going to put the 8.5 reading in the report. Maybe the early time did it.
+08/26/2016,The temp was 67 degrees- the sky was partly cloudy- the wind was NW at 4 MPH.
+Saw one loon on the lake- near the middle.
+09/02/2016,The temp was 70 degrees- the sky was partly cloudy- the wind was S at 4 MPH
+Saw one loon on the lake.
+09/11/2016,The temp was 70 degrees- the sky was partly cloudy- the wind was SSW at 16 MPH.
+09/18/2016,The Temp was 62 degrees- the sky was sunny- the wind was SSW at 3 MPH. The temp was 62 degrees- the sky was sunny- the wind was SSW at 3 MPH. The temp was 62 degrees- the sky was sunny- the wind was SSW at 3 MPH.
+10/04/2016,The temp was 65 degrees- the sky was partly sunny- the wind was SSE at 14 MPH.
+It was a little rough out on the lake.
+10/20/2016,The temp was 43 degrees- the sky was cloudy- the wind was NNW at 5 MPH.
+10/28/2016,The temp was 48 degrees- the sky was cloudy- the wind was SSW at 9 MPH.
+06/17/2017,It was mostly cloudy- the wind was SW at 8MPH- the temp was 74 degrees.
+07/03/2017,the sky was partly cloudy- there was lots of boating activity.
+There was a Merganzer duck family under my pier. There were about 7 ducklings.
+07/19/2017,The sky was sunny- the wind was calm- the temp was 76 degrees.
+
+I saw 2 ducks in our cove- and 2 Loons near the middle of the lake.
+07/27/2017,The sky was mostly cloudy- the wind was at 9MPH from the north- the temp was 75 degrees.
+09/07/2019,Borderline conditions regarding both cloud cover and wave height Thin cloud cover- casting a weak shadow- and 5 inch wave heights.
+09/14/2019,sunny condition with calm wind conditions
+
+
+
+
+Start Date,Group Name,Project Name
+06/07/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/13/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/21/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/29/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/07/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/14/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/22/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/31/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/04/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/15/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/24/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/29/1993,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/04/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/12/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/18/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/04/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/09/1993,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/12/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/10/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/24/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/09/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/21/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/01/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/29/1994,Art Giebner,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/24/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/11/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/23/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/06/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/15/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/20/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/29/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/15/1995,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/12/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/30/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/10/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/16/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/02/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/23/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/29/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/25/1996,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/19/1997,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/04/1997,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/25/1997,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/14/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/01/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/12/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/11/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/28/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/30/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/15/1998,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/18/1999,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/11/1999,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/21/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/29/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/04/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/09/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/01/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/06/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/13/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/19/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/27/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/05/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/16/2002,John Bardos,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/30/2003,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/12/2003,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/30/2003,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/13/2003,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/30/2003,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/10/2003,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/11/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/02/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/15/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/29/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/15/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/30/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/21/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/04/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/21/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/02/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/30/2004,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/22/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/14/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/19/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/21/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/01/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/07/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/23/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/31/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/10/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/21/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/30/2005,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/07/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/03/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/21/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/05/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/23/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/29/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/14/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/30/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/07/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/23/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/27/2006,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/29/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/06/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/22/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/08/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/17/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/24/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/02/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/17/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/24/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/29/2007,STEVEN GREB,Dissolved Organic Carbon (DOC) Assessment for Remote Sensing 2007
+09/02/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/10/2007,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/16/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/25/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/18/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/26/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/11/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/20/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/28/2008,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/18/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/26/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/05/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/13/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/21/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/22/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/30/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/07/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/15/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/23/2009,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/29/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/06/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/15/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/22/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/30/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/08/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/16/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/25/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/01/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/25/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/02/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/26/2010,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/02/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/09/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/03/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/11/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/19/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/28/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/04/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/12/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/21/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/28/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/07/2011,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+04/09/2012,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+06/03/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/06/2012,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+06/11/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/19/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/27/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/05/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/13/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/21/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/26/2012,Brenton Butterfield - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+07/29/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/06/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/14/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/21/2012,Tim Hoyman - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+08/22/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/31/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/08/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/16/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/23/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/01/2012,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/30/2012,Eric Gale,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+02/18/2013,Todd Hanke - Onterra- LLC,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lakes Management Planning Project- Phase 1B
+05/30/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/08/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/14/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/22/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/01/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/08/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/17/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/24/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/01/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/09/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/17/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/25/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/02/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/10/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/18/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/27/2013,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/17/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/25/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/02/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/10/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/18/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/26/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/04/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/12/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/20/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/28/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/05/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/13/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/21/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/29/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/07/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/14/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/23/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/30/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/08/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/16/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/24/2014,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/19/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+05/27/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/04/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/12/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/20/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/29/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/07/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/14/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/22/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/30/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/08/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/16/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/23/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/31/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/08/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/18/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/24/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/02/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/10/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/20/2015,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/14/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/23/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/30/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/08/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/16/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/24/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/09/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/17/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/26/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/02/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/11/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/18/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/04/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/20/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+10/28/2016,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/09/2017,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+06/17/2017,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/03/2017,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/19/2017,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/27/2017,Paul Lehmkuhl,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/07/2019,Jim + Kim Cagney,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+09/14/2019,Jim + Kim Cagney,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+07/29/2020,Jim + Kim Cagney,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole
+08/04/2020,Jim + Kim Cagney,Citizen Lake Monitoring - Water Quality - Island Lake; Deep Hole

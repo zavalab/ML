@@ -1,0 +1,68 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Decorah Lake,Juneau,1304600,WC,29,,293155,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000090,04/19/2004,1.5,,0.5,,,71,,,,,,,
+18869225,06/28/2007,3.25,NO,1,,,60,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+18869225,07/11/2007,4,NO,1.2,,,57,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+18869225,07/23/2007,4.5,NO,1.4,,,55,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+18869225,08/28/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18869225,09/12/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18869225,09/24/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+18869225,10/08/2007,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+18869225,10/23/2007,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+163451971,06/06/2019,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+163451971,06/20/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+163451971,07/07/2019,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+163451971,07/19/2019,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+163451971,08/29/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+163451971,09/11/2019,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+163451971,09/26/2019,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/19/2004,0,FEET,15.5,C,9.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/28/2007,Ptly.  cloudy-   light ENE wind
+07/11/2007,partly cloudy-  west wind
+09/12/2007,sunny calm-  wid light + variable
+09/24/2007,Sunny- clear-  south wind5-10 mph.
+10/08/2007,mostly cloudy- SW winds 5 to 15 mph
+10/23/2007,clear- light N. wind
+06/06/2019,Full sun- 83 degrees F- slight breeze 
+06/20/2019,Full sun- slight breeze
+07/07/2019,Full sun- slight breeze
+07/19/2019,Full sun- 86 degrees F- Calm air
+08/29/2019,Mostly cloudy- windy
+09/11/2019,Full clouds- 75 degrees F- slight breeze
+09/26/2019,Mostly sunny- 68 degrees F- small chop on water
+
+
+
+
+Start Date,Group Name,Project Name
+04/19/2004,Mark Hazuga,Lakes Baseline and Trends Monitoring
+06/28/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+07/11/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+07/23/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+08/28/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+09/12/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+09/24/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+10/08/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+10/23/2007,Dick Hale,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+06/06/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+06/20/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+07/07/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+07/19/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+08/29/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+09/11/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 
+09/26/2019,Tonya Petrick,Citizen Lake Monitoring - Water Quality - Decorah Lake - Deep Hole Above Dam 

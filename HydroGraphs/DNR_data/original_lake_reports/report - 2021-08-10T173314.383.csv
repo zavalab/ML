@@ -1,0 +1,229 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wazee Lake,Jackson,1670030,WC,27,,273028,SW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/19/1992,,,,20,6,,42,57,,,,,
+1,06/02/1992,34.4,,10.5,1,4,26,39,35,,,,,
+1,07/22/1992,32.8,,10,0.57,4,27,39,31,,,,,
+1,09/14/1992,27.9,,8.5,0.52,4,29,39,30,,,,,
+1,11/10/1992,29.5,,9,0.279,4,28,39,25,,,,,
+1,02/19/1997,,,,,ND*,,,,,,,,
+1,04/28/1997,55.8,,17,0.52,ND*,19,,30,,,,,
+1,06/02/1997,52.5,,16,0.19,5,20,41,22,,,,,
+1,07/01/1997,41.7,,12.7,0.32,10,23,46,26,,,,,
+1,08/26/1997,,,,0.56,ND*,,,30,,,,,
+1,11/11/1997,36.1,,11,1.09,ND*,25,,35,,,,,
+1,06/14/2000,,,,,0,,,,,,,,
+1,03/07/2002,,,,,5,,41,,,,,,
+1,12/05/2002,,,,0.67,,,,32,,,,,
+1,05/16/2003,,,,,,,,,,,,,
+1,06/23/2003,,,,0.32,,,,26,,,,,
+1,07/23/2003,,,,0.54,,,,30,,,,,
+1,08/19/2003,,,,0.79,,,,33,,,,,
+1,09/23/2003,,,,1.04,,,,35,,,,,
+1,12/06/2003,,,,0.79,,,,33,,,,,
+18138768,05/18/2011,25.2,NO,7.7,,7,31,43,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,06/22/2011,30,NO,9.1,0.6,ND*,28,,31,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,07/17/2011,30,NO,9.1,0.69,7,28,43,32,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,05/13/2012,30,NO,9.1,,6,28,42,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,05/17/2012,30,NO,9.1,,,28,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,06/17/2012,,,,0.79,5,,41,33,,,,,
+18138768,07/22/2012,30,NO,9.1,0.71,5,28,41,32,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,06/15/2014,,,,0.505,5.32,,41,30,,,,,
+18138768,08/26/2014,,,,1.03,5.35,,41,35,,,,,
+18138768,06/18/2015,,,,0.601,6.13,,42,31,,,,,
+18138768,05/08/2018,30,NO,9.1,,ND*,28,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,06/25/2018,30,NO,9.1,0.274,9.61,28,46,25,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,07/27/2018,31,NO,9.4,0.656,ND*,28,,32,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,07/26/2019,34.5,NO,10.5,0.747,ND*,26,,33,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18138768,08/14/2019,,,,0.981,11,,47,35,,,,,
+18138768,06/24/2020,,,,0.34,10.1,,46,27,,,,,
+18138768,07/29/2020,,,,0.532,8.46,,45,30,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/19/1992,,,2,C,8.7,MG/L
+06/02/1992,,,19.2,C,16.3,MG/L
+07/22/1992,,,11.3,C,10.8,MG/L
+09/14/1992,,,11.0,C,10.0,MG/L
+11/10/1992,,,4.0,C,10.5,MG/L
+02/19/1997,,,1.39,C,11.04,MG/L
+04/28/1997,,,4.16,C,11.26,MG/L
+06/02/1997,,,15.29,C,10.28,MG/L
+07/01/1997,,,16.36,C,11.70,MG/L
+05/18/2011,0,FEET,54.44,DEGREES F,11.78,MG/L
+05/18/2011,2,FEET,54.4,DEGREES F,11.49,MG/L
+05/18/2011,4,FEET,54.26,DEGREES F,11.5,MG/L
+05/18/2011,6,FEET,54.16,DEGREES F,11.51,MG/L
+05/18/2011,8,FEET,54.12,DEGREES F,11.66,MG/L
+05/18/2011,10,FEET,53.78,DEGREES F,11.79,MG/L
+05/18/2011,12,FEET,53.66,DEGREES F,11.77,MG/L
+05/18/2011,14,FEET,53.64,DEGREES F,11.72,MG/L
+05/18/2011,16,FEET,51.81,DEGREES F,12.09,MG/L
+05/18/2011,18,FEET,50.83,DEGREES F,12.27,MG/L
+05/18/2011,20,FEET,49.53,DEGREES F,12.64,MG/L
+05/18/2011,22,FEET,48.5,DEGREES F,12.68,MG/L
+05/18/2011,24,FEET,47.96,DEGREES F,12.7,MG/L
+05/18/2011,28,FEET,46.92,DEGREES F,12.78,MG/L
+05/18/2011,32,FEET,46.35,DEGREES F,12.88,MG/L
+06/22/2011,0,FEET,68.6,DEGREES F,8.34,MG/L
+06/22/2011,2,FEET,68.52,DEGREES F,8.33,MG/L
+06/22/2011,4,FEET,68.25,DEGREES F,8.4,MG/L
+06/22/2011,6,FEET,68.16,DEGREES F,8.48,MG/L
+06/22/2011,8,FEET,67.93,DEGREES F,8.41,MG/L
+06/22/2011,10,FEET,67.84,DEGREES F,8.48,MG/L
+06/22/2011,12,FEET,67.73,DEGREES F,8.52,MG/L
+06/22/2011,14,FEET,67.62,DEGREES F,8.45,MG/L
+06/22/2011,16,FEET,67.42,DEGREES F,8.41,MG/L
+06/22/2011,18,FEET,66.82,DEGREES F,8.42,MG/L
+06/22/2011,20,FEET,66.14,DEGREES F,8.66,MG/L
+06/22/2011,22,FEET,60.9,DEGREES F,10.04,MG/L
+06/22/2011,24,FEET,57.61,DEGREES F,11.47,MG/L
+06/22/2011,28,FEET,52.22,DEGREES F,12.17,MG/L
+06/22/2011,32,FEET,50.17,DEGREES F,12.4,MG/L
+07/17/2011,0,FEET,80.44,DEGREES F,7.27,MG/L
+07/17/2011,2,FEET,80.37,DEGREES F,7.19,MG/L
+07/17/2011,4,FEET,78.73,DEGREES F,7.28,MG/L
+07/17/2011,6,FEET,76.02,DEGREES F,7.54,MG/L
+07/17/2011,8,FEET,75.71,DEGREES F,7.58,MG/L
+07/17/2011,10,FEET,75.49,DEGREES F,7.64,MG/L
+07/17/2011,12,FEET,75.24,DEGREES F,7.66,MG/L
+07/17/2011,14,FEET,75.08,DEGREES F,7.53,MG/L
+07/17/2011,16,FEET,74.94,DEGREES F,7.63,MG/L
+07/17/2011,18,FEET,72.5,DEGREES F,9.06,MG/L
+07/17/2011,20,FEET,71.29,DEGREES F,7.54,MG/L
+07/17/2011,22,FEET,67.05,DEGREES F,10.57,MG/L
+07/17/2011,24,FEET,63.75,DEGREES F,11.42,MG/L
+07/17/2011,28,FEET,58.2,DEGREES F,12.13,MG/L
+07/17/2011,32,FEET,53.15,DEGREES F,12.48,MG/L
+05/13/2012,0,FEET,62.81,DEGREES F,9.4,MG/L
+05/13/2012,2,FEET,62.75,DEGREES F,9.58,MG/L
+05/13/2012,4,FEET,61.7,DEGREES F,9.84,MG/L
+05/13/2012,6,FEET,60.28,DEGREES F,10.03,MG/L
+05/13/2012,8,FEET,60.09,DEGREES F,10.08,MG/L
+05/13/2012,10,FEET,59.86,DEGREES F,10.17,MG/L
+05/13/2012,12,FEET,59.56,DEGREES F,10.27,MG/L
+05/13/2012,14,FEET,59.49,DEGREES F,10.31,MG/L
+05/13/2012,16,FEET,59.09,DEGREES F,10.43,MG/L
+05/13/2012,18,FEET,57.56,DEGREES F,10.66,MG/L
+05/13/2012,20,FEET,56.53,DEGREES F,11.14,MG/L
+05/13/2012,22,FEET,54.34,DEGREES F,11.54,MG/L
+05/13/2012,24,FEET,53.33,DEGREES F,11.6,MG/L
+05/13/2012,28,FEET,52.07,DEGREES F,11.69,MG/L
+05/13/2012,32,FEET,50.56,DEGREES F,11.96,MG/L
+05/17/2012,0,FEET,72.7,DEGREES F,,
+05/17/2012,2,FEET,72.67,DEGREES F,,
+05/17/2012,4,FEET,72.65,DEGREES F,,
+05/17/2012,6,FEET,71.9,DEGREES F,,
+05/17/2012,8,FEET,71.6,DEGREES F,,
+05/17/2012,10,FEET,71.09,DEGREES F,,
+05/17/2012,12,FEET,70.67,DEGREES F,,
+05/17/2012,14,FEET,70.55,DEGREES F,,
+05/17/2012,16,FEET,70.25,DEGREES F,,
+05/17/2012,18,FEET,69.96,DEGREES F,,
+05/17/2012,20,FEET,69.63,DEGREES F,,
+05/17/2012,22,FEET,67.96,DEGREES F,,
+05/17/2012,24,FEET,61.4,DEGREES F,,
+05/17/2012,28,FEET,57.93,DEGREES F,,
+05/17/2012,32,FEET,55.77,DEGREES F,,
+06/17/2012,0,FEET,,,8.34,MG/L
+06/17/2012,2,FEET,,,8.33,MG/L
+06/17/2012,4,FEET,,,8.32,MG/L
+06/17/2012,6,FEET,,,8.49,MG/L
+06/17/2012,8,FEET,,,8.43,MG/L
+06/17/2012,10,FEET,,,8.54,MG/L
+06/17/2012,12,FEET,,,8.68,MG/L
+06/17/2012,14,FEET,,,8.68,MG/L
+06/17/2012,16,FEET,,,8.81,MG/L
+06/17/2012,18,FEET,,,8.71,MG/L
+06/17/2012,20,FEET,,,8.81,MG/L
+06/17/2012,22,FEET,,,9.36,MG/L
+06/17/2012,24,FEET,,,11.41,MG/L
+06/17/2012,28,FEET,,,12.08,MG/L
+06/17/2012,32,FEET,,,12.4,MG/L
+07/22/2012,0,FEET,80.13,DEGREES F,7.89,MG/L
+07/22/2012,2,FEET,80.1,DEGREES F,7.86,MG/L
+07/22/2012,4,FEET,80.13,DEGREES F,7.97,MG/L
+07/22/2012,6,FEET,80.12,DEGREES F,7.87,MG/L
+07/22/2012,8,FEET,80.1,DEGREES F,7.88,MG/L
+07/22/2012,10,FEET,79.9,DEGREES F,7.84,MG/L
+07/22/2012,12,FEET,79.75,DEGREES F,7.97,MG/L
+07/22/2012,14,FEET,79.7,DEGREES F,8,MG/L
+07/22/2012,16,FEET,79.61,DEGREES F,8,MG/L
+07/22/2012,18,FEET,79.55,DEGREES F,8.02,MG/L
+07/22/2012,20,FEET,79.47,DEGREES F,8.07,MG/L
+07/22/2012,22,FEET,77.68,DEGREES F,9.04,MG/L
+07/22/2012,24,FEET,73.35,DEGREES F,10.49,MG/L
+07/22/2012,28,FEET,65.15,DEGREES F,12.09,MG/L
+07/22/2012,32,FEET,59.5,DEGREES F,13.02,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/19/1992,LATE WINTER SAMPLE - LAKES    
+07/22/1992,SUMMER SAMPLING    
+04/28/1997,SPRING TURNOVER    
+06/02/1997,SUMMER SAMPLE    
+03/07/2002,WAZEE LAKE NEAR BLACK RIVER FALLS WI    
+12/05/2002,WAZEE LAKE NEAR BLACK RIVER FALLS WI    
+05/16/2003,WAZEE LAKE AT DEEP HOLE NEAR BLACK RIVER FALLS WI    
+06/23/2003,WAZEE LAKE AT DEEP HOLE NEAR BLACK RIVER FALLS WI    
+07/23/2003,WAZEE LAKE AT DEEP HOLE NEAR BLACK RIVER FALLS WI    
+08/19/2003,WAZEE LAKE AT DEEP HOLE NEAR BLACK RIVER FALLS WI    
+09/23/2003,WAZEE LAKE AT DEEP HOLE NEAR BLACK RIVER FALLS WI    
+12/06/2003,WAZEE LAKE AT DEEP HOLE NEAR BLACK RIVER FALLS WI    
+05/18/2011,Assisted by Karen Karash and April Riley. 
+07/17/2011,Assisted by Dan Hatleli.  Temperature and DO at 26ft was 61.62 degrees F and 11.79 mg/l.  Temp and DO at 30 ft was 55.79 degrees F and 12.38 mg/l
+05/13/2012,26 ft depth temperature 52.54 degrees F- DO 11.62 mg/l.  32 ft depth temperature 50.56 degrees F- DO 11.96 mg/l
+05/17/2012,26 ft temperature 59.3 degrees F- DO 11.89 mg/l.  30 ft temperature 56.6 degrees F- DO 12.24  mg/l.  Secchi over 30ft.  
+07/22/2012,26 ft temperature 68.05 degrees F- DO 11.7 mg/l.  30 ft temp 62.12 degrees F- DO 12.42 mg/L.  Secchi over 30 ft.
+05/08/2018,Ashley Stetzer assisted
+
+
+
+
+Start Date,Group Name,Project Name
+02/19/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/02/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/14/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+11/10/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+02/19/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+04/28/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/02/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/01/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/26/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+11/11/1997,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/14/2000,Data Collectors,LAKE WATER SAMPLES (B. ROSE)
+03/07/2002,Data Collectors,ANALYSIS OF LAKE WATER SAMPLES
+12/05/2002,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+05/16/2003,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+06/23/2003,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+07/23/2003,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+08/19/2003,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+09/23/2003,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+12/06/2003,Data Collectors,JACKSON COUNTY: Wazee Lake Monitoring
+05/18/2011,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+06/22/2011,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+07/17/2011,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+05/13/2012,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+05/17/2012,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+06/17/2012,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+07/22/2012,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+06/15/2014,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+08/26/2014,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+06/18/2015,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+05/08/2018,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+06/25/2018,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+07/27/2018,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+07/26/2019,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+07/26/2019,Sara Hatleli (Schmidt),Citizen Lake Monitoring Network QA/QC - 2019
+08/14/2019,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+06/24/2020,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole
+07/29/2020,Sara Hatleli (Schmidt),Citizen Lake Monitoring - Water Quality - Wazee Lake - Deep Hole

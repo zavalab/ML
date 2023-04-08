@@ -1,0 +1,490 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Swede Lake,Polk,2500500,NO,49,,493075,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+27118318,05/06/1996,7,,2.1,12.4,23,49,52,54,,,,,
+27118318,06/19/1996,14.5,,4.4,3.29,9,39,45,44,,,,,
+27118318,07/17/1996,13,,4,2.13,12,40,47,41,,,,,
+27118318,08/28/1996,9.5,,2.9,7.68,ND*,45,,50,,,,,
+27118318,08/29/1996,9.5,,2.9,,,45,,,,,,,
+27118318,04/24/1997,9.8,,3,4.56,33,44,55,46,,,,,
+27118318,06/23/1997,18.5,,5.6,0.81,17,35,50,33,,,,,
+27118318,07/15/1997,14,,4.3,2.08,13,39,48,40,,,,,
+27118318,08/12/1997,15.1,,4.6,3.06,ND*,38,,43,,,,,
+159137915,06/19/2018,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,06/28/2018,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,07/05/2018,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/14/2018,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,07/21/2018,11.75,NO,3.6,,,42,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/29/2018,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,08/06/2018,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,08/14/2018,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,08/23/2018,9.5,NO,2.9,,,45,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/30/2018,11.5,NO,3.5,,,42,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+159137915,09/08/2018,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/15/2018,11.25,NO,3.4,,,42,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,10/04/2018,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+159137915,10/12/2018,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,10/18/2018,8.75,NO,2.7,,,46,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,04/19/2019,8.25,NO,2.5,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,04/27/2019,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,05/05/2019,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,05/14/2019,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,05/25/2019,19.75,NO,6,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,05/31/2019,20.5,NO,6.2,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,06/06/2019,20.25,NO,6.2,,,34,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,06/14/2019,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,06/25/2019,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,07/02/2019,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,07/08/2019,13,NO,4,,,40,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/18/2019,10.75,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/24/2019,10.25,NO,3.1,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/01/2019,12.25,NO,3.7,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/09/2019,13.5,NO,4.1,,,40,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/20/2019,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,08/28/2019,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/02/2019,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/10/2019,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/19/2019,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,09/26/2019,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+159137915,05/08/2020,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,05/15/2020,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,05/24/2020,16.75,NO,5.1,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,05/31/2020,16.75,NO,5.1,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,06/12/2020,13.75,NO,4.2,,,39,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,06/16/2020,12.25,NO,3.7,,,41,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,06/24/2020,10.75,NO,3.3,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/02/2020,11.5,NO,3.5,,,42,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/10/2020,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/19/2020,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,07/27/2020,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/03/2020,9.75,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/11/2020,10.5,NO,3.2,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+159137915,08/27/2020,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/04/2020,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/13/2020,13.25,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+159137915,09/22/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/06/1996,,,10.0,C,11.2,MG/L
+06/19/1996,,,21.5,C,0.25,MG/L
+07/17/1996,,,25.4,C,0.15,MG/L
+08/28/1996,,,24.1,C,8.6,MG/L
+08/29/1996,,,8.2,C,0.2,MG/L
+04/24/1997,,,10.4,C,10.4,MG/L
+06/23/1997,,,24.1,C,0.8,MG/L
+07/15/1997,,,25.4,C,0.0,MG/L
+08/12/1997,,,23.9,C,0.3,MG/L
+06/25/2019,3,FEET,73.4,DEGREES F,,
+06/25/2019,6,FEET,73.2,DEGREES F,,
+06/25/2019,9,FEET,73,DEGREES F,,
+06/25/2019,12,FEET,72.3,DEGREES F,,
+06/25/2019,15,FEET,68,DEGREES F,,
+06/25/2019,18,FEET,61.5,DEGREES F,,
+06/25/2019,21,FEET,57.9,DEGREES F,,
+06/25/2019,24,FEET,54.3,DEGREES F,,
+06/25/2019,27,FEET,51.8,DEGREES F,,
+06/25/2019,30,FEET,49.2,DEGREES F,,
+07/02/2019,3,FEET,78.9,DEGREES F,,
+07/02/2019,6,FEET,78,DEGREES F,,
+07/02/2019,9,FEET,77.3,DEGREES F,,
+07/02/2019,12,FEET,74.3,DEGREES F,,
+07/02/2019,15,FEET,66.7,DEGREES F,,
+07/02/2019,18,FEET,59.3,DEGREES F,,
+07/02/2019,21,FEET,55.2,DEGREES F,,
+07/02/2019,24,FEET,51.2,DEGREES F,,
+07/02/2019,27,FEET,48.5,DEGREES F,,
+07/02/2019,30,FEET,48.2,DEGREES F,,
+07/08/2019,0,FEET,82.4,DEGREES F,,
+07/08/2019,3,FEET,81.1,DEGREES F,,
+07/08/2019,6,FEET,80.6,DEGREES F,,
+07/08/2019,9,FEET,79.5,DEGREES F,,
+07/08/2019,12,FEET,75,DEGREES F,,
+07/08/2019,15,FEET,67.6,DEGREES F,,
+07/08/2019,18,FEET,61.5,DEGREES F,,
+07/08/2019,21,FEET,55.4,DEGREES F,,
+07/08/2019,24,FEET,52.1,DEGREES F,,
+07/08/2019,27,FEET,48.3,DEGREES F,,
+07/08/2019,30,FEET,48,DEGREES F,,
+07/18/2019,0,FEET,89.4,DEGREES F,,
+07/18/2019,3,FEET,82.5,DEGREES F,,
+07/18/2019,6,FEET,82.2,DEGREES F,,
+07/18/2019,9,FEET,82.2,DEGREES F,,
+07/18/2019,12,FEET,79.5,DEGREES F,,
+07/18/2019,15,FEET,70.8,DEGREES F,,
+07/18/2019,18,FEET,64.7,DEGREES F,,
+07/18/2019,21,FEET,55.5,DEGREES F,,
+07/18/2019,24,FEET,51.6,DEGREES F,,
+07/18/2019,27,FEET,50.1,DEGREES F,,
+07/18/2019,30,FEET,49.8,DEGREES F,,
+07/24/2019,0,FEET,80.7,DEGREES F,,
+07/24/2019,3,FEET,80.7,DEGREES F,,
+07/24/2019,6,FEET,80.4,DEGREES F,,
+07/24/2019,9,FEET,80,DEGREES F,,
+07/24/2019,12,FEET,76.8,DEGREES F,,
+07/24/2019,15,FEET,71.4,DEGREES F,,
+07/24/2019,18,FEET,60.8,DEGREES F,,
+07/24/2019,21,FEET,56.3,DEGREES F,,
+07/24/2019,24,FEET,51.2,DEGREES F,,
+07/24/2019,27,FEET,49.2,DEGREES F,,
+07/24/2019,30,FEET,48.5,DEGREES F,,
+08/01/2019,0,FEET,80.2,DEGREES F,,
+08/01/2019,3,FEET,79.7,DEGREES F,,
+08/01/2019,6,FEET,79.1,DEGREES F,,
+08/01/2019,9,FEET,78.6,DEGREES F,,
+08/01/2019,12,FEET,77.5,DEGREES F,,
+08/01/2019,15,FEET,71.7,DEGREES F,,
+08/01/2019,18,FEET,62.9,DEGREES F,,
+08/01/2019,21,FEET,54.8,DEGREES F,,
+08/01/2019,24,FEET,54.6,DEGREES F,,
+08/01/2019,27,FEET,49.2,DEGREES F,,
+08/01/2019,30,FEET,48.2,DEGREES F,,
+08/09/2019,0,FEET,77.7,DEGREES F,,
+08/09/2019,3,FEET,80,DEGREES F,,
+08/09/2019,6,FEET,79.8,DEGREES F,,
+08/09/2019,9,FEET,79.7,DEGREES F,,
+08/09/2019,12,FEET,79.3,DEGREES F,,
+08/09/2019,15,FEET,75.2,DEGREES F,,
+08/09/2019,18,FEET,69.6,DEGREES F,,
+08/09/2019,21,FEET,56.8,DEGREES F,,
+08/09/2019,24,FEET,55.2,DEGREES F,,
+08/09/2019,27,FEET,51,DEGREES F,,
+08/09/2019,30,FEET,49.8,DEGREES F,,
+08/20/2019,0,FEET,78.8,DEGREES F,,
+08/20/2019,3,FEET,77.5,DEGREES F,,
+08/20/2019,6,FEET,77.5,DEGREES F,,
+08/20/2019,9,FEET,77.1,DEGREES F,,
+08/20/2019,12,FEET,77,DEGREES F,,
+08/20/2019,15,FEET,73.9,DEGREES F,,
+08/20/2019,18,FEET,70.3,DEGREES F,,
+08/20/2019,21,FEET,58.2,DEGREES F,,
+09/02/2019,0,FEET,76.8,DEGREES F,,
+09/02/2019,3,FEET,71.9,DEGREES F,,
+09/02/2019,6,FEET,71.6,DEGREES F,,
+09/02/2019,9,FEET,71.4,DEGREES F,,
+09/02/2019,12,FEET,71.2,DEGREES F,,
+09/02/2019,15,FEET,71,DEGREES F,,
+09/02/2019,18,FEET,66.5,DEGREES F,,
+09/02/2019,21,FEET,65.1,DEGREES F,,
+09/02/2019,24,FEET,65.1,DEGREES F,,
+09/02/2019,27,FEET,65.1,DEGREES F,,
+09/02/2019,30,FEET,65.3,DEGREES F,,
+09/10/2019,0,FEET,73.7,DEGREES F,,
+09/10/2019,3,FEET,69,DEGREES F,,
+09/10/2019,6,FEET,68.7,DEGREES F,,
+09/10/2019,9,FEET,68.5,DEGREES F,,
+09/10/2019,12,FEET,68.3,DEGREES F,,
+09/10/2019,15,FEET,68.3,DEGREES F,,
+09/10/2019,18,FEET,68,DEGREES F,,
+09/10/2019,21,FEET,60.8,DEGREES F,,
+09/10/2019,24,FEET,59,DEGREES F,,
+09/10/2019,27,FEET,51.8,DEGREES F,,
+09/10/2019,30,FEET,49.8,DEGREES F,,
+09/19/2019,0,FEET,78.8,DEGREES F,,
+09/19/2019,3,FEET,71.6,DEGREES F,,
+09/19/2019,6,FEET,69.6,DEGREES F,,
+09/19/2019,9,FEET,67.6,DEGREES F,,
+09/19/2019,12,FEET,66.9,DEGREES F,,
+09/19/2019,15,FEET,66.2,DEGREES F,,
+09/19/2019,18,FEET,65.6,DEGREES F,,
+09/19/2019,21,FEET,62.9,DEGREES F,,
+09/19/2019,24,FEET,55.4,DEGREES F,,
+09/19/2019,27,FEET,51,DEGREES F,,
+09/19/2019,30,FEET,50.7,DEGREES F,,
+09/26/2019,0,FEET,62.6,DEGREES F,,
+09/26/2019,3,FEET,68.3,DEGREES F,,
+09/26/2019,6,FEET,68.3,DEGREES F,,
+09/26/2019,9,FEET,68.3,DEGREES F,,
+09/26/2019,12,FEET,68.3,DEGREES F,,
+09/26/2019,15,FEET,67.1,DEGREES F,,
+09/26/2019,18,FEET,65.6,DEGREES F,,
+09/26/2019,21,FEET,62.9,DEGREES F,,
+09/26/2019,24,FEET,57.9,DEGREES F,,
+09/26/2019,27,FEET,51.6,DEGREES F,,
+09/26/2019,30,FEET,49.8,DEGREES F,,
+05/08/2020,0,FEET,50.7,DEGREES F,,
+05/08/2020,3,FEET,59.7,DEGREES F,,
+05/08/2020,6,FEET,59.7,DEGREES F,,
+05/08/2020,9,FEET,59.5,DEGREES F,,
+05/08/2020,12,FEET,58.2,DEGREES F,,
+05/08/2020,15,FEET,51.2,DEGREES F,,
+05/08/2020,18,FEET,49.2,DEGREES F,,
+05/08/2020,21,FEET,48,DEGREES F,,
+05/08/2020,24,FEET,47.4,DEGREES F,,
+05/08/2020,27,FEET,46.9,DEGREES F,,
+05/08/2020,30,FEET,46.5,DEGREES F,,
+05/15/2020,0,FEET,62.6,DEGREES F,,
+05/15/2020,3,FEET,59,DEGREES F,,
+05/15/2020,6,FEET,58.4,DEGREES F,,
+05/15/2020,9,FEET,57.9,DEGREES F,,
+05/15/2020,12,FEET,57.3,DEGREES F,,
+05/15/2020,15,FEET,55.2,DEGREES F,,
+05/15/2020,18,FEET,49.4,DEGREES F,,
+05/15/2020,21,FEET,48.5,DEGREES F,,
+05/15/2020,24,FEET,48,DEGREES F,,
+05/15/2020,27,FEET,47.6,DEGREES F,,
+05/15/2020,30,FEET,46.7,DEGREES F,,
+05/24/2020,0,FEET,74.4,DEGREES F,,
+05/24/2020,3,FEET,68.5,DEGREES F,,
+05/24/2020,6,FEET,68.3,DEGREES F,,
+05/24/2020,9,FEET,62.9,DEGREES F,,
+05/24/2020,12,FEET,60.6,DEGREES F,,
+05/24/2020,15,FEET,58.2,DEGREES F,,
+05/24/2020,18,FEET,56.4,DEGREES F,,
+05/24/2020,21,FEET,49.4,DEGREES F,,
+05/24/2020,24,FEET,48,DEGREES F,,
+05/24/2020,27,FEET,47.6,DEGREES F,,
+05/24/2020,30,FEET,47.6,DEGREES F,,
+05/31/2020,0,FEET,66.2,DEGREES F,,
+05/31/2020,3,FEET,69.8,DEGREES F,,
+05/31/2020,6,FEET,69.8,DEGREES F,,
+05/31/2020,9,FEET,69,DEGREES F,,
+05/31/2020,12,FEET,62.6,DEGREES F,,
+05/31/2020,15,FEET,59.3,DEGREES F,,
+05/31/2020,18,FEET,56.1,DEGREES F,,
+05/31/2020,21,FEET,51.6,DEGREES F,,
+05/31/2020,24,FEET,48.5,DEGREES F,,
+05/31/2020,27,FEET,47.9,DEGREES F,,
+05/31/2020,30,FEET,47.4,DEGREES F,,
+06/12/2020,0,FEET,70.8,DEGREES F,,
+06/12/2020,3,FEET,74.4,DEGREES F,,
+06/12/2020,6,FEET,74.4,DEGREES F,,
+06/12/2020,9,FEET,74.4,DEGREES F,,
+06/12/2020,12,FEET,73.2,DEGREES F,,
+06/12/2020,15,FEET,61.7,DEGREES F,,
+06/12/2020,18,FEET,57.5,DEGREES F,,
+06/12/2020,21,FEET,51.8,DEGREES F,,
+06/12/2020,24,FEET,49.8,DEGREES F,,
+06/12/2020,27,FEET,50,DEGREES F,,
+06/12/2020,30,FEET,49.6,DEGREES F,,
+06/16/2020,0,FEET,75,DEGREES F,,
+06/16/2020,3,FEET,72.8,DEGREES F,,
+06/16/2020,6,FEET,72.6,DEGREES F,,
+06/16/2020,9,FEET,72.1,DEGREES F,,
+06/16/2020,12,FEET,70.3,DEGREES F,,
+06/16/2020,15,FEET,66.9,DEGREES F,,
+06/16/2020,18,FEET,58.2,DEGREES F,,
+06/16/2020,21,FEET,53.7,DEGREES F,,
+06/16/2020,24,FEET,50.7,DEGREES F,,
+06/16/2020,27,FEET,48.5,DEGREES F,,
+06/16/2020,30,FEET,48.5,DEGREES F,,
+06/24/2020,0,FEET,71.4,DEGREES F,,
+06/24/2020,3,FEET,75.5,DEGREES F,,
+06/24/2020,6,FEET,75.2,DEGREES F,,
+06/24/2020,9,FEET,74.6,DEGREES F,,
+06/24/2020,12,FEET,72.3,DEGREES F,,
+06/24/2020,15,FEET,66.2,DEGREES F,,
+06/24/2020,18,FEET,59.5,DEGREES F,,
+06/24/2020,21,FEET,54.8,DEGREES F,,
+06/24/2020,24,FEET,50.9,DEGREES F,,
+06/24/2020,27,FEET,49.6,DEGREES F,,
+06/24/2020,30,FEET,49.6,DEGREES F,,
+07/02/2020,0,FEET,89,DEGREES F,,
+07/02/2020,3,FEET,82.4,DEGREES F,,
+07/02/2020,6,FEET,81.6,DEGREES F,,
+07/02/2020,9,FEET,78.8,DEGREES F,,
+07/02/2020,12,FEET,74.4,DEGREES F,,
+07/02/2020,15,FEET,66.9,DEGREES F,,
+07/02/2020,18,FEET,59.5,DEGREES F,,
+07/02/2020,21,FEET,53.6,DEGREES F,,
+07/02/2020,24,FEET,50.5,DEGREES F,,
+07/02/2020,27,FEET,48.9,DEGREES F,,
+07/02/2020,30,FEET,48.7,DEGREES F,,
+07/10/2020,3,FEET,84.2,DEGREES F,,
+07/10/2020,6,FEET,83.6,DEGREES F,,
+07/10/2020,9,FEET,82.9,DEGREES F,,
+07/10/2020,12,FEET,77,DEGREES F,,
+07/10/2020,15,FEET,74.1,DEGREES F,,
+07/10/2020,18,FEET,67.9,DEGREES F,,
+07/10/2020,21,FEET,57,DEGREES F,,
+07/10/2020,24,FEET,52.5,DEGREES F,,
+07/10/2020,27,FEET,50.3,DEGREES F,,
+07/10/2020,30,FEET,49.6,DEGREES F,,
+07/19/2020,3,FEET,81.6,DEGREES F,,
+07/19/2020,6,FEET,81.6,DEGREES F,,
+07/19/2020,9,FEET,81.6,DEGREES F,,
+07/19/2020,12,FEET,76.4,DEGREES F,,
+07/19/2020,15,FEET,71.9,DEGREES F,,
+07/19/2020,18,FEET,64.2,DEGREES F,,
+07/19/2020,21,FEET,58.6,DEGREES F,,
+07/19/2020,24,FEET,54.1,DEGREES F,,
+07/19/2020,27,FEET,49.6,DEGREES F,,
+07/19/2020,30,FEET,49.4,DEGREES F,,
+07/27/2020,3,FEET,80.4,DEGREES F,,
+07/27/2020,6,FEET,80.4,DEGREES F,,
+07/27/2020,9,FEET,79.1,DEGREES F,,
+07/27/2020,12,FEET,76.6,DEGREES F,,
+07/27/2020,15,FEET,71.4,DEGREES F,,
+07/27/2020,18,FEET,62.9,DEGREES F,,
+07/27/2020,21,FEET,58.4,DEGREES F,,
+07/27/2020,24,FEET,52.8,DEGREES F,,
+07/27/2020,27,FEET,50.9,DEGREES F,,
+07/27/2020,30,FEET,50.7,DEGREES F,,
+08/03/2020,3,FEET,77.1,DEGREES F,,
+08/03/2020,6,FEET,77,DEGREES F,,
+08/03/2020,9,FEET,76.8,DEGREES F,,
+08/03/2020,12,FEET,76.4,DEGREES F,,
+08/03/2020,15,FEET,72.6,DEGREES F,,
+08/03/2020,18,FEET,63.2,DEGREES F,,
+08/03/2020,21,FEET,56.8,DEGREES F,,
+08/03/2020,24,FEET,54.6,DEGREES F,,
+08/03/2020,27,FEET,51.4,DEGREES F,,
+08/03/2020,30,FEET,49.8,DEGREES F,,
+08/11/2020,3,FEET,78.2,DEGREES F,,
+08/11/2020,6,FEET,77.9,DEGREES F,,
+08/11/2020,9,FEET,77.3,DEGREES F,,
+08/11/2020,12,FEET,76.2,DEGREES F,,
+08/11/2020,15,FEET,72.8,DEGREES F,,
+08/11/2020,18,FEET,62.4,DEGREES F,,
+08/11/2020,21,FEET,58.1,DEGREES F,,
+08/11/2020,24,FEET,53.9,DEGREES F,,
+08/11/2020,27,FEET,50.5,DEGREES F,,
+08/11/2020,30,FEET,50.3,DEGREES F,,
+09/04/2020,3,FEET,73.2,DEGREES F,,
+09/04/2020,6,FEET,73,DEGREES F,,
+09/04/2020,9,FEET,72.8,DEGREES F,,
+09/04/2020,12,FEET,72.8,DEGREES F,,
+09/04/2020,15,FEET,71.9,DEGREES F,,
+09/04/2020,18,FEET,67.4,DEGREES F,,
+09/04/2020,21,FEET,61.1,DEGREES F,,
+09/04/2020,24,FEET,56.4,DEGREES F,,
+09/04/2020,27,FEET,52.7,DEGREES F,,
+09/04/2020,30,FEET,51.2,DEGREES F,,
+09/13/2020,3,FEET,66.2,DEGREES F,,
+09/13/2020,6,FEET,66,DEGREES F,,
+09/13/2020,9,FEET,65.6,DEGREES F,,
+09/13/2020,12,FEET,65.6,DEGREES F,,
+09/13/2020,15,FEET,65.4,DEGREES F,,
+09/13/2020,18,FEET,64.7,DEGREES F,,
+09/13/2020,21,FEET,60.8,DEGREES F,,
+09/13/2020,24,FEET,54.8,DEGREES F,,
+09/13/2020,27,FEET,51.6,DEGREES F,,
+09/13/2020,30,FEET,51.4,DEGREES F,,
+09/22/2020,3,FEET,65.4,DEGREES F,,
+09/22/2020,6,FEET,65.1,DEGREES F,,
+09/22/2020,9,FEET,65.1,DEGREES F,,
+09/22/2020,12,FEET,64.7,DEGREES F,,
+09/22/2020,15,FEET,64.7,DEGREES F,,
+09/22/2020,18,FEET,64,DEGREES F,,
+09/22/2020,21,FEET,60,DEGREES F,,
+09/22/2020,24,FEET,55.2,DEGREES F,,
+09/22/2020,27,FEET,52.1,DEGREES F,,
+09/22/2020,30,FEET,51.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/05/2018,We  had two heavy rainstorms the day before (07/04) both am + pm w/ wind and hail during the rainstorms.  Also had some holiday boat traffic.
+07/14/2018,Lake was still as glass.  Had random lite rains 36 hours before.
+07/21/2018,Partly sunny/cloudy; rained off + on 24-48 hours before; 5-7 MPH wind
+07/29/2018,Lake was still w/ no apparent wind.
+08/06/2018,Lake appeared so clean today (cleanest appearance yet)? 5 MPH wind; sunny
+08/14/2018,5 MPH wind
+08/23/2018,13 MPH winds all day
+08/30/2018,Sunny; 10 MPH winds; prior to yesterday it had been raining off and on for 5 days (lite and heavy).
+09/08/2018,6 MPH wind; no rain for 4 days;Painted turtles (6") swimming near surface in center of bay
+09/15/2018,temperature has been 82-92 degrees last 5 days; 2 pontoon boats out in same area as me
+10/04/2018,2-3 nights down in 30 degree temperatures last 10 days; rained/drizzled off and on for last 7 days - rained hard yesterday for 20 minutes w/ drizzle off and on all day
+10/12/2018,Dozens of Tree Swallows swarming in circular motion together above water where bay meets lake.  They each seemed to dip down to the water periodically to pick something up e.g. food?  
+10/18/2018,6 MPH wind
+04/19/2019,Rained +2" two days prior
+04/27/2019,9 MPH wind
+05/05/2019,7 MPH wind
+05/14/2019,9 MPH wind
+05/25/2019,5/16-5/22 rained 3-5" over 5 day period 5/16-5/22 rained 3-5" over 5 day period; cottonwoods dropping today again
+06/06/2019,Small- small debris moving underwater not usually seen.  I'm not sure if it's seeds from cottonwood trees or something under water?  The bay- shallower- seemed to be more clear than the deeper part of the lake?
+06/14/2019,9 MPH winds
+06/25/2019,12 MPH winds
+07/08/2019,morning after July 4th weekend traffic - pair of Loons on lake fishing
+07/18/2019,4"-6" of rain since 07/08/19.  High water levels.
+07/24/2019,2"-4" rain since 7/18/19 clarity reading; pair of Loons fishing near me; highest water level since moved here in 2013; many less frogs + toads than 2018 such as:  less Wood Frogs- Boreal Chorus Frogs- Spring Peeper- American Toad- Gray Tree Frog- Green Frogs- American Bullfrogs than last year's song surveys.
+08/01/2019,Temps have been much cooler the last few days; low 50's at nights as low as 50 degrees; 
+08/09/2019,Pair of Loons fishing near me 
+08/20/2019,1/2" rain earlier in day; pair of loons arrived to fish near me; battery for temperature died at 24' :)
+08/28/2019,12 MPH winds
+09/02/2019,Light rain the day before; temperature has been unseasonably cool the last 10-12 days; high 40s/low 50s at night
+09/10/2019,Rained off and on throughout previous day (9/9/19); temperature continued to be unseasonably cool both day and night  (last three weeks-high 40s/low 50s at night) up 'til today which was in the 60s last night and 70s today.
+09/19/2019,No wind - lake clear as glass
+05/08/2020,Swallows feeding on insects in middle of lake (swarming)      
+05/31/2020,Windy
+06/12/2020,Very windy; micro vegetation moving thru water
+06/16/2020,very windy - 14 MPH
+06/24/2020,Increased lake traffic
+07/27/2020,Raining last 2-3 days; undercurrent (?) lite wind
+08/27/2020,Secchi data only; neglected to check batteries before leaving :(  This is the second year out of three where water clarity increases later in the season on Swede Lake?  First time this season that water was not murky.
+09/04/2020,Clearest since mid-May.
+09/13/2020,Quiet w/ no wind; very clear; clearest it has been all year.
+
+
+
+
+Start Date,Group Name,Project Name
+05/06/1996,CAHOW- JIM,NONPOINT SOURCE
+06/19/1996,CAHOW- JIM,NONPOINT SOURCE
+07/17/1996,CAHOW- JIM,NONPOINT SOURCE
+08/28/1996,CAHOW- JIM,NONPOINT SOURCE
+08/29/1996,CAHOW- JIM,NONPOINT SOURCE
+04/24/1997,CAHOW- JIM,NONPOINT SOURCE
+06/23/1997,CAHOW- JIM,NONPOINT SOURCE
+07/15/1997,CAHOW- JIM,NONPOINT SOURCE
+08/12/1997,CAHOW- JIM,NONPOINT SOURCE
+06/19/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/28/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/05/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/14/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/21/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/29/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/06/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/14/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/23/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/30/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/08/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/15/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+10/04/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+10/12/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+10/18/2018,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+04/19/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+04/27/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/05/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/14/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/25/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/31/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/06/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/14/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/25/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/02/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/08/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/18/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/24/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/01/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/09/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/20/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/28/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/02/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/10/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/19/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/26/2019,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/08/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/15/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/24/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+05/31/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/12/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/16/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+06/24/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/02/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/10/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/19/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+07/27/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/03/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/11/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+08/27/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/04/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/13/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole
+09/22/2020,Melanie Weberg,Citizen Lake Monitoring - Water Quality - Swede Lake - Deep Hole

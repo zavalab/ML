@@ -1,0 +1,673 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Porcupine Lake,Florence,590800,NO,19,,194004,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,10/20/1999,,,,,8,,44,,,,,,
+18137437,05/14/2007,9,NO,2.7,,13,45,48,,LOW,0,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137437,06/18/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137437,07/17/2007,15,NO,4.6,0.91,9,38,45,34,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137437,08/26/2007,15.5,NO,4.7,4.08,7,38,43,45,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137437,05/10/2008,8,NO,2.4,,13,47,48,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137437,06/13/2008,7.5,NO,2.3,10.9,11,48,47,53,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137437,07/14/2008,8.8,NO,2.7,4.63,12,46,47,46,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137437,08/10/2008,11.25,NO,3.4,2.03,16,42,50,40,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137437,09/17/2008,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137437,05/15/2009,10.75,NO,3.3,,18,43,51,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137437,06/13/2009,11.25,NO,3.4,2.69,15,42,49,42,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+18137437,07/06/2009,13,NO,4,2.62,12,40,47,42,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29575558,07/14/2009,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,08/08/2009,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137437,08/10/2009,,,,2.84,12,,47,43,,,,,
+18137260,08/26/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137437,09/09/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137437,04/18/2010,,,,,12,,47,,,,,,
+18137437,05/18/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+35006126,06/07/2010,13.75,NO,4.2,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,06/20/2010,12,NO,3.6,2.17,11,41,47,41,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137437,07/23/2010,11,NO,3.3,3.09,7,43,43,43,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137437,08/23/2010,12,NO,3.6,2.44,7,41,43,42,LOW,,CLEAR,,1-Beautiful, could not be nicer
+18137437,09/18/2010,11,NO,3.3,,,43,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+18137437,05/20/2011,10.5,NO,3.2,,18,43,51,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,06/25/2011,13,NO,4,2.78,14,40,49,43,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,07/20/2011,12,NO,3.6,2.12,7,41,43,40,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,08/22/2011,13,NO,4,4.29,13,40,48,46,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,05/23/2012,6.5,NO,2,,20,50,51,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137437,06/25/2012,9,NO,2.7,3.24,20,45,51,44,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18137437,07/27/2012,9.5,NO,2.9,3.01,13,45,48,43,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137437,08/28/2012,13,NO,4,3.8,10,40,46,45,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137437,05/15/2013,,,,,15.8,,50,,,,,,
+18137437,06/19/2013,,,,1.94,10.9,,47,40,,,,,
+18137437,07/22/2013,,,,2.23,7.32,,44,41,,,,,
+18137437,08/06/2013,,,,,,,,,,,,,
+18137437,08/16/2013,,,,3.39,10.1,,46,44,,,,,
+18137437,09/25/2013,,,,,,,,,,,,,
+18137437,05/18/2014,14.5,NO,4.4,,12,39,47,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,06/16/2014,15,NO,4.6,0.493,9.59,38,46,29,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137437,07/18/2014,16,,4.9,1.54,10.8,37,47,38,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,08/24/2014,10,NO,3,5.7,16.4,44,50,48,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137437,09/23/2014,10.5,NO,3.2,,,43,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+18137437,04/24/2015,16,NO,4.9,,15.1,37,49,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,06/16/2015,12,NO,3.6,3.61,14.1,41,49,45,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,07/23/2015,10,NO,3,1.01,11.5,44,47,35,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137437,08/22/2015,10,NO,3,2.79,16.4,44,50,43,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137437,04/18/2016,14,NO,4.3,,18.3,39,51,,HIGH,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+18137437,06/23/2016,12,NO,3.6,2.7,14.8,41,49,42,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+18137437,07/16/2016,,,,4.77,17,,50,47,,,,,
+18137437,07/18/2016,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+18137437,08/22/2016,11.5,NO,3.5,2.87,13.3,42,48,43,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+18137437,04/13/2017,14.5,NO,4.4,,24.1,39,53,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,06/22/2017,7,NO,2.1,3.71,23.5,49,53,45,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137437,07/17/2017,7.5,NO,2.3,2.49,20.8,48,52,42,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137437,08/29/2017,8,NO,2.4,4.51,11.7,47,47,46,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+18137437,05/07/2018,15,NO,4.6,,14.9,38,49,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,06/18/2018,9.5,NO,2.9,3.88,22,45,52,45,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,07/22/2018,10,NO,3,2.26,8.35,44,45,41,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,08/24/2018,10,NO,3,3.55,13.4,44,48,44,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,09/30/2018,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137437,04/27/2019,,,,,15.4,,49,,,,,,
+18137437,05/27/2019,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137437,06/15/2019,8.5,NO,2.6,2.73,19.4,46,51,42,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18137437,07/15/2019,8.5,NO,2.6,2.28,16.2,46,50,41,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,08/19/2019,10.5,NO,3.2,5.47,14.7,43,49,48,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,06/08/2020,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,06/18/2020,,,,0.84,16.8,,50,33,,,,,
+18137437,07/18/2020,8,NO,2.4,1.94,13.4,47,48,40,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,08/15/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137437,09/22/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/14/2007,3,FEET,61.5,DEGREES F,,
+05/14/2007,6,FEET,60.6,DEGREES F,,
+05/14/2007,9,FEET,59.3,DEGREES F,,
+05/14/2007,12,FEET,57,DEGREES F,,
+05/14/2007,15,FEET,54.8,DEGREES F,,
+05/14/2007,18,FEET,51.8,DEGREES F,,
+05/14/2007,21,FEET,49.8,DEGREES F,,
+06/18/2007,3,FEET,75.5,DEGREES F,7,MG/L
+06/18/2007,6,FEET,74.6,DEGREES F,7,MG/L
+06/18/2007,9,FEET,71.9,DEGREES F,5.8,MG/L
+06/18/2007,12,FEET,69,DEGREES F,,
+06/18/2007,15,FEET,66,DEGREES F,,
+06/18/2007,18,FEET,60.8,DEGREES F,,
+06/18/2007,21,FEET,59,DEGREES F,,
+07/17/2007,3,FEET,73.4,DEGREES F,7.2,MG/L
+07/17/2007,6,FEET,72.3,DEGREES F,7.5,MG/L
+07/17/2007,9,FEET,71.9,DEGREES F,7,MG/L
+07/17/2007,12,FEET,71.4,DEGREES F,,
+07/17/2007,15,FEET,71,DEGREES F,,
+07/17/2007,18,FEET,69.8,DEGREES F,,
+07/17/2007,21,FEET,64,DEGREES F,,
+08/26/2007,3,FEET,69.8,DEGREES F,7.9,MG/L
+08/26/2007,6,FEET,69.6,DEGREES F,7.1,MG/L
+08/26/2007,9,FEET,69.6,DEGREES F,7.2,MG/L
+08/26/2007,12,FEET,69.4,DEGREES F,,
+08/26/2007,15,FEET,69.2,DEGREES F,,
+08/26/2007,18,FEET,69,DEGREES F,,
+08/26/2007,21,FEET,69,DEGREES F,,
+05/10/2008,3,FEET,52.3,DEGREES F,10,MG/L
+05/10/2008,6,FEET,52.1,DEGREES F,10.8,MG/L
+05/10/2008,9,FEET,50,DEGREES F,11.4,MG/L
+05/10/2008,12,FEET,48.2,DEGREES F,,
+05/10/2008,15,FEET,46.7,DEGREES F,,
+05/10/2008,18,FEET,45.8,DEGREES F,,
+05/10/2008,21,FEET,45.5,DEGREES F,,
+06/13/2008,3,FEET,65.4,DEGREES F,7.8,MG/L
+06/13/2008,6,FEET,64.5,DEGREES F,8.4,MG/L
+06/13/2008,9,FEET,64.4,DEGREES F,8.6,MG/L
+06/13/2008,12,FEET,63.3,DEGREES F,,
+06/13/2008,15,FEET,57.5,DEGREES F,,
+06/13/2008,18,FEET,51.8,DEGREES F,,
+06/13/2008,21,FEET,51.4,DEGREES F,,
+07/14/2008,3,FEET,70.1,DEGREES F,6.8,MG/L
+07/14/2008,6,FEET,69.8,DEGREES F,7.5,MG/L
+07/14/2008,9,FEET,69.6,DEGREES F,7.5,MG/L
+07/14/2008,12,FEET,69.6,DEGREES F,15,MG/L
+07/14/2008,15,FEET,69.4,DEGREES F,,
+07/14/2008,18,FEET,60.8,DEGREES F,,
+07/14/2008,21,FEET,56.6,DEGREES F,,
+07/14/2008,69.4,FEET,18,DEGREES F,60.8,MG/L
+08/10/2008,3,FEET,74.1,DEGREES F,6.4,MG/L
+08/10/2008,6,FEET,73.5,DEGREES F,6.2,MG/L
+08/10/2008,9,FEET,73.4,DEGREES F,6.8,MG/L
+08/10/2008,12,FEET,73.2,DEGREES F,,
+08/10/2008,15,FEET,73,DEGREES F,,
+08/10/2008,18,FEET,68.3,DEGREES F,,
+09/17/2008,3,FEET,63.6,DEGREES F,7.8,MG/L
+09/17/2008,6,FEET,63.5,DEGREES F,7.8,MG/L
+09/17/2008,9,FEET,63.3,DEGREES F,8,MG/L
+09/17/2008,12,FEET,63.3,DEGREES F,,
+09/17/2008,15,FEET,63.1,DEGREES F,,
+09/17/2008,18,FEET,62.4,DEGREES F,,
+09/17/2008,21,FEET,62.7,DEGREES F,,
+05/15/2009,3,FEET,57.2,DEGREES F,9.2,MG/L
+05/15/2009,6,FEET,56.1,DEGREES F,9.8,MG/L
+05/15/2009,9,FEET,55.7,DEGREES F,10,MG/L
+05/15/2009,12,FEET,55.2,DEGREES F,,
+05/15/2009,15,FEET,51.6,DEGREES F,,
+05/15/2009,18,FEET,50,DEGREES F,,
+05/15/2009,21,FEET,49.4,DEGREES F,,
+05/15/2009,24,FEET,48.9,DEGREES F,,
+06/13/2009,3,FEET,62.4,DEGREES F,8.7,MG/L
+06/13/2009,6,FEET,60.8,DEGREES F,9,MG/L
+06/13/2009,9,FEET,59.9,DEGREES F,8.8,MG/L
+06/13/2009,12,FEET,59,DEGREES F,,
+06/13/2009,15,FEET,58.6,DEGREES F,,
+06/13/2009,18,FEET,57.9,DEGREES F,,
+06/13/2009,21,FEET,57.9,DEGREES F,,
+07/06/2009,3,FEET,69,DEGREES F,7.8,MG/L
+07/06/2009,6,FEET,68.7,DEGREES F,8,MG/L
+07/06/2009,9,FEET,68.3,DEGREES F,8,MG/L
+07/06/2009,12,FEET,67.4,DEGREES F,,
+07/06/2009,15,FEET,66.2,DEGREES F,,
+07/06/2009,18,FEET,62.2,DEGREES F,,
+07/06/2009,21,FEET,60.6,DEGREES F,,
+07/14/2009,3,FEET,21.8,DEGREES C,8.29,MG/L
+07/14/2009,6,FEET,21.7,DEGREES C,8.29,MG/L
+07/14/2009,9,FEET,21.5,DEGREES C,8.2,MG/L
+07/14/2009,12,FEET,21.4,DEGREES C,8.13,MG/L
+07/14/2009,15,FEET,21.3,DEGREES C,8.04,MG/L
+07/14/2009,18,FEET,19.8,DEGREES C,4.59,MG/L
+07/14/2009,21,FEET,19.4,DEGREES C,3.12,MG/L
+08/08/2009,3,FEET,72.6,DEGREES F,7.6,MG/L
+08/08/2009,6,FEET,71.4,DEGREES F,7.6,MG/L
+08/08/2009,9,FEET,70.1,DEGREES F,8,MG/L
+08/08/2009,12,FEET,69.3,DEGREES F,,
+08/08/2009,15,FEET,69.2,DEGREES F,,
+08/08/2009,18,FEET,68.7,DEGREES F,,
+08/08/2009,21,FEET,68.7,DEGREES F,,
+08/26/2009,3,FEET,19.7,DEGREES C,,
+08/26/2009,6,FEET,20,DEGREES C,,
+08/26/2009,9,FEET,20,DEGREES C,,
+08/26/2009,12,FEET,20.2,DEGREES C,,
+08/26/2009,15,FEET,20.2,DEGREES C,,
+08/26/2009,18,FEET,20.1,DEGREES C,,
+08/26/2009,21,FEET,20,DEGREES C,,
+09/09/2009,3,FEET,69.6,DEGREES F,7.8,MG/L
+09/09/2009,6,FEET,68.9,DEGREES F,7.4,MG/L
+09/09/2009,9,FEET,68.7,DEGREES F,7.2,MG/L
+09/09/2009,12,FEET,68.5,DEGREES F,,
+09/09/2009,15,FEET,68.1,DEGREES F,,
+09/09/2009,18,FEET,67.4,DEGREES F,,
+09/09/2009,21,FEET,67.4,DEGREES F,,
+05/18/2010,3,FEET,51.2,DEGREES F,10,MG/L
+05/18/2010,6,FEET,50.3,DEGREES F,10.6,MG/L
+05/18/2010,9,FEET,50.1,DEGREES F,10.2,MG/L
+05/18/2010,12,FEET,50,DEGREES F,,
+05/18/2010,15,FEET,50,DEGREES F,,
+05/18/2010,18,FEET,49.4,DEGREES F,,
+05/18/2010,21,FEET,49.4,DEGREES F,,
+06/07/2010,0,FEET,68,DEGREES F,9,MG/L
+06/07/2010,3,FEET,67.8,DEGREES F,9.02,MG/L
+06/07/2010,6,FEET,67.6,DEGREES F,8.82,MG/L
+06/07/2010,9,FEET,67.2,DEGREES F,8.81,MG/L
+06/07/2010,12,FEET,66.6,DEGREES F,9.29,MG/L
+06/07/2010,15,FEET,62.6,DEGREES F,10.31,MG/L
+06/20/2010,3,FEET,69.6,DEGREES F,7.8,MG/L
+06/20/2010,6,FEET,69,DEGREES F,7.6,MG/L
+06/20/2010,9,FEET,66.9,DEGREES F,8.4,MG/L
+06/20/2010,12,FEET,65.8,DEGREES F,,
+06/20/2010,15,FEET,65.1,DEGREES F,,
+06/20/2010,18,FEET,62.6,DEGREES F,,
+06/20/2010,21,FEET,62.4,DEGREES F,,
+07/23/2010,3,FEET,75,DEGREES F,7,MG/L
+07/23/2010,6,FEET,74.4,DEGREES F,7.2,MG/L
+07/23/2010,9,FEET,74.4,DEGREES F,6.8,MG/L
+07/23/2010,12,FEET,74.4,DEGREES F,,
+07/23/2010,15,FEET,74.3,DEGREES F,,
+07/23/2010,18,FEET,72.8,DEGREES F,,
+07/23/2010,21,FEET,72.6,DEGREES F,,
+08/23/2010,3,FEET,73.4,DEGREES F,7.4,MG/L
+08/23/2010,6,FEET,72.6,DEGREES F,7.6,MG/L
+08/23/2010,9,FEET,72.3,DEGREES F,7.4,MG/L
+08/23/2010,12,FEET,71.9,DEGREES F,,
+08/23/2010,15,FEET,71.7,DEGREES F,,
+08/23/2010,18,FEET,71.4,DEGREES F,,
+08/23/2010,21,FEET,71.2,DEGREES F,,
+09/18/2010,3,FEET,60.2,DEGREES F,,
+09/18/2010,6,FEET,59.7,DEGREES F,,
+09/18/2010,9,FEET,59.5,DEGREES F,,
+09/18/2010,12,FEET,59.5,DEGREES F,,
+09/18/2010,15,FEET,59.3,DEGREES F,,
+09/18/2010,18,FEET,59.9,DEGREES F,,
+09/18/2010,21,FEET,60,DEGREES F,,
+05/20/2011,3,FEET,58.1,DEGREES F,8.4,MG/L
+05/20/2011,6,FEET,57.5,DEGREES F,8.6,MG/L
+05/20/2011,9,FEET,56.4,DEGREES F,9.2,MG/L
+05/20/2011,12,FEET,51.8,DEGREES F,,
+05/20/2011,15,FEET,46.9,DEGREES F,,
+05/20/2011,18,FEET,45.6,DEGREES F,,
+05/20/2011,21,FEET,45.1,DEGREES F,,
+06/25/2011,3,FEET,65.4,DEGREES F,8,MG/L
+06/25/2011,6,FEET,64.7,DEGREES F,7.6,MG/L
+06/25/2011,9,FEET,64.2,DEGREES F,7.6,MG/L
+06/25/2011,12,FEET,63.6,DEGREES F,,
+06/25/2011,15,FEET,57.5,DEGREES F,,
+06/25/2011,18,FEET,52.8,DEGREES F,,
+06/25/2011,21,FEET,52.3,DEGREES F,,
+07/20/2011,3,FEET,79.7,DEGREES F,6.8,MG/L
+07/20/2011,6,FEET,78.4,DEGREES F,6.6,MG/L
+07/20/2011,9,FEET,75.5,DEGREES F,7,MG/L
+07/20/2011,12,FEET,69.8,DEGREES F,,
+07/20/2011,15,FEET,62.9,DEGREES F,,
+07/20/2011,18,FEET,57.2,DEGREES F,,
+07/20/2011,21,FEET,56.1,DEGREES F,,
+08/22/2011,3,FEET,72.6,DEGREES F,7.2,MG/L
+08/22/2011,6,FEET,71.9,DEGREES F,6.2,MG/L
+08/22/2011,9,FEET,71.7,DEGREES F,7.2,MG/L
+08/22/2011,12,FEET,71.6,DEGREES F,,
+08/22/2011,15,FEET,69.8,DEGREES F,,
+08/22/2011,18,FEET,60.2,DEGREES F,,
+08/22/2011,21,FEET,58.2,DEGREES F,,
+05/23/2012,3,FEET,66.7,DEGREES F,7.8,MG/L
+05/23/2012,6,FEET,66.2,DEGREES F,7.8,MG/L
+05/23/2012,9,FEET,62.9,DEGREES F,8.8,MG/L
+05/23/2012,12,FEET,56.1,DEGREES F,,
+05/23/2012,15,FEET,51.9,DEGREES F,,
+05/23/2012,18,FEET,51,DEGREES F,,
+05/23/2012,21,FEET,50.9,DEGREES F,,
+06/25/2012,3,FEET,71.6,DEGREES F,7.6,MG/L
+06/25/2012,6,FEET,71.4,DEGREES F,7.4,MG/L
+06/25/2012,9,FEET,71.2,DEGREES F,7.4,MG/L
+06/25/2012,12,FEET,66.5,DEGREES F,,
+06/25/2012,15,FEET,60.2,DEGREES F,,
+06/25/2012,18,FEET,55.2,DEGREES F,,
+06/25/2012,21,FEET,54.5,DEGREES F,,
+07/27/2012,3,FEET,76.8,DEGREES F,7.4,MG/L
+07/27/2012,6,FEET,76.6,DEGREES F,7,MG/L
+07/27/2012,9,FEET,76.6,DEGREES F,7,MG/L
+07/27/2012,12,FEET,76.4,DEGREES F,,
+07/27/2012,15,FEET,68.3,DEGREES F,,
+07/27/2012,18,FEET,60,DEGREES F,,
+07/27/2012,21,FEET,59.3,DEGREES F,,
+08/28/2012,3,FEET,71.6,DEGREES F,7.2,MG/L
+08/28/2012,6,FEET,71.2,DEGREES F,7.6,MG/L
+08/28/2012,9,FEET,71,DEGREES F,7.4,MG/L
+08/28/2012,12,FEET,70.5,DEGREES F,,
+08/28/2012,15,FEET,69.2,DEGREES F,,
+08/28/2012,18,FEET,68,DEGREES F,,
+08/28/2012,21,FEET,67.8,DEGREES F,,
+05/15/2013,3,FEET,51.2,DEGREES F,,
+05/15/2013,6,FEET,50.3,DEGREES F,,
+05/15/2013,9,FEET,48.5,DEGREES F,,
+05/15/2013,12,FEET,46.2,DEGREES F,,
+05/15/2013,15,FEET,42.8,DEGREES F,,
+05/15/2013,18,FEET,41.7,DEGREES F,,
+05/15/2013,21,FEET,41.7,DEGREES F,,
+06/19/2013,3,FEET,68,DEGREES F,7.6,MG/L
+06/19/2013,6,FEET,67.4,DEGREES F,7.8,MG/L
+06/19/2013,9,FEET,66.5,DEGREES F,8.4,MG/L
+06/19/2013,12,FEET,59.5,DEGREES F,,
+06/19/2013,15,FEET,53,DEGREES F,,
+06/19/2013,18,FEET,49.6,DEGREES F,,
+06/19/2013,21,FEET,49.2,DEGREES F,,
+07/22/2013,3,FEET,77,DEGREES F,6.8,MG/L
+07/22/2013,6,FEET,76.6,DEGREES F,7,MG/L
+07/22/2013,9,FEET,76.4,DEGREES F,7.3,MG/L
+07/22/2013,12,FEET,71.9,DEGREES F,,
+07/22/2013,15,FEET,62.9,DEGREES F,,
+07/22/2013,18,FEET,56.6,DEGREES F,,
+07/22/2013,21,FEET,54.5,DEGREES F,,
+08/06/2013,3,FEET,68,DEGREES F,7.8,MG/L
+08/06/2013,6,FEET,67.4,DEGREES F,8.2,MG/L
+08/06/2013,9,FEET,67.2,DEGREES F,7.8,MG/L
+08/06/2013,12,FEET,67.1,DEGREES F,,
+08/06/2013,15,FEET,66.2,DEGREES F,,
+08/06/2013,18,FEET,60.2,DEGREES F,,
+08/06/2013,21,FEET,58.2,DEGREES F,,
+09/25/2013,3,FEET,62.4,DEGREES F,7.6,MG/L
+09/25/2013,6,FEET,62,DEGREES F,7.8,MG/L
+09/25/2013,9,FEET,61.8,DEGREES F,8,MG/L
+09/25/2013,12,FEET,61.7,DEGREES F,,
+09/25/2013,15,FEET,61.5,DEGREES F,,
+09/25/2013,18,FEET,61.5,DEGREES F,,
+09/25/2013,21,FEET,61.5,DEGREES F,,
+05/18/2014,3,FEET,51,DEGREES F,9.5,MG/L
+05/18/2014,6,FEET,50.7,DEGREES F,9.8,MG/L
+05/18/2014,9,FEET,50.3,DEGREES F,10,MG/L
+05/18/2014,12,FEET,49.6,DEGREES F,,
+05/18/2014,15,FEET,46.7,DEGREES F,,
+05/18/2014,18,FEET,44.7,DEGREES F,,
+05/18/2014,21,FEET,44.4,DEGREES F,,
+06/16/2014,3,FEET,65.5,DEGREES F,8.2,MG/L
+06/16/2014,6,FEET,65.3,DEGREES F,8.4,MG/L
+06/16/2014,9,FEET,64.9,DEGREES F,8.2,MG/L
+06/16/2014,12,FEET,64.5,DEGREES F,,
+06/16/2014,15,FEET,56.1,DEGREES F,,
+06/16/2014,18,FEET,53.9,DEGREES F,,
+06/16/2014,21,FEET,53.4,DEGREES F,,
+07/18/2014,3,FEET,69.2,DEGREES F,7.4,MG/L
+07/18/2014,6,FEET,63.9,DEGREES F,7.6,MG/L
+07/18/2014,9,FEET,68.9,DEGREES F,7.6,MG/L
+07/18/2014,12,FEET,68,DEGREES F,,
+07/18/2014,15,FEET,67.2,DEGREES F,,
+07/18/2014,18,FEET,61.8,DEGREES F,,
+07/18/2014,21,FEET,61.3,DEGREES F,,
+08/24/2014,3,FEET,70.1,DEGREES F,7.4,MG/L
+08/24/2014,6,FEET,69.8,DEGREES F,6.8,MG/L
+08/24/2014,9,FEET,69.8,DEGREES F,7,MG/L
+08/24/2014,12,FEET,69.8,DEGREES F,,
+08/24/2014,15,FEET,69.6,DEGREES F,,
+08/24/2014,18,FEET,69,DEGREES F,,
+08/24/2014,21,FEET,69,DEGREES F,,
+09/23/2014,3,FEET,59.3,DEGREES F,8,MG/L
+09/23/2014,6,FEET,59.3,DEGREES F,8.4,MG/L
+09/23/2014,9,FEET,59.3,DEGREES F,8.2,MG/L
+09/23/2014,12,FEET,59.3,DEGREES F,,
+09/23/2014,15,FEET,59,DEGREES F,,
+09/23/2014,18,FEET,59,DEGREES F,,
+09/23/2014,21,FEET,59,DEGREES F,,
+04/24/2015,3,FEET,45.3,DEGREES F,10.2,MG/L
+04/24/2015,6,FEET,45.1,DEGREES F,9.4,MG/L
+04/24/2015,9,FEET,44.9,DEGREES F,9.6,MG/L
+04/24/2015,12,FEET,44.9,DEGREES F,,
+04/24/2015,15,FEET,44.7,DEGREES F,,
+04/24/2015,18,FEET,44.6,DEGREES F,,
+04/24/2015,21,FEET,44.4,DEGREES F,,
+06/16/2015,3,FEET,67.4,DEGREES F,8.2,MG/L
+06/16/2015,6,FEET,67.2,DEGREES F,8.4,MG/L
+06/16/2015,9,FEET,67.2,DEGREES F,8.8,MG/L
+06/16/2015,12,FEET,66.9,DEGREES F,,
+06/16/2015,15,FEET,63.3,DEGREES F,,
+06/16/2015,18,FEET,59.7,DEGREES F,,
+06/16/2015,21,FEET,58.8,DEGREES F,,
+07/23/2015,3,FEET,74.6,DEGREES F,7.4,MG/L
+07/23/2015,6,FEET,74.3,DEGREES F,7.3,MG/L
+07/23/2015,9,FEET,74.1,DEGREES F,7.3,MG/L
+07/23/2015,12,FEET,73.7,DEGREES F,,
+07/23/2015,15,FEET,73.2,DEGREES F,,
+07/23/2015,18,FEET,69.2,DEGREES F,,
+07/23/2015,21,FEET,68.9,DEGREES F,,
+08/22/2015,3,FEET,71.2,DEGREES F,7.4,MG/L
+08/22/2015,6,FEET,70.8,DEGREES F,7.4,MG/L
+08/22/2015,9,FEET,70.5,DEGREES F,7.2,MG/L
+08/22/2015,12,FEET,70.5,DEGREES F,,
+08/22/2015,15,FEET,70.3,DEGREES F,,
+08/22/2015,18,FEET,70.1,DEGREES F,,
+08/22/2015,21,FEET,69.9,DEGREES F,,
+04/18/2016,3,FEET,52.5,DEGREES F,10,MG/L
+04/18/2016,6,FEET,49.8,DEGREES F,10,MG/L
+04/18/2016,9,FEET,45.1,DEGREES F,11,MG/L
+04/18/2016,12,FEET,42.4,DEGREES F,,
+04/18/2016,15,FEET,41.3,DEGREES F,,
+04/18/2016,18,FEET,41.3,DEGREES F,,
+04/18/2016,21,FEET,41.3,DEGREES F,,
+06/23/2016,3,FEET,71.8,DEGREES F,7.8,MG/L
+06/23/2016,6,FEET,71.6,DEGREES F,7.8,MG/L
+06/23/2016,9,FEET,71.4,DEGREES F,8.2,MG/L
+06/23/2016,12,FEET,69.6,DEGREES F,,
+06/23/2016,15,FEET,65.1,DEGREES F,,
+06/23/2016,18,FEET,60.2,DEGREES F,,
+06/23/2016,21,FEET,60,DEGREES F,,
+07/18/2016,3,FEET,72.5,DEGREES F,,
+07/18/2016,6,FEET,72.1,DEGREES F,,
+07/18/2016,9,FEET,71.9,DEGREES F,,
+07/18/2016,12,FEET,71.9,DEGREES F,,
+07/18/2016,15,FEET,71.2,DEGREES F,,
+07/18/2016,18,FEET,66.2,DEGREES F,,
+07/18/2016,21,FEET,66.2,DEGREES F,,
+08/22/2016,3,FEET,70.8,DEGREES F,6.6,MG/L
+08/22/2016,6,FEET,70.8,DEGREES F,6.6,MG/L
+08/22/2016,9,FEET,70.8,DEGREES F,6.2,MG/L
+08/22/2016,12,FEET,70.8,DEGREES F,,
+08/22/2016,15,FEET,70.7,DEGREES F,,
+08/22/2016,18,FEET,70.5,DEGREES F,,
+08/22/2016,21,FEET,70.3,DEGREES F,,
+04/13/2017,3,FEET,42.9,DEGREES F,10,MG/L
+04/13/2017,6,FEET,42.2,DEGREES F,10,MG/L
+04/13/2017,9,FEET,42,DEGREES F,10,MG/L
+04/13/2017,12,FEET,41.1,DEGREES F,,
+04/13/2017,15,FEET,41,DEGREES F,,
+04/13/2017,18,FEET,40.8,DEGREES F,,
+04/13/2017,21,FEET,40.6,DEGREES F,,
+06/22/2017,3,FEET,69.8,DEGREES F,7.6,MG/L
+06/22/2017,6,FEET,69.2,DEGREES F,7.6,MG/L
+06/22/2017,9,FEET,68.3,DEGREES F,7.4,MG/L
+06/22/2017,12,FEET,61.8,DEGREES F,,
+06/22/2017,15,FEET,55.7,DEGREES F,,
+06/22/2017,18,FEET,53.4,DEGREES F,,
+06/22/2017,21,FEET,52.3,DEGREES F,,
+07/17/2017,3,FEET,73,DEGREES F,7.4,MG/L
+07/17/2017,6,FEET,72.3,DEGREES F,7.4,MG/L
+07/17/2017,9,FEET,71.4,DEGREES F,7.2,MG/L
+07/17/2017,12,FEET,68,DEGREES F,,
+07/17/2017,15,FEET,60.4,DEGREES F,,
+07/17/2017,18,FEET,56.1,DEGREES F,,
+07/17/2017,21,FEET,55.2,DEGREES F,,
+08/29/2017,3,FEET,66,DEGREES F,6.5,MG/L
+08/29/2017,6,FEET,66,DEGREES F,6.5,MG/L
+08/29/2017,9,FEET,66,DEGREES F,6.5,MG/L
+08/29/2017,12,FEET,65.8,DEGREES F,,
+08/29/2017,15,FEET,65.8,DEGREES F,,
+08/29/2017,18,FEET,59.7,DEGREES F,,
+08/29/2017,21,FEET,58.8,DEGREES F,,
+05/07/2018,3,FEET,50.5,DEGREES F,6.2,MG/L
+05/07/2018,6,FEET,48.5,DEGREES F,5.2,MG/L
+05/07/2018,9,FEET,46.2,DEGREES F,4.6,MG/L
+05/07/2018,12,FEET,44,DEGREES F,,
+05/07/2018,15,FEET,42.6,DEGREES F,,
+05/07/2018,18,FEET,42,DEGREES F,,
+05/07/2018,21,FEET,41.9,DEGREES F,,
+06/18/2018,3,FEET,72.3,DEGREES F,7,MG/L
+06/18/2018,6,FEET,71,DEGREES F,6.8,MG/L
+06/18/2018,9,FEET,68.7,DEGREES F,6.6,MG/L
+06/18/2018,12,FEET,62.4,DEGREES F,,
+06/18/2018,15,FEET,51.6,DEGREES F,,
+06/18/2018,18,FEET,48,DEGREES F,,
+06/18/2018,21,FEET,47.1,DEGREES F,,
+07/22/2018,3,FEET,73.2,DEGREES F,6.6,MG/L
+07/22/2018,6,FEET,73.2,DEGREES F,6.6,MG/L
+07/22/2018,9,FEET,72.8,DEGREES F,7.2,MG/L
+07/22/2018,12,FEET,71.4,DEGREES F,,
+07/22/2018,15,FEET,60.9,DEGREES F,,
+07/22/2018,18,FEET,54.6,DEGREES F,,
+07/22/2018,21,FEET,50.5,DEGREES F,,
+08/24/2018,3,FEET,71.9,DEGREES F,7,MG/L
+08/24/2018,6,FEET,72.1,DEGREES F,7.2,MG/L
+08/24/2018,9,FEET,72.1,DEGREES F,7,MG/L
+08/24/2018,12,FEET,72.1,DEGREES F,,
+08/24/2018,15,FEET,68.7,DEGREES F,,
+08/24/2018,18,FEET,60,DEGREES F,,
+08/24/2018,21,FEET,59.9,DEGREES F,,
+09/30/2018,3,FEET,58.1,DEGREES F,7.4,MG/L
+09/30/2018,6,FEET,58.2,DEGREES F,6.8,MG/L
+09/30/2018,9,FEET,58.2,DEGREES F,7,MG/L
+09/30/2018,15,FEET,58.2,DEGREES F,,
+09/30/2018,18,FEET,58.4,DEGREES F,,
+09/30/2018,21,FEET,58.8,DEGREES F,,
+05/27/2019,3,FEET,43,DEGREES F,8.2,MG/L
+05/27/2019,6,FEET,42.8,DEGREES F,8.4,MG/L
+05/27/2019,9,FEET,42.3,DEGREES F,8.4,MG/L
+05/27/2019,12,FEET,42.4,DEGREES F,,
+05/27/2019,15,FEET,42.2,DEGREES F,,
+05/27/2019,18,FEET,42,DEGREES F,,
+05/27/2019,21,FEET,41.5,DEGREES F,,
+06/15/2019,3,FEET,64.2,DEGREES F,7.8,MG/L
+06/15/2019,6,FEET,64.2,DEGREES F,8.4,MG/L
+06/15/2019,9,FEET,64,DEGREES F,8.4,MG/L
+06/15/2019,12,FEET,63.8,DEGREES F,,
+06/15/2019,15,FEET,55.4,DEGREES F,,
+06/15/2019,18,FEET,51.8,DEGREES F,,
+06/15/2019,21,FEET,51,DEGREES F,,
+07/15/2019,3,FEET,76.8,DEGREES F,6.8,MG/L
+07/15/2019,6,FEET,76.2,DEGREES F,6.6,MG/L
+07/15/2019,9,FEET,75,DEGREES F,7.2,MG/L
+07/15/2019,12,FEET,69,DEGREES F,,
+07/15/2019,15,FEET,62.4,DEGREES F,,
+07/15/2019,18,FEET,57.2,DEGREES F,,
+07/15/2019,21,FEET,57,DEGREES F,,
+08/19/2019,3,FEET,70.8,DEGREES F,7.2,MG/L
+08/19/2019,6,FEET,70.7,DEGREES F,7.2,MG/L
+08/19/2019,9,FEET,70.7,DEGREES F,7.6,MG/L
+08/19/2019,12,FEET,70.5,DEGREES F,,
+08/19/2019,15,FEET,70.1,DEGREES F,,
+08/19/2019,18,FEET,63.5,DEGREES F,,
+08/19/2019,21,FEET,62.4,DEGREES F,,
+07/18/2020,3,FEET,77.5,DEGREES F,6.8,MG/L
+07/18/2020,6,FEET,77,DEGREES F,7,MG/L
+07/18/2020,9,FEET,76.8,DEGREES F,6.9,MG/L
+07/18/2020,12,FEET,75.2,DEGREES F,,
+07/18/2020,15,FEET,68.7,DEGREES F,,
+07/18/2020,18,FEET,63.5,DEGREES F,,
+07/18/2020,21,FEET,63.3,DEGREES F,,
+08/15/2020,3,FEET,75.5,DEGREES F,7.4,MG/L
+08/15/2020,6,FEET,75.7,DEGREES F,7,MG/L
+08/15/2020,9,FEET,75.2,DEGREES F,7,MG/L
+08/15/2020,12,FEET,74.1,DEGREES F,,
+08/15/2020,15,FEET,72.6,DEGREES F,,
+08/15/2020,18,FEET,68.5,DEGREES F,,
+08/15/2020,21,FEET,63.3,DEGREES F,,
+09/22/2020,3,FEET,60.6,DEGREES F,7.7,MG/L
+09/22/2020,6,FEET,60.4,DEGREES F,7.7,MG/L
+09/22/2020,9,FEET,60.2,DEGREES F,,
+09/22/2020,12,FEET,60.2,DEGREES F,,
+09/22/2020,15,FEET,60,DEGREES F,,
+09/22/2020,18,FEET,60,DEGREES F,,
+09/22/2020,21,FEET,60,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/14/2007,Per note from the data collectors- this chemistry data was collected on Porcupine Lake- not Halsey Lake. - J. Filbert
+05/14/2007,calm- partly cloudy   26 feet deep   GPS N45 56.074  W088 35.619 (20 foot variance)
+06/18/2007,Partly Cloudy + Hazy.  Slightly Windy with No Chop.  At Least 3 Loons.
+07/17/2007,sunny- calm
+08/26/2007,sunny- breezy
+05/10/2008,Sunny breezy. Bottom at 23.4 feet. 
+06/13/2008,Sunny breezy. Bottom at 23.4 feet.  Sunny breezy. Bottom at 23.4 feet. 
+07/14/2008,Sunny breezy. Bottom at 23.2 feet. 
+08/10/2008,Sunny breezy. Bottom at 20 feet. 
+09/17/2008,Sunny breezy. Bottom at 21 feet. 
+05/15/2009,Sunny- 23.8 ft.  Windy
+06/13/2009,Sunny 22.8 ft.  Calm
+07/06/2009,Sunny 22.8 ft.  Windy
+08/08/2009,Sunny 22.7 ft.  Calm.  Lake very shallow- lots of new weed growth along shore.
+08/26/2009,Assisted by Mick Mlinar.  Clear sky.  Observed 3 loons. Assisted by Mick Mlinar.  Clear sky.  Observed 3 loons.
+09/09/2009,Sunny 20.0 ft.  Calm.  Lake very shallow- lots of new weed growth along shore.
+05/18/2010,Sunny and breezy. Very windy for three days prior to taking water sample.
+06/07/2010,Calm and sunny.
+2 loons spotted- their nest was raided by predators.
+Otter spotted.
+Volunteer- Mick Mlinar
+Lake level low
+
+06/20/2010,Sunny. Slight breeze.
+07/23/2010,Sunny and calm. Lake level up 5 inches from rain in June and July.
+08/23/2010,Sunny- slight breeze. Lake level up 9 inches total. Good rains in august. Still 9 inches below ordinary high water mark.
+09/18/2010,Sunny and breezy. Lake level continues to rise about another 7 inches to ordinary high water mark.
+05/20/2011,sunny- partly cloudy- light wind
+06/25/2011,sunny- calm- 4+ inches of rain prior week
+07/20/2011,sunny- slight breeze
+08/22/2011,sunny- slight breeze
+05/23/2012,filtered clouds- still pollen in water- very little rain in April/May had lot of windy days
+06/25/2012,partly cloudy and breezy
+07/27/2012,partly cloudy- heavy rain 2 days prior- breezy
+08/28/2012,sunny and calm- lake level lowest of all year
+05/15/2013,Windy- sunny- clean
+06/19/2013,Slight breeze- sunny- clean- some pollen in water.
+09/25/2013,Calm- sunny
+05/18/2014,Breezy; full sun
+06/16/2014,Full sun; slight breeze; pollen
+07/18/2014,full sun; slight breeze
+08/24/2014,cloudy; breezy
+09/23/2014,Full sun; no breeze; a lot of rain throughout September
+04/24/2015,overcast- slight breeze- 43 degrees
+06/16/2015,sunny- slight breeze- 55 degrees
+07/23/2015,sunny- slight breeze- 75 degrees
+08/22/2015,sunny- breezy- 73 degrees- lake level 12 inches below June level
+04/18/2016,Overcast slight breeze 68 degrees
+06/23/2016,P/cloudy calm 67 degrees
+07/18/2016,Overcast slight breeze 68 degrees
+08/22/2016,Full sun calm 64 degrees. Floating blobs green/blue algae
+05/27/2019,cloudy- slightly breezy
+06/15/2019,clear- breezy sunny- 56 degrees
+07/15/2019,overcast- slight breeze- 75
+08/19/2019,Clear- still- 72 degrees
+Decent Rain last 3 weeks
+06/08/2020,Sun- not clouds- breeze
+07/18/2020,Cloudy- breeze- 80 degree F air temp- 1" rain at 5AM
+08/15/2020,Party cloudy- breeze 73 degrees air temp. 
+09/22/2020,Clear- calm 66 degrees F/air temp
+
+
+
+
+Start Date,Group Name,Project Name
+10/20/1999,Data Collectors,LAKE CLASSIFICATION FISHERIES
+05/14/2007,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/18/2007,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/17/2007,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/26/2007,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/10/2008,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/13/2008,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/14/2008,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/10/2008,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+09/17/2008,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/15/2009,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/13/2009,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/06/2009,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/14/2009,Robert Ferris,Florence County Land Conservation Department- Secchi Data 
+08/08/2009,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/10/2009,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/26/2009,Maureen Ferry,Florence County Land Conservation Department- Secchi Data 
+09/09/2009,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+04/18/2010,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/18/2010,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/07/2010,Paul Tikusis,Florence County Land Conservation Department- Secchi Data 
+06/20/2010,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/23/2010,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/23/2010,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+09/18/2010,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/20/2011,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/25/2011,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/20/2011,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/22/2011,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/23/2012,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/25/2012,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/27/2012,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/28/2012,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/15/2013,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/19/2013,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/22/2013,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/06/2013,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/16/2013,Mick Mlinar,
+09/25/2013,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/18/2014,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/16/2014,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/18/2014,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/24/2014,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+09/23/2014,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+04/24/2015,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/16/2015,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/23/2015,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/22/2015,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+04/18/2016,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/23/2016,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/16/2016,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/18/2016,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/22/2016,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+04/13/2017,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/22/2017,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/17/2017,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/29/2017,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/07/2018,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/18/2018,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/22/2018,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/24/2018,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+09/30/2018,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+04/27/2019,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+05/27/2019,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/15/2019,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/15/2019,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/19/2019,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/08/2020,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+06/18/2020,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+07/18/2020,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+08/15/2020,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County
+09/22/2020,Mick Mlinar,Citizen Lake Monitoring - Water Quality - Porcupine Lake- Florence County

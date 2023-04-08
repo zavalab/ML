@@ -1,0 +1,419 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Townline Lake,Oneida,1609600,NO,44,,443278,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/30/1979,,,,,,,,,,,,,
+8190307,07/19/1993,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,07/27/1993,5.25,NO,1.6,,,53,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,08/04/1993,4,NO,1.2,,,57,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,08/11/1993,5,NO,1.5,,,54,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,08/26/1993,5.5,NO,1.7,,,53,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,09/01/1993,4.5,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+1,05/02/1994,,,,,30,,54,,,,,,
+8190307,05/10/1994,5.75,NO,1.7,,,52,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8190307,05/19/1994,6.5,NO,2,,,50,,,,,,BROWN,1-Beautiful, could not be nicer
+8190307,06/01/1994,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190307,06/13/1994,9.5,NO,2.9,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190307,07/06/1994,7.75,NO,2.4,,,48,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,07/16/1994,5.25,NO,1.6,,,53,,,,,,BROWN,2-Very minor aesthetic problems
+8190307,07/29/1994,7.25,NO,2.2,,,49,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190307,08/13/1994,4.25,NO,1.3,,,56,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190307,08/25/1994,6.25,NO,1.9,,,51,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190307,09/09/1994,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190307,05/15/1995,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190307,05/26/1995,11.33,NO,3.4,,,42,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190307,06/03/1995,9.5,NO,2.9,,,45,,,,,CLEAR,,1-Beautiful, could not be nicer
+25441554,06/04/2008,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/16/2008,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/03/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/10/2008,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/18/2008,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/27/2008,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/03/2008,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/12/2008,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/30/2008,5.25,NO,1.6,,,53,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,09/05/2008,4.75,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,06/20/2009,7,NO,2.1,,,49,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/27/2009,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/05/2009,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/18/2009,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/28/2009,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/31/2009,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/08/2009,4.75,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/23/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/30/2009,3.5,NO,1.1,,,59,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,09/08/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,09/16/2009,5.75,NO,1.7,,,52,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,05/29/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/05/2010,7.75,NO,2.4,,,48,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/15/2010,6.25,NO,1.9,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/03/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/15/2010,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/25/2010,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,08/10/2010,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,08/17/2010,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,08/26/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,09/09/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,07/04/2011,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+25441554,07/28/2011,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+25441554,08/05/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,08/14/2011,2,NO,0.6,,,67,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+25441554,09/06/2011,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+25441554,09/16/2011,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+25441554,05/12/2012,6.5,NO,2,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,05/21/2012,7.75,NO,2.4,,,48,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,05/28/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/05/2012,5.5,NO,1.7,,,53,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/12/2012,5.25,NO,1.6,,,53,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/19/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,06/26/2012,7.25,NO,2.2,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/10/2012,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/18/2012,6,NO,1.8,,,51,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/31/2012,4.75,NO,1.4,,,55,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+25441554,08/21/2012,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,05/29/2013,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/17/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/24/2013,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/02/2013,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/07/2013,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/13/2013,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/24/2013,5.25,NO,1.6,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/06/2013,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/17/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+83679933,09/04/2013,6.75,NO,2.1,,,50,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/28/2014,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+25441554,07/05/2014,3.5,NO,1.1,,,59,,,NORMAL,3.5,CLEAR,YELLOW,2-Very minor aesthetic problems
+83679933,08/10/2014,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/15/2014,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/20/2014,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+21928796,04/28/2015,7.7,N,2.3,13.8,66.4,46,61,55,,,,,
+16073539,06/18/2015,4.1,N,1.2,2.67,34.1,57,55,42,,,,,
+16073539,07/15/2015,6.1,NO,1.9,5.41,32,51,55,48,,,,,
+83679933,08/04/2015,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+16073539,08/18/2015,6,N,1.8,14.3,25.4,51,53,55,,,,,
+83679933,09/09/2015,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/20/2015,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+34972236,10/22/2015,4.1,N,1.2,13.4,38.7,57,56,54,,,,,
+21928796,02/23/2016,4.7,N,1.4,,24.9,55,53,,,,,,
+83679933,06/02/2016,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/30/2016,4.25,NO,1.3,,,56,,,,,,YELLOW,1-Beautiful, could not be nicer
+83679933,08/14/2016,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/18/2016,3.25,NO,1,,,60,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/05/2017,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/08/2017,3.25,NO,1,,,60,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+83679933,07/16/2018,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,07/29/2018,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/16/2018,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,08/25/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/09/2018,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/22/2018,3,NO,0.9,,,61,,,NORMAL,,,YELLOW,1-Beautiful, could not be nicer
+83679933,09/29/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,05/15/2019,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,05/25/2019,3,NO,0.9,,,61,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+195511473,05/26/2019,4.25,NO,1.3,,,56,,,HIGH,,MURKY,YELLOW,1-Beautiful, could not be nicer
+83679933,06/05/2019,,NO,,,,,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,06/11/2019,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+195511473,06/15/2019,4.75,NO,1.4,,,55,,,HIGH,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,06/22/2019,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+195511473,06/29/2019,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+195511473,07/07/2019,5.5,NO,1.7,,,53,,,HIGH,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,07/14/2019,7.25,NO,2.2,,,49,,,HIGH,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,07/21/2019,6.25,NO,1.9,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+195511473,08/11/2019,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+195511473,08/17/2019,6,NO,1.8,,,51,,,NORMAL,,MURKY,,1-Beautiful, could not be nicer
+195511473,09/28/2019,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,05/19/2020,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,06/09/2020,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,06/13/2020,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,06/24/2020,6.5,NO,2,,,50,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,07/04/2020,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,07/09/2020,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,07/27/2020,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+195511473,08/04/2020,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+83679933,08/23/2020,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+83679933,09/11/2020,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+83679933,09/22/2020,3.5,NO,1.1,,,59,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+195511473,09/28/2020,3,NO,0.9,,,61,,,NORMAL,,MURKY,YELLOW,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/30/1979,,,23,C,,
+04/28/2015,,,10.3,C,10.7,MG/L
+06/18/2015,,,14.2,C,0.1,MG/L
+07/15/2015,,,16.5,C,0.2,MG/L
+08/18/2015,,,21.0,C,6.0,MG/L
+10/22/2015,,,10.0,C,10,MG/L
+02/23/2016,,,0.4,C,10.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/30/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/19/1993,Light ripple- NW wind 5 mph- no rain for 5 days- light boat traffic past 24 hours- test depth 19.1 feet.    
+07/27/1993,Sunny- calm wind- windy past 48 hours- 19' depth at test site    
+08/04/1993,Mostly cloudy- light wind- 4" waves- some heavy rains in last 48 hours- test site depth 18.7"    
+08/11/1993,Bright sun- light E wind- strong S wind 48 hours ago with 3' waves    
+08/26/1993,Bright sun- lake is flat and calm- no wind.  Hot and humid- test depth is 18.5.    
+09/01/1993,Clear sky- sunny- moderate wind and waves.  Heavy rain for two days.    
+05/02/1994,COMPLAINT INVEST.    
+05/10/1994,Bright sun-water calm.  Strong winds the past few days.  Water temp. 44 degrees @ 18'- 48 degrees @ 5'.  Test depth 18'.    
+05/19/1994,Bright sun-wind calm.  Water temp. 58 degrees @ 5'- 55 degrees @ 18'.  Test depth 18'.    
+06/01/1994,Mostly sunny-light chop on lake.    
+06/13/1994,Mostly sunny- lake calm.    
+07/06/1994,Partly cloudy- wind calm.  Heavy rain + wind the past 3 days.    
+07/16/1994,Mostly cloudy- light wind + waves- test depth 19'.    
+07/29/1994,Hazy sun- wind calm.    
+08/13/1994,Partly cloudy- light wind + waves- test depth 19'.    
+08/25/1994,Calm wind-sunny-no rain or strong wind the past 10 days.    
+09/09/1994,Wind light- sunny-strong winds this past week.  Test depth 19.  Water temp. 59 degrees-19'- 61 degrees-5'.    
+05/15/1995,Strong winds-heavy rain the past few days-water temp. 19' 45 degrees- 5' 48 degrees- test depth 19.5'.    
+05/26/1995,Clearest cleanest water I have ever seen in this lake.  Sunny/light wind-test depth 19'- water temp. 50 degrees @ 19'- 55 degrees @ 5'- weather quiet past week.    
+06/03/1995,Sunny no wind-no rain or winds the past week test depth 18.6.  Water temp. 50 degrees @ 18'- 63 degrees @ 5'.    
+06/04/2008,Cloudy skies- choppy on the water- moderate breeze. Sandy Wickum was assisting with training.
+06/16/2008,Overcast skies- strong breeze
+07/03/2008,Occasional clouds- sunny when reading was taken- slight breeze. 
+07/10/2008,Overcast- sun trying to break through when doing the reading- slight breeze.
+07/18/2008,Partly sunny (80% clouds)- calm water- light boat traffic.
+07/27/2008,Blue skies- moderate breeze- little boat traffic. Blue skies- moderate breeze- little boat traffic.
+08/03/2008,Blue skies- slight breeze- no boating activity.
+08/12/2008,No waves yesterday or today- 95 % overcast- sun barely peeking through. No waves yesterday or today- 95 % overcast- sun barely peeking through.
+08/30/2008,Sunny- blue skies- calm- light boat traffic. Sunny- blue skies- calm- light boat traffic.
+09/05/2008,Water level down 6-8 inches- partly sunny- light breeze
+06/20/2009,Sunny blue skies- light breeze.  Lloyd Rossa was the skipper.
+06/27/2009,Cloudy- totally overcast- moderate breeze- minimal boat traffic. Lloyd 
+Rossa assisted.
+07/05/2009,25% Cloudy- blue skies- moderate breeze- light boat traffic. Lloyd 
+Rossa assisted.
+07/18/2009,100% overcast- calm- light boat traffic- light breeze. Lloyd Rossa assisted.
+07/28/2009,40
+
+
+60% overcast- moderate breeze- no boat traffic.  Lloyd Rossa assisted.
+
+
+
+
+
+07/31/2009,75 % overcast light breeze and boat traffic. Lloyd Rossa assisted.
+08/08/2009,100% overcast- light breeze heavy boat traffic + jet skis.  Lloyd Rossa assisted.
+08/23/2009,No clouds- sunny blue skies- no breeze- light boat traffic.   Lloyd Rossa assisted.
+08/30/2009,50% sunny skies- choppy- moderate breeze- a few fishing boats.  Lloyd Rossa assisted.
+09/08/2009,90% sunny- calm- light breeze- no boat traffic. Lloyd Rossa assisted.
+09/16/2009,90% sunny skies- light breeze- minimal boat traffic. Lloyd "Rossa assisted.
+05/29/2010,Sunny- no clouds.  7-8 fishing boats are on the lake.  Calm- minimal traffic for holiday weekend
+06/05/2010,Sunny- clouds appear to be cirrus- water is calm
+06/15/2010,Totally overcast- choppy- 8-10 mph wind- 2 fishing boats on lake.
+07/03/2010,Sunny- few clouds-  10-15 mph winds- lot of boat traffic
+07/15/2010,Little boat traffic- sunny- 10 % clouds- stormed all day on 7/14  when it was very windy and choppy
+07/25/2010,Sunny light breeze- 20 % clouds- lot of boats- skiing- tubing all PM
+08/10/2010,Cloudy- light breeze- calm- no boats
+08/17/2010,Sunny blue skies- breezy- lots of skiers - yesterday 30 mph wind.
+08/26/2010,Blue skies- light breeze- 5 % cloud cover.
+09/09/2010,Blue skies- 50 % cloud cover- light breeze- 2 kayakers nearby
+07/04/2011,Sunny- blue skies-fluffy clouds. 20% cloud cover.  Lots of boat traffic on 7/3 and 7/4
+
+
+
+
+
+
+
+
+
+07/28/2011,Sunny- 75% cloud cover- puffy clouds. Some boat traffic- tubing + sailing. Light wind.
+08/05/2011,Sunny- few high clouds- minimal boat traffic. No wind.
+08/14/2011,Sunny- 40% cloud cover- clouds are fluffy white.Some boat traffic- more algae.
+09/06/2011,Sunny- 10% cloud cover- calm- no boat traffic.
+09/16/2011,Sunny- 10% cloud cover- calm- no boat traffic.
+05/12/2012,Slight overcast skies- fairly calm water- minimal boat traffic- light breeze
+05/21/2012,Minimal boat traffic- 60% overcast skies-light breeze 10-12 mph
+05/28/2012,Wind 12-15mph- some boat traffic- choppy water- 75% cloud cover- lot of boat traffic over the weekend.
+06/05/2012,Light breeze- a few crappie fisherman out- 75% cloud cover
+06/12/2012,95% sunny skies- 15 mph winds- choppy- no boat traffic
+06/19/2012,25% sunny skies- moderate winds(15mph)- light boat traffic
+06/26/2012,Clear sunny skies- very light breeze- no boat traffic
+07/10/2012,Puffy clouds- 75% sunny- light breeze- couple of boats on the lake- pair of loons fishing nearby
+07/18/2012,Partly sunny- 80 % cloud cover- just stopped raining- light breeze- 1-2 boats on the lake
+07/31/2012,Sunny (10% cloud cover)- light breeze- heavy boat traffic the last few days
+08/21/2012,Sunny- 25% cloud cover- light breeze- lot of boat traffic today
+05/29/2013,Sunny- blue sky- no clouds- light breeze- no  boat traffic. While we list Noreen + Lloyd as data collectors- Noreen always does the readings to ensure consistency.
+06/17/2013,90 % fluffy cloud cover- 3-5 mph breeze- no boat traffic.
+06/24/2013,Sunny blue sky- 10 % cloud cover - cumulous + cirrus clouds
+07/02/2013,5 % cloud cover- blue sky- lots of tubing + boat traffic.
+07/07/2013,Overcast- hazy- little direct sunlight- some water skiers are on the lake.
+07/13/2013,10 % cloud cover- light breeze- several water skiers are on lake.
+07/24/2013,90 % fluffy cumulous cloud cover- very light breeze- tubing and pontoon boats on lake.
+08/06/2013,Totally overcast- no traffic- light breeze.
+08/17/2013,Sunny- no clouds- no boat traffic all week- strands of blue - green algae appeared all over the lake this week. Sunny- no clouds- no boat traffic all week- strands of blue - green algae appeared all over the lake this week. I could not believe the seechi disk reading this week...10 ft was amazing- but did it twice with my back to the sun and got the same reading!
+09/04/2013,No boat traffic- winds about 10-12 mph- 50% sunny.  No algae present  (Algae at last reading was only present for a week or so.)
+06/28/2014,70% cloud cover- stiff breeze(15 mph)- light boat traffic
+07/05/2014,95% sunny- stiff breeze- moderate boat traffic
+08/15/2014,Sunny- no clouds- no boat traffic- loon on lake- 5-10 mph breeze
+09/20/2014,70% clouds- light breeze- no boats
+08/04/2015,Moderate breeze- water was choppy- 40% cloud cover- no boat traffic.
+09/09/2015,Moderate breeze- slightly choppy- 80% cloud cover- no boat trafffic.
+09/20/2015,Minimal cloud cover- few boats out.
+06/02/2016,4-5 boats out- sunny.
+07/30/2016,20% cloud cover- 2 pontoons on lake.
+08/14/2016,40% cloud cover- very little boat traffic.
+09/18/2016,Clear blue sky. Little boat traffic.
+08/05/2017,40%  cloud cover- 5-10 mph wind- 2-3 boats on lake
+09/08/2017,10% cloud cover- 10-15 mph wind- no boat traffic
+07/16/2018,5% cloud cover- 8-12 mph winds- no other boats on lake
+07/29/2018,85% cloud cover- winds 8-12 mph-1-2 boats on lake
+08/16/2018,80% cloud cover - rather overcast-  calm 3-4 mph winds-1-2 boats out 
+08/25/2018,100% overcast- 5-7 mph winds- 1 other boat on lake 
+09/09/2018,Clear- sunny- winds 5-8 mph
+09/22/2018,Overcast- very breezy- 10-15mph
+09/29/2018,80% cloud cover- light winds 5-8 mph- 1 other boat out
+05/15/2019,No clouds- winds 5-8 mph- 1 fishing boat.
+05/25/2019,40% cloud cover- brisk breeze- 8-10 mph- 2-3 boats on lake.
+06/05/2019,25% cloud cover- winds 8-10 mph- couple fishing boats- loon on the lake.
+06/11/2019,95% cloudy- calm- little wind. Several boats on lake- saw a loon on Townline and in channel between Townline + Planting Ground.
+08/23/2020,70% sunny- 7-8 mph breeze
+09/11/2020,Hazy- sun breaking through
+
+
+
+
+Start Date,Group Name,Project Name
+07/30/1979,Data Collectors,Migrated from STORET Legacy
+07/19/1993,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/27/1993,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/04/1993,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/11/1993,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/26/1993,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/01/1993,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/02/1994,Data Collectors,LAKE EVALUATION
+05/10/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/19/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/01/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/13/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/06/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/16/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/29/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/13/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/25/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/09/1994,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/15/1995,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/26/1995,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/03/1995,John Kaberlein,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/04/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/16/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/03/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/10/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/18/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/27/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/03/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/12/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/30/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/05/2008,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/20/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/27/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/05/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/18/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/28/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/31/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/08/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/23/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/30/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/08/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/16/2009,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/29/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+05/29/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/05/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Planting Ground Lake - West Lobe
+06/05/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/15/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/03/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/15/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/25/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/10/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/17/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/26/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/09/2010,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/04/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/28/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/05/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/14/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/06/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/16/2011,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/12/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/21/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/28/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/05/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/12/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/19/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/26/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/10/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/18/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/31/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/21/2012,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/29/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/17/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/24/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/02/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/07/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/13/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/24/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/06/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/17/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/04/2013,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/28/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/05/2014,Noreen Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/10/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/15/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/20/2014,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+04/28/2015,Brenton Butterfield - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+06/18/2015,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+07/15/2015,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+08/04/2015,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/18/2015,Tim Hoyman - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+09/09/2015,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/20/2015,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+10/22/2015,Todd Hanke - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+02/23/2016,Brenton Butterfield - Onterra- LLC,THREE LAKES WATERFRONT ASSOCIATION: LMI-Three Lakes Management Planning Project- Phases V + VI
+06/02/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/30/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/14/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/18/2016,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/05/2017,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/08/2017,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/16/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/29/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/16/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/25/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/09/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/22/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/29/2018,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/15/2019,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/25/2019,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/26/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/05/2019,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/11/2019,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/15/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/22/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/29/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/07/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/14/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/21/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/11/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/17/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/28/2019,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+05/19/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/09/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/13/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+06/24/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/04/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/09/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+07/27/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/04/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+08/23/2020,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/11/2020,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/22/2020,Noreen and Lloyd Rossa,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole
+09/28/2020,Jenny Jensen,Citizen Lake Monitoring - Water Quality - Townline Lake - Deep Hole

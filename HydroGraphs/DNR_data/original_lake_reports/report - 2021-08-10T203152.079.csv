@@ -1,0 +1,61 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Kolpack Lake,Shawano,189400,NE,59,,10014655,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000093,09/02/2005,5.9,NO,1.8,6.56,20,52,51,49,,,,,
+130849166,06/16/2020,11,NO,3.3,,,43,,,,,,,
+130849166,07/21/2020,8,NO,2.4,,,47,,,,,,,
+130849166,08/19/2020,6,NO,1.8,,,51,,,,,,,
+130849166,09/17/2020,6,NO,1.8,,,51,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/02/2005,,,24.2,C,7.5,MG/L
+06/16/2020,1,FEET,70.1,DEGREES F,,
+06/16/2020,3,FEET,70.4,DEGREES F,,
+06/16/2020,5,FEET,70,DEGREES F,,
+06/16/2020,7,FEET,69.4,DEGREES F,,
+06/16/2020,9,FEET,67,DEGREES F,,
+06/16/2020,11,FEET,63.1,DEGREES F,,
+06/16/2020,13,FEET,59.8,DEGREES F,,
+07/21/2020,1,FEET,78.1,DEGREES F,6.7,MG/L
+07/21/2020,3,FEET,77,DEGREES F,6.78,MG/L
+07/21/2020,5,FEET,76.3,DEGREES F,6.83,MG/L
+07/21/2020,7,FEET,75,DEGREES F,6.99,MG/L
+07/21/2020,9,FEET,73.6,DEGREES F,7.21,MG/L
+07/21/2020,11,FEET,70.5,DEGREES F,7.61,MG/L
+07/21/2020,13,FEET,67,DEGREES F,8.05,MG/L
+08/19/2020,1,FEET,79.1,DEGREES F,6.64,MG/L
+08/19/2020,3,FEET,77.4,DEGREES F,6.75,MG/L
+08/19/2020,5,FEET,76.7,DEGREES F,6.83,MG/L
+08/19/2020,7,FEET,76,DEGREES F,7.01,MG/L
+08/19/2020,9,FEET,75.2,DEGREES F,7.1,MG/L
+08/19/2020,11,FEET,73.1,DEGREES F,7.31,MG/L
+08/19/2020,13,FEET,70,DEGREES F,7.64,MG/L
+09/17/2020,1,FEET,63.4,DEGREES F,7.44,MG/L
+09/17/2020,3,FEET,63.2,DEGREES F,7.58,MG/L
+09/17/2020,5,FEET,63,DEGREES F,7.66,MG/L
+09/17/2020,7,FEET,63.2,DEGREES F,7.74,MG/L
+09/17/2020,9,FEET,61.9,DEGREES F,8.02,MG/L
+09/17/2020,11,FEET,61.2,DEGREES F,8.15,MG/L
+09/17/2020,13,FEET,59.9,DEGREES F,8.33,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/02/2005,Mary Gansberg,NER Watershed Rotation Sites (Non_LTT)
+06/16/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty
+07/21/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty
+08/19/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty
+09/17/2020,Emily Hennigillis,FOX WOLF WATERSHED ALLIANCE: LMI - Watershed Restoration Coordination Shawano + Menominee Cty

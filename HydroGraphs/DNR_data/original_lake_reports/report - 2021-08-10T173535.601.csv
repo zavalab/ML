@@ -1,0 +1,548 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Red Cedar Lake,Jefferson,813100,SC,28,,283223,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188763,06/09/2004,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188763,06/20/2004,5,YES,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,06/27/2004,6,YES,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,05/30/2005,5,YES,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,06/02/2005,5,YES,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,08/21/2005,4.5,YES,1.4,,,55,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,09/16/2005,3.75,YES,1.1,,,58,,,LOW,,CLEAR,YELLOW,
+8188763,04/22/2006,5,YES,1.5,,27,54,54,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,05/22/2006,4.75,YES,1.4,,24,55,53,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,06/23/2006,5,YES,1.5,4.63,27,54,54,46,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,07/22/2006,4.75,YES,1.4,6.56,28,55,54,49,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,08/11/2006,4.5,YES,1.4,129,66,55,61,72,NORMAL,,CLEAR,YELLOW,
+1,09/17/2006,,,,3.2,18,,51,44,,,,,
+1,10/30/2006,,,,10.4,23,,52,53,,,,,
+8188763,05/02/2007,5,YES,1.5,,35,54,56,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,06/05/2007,5,YES,1.5,3.12,45,54,58,43,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,07/15/2007,4,YES,1.2,7.82,79,57,62,50,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,08/17/2007,5,YES,1.5,9.83,25,54,53,52,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,10/17/2007,5,NO,1.5,2.87,17,54,50,43,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,05/05/2008,5.5,YES,1.7,,22,53,52,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,06/14/2008,5.5,YES,1.7,3.48,24,53,53,44,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,07/20/2008,3.75,NO,1.1,0.48,31,58,55,29,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188763,08/17/2008,1,NO,0.3,13.9,28,77,54,55,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188763,05/19/2009,6,YES,1.8,,17,51,50,,HIGH,4.1,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8188763,06/13/2009,4.5,NO,1.4,,28,55,54,,HIGH,4.0,MURKY,BROWN,
+8188763,07/26/2009,4,NO,1.2,3.43,32,57,55,44,HIGH,3.8,MURKY,YELLOW,2-Very minor aesthetic problems
+8188763,08/17/2009,4.4,NO,1.3,22.3,60,56,60,58,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,09/20/2009,4.3,NO,1.3,,,56,,,NORMAL,3.3,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,05/31/2010,5,YES,1.5,,26,54,53,,NORMAL,3.7,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,06/20/2010,5.5,YES,1.7,14,26,53,53,55,NORMAL,3.94,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,07/25/2010,4,NO,1.2,14.3,40,57,57,55,HIGH,4.3,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188763,08/22/2010,4.5,NO,1.4,10.9,36,55,56,53,HIGH,4.0,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188763,06/02/2011,5.5,YES,1.7,,26,53,53,,NORMAL,3.7 (index),CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,07/13/2011,4.5,NO,1.4,3.73,25,55,53,45,NORMAL,3.5,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,08/04/2011,3.25,NO,1,8.37,29,60,54,51,NORMAL,3.4,MURKY,BROWN,2-Very minor aesthetic problems
+8188763,08/28/2011,5,YES,1.5,3.06,22,54,52,43,NORMAL,3.1,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,03/25/2012,4.5,YES,1.4,,55,55,59,,LOW,3.4,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188763,06/15/2012,4.5,YES,1.4,1.79,26,55,53,39,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188763,07/10/2012,2.5,NO,0.8,18.7,47,64,58,57,LOW,2.2,,YELLOW,
+8188763,08/12/2012,,,,20.8,21,,52,58,,,,,
+8188763,05/19/2013,4,YES,1.2,,35,57,56,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188763,06/30/2013,4.5,NO,1.4,4.09,20.9,55,52,45,NORMAL,3'  10",CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188763,07/25/2013,3.5, ,1.1,72.7,37.9,59,56,67,NORMAL,3.7,MURKY,BROWN,2-Very minor aesthetic problems
+8188763,08/24/2013,4.5,NO,1.4,7.68,24.4,55,53,50,NORMAL,3.4,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188763,05/28/2014,5,YES,1.5,,19.1,54,51,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188763,06/22/2014,5,NO,1.5,3.69,23,54,52,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,07/23/2014,4,NO,1.2,5.68,22,57,52,48,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,08/26/2014,3,NO,0.9,32.8,38.6,61,56,61,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188763,05/28/2015,4,YES,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188763,06/29/2015,4.5,YES,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188763,06/30/2015,,,,7.88,37.6,,56,50,,,,,
+8188763,07/27/2015,2.5,NO,0.8,6.26,28.2,64,54,49,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188763,08/25/2015,,,,13.7,31.6,,55,55,,,,,
+7000105,03/29/2016,5.3,YES,1.6,,20,53,51,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000105,05/05/2016,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000105,06/28/2016,5,YES,1.5,2.69,24.6,54,53,42,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000105,07/22/2016,,,,3.35,30.4,,55,44,,,,,
+7000105,08/23/2016,3.5,YES,1.1,2.92,24.5,59,53,43,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+7000105,04/17/2017,3.9,NO,1.2,,,58,,,NORMAL,,CLEAR,,
+7000105,06/21/2017,4.5,YES,1.4,4.16,28.9,55,54,46,NORMAL,,CLEAR,,
+7000105,07/18/2017,4.8,,1.5,6.7,33.8,55,55,49,HIGH,,CLEAR,,
+7000105,08/13/2017,4.5,NO,1.4,7.13,30.9,55,55,50,NORMAL,,CLEAR,,
+7000105,05/07/2018,,,,,35.2,,56,,,,,,
+19205950,05/07/2018,4.8,YES,1.5,,,55,,,HIGH,,CLEAR,,2-Very minor aesthetic problems
+7000105,06/28/2018,,,,14.2,46.4,,58,55,,,,,
+19205950,06/28/2018,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000105,07/26/2018,3,YES,0.9,3,17.8,61,50,43,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+7000105,08/30/2018,,,,2.76,29,,54,42,,,,,
+19205950,08/30/2018,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000105,05/03/2019,,,,,21.6,,52,,,,,,
+19205950,05/03/2019,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000105,06/26/2019,2.9,NO,0.9,48.8,74.8,62,62,64,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000105,07/31/2019,4.1,YES,1.2,2.18,28.6,57,54,41,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000105,08/27/2019,,,,2.47,19.8,,51,42,,,,,
+19205950,08/27/2019,4,YES,1.2,,,57,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000105,06/10/2020,,,,4.92,30.1,,55,47,,,,,
+19205950,06/10/2020,5,YES,1.5,,,54,,,NORMAL,,,,1-Beautiful, could not be nicer
+7000105,07/08/2020,5,YES,1.5,6.94,27,54,54,49,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+7000105,07/09/2020,,,,,,,,,,,,,
+7000105,09/02/2020,5.2,YES,1.6,2.99,19,53,51,43,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/30/2005,1.5,FEET,44,DEGREES F,5,MG/L
+06/02/2005,1,FEET,66,DEGREES F,6,MG/L
+06/02/2005,3,FEET,64,DEGREES F,4.2,MG/L
+08/21/2005,3,FEET,72,DEGREES F,6,MG/L
+09/16/2005,1,FEET,66,DEGREES F,6,MG/L
+04/22/2006,1,FEET,61.1,DEGREES F,8,MG/L
+04/22/2006,2,FEET,60.8,DEGREES F,6,MG/L
+04/22/2006,3,FEET,60.8,DEGREES F,6,MG/L
+04/22/2006,4,FEET,60.8,DEGREES F,6,MG/L
+05/22/2006,1,FEET,62.7,DEGREES F,7,MG/L
+05/22/2006,2,FEET,62.4,DEGREES F,7,MG/L
+05/22/2006,3,FEET,62,DEGREES F,7,MG/L
+05/22/2006,4,FEET,62,DEGREES F,7,MG/L
+06/23/2006,1,FEET,71.1,DEGREES F,5,MG/L
+06/23/2006,2,FEET,70.8,DEGREES F,5,MG/L
+06/23/2006,3,FEET,70.5,DEGREES F,5,MG/L
+06/23/2006,4,FEET,70.2,DEGREES F,5,MG/L
+07/22/2006,1,FEET,74.1,DEGREES F,3,MG/L
+07/22/2006,2,FEET,72.6,DEGREES F,3,MG/L
+07/22/2006,3,FEET,71.9,DEGREES F,4,MG/L
+07/22/2006,4,FEET,71.9,DEGREES F,3,MG/L
+08/11/2006,1,FEET,71.2,DEGREES F,3,MG/L
+08/11/2006,2,FEET,70.8,DEGREES F,3,MG/L
+08/11/2006,3,FEET,69.6,DEGREES F,4,MG/L
+08/11/2006,4,FEET,68.3,DEGREES F,2,MG/L
+05/02/2007,1,FEET,62,DEGREES F,6,MG/L
+05/02/2007,2,FEET,61.9,DEGREES F,6,MG/L
+05/02/2007,3,FEET,60.1,DEGREES F,6,MG/L
+05/02/2007,4,FEET,58.2,DEGREES F,6,MG/L
+05/02/2007,5,FEET,57.3,DEGREES F,5,MG/L
+06/05/2007,1,FEET,73.2,DEGREES F,6,MG/L
+06/05/2007,2,FEET,71.9,DEGREES F,6,MG/L
+06/05/2007,3,FEET,70.8,DEGREES F,5,MG/L
+06/05/2007,4,FEET,67.4,DEGREES F,4,MG/L
+06/05/2007,5,FEET,66.2,DEGREES F,3,MG/L
+07/15/2007,1,FEET,68,DEGREES F,3,MG/L
+07/15/2007,2,FEET,66.9,DEGREES F,4,MG/L
+07/15/2007,3,FEET,66.7,DEGREES F,5,MG/L
+07/15/2007,4,FEET,66.5,DEGREES F,8,MG/L
+08/17/2007,1,FEET,69.6,DEGREES F,3,MG/L
+08/17/2007,2,FEET,69.6,DEGREES F,3,MG/L
+08/17/2007,3,FEET,69.2,DEGREES F,4,MG/L
+08/17/2007,4,FEET,68.5,DEGREES F,2,MG/L
+08/17/2007,5,FEET,68.1,DEGREES F,2,MG/L
+10/17/2007,1,FEET,57.2,DEGREES F,6,MG/L
+10/17/2007,2,FEET,56.8,DEGREES F,6,MG/L
+10/17/2007,3,FEET,56.1,DEGREES F,6,MG/L
+10/17/2007,4,FEET,55.9,DEGREES F,6,MG/L
+10/17/2007,5,FEET,56,DEGREES F,6,MG/L
+05/05/2008,1,FEET,57.3,DEGREES F,6,MG/L
+05/05/2008,2,FEET,57.3,DEGREES F,6,MG/L
+05/05/2008,3,FEET,57.2,DEGREES F,6,MG/L
+05/05/2008,4,FEET,57.2,DEGREES F,6,MG/L
+05/05/2008,5,FEET,57,DEGREES F,6,MG/L
+06/14/2008,1,FEET,68.7,DEGREES F,5,MG/L
+06/14/2008,2,FEET,68.1,DEGREES F,5,MG/L
+06/14/2008,3,FEET,67.2,DEGREES F,5,MG/L
+06/14/2008,4,FEET,65.4,DEGREES F,4,MG/L
+06/14/2008,5,FEET,64.4,DEGREES F,4,MG/L
+07/20/2008,1,FEET,75.5,DEGREES F,4,MG/L
+07/20/2008,2,FEET,74.3,DEGREES F,3,MG/L
+07/20/2008,3,FEET,69.8,DEGREES F,1,MG/L
+07/20/2008,4,FEET,66,DEGREES F,1,MG/L
+07/20/2008,5,FEET,64.2,DEGREES F,1,MG/L
+07/20/2008,6,FEET,63.6,DEGREES F,2,MG/L
+08/17/2008,1,FEET,68.1,DEGREES F,4,MG/L
+08/17/2008,2,FEET,66.7,DEGREES F,2,MG/L
+08/17/2008,3,FEET,66.5,DEGREES F,4,MG/L
+08/17/2008,4,FEET,65.8,DEGREES F,2,MG/L
+08/17/2008,5,FEET,64.9,DEGREES F,2,MG/L
+05/19/2009,1,FEET,66.5,DEGREES F,9,MG/L
+05/19/2009,2,FEET,66.2,DEGREES F,8,MG/L
+05/19/2009,3,FEET,66,DEGREES F,7,MG/L
+05/19/2009,4,FEET,65.3,DEGREES F,8,MG/L
+05/19/2009,5,FEET,63.5,DEGREES F,8,MG/L
+06/13/2009,1,FEET,70.7,DEGREES F,7,MG/L
+06/13/2009,2,FEET,69.4,DEGREES F,7,MG/L
+06/13/2009,3,FEET,68.3,DEGREES F,7,MG/L
+06/13/2009,4,FEET,68,DEGREES F,8,MG/L
+06/13/2009,5,FEET,66.3,DEGREES F,7,MG/L
+07/26/2009,1,FEET,71.2,DEGREES F,5,MG/L
+07/26/2009,2,FEET,67.4,DEGREES F,4,MG/L
+07/26/2009,3,FEET,66.2,DEGREES F,4,MG/L
+07/26/2009,4,FEET,66,DEGREES F,3,MG/L
+07/26/2009,5,FEET,66,DEGREES F,3,MG/L
+08/17/2009,1,FEET,74.8,DEGREES F,4,MG/L
+08/17/2009,2,FEET,72.5,DEGREES F,2,MG/L
+08/17/2009,3,FEET,69.4,DEGREES F,3,MG/L
+08/17/2009,4,FEET,67.4,DEGREES F,2,MG/L
+08/17/2009,5,FEET,66.9,DEGREES F,2,MG/L
+09/20/2009,1,FEET,65.5,DEGREES F,2,MG/L
+09/20/2009,2,FEET,63.8,DEGREES F,1,MG/L
+09/20/2009,3,FEET,63.6,DEGREES F,4,MG/L
+09/20/2009,4,FEET,63.5,DEGREES F,1,MG/L
+09/20/2009,5,FEET,63.6,DEGREES F,2,MG/L
+05/31/2010,1,FEET,79.9,DEGREES F,8,MG/L
+05/31/2010,2,FEET,79.1,DEGREES F,7,MG/L
+05/31/2010,3,FEET,78,DEGREES F,7,MG/L
+05/31/2010,4,FEET,76.5,DEGREES F,7,MG/L
+05/31/2010,5,FEET,75.2,DEGREES F,6,MG/L
+06/20/2010,1,FEET,75.5,DEGREES F,7,MG/L
+06/20/2010,2,FEET,72.6,DEGREES F,7,MG/L
+06/20/2010,3,FEET,70.5,DEGREES F,7,MG/L
+06/20/2010,4,FEET,68.3,DEGREES F,6,MG/L
+06/20/2010,5,FEET,66.5,DEGREES F,5,MG/L
+06/20/2010,5.5,FEET,65.5,DEGREES F,,
+07/25/2010,1,FEET,77.3,DEGREES F,5,MG/L
+07/25/2010,2,FEET,75.5,DEGREES F,3,MG/L
+07/25/2010,3,FEET,74.4,DEGREES F,2,MG/L
+07/25/2010,4,FEET,71.6,DEGREES F,2,MG/L
+07/25/2010,5,FEET,68.7,DEGREES F,4,MG/L
+08/22/2010,1,FEET,73.7,DEGREES F,10,MG/L
+08/22/2010,2,FEET,72,DEGREES F,4,MG/L
+08/22/2010,3,FEET,70.7,DEGREES F,6,MG/L
+08/22/2010,4,FEET,69.6,DEGREES F,3,MG/L
+08/22/2010,5,FEET,68.3,DEGREES F,2,MG/L
+06/02/2011,1,FEET,73.2,DEGREES F,11,MG/L
+06/02/2011,2,FEET,72.1,DEGREES F,10,MG/L
+06/02/2011,3,FEET,71,DEGREES F,10,MG/L
+06/02/2011,4,FEET,70.8,DEGREES F,8,MG/L
+06/02/2011,5,FEET,70.1,DEGREES F,7,MG/L
+07/13/2011,1,FEET,77,DEGREES F,6,MG/L
+07/13/2011,2,FEET,75.5,DEGREES F,6,MG/L
+07/13/2011,3,FEET,74.8,DEGREES F,5,MG/L
+07/13/2011,4,FEET,74.4,DEGREES F,4,MG/L
+07/13/2011,5,FEET,73.9,DEGREES F,3,MG/L
+08/04/2011,1,FEET,78.6,DEGREES F,4,MG/L
+08/04/2011,2,FEET,76.8,DEGREES F,4,MG/L
+08/04/2011,3,FEET,76.2,DEGREES F,4,MG/L
+08/04/2011,4,FEET,74.4,DEGREES F,3,MG/L
+08/04/2011,5,FEET,72.3,DEGREES F,,
+08/28/2011,1,FEET,72.6,DEGREES F,5,MG/L
+08/28/2011,2,FEET,70.1,DEGREES F,3,MG/L
+08/28/2011,3,FEET,69.8,DEGREES F,6,MG/L
+08/28/2011,4,FEET,69.4,DEGREES F,7,MG/L
+08/28/2011,5,FEET,69.4,DEGREES F,3,MG/L
+03/25/2012,1,FEET,63.6,DEGREES F,5,MG/L
+03/25/2012,2,FEET,62.9,DEGREES F,6,MG/L
+03/25/2012,3,FEET,62.9,DEGREES F,7,MG/L
+03/25/2012,4,FEET,62.6,DEGREES F,6,MG/L
+06/15/2012,1,FEET,71.6,DEGREES F,7,MG/L
+06/15/2012,2,FEET,70.5,DEGREES F,7,MG/L
+06/15/2012,3,FEET,69.8,DEGREES F,7,MG/L
+06/15/2012,4,FEET,69.8,DEGREES F,7,MG/L
+07/10/2012,1,FEET,77.1,DEGREES F,9,MG/L
+07/10/2012,2,FEET,76,DEGREES F,6,MG/L
+07/10/2012,3,FEET,74.1,DEGREES F,6,MG/L
+06/30/2013,1,FEET,77.1,DEGREES F,8,MG/L
+06/30/2013,2,FEET,74.5,DEGREES F,6,MG/L
+06/30/2013,3,FEET,72.7,DEGREES F,6,MG/L
+06/30/2013,4,FEET,71.4,DEGREES F,5,MG/L
+07/25/2013,1,FEET,73.1,DEGREES F,8,MG/L
+07/25/2013,2,FEET,69.9,DEGREES F,,
+07/25/2013,3,FEET,69.8,DEGREES F,6,MG/L
+07/25/2013,4,FEET,69.6,DEGREES F,,
+08/24/2013,1,FEET,74.6,DEGREES F,,
+08/24/2013,2,FEET,72.1,DEGREES F,,
+08/24/2013,3,FEET,68.7,DEGREES F,,
+08/24/2013,4,FEET,67.8,DEGREES F,,
+05/28/2014,1,FEET,74.6,DEGREES F,8,MG/L
+05/28/2014,2,FEET,74.4,DEGREES F,7,MG/L
+05/28/2014,3,FEET,74.1,DEGREES F,6,MG/L
+05/28/2014,4,FEET,73.5,DEGREES F,6,MG/L
+05/28/2014,5,FEET,73.4,DEGREES F,6,MG/L
+06/22/2014,1,FEET,73.7,DEGREES F,6,MG/L
+06/22/2014,2,FEET,72.6,DEGREES F,8,MG/L
+07/23/2014,1,FEET,75.5,DEGREES F,6,MG/L
+07/23/2014,2,FEET,15,DEGREES F,6,MG/L
+07/23/2014,3,FEET,68.5,DEGREES F,6,MG/L
+07/23/2014,4,FEET,69,DEGREES F,5,MG/L
+08/26/2014,1,FEET,74.4,DEGREES F,4,MG/L
+08/26/2014,2,FEET,73.2,DEGREES F,3,MG/L
+08/26/2014,3,FEET,73,DEGREES F,5,MG/L
+08/26/2014,4,FEET,71.7,DEGREES F,2,MG/L
+05/28/2015,1,FEET,70.3,DEGREES F,,
+05/28/2015,2,FEET,70.1,DEGREES F,,
+05/28/2015,3,FEET,70.1,DEGREES F,,
+06/29/2015,1,FEET,71,DEGREES F,5,MG/L
+06/29/2015,2,FEET,70.8,DEGREES F,,
+06/29/2015,3,FEET,70.1,DEGREES F,6,MG/L
+06/29/2015,4,FEET,69.8,DEGREES F,5,MG/L
+07/27/2015,1,FEET,74.3,DEGREES F,4,MG/L
+07/27/2015,2,FEET,73.9,DEGREES F,5,MG/L
+07/27/2015,3,FEET,73.1,DEGREES F,5,MG/L
+03/29/2016,0,FEET,49.2,DEGREES F,,
+03/29/2016,1,FEET,48.9,DEGREES F,,
+03/29/2016,2,FEET,48.9,DEGREES F,,
+03/29/2016,3,FEET,48.9,DEGREES F,,
+03/29/2016,4,FEET,48.7,DEGREES F,,
+03/29/2016,5,FEET,48.9,DEGREES F,,
+05/05/2016,0,FEET,12.1,DEGREES C,10.6,MG/L
+05/05/2016,1,FEET,12.1,DEGREES C,10.6,MG/L
+05/05/2016,2,FEET,12.1,DEGREES C,10.6,MG/L
+05/05/2016,3,FEET,12.1,DEGREES C,10.6,MG/L
+05/05/2016,4,FEET,12,DEGREES C,11.2,MG/L
+05/05/2016,5,FEET,12,DEGREES C,10.2,MG/L
+06/28/2016,0,FEET,24.1,DEGREES C,5.9,MG/L
+06/28/2016,1,FEET,24.1,DEGREES C,5.7,MG/L
+06/28/2016,2,FEET,24.1,DEGREES C,5.8,MG/L
+06/28/2016,3,FEET,24.1,DEGREES C,5.7,MG/L
+06/28/2016,4,FEET,24,DEGREES C,2.8,MG/L
+06/28/2016,5,FEET,24,DEGREES C,3.9,MG/L
+08/23/2016,0,FEET,22.3,DEGREES C,6.31,MG/L
+08/23/2016,1,FEET,22.3,DEGREES C,6.31,MG/L
+08/23/2016,2,FEET,22.3,DEGREES C,6.31,MG/L
+08/23/2016,3,FEET,22.3,DEGREES C,6.15,MG/L
+08/23/2016,4,FEET,22.3,DEGREES C,5.68,MG/L
+04/17/2017,0,FEET,16.8,DEGREES C,9.22,MG/L
+04/17/2017,1,FEET,16.8,DEGREES C,9.15,MG/L
+04/17/2017,2,FEET,16.8,DEGREES C,9.38,MG/L
+04/17/2017,3,FEET,16.5,DEGREES C,11.8,MG/L
+04/17/2017,4,FEET,16.2,DEGREES C,13.08,MG/L
+04/17/2017,5,FEET,15.8,DEGREES C,6.4,MG/L
+06/21/2017,0,FEET,23.3,DEGREES C,8.15,MG/L
+06/21/2017,1,FEET,23.3,DEGREES C,8.15,MG/L
+06/21/2017,2,FEET,23.2,DEGREES C,8.47,MG/L
+06/21/2017,3,FEET,22.9,DEGREES C,8.75,MG/L
+06/21/2017,4,FEET,22.8,DEGREES C,9.01,MG/L
+06/21/2017,5,FEET,22.6,DEGREES C,6.45,MG/L
+07/18/2017,0,FEET,24.3,DEGREES C,5.38,MG/L
+07/18/2017,1,FEET,24.4,DEGREES C,5.25,MG/L
+07/18/2017,2,FEET,24.4,DEGREES C,5.4,MG/L
+07/18/2017,3,FEET,24.4,DEGREES C,5.2,MG/L
+07/18/2017,4,FEET,24.4,DEGREES C,4.65,MG/L
+07/18/2017,5,FEET,24.3,DEGREES C,2.57,MG/L
+08/13/2017,0,FEET,23.1,DEGREES C,5.84,MG/L
+08/13/2017,1,FEET,23,DEGREES C,5.87,MG/L
+08/13/2017,2,FEET,22.8,DEGREES C,6.07,MG/L
+08/13/2017,3,FEET,22.8,DEGREES C,5.88,MG/L
+08/13/2017,4,FEET,22.7,DEGREES C,5.4,MG/L
+08/13/2017,5,FEET,22.7,DEGREES C,4.88,MG/L
+08/13/2017,5.5,FEET,22.6,DEGREES C,1.25,MG/L
+05/07/2018,0,FEET,22,DEGREES C,8.88,MG/L
+05/07/2018,1,FEET,22,DEGREES C,8.93,MG/L
+05/07/2018,2,FEET,22,DEGREES C,8.97,MG/L
+05/07/2018,3,FEET,22,DEGREES C,9.04,MG/L
+05/07/2018,4,FEET,21.7,DEGREES C,11.04,MG/L
+05/07/2018,4.8,FEET,21.4,DEGREES C,11.81,MG/L
+06/28/2018,0,FEET,23.7,DEGREES C,11.1,MG/L
+06/28/2018,1,FEET,23.5,DEGREES C,11.5,MG/L
+06/28/2018,2,FEET,23.3,DEGREES C,11.6,MG/L
+06/28/2018,3,FEET,22.6,DEGREES C,10,MG/L
+06/28/2018,4,FEET,22,DEGREES C,6.1,MG/L
+06/28/2018,5,FEET,21.3,DEGREES C,1.3,MG/L
+07/26/2018,0,FEET,23.6,DEGREES C,8.6,MG/L
+07/26/2018,1,FEET,23.7,DEGREES C,8.7,MG/L
+07/26/2018,2,FEET,23.7,DEGREES C,8.8,MG/L
+07/26/2018,3,FEET,23.7,DEGREES C,8.7,MG/L
+07/26/2018,4,FEET,23.1,DEGREES C,2.9,MG/L
+07/26/2018,5,FEET,22.3,DEGREES C,1.4,MG/L
+08/30/2018,0,FEET,22.9,DEGREES C,5.1,MG/L
+08/30/2018,1,FEET,23,DEGREES C,5.1,MG/L
+08/30/2018,2,FEET,22.9,DEGREES C,5,MG/L
+08/30/2018,3,FEET,22.9,DEGREES C,4.9,MG/L
+08/30/2018,4,FEET,22.9,DEGREES C,3.9,MG/L
+08/30/2018,5,FEET,22.4,DEGREES C,1.4,MG/L
+05/03/2019,0,FEET,10.7,DEGREES C,9.1,MG/L
+05/03/2019,1,FEET,10.7,DEGREES C,9.1,MG/L
+05/03/2019,2,FEET,10.7,DEGREES C,9.2,MG/L
+05/03/2019,3,FEET,10.7,DEGREES C,9.4,MG/L
+05/03/2019,4,FEET,10.7,DEGREES C,9.4,MG/L
+05/03/2019,5,FEET,10.7,DEGREES C,9.3,MG/L
+06/26/2019,0,FEET,26.1,DEGREES F,13.3,MG/L
+06/26/2019,1,FEET,24.9,DEGREES F,15.3,MG/L
+06/26/2019,2,FEET,22.8,DEGREES F,15.7,MG/L
+06/26/2019,3,FEET,21.8,DEGREES F,13.7,MG/L
+06/26/2019,4,FEET,21,DEGREES F,7.3,MG/L
+06/26/2019,5,FEET,20.4,DEGREES F,.9,MG/L
+06/26/2019,5.5,FEET,20.1,DEGREES F,.3,MG/L
+07/31/2019,0,FEET,28.1,DEGREES C,9.1,MG/L
+07/31/2019,1,FEET,27.1,DEGREES C,9.8,MG/L
+07/31/2019,2,FEET,25.8,DEGREES C,9.7,MG/L
+08/27/2019,0,FEET,20.8,DEGREES C,5.3,MG/L
+08/27/2019,1,FEET,20.9,DEGREES C,4.6,MG/L
+08/27/2019,2,FEET,20.9,DEGREES C,4.7,MG/L
+08/27/2019,3,FEET,20.9,DEGREES C,4.4,MG/L
+08/27/2019,4,FEET,20.9,DEGREES C,4.5,MG/L
+08/27/2019,5,FEET,20.9,DEGREES C,2.4,MG/L
+06/10/2020,0,FEET,24.6,DEGREES C,6.6,MG/L
+06/10/2020,1,FEET,24.4,DEGREES C,6.4,MG/L
+06/10/2020,2,FEET,24,DEGREES C,6,MG/L
+06/10/2020,3,FEET,23.9,DEGREES C,5.8,MG/L
+06/10/2020,4,FEET,23.8,DEGREES C,5.1,MG/L
+06/10/2020,5,FEET,23.8,DEGREES C,3.9,MG/L
+07/08/2020,0,FEET,27.1,DEGREES C,8.1,MG/L
+07/08/2020,1,FEET,27.1,DEGREES C,8,MG/L
+07/08/2020,2,FEET,27.1,DEGREES C,8,MG/L
+07/08/2020,3,FEET,25.7,DEGREES C,2.7,MG/L
+07/08/2020,4,FEET,25.1,DEGREES C,1.2,MG/L
+07/08/2020,5,FEET,24.5,DEGREES C,.7,MG/L
+07/09/2020,,,,,7.2,MG/L
+09/02/2020,0,FEET,21.3,DEGREES C,2.6,MG/L
+09/02/2020,1,FEET,21.4,DEGREES C,2.5,MG/L
+09/02/2020,2,FEET,21.4,DEGREES C,2.5,MG/L
+09/02/2020,3,FEET,21.4,DEGREES C,2.6,MG/L
+09/02/2020,4,FEET,21.4,DEGREES C,2.6,MG/L
+09/02/2020,5,FEET,.04,DEGREES C,21.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+04/22/2006,This is not a lake- but a deep water marsh- the bottom covered with submergent vegetation and emergent vegetation where less than 4' deep- providing some difficulties for secci depth measurement in mid summer.
+05/22/2006,air temp = 61.  Previous wind and continuing breeze may have influenced the high D.O. through the water strata.
+06/23/2006,The surface of the lake is 90% covered with emergent vegetation: water lily- shield- bladderwort- pondweeds- and bottom fully covered with coontail- elodea- pondweeds.  Also some bulrush + pickerel weed.  Other aquatic species in shallow areas.  Difficult to use the secci disc.  Water is clear.  Can see the bottom.
+09/17/2006,DEEP HOLE    
+10/30/2006,DEEP HOLE    
+05/02/2007,air temp 57 degrees F.- sun- wind 5 mph- water level higher than preceeding 3 years.
+06/05/2007,calm- but previous rain and thunderstorms- water appears a little murkier than its usual normal crystal clear.
+07/15/2007,ambient temp 76.4 degrees F.  calm.   sunny.  higher DO at lower lake levels.  lake level down a foot from June levels.
+08/17/2007,Lake is about 3" higher than last month.  (June = high- July = 12" lower- Aug=3" up from July).  Lots of rain the past week.  Ambient temp 72- wind 5 mph.  Surface covered w/ lily pads- few open holes.  Mute swan had visited lake briefly a few weeks ago.  Flock of pelicans overhead.  Black tern.  
+10/17/2007,lily pads beginning to die back.  new mud flats have formed - occupied by kildeer.  the lake level is about 5" below May level (which was a high level).  lots of wood ducks this fall.  
+Ambient temp about 69 degrees F- with stiff wind.  
+05/05/2008,10 pelicans on lake in morning.  One osprey perched and also flying.  No black terns seen.  Few-to-no fish.  Suspect heavy winterkill.  Water crystalline clear.  Ambient temperature 56 degrees F.  light wind.  clear sky.   and.. one beaver.
+06/14/2008,Sampling was done 2 days post heavy rainstorms... more than 10" in past 4 days.  Lake was up about 1 ft.  14 black terns flying together over a single mud flat... not just the nesting pair.  This is more terns than I've seen the past several years.
+07/20/2008,rained last night + early morning.  water level rose and is about the same as peak height in spring.  Very few small open water areas in floating vegetation and those filled with submergent vegetation.  black terns no longer protecting nests.  (nestlings fledged ).  ambient temp 80 degrees F.  watershield- common bladderwort- northern milfoil- white water lily and spatterddock all blooming.   
+08/17/2008,ambient temp 80 degrees F.  lake level down about 1' from high in June + July resulting from extreme rain events.  Extensive floating mud flats... more extensive than in past years despite the high water.   floating leaf and submergents extremely dense- making paddling very difficult (perhaps more than previous years).   ambient temp 80 degrees F.  lake level down about 1' from high in June + July resulting from extreme rain events.  Extensive floating mud flats... more extensive than in past years despite the high water.   floating leaf and submergents extremely dense- making paddling very difficult (perhaps more than previous years).   ambient temp 80 degrees F.  lake level down about 1' from high in June + July resulting from extreme rain events.  Extensive floating mud flats... more extensive than in past years despite the high water.   floating leaf and submergents extremely dense- making paddling very difficult (perhaps more than previous years).  
+05/19/2009,winds = 15-20 mpg.   choppy.  ambient temp 78 F.  12-15 black terns.  floating mud islands.  water level this spring very high.  
+06/13/2009,ambient temp about 70 degrees F.  15-20 black terns.   Lily pads and coontail very solid on south arm of lake.
+07/26/2009,sun- wind less than 10 mph.  76.4 F.   no black terns.   Vegetation almost solid... fes small openings in the vegetation.  water level down from high of 4.3 on gauge to 3.8.  
+08/17/2009,82.6 degrees F- ambient temp.   sun. pt cloudy.  calm.  very difficult to paddle thru vegetation to open spot.  lake level gauge down to 3.7 from 4.3 in early spring.  Water lily flowers all eaten... turtles and muskrats.  
+09/20/2009,Full sun - slight breeze - 75 F.  Lilies dying back.  No terns.  Goose season - some hunters.  Lake is down 1 foot from May high.
+05/31/2010,emergents already surfacing.  mud flats.  no black terns spotted.  Lake at 3.7 on the gauge- down from spring high of 4.6.
+
+partly cloudy- 70 degrees. no wind.
+06/20/2010,Lake up 2-3" from May 31.  Lake covered by lillies... many heads- mostly yellow- eaten by turtles.  Where are the terns.  In past years- there has alvways been breeding black terns... fluctuating numbers- but always at least some- and some years many.  Ambient temp 83 F.  0-5mph breeze.  Very little open water in lake.
+07/25/2010,Still no black terns this summer.  Ambient temp 79 F.  
+3rd day after heavy 4+" rainfall.  Lake up 4-5" from last month.  Water much less clear than normal.  Brown in color.
+08/22/2010,78 F.  no wind.  sun.  mud flats growing very extensive.  Very difficult to navigate the lake.  NO BLACK TERNS!  This should be noted!  Many turtles.  95% of lilly heads eaten.  Two more clumps of purple loosestrife near my landing.  Pulled one from near the dock last month.  Will treat the others this week.  Also- open water not clear and sparkling- but looks brown and turgid.  No algae- but seems to be suspended sediment.
+06/02/2011,4th windy day in a row.  High DO throughout strata.  No terns now- but in mid-May there were at least a half dozen black terns.  Where did they go   Ambient temp 75 F.  sun.  Yellow lillies beginning to bloom.  
+07/13/2011,Ambient temp 78.  5 black terns buzzing the canoe.  So- they are back and nesting.  The SE quarter of lake a solid mat of bladderwort and watershield.  yellow and purple spread over acres of water..looks like you could walk on it.  other parts of the lake are covered w/ large mats of waterlily.  Should rename the lake to bladderwart lake.
+08/04/2011,Ambient temp 78.  water level decreasing all summer.  now 3'4" on guage.  little open water- and any open water full of submergent plants.  tons of bladderwort... now dying.   no eurasian water milfoil or curly leaf pondweed.  no zebra mussels.  no banded mystery snails- though lots of brown mystery snails.  no new zealand mud snails observed.  green slime algae at public boat landing.  2 black terns in non-breeding plumage.  purple loosestrife spreading from original locale at 4 duck blinds.  2 plants in boat channel.  cut them at base and removed tops to prevent seed shed.  will return to cut and treat some near my dock. 
+08/28/2011,79 degrees. no black terns seen today.  one rail seen.  Sampled the northeastern part of lake for eurasian water milfoil- mussels- snails- curly leaf pondweed- hydrilla- waterfleas- jellyfish- snails- purple loosestrife-   no invasives were found except purple loosestrife... which is spreading along the shoreline. found many brown mystery snails.  no curlyleaf pondweed found.
+08/28/2011,Ambient 79.  no tern seen today.  saw a rail several times- probably virginia- but not close enough to id.  Bladderwort dead and dying and choking all waters.  very difficult to navigate.  loosestrife still blooming.  did not treat any today.  no beetles found on examining several leafy stems.
+03/25/2012,lake level down 1'3" from last spring.  now guage reads 3.4.  ambient temp 70. light breeze. nesting geese.
+06/15/2012,sun- temp 77 degrees- 8-10 mph breeze.  lake lowest level for several years.  only 2'9" on guage at dock.  about a dozen black terns.  not sure they're nesting- but are agressive toward us.  lilies blooming- bladderwort blooming- shield begining to bloom.  
+07/10/2012,Lake low.  no rain since May.  2.2 on our gauge.  choked w/ growth.  dead fish scattered over surface.  blue gills- bass- other panfish.  ambientT 88 degrees... following record days of high temps.  2 black terns seen.  pockets of floating algae or scum   white and yellow lilies plus watershield and bladderwort blooming.  also some arrowhead.  extremely difficult to paddle through and difficult to find even a 3 foot depth to sample.  
+water is clear for a couple feet.... can see down the vegetation- but vegetation so dense- can't see bottom or get sampler on bottom.  
+05/19/2013,lake level is about 2 feet higher than last fall- or even at ice out.   our guage is at 3'6".  ice out was April 6.  today bright but cloudy.  wind about 15 mph... difficult to paddle canoe.  a few lily pads already reaching surface.  
+06/30/2013,algae bloom along east coast.  lots of rain and ag run off from field uphill 1200'    unmowed CRP field and woods between.  4 black terns present.  mud flats not in evidence.  surface covered w/ lily pads and shield leaves.  solid submergent growth.  difficult to get secci to bottom of lake (as always).   lake is 2' higher than late summer last year or ice-out this year- but still lower than 2010 and some previous years.
+
+07/25/2013,Lake solidly covered with lillies- shield- bladderwort- coontail.  could not find a column of open water.  could not get the secci to the bottom and could not get the sample bottle past 3 feet down.  5 black terns were present.  we did not paddle around the lake to monitor purple loosestrife.  too difficult to paddle through the lilies- etc.  but- did not see any loosestrife nearr our entrance.  i treated the loosestrife closeby the past 2 years.  
+
+
+08/24/2013,did not sample DO.  out of colorimeter vials.  water packed with shield- lily pads- coontail- pondweed- and dead and dying bladerworts.  very difficult to paddle.  difficult to find a place to sample.  sampler gets stuck in weeds and can't reach bottom.  no black terns today.  purple loosestrife here and there...moving around the shore.  no large dense patches.  
+
+07/23/2014,our guage 3.8.  ambient temp 74 degrees F.  submergent vegetation did not allow sampler to get to bottom of lake bed- so could only sample to 4 feet.  5 black terns.  
+08/26/2014,2" rainfall yesterday- plus shower this am.  Water contains sediments ... from run-off?  Coontail and other submergents cover the lake bottom except under dense lily pads.  Can't get sampler through the weeds to any more than 3 1/2 ft.  Sampling stirred up sediment attached to plants.  Sun out- ambient temp 77 degrees F.  No terns- no waterbirds of any kind.  Our gauge shows 3'4"...  (this is merely an index).
+05/28/2015,Ambient temp 75 F and humid.  have only 9 vials of CHEMets- and will use them for taking 3 Oxygen samples in June July and August.  After that- there are no more sampling vials- and will no longer be able to sample w/out an oxygen meter.  Lake froze out in 2012 (almost completely).  DNR stocked northern pike in 2013 and local club stocked 5000 perch.  according to my personal guage at our pier- the lake is somewhat lower than it was in 2013 and 2014.  The water is clear- but plants are emerging and difficult to see and sample lake bottom.  
+06/29/2015,ambient temp 76.  only enough chemets to do 3 water temps...1'- 3'- near bottom.  bottom at about 4.5'.  difficult to tell due to submergents and soft bottom.  spotted only 2 black terns- but may be a nesting pair.  lily heads all eaten off... a sea of bitten off stems.  water somewhat cloudy.  many recent rains.  
+07/27/2015,ambient temp 86.  sun.  lake level dropped and bottom covered with emergents except under lily pads and dense shield plant.  could only sample to 3' depth.  no terns.  nesting pair in June; banded one on July 4.  No evidence of adults or young or nest.  multiple monarchs on marsh milkweed.  purple loosestrife gaining in spread and distribution.  have treated it annually until 2 years ago...now beyond treating.  Lily heads all eaten.  Hardly any bladderwort- when in past years- it has been thick.  
+05/05/2016,sunny- wind from north at 5-8 mph
+06/28/2016,Overcast 100%; Wind 5-10 mph from north
+04/17/2017,Sunny- 70%; wind from south 5-10 mph
+06/21/2017,Cloudy 90%; wind from south 5-10 mph
+07/18/2017,100% cloudy- wind 3 mph from the south
+08/13/2017,Calm winds- high clouds 90%
+07/26/2018,Sunny- 5% clouds- wind 5-10 mph from west
+
+More floating leaved plants in east basin than last year.  More submerged macrophytes in west basin than last 2 years.
+06/26/2019,The western basin was much more turbid than the eastern basin but both basins had the usual amount of macrophyte cover.
+
+Weather was warm and near calm.  Winds 0-3 from SW with 50% cloud cover.
+07/31/2019,partly sunny (60%)- winds light and variable.  East basin almost entirely covered with water shield; more than last 2 years. Very little Utricularia
+
+08/27/2019,sunny and breezy: 100% 5 mph from south
+
+07/08/2020,calm winds- 50% sunny
+ calm- 50% sunny
+07/09/2020,water level a little bit above normal. A fair amount of vegetation- i.e. Potamegeton- 
+
+
+
+
+Start Date,Group Name,Project Name
+06/09/2004,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/20/2004,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/27/2004,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/30/2005,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/02/2005,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/21/2005,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+09/16/2005,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+04/22/2006,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/22/2006,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/23/2006,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/22/2006,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/11/2006,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+09/17/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+10/30/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/02/2007,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/05/2007,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/15/2007,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/17/2007,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+10/17/2007,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/05/2008,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/14/2008,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/20/2008,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/17/2008,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/19/2009,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/13/2009,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/26/2009,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/17/2009,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+09/20/2009,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/31/2010,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/20/2010,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/25/2010,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/22/2010,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/02/2011,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/13/2011,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/04/2011,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/28/2011,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+03/25/2012,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/15/2012,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/10/2012,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/12/2012,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/19/2013,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/30/2013,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/25/2013,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/24/2013,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/28/2014,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/22/2014,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/23/2014,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/26/2014,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/28/2015,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/29/2015,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/30/2015,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/27/2015,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/25/2015,Doris Rusch,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+03/29/2016,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/05/2016,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/28/2016,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/22/2016,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/23/2016,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+04/17/2017,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/21/2017,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/21/2017,Paul Garrison,Citizen Lake Monitoring Network QA/QC - 2017
+07/18/2017,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/13/2017,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/07/2018,Lake Remote Sensing Pilot,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/07/2018,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/28/2018,Lake Remote Sensing Pilot,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/28/2018,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/26/2018,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/30/2018,Lake Remote Sensing Pilot,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/30/2018,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/03/2019,Lake Remote Sensing Pilot,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+05/03/2019,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/26/2019,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/31/2019,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/27/2019,Lake Remote Sensing Pilot,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+08/27/2019,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/10/2020,Lake Remote Sensing Pilot,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+06/10/2020,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/08/2020,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole
+07/09/2020,Paul Garrison,Koshkonong Creek at Baxter Road
+09/02/2020,Paul Garrison,Citizen Lake Monitoring - Water Quality - Red Cedar Lake; Deep Hole

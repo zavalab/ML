@@ -1,0 +1,139 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Saddlebag Lake,Langlade,1448400,NO,34,,10043760,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+117499505,06/30/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/18/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/08/2015,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/16/2015,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/26/2015,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/08/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/16/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/26/2015,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,06/08/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,06/10/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/19/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/06/2016,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/15/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/31/2016,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+122896168,06/16/2017,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/12/2017,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/27/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/05/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/15/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/06/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+117499505,09/24/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/17/2018,3.5,NO,1.1,17.2,33.9,59,55,56,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/19/2018,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/25/2018,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2018,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/15/2018,4,NO,1.2,11.1,25.9,57,53,53,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/05/2018,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/18/2018,3,NO,0.9,17,25.2,61,53,56,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/20/2019,3,NO,0.9,13.7,26.8,61,54,55,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/12/2019,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/25/2019,3,NO,0.9,17.8,38.6,61,56,57,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/22/2019,3,NO,0.9,27,24.8,61,53,60,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/05/2020,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/21/2020,4.5,NO,1.4,11.7,26.5,55,54,53,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/05/2020,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/19/2020,2.5,NO,0.8,18.1,44.8,64,58,57,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/05/2020,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/16/2020,3,NO,0.9,23.6,40.8,61,57,59,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/16/2017,40,FEET,47.6,DEGREES F,,
+07/12/2017,19,FEET,45.1,DEGREES F,,
+07/27/2017,27,FEET,46.9,DEGREES F,,
+08/05/2017,25,FEET,44.6,DEGREES F,,
+08/15/2017,25,FEET,43.8,DEGREES F,,
+09/06/2017,25,FEET,44.2,DEGREES F,,
+09/24/2017,25,FEET,45.4,DEGREES F,,
+06/17/2018,25,FEET,40.4,DEGREES F,,
+06/19/2018,25,FEET,40.2,DEGREES F,,
+06/25/2018,25,FEET,40.8,DEGREES F,,
+07/08/2018,20,FEET,45.8,DEGREES F,,
+07/15/2018,20,FEET,44.9,DEGREES F,,
+08/05/2018,20,FEET,42.9,DEGREES F,,
+08/18/2018,25,FEET,45.4,DEGREES F,,
+06/20/2019,27,FEET,43.5,DEGREES F,,
+07/12/2019,20,FEET,47.4,DEGREES F,,
+07/25/2019,25,FEET,43.8,DEGREES F,,
+08/22/2019,25,FEET,42.8,DEGREES F,,
+06/05/2020,25,FEET,41.3,DEGREES F,,
+06/21/2020,25,FEET,43.5,DEGREES F,,
+07/05/2020,20,FEET,45.8,DEGREES F,,
+07/19/2020,25,FEET,45.1,DEGREES F,,
+08/05/2020,20,FEET,45.3,DEGREES F,,
+08/16/2020,25,FEET,45.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/30/2015,With Paul Tusler HD (1977) 3 ft
+07/08/2015,Sunny Partial clouds
+08/08/2015,Cloudy
+08/16/2015,sunny partial cloudy
+08/26/2015,partial cloudy
+09/08/2015,Partial Cloudy- after rain last PM
+09/16/2015,Partial Cloudy Recent Rains Windy
+09/26/2015,Sunny no wind- no waves
+06/08/2016,Sunny- Water murky
+08/05/2017,Much increased brown (?tannins from recent rain?)
+09/06/2017,algae blooms- probably blue green
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/18/2015,Sam Picone,Citizen Aquatic Invasives Monitoring - Saddlebag Lake
+07/18/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+09/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+09/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+09/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/10/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/19/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/06/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/15/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/31/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/16/2017,Sam Picone- Paul Tusler,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/12/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/27/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/05/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/15/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+09/06/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+09/24/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/17/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/19/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/25/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/08/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/15/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/05/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/18/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/20/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/12/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/25/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/22/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+06/21/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+07/19/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/05/2020,Sam Picone,Citizen Aquatic Invasives Monitoring - Saddlebag Lake
+08/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 
+08/16/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Saddlebag Lake - Deep Hole 

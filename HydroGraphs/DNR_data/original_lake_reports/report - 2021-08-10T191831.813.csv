@@ -1,0 +1,34 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Penny Lake,Portage,195500,WC,50,,10054122,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+48063989,09/26/2020,,,,,,,,,,,,,
+48063989,10/28/2020,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/26/2020,3,FEET,68.2,DEGREES F,10.61,MG/L
+09/26/2020,6,FEET,65.5,DEGREES F,11.16,MG/L
+09/26/2020,9,FEET,64,DEGREES F,10.16,MG/L
+09/26/2020,12,FEET,63.7,DEGREES F,9.17,MG/L
+10/28/2020,3,FEET,43.7,DEGREES F,13.01,MG/L
+10/28/2020,6,FEET,42.98,DEGREES F,11.5,MG/L
+10/28/2020,9,FEET,42.62,DEGREES F,10.88,MG/L
+10/28/2020,12,FEET,42.44,DEGREES F,10.97,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+09/26/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Penny Lake - Deep Hole
+10/28/2020,Tracy Arnold,Citizen Lake Monitoring - Water Quality - Penny Lake - Deep Hole

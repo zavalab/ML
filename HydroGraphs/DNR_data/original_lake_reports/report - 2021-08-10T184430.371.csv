@@ -1,0 +1,47 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hemlock Lake,Oneida,989200,NO,44,,443480,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+145711549,06/21/2017,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+238423506,06/11/2020,15,NO,4.6,,,38,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/21/2017,2,FEET,72.2,DEGREES F,8.17,MG/L
+06/21/2017,4,FEET,71.2,DEGREES F,8.21,MG/L
+06/21/2017,6,FEET,70.9,DEGREES F,8.18,MG/L
+06/21/2017,8,FEET,70.6,DEGREES F,8.07,MG/L
+06/21/2017,10,FEET,70.2,DEGREES F,7.94,MG/L
+06/21/2017,12,FEET,68.7,DEGREES F,8.57,MG/L
+06/21/2017,14,FEET,64.8,DEGREES F,7.71,MG/L
+06/21/2017,16,FEET,61.8,DEGREES F,7.27,MG/L
+06/21/2017,18,FEET,60.3,DEGREES F,6.24,MG/L
+06/21/2017,20,FEET,59.5,DEGREES F,5.39,MG/L
+06/21/2017,22,FEET,58.4,DEGREES F,2.45,MG/L
+06/11/2020,2,FEET,67.6,DEGREES F,8.15,MG/L
+06/11/2020,4,FEET,67.6,DEGREES F,8.16,MG/L
+06/11/2020,6,FEET,67.4,DEGREES F,8.23,MG/L
+06/11/2020,8,FEET,67,DEGREES F,8.47,MG/L
+06/11/2020,10,FEET,66,DEGREES F,9.15,MG/L
+06/11/2020,12,FEET,64.4,DEGREES F,9.73,MG/L
+06/11/2020,14,FEET,62.4,DEGREES F,9.61,MG/L
+06/11/2020,16,FEET,60.6,DEGREES F,8.86,MG/L
+06/11/2020,18,FEET,59.5,DEGREES F,7.81,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/21/2017,Partly cloudy- 70 degrees Fahrenheit- calm conditions- and water clarity good.
+
+
+
+
+Start Date,Group Name,Project Name
+06/21/2017,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+06/11/2020,Aubrey Nycz- Rachel Cook,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

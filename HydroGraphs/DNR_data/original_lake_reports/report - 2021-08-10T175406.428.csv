@@ -1,0 +1,600 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tug Lake,Lincoln,1482400,NO,35,,353102,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190179,08/08/1986,2.5,NO,0.8,,,64,,,,,,BROWN,
+8190179,08/16/1986,2.25,NO,0.7,,,65,,,,,,BROWN,
+8190179,08/31/1986,1.75,NO,0.5,,,69,,,,,,BROWN,
+8190179,05/02/1987,3.5,NO,1.1,,,59,,,NORMAL,,,BROWN,
+8190179,05/09/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,05/29/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,06/13/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,06/27/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,07/18/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,07/19/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,08/01/1987,2.75,NO,0.8,,,63,,,LOW,,,BROWN,
+8190179,08/09/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190179,08/16/1987,3.75,NO,1.1,,,58,,,NORMAL,,,BROWN,
+8190179,08/29/1987,4,NO,1.2,,,57,,,,,,BROWN,
+8190179,09/07/1987,3,NO,0.9,,,61,,,LOW,,,BROWN,
+8190179,10/10/1987,4.5,NO,1.4,,,55,,,LOW,,,BROWN,
+8190179,05/29/1988,4,NO,1.2,,,57,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190179,06/15/1988,3.5,NO,1.1,,,59,,,LOW,,,,
+8190179,07/01/1988,3.5,NO,1.1,,,59,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190179,07/07/1988,3.5,NO,1.1,,,59,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190179,07/15/1988,3.5,NO,1.1,,,59,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190179,08/07/1988,3.25,NO,1,,,60,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190179,08/30/1988,3.25,NO,1,,,60,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190179,06/27/1989,1.75,NO,0.5,,,69,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,07/17/1989,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,07/21/1989,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,07/29/1989,1,NO,0.3,,,77,,,NORM.-LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190179,08/03/1989,1.5,NO,0.5,,,71,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,08/13/1989,1,NO,0.3,,,77,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190179,08/22/1989,1.25,NO,0.4,,,74,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190179,09/17/1989,2.75,NO,0.8,,,63,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,09/23/1989,2.5,NO,0.8,,,64,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,06/07/1990,3,NO,0.9,,,61,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190179,06/19/1990,2.25,NO,0.7,,,65,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190179,06/28/1990,1.75,NO,0.5,,,69,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,07/04/1990,1.75,NO,0.5,,,69,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190179,07/18/1990,2,NO,0.6,,,67,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190179,08/02/1990,2,NO,0.6,,,67,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,08/22/1990,1.75,NO,0.5,,,69,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190179,05/25/1991,2.5,NO,0.8,,,64,,,HIGH,,,BROWN,
+8190179,06/06/1991,1,NO,0.3,,,77,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,06/25/1991,1.5,NO,0.5,,,71,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190179,07/08/1991,1.5,NO,0.5,,,71,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,07/22/1991,1,NO,0.3,,,77,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,09/15/1991,2.5,NO,0.8,,,64,,,NORM/HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190179,06/12/1992,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190179,06/30/1992,2.75,NO,0.8,,,63,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190179,07/13/1992,3,NO,0.9,,,61,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190179,07/24/1992,3,NO,0.9,,,61,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190179,07/29/1992,3,NO,0.9,,,61,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190179,08/23/1992,3,NO,0.9,,,61,,,LOW,,,BROWN,2-Very minor aesthetic problems
+1,08/29/2000,,,,,31,,55,,,,,,
+1,04/24/2001,3.5,NO,1.1,2.4,,59,,41,,,,,
+7000126,08/28/2007,,,,12.5,33,,55,54,,,,,
+69076551,10/15/2012,1.5,,0.5,,,71,,,,,,,
+69076551,05/10/2013,2,NO,0.6,,,67,,,HIGH,High,,BROWN,2-Very minor aesthetic problems
+69076551,06/30/2013,1.75,NO,0.5,,,69,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+69076551,09/03/2013,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,10/02/2013,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+69076551,07/31/2014,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,08/25/2014,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,08/08/2015,, ,,,,,,,,,,,
+69076551,08/25/2015,,,,10.1,40,,57,52,,,,,
+69076551,08/26/2015,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,09/09/2015,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+69076551,09/19/2015,1.5,NO,0.5,,,71,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,09/25/2015,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+69076551,10/11/2015,1.5,NO,0.5,,,71,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+69076551,04/22/2016,2,NO,0.6,,31.5,67,55,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,05/22/2016,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,06/21/2016,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,06/22/2016,,,,14.3,41.2,,57,55,,,,,
+69076551,07/01/2016,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/16/2016,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+69076551,07/19/2016,,,,19.7,48,,58,57,,,,,
+69076551,08/22/2016,2,NO,0.6,9.22,29.9,67,54,52,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+69076551,09/02/2016,,NO,,,,,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,10/22/2016,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+69076551,04/07/2017,2,NO,0.6,,46,67,58,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,06/02/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,06/09/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,06/27/2017,2,NO,0.6,5.5,40.1,67,57,48,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/11/2017,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/19/2017,2,NO,0.6,26.8,37.5,67,56,60,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,09/19/2017,2,NO,0.6,10.2,40,67,57,52,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+69076551,05/07/2018,2,NO,0.6,,42.6,67,57,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,05/20/2018,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,06/13/2018,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+69076551,06/19/2018,2,NO,0.6,4.66,27.8,67,54,46,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/06/2018,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/22/2018,2,NO,0.6,10.2,27.5,67,54,52,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,07/30/2018,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,08/08/2018,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,08/31/2018,2,,0.6,10.2,26,67,53,52,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,09/10/2018,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,05/03/2019,3,,0.9,,44,61,57,,,,,,
+69076551,05/26/2019,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,06/16/2019,2,NO,0.6,0.964,24.8,67,53,35,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,07/07/2019,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/17/2019,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+69076551,07/19/2019,2,NO,0.6,16.1,26.4,67,54,56,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+69076551,08/04/2019,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+69076551,08/12/2019,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,09/10/2019,2,NO,0.6,9.27,39.2,67,57,52,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,06/23/2020,2,NO,0.6,7.53,26.6,67,54,50,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+69076551,07/20/2020,2.5,NO,0.8,15.1,29.5,64,54,55,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,08/21/2020,2,NO,0.6,20.5,30.1,67,55,58,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+69076551,09/05/2020,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/24/2001,,,7.9,C,9.2,MG/L
+08/26/2015,1,FEET,66.9,DEGREES F,,
+08/26/2015,2,FEET,66.2,DEGREES F,,
+08/26/2015,3,FEET,65.6,DEGREES F,,
+08/26/2015,4,FEET,65.4,DEGREES F,,
+08/26/2015,5,FEET,65.4,DEGREES F,,
+08/26/2015,6,FEET,65.1,DEGREES F,,
+08/26/2015,7,FEET,65.1,DEGREES F,,
+08/26/2015,8,FEET,64.2,DEGREES F,,
+08/26/2015,9,FEET,64.2,DEGREES F,,
+08/26/2015,10,FEET,64,DEGREES F,,
+08/26/2015,11,FEET,63.8,DEGREES F,,
+04/22/2016,1,FEET,54.3,DEGREES F,,
+04/22/2016,5,FEET,54.3,DEGREES F,,
+04/22/2016,6,FEET,54.1,DEGREES F,,
+04/22/2016,7,FEET,53.9,DEGREES F,,
+04/22/2016,8,FEET,53.7,DEGREES F,,
+04/22/2016,10,FEET,53.4,DEGREES F,,
+04/22/2016,12,FEET,52.8,DEGREES F,,
+04/22/2016,15,FEET,50.7,DEGREES F,,
+05/22/2016,1,FEET,69.4,DEGREES F,,
+05/22/2016,2,FEET,69,DEGREES F,,
+05/22/2016,3,FEET,66.3,DEGREES F,,
+05/22/2016,5,FEET,63.8,DEGREES F,,
+05/22/2016,8,FEET,57.2,DEGREES F,,
+05/22/2016,10,FEET,54.8,DEGREES F,,
+05/22/2016,12,FEET,53.6,DEGREES F,,
+05/22/2016,15,FEET,52.8,DEGREES F,,
+05/22/2016,18,FEET,52.1,DEGREES F,,
+07/01/2016,1,FEET,71.9,DEGREES F,,
+07/01/2016,2,FEET,71.7,DEGREES F,,
+07/01/2016,3,FEET,71.6,DEGREES F,,
+07/01/2016,4,FEET,71.4,DEGREES F,,
+07/01/2016,5,FEET,71,DEGREES F,,
+07/01/2016,6,FEET,70.8,DEGREES F,,
+07/01/2016,7,FEET,70.8,DEGREES F,,
+07/01/2016,8,FEET,70.5,DEGREES F,,
+07/01/2016,9,FEET,69.6,DEGREES F,,
+07/01/2016,10,FEET,65.6,DEGREES F,,
+07/01/2016,12,FEET,59,DEGREES F,,
+07/01/2016,15,FEET,54.6,DEGREES F,,
+07/01/2016,20,FEET,52.1,DEGREES F,,
+08/22/2016,1,FEET,71.9,DEGREES F,,
+08/22/2016,2,FEET,71.9,DEGREES F,,
+08/22/2016,3,FEET,71.7,DEGREES F,,
+08/22/2016,4,FEET,71.6,DEGREES F,,
+08/22/2016,5,FEET,71.6,DEGREES F,,
+08/22/2016,6,FEET,71.5,DEGREES F,,
+08/22/2016,7,FEET,71.4,DEGREES F,,
+08/22/2016,8,FEET,71.4,DEGREES F,,
+08/22/2016,9,FEET,70.8,DEGREES F,,
+08/22/2016,10,FEET,70.3,DEGREES F,,
+08/22/2016,12,FEET,69.4,DEGREES F,,
+08/22/2016,15,FEET,59.3,DEGREES F,,
+08/22/2016,18,FEET,59.1,DEGREES F,,
+09/02/2016,1,FEET,70.8,DEGREES F,,
+09/02/2016,2,FEET,70.7,DEGREES F,,
+09/02/2016,3,FEET,70.3,DEGREES F,,
+09/02/2016,4,FEET,70.1,DEGREES F,,
+09/02/2016,5,FEET,70.1,DEGREES F,,
+09/02/2016,6,FEET,69.9,DEGREES F,,
+09/02/2016,7,FEET,69.8,DEGREES F,,
+09/02/2016,8,FEET,69.4,DEGREES F,,
+09/02/2016,9,FEET,69.2,DEGREES F,,
+09/02/2016,10,FEET,68.5,DEGREES F,,
+09/02/2016,12,FEET,64.9,DEGREES F,,
+09/02/2016,15,FEET,58.9,DEGREES F,,
+09/02/2016,18,FEET,55.7,DEGREES F,,
+10/22/2016,1,FEET,53.6,DEGREES F,,
+10/22/2016,3,FEET,53.4,DEGREES F,,
+10/22/2016,6,FEET,53,DEGREES F,,
+10/22/2016,9,FEET,53,DEGREES F,,
+10/22/2016,12,FEET,52.8,DEGREES F,,
+10/22/2016,15,FEET,52.5,DEGREES F,,
+10/22/2016,18,FEET,51.9,DEGREES F,,
+04/07/2017,1,FEET,40.6,DEGREES F,,
+04/07/2017,3,FEET,40.4,DEGREES F,,
+04/07/2017,6,FEET,40.2,DEGREES F,,
+04/07/2017,9,FEET,39.9,DEGREES F,,
+04/07/2017,12,FEET,39.9,DEGREES F,,
+04/07/2017,15,FEET,39.7,DEGREES F,,
+04/07/2017,18,FEET,39.5,DEGREES F,,
+06/02/2017,3,FEET,66,DEGREES F,,
+06/02/2017,6,FEET,60.8,DEGREES F,,
+06/02/2017,9,FEET,59,DEGREES F,,
+06/02/2017,12,FEET,54.8,DEGREES F,,
+06/02/2017,15,FEET,53.2,DEGREES F,,
+06/02/2017,18,FEET,51.9,DEGREES F,,
+06/09/2017,3,FEET,75.2,DEGREES F,,
+06/09/2017,6,FEET,66.9,DEGREES F,,
+06/09/2017,9,FEET,61.1,DEGREES F,,
+06/09/2017,12,FEET,55.2,DEGREES F,,
+06/09/2017,15,FEET,53.4,DEGREES F,,
+06/09/2017,18,FEET,53.4,DEGREES F,,
+06/27/2017,3,FEET,64.9,DEGREES F,,
+06/27/2017,6,FEET,64.7,DEGREES F,,
+06/27/2017,9,FEET,64.4,DEGREES F,,
+06/27/2017,12,FEET,58.4,DEGREES F,,
+06/27/2017,15,FEET,54.8,DEGREES F,,
+06/27/2017,18,FEET,53,DEGREES F,,
+07/11/2017,1,FEET,75.2,DEGREES F,,
+07/11/2017,3,FEET,74.3,DEGREES F,,
+07/11/2017,6,FEET,71.9,DEGREES F,,
+07/11/2017,9,FEET,64.4,DEGREES F,,
+07/11/2017,12,FEET,58.2,DEGREES F,,
+07/11/2017,15,FEET,55.2,DEGREES F,,
+07/11/2017,18,FEET,53.2,DEGREES F,,
+07/19/2017,1,FEET,77,DEGREES F,,
+07/19/2017,3,FEET,75.9,DEGREES F,,
+07/19/2017,6,FEET,73.5,DEGREES F,,
+07/19/2017,9,FEET,65.6,DEGREES F,,
+07/19/2017,12,FEET,59,DEGREES F,,
+07/19/2017,15,FEET,55.4,DEGREES F,,
+07/19/2017,18,FEET,53.9,DEGREES F,,
+09/19/2017,1,FEET,67.1,DEGREES F,,
+09/19/2017,3,FEET,66.7,DEGREES F,,
+09/19/2017,6,FEET,66.2,DEGREES F,,
+09/19/2017,9,FEET,63.3,DEGREES F,,
+09/19/2017,12,FEET,62.2,DEGREES F,,
+09/19/2017,15,FEET,60.9,DEGREES F,,
+09/19/2017,18,FEET,59.7,DEGREES F,,
+05/07/2018,1,FEET,55.7,DEGREES F,,
+05/07/2018,3,FEET,55.5,DEGREES F,,
+05/07/2018,6,FEET,55.4,DEGREES F,,
+05/07/2018,9,FEET,53.9,DEGREES F,,
+05/07/2018,12,FEET,46.9,DEGREES F,,
+05/07/2018,15,FEET,43.7,DEGREES F,,
+05/07/2018,18,FEET,43.1,DEGREES F,,
+05/20/2018,1,FEET,66.2,DEGREES F,,
+05/20/2018,3,FEET,62.4,DEGREES F,,
+05/20/2018,6,FEET,60.6,DEGREES F,,
+05/20/2018,9,FEET,58.2,DEGREES F,,
+05/20/2018,12,FEET,45.3,DEGREES F,,
+05/20/2018,15,FEET,44.6,DEGREES F,,
+05/20/2018,18,FEET,44.2,DEGREES F,,
+05/20/2018,21,FEET,44,DEGREES F,,
+06/13/2018,1,FEET,71.2,DEGREES F,,
+06/13/2018,3,FEET,70.7,DEGREES F,,
+06/13/2018,6,FEET,68.3,DEGREES F,,
+06/13/2018,9,FEET,56.6,DEGREES F,,
+06/13/2018,12,FEET,48.5,DEGREES F,,
+06/13/2018,15,FEET,46.4,DEGREES F,,
+06/13/2018,18,FEET,45.6,DEGREES F,,
+06/13/2018,21,FEET,44.9,DEGREES F,,
+06/19/2018,1,FEET,75.5,DEGREES F,,
+06/19/2018,3,FEET,73,DEGREES F,,
+06/19/2018,6,FEET,69.8,DEGREES F,,
+06/19/2018,9,FEET,62.4,DEGREES F,,
+06/19/2018,12,FEET,51.2,DEGREES F,,
+06/19/2018,15,FEET,47.6,DEGREES F,,
+06/19/2018,18,FEET,47.1,DEGREES F,,
+06/19/2018,21,FEET,46.7,DEGREES F,,
+07/06/2018,1,FEET,80.9,DEGREES F,,
+07/06/2018,3,FEET,78.6,DEGREES F,,
+07/06/2018,6,FEET,77,DEGREES F,,
+07/06/2018,9,FEET,61.5,DEGREES F,,
+07/06/2018,12,FEET,52.5,DEGREES F,,
+07/06/2018,15,FEET,48.9,DEGREES F,,
+07/06/2018,18,FEET,47.6,DEGREES F,,
+07/22/2018,1,FEET,73.2,DEGREES F,,
+07/22/2018,3,FEET,72.6,DEGREES F,,
+07/22/2018,6,FEET,71.9,DEGREES F,,
+07/22/2018,9,FEET,70.8,DEGREES F,,
+07/22/2018,12,FEET,54.3,DEGREES F,,
+07/22/2018,15,FEET,49.1,DEGREES F,,
+07/22/2018,18,FEET,48.2,DEGREES F,,
+07/22/2018,21,FEET,47.4,DEGREES F,,
+07/30/2018,1,FEET,74.1,DEGREES F,,
+07/30/2018,3,FEET,71.6,DEGREES F,,
+07/30/2018,6,FEET,70.3,DEGREES F,,
+07/30/2018,9,FEET,67.4,DEGREES F,,
+07/30/2018,12,FEET,55.7,DEGREES F,,
+07/30/2018,15,FEET,49.6,DEGREES F,,
+07/30/2018,18,FEET,48.2,DEGREES F,,
+07/30/2018,21,FEET,47.6,DEGREES F,,
+08/08/2018,1,FEET,75,DEGREES F,,
+08/08/2018,3,FEET,74.4,DEGREES F,,
+08/08/2018,6,FEET,71.7,DEGREES F,,
+08/08/2018,9,FEET,66.2,DEGREES F,,
+08/08/2018,12,FEET,57,DEGREES F,,
+08/08/2018,15,FEET,51.6,DEGREES F,,
+08/08/2018,18,FEET,49.2,DEGREES F,,
+08/08/2018,21,FEET,48.2,DEGREES F,,
+08/31/2018,1,FEET,69.8,DEGREES F,,
+08/31/2018,3,FEET,69.8,DEGREES F,,
+08/31/2018,6,FEET,69,DEGREES F,,
+08/31/2018,9,FEET,68.7,DEGREES F,,
+08/31/2018,12,FEET,62.4,DEGREES F,,
+08/31/2018,15,FEET,52.7,DEGREES F,,
+08/31/2018,18,FEET,50.9,DEGREES F,,
+08/31/2018,21,FEET,49.8,DEGREES F,,
+09/10/2018,1,FEET,68,DEGREES F,,
+09/10/2018,3,FEET,65.8,DEGREES F,,
+09/10/2018,6,FEET,65.6,DEGREES F,,
+09/10/2018,9,FEET,64.7,DEGREES F,,
+09/10/2018,12,FEET,62.2,DEGREES F,,
+09/10/2018,15,FEET,57,DEGREES F,,
+09/10/2018,18,FEET,51.8,DEGREES F,,
+09/10/2018,21,FEET,50,DEGREES F,,
+05/03/2019,1,FEET,44.9,DEGREES F,,
+05/03/2019,3,FEET,43.7,DEGREES F,,
+05/03/2019,6,FEET,43.1,DEGREES F,,
+05/03/2019,9,FEET,42.8,DEGREES F,,
+05/03/2019,12,FEET,42.6,DEGREES F,,
+05/03/2019,15,FEET,42.6,DEGREES F,,
+05/03/2019,18,FEET,42.2,DEGREES F,,
+05/03/2019,21,FEET,42,DEGREES F,,
+05/26/2019,1,FEET,57.9,DEGREES F,,
+05/26/2019,3,FEET,57,DEGREES F,,
+05/26/2019,6,FEET,56.4,DEGREES F,,
+05/26/2019,9,FEET,56.1,DEGREES F,,
+05/26/2019,12,FEET,54.6,DEGREES F,,
+05/26/2019,15,FEET,50.7,DEGREES F,,
+05/26/2019,18,FEET,48.9,DEGREES F,,
+05/26/2019,21,FEET,47.1,DEGREES F,,
+06/16/2019,1,FEET,57.9,DEGREES F,,
+06/16/2019,3,FEET,57,DEGREES F,,
+06/16/2019,6,FEET,56.4,DEGREES F,,
+06/16/2019,9,FEET,56.1,DEGREES F,,
+06/16/2019,12,FEET,54.6,DEGREES F,,
+06/16/2019,15,FEET,50.7,DEGREES F,,
+06/16/2019,18,FEET,48.9,DEGREES F,,
+06/16/2019,21,FEET,47.1,DEGREES F,,
+07/07/2019,1,FEET,79.8,DEGREES F,,
+07/07/2019,3,FEET,78.2,DEGREES F,,
+07/07/2019,6,FEET,72.3,DEGREES F,,
+07/07/2019,9,FEET,61.1,DEGREES F,,
+07/07/2019,12,FEET,54.6,DEGREES F,,
+07/07/2019,15,FEET,52.3,DEGREES F,,
+07/07/2019,18,FEET,51,DEGREES F,,
+07/07/2019,21,FEET,50,DEGREES F,,
+07/17/2019,1,FEET,81.8,DEGREES F,,
+07/17/2019,3,FEET,80.6,DEGREES F,,
+07/17/2019,6,FEET,76.4,DEGREES F,,
+07/17/2019,9,FEET,64.7,DEGREES F,,
+07/17/2019,12,FEET,55.4,DEGREES F,,
+07/17/2019,15,FEET,52.3,DEGREES F,,
+07/17/2019,18,FEET,51,DEGREES F,,
+07/17/2019,21,FEET,50.3,DEGREES F,,
+07/19/2019,1,FEET,81.6,DEGREES F,,
+07/19/2019,3,FEET,78.9,DEGREES F,,
+07/19/2019,6,FEET,77.9,DEGREES F,,
+07/19/2019,9,FEET,64.7,DEGREES F,,
+07/19/2019,12,FEET,55.2,DEGREES F,,
+07/19/2019,15,FEET,52.5,DEGREES F,,
+07/19/2019,18,FEET,51.2,DEGREES F,,
+07/19/2019,21,FEET,50.1,DEGREES F,,
+08/04/2019,1,FEET,78.6,DEGREES F,,
+08/04/2019,3,FEET,76.8,DEGREES F,,
+08/04/2019,6,FEET,72.6,DEGREES F,,
+08/04/2019,9,FEET,68.7,DEGREES F,,
+08/04/2019,12,FEET,59.7,DEGREES F,,
+08/04/2019,15,FEET,54.6,DEGREES F,,
+08/04/2019,18,FEET,53.4,DEGREES F,,
+08/04/2019,21,FEET,51.9,DEGREES F,,
+08/12/2019,1,FEET,75.9,DEGREES F,,
+08/12/2019,3,FEET,74.4,DEGREES F,,
+08/12/2019,6,FEET,73.4,DEGREES F,,
+08/12/2019,9,FEET,70.3,DEGREES F,,
+08/12/2019,12,FEET,60.6,DEGREES F,,
+08/12/2019,15,FEET,55.4,DEGREES F,,
+08/12/2019,18,FEET,53.6,DEGREES F,,
+08/12/2019,21,FEET,52.1,DEGREES F,,
+09/10/2019,1,FEET,63.3,DEGREES F,,
+09/10/2019,3,FEET,62.7,DEGREES F,,
+09/10/2019,6,FEET,62.6,DEGREES F,,
+09/10/2019,9,FEET,62.4,DEGREES F,,
+09/10/2019,12,FEET,62.4,DEGREES F,,
+09/10/2019,15,FEET,59.1,DEGREES F,,
+09/10/2019,18,FEET,55.7,DEGREES F,,
+09/10/2019,21,FEET,53.4,DEGREES F,,
+06/23/2020,1,FEET,71.6,DEGREES F,,
+06/23/2020,3,FEET,71.6,DEGREES F,,
+06/23/2020,6,FEET,71.4,DEGREES F,,
+06/23/2020,9,FEET,64.7,DEGREES F,,
+06/23/2020,12,FEET,56.4,DEGREES F,,
+06/23/2020,15,FEET,52.8,DEGREES F,,
+06/23/2020,18,FEET,52.8,DEGREES F,,
+06/23/2020,21,FEET,52.7,DEGREES F,,
+07/20/2020,1,FEET,78.2,DEGREES F,,
+07/20/2020,3,FEET,77.7,DEGREES F,,
+07/20/2020,6,FEET,77.5,DEGREES F,,
+07/20/2020,9,FEET,69.4,DEGREES F,,
+07/20/2020,12,FEET,57.9,DEGREES F,,
+07/20/2020,15,FEET,54.8,DEGREES F,,
+07/20/2020,18,FEET,53.4,DEGREES F,,
+07/20/2020,21,FEET,52.3,DEGREES F,,
+08/21/2020,1,FEET,75,DEGREES F,,
+08/21/2020,3,FEET,74.6,DEGREES F,,
+08/21/2020,6,FEET,73.5,DEGREES F,,
+08/21/2020,9,FEET,71.7,DEGREES F,,
+08/21/2020,12,FEET,61.8,DEGREES F,,
+08/21/2020,15,FEET,56.6,DEGREES F,,
+08/21/2020,18,FEET,53.9,DEGREES F,,
+08/21/2020,21,FEET,52.8,DEGREES F,,
+09/05/2020,1,FEET,66.7,DEGREES F,,
+09/05/2020,3,FEET,66.5,DEGREES F,,
+09/05/2020,6,FEET,66.3,DEGREES F,,
+09/05/2020,9,FEET,66.3,DEGREES F,,
+09/05/2020,12,FEET,66.2,DEGREES F,,
+09/05/2020,15,FEET,57.5,DEGREES F,,
+09/05/2020,18,FEET,53.9,DEGREES F,,
+09/05/2020,21,FEET,53.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/09/1987,Somewhat windy    
+05/29/1987,Algae observed.    
+06/13/1987,Algae bloom.    
+06/27/1987,Algae bloom.    
+08/01/1987,Lots of boat use and public beach use.    
+08/29/1987,Lake low judging from level on shore.    
+09/07/1987,Water level is down approximately 14-16" by shoreline observation.    
+07/01/1988,Slight bloom    
+07/21/1989,Some people would not swim in lake now    
+09/23/1989,Windy.  Water level: very low.    
+06/19/1990,Algae bloom    
+08/22/1990,Bald eagle in S bay 8/15    
+07/08/1991,Algae bloom    
+04/24/2001,MAX DEPTH    
+05/10/2013,Reading was at 2' with the lake level high with brown stained water. Perception was #2 
+09/03/2013,Clear and sunny day
+09/19/2015,Small flecks of algae floating in the lake starting about ten ft out. Clear at shore line on north shore.
+09/25/2015,Pieces of algae floating in the lake. Solid thick green at the inlet
+05/22/2016,Mostly sunny- breezy and warm
+06/21/2016,Sunny and breezy
+07/16/2016,Lake effervescent pea green and thick from shoreline to about 20 feet out. After that water is full small green globules. Lake effervescent pea green and thick from shoreline to about 20 feet out. After that water is full small green globules.
+08/22/2016,Lake is clear with some small algae globules floating in the water. Breezy
+09/02/2016,Beautiful day with little breeze. Quiet on lake
+10/22/2016,Outside temp is 58F. North shore is all green and algae flecks all over the lake.
+04/07/2017,Gusty winds day before removing last of ice off the lake. This day was calm sunny with air temperature of 54F.
+06/02/2017,Sunny- calm and outside temp 72 F.   One small motorboat on lake. Small bits algae suspended in water but surface is clear.
+06/09/2017,Partly cloudy- air temp 75F- one small fishing boat and one kayak on lake. Calm. Partly cloudy- air temp 75F- one small fishing boat and one kayak on lake. Calm. Small pieces of algae in water but no surface algae seen.
+07/11/2017,Air temp 81F. Very calm- partly sunny. Algae evident in water column but not on surface. 2 boaters on the lake.
+07/19/2017,Sunny and calm 
+09/19/2017,Outside temp is 70. Mostly sunny with soft breeze. Green bloom along north shore.. otherwise algae seen in water column but not on the surface.  Outside temp is 70. Mostly sunny with soft breeze. Green bloom along north shore.. otherwise algae seen in water column but not on the surface. Chlorophyll and phosphorus samples collected today. 
+05/07/2018,No other people on the lake.  2 female and 2 male goldeneye ducks on the lake
+Air  temp 75 F and breezy.  Partly sunny This is an additional comment in regard to the previous data entry.
+Ice off on Tug Lake was May 3- 2018.
+05/20/2018,Air temp 66F.  No activity on the lake. Clear- sunny and calm.
+06/13/2018,Air temperature 66 degrees F- clear- sunny- wind 11mph.  Algae is suspended in the water through out the lake but no collection on top.  No activity on lake.  Due to dead battery- temps collected following day with air temp 69- partly sunny and wind1mph.  Algae appears same as yesterday.  Three fishing boats on lake- no other activity or water fowl observed.
+06/19/2018,Partly cloudy- air temp 74F- wind 5mph.  Minimal algae visible in water column only close to shore area but otherwise the water very clear.  We have had several days of heavy rains past few days.  2 fishing boats on lake currently and we have 2 small families of geese on the lake.
+07/06/2018,Clear sky- air temp 78- win 3mph.  Recreational boats and paddleboarders on the lake.  People  at the beach and in the water swimming.  Algae is present in the water column but otherwise the water is clear.  No surface algae bloom seen.
+07/22/2018,Partly sunny.  Air temperature 78. Wind 8mph. No wildlife seen.  Two fishing boats- two jet boats and boat pulling tubers.  Swimmers swimming at the beach.  No algae seen.
+07/30/2018,Weather was clear skies and calm.  One fishing boat on lake and one eagle swooped down to the lake.
+Algae in water column in center of lake but shore water was very clear.  Air temp 77
+08/08/2018,Partly sunny.  2 fishing boats.  Water very clear.
+08/31/2018,Windy out . One kayak and one fishing boat. Partly cloudy. Wind 11mph. Air temperature 77degrees.
+09/10/2018,66 air temp.  Clear skies. 1 mph winds.  Lake is clear with no signs of algae. No activity on the lake at this time. 
+05/03/2019,Ice out April25- 2019.  Today 46F- partly sunny and calm with wind at 3mph.  Water clear and beautiful. No other human activity on lake currently.  Two Canadian geese flew by and landed.
+05/26/2019, mostly sunny- wind at 2 mph- air temp 66 F.  Water clear.  Turtle head poking out of water by an island.  No waterfowl seen.  One fishing boat on lake.
+06/16/2019,Mostly sunny.  Air temp: 68.  Wind 5mph.  Water is beautiful. One pontoon boat on lake.
+07/07/2019,Sunny- air temp 74- wind 2mph.  One fishing boat and one boat pulling tubers out on lake.  Two swimmers at beach.  One Canadian goose on lake.  There is algae seen in the water column but none collecting on surface at this time.
+07/17/2019,Lot of algae in water column especially toward the shore. No surface algae seen.  Swimmers are at the beach swimming.  5 kayakers out on lake.
+07/19/2019,Air temp 86F- wind 1mph- humidity 60%- algae in water column and accumulating on surface toward shore. No boats on lake and no people at park/beach.  Saw 1 mallard male duck and the green frogs are calling. Air temp 86F- wind 1mph- humidity 60%- algae in water column and accumulating on surface toward shore. No boats on lake and no people at park/beach.  Saw 1 mallard male duck and the green frogs are calling.  Phosphorus and chlorophyll samples collected.
+08/04/2019,Air temp 72F- 3mph. Flock of seagulls on lake. 1 pontoon boat and 3 kayaks on lake.  Algae in water column throughout lake but no surface collection at this time. 
+08/12/2019,Partly sunny- air temp 82- wind 1mph. No watercraft or people on the lake. Flock of seagulls on the lake.
+09/10/2019,Partly cloudy. Air temp 76.  11mph.  Flock of seagulls middle of lake.  No people on lake. Algae in water column by shore only.  No surface algae seen. Partly cloudy. Air temp 76.  11mph.  Flock of seagulls middle of lake.  No people on lake. Algae in water column by shore only.  No surface algae seen. Phosphorus and chlorophyll samples obtained today.
+06/23/2020,Partly sunny- wind 9mph- air temperature 64 degrees Fahrenheit. Lake at shoreline is clear. 
+1 duck- 2 eagles. 1 fishing boat out
+07/20/2020,Air temp 74F  wind 5mph. Partly sunny. Swimmers at beach and 1 kayaker out. 
+08/21/2020,Clear sky and sunny. Air temperature 76F. Wind 5mph. One fishing boat and one kayak on lake. Flock of gulls on lake. 
+Water very clear. Water sample for phosphorus and chlorophyll also collected. 
+09/05/2020,Air temperature 69F.  Wind 7mph. 2 recreational boats out- one with tuber and one with skier. 2 pontoons out.  1 canoe out.
+Large flock of  gulls resting on lake.
+
+
+
+
+Start Date,Group Name,Project Name
+08/08/1986,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/16/1986,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/31/1986,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/02/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/09/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/29/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/13/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/27/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/18/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/19/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/01/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/09/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/16/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/29/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/07/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+10/10/1987,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/29/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/15/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/01/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/07/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/15/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/07/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/30/1988,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/27/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/17/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/21/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/29/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/03/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/13/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/22/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/17/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/23/1989,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/07/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/19/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/28/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/04/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/18/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/02/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/22/1990,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/25/1991,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/06/1991,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/25/1991,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/08/1991,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/22/1991,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/15/1991,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/12/1992,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/30/1992,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/13/1992,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/24/1992,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/29/1992,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/23/1992,Shirley Gajewski,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/29/2000,Data Collectors,General Surface Water Monitoring 1999-2001
+04/24/2001,Data Collectors,General Surface Water Monitoring 1999-2001
+08/28/2007,STEVEN GREB,Dissolved Organic Carbon (DOC) Assessment for Remote Sensing 2007
+10/15/2012,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/10/2013,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/30/2013,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/03/2013,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+10/02/2013,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/31/2014,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/25/2014,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/08/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/25/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/26/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/09/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/19/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/25/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+10/11/2015,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+04/22/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/22/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/21/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/22/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/01/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/16/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/19/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/22/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/02/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+10/22/2016,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+04/07/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/02/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/09/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/27/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/11/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/19/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/19/2017,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/07/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/20/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/13/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/19/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/06/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/22/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/30/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/08/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/31/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/10/2018,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/03/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+05/26/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/16/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/07/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/17/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/19/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/04/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/12/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/10/2019,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+06/23/2020,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+07/20/2020,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+08/21/2020,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth
+09/05/2020,Barb Rambo-Hartley,Citizen Lake Monitoring - Water Quality - Tug Lake - Max Depth

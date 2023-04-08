@@ -1,0 +1,145 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Frank Lake,Vilas,985900,NO,64,,643043,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/08/1978,,,,9,,,,51,,,,,
+1,08/30/1978,9.5,,2.9,10,,45,,52,,,,,
+1,09/20/1978,9.8,,3,,,44,,,,,,,
+1,05/03/1979,,,,16,,,,56,,,,,
+1,05/07/1979,,,,4,,,,45,,,,,
+1,05/23/1979,8.5,,2.6,,,46,,,,,,,
+1,06/13/1979,5.9,,1.8,,,52,,,,,,,
+1,06/26/1979,,,,5,,,,47,,,,,
+1,07/12/1979,8.2,,2.5,,,47,,,,,,,
+1,07/23/1979,9.5,,2.9,8,,45,,51,,,,,
+1,08/19/1979,6.9,,2.1,,,49,,,,,,,
+1,09/04/1979,,,,8,,,,51,,,,,
+1,09/26/1979,,,,,,,,,,,,,
+1,05/01/1980,8.2,,2.5,6,20,47,51,48,,,,,
+1,05/22/1980,7.2,,2.2,5,20,49,51,47,,,,,
+1,06/12/1980,11.5,,3.5,5,,42,,47,,,,,
+1,06/26/1980,9.8,,3,5,20,44,51,47,,,,,
+1,07/08/1980,10.5,,3.2,5,,43,,47,,,,,
+1,07/21/1980,,,,6,20,,51,48,,,,,
+1,08/07/1980,,,,,20,,51,,,,,,
+1,08/21/1980,7.2,,2.2,8,20,49,51,51,,,,,
+1,09/03/1980,6.6,,2,12,,50,,54,,,,,
+1,09/18/1980,9.2,,2.8,10,20,45,51,52,,,,,
+1,04/20/1981,,,,7,20,,51,50,,,,,
+1,05/11/1981,11.5,,3.5,8,20,42,51,51,,,,,
+1,06/02/1981,17.1,,5.2,4,,36,,45,,,,,
+1,06/16/1981,13.4,,4.1,5,20,40,51,47,,,,,
+1,07/01/1981,11.5,,3.5,5,,42,,47,,,,,
+1,07/15/1981,13.1,,4,5,13,40,48,47,,,,,
+1,08/03/1981,,,,5,,,,47,,,,,
+1,09/28/1981,,,,,38,,56,,,,,,
+162540739,06/25/2018,10.75,NO,3.3,,,43,,,,,,GREEN,1-Beautiful, could not be nicer
+162540739,08/13/2018,8.25,NO,2.5,,,47,,,,,,YELLOW,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/30/1978,,,22,C,8.7,MG/L
+09/20/1978,,,11,C,.7,MG/L
+05/23/1979,,,10,C,11.4,MG/L
+06/13/1979,,,18,C,.3,MG/L
+07/12/1979,,,7.5,C,1.4,MG/L
+07/23/1979,,,23,C,8.3,MG/L
+08/19/1979,,,8,C,1.3,MG/L
+09/04/1979,,,19,C,,
+09/26/1979,,,7,C,.2,MG/L
+05/01/1980,,,10,C,10,MG/L
+05/22/1980,,,18,C,1,MG/L
+06/12/1980,,,17.5,C,9.4,MG/L
+06/26/1980,,,24.5,C,.2,MG/L
+07/08/1980,,,23,C,8.3,MG/L
+07/21/1980,,,10,C,.6,MG/L
+08/07/1980,,,24,C,8.2,MG/L
+08/21/1980,,,21.5,C,.3,MG/L
+09/03/1980,,,19,C,8.1,MG/L
+09/18/1980,,,15,C,.5,MG/L
+04/20/1981,,,7,C,10,MG/L
+05/11/1981,,,7,C,1,MG/L
+06/02/1981,,,17,C,8.2,MG/L
+06/16/1981,,,18,C,.5,MG/L
+07/01/1981,,,20,C,9,MG/L
+07/15/1981,,,22,C,.8,MG/L
+09/28/1981,,,13,C,.8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/08/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/30/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/20/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/03/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/07/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/13/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/12/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/19/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/04/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/26/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/01/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/22/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/12/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/26/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/08/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/21/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/07/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/21/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/03/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/18/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/20/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/11/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/02/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/16/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/01/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/15/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/03/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/28/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/08/1978,Data Collectors,Migrated from STORET Legacy
+08/30/1978,Data Collectors,Migrated from STORET Legacy
+09/20/1978,Data Collectors,Migrated from STORET Legacy
+05/03/1979,Data Collectors,Migrated from STORET Legacy
+05/07/1979,Data Collectors,Migrated from STORET Legacy
+05/23/1979,Data Collectors,Migrated from STORET Legacy
+06/13/1979,Data Collectors,Migrated from STORET Legacy
+06/26/1979,Data Collectors,Migrated from STORET Legacy
+07/12/1979,Data Collectors,Migrated from STORET Legacy
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+08/19/1979,Data Collectors,Migrated from STORET Legacy
+09/04/1979,Data Collectors,Migrated from STORET Legacy
+09/26/1979,Data Collectors,Migrated from STORET Legacy
+05/01/1980,Data Collectors,Migrated from STORET Legacy
+05/22/1980,Data Collectors,Migrated from STORET Legacy
+06/12/1980,Data Collectors,Migrated from STORET Legacy
+06/26/1980,Data Collectors,Migrated from STORET Legacy
+07/08/1980,Data Collectors,Migrated from STORET Legacy
+07/21/1980,Data Collectors,Migrated from STORET Legacy
+08/07/1980,Data Collectors,Migrated from STORET Legacy
+08/21/1980,Data Collectors,Migrated from STORET Legacy
+09/03/1980,Data Collectors,Migrated from STORET Legacy
+09/18/1980,Data Collectors,Migrated from STORET Legacy
+04/20/1981,Data Collectors,Migrated from STORET Legacy
+05/11/1981,Data Collectors,Migrated from STORET Legacy
+06/02/1981,Data Collectors,Migrated from STORET Legacy
+06/16/1981,Data Collectors,Migrated from STORET Legacy
+07/01/1981,Data Collectors,Migrated from STORET Legacy
+07/15/1981,Data Collectors,Migrated from STORET Legacy
+08/03/1981,Data Collectors,Migrated from STORET Legacy
+09/28/1981,Data Collectors,Migrated from STORET Legacy
+06/25/2018,Sara McCormack,Lake Monitoring on Waters Within the Town of Plum Lake-Water Quality Monitoring
+08/13/2018,Sara McCormack,Lake Monitoring on Waters Within the Town of Plum Lake-Water Quality Monitoring

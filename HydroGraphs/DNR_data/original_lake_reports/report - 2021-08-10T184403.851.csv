@@ -1,0 +1,54 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hanson Lake,Oneida,988200,NO,44,,443108,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/02/1979,,,,,,,,,,,,,
+145711549,07/18/2018,10.5,NO,3.2,,,43,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+238423506,07/16/2020,13,NO,4,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/02/1979,,,22.8,C,,
+07/18/2018,2,FEET,76.5,DEGREES F,7.6,MG/L
+07/18/2018,4,FEET,76.4,DEGREES F,7.54,MG/L
+07/18/2018,6,FEET,76.3,DEGREES F,7.52,MG/L
+07/18/2018,8,FEET,76.1,DEGREES F,7.35,MG/L
+07/18/2018,10,FEET,65.6,DEGREES F,11.65,MG/L
+07/18/2018,12,FEET,65.6,DEGREES F,11.65,MG/L
+07/18/2018,14,FEET,57.2,DEGREES F,8.52,MG/L
+07/18/2018,16,FEET,52.7,DEGREES F,5.87,MG/L
+07/18/2018,18,FEET,49.5,DEGREES F,4.24,MG/L
+07/18/2018,20,FEET,47.5,DEGREES F,2.52,MG/L
+07/18/2018,22,FEET,45.7,DEGREES F,1.12,MG/L
+07/16/2020,2,FEET,78.1,DEGREES F,7.83,MG/L
+07/16/2020,4,FEET,77.1,DEGREES F,7.91,MG/L
+07/16/2020,6,FEET,76.2,DEGREES F,7.91,MG/L
+07/16/2020,8,FEET,75.8,DEGREES F,7.84,MG/L
+07/16/2020,10,FEET,75.5,DEGREES F,7.78,MG/L
+07/16/2020,12,FEET,73.4,DEGREES F,8.09,MG/L
+07/16/2020,14,FEET,65.6,DEGREES F,8.33,MG/L
+07/16/2020,16,FEET,62.3,DEGREES F,8.33,MG/L
+07/16/2020,18,FEET,56,DEGREES F,6.98,MG/L
+07/16/2020,20,FEET,52.2,DEGREES F,3.46,MG/L
+07/16/2020,22,FEET,50,DEGREES F,.53,MG/L
+07/16/2020,24,FEET,48.2,DEGREES F,.11,MG/L
+07/16/2020,26,FEET,47.7,DEGREES F,.08,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/02/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+
+
+
+
+Start Date,Group Name,Project Name
+08/02/1979,Data Collectors,Migrated from STORET Legacy
+07/18/2018,Aubrey Nycz- Thomas Boisvert,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+07/16/2020,Aubrey Nycz- Rachel Cook,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

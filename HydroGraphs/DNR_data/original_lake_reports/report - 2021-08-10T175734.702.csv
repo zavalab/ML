@@ -1,0 +1,182 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Tuma Lake,Manitowoc,87900,NE,36,,363030,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/09/1976,,,,,17,,50,,,,,,
+1,04/13/1976,7.4,,2.25,,,48,,,,,,,
+1,07/07/1976,8.9,,2.7,,,46,,,,,,,
+1,10/25/1976,11.5,,3.5,,,42,,,,,,,
+1,02/17/1994,,,,,21,,52,,,,,,
+1,06/27/1994,11.7,,3.58,4.67,16,42,50,46,,,,,
+1,07/18/1994,15,,4.57,3.41,12,38,47,44,,,,,
+1,08/15/1994,15,,4.57,1.88,12,38,47,40,,,,,
+1,08/16/1994,,,,,,,,,,,,,
+7000093,08/26/2003,7.2,NO,2.2,3.41,14,49,49,44,,,CLEAR,,
+1,07/22/2012,,,,4.38,21,,52,46,,,,,
+1,08/19/2012,,,,5.07,18,,51,47,,,,,
+1,09/15/2012,,,,2.69,20,,51,42,,,,,
+32257511,04/29/2013,,,,,23.1,,52,,,,,,
+30603722,07/07/2013,,,,3.82,21.8,,52,45,,,,,
+30603722,09/08/2013,,,,4.19,24,,53,46,,,,,
+30603722,04/28/2014,9,,2.7,,,45,,,,,,,
+30603726,04/28/2014,,,,,31,,55,,,,,,
+34982050,04/28/2014,9, ,2.7,,,45,,,,,,,
+7000093,08/06/2014,8,NO,2.4,5.1,19.7,47,51,47,,,,,1-Beautiful, could not be nicer
+7000093,09/02/2014,8.5,N,2.6,4.97,25.8,46,53,47,,,,,1-Beautiful, could not be nicer
+30603722,04/07/2015,10,,3,,32.6,44,55,,,,,,
+30603722,07/15/2015,10,,3,,,44,,,,,,,
+30603722,09/27/2015,14,,4.3,,,39,,,,,,,
+34982050,09/27/2015,,,,2.64,24.9,,53,42,,,,,
+32257511,03/23/2016,,,,,24.5,,53,,,,,,
+30603722,06/12/2016,11,,3.3,,,43,,,,,,,
+30603722,08/21/2016,8,,2.4,,20.9,47,52,,,,,,
+30603722,09/16/2016,12,,3.6,,,41,,,,,,,
+30603722,07/16/2017,5,,1.5,3.63,22.2,54,52,45,,,,,
+1,08/26/2017,9,N,2.7,3.24,17.8,45,50,44,,,,,
+30603722,08/27/2017,9,,2.7,,,45,,,,,,,
+1,09/16/2017,12,,3.6,2.57,14.2,41,49,42,,,,,
+30603722,04/29/2018,10,,3,,26,44,53,,,,,,
+30603722,06/16/2018,8,,2.4,,23.3,47,53,,,,,,
+30603722,07/22/2018,8,,2.4,,14.8,47,49,,,,,,
+30603722,08/19/2018,10,,3,,17.2,44,50,,,,,,
+30603722,04/21/2019,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+152082996,04/21/2019,,,,,24.8,,53,,,,,,
+30603722,06/22/2019,10,NO,3,3.47,21,44,52,44,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+30603722,07/17/2019,8,NO,2.4,6.07,19.6,47,51,48,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+1,08/28/2019,,,,6.38,13.7,,48,49,,,,,
+30603722,08/28/2019,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+30603722,06/29/2020,10,NO,3,3.15,19.4,44,51,43,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+30603722,07/26/2020,9,NO,2.7,4.47,19.4,45,51,46,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,09/12/2020,,,,6.54,23.7,,53,49,,,,,
+30603722,09/12/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/09/1976,,,1,C,9,MG/L
+04/13/1976,,,5.5,C,5.7,MG/L
+07/07/1976,,,10.9,C,4.9,MG/L
+10/25/1976,,,7.8,C,8.8,MG/L
+02/17/1994,,,1.4,C,10.2,MG/L
+06/27/1994,,,23.4,C,0.68,MG/L
+07/18/1994,,,24.3,C,0.72,MG/L
+08/15/1994,,,22.0,C,8.2,MG/L
+08/16/1994,,,5.5,C,0.0,MG/L
+08/26/2003,0,METERS,27,DEGREES C,,
+08/26/2003,1,METERS,26.3,DEGREES C,,
+08/26/2003,2,METERS,25.9,DEGREES C,,
+08/26/2003,3,METERS,25,DEGREES C,,
+08/26/2003,4,METERS,19.9,DEGREES C,,
+08/26/2003,5,METERS,14.3,DEGREES C,,
+08/26/2003,6,METERS,10,DEGREES C,,
+08/26/2003,7,FEET,,,11,MG/L
+08/26/2003,7,METERS,7.4,DEGREES C,,
+08/26/2003,8,METERS,6.4,DEGREES C,,
+08/26/2003,9,METERS,6,DEGREES C,,
+08/26/2003,,,27.0,C,11.0,MG/L
+08/06/2014,1,METERS,23.5,DEGREES C,6.7,MG/L
+08/06/2014,2,METERS,22.2,DEGREES C,2.8,MG/L
+08/06/2014,3,METERS,18.6,DEGREES C,.3,MG/L
+08/06/2014,4,METERS,13.9,DEGREES C,.2,MG/L
+08/06/2014,5,METERS,8.8,DEGREES C,.1,MG/L
+08/06/2014,6,METERS,6.4,DEGREES C,.1,MG/L
+08/06/2014,7,METERS,5.4,DEGREES C,.1,MG/L
+08/06/2014,8,METERS,5,DEGREES C,.1,MG/L
+08/06/2014,9,METERS,4.8,DEGREES C,.1,MG/L
+08/06/2014,,,23.5,C,6.7,MG/L
+09/02/2014,1,METERS,22.2,DEGREES C,5.2,MG/L
+09/02/2014,2,METERS,22.1,DEGREES C,2.9,MG/L
+09/02/2014,3,METERS,19,DEGREES C,.3,MG/L
+09/02/2014,4,METERS,14.2,DEGREES C,.7,MG/L
+09/02/2014,5,METERS,9.9,DEGREES C,.1,MG/L
+09/02/2014,6,METERS,7.1,DEGREES C,.1,MG/L
+09/02/2014,7,METERS,5.6,DEGREES C,.1,MG/L
+09/02/2014,8,METERS,5.2,DEGREES C,.1,MG/L
+09/02/2014,9,METERS,5,DEGREES C,.1,MG/L
+09/02/2014,,,22.2,C,5.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/09/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/13/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/07/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/25/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/26/2003,9.4 meters deep- 5-10 mph winds- no clouds
+08/26/2003,DEEP SPOT    
+08/06/2014,Beautiful lake
+Mostly natural shoreline
+SLH field number: TL-1
+Quanta
+IS water sample at 0-2m
+09/02/2014,Calm- 100% cloud cover. Beautiful Lake.
+Quanta meter
+
+
+
+
+Start Date,Group Name,Project Name
+02/09/1976,Data Collectors,Migrated from STORET Legacy
+04/13/1976,Data Collectors,Migrated from STORET Legacy
+07/07/1976,Data Collectors,Migrated from STORET Legacy
+10/25/1976,Data Collectors,Migrated from STORET Legacy
+02/17/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/27/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/18/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/15/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/16/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/26/2003,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+07/22/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/19/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/15/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+04/29/2013,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+07/07/2013,Glenn Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+09/08/2013,Glenn Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/28/2014,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/28/2014,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+04/28/2014,Marlene Rezek,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/06/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+09/02/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+04/07/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+04/07/2015,Glenn Rezek,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/15/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+09/27/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+09/27/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+03/23/2016,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+06/12/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+08/21/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+08/21/2016,Glenn Rezek,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/16/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+07/16/2017,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+07/16/2017,Glenn Rezek,Follow-up lake monitoring 2017
+08/26/2017,Data Collectors,Follow-up lake monitoring 2017
+08/27/2017,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+09/16/2017,Data Collectors,Follow-up lake monitoring 2017
+04/29/2018,Glenn Rezek,Bacteria + Plankton (Paid Private)
+04/29/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+06/16/2018,Glenn Rezek,Bacteria + Plankton (Paid Private)
+06/16/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+07/22/2018,Glenn Rezek,Bacteria + Plankton (Paid Private)
+07/22/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+08/19/2018,Glenn Rezek,Bacteria + Plankton (Paid Private)
+08/19/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+04/21/2019,Brenda L Nordin- Brian D Zalay- HOLLY A STEGEMANN,Bacteria + Plankton (Paid Private)
+04/21/2019,Brenda L Nordin- Brian D Zalay- HOLLY A STEGEMANN,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+04/21/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+06/22/2019,Glenn Rezek,Bacteria + Plankton (Paid Private)
+06/22/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+07/17/2019,Glenn Rezek,Bacteria + Plankton (Paid Private)
+07/17/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+08/28/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/28/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Tuma Lake; Deep Hole 
+06/29/2020,Glenn Rezek,Bacteria + Plankton (Paid Private)
+06/29/2020,Glenn Rezek,Citizen Lake Monitoring - Northeast Region
+07/26/2020,Glenn Rezek,Bacteria + Plankton (Paid Private)
+07/26/2020,Glenn Rezek,Citizen Lake Monitoring - Northeast Region
+09/12/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+09/12/2020,Glenn Rezek,Citizen Lake Monitoring - Northeast Region

@@ -1,0 +1,102 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+North Lake,Barron,2630800,NO,3,,034011,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/29/1979,,,,15.27,27,,54,55,,,,,
+19400245,09/15/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19400245,09/23/2007,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19400245,10/07/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19400245,06/10/2008,4.5,NO,1.4,,,55,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+19207139,07/15/2019,4.5,NO,1.4,,,55,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82607229,07/15/2019,,,,12.1,29.4,,54,54,,,,,
+10585221,08/15/2019,5.5,NO,1.7,5.82,26.4,53,54,48,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+82607229,09/06/2019,,,,10.4,24.2,,53,53,,,,,
+200837938,09/06/2019,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+19207139,07/15/2020,5.5,NO,1.7,8.37,22.7,53,52,51,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19207139,08/06/2020,5.5,NO,1.7,7.37,22.9,53,52,50,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19207139,08/31/2020,5,NO,1.5,7.62,18.9,54,51,50,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/29/1979,,,,,7.3,MG/L
+07/15/2019,0,METERS,81.5,DEGREES F,6.39,MG/L
+07/15/2019,1,METERS,80.9,DEGREES F,6.37,MG/L
+07/15/2019,2,METERS,75.9,DEGREES F,1.24,MG/L
+07/15/2019,3,METERS,63.4,DEGREES F,.1,MG/L
+07/15/2019,4,METERS,58.5,DEGREES F,.05,MG/L
+07/15/2019,5,METERS,54.8,DEGREES F,.04,MG/L
+07/15/2019,6,METERS,53.1,DEGREES F,.03,MG/L
+08/15/2019,0,FEET,76.2,DEGREES F,6.21,MG/L
+08/15/2019,1,FEET,75.6,DEGREES F,6.14,MG/L
+08/15/2019,2,FEET,74.7,DEGREES F,5.99,MG/L
+08/15/2019,3,FEET,74.4,DEGREES F,5.82,MG/L
+08/15/2019,4,FEET,74.2,DEGREES F,5.76,MG/L
+08/15/2019,5,FEET,74,DEGREES F,5.07,MG/L
+08/15/2019,6,FEET,73.5,DEGREES F,4.86,MG/L
+08/15/2019,7,FEET,73,DEGREES F,3.86,MG/L
+08/15/2019,8,FEET,71.5,DEGREES F,2.23,MG/L
+08/15/2019,9,FEET,69.3,DEGREES F,.33,MG/L
+08/15/2019,10,FEET,65.8,DEGREES F,.19,MG/L
+08/15/2019,11,FEET,63,DEGREES F,.19,MG/L
+08/15/2019,12,FEET,69.8,DEGREES F,.2,MG/L
+08/15/2019,13,FEET,58.1,DEGREES F,.2,MG/L
+08/15/2019,14,FEET,56.6,DEGREES F,.21,MG/L
+08/15/2019,15,FEET,55.2,DEGREES F,.22,MG/L
+08/15/2019,16,FEET,54.9,DEGREES F,.23,MG/L
+08/15/2019,17,FEET,53.3,DEGREES F,.25,MG/L
+09/06/2019,0,FEET,66.5,DEGREES F,6.5,MG/L
+09/06/2019,1,FEET,66.4,DEGREES F,6.49,MG/L
+09/06/2019,2,FEET,66.4,DEGREES F,6.46,MG/L
+09/06/2019,3,FEET,66.4,DEGREES F,6.42,MG/L
+09/06/2019,4,FEET,66.3,DEGREES F,6.4,MG/L
+09/06/2019,5,FEET,66.2,DEGREES F,6.37,MG/L
+09/06/2019,6,FEET,66.2,DEGREES F,6.35,MG/L
+09/06/2019,7,FEET,66.1,DEGREES F,6.34,MG/L
+09/06/2019,8,FEET,66.1,DEGREES F,6.31,MG/L
+09/06/2019,9,FEET,66,DEGREES F,6.26,MG/L
+09/06/2019,10,FEET,66,DEGREES F,6.23,MG/L
+09/06/2019,11,FEET,65.6,DEGREES F,6.06,MG/L
+09/06/2019,12,FEET,64.5,DEGREES F,3.07,MG/L
+09/06/2019,13,FEET,61.7,DEGREES F,.17,MG/L
+09/06/2019,14,FEET,59.1,DEGREES F,.14,MG/L
+09/06/2019,15,FEET,57.2,DEGREES F,.15,MG/L
+09/06/2019,16,FEET,56,DEGREES F,.16,MG/L
+08/06/2020,0,METERS,74.6,DEGREES F,6.35,MG/L
+08/06/2020,1,METERS,73.9,DEGREES F,6.07,MG/L
+08/06/2020,2,METERS,72.9,DEGREES F,4.67,MG/L
+08/06/2020,3,METERS,71.1,DEGREES F,1.03,MG/L
+08/06/2020,4,METERS,61.8,DEGREES F,.11,MG/L
+08/06/2020,5,METERS,55.7,DEGREES F,.04,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/29/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/15/2007,Sunny with cool light southerly breeze.  No other boats on lake but 1 Loon.
+09/23/2007,Sunny and windy.  Southerly winds.  No boats and 2 eagles soaring.
+10/07/2007,No boats/cloudy with southerly breeze @ 8mph.  2 eages soaring.  Campground closed
+06/10/2008,Suuny/ 68 deg. no boats
+
+
+
+
+Start Date,Group Name,Project Name
+08/29/1979,Data Collectors,Migrated from STORET Legacy
+09/15/2007,Linda J. Matula- Claude E. Matula,Citizen Lake Monitoring - Water Quality - North Lake - Deepest Spot
+09/23/2007,Linda J. Matula- Claude E. Matula,Citizen Lake Monitoring - Water Quality - North Lake - Deepest Spot
+10/07/2007,Linda J. Matula- Claude E. Matula,Citizen Lake Monitoring - Water Quality - North Lake - Deepest Spot
+06/10/2008,Linda J. Matula- Claude E. Matula,Citizen Lake Monitoring - Water Quality - North Lake - Deepest Spot
+07/15/2019,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+07/15/2019,Mark Sundeen and Alex Smith,2019-2020 Directed Lakes Smith - 319 eligible
+08/15/2019,MARK SUNDEEN,2019-2020 Directed Lakes Smith - 319 eligible
+09/06/2019,CLAUDIA M DUFFY- Mark R Sundeen,2019-2020 Directed Lakes Smith - 319 eligible
+09/06/2019,Mark Sundeen and Alex Smith,2019-2020 Directed Lakes Smith - 319 eligible
+07/15/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+08/06/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+08/31/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible

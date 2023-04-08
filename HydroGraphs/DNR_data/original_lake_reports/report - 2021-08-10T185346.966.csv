@@ -1,0 +1,186 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Second Lake,Oneida,1572300,NO,44,,443251,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/17/1979,,,,,,,,,,,,,
+15899058,05/23/2006,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899058,06/11/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899058,06/25/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899058,07/04/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899058,08/03/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899058,08/27/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+15899058,09/02/2006,3,NO,0.9,,,61,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,07/03/2007,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,07/21/2007,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,08/13/2007,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,06/09/2008,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,06/24/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,07/19/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,08/07/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,08/27/2008,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,09/23/2008,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19383101,06/03/2009,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+19383101,06/23/2009,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+19383101,07/12/2009,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,,
+19383101,08/14/2009,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19383101,09/09/2009,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,06/30/2010,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+19383101,08/12/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19383101,09/09/2010,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+19383101,07/04/2011,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,08/04/2011,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,06/03/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,07/08/2012,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+19383101,09/16/2012,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118078433,06/28/2015,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,07/10/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118078433,08/15/2015,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+118078433,06/29/2016,2.75,NO,0.8,,,63,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,08/07/2016,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+118252965,08/07/2016,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118078433,08/28/2016,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+118252965,08/28/2016,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+118078433,10/01/2016,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118252965,06/23/2018,2.6,NO,0.8,,,62,,,HIGH,10,CLEAR,BROWN,2-Very minor aesthetic problems
+118252965,07/10/2018,2.6,NO,0.8,,,63,,,NORMAL,10,CLEAR,BROWN,2-Very minor aesthetic problems
+118252965,07/14/2018,2.6,NO,0.8,,,63,,,NORMAL,10,CLEAR,BROWN,1-Beautiful, could not be nicer
+118252965,07/30/2018,3,NO,0.9,,,61,,,NORMAL,10,CLEAR,BROWN,2-Very minor aesthetic problems
+118252965,09/01/2018,2.9,NO,0.9,,,62,,,LOW,10,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,05/06/2019,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,06/16/2019,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118078433,06/25/2019,,,,,,,,,,,,,
+118078433,07/03/2019,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118078433,08/03/2019,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,08/19/2019,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+118078433,09/16/2019,3.25,NO,1,,,60,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,05/26/2020,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,07/07/2020,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118078433,07/20/2020,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118252965,08/28/2020,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118078433,09/23/2020,2.75,NO,0.8,,,63,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/1979,,,23,C,,
+06/25/2019,3,FEET,74.6,DEGREES F,8.06,MG/L
+06/25/2019,6,FEET,72.6,DEGREES F,8.22,MG/L
+06/25/2019,9,FEET,68.1,DEGREES F,7.24,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/17/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/23/2006,sunny- light clouds- 75F- slight ripple- no boat activity- no rain past few days- one adult eagle sighting 
+06/11/2006,sunny- light clouds- 69F- moderate ripple- light boat activity- no rain 
+06/25/2006,Aunny- no clouds- 84 F.  Calm.  No boat activity.  No rain.
+07/04/2006,Sunny- light clouds.  86 F.  Light ripple.  Heavy boat activity.  No rain.
+08/03/2006,Sunny- no clouds.  Light ripple.  Some boat activity.
+08/27/2006,Cloudy- overcast- 79 F.  Calm water.  Jet skier.  Loon sighting.
+09/02/2006,Sunny- no clouds.  75 F.  Light ripple.  No boats.  Eagle sighting.  In 2005- I took all Secchi measurements from a kayak.  The depth ranged from 4.0 to 5.5 feet.  This year (2006)- I took all measurements from a pontoon boat.  The measurements throughout the summer stayed in the 3.0 ft range.  
+07/03/2007,11 foot water depth. Sunny- light overcast- calm water
+07/21/2007,11 foot water depth
+08/13/2007,10 foot water depth. Sunny and overcast. Light wind
+06/09/2008,Sunny- light overcast- light wind. Day after a rain. Depth 14'. No boat traffic
+06/24/2008,Sunny. No boat traffic. Depth 12.5.
+07/19/2008,Sunny w/clouds. Calm lake. No boats. Depth 12'. 
+08/07/2008,Sunny- windy. No boat traffic. Depth 12'.
+08/27/2008,Sunny- windy. No boats. Depth 12'.
+09/23/2008,Sunny. Light overcast. Windy. No boats. Depth 11'.
+06/03/2009,Sunny. Light clouds. No boat traffic. 1 fishing boat. Light breeze. 13 feet deep
+06/23/2009,Sunny. LIght breeze. No clouds. No boats.
+07/12/2009,Sunny- breeze. 11.5 feet deep. No boats- no clouds.
+08/14/2009,84 degrees. Sunny/clouds. Skiers out. Light wind. 10.5 feet deep.
+09/09/2009,10.5 feet deep. Sunny. Light breeze. No boat traffic.
+06/30/2010,water 12.5 feet deep. Clear skies. No boat traffic. Light breeze.
+08/12/2010,water 12 feet deep. No boat traffic. Sunny- scattered clouds.
+09/09/2010,Sunny- clouds. Calm waters. No boat traffic.
+07/04/2011,Depth = 11'- sunny - light clouds- 2 fishing boats
+08/04/2011,Depth = 12'- sunny- no wind
+06/03/2012,clear- blue sky day
+05/06/2019,Partly cloud- slight breeze Partly cloud- slight breeze
+05/06/2019,Sunny- slight breeze    
+06/16/2019,sunny- breezy
+07/07/2020,Moderate south breeze
+Blue sky w/5% clouds
+No boat traffic
+07/20/2020,Slight north breeze
+Lots of clouds 50% with blue skies
+No boat traffic
+08/28/2020,slight breeze- blue sky
+streaks of blue algae 50 feet from shore
+09/23/2020,moderate breeze
+One boat and one jet ski
+Lots of green algae- looks slimy with clumps close to shore
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1979,Data Collectors,Migrated from STORET Legacy
+05/23/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/11/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/25/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/04/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/03/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/27/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/02/2006,Marcha Moore,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/03/2007,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/21/2007,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/13/2007,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/09/2008,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/24/2008,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/19/2008,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/07/2008,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/27/2008,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/23/2008,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/03/2009,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/23/2009,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/12/2009,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/14/2009,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/09/2009,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/30/2010,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/12/2010,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/09/2010,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/04/2011,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/04/2011,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/03/2012,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/08/2012,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/16/2012,Ron Geske,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/28/2015,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/10/2015,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/15/2015,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/29/2016,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/07/2016,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/07/2016,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/28/2016,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/28/2016,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+10/01/2016,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/23/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/23/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Third Lake; Deep Hole
+07/10/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/10/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Third Lake; Deep Hole
+07/14/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/14/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Third Lake; Deep Hole
+07/30/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/30/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Third Lake; Deep Hole
+09/01/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/01/2018,Barb Cyr,Citizen Lake Monitoring - Water Quality - Third Lake; Deep Hole
+05/06/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Moen Lake - Center
+05/06/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/16/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+06/25/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/03/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/03/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/19/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/16/2019,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+05/26/2020,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/07/2020,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+07/20/2020,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+08/28/2020,Barb Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County
+09/23/2020,Phillip Cyr,Citizen Lake Monitoring - Water Quality - Second Lake - Deep Hole- Oneida County

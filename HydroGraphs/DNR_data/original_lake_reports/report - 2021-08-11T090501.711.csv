@@ -1,0 +1,102 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Big Muskellunge Lake,Vilas,1835300,NO,64,,643123,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/06/1973,,,,,20,,51,,,,,,
+1,11/14/1973,,,,,20,,51,,,,,,
+1,03/19/1974,,,,,30,,54,,,,,,
+1,05/08/1974,,,,,20,,51,,,,,,
+1,08/07/1974,,,,,30,,54,,,,,,
+1,10/15/1974,,,,,100,,57,,,,,,
+1,03/11/1975,,,,,0,,54,,,,,,
+8188730,05/10/2004,14,NO,4.3,,8,39,44,,,,,,
+8188730,08/11/2004,23,NO,7,1.77,9,32,45,39,,,,,
+236963861,07/29/2020,19,N,5.8,,,35,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/06/1973,,,10.5556,C,.5,MG/L
+11/14/1973,,,4.44444,C,10.2,MG/L
+03/19/1974,,,0,C,1.4,MG/L
+08/07/1974,,,12.7778,C,.2,MG/L
+10/15/1974,,,49,C,9.5,MG/L
+03/11/1975,,,-.277778,C,1.9,MG/L
+05/10/2004,0,FEET,10.7,DEGREES C,11,MG/L
+05/10/2004,3,FEET,10.6,DEGREES C,11,MG/L
+05/10/2004,6,FEET,10.6,DEGREES C,10.9,MG/L
+05/10/2004,9,FEET,10.4,DEGREES C,11,MG/L
+05/10/2004,12,FEET,10.3,DEGREES C,11.2,MG/L
+05/10/2004,15,FEET,10.2,DEGREES C,11.3,MG/L
+05/10/2004,18,FEET,10,DEGREES C,11.3,MG/L
+05/10/2004,21,FEET,9.9,DEGREES C,11.4,MG/L
+05/10/2004,24,FEET,8.8,DEGREES C,11.5,MG/L
+05/10/2004,27,FEET,8.6,DEGREES C,11.6,MG/L
+05/10/2004,30,FEET,8.3,DEGREES C,11.6,MG/L
+05/10/2004,33,FEET,8.1,DEGREES C,11.6,MG/L
+05/10/2004,36,FEET,8.1,DEGREES C,11.4,MG/L
+05/10/2004,39,FEET,8,DEGREES C,11.4,MG/L
+05/10/2004,42,FEET,8,DEGREES C,11.2,MG/L
+05/10/2004,45,FEET,8,DEGREES C,10.8,MG/L
+05/10/2004,48,FEET,7.9,DEGREES C,10.8,MG/L
+05/10/2004,51,FEET,7.5,DEGREES C,10.2,MG/L
+05/10/2004,54,FEET,7.5,DEGREES C,10,MG/L
+05/10/2004,57,FEET,7.5,DEGREES C,9.9,MG/L
+05/10/2004,60,FEET,7.2,DEGREES C,9.6,MG/L
+05/10/2004,63,FEET,7.2,DEGREES C,9.5,MG/L
+05/10/2004,66,FEET,7.2,DEGREES C,8.6,MG/L
+08/11/2004,0,FEET,20.3,DEGREES C,8.4,MG/L
+08/11/2004,3,FEET,20.5,DEGREES C,8.4,MG/L
+08/11/2004,6,FEET,20.5,DEGREES C,8.4,MG/L
+08/11/2004,9,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,12,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,15,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,18,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,21,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,24,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,27,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,30,FEET,20.5,DEGREES C,8.5,MG/L
+08/11/2004,33,FEET,18.8,DEGREES C,9.3,MG/L
+08/11/2004,36,FEET,17,DEGREES C,8.8,MG/L
+08/11/2004,39,FEET,14.7,DEGREES C,7.3,MG/L
+08/11/2004,42,FEET,13,DEGREES C,4.7,MG/L
+08/11/2004,45,FEET,11.5,DEGREES C,2.9,MG/L
+08/11/2004,48,FEET,10.9,DEGREES C,1.2,MG/L
+08/11/2004,51,FEET,10.4,DEGREES C,.6,MG/L
+08/11/2004,54,FEET,10.1,DEGREES C,.3,MG/L
+08/11/2004,57,FEET,10,DEGREES C,.1,MG/L
+08/11/2004,60,FEET,9.9,DEGREES C,.1,MG/L
+08/11/2004,63,FEET,9.9,DEGREES C,.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/06/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/14/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/19/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/15/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+03/11/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/10/2004,GRAB SAMPLE    
+08/11/2004,DEEP HOLE - INTEGRATED SAMPLE    
+
+
+
+
+Start Date,Group Name,Project Name
+08/06/1973,Data Collectors,Migrated from STORET Legacy
+11/14/1973,Data Collectors,Migrated from STORET Legacy
+03/19/1974,Data Collectors,Migrated from STORET Legacy
+05/08/1974,Data Collectors,Migrated from STORET Legacy
+08/07/1974,Data Collectors,Migrated from STORET Legacy
+10/15/1974,Data Collectors,Migrated from STORET Legacy
+03/11/1975,Data Collectors,Migrated from STORET Legacy
+05/10/2004,Nate Guldan,Lake Baseline Monitoring- DNR (1970s-2006)
+08/11/2004,Nate Guldan,Lake Baseline Monitoring- DNR (1970s-2006)
+07/29/2020,Robert Campion,VILAS COUNTY: Vilas County 2020 AIS Strategic Plan Implementation - AIS Early Detection

@@ -1,0 +1,886 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Peppermill Lake,Adams,178700,WC,1,,013144,CE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/23/1992,,,,8,20,,51,51,,,,,
+1,07/13/1992,,,,3,26,,53,43,,,,,
+1,09/15/1992,8.9,,2.7,3.04,11,46,47,43,,,,,
+1,10/27/1992,8.9,,2.72,3.32,10,46,46,44,,,,,
+8189007,09/01/1999,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/11/1999,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/17/1999,10.75,YES,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/22/1999,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,10/06/1999,11.5,YES,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,10/09/1999,12.25,YES,3.7,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,10/15/1999,12.75,YES,3.9,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,05/07/2000,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189007,05/14/2000,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,05/20/2000,11.75,YES,3.6,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,06/03/2000,11,NO,3.3,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,06/08/2000,,,,1,17,,50,35,,,,,
+8189007,06/19/2000,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189007,06/25/2000,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,07/03/2000,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189008,07/09/2000,10.75,NO,3.3,1.4,18,43,51,37,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,07/29/2000,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+1,08/23/2000,,,,1.7,,,,39,,,,,
+8189007,08/31/2000,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/08/2000,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189007,09/15/2000,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/28/2000,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,10/01/2000,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,10/17/2000,,,,4,18,,51,45,,,,,
+8189007,05/18/2001,12,YES,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,05/28/2001,8.75,NO,2.7,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188999,05/30/2001,9.75,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189007,06/09/2001,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189007,06/16/2001,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189008,06/25/2001,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,06/27/2001,,,,2.4,30,,54,41,,,,,
+8188999,07/09/2001,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,07/31/2001,11.5,YES,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,08/07/2001,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,08/20/2001,11.5,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/02/2001,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/20/2001,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,10/02/2001,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189008,10/17/2001,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,05/21/2002,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189007,05/27/2002,7.25,NO,2.2,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189007,05/29/2002,7.25,NO,2.2,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189007,06/06/2002,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,06/17/2002,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,07/01/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,07/16/2002,,,,,,,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189007,07/17/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,07/26/2002,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,07/29/2002,,NO,,,,,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189007,08/12/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,08/15/2002,,NO,,,,,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189007,08/19/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/26/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/04/2002,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,09/11/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/18/2002,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/25/2002,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,10/06/2002,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/01/2003,12,NO,3.6,,,41,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,06/15/2003,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,06/17/2003,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,06/23/2003,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+18137361,06/23/2003,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188815,06/30/2003,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,07/27/2003,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,08/01/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,08/01/2003,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188815,08/12/2003,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/27/2003,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/04/2003,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/08/2003,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/16/2003,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,10/05/2003,13,YES,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,10/09/2003,13,YES,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,04/14/2004,7,YES,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188815,05/26/2004,13,YES,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/03/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/08/2004,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/15/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/25/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,06/25/2004,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188815,07/01/2004,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,07/18/2004,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,07/25/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/14/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,08/25/2004,8.5,NO,2.6,,,46,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,08/27/2004,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,09/09/2004,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/14/2004,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,09/14/2004,10.3,NO,3.1,,,44,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188815,09/21/2004,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/29/2004,10.5,YES,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,10/04/2004,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,11/09/2004,9,NO,2.7,,,45,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,02/09/2005,,NO,,,,,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137361,04/15/2005,9,NO,2.7,,,45,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188815,05/30/2005,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188815,06/12/2005,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/21/2005,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/29/2005,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,06/29/2005,8.3,NO,2.5,,,47,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,07/05/2005,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,07/13/2005,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,07/22/2005,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,07/22/2005,8,NO,2.4,,,47,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,08/05/2005,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/10/2005,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,08/10/2005,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188815,08/17/2005,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/28/2005,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/31/2005,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,08/31/2005,8.5,NO,2.6,,,46,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,09/09/2005,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,09/14/2005,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,09/14/2005,10,NO,3,,,44,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188815,09/20/2005,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189007,10/03/2005,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,11/04/2005,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137361,04/13/2006,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,05/28/2006,10.25,NO,3.1,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,06/05/2006,12.5,YES,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/22/2006,7.5,NO,2.3,,,48,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,06/26/2006,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,06/28/2006,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+18137361,06/28/2006,8,NO,2.4,,,47,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188815,07/10/2006,10.25,NO,3.1,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,07/21/2006,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,07/21/2006,8.8,NO,2.7,,,46,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,08/08/2006,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,08/20/2006,10.25,NO,3.1,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8188815,08/27/2006,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+18137361,09/01/2006,9,NO,2.7,,,45,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+18137361,09/08/2006,9,NO,2.7,,,45,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188815,09/15/2006,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,09/16/2006,7.5,NO,2.3,,,48,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,05/21/2007,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,05/29/2007,12,YES,3.6,,,41,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188815,06/11/2007,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+22432607,06/30/2007,10.75,NO,3.3,2.29,24,43,53,41,NORMAL,,CLEAR,GREEN,
+8188815,07/13/2007,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/28/2007,,,,15.7,30,,54,56,,,,,
+8188815,07/29/2007,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,08/10/2007,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,08/21/2007,8,NO,2.4,6.09,31,47,55,48,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188815,08/31/2007,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188815,09/19/2007,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188815,09/26/2007,10,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,10/02/2007,,,,30.6,21,,52,61,,,,,
+8188815,10/03/2007,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,10/20/2007,,,,44.3,37,,56,63,,,,,
+8188815,05/30/2008,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188815,06/09/2008,9,YES,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,06/19/2008,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25374942,06/19/2008,,,,0.5,19,,51,30,,,,,
+8188815,07/14/2008,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,07/19/2008,,,,1.21,21,,52,36,,,,,
+8188815,08/05/2008,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188815,08/18/2008,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,08/23/2008,,,,52,50,,58,65,,,,,
+8188815,09/05/2008,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188815,09/22/2008,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188815,05/31/2009,9.5,NO,2.9,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,06/14/2009,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,06/20/2009,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+25374942,06/20/2009,,,,4.82,38,,56,47,,,,,
+8188815,06/26/2009,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,07/13/2009,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,07/25/2009,,,,48.2,112,,65,64,,,,,
+8188815,08/12/2009,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,08/23/2009,8,NO,2.4,12.4,35,47,56,54,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,09/04/2009,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188815,09/12/2009,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+25374942,09/26/2009,,,,35.5,36,,56,62,,,,,
+8188815,10/07/2009,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798282,05/31/2010,12,YES,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+25374942,06/05/2010,,,,2.47,23,,52,42,,,,,
+25374942,06/06/2010,9.9,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798282,06/20/2010,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36798282,07/01/2010,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798282,07/13/2010,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+37177109,07/17/2010,,,,13.2,24,,53,54,,,,,
+36798282,07/25/2010,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798282,08/09/2010,8,NO,2.4,,,47,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+36798282,08/29/2010,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+25374942,09/25/2010,,,,32.5,39,,57,61,,,,,
+36798282,05/30/2011,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798282,06/07/2011,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/18/2011,,,,3.67,29,,54,45,,,,,
+25374942,06/18/2011,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+36798282,06/29/2011,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798282,07/11/2011,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+25374942,07/16/2011,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37177109,07/16/2011,,,,6.32,25,,53,49,,,,,
+36798282,07/30/2011,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+25374942,08/12/2011,12,NO,3.6,3.26,26,41,53,44,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+36798282,08/14/2011,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+36798282,09/06/2011,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+36798282,10/04/2011,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18137361,04/21/2012,,,,,31,,55,,,,,,
+32140753,04/21/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,06/02/2012,,,,46,52,,59,64,,,,,
+25374942,06/06/2012,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+36798282,07/12/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25374942,07/14/2012,8.5,NO,2.6,4.28,27,46,54,46,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+36798282,07/28/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25374942,08/11/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+32140753,06/08/2013,7.5,NO,2.3,31,40.1,48,57,61,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/06/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,07/20/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+32140753,07/20/2013,,,,3.09,31.5,,55,43,,,,,
+25374942,08/17/2013,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+32140753,08/17/2013,,,,3.41,28.7,,54,44,,,,,
+25374942,06/22/2014,,,,2.33,19,,51,41,,,,,
+25374942,06/28/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,07/19/2014,,,,8.69,27.6,,54,51,,,,,
+25374942,07/26/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,08/23/2014,6.5,NO,2,11.3,39.4,50,57,53,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137361,04/14/2015,10,NO,3,,34,44,55,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+25374942,06/20/2015,9,NO,2.7,144,131,45,66,72,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/18/2015,8.5,NO,2.6,21.2,26.3,46,53,58,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18137361,08/15/2015,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,08/15/2015,,,,7.24,43.9,,57,50,,,,,
+18137361,05/11/2016,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18137361,05/12/2016,,,,,31,,55,,,,,,
+25374942,06/18/2016,8.7,NO,2.6,7.72,69.2,46,61,50,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/16/2016,8.3,,2.5,2.13,33.6,47,55,41,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,08/18/2016,7.1,NO,2.2,12.5,30.1,49,55,54,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,06/15/2017,8.9,NO,2.7,59,76.4,46,62,66,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/15/2017,8.4,NO,2.6,4.3,36.3,46,56,46,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,08/21/2017,8.2,NO,2.5,3.75,53.5,47,59,45,NORMAL,,,BLUE,2-Very minor aesthetic problems
+32140753,06/23/2018,8.2,NO,2.5,3.93,40.8,47,57,45,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+32140753,07/21/2018,7.5,NO,2.3,3.08,29.1,48,54,43,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+32140753,09/04/2018,8.2,NO,2.5,6.74,23.8,47,53,49,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,06/02/2019,10.25,NO,3.1,2.23,18.1,44,51,41,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,06/22/2019,9.25,NO,2.8,3.85,42.4,45,57,45,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/21/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,07/27/2019,,,,2.93,23.8,,53,43,,,,,
+25374942,09/01/2019,10,NO,3,2.06,20.1,44,51,40,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+25374942,06/13/2020,,,,1.55,18.9,,51,38,,,,,
+25374942,06/20/2020,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+25374942,07/17/2020,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,
+25374942,07/25/2020,,,,1.97,18.6,,51,40,,,,,
+25374942,08/15/2020,9.5,NO,2.9,3.1,25.5,45,53,43,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/23/1992,,,19,C,9.2,MG/L
+07/13/1992,,,22,C,7.6,MG/L
+09/15/1992,,,19.9,C,8.0,MG/L
+10/27/1992,,,11.0,C,10.4,MG/L
+07/09/2000,3,FEET,78,DEGREES F,,
+07/09/2000,6,FEET,75,DEGREES F,,
+07/09/2000,9,FEET,64,DEGREES F,,
+07/09/2000,12,FEET,60,DEGREES F,,
+06/25/2001,3,FEET,81,DEGREES F,,
+06/25/2001,6,FEET,79,DEGREES F,,
+06/25/2001,9,FEET,72,DEGREES F,,
+06/25/2001,13,FEET,56,DEGREES F,,
+07/16/2002,3,FEET,82.94,DEGREES F,11.85,MG/L
+07/16/2002,4,FEET,82.22,DEGREES F,,
+07/16/2002,5,FEET,82.04,DEGREES F,11.1,MG/L
+07/16/2002,6,FEET,81.68,DEGREES F,,
+07/16/2002,7,FEET,81.68,DEGREES F,,
+07/16/2002,8,FEET,81.5,DEGREES F,11.75,MG/L
+07/29/2002,3,FEET,82.4,DEGREES F,8.9,MG/L
+07/29/2002,4,FEET,80.78,DEGREES F,,
+07/29/2002,5,FEET,80.65,DEGREES F,8.85,MG/L
+07/29/2002,6,FEET,80.51,DEGREES F,,
+07/29/2002,7,FEET,80.49,DEGREES F,,
+07/29/2002,8,FEET,80.47,DEGREES F,10.2,MG/L
+08/15/2002,3,FEET,78.62,DEGREES F,8.8,MG/L
+08/15/2002,4,FEET,78.39,DEGREES F,,
+08/15/2002,5,FEET,78.21,DEGREES F,9.15,MG/L
+08/15/2002,6,FEET,77.31,DEGREES F,,
+08/15/2002,7,FEET,77.36,DEGREES F,,
+08/15/2002,8,FEET,77.36,DEGREES F,9.45,MG/L
+06/23/2003,3,FEET,75.52,DEGREES F,12.15,MG/L
+06/23/2003,5,FEET,73.42,DEGREES F,11.95,MG/L
+06/23/2003,10,FEET,56.1,DEGREES F,8.6,MG/L
+06/23/2003,13,FEET,53.31,DEGREES F,6.3,MG/L
+08/01/2003,3,FEET,75.27,DEGREES F,10.9,MG/L
+08/01/2003,7,FEET,64.8,DEGREES F,9.6,MG/L
+08/01/2003,10,FEET,54.84,DEGREES F,8.45,MG/L
+08/01/2003,13,FEET,51.6,DEGREES F,4.8,MG/L
+04/14/2004,3,FEET,52.74,DEGREES F,11.7,MG/L
+04/14/2004,6,FEET,52.57,DEGREES F,11.9,MG/L
+06/25/2004,3,FEET,66.06,DEGREES F,12.55,MG/L
+06/25/2004,5,FEET,65.64,DEGREES F,12.5,MG/L
+06/25/2004,10,FEET,56.06,DEGREES F,5.55,MG/L
+08/25/2004,3,FEET,66.6,DEGREES F,14.65,MG/L
+08/25/2004,5,FEET,62.89,DEGREES F,11.3,MG/L
+08/25/2004,10,FEET,54.23,DEGREES F,1.8,MG/L
+08/25/2004,13,FEET,53.74,DEGREES F,3.6,MG/L
+09/14/2004,3,FEET,70.47,DEGREES F,13.9,MG/L
+09/14/2004,5,FEET,62.3,DEGREES F,4.95,MG/L
+09/14/2004,10,FEET,54,DEGREES F,3.8,MG/L
+09/14/2004,13,FEET,53.1,DEGREES F,3.3,MG/L
+11/09/2004,3,FEET,44.82,DEGREES F,11.3,MG/L
+11/09/2004,5,FEET,44.53,DEGREES F,11.35,MG/L
+11/09/2004,10,FEET,44.37,DEGREES F,11.4,MG/L
+02/09/2005,3,FEET,40.78,DEGREES F,2.45,MG/L
+02/09/2005,5,FEET,40.6,DEGREES F,1.45,MG/L
+02/09/2005,10,FEET,40.33,DEGREES F,2.9,MG/L
+04/15/2005,3,FEET,75.02,DEGREES F,6.975,MG/L
+04/15/2005,5,FEET,71.2,DEGREES F,6.95,MG/L
+04/15/2005,7,FEET,54.95,DEGREES F,7.1,MG/L
+04/15/2005,9,FEET,55.62,DEGREES F,7.05,MG/L
+06/29/2005,3,FEET,78.49,DEGREES F,12.3,MG/L
+06/29/2005,5,FEET,69.85,DEGREES F,11.8,MG/L
+06/29/2005,10,FEET,56.55,DEGREES F,4.65,MG/L
+06/29/2005,13,FEET,53.47,DEGREES F,4.9,MG/L
+07/22/2005,3,FEET,75.02,DEGREES F,9.9,MG/L
+07/22/2005,5,FEET,71.2,DEGREES F,7.6,MG/L
+07/22/2005,10,FEET,54.95,DEGREES F,2.1,MG/L
+07/22/2005,13,FEET,58.51,DEGREES F,1.75,MG/L
+08/10/2005,3,FEET,77.14,DEGREES F,7.4,MG/L
+08/10/2005,5,FEET,64.24,DEGREES F,1,MG/L
+08/10/2005,10,FEET,54.48,DEGREES F,1.2,MG/L
+08/10/2005,13,FEET,52.93,DEGREES F,1.7,MG/L
+08/31/2005,3,FEET,71.31,DEGREES F,10.4,MG/L
+08/31/2005,5,FEET,67.42,DEGREES F,6.06,MG/L
+08/31/2005,10,FEET,53.9,DEGREES F,3.9,MG/L
+08/31/2005,13,FEET,53.55,DEGREES F,2.9,MG/L
+09/14/2005,3,FEET,71.33,DEGREES F,10.9,MG/L
+09/14/2005,5,FEET,67.42,DEGREES F,9.1,MG/L
+09/14/2005,10,FEET,54.21,DEGREES F,10.15,MG/L
+09/14/2005,13,FEET,52.93,DEGREES F,9.25,MG/L
+11/04/2005,3,FEET,49.12,DEGREES F,7.5,MG/L
+11/04/2005,5,FEET,48.97,DEGREES F,6.3,MG/L
+11/04/2005,8,FEET,48.94,DEGREES F,8.9,MG/L
+04/13/2006,3,FEET,57.74,DEGREES F,8.2,MG/L
+04/13/2006,5,FEET,57.7,DEGREES F,8.2,MG/L
+04/13/2006,7,FEET,57.24,DEGREES F,7.95,MG/L
+06/28/2006,3,FEET,70.95,DEGREES F,5.35,MG/L
+06/28/2006,5,FEET,68.02,DEGREES F,5.79,MG/L
+06/28/2006,10,FEET,55.38,DEGREES F,6.13,MG/L
+06/28/2006,13,FEET,52.75,DEGREES F,5.31,MG/L
+07/21/2006,3,FEET,76.01,DEGREES F,8.78,MG/L
+07/21/2006,5,FEET,70.77,DEGREES F,9.17,MG/L
+07/21/2006,10,FEET,56.46,DEGREES F,9.88,MG/L
+07/21/2006,13,FEET,55.83,DEGREES F,7.25,MG/L
+09/01/2006,3,FEET,69.71,DEGREES F,9.25,MG/L
+09/01/2006,5,FEET,69.22,DEGREES F,9.9,MG/L
+09/01/2006,10,FEET,63.32,DEGREES F,8.7,MG/L
+09/08/2006,3,FEET,69.44,DEGREES F,8.95,MG/L
+09/08/2006,5,FEET,68.07,DEGREES F,9.95,MG/L
+09/08/2006,10,FEET,54.82,DEGREES F,10,MG/L
+09/08/2006,13,FEET,53.24,DEGREES F,7.52,MG/L
+09/16/2006,3,FEET,64.24,DEGREES F,8.13,MG/L
+09/16/2006,5,FEET,62.31,DEGREES F,8.69,MG/L
+09/16/2006,10,FEET,55.92,DEGREES F,9.51,MG/L
+09/16/2006,13,FEET,52.79,DEGREES F,9.87,MG/L
+06/06/2010,0,FEET,75.5,DEGREES F,,
+06/06/2010,5,FEET,70.3,DEGREES F,,
+06/06/2010,7,FEET,68.3,DEGREES F,,
+06/06/2010,10,FEET,58,DEGREES F,,
+04/21/2012,0,FEET,52.8,DEGREES F,,
+04/21/2012,5,FEET,52.5,DEGREES F,,
+04/21/2012,10,FEET,52.5,DEGREES F,,
+04/14/2015,0,FEET,54.8,DEGREES F,,
+04/14/2015,5,FEET,53.6,DEGREES F,,
+04/14/2015,10,FEET,53,DEGREES F,,
+08/15/2015,1.5,FEET,78,DEGREES F,,
+05/11/2016,0,FEET,57.5,DEGREES F,,
+05/11/2016,5,FEET,57.5,DEGREES F,,
+05/11/2016,10,FEET,57.3,DEGREES F,,
+06/15/2017,2,FEET,77,DEGREES F,,
+07/15/2017,2,FEET,72,DEGREES F,,
+08/21/2017,2,FEET,70,DEGREES F,,
+06/23/2018,2,FEET,65,DEGREES F,,
+07/21/2018,2,FEET,67,DEGREES F,,
+06/22/2019,2,FEET,56,DEGREES F,,
+07/21/2019,2,FEET,69,DEGREES F,,
+09/01/2019,2,FEET,59,DEGREES F,,
+06/20/2020,2,FEET,58,DEGREES F,,
+07/17/2020,2,FEET,59,DEGREES F,,
+08/15/2020,2,FEET,60,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/07/2000,80 degrees F. Somewhat overcast. No rain in 2 weeks. water temp at 12" 77 degrees F.    
+05/14/2000,Cold- 50 degrees F. W wind 15-20 mph. White caps.    
+05/20/2000,60 degrees F.- E wind 10 mph. Water temp 62 degrees. sunny. 2.5" rain this week.    
+06/03/2000,Mostly cloudy- W wind 5 mph. 60 degrees F.- water temp 68 degrees F. 5" rain this week.    
+06/08/2000,DEEP HOLE    
+06/19/2000,Sunny- 75 degrees. Light E wind 5 mph. 1.5" rain previous week. Water temp 75 degrees F.    
+06/25/2000,Sunny- 80 degrees. Light W breeze. Water temp 76 degrees F. 3/4" rain this week.    
+07/03/2000,Sunny- 80 degrees. Lake is like a mirror. 1" rain yesterday. Water temp 79 degrees F.    
+07/09/2000,Choppy. SW breeze 20 mph. Sunny. 1" rain last night.    
+07/29/2000,Hazy.  Rain off and on most of day. Water temp 79 degrees F.    
+08/23/2000,DEEP HOLE    
+08/31/2000,Hot- 91 degrees F. Light breeze- sunny. Water temp 83 degrees. No rain for 4 days. Lily pads starting to disappear.    
+09/08/2000,Beautiful day. 72 degrees. Not a cloud in the sky. Water is like a mirror. Saw 10-12 nice pike. Water temp 71 degrees F.    
+09/15/2000,Windy and cool. 60 degrees F.- sunny- water temp 68 degrees F.    
+09/28/2000,Light breeze- beautiful day- 60 degrees. Water temp 68 degrees F. Saw 8-10 nice pike- sumac starting to turn color. Aquatic plants and lily pads starting to disappear.    
+10/01/2000,Hazy- overcast sky. Light breeze- 63 degrees F.- leaves really turned color last 2 days.    
+10/17/2000,DEEP HOLE    
+05/18/2001,Film of green on the water- from tree leaves.  Lake was calm- water temperature at 1' was 74 degrees and a week ago the water temperature was 67 degrees.    
+05/28/2001,Memorial Day.  Sunny with the temperature of 70 degrees and the water temperature is 67 degrees- was 75 degrees last week.  Did not see many bass in beds.  Water looked like it had dust on it.    
+05/30/2001,Windy- sunny- the water temperature is 66 degrees- and May rainfall is 6.5".    
+06/09/2001,Fishy smell in some bays.  Water clarity almost resembles a river- very murky. Sunny- light breeze- water temperature is 70 degrees- lots of cottonwood balls- and 1.25" of rain this past week.    
+06/16/2001,The air and water temperature is 74 degrees- beautiful day- calm- 5" of rain this past week- and the lake level approximately 9" higher.  Jay's pier submerged to 8th board.    
+06/25/2001,Sunny- calm- the temperature is 85 degrees- water temperature is 84 degrees- no rain for two weeks- lake level about 2" lower- and had a wind storm on 6/16 - lots of trees down.  Mark Klish was here on 6/21 to inspect dam.    
+06/27/2001,DEEP HOLE    
+07/09/2001,The water temperature is 84 degrees- outside temperature is 86 degrees and is sunny- no rain since June 18th- last seven days have been 80+ degrees- and total rainfall in June is 8.5".    
+07/31/2001,Very hot with the temperature at 95 degrees- sunny with a slight breeze- water temperature at 12" is 88 degrees- and total rainfall in July is 2.5".  Saw lots of nice bass and two large turtles.    
+08/07/2001,Very hot with the temperature at 94 degrees- sunny with a warm south breeze- 1" of rain on 8/1- water temperature is 92.5 degrees at 12"- and the weather has been in the 90's for nine days.    
+08/20/2001,Beautiful day.  The temperature is 78 degrees- lake is lake a mirror- water temperature at 12'' is 79 degrees- and 0.5" of rain last week.  Saw a large owl on north shore.    
+09/02/2001,Total rain for August is 3".  Slight breeze- sunny- the temperature is 75 degrees- and shoreline starting to die down- looking like fall.  More Eurasian Milfoil in bay and channels.  Lots of boat activity.    
+09/20/2001,First day of no rain this week.  Sunny- the temperature is 70 degrees- the water temperature at 12" is 64 degrees- 1.5" of rain this week- and lily pad areas are smaller- about 1/3.    
+10/02/2001,Total rain for September is 4.5".  Slight breeze- sunny- the temperature is 75 degrees- the water temperature at 12" is 65 degrees- and the fall colors are showing.    
+10/17/2001,Full color on the trees- almost past peak.  The water temperature is 52 degrees and the air temperature is 48 degrees- sunny- and total rain to 10/17 is 1".    
+05/21/2002,Cold damp spring.  Outside air temp. has been in the
+low 50's...several mornings around 32.  Water temp. 63 - 1ft. deep yet.  No green scum on water.  Sandhill cranes have 2 new babies.    
+05/27/2002,Trees are really starting to fill out.  Sandhill
+Cranes have lost one of their two offspring.   Memorial Day temp. about 75- light breeze.  Water temp. 70 at 12".  Some Bass on spawning beds.
+Green scum on water.    
+05/29/2002,Water temp.76 at 1' - outside temp. 80- slight breeze.
+Lake is like a mirror.  Saw more Bass on spawn beds.  26" Northern at surface with large Bluegill stuck in his mouth...too big of a fish to eat!!    
+06/06/2002,Deb Konkel here a.m. looking for Eurasian Milfoil.
+Water temp. 71.5 at 1'.  Identified about 7 acres of Eurasian.  Today's a 10!!  Gorgeous!  About 70 - light breeze.  Easier seeing fish.  Saw large turtle 24" diameter by Olsons.    
+06/17/2002,1/2" rain on 6/13 - hazy sun - clouds - slight ripple.
+Water temp. 74 at 12".  Saw a few nice Bass and Northern- small snapping turtle and two Blue Heron.  Mama- Papa + baby Sandhill Cranes by island.    
+07/01/2002,Water temp 86 at 1'- air temp 90 with light breeze.  1
+1/4" rain the past week.  Not seeing many Bass or Northern.  Observed Sandhill Cranes swimming across the lake last evening 6/30.  Temps. 80's + 90's for a week.  Total    
+07/17/2002,Air temp. 87.  Water temp. at 12" 85.  No rain for two
+weeks.  Hazy sky- slight breeze with mild ripples.  Still not seeing many Bass or Northern.    
+07/26/2002,Air temp 80- water temp. 81 at 12".  1" of rain three
+days ago.  Beautiful day with no wind!
+
+    
+08/12/2002,Air temp. 83.  Water temp. 82 at 12".  3/4" of rain
+past week.  Breezy- chance of storms tonight.  Few fish seen.  Lily pads starting to turn brown.    
+08/19/2002,Water temp. 74.  Air temp. low 70's.  Beautiful day -
+breezy- north wind 5mph.  Saw a large Pike...at least 36" and fat!!
+
+    
+08/26/2002,Beautiful day...light breeze.  Water temp. 80 and air
+temp. about the same.  Shoreline showing signs of fall.
+
+    
+09/04/2002,Worked on aerators with Scott yesterday and cleaned
+air lines of chara.  Lake is like a mirror- no wind. Water and air temp. 75.  No clouds.  1" rain past week.  Great for spotting fish.  Saw 2 bass 20" and several nice pike.    
+09/11/2002,Cold front last night 48..breaking streak of 10 days
+80+.  Lily pads reduced by 1/3.  Beautiful day- slight ripple on water- not a cloud in the sky.  Water temp. 73.5.  Lake was treated for Eurasian Milfoil yesterday.  There was a light rai    
+09/18/2002,Out with Scott and Barb doing harvesting plan for
+2003.  Partly sunny- air temp. 65; water temp. 70.  Shorelines are rust color.  Evening lows 45-55.    
+09/25/2002,Cool front this week.  Water clarity has improved with
+cooler temps.  Sun and clouds- breezy - water and air temp. at 62.  Lily pads declining 40%.  Blue Gills are sluggish around the pier.  Birds and Sandhill Cranes seem to have gone.    
+10/06/2002,Partly cloudy and cool 55.  Water temp. 60.  Windy-
+lake choppy.  Oaks are turning brown.  2" of rain this week.  Saw a deer wading on the west end of lake.  Approx. rainfall for July - 2 1/4";  August - 2 3/4"; September    
+06/01/2003,Sunny- slight breeze - very few fish seen.  First
+reading because boat was in shop.  Temp. 70 water temp.71/12".  Trees are
+almost in full leaf.  Scum from trees floating on water.  Sandhill Cranes
+are back with two babies.
+    
+06/15/2003,Sunny- north breeze.  Excessive amount of scum on
+lake...cotton balls all over from Poplar trees.  Weather still cool past
+week.  Beautiful 6/14 + 6/15 temp 80.  Boat out of repair shop again 6/13.
+Water temp. 79/12".  Crane babies are growing fast.
+    
+06/17/2003,Sunny/no breeze 85.  Still lots of scum on water and
+particles in water.  Water temp. 84/12".  No rain for 6-7 days.  Total
+rain for May 5.5".
+    
+06/23/2003,Still scum in certain areas.  Hard to spot fish.
+Partly sunny.  Out with Reesa and Patrick from county.  They did temp.
+conductivity- dissolved oxygen- and PH.  Lake was calm with a slight
+breeze.
+    
+06/30/2003,Sunny- light breeze.  Water temp 79/12".  Water
+surface is cleaner but water is still murky...hard to spot fish.  Much of
+the Charra seems brown rather than green.  Total rain for June 2.5".
+    
+07/27/2003,Sunny - no wind.  Water temp. 78/12".  Water clearer
+than previous data.  EM treated 7/24 and weeds harvested 7/16 + 7/17.  No
+readings for 2 weeks---on vacation in Spooner.  Still not seeing many
+fish.
+    
+08/01/2003,Out with Reesa and Leslie from county.  Water temp
+51.6/13'; 55.4/10'; 64/7'; 71.64/5'; and 75/3'.  Beautiful day but windy.
+3" of rain last 2 days.  Total rain for July 6.5".
+    
+08/12/2003,Water temp. 78/12".  Mostly cloudy and slight ripple
+on water making it hard to read Secchi disk.  Still not observing fish as
+we did last year.  Sandhill Cranes coming everyday.  One baby has a broken
+leg and one baby has a short upper beak!
+    
+08/27/2003,Beautiful day - slight breeze.  Water temp 81/12".
+Weeds harvested yesterday and today for the 2nd time.  Total rain for
+August 2.5".
+    
+09/04/2003,Feels like fall in the air.  Cool NE winds- sun and
+clouds...a beautiful day 70.  Cranes here this morning.  One with broken
+leg is doing well...will probably always have a limp.
+    
+09/08/2003,Hazy sun - warm day for Sept. 85.  Water temp.
+80/12" - need rain - lily pads starting to turn brown.  Water chanels cut
+by harvester still open- but new ones starting.  Best Secchi depth this
+year.
+    
+09/16/2003,Gorgeous fall day - mid 70's.  Water temp. 69/12".
+Cloudless sky and nice breeze.  Rained 2 1/2" past weekend.  Lake is
+clear- but not seeing many big fish.  Lots of turtles basking in sun.
+Shoreline showing signs of fall.  Sandhill Cranes have left.    
+10/05/2003,Crisp cool day - calm.  Water temp. 55/12" and air
+temp about the same.  Clearest we've seen.  Trees starting to
+turn...freezes this past week.  Saw lots of fish - one "biggie" 3' Muskie.
+First time we've touched bottom with Secchi.
+    
+10/09/2003,Air temp. 75 and water temp 60/12".  Gorgeous week
+with around 80 temps.  Trees have really changed color this
+week...probably close to 40-50 percent.  Breezy day but nice.  Asian
+Beetles are abundant!!  Lots of fish  Total rain for Sept. 3 3/4".
+Rainfall 2003:  May   5.5
+                June  2.5
+                July  6.5
+                Aug.  2.5
+                Sept. 3.75
+    
+05/26/2004,Sunshine at last - lots of rain this month.  Lake is clear - seeing lot of Bass on spawn beds.  Cranes are back but must be nesting...see only 1 at a time.  Temp. 70- lake temp. 69.  8 1/2" of rain so far in May.    
+06/03/2004,Gorgeous day.  water temp. 73- air temp. about the same.  Slight breeze and ripple.  Lots of Bass.  Total rain for May was 11"...set record set in late 1800's.  Northern seen were small.    
+06/08/2004,Clouds + sun.  Water temp. 79- air temp. 84.  Breezy + ripples - very humid past two days- more rain expected.  Blue Gills spawning - Bass done spawning.  1" rain this past weekend.    
+06/15/2004,Beautiful day- water 80/air 80 - low humidity.  Seeing lots of Bass + snapping turtles.  Snapper laid eggs at our house 6/14.  Saw both cranes with babies (2) for lst time.    
+06/25/2004,Rich went out with Resa Evans from Adams Cty. for water testing.  Very windy.  Cranes have visited...1 very small named "Peanut" other one is 3x bigger named "Butter".  June rain 9".    
+07/01/2004,80...sun + clouds.  Mosquitos are terrible!  Cranes visit most everyday.  "Peanut" didn't survive.  Not seeing many fish.  Weed harvesting on 6/30 + 6/31.  Weed spraying on 6/17.    
+07/18/2004,Low 80's - hazy.  Saw a few nice fish and big snapper!    
+07/25/2004,Gorgeous day!  Air + water temp. about 76.  Not seeing many fish.  Cranes visiting..."Butter" is getting big and getting feathers.  Lake busy on weekends!    
+08/14/2004,Nice day...air/water 70.  Unseasonably cool past week...highs in 60's - lows in 50's.  Feels like fall in August.  July rainfall 5".    
+08/27/2004,Humid - mid 80's.  2" of rain this week.  Lake seems a little murky deeper.  Cranes now all flying.  Shoreline showing signs of fall.  Maples turning color.    
+09/09/2004,70 very calm.  Saw some nice Northern and Bass.  Seems like a lot of birds have headed south already...maybe a sign of early fall + winter!!    
+09/14/2004,Cloudy- Resa Evans here to do water sampling.  Water temp. at 1" was 68; 8' was 53.  5" of rain in August.  Total since May 30"    
+09/21/2004,Last day of summer - beautiful- breezy- 80.  Saw a couple big snappers and some nice bass.  Not much rain so far in September.    
+09/29/2004,Resa Evans + Jane here to do water sampling...toured entire lake looking at shorelines and lake buffers.  Gorgeous fall day...low 60's.  Boat drifted from deep hole so touched bottom.    
+10/04/2004,Sunny + breezy - getting cold - suppose to be a hard freeze tonight.  Cranes left 10/02.    
+02/09/2005,with Martin Billings--sample taken through hole in ice-covered lake
+05/30/2005,A beautiful Memorial Day.  Lake temp. 74 - lake is clear - seeing quite a few fish.  Cranes are back and have 2 babies...they visit everyday.  A few families of Canadian Geese- too.  A little rain last night...need more.    
+06/12/2005,Warm + humid this week.  Cranes here everyday "Peppy" + "Pokey" are growing fast.    
+06/21/2005,1st day of summer - beautiful day 92...calm winds.  Weed cutter harvesting today.  Chara is mounding east end and west end...weed cutter should pick up.  Deer on shoreline.  Water temp. 85 at 1 ft.    
+06/29/2005,Out with Reesa Evans to do water samplings. Warm + humid - 80+ for the past 2 weeks in June.  Air temp. 82 water temp. 3'-78.5; 5'-68.7; 10'-56.5; 12'-53.5.                June rain 1 1/2"    
+07/05/2005,Beautiful day - light breeze.  Chara seems to floating early this year.  2 1/4" rain on 7/03...much needed.  Lake not that busy over the 4th holiday.  Temp. 78    
+07/13/2005,Nice breeze but warm - about 88 - water temp. about the same at 1'.  Forecast hot + humid all week.  Drought conditions throughout WI.  Cranes visit 2-3 times a day- but starting to do more routing.    
+07/22/2005,Reesa + Sandy from Adams Cty. here to do water samplings.  Beautiful morning after 1 3/4" of rain on 7/20 + 21.  Burn bans still in effect.  Water temp. 3'-75.03; 5'-7.2; 10'-58.5; 12'-55.  Seeing more Bass.    
+08/05/2005,Beautiful day...less humid.  Air 84 - water 83 at 1'.  Milfoil starting to bloom at surface.  Cranes all the smae size now - all flying.  July rain 6 1/2".    
+08/10/2005,1/4" rain last evening.  Temps. 90 all last week.  Did lake survey on 8/08 with J. Abbs- B. Pegler + B. Anderson.  Abundance of Northern Milfoil - will be harvested by Frank.  Water temps. 3'-77.1; 5'-64.2;      10'-54.5; 12'-52.3.    
+08/17/2005,Weeds harvested 8/15 + 8/16 - water a little murky from cutting.  Saw 3 legged deer 8/16 on far west end.  Seeing signs of fall already!  Lily pads starting to die off.    
+08/28/2005,Chara still mounding on west end of lake.  Beautiful day - low 80's.  Rich + Jay worked on aeration lines today - repaired 3 leaks + still have 3 more to do.  Water temps. cool.    
+08/31/2005,Sunny + calm.  Out with Reesa Evans from Adams Cty.  Temps.13'-53.5; 10'-54; 5'-67.5; 3'71.3.  August rain 1 1/2".    
+09/09/2005,Weed cutting done this week making water less clear...warm temps. for Sept. upper 80's for coming weekend.  Hazy sun + breezy.  Light rain this past Weds.    
+09/14/2005,1/2" of rain 9/l3.  Out with Reesa + Scott.  Eurasian Milfoil treated 9/l3.  Temps. in 80's past 2 weeks.  Today 70.  Lily pads 40% dead.  Water temps. 13'-52.9; 10'-54.2; 5'-68.5; 3'-71.3.    
+09/20/2005,Gorgeous morning - calm about 65.  Checked air lines for high spots.  Not seeing many large fish.  Nice rain Sun. eve. 1/2" - next few days above normal temps.    
+10/03/2005,Warm + humid for Oct.  Not much tree color yet...seems late.  Lily pads about 90% gone.  Cranes and Hummingbirds left this past week.  Sept. rain fall 3 3/4".  Colder temps coming later this week.    
+05/28/2006,Memorial Day weekend - warm + humid - water 82/air temp. low 90's - nice breeze.  Storms last night 1/4" rain.  Bass on beds.  Water murky from pollen- etc. from trees.  3 Sandhill Crances here - no babies - lots of Canadian Geese (3 families).  4.78" rain - May
+06/05/2006,Gorgeous day 81 - nice breeze.  Seeing lots of fish.  Sprayed for EMF May 31 - 3 acres - East bay.  Chara is starting to mound already...will be harvested.  Seeing quite a few bass.  Rain expected tomorrow.
+06/22/2006,Hazy clouds - light ripple on lake.  3/4" rain yesterday.  Temps. in the 80's.  Harvested lily pads 6/19 + 6/20 making channels wider.  Murky water may be due to harvesting.
+06/26/2006,Showers + gloomy past weekend - temps. low 70's - calm this afternoon with just a little sun.  3" of rain so far this month.
+06/28/2006,Reesa did water sample...1'- 21.6; 5'- 20.02; 10'- 12.99; 12'- 11.53.  Total rain for June 3".
+07/10/2006,Beautiful day - water temp 82 at 12" - calm with slight ripple.  Our single crane made an appearance with mate + baby "Buttercup" on 7/2...a surprise - very late arrival for baby!  Here everyday now.
+07/21/2006,Reesa did water sample.  1'- 24.45; 5'-21.5; 10'-13.59; 13'-12.13.  Calm + cloudy.  Total rain 4" - July.
+08/08/2006,Gorgeous day - 2" rain 8/06.  Lots of milfoil coming to the surface...mostly Northern Milfoil.  More Chara mounding in west end.  It was harvested some in July.
+08/20/2006,2 weeks of HOT weather - end of July + lst part of Aug. causing an abundance of mostly NM.  Frank will harvest tomorrow.  Survey of milfoil on 8/13 found very little Eurasian by Jim Abbs + Rich.  Water 76.  Signs of fall!
+08/27/2006,Weed cutting this past week (Wed.-Fri.) still more to do...makes lake less clear.  4" of rain Wed. + Thurs. (hail Weds. night).
+09/15/2006,Sunny + nice - lst sun since Fri.  Lake much clearer.  Weeds dying down.  Cranes still visit..."Buttercup" now flying.  Air temp. mid 70's.  Total rain 8 1/2" - Aug.
+05/21/2007,Beautiful day- water temp. 70 degrees and air temp 80 degrees with a nice breeze.  Sandhill Cranes here beginning of May with two babies...Fuzzy and Wuzzy.  Saw a big Snapping Turtle sunning on Chara in East bay.  Early spring...leaves full.  A lot ot tent caterpillars this year!
+05/29/2007,Warm day for May - 85 degrees.   Sun and clouds.  Rain expected next few days.  Water is clear but lots of pollen. etc. floating.  Not seeing many fish.  Cranes are visiting regularly and babies now eating corn.   1 1/2" of rain for May.
+06/11/2007,Lake is clear.  Lily pads are filling in.  Treated for Eurasian Milfoil on 5/30/07...4 acres - 200 lbs./acre.  Gorgeous day - 84 degrees and slight breeze.  Fuzzy and Wuzzy are getting big and starting to flap their little wings.  We see them everyday.  3 1/2 " of rain for June.
+06/30/2007,sunny- calm--little boat traffic--air temperature in high 70s Fahrenheit 
+07/13/2007,Water temp. 77 degrees at 1'.  Slight breeze.  We've had about 2 weeks of 80 + temperatures.  A nice break in temps for last few days.  Harvested weeds 6/19- 20- + 21.  Floating Chara was picked up 7/9/07.  Fuzzy + Wuzzy are big now and have feathers...still not flying.
+07/29/2007,Water temp. 85 degrees...nice breeze.  Very warm weather so far this summer promoting milfoil growth.  1" of rain on 7/26 but still drought conditions in WI.
+Baby cranes are almost adult size and flying.  2 1/4" or rain for July.
+08/10/2007,Two weeks of hot- humid weather.  2 1/2" of rain past week.  Frank capsized the week cutter 8/3/07...Chara shifted weight on weed cutter causing the problem.  Weeds are in need of harvesting due to hot weather.  Water temp. 87 degrees.  Our Shoreline Restoration Project is planted!!
+08/21/2007,Drought and now too much rain!! 8" since 8/5/07. First time out in 4 days...more rain next 3 days. Lake about 4" higher. Water temp. 70 degrees. Wettest August on record! 
+08/31/2007,Record breaking rainfall for August...13 1/4".  Frank harvested milfoil and lily pads 8/28-30.  (His harvester has a new motor).  Lots of fragments of milfoil floating and lake less clear from cutting.  Labor Day weekend to be beautiful!
+09/19/2007,Beautiful afternoon- slight breeze.  Lily Pads are curling.  Trees not yet changing color except for Maples.  Cranes still here.  1/2" rain this week.  Water temp. 68 degrees.  Weeds are dying down...a sign of fall!
+09/26/2007,Fall day- very calm upper 60's.  Oaks just starting to turn color.  Cranes aren't visiting- but still here.  They must be feeding in the corn fields.  Not seeing many fish...Bass or Northern.  5 1/4" of rain for Sept.
+10/03/2007,Warmer than normal temperatures for October...70 degrees and suppose to get warmer this weekend.  Water temp. 67 degrees.  Trees are showing more color and really starting to fall.  Suppose to have a fall treatment for milfoil  on 10/8/07...5 acres.  1 1/2" of rain so far in Oct.  Boat comes out next week so last Secchi reading....going south like the Cranes and Hummingbirds!
+05/30/2008,Rained yesterday.  Nice afternoon 79...lake temp. 67.  Late spring - fish kill over the winter...seeing very few blue gills.  Cranes are back with 2 babies - Jack + Jill.  Another pair also on lake with 1.  Very few weeds except for Chara. 
+06/09/2008,Conditions not good for accurate Secchi - cloudy- dark water and ripples.  Lots of rain - 7" 6/07 + 6/08 - 10" since 6/02.  Lake is high and many piers under water.  Cranes visit...Jack + Jill growing fast.  (Buoy had moved from deep hole).
+06/19/2008,Reesa here after 2:00 to do water sampling with a group of us...Bill Pegler- Jody Pobjecky- Sandy Henning- Bob Cropp and Rich + Louise Magnani.  Nice day- slight breeze...good Secchi reading.  Not many weeds yet.
+07/14/2008,Gorgeous day...low 80's and a slight breeze.  Suppose to be hot and humid rest of the week.  3 1/2" of rain last week.  4 1/4" so far for July.  Not much milfoil yet..but lot of Chara.
+08/05/2008,Temp. 84...humidity going down- nice breeze.  1" rain yesterday.  Frank cutting navigation lanes 8/04 + 8/05...mostly lily pads and some Chara.  Our lake buffer native wildflowers are doing great - lots of color.
+08/18/2008,Temp. 84 - water temp. 80.  Warm again this week and higher humidity.  Water is crystal clear.  Little rain in past week.  1 1/2" for August.
+09/05/2008,Water temp 70 - beautiful afternoon - slight ripple.  Signs of fall around the lake...lily pads starting to die.  Rain all day yesterday 1/2"...much needed.  Hot Labor Day temps then cooler by 20 degrees on 9/03.  Very little Chara mounding to the surface this summer.
+09/22/2008,Fall has definitely arrived.  Lake has looked good all summer...sad that we had a fish kill; but it also killed the weeds!  Very little milfoil this year...did not have to do any harvesting or treatment for weeds.
+05/31/2009,Lake still not as clear due to spring tree pollen.  Water temp. 72.  Cranes are visiting with two babies at first...Pebbles and Bam-Bam- but now only one...already getting big.  Spring has been cool - few weeds - lily pads just starting to fill in.
+06/14/2009,A beautiful day about 77.  Lots of junk on water yet from Cottonwood trees.  Lake still not clear.  Snapping turtle laying eggs on land.  Rain forecasted for this week.
+06/20/2009,Warm day and breezy.  2 1/2" of rain this week.  Lake seems more cloudy this year...may be due to cold and late spring.  Water temp. 80.  Cottonwoods still shedding.  Chara mounding in a few areas.
+06/26/2009,Lake still not clear in deep area.  Hot and humid this week - 90's.  Chara was harvested on Tuesday but has already mounded in the channels again due to the hot weather.  Water temp. 86.
+07/13/2009,Cool summer - no rain this week.  Chara mounding earlier but not submerged.  Not seeing many large fish which we usually see on North shore.  Water temp. 81 at 1'...same air temp.
+08/12/2009,Warm temps. 80's and humidity.  Water temp. 82 at 1'.   Lily pads starting to brown and curl.  Not much Chara is surfacing.  1" of rain last week.  Our native (Lakeshore buffer) garden in full bloom now - everything later than usual this year.
+08/23/2009,Beautiful day 74...water temp. 74.  1"+ of rain past week.  Water still seems murky...all summer which is unusual for Peppermill.
+09/04/2009,Water getting clearer...seeing more fish.  A beautiful week - low 70's  but cool nights in the upper 40's.  A good late Memorial weekend forecast.
+09/12/2009,The weather has been beautiful - upper 70's-80...no wind and no rain for over two weeks.  Shoreline showing signs of fall.  Lily pads dying off.
+10/07/2009,Last Secchi reading of the season.  Water is crystal clear...lily pads 90% gone.  Water temp. 55 - air temp. about the same.  Unseasonably cold temps. for beginning of October.  High temps. in the upper 40's expected end of week and lows in the 30's!
+05/31/2010,A warm Spring!  Temps. have already been in the 90's for May.  Everything ahead of schedule.  Chara is mounding in some areas.  Two sets of cranes here and three babies which are already getting big.  Water 81 at 1' - air temp. 81 - beautiful Memorial Day!
+06/06/2010,also along:  Dan + Sandy Henning- Reesa Evans
+06/20/2010,Nice afternoon.  Lots of rain so far in June...water a little murky.  Rain forecasted for most of week.  About 40 Canadian Geese on lake!
+07/01/2010,Beautiful day for July 1!  Water temp. 80/air temp. 78 - low humidity.  Suppose to be warm and humid for the 4th of July weekend.  Lake looks good...no need for harvesting weeds- chara or lily pads as yet.  Lots of rain in June...9".
+07/13/2010,Breezy and nice.  Water temp. 83.  Very warm and humid weather forecasted starting tomorrow.  Harvested today...cleaning up channels...lily pads and floating chara - weeds really not bad.  Harvesting may have caused lower reading.
+07/25/2010,Beautiful - low 80's with lower humidity.  Water temp. 85.  Lots of rain the past two weeks...7".  Total rain in July 9". 
+08/09/2010,Warm and humid.  Water temp. 85.  Hot and humid all this week...and rain chances.  2" so far in August.
+08/29/2010,Water temp. 80 - warm and humid but nice breeze.  Signs of Fall - lily pads starting to brown and curl.  No rain this past week.  Chara mounding some with warm temperatures...Frank will harvest this week.  Total rain in August 6".
+05/30/2011,Beautiful day but warm and humid.  Cold and wet May...everything behind schedule for plants and trees.  Cranes are back but not seeing too often.  Lily pads starting...not many weeds yet!
+06/07/2011,Hot and humid!  Air temp. 92 - water temp. 83.  Water has a brownish color- especially near shore.
+07/11/2011,Warm and humid - temp. 85 - water temp. 84.  Storms during the night - 1 1/4" of rain.  Frank harvested lily pads and Chara.  Not seeing many large fish...did see a large Snapping Turtle.
+07/30/2011,Having hot and humid weather past few weeks.  Water temp. 85 - air temp. 87.  3" of rain this past week (7/26/11).  Not seeing many fish again this year.
+08/12/2011,sunny--some wind
+08/14/2011,Cooler temps. past week (nice relief).  Water temp. 78.  Rain on Friday 8/12/11 - 1".  Not many Chara mounds.
+09/06/2011,Change in the weather!  Hot and humid 9/01 + 9/02 - rain 1".  Labor Day weekend - cool 9/03 + 9/04 lows in the 40's - highs low 60's.  Frank harvested milfoil and lily pads last week of August.  Water temp. 71 at 1'.
+10/04/2011,September was not nice...not out!! (Coldest Sept. in 10 yrs.).   Beautiful this week  lake is clear in some areas and a strange cloudy condition in other areas and STINKS!!   Seeing more fish on North shore.  Reesa Evans coming tomorrow (10/05/11) to check lake.  
+Reesa reported back on water samples taken...not blue/green algae...no other explanation.  Smell and cloudy condition disappearing after a few days.  Beautiful fall weather this lst week of October.
+04/21/2012,sunny- calm--Bob Cropp + Reesa Evans also present--little aquatic plant growth noted
+07/12/2012,Haven't been able to take Secchi readings in May or June.  Weather has been unseasonably hot and drought conditions here.  Frank harvested weeds 6/25-28.  Chara mounding a lot due to the heat.
+07/28/2012,Beautiful morning and a reprieve from the hot weather.  Some rain this past week but still a severe drought.  Frank  harvested weeds and picked up floating Chara 7/23-25.
+04/14/2015,sunny- windy--lake is low--no other boats sited--last year's growth of aquatic plants very visible--air temp 65.6 F
+06/20/2015,air temp 72 F
+07/18/2015,surface water temp 79 F
+05/11/2016,cold + overcast
+
+
+
+
+Start Date,Group Name,Project Name
+06/23/1992,Data Collectors,NONPOINT SOURCE
+07/13/1992,Data Collectors,NONPOINT SOURCE
+09/15/1992,Data Collectors,NONPOINT SOURCE
+10/27/1992,Data Collectors,NONPOINT SOURCE
+09/01/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/11/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/17/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/22/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/06/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/09/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/15/1999,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/07/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/14/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/20/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/03/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/08/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/19/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/25/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/03/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/09/2000,Jim Abbs And Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/29/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/23/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/31/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/08/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/15/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/28/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/01/2000,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/17/2000,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/18/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/28/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/30/2001,Jim Abbs,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/09/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/16/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/25/2001,Jim Abbs And Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/27/2001,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/09/2001,Jim Abbs,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/31/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/07/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/20/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/02/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/20/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/02/2001,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/17/2001,Jim Abbs And Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/21/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/27/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/29/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/06/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/17/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/01/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/16/2002,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/17/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/26/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/29/2002,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/12/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/15/2002,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/19/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/26/2002,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/04/2002,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/11/2002,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/18/2002,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/25/2002,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/06/2002,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/01/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/15/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/17/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/23/2003,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/23/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/30/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/27/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/01/2003,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/01/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/12/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/27/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/04/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/08/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/16/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/05/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/09/2003,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+04/14/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/26/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/03/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/08/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/15/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/25/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/25/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/01/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/18/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/25/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/14/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/25/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/27/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/09/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/14/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/14/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/21/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/29/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/04/2004,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+11/09/2004,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+02/09/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+04/15/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/30/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/12/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/21/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/29/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/29/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/05/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/13/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/22/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/22/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/05/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/10/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/10/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/17/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/28/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/31/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/31/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/09/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/14/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/14/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/20/2005,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/03/2005,Rich Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+11/04/2005,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+04/13/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/28/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/05/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/22/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/26/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/28/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/28/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/10/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/21/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/21/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/08/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/20/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/27/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/01/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/08/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/15/2006,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/16/2006,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/21/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/29/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/11/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/30/2007,Cherrie and Jerry Zibell- Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/13/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/28/2007,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/29/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/10/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/21/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/31/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/19/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/26/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/02/2007,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/03/2007,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/20/2007,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/30/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/09/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/19/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/19/2008,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/14/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/19/2008,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/05/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/18/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/23/2008,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/05/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/22/2008,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/31/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/14/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/20/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/20/2009,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/26/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/13/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/25/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/12/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/23/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/04/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/12/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/26/2009,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/07/2009,Rich And Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/31/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/05/2010,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/06/2010,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/20/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/01/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/13/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/17/2010,Robert Cropp- Sandy and Dan Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/17/2010,Robert Cropp- Sandy and Dan Henning,Citizen Lake Monitoring Network QA/QC - 2010
+07/25/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/09/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/29/2010,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/25/2010,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/30/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/07/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/18/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/18/2011,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/29/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/11/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/16/2011,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/16/2011,Robert Cropp- Sandy and Dan Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/30/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/12/2011,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/14/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/06/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+10/04/2011,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+04/21/2012,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+04/21/2012,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/02/2012,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/06/2012,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/12/2012,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/14/2012,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/28/2012,Louise Magnani,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/11/2012,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/08/2013,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/06/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/20/2013,Dan and Sandy Henning,
+07/20/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/17/2013,Dan and Sandy Henning,
+08/17/2013,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/22/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/28/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/19/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/26/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/23/2014,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+04/14/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/20/2015,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/18/2015,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/15/2015,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/15/2015,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/11/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+05/12/2016,Reesa Evans,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/18/2016,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/16/2016,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/18/2016,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/15/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/15/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/21/2017,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/23/2018,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/21/2018,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/04/2018,Dan and Sandy Henning,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/02/2019,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/22/2019,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/21/2019,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/27/2019,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+09/01/2019,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/13/2020,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+06/20/2020,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/17/2020,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+07/25/2020,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point
+08/15/2020,Robert Cropp,Citizen Lake Monitoring - Water Quality - Peppermill Lake; Deepest Point

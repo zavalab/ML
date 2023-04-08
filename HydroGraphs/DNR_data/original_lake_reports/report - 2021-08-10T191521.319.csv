@@ -1,0 +1,199 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Vincent Lake,Polk,2598500,NO,49,,10043217,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+194362071,06/26/2013,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+194362071,07/29/2013,5.3,,1.6,,,53,,,,,,,
+194362071,08/14/2014,3,,0.9,,,61,,,,,,,
+194362071,09/07/2014,2.7,,0.8,,,63,,,,,,,
+194362071,09/16/2014,3.4,,1,,,59,,,,,,,
+194362071,10/21/2014,5,,1.5,,,54,,,,,,,
+194362071,04/15/2015,5,,1.5,,,54,,,,,,,
+194362071,06/27/2015,7.2,,2.2,,,49,,,,,,,
+194362071,07/14/2015,6,,1.8,,,51,,,,,,,
+10585221,07/16/2015,6,NO,1.8,11.9,32.9,51,55,54,,,,,
+194362071,07/25/2015,5.9,,1.8,,,52,,,,,,,
+82607229,08/12/2015,7,NO,2.1,13.6,31,49,55,55,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82607229,09/02/2015,6.5,NO,2,14.2,28.7,50,54,55,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+194362071,09/15/2015,5.9,,1.8,,,52,,,,,,,
+194362071,04/16/2016,9,,2.7,,,45,,,,,,,
+194362071,06/30/2016,8,,2.4,,,47,,,,,,,
+194362071,07/23/2016,3,,0.9,,,61,,,,,,,
+194362071,08/10/2016,2.2,,0.7,,,66,,,,,,,
+194362071,04/24/2017,6.2,,1.9,,,51,,,,,,,
+194362071,06/01/2017,8.7,,2.6,,,46,,,,,,,
+194362071,08/04/2017,5.5,,1.7,,,53,,,,,,,
+194362071,08/30/2017,6.3,,1.9,,,51,,,,,,,
+194362071,05/06/2018,4.9,,1.5,,,54,,,,,,,
+194362071,05/15/2018,6.9,,2.1,,,49,,,,,,,
+194362071,05/26/2018,8.7,,2.6,,,46,,,,,,,
+194362071,06/29/2018,6,,1.8,,,51,,,,,,,
+194362071,07/18/2018,5,,1.5,,,54,,,,,,,
+194362071,07/29/2018,5.2,,1.6,,,53,,,,,,,
+194362071,08/23/2018,3.7,,1.1,,,58,,,,,,,
+194362071,12/14/2018,,,,,,,,,,,,,
+194362071,12/15/2018,,,,,,,,,,,,,
+194362071,03/17/2019,,,,,,,,,,,,,
+194362071,04/28/2019,,,,,,,,,,,,,
+194362071,05/03/2019,5.2,,1.6,,,53,,,,,,,
+194362071,05/26/2019,8.2,,2.5,,,47,,,,,,,
+194362071,05/31/2019,,,,,,,,,,,,,
+194362071,06/05/2019,7,,2.1,,,49,,,,,,,
+194362071,06/15/2019,6.8,,2.1,,,50,,,,,,,
+194362071,06/22/2019,7.3,,2.2,,,48,,,,,,,
+194362071,07/26/2019,3.8,,1.2,,,58,,,,,,,
+194362071,08/02/2019,4,,1.2,,,57,,,,,,,
+194362071,08/15/2019,4.2,,1.3,,,56,,,,,,,
+194362071,08/31/2019,4.8,,1.5,,,55,,,,,,,
+194362071,09/19/2019,5,,1.5,,,54,,,,,,,
+194362071,05/15/2020,9,,2.7,,,45,,,,,,,
+194362071,06/01/2020,7,,2.1,,,49,,,,,,,
+194362071,07/03/2020,6.6,,2,,,50,,,,,,,
+194362071,07/29/2020,5,,1.5,,,54,,,,,,,
+194362071,08/01/2020,,,,,,,,,,,,,
+194362071,08/20/2020,4.5,,1.4,,,55,,,,,,,
+194362071,09/19/2020,,,,,,,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/16/2015,0,FEET,76.6,DEGREES F,6.99,MG/L
+07/16/2015,1,FEET,76.5,DEGREES F,6.95,MG/L
+07/16/2015,2,FEET,76.5,DEGREES F,6.97,MG/L
+07/16/2015,3,FEET,76.5,DEGREES F,6.92,MG/L
+07/16/2015,4,FEET,76.5,DEGREES F,6.85,MG/L
+07/16/2015,5,FEET,76.4,DEGREES F,6.73,MG/L
+07/16/2015,6,FEET,76.4,DEGREES F,6.73,MG/L
+07/16/2015,7,FEET,76.2,DEGREES F,6.61,MG/L
+07/16/2015,8,FEET,76,DEGREES F,6.59,MG/L
+07/16/2015,9,FEET,72.6,DEGREES F,.13,MG/L
+07/16/2015,10,FEET,71.2,DEGREES F,.14,MG/L
+07/16/2015,11,FEET,70.2,DEGREES F,.15,MG/L
+07/16/2015,12,FEET,70.1,DEGREES F,.25,MG/L
+08/12/2015,0,FEET,77.2,DEGREES F,6.65,MG/L
+08/12/2015,1,FEET,77.1,DEGREES F,6.63,MG/L
+08/12/2015,2,FEET,77,DEGREES F,6.61,MG/L
+08/12/2015,3,FEET,76.9,DEGREES F,6.61,MG/L
+08/12/2015,4,FEET,76.8,DEGREES F,6.59,MG/L
+08/12/2015,5,FEET,75.9,DEGREES F,6.18,MG/L
+08/12/2015,6,FEET,75.3,DEGREES F,5.8,MG/L
+08/12/2015,7,FEET,75.2,DEGREES F,5.35,MG/L
+08/12/2015,8,FEET,75,DEGREES F,4.81,MG/L
+08/12/2015,9,FEET,74.6,DEGREES F,3.52,MG/L
+08/12/2015,10,FEET,74.2,DEGREES F,1.04,MG/L
+08/12/2015,11,FEET,73.6,DEGREES F,.2,MG/L
+08/12/2015,12,FEET,73.5,DEGREES F,.23,MG/L
+09/02/2015,0,FEET,74.1,DEGREES F,7.94,MG/L
+09/02/2015,1,FEET,74.1,DEGREES F,7.94,MG/L
+09/02/2015,2,FEET,74,DEGREES F,7.94,MG/L
+09/02/2015,3,FEET,73.8,DEGREES F,7.92,MG/L
+09/02/2015,4,FEET,73.5,DEGREES F,7.79,MG/L
+09/02/2015,5,FEET,71,DEGREES F,5.85,MG/L
+09/02/2015,6,FEET,70.1,DEGREES F,5.81,MG/L
+09/02/2015,7,FEET,69.6,DEGREES F,5.6,MG/L
+09/02/2015,8,FEET,68.8,DEGREES F,4.56,MG/L
+09/02/2015,9,FEET,67.4,DEGREES F,2.63,MG/L
+09/02/2015,10,FEET,67.1,DEGREES F,.75,MG/L
+09/02/2015,11,FEET,67,DEGREES F,.26,MG/L
+09/02/2015,12,FEET,66.9,DEGREES F,.24,MG/L
+12/14/2018,0,METERS,.8,DEGREES C,10.35,MG/L
+12/14/2018,0.5,METERS,2.9,DEGREES C,5.19,MG/L
+12/14/2018,1,METERS,3.9,DEGREES C,3.7,MG/L
+12/14/2018,1.5,METERS,4.1,DEGREES C,3.47,MG/L
+12/14/2018,2,METERS,4.2,DEGREES C,3.02,MG/L
+12/14/2018,2.5,METERS,4.3,DEGREES C,2.9,MG/L
+12/14/2018,3,METERS,4.3,DEGREES C,2.66,MG/L
+12/14/2018,3.5,METERS,4.3,DEGREES C,2.64,MG/L
+12/14/2018,3.7,METERS,4.3,DEGREES C,2.54,MG/L
+12/15/2018,0,METERS,1.8,DEGREES C,8,MG/L
+12/15/2018,0.5,METERS,3.5,DEGREES C,3.55,MG/L
+12/15/2018,1,METERS,3.7,DEGREES C,3.36,MG/L
+12/15/2018,1.5,METERS,3.9,DEGREES C,3.12,MG/L
+12/15/2018,2,METERS,4.1,DEGREES C,2.96,MG/L
+12/15/2018,2.5,METERS,4.1,DEGREES C,2.84,MG/L
+12/15/2018,3,METERS,4.3,DEGREES C,2.16,MG/L
+12/15/2018,3.5,METERS,4.3,DEGREES C,2.07,MG/L
+12/15/2018,3.8,METERS,4.3,DEGREES C,1.93,MG/L
+03/17/2019,0,METERS,.3,DEGREES C,2.75,MG/L
+03/17/2019,1,METERS,.8,DEGREES C,1.96,MG/L
+03/17/2019,2,METERS,1.2,DEGREES C,1.72,MG/L
+03/17/2019,3,METERS,1.3,DEGREES C,1.64,MG/L
+03/17/2019,4,METERS,1.6,DEGREES C,1.05,MG/L
+04/28/2019,0,METERS,52,DEGREES F,8.1,MG/L
+04/28/2019,1,METERS,,,8.1,MG/L
+04/28/2019,2,METERS,,,8,MG/L
+04/28/2019,3,METERS,,,7.8,MG/L
+04/28/2019,4,METERS,,,7.7,MG/L
+08/01/2020,0,METERS,26,DEGREES C,7.33,MG/L
+08/01/2020,1,METERS,25.4,DEGREES C,7.45,MG/L
+08/01/2020,2,METERS,24.7,DEGREES C,2.35,MG/L
+08/01/2020,3,METERS,21.6,DEGREES C,.03,MG/L
+09/19/2020,0,METERS,16.7,DEGREES C,5.5,MG/L
+09/19/2020,1,METERS,16.7,DEGREES C,4.7,MG/L
+09/19/2020,2,METERS,16.4,DEGREES C,4.3,MG/L
+09/19/2020,3,METERS,16,DEGREES C,3.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+06/26/2013,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/29/2013,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/14/2014,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+09/07/2014,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+09/16/2014,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+10/21/2014,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+04/15/2015,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/27/2015,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/14/2015,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/16/2015,MARK SUNDEEN,Directed Lakes 2015 Smith
+07/25/2015,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/12/2015,Mark Sundeen and Alex Smith,Directed Lakes 2015 Smith
+09/02/2015,Mark Sundeen and Alex Smith,Directed Lakes 2015 Smith
+09/15/2015,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+04/16/2016,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/30/2016,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/23/2016,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/10/2016,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+04/24/2017,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/01/2017,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/04/2017,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/30/2017,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/06/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/15/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/26/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/29/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/18/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/29/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/23/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+12/14/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+12/15/2018,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+03/17/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+04/28/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/03/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/26/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/31/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/05/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/15/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/22/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/26/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/02/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/15/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/31/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+09/19/2019,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+05/15/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+06/01/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/03/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+07/29/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/01/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+08/20/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole
+09/19/2020,Jack Caroon,Citizen Lake Monitoring - Water Quality - Vincent Lake - Deep Hole

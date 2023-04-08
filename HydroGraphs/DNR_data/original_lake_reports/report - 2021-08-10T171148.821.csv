@@ -1,0 +1,123 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Reisner Lake,Florence,676700,NO,19,,10053702,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+97379124,05/20/2020,9,YES,2.7,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,06/02/2020,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,06/10/2020,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,06/18/2020,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,06/21/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,06/26/2020,8,NO,2.4,,,47,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,07/04/2020,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,07/12/2020,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,07/20/2020,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,08/05/2020,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,08/13/2020,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,08/21/2020,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+97379124,08/29/2020,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+97379124,09/06/2020,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+97379124,09/14/2020,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+97379124,09/22/2020,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+97379124,09/30/2020,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+97379124,10/08/2020,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/21/2020,0,FEET,76,DEGREES F,6.9,MG/L
+06/21/2020,1,FEET,76,DEGREES F,7.3,MG/L
+06/21/2020,2,FEET,76,DEGREES F,7.2,MG/L
+06/21/2020,3,FEET,76,DEGREES F,7.1,MG/L
+06/21/2020,4,FEET,75.9,DEGREES F,7.5,MG/L
+06/21/2020,5,FEET,75.8,DEGREES F,7.5,MG/L
+06/21/2020,6,FEET,75.7,DEGREES F,7.5,MG/L
+06/21/2020,7,FEET,75.4,DEGREES F,7.8,MG/L
+06/21/2020,8,FEET,75.2,DEGREES F,8,MG/L
+06/21/2020,9,FEET,75.2,DEGREES F,8.1,MG/L
+07/12/2020,0,FEET,80.5,DEGREES F,7.9,MG/L
+07/12/2020,1,FEET,80.6,DEGREES F,7.8,MG/L
+07/12/2020,2,FEET,80.6,DEGREES F,7.7,MG/L
+07/12/2020,3,FEET,80.7,DEGREES F,7.7,MG/L
+07/12/2020,4,FEET,80.7,DEGREES F,7.7,MG/L
+07/12/2020,5,FEET,80.7,DEGREES F,7.6,MG/L
+07/12/2020,6,FEET,80.7,DEGREES F,7.5,MG/L
+07/12/2020,7,FEET,80.7,DEGREES F,7.6,MG/L
+07/12/2020,8,FEET,80.3,DEGREES F,7.7,MG/L
+07/12/2020,9,FEET,80.2,DEGREES F,7.6,MG/L
+07/12/2020,10,FEET,80,DEGREES F,5,MG/L
+08/05/2020,0.3,FEET,70.3,DEGREES F,9.64,MG/L
+08/05/2020,1,FEET,70.3,DEGREES F,9.51,MG/L
+08/05/2020,2,FEET,70.4,DEGREES F,9.52,MG/L
+08/05/2020,3,FEET,70.4,DEGREES F,9.18,MG/L
+08/05/2020,4,FEET,70.4,DEGREES F,9.32,MG/L
+08/05/2020,5,FEET,70.3,DEGREES F,9.29,MG/L
+08/05/2020,6,FEET,70.2,DEGREES F,9.55,MG/L
+08/05/2020,7,FEET,70.2,DEGREES F,9.56,MG/L
+08/05/2020,8,FEET,70.1,DEGREES F,9.46,MG/L
+08/05/2020,9,FEET,70.1,DEGREES F,9.33,MG/L
+08/05/2020,10,FEET,70.5,DEGREES F,1.05,MG/L
+08/29/2020,0.3,FEET,72.7,DEGREES F,10.23,MG/L
+08/29/2020,1,FEET,72.8,DEGREES F,9.07,MG/L
+08/29/2020,2,FEET,72.7,DEGREES F,9.02,MG/L
+08/29/2020,3,FEET,72.7,DEGREES F,9.13,MG/L
+08/29/2020,4,FEET,72.7,DEGREES F,9.15,MG/L
+08/29/2020,5,FEET,72.7,DEGREES F,9.18,MG/L
+08/29/2020,6,FEET,72.7,DEGREES F,9.08,MG/L
+08/29/2020,7,FEET,72.7,DEGREES F,9.05,MG/L
+08/29/2020,8,FEET,72.7,DEGREES F,9.05,MG/L
+08/29/2020,9,FEET,72.8,DEGREES F,2.74,MG/L
+09/14/2020,0.3,FEET,61.4,DEGREES F,9.9,MG/L
+09/14/2020,1,FEET,61.4,DEGREES F,9.93,MG/L
+09/14/2020,2,FEET,61.3,DEGREES F,9.87,MG/L
+09/14/2020,3,FEET,61.2,DEGREES F,9.95,MG/L
+09/14/2020,4,FEET,61,DEGREES F,9.94,MG/L
+09/14/2020,5,FEET,60.7,DEGREES F,9.98,MG/L
+09/14/2020,6,FEET,60.4,DEGREES F,10,MG/L
+09/14/2020,7,FEET,60.2,DEGREES F,10.15,MG/L
+09/14/2020,8,FEET,60.1,DEGREES F,10.13,MG/L
+09/14/2020,9,FEET,60.1,DEGREES F,10.1,MG/L
+09/14/2020,10,FEET,61,DEGREES F,1.23,MG/L
+10/08/2020,0.3,FEET,50.3,DEGREES F,12.3,MG/L
+10/08/2020,1,FEET,52.9,DEGREES F,10.7,MG/L
+10/08/2020,2,FEET,52.9,DEGREES F,10.6,MG/L
+10/08/2020,3,FEET,52.8,DEGREES F,10.4,MG/L
+10/08/2020,4,FEET,52.8,DEGREES F,10.5,MG/L
+10/08/2020,5,FEET,52.8,DEGREES F,10.4,MG/L
+10/08/2020,6,FEET,52.8,DEGREES F,10.5,MG/L
+10/08/2020,7,FEET,52.7,DEGREES F,10.5,MG/L
+10/08/2020,8,FEET,52.6,DEGREES F,10.4,MG/L
+10/08/2020,9,FEET,52.6,DEGREES F,11,MG/L
+10/08/2020,9.5,FEET,54.6,DEGREES F,.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/02/2020,Water Temperature = 69.7 degrees F
+
+
+
+
+Start Date,Group Name,Project Name
+05/20/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+06/02/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+06/10/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+06/18/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+06/21/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+06/26/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+07/04/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+07/12/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+07/20/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+08/05/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+08/13/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+08/21/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+08/29/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+09/06/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+09/14/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+09/22/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+09/30/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole
+10/08/2020,William Fisher,Citizen Lake Monitoring - Water Quality - Reisner Lake - Deep Hole

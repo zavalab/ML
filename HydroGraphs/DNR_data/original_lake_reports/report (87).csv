@@ -1,0 +1,252 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Little Trade Lake,Burnett,2639300,NO,7,,073121,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189056,04/24/2000,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189056,05/02/2000,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189056,05/19/2000,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189056,05/30/2000,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189056,06/09/2000,7,NO,2.1,,,49,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8189056,06/25/2000,5.25,NO,1.6,,,53,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8189056,07/11/2000,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189056,07/27/2000,3.5,NO,1.1,,,59,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189056,08/12/2000,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189056,09/11/2000,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189851,05/18/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189851,06/08/2001,4.9,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189851,07/08/2001,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189851,08/17/2001,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189851,10/12/2001,5.6,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189851,05/07/2002,4.75,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189851,07/03/2002,2,NO,0.6,,,67,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189851,10/01/2002,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189851,05/26/2003,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,
+8189851,06/04/2003,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,
+8189851,07/03/2003,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,
+8189851,10/12/2003,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,
+88458961,06/08/2014,, ,,,,,,,,,,,
+88458961,06/27/2014,2,NO,0.6,24.3,145,67,67,59,,,,,
+88458961,07/31/2014,3,YES,0.9,75.4,65.5,61,61,67,LOW,15,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,08/31/2014,2.3,NO,0.7,,,65,,,NORMAL,15,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,09/01/2014,,,,10.6,88.1,,63,53,,,,,
+88458961,06/14/2015,4.5,NO,1.4,27.2,46.6,55,58,60,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,07/19/2015,2.5,NO,0.8,44,91.9,64,63,63,NORMAL,17,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,08/30/2015,3,NO,0.9,53.6,70.9,61,61,65,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,05/22/2016,6.1,NO,1.9,,32.9,51,55,,NORMAL,15,CLEAR,BLUE,2-Very minor aesthetic problems
+88458961,06/22/2016,3.3,NO,1,51.1,64.9,60,60,65,NORMAL,15,,,4-Would not swim but boating OK (algae)
+88458961,07/24/2016,3.4,NO,1,56.1,87.4,59,63,65,HIGH,6,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+88458961,08/27/2016,2.8,NO,0.9,68.5,93.7,62,63,67,NORMAL,6,,GREEN,4-Would not swim but boating OK (algae)
+88458961,06/30/2017,3.2,NO,1,46.9,68.9,60,61,64,NORMAL,15,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+88458961,07/30/2017,5.4,NO,1.6,17.7,60.7,53,60,57,NORMAL,15,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,08/31/2017,3.6,NO,1.1,31.8,58.1,59,60,61,LOW,6,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88458961,06/18/2018,3.2,NO,1,34.2,83.7,60,62,62,HIGH,6,MURKY,GREEN,2-Very minor aesthetic problems
+88458961,07/21/2018,3.5,NO,1.1,35.3,77.3,59,62,62,NORMAL,6,MURKY,BROWN,2-Very minor aesthetic problems
+8188959,08/15/2018,3.5,,1.1,,,59,,,,,,,
+88458961,08/25/2018,3.5,NO,1.1,31.5,68.4,59,61,61,NORMAL,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/21/2018,,,,26.5,65.9,,61,60,,,,,
+1,10/14/2018,,,,15.4,45.7,,58,55,,,,,
+1,04/29/2019,,,,,61.5,,60,,,,,,
+88458961,06/15/2019,3.5,NO,1.1,40,61.1,59,60,63,HIGH,6,MURKY,GREEN,4-Would not swim but boating OK (algae)
+88458961,07/20/2019,3.8,NO,1.2,,,58,,,HIGH,6,,GREEN,5-Enjoyment substantially impaired (algae)
+88458961,07/21/2019,,,,24.4,75.3,,62,59,,,,,
+88458961,08/25/2019,3.6,NO,1.1,48.9,125,59,66,64,NORMAL,6,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,10/08/2019,,,,12.3,52.3,,59,54,,,,,
+8188959,09/27/2020,4,NO,1.2,27.3,53.8,57,59,60,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000026,10/29/2020,,,,14.3,37.7,,56,55,,,,,
+8188959,10/29/2020,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/08/2014,3,FEET,69.6,DEGREES F,,
+06/08/2014,6,FEET,67.4,DEGREES F,,
+06/08/2014,9,FEET,65.1,DEGREES F,,
+06/08/2014,12,FEET,56.4,DEGREES F,,
+06/08/2014,15,FEET,52.8,DEGREES F,,
+06/08/2014,17,FEET,52.1,DEGREES F,,
+06/27/2014,3,FEET,73,DEGREES F,,
+06/27/2014,6,FEET,70,DEGREES F,,
+06/27/2014,9,FEET,66.7,DEGREES F,,
+06/27/2014,12,FEET,60.8,DEGREES F,,
+06/27/2014,15,FEET,56.4,DEGREES F,,
+06/27/2014,17,FEET,55.2,DEGREES F,,
+07/31/2014,3,FEET,75.5,DEGREES F,,
+07/31/2014,6,FEET,75,DEGREES F,,
+07/31/2014,9,FEET,72.6,DEGREES F,,
+07/31/2014,12,FEET,66.9,DEGREES F,,
+07/31/2014,15,FEET,61.1,DEGREES F,,
+08/31/2014,3,FEET,73.2,DEGREES F,,
+08/31/2014,6,FEET,72.6,DEGREES F,,
+08/31/2014,9,FEET,72.1,DEGREES F,,
+08/31/2014,12,FEET,69.2,DEGREES F,,
+08/31/2014,15,FEET,64.2,DEGREES F,,
+06/14/2015,3,FEET,72.6,DEGREES F,,
+06/14/2015,6,FEET,71.7,DEGREES F,,
+06/14/2015,9,FEET,68.5,DEGREES F,,
+06/14/2015,12,FEET,64.2,DEGREES F,,
+06/14/2015,15,FEET,61.1,DEGREES F,,
+07/19/2015,3,FEET,82,DEGREES F,,
+07/19/2015,6,FEET,78.8,DEGREES F,,
+07/19/2015,9,FEET,76.2,DEGREES F,,
+07/19/2015,12,FEET,72.5,DEGREES F,,
+07/19/2015,15,FEET,64,DEGREES F,,
+07/19/2015,18,FEET,63.3,DEGREES F,,
+08/30/2015,3,FEET,69.8,DEGREES F,,
+08/30/2015,6,FEET,69.2,DEGREES F,,
+08/30/2015,9,FEET,68,DEGREES F,,
+08/30/2015,12,FEET,66.2,DEGREES F,,
+08/30/2015,15,FEET,63.1,DEGREES F,,
+08/30/2015,18,FEET,62.6,DEGREES F,,
+06/22/2016,3,FEET,77.3,DEGREES F,,
+06/22/2016,6,FEET,75.5,DEGREES F,,
+06/22/2016,9,FEET,71.4,DEGREES F,,
+06/22/2016,12,FEET,63.6,DEGREES F,,
+06/22/2016,15,FEET,60.2,DEGREES F,,
+07/24/2016,3,FEET,78.6,DEGREES F,,
+07/24/2016,6,FEET,78.2,DEGREES F,,
+07/24/2016,9,FEET,76.1,DEGREES F,,
+07/24/2016,12,FEET,70.5,DEGREES F,,
+07/24/2016,15,FEET,69,DEGREES F,,
+07/24/2016,17,FEET,67.6,DEGREES F,,
+08/27/2016,3,FEET,74.1,DEGREES F,,
+08/27/2016,6,FEET,73.2,DEGREES F,,
+08/27/2016,9,FEET,72.8,DEGREES F,,
+08/27/2016,12,FEET,72.3,DEGREES F,,
+08/27/2016,15,FEET,70.3,DEGREES F,,
+06/30/2017,3,FEET,70.5,DEGREES F,,
+06/30/2017,6,FEET,68.7,DEGREES F,,
+06/30/2017,9,FEET,67.2,DEGREES F,,
+06/30/2017,12,FEET,65.1,DEGREES F,,
+06/30/2017,15,FEET,56.6,DEGREES F,,
+07/30/2017,3,FEET,79.8,DEGREES F,,
+07/30/2017,6,FEET,78,DEGREES F,,
+07/30/2017,9,FEET,73.7,DEGREES F,,
+07/30/2017,12,FEET,66.5,DEGREES F,,
+07/30/2017,15,FEET,62.9,DEGREES F,,
+08/31/2017,3,FEET,72.3,DEGREES F,,
+08/31/2017,6,FEET,69,DEGREES F,,
+08/31/2017,9,FEET,67.8,DEGREES F,,
+08/31/2017,12,FEET,66.2,DEGREES F,,
+08/31/2017,15,FEET,65.4,DEGREES F,,
+08/31/2017,16,FEET,64.9,DEGREES F,,
+06/18/2018,3,FEET,74.4,DEGREES F,,
+06/18/2018,6,FEET,73.4,DEGREES F,,
+06/18/2018,9,FEET,69.8,DEGREES F,,
+06/18/2018,12,FEET,62.2,DEGREES F,,
+06/18/2018,15,FEET,55.7,DEGREES F,,
+07/21/2018,3,FEET,75,DEGREES F,,
+07/21/2018,6,FEET,74.6,DEGREES F,,
+07/21/2018,9,FEET,74.4,DEGREES F,,
+07/21/2018,12,FEET,69.8,DEGREES F,,
+07/21/2018,15,FEET,60.8,DEGREES F,,
+08/25/2018,3,FEET,72.6,DEGREES F,,
+08/25/2018,6,FEET,71.9,DEGREES F,,
+08/25/2018,9,FEET,71.2,DEGREES F,,
+08/25/2018,12,FEET,68,DEGREES F,,
+08/25/2018,15,FEET,64.4,DEGREES F,,
+06/15/2019,3,FEET,67.8,DEGREES F,,
+06/15/2019,6,FEET,67.4,DEGREES F,,
+06/15/2019,9,FEET,64,DEGREES F,,
+06/15/2019,12,FEET,57.7,DEGREES F,,
+06/15/2019,15,FEET,53.9,DEGREES F,,
+07/20/2019,3,FEET,75.3,DEGREES F,,
+07/20/2019,6,FEET,75.2,DEGREES F,,
+07/20/2019,9,FEET,73.2,DEGREES F,,
+07/20/2019,12,FEET,64.4,DEGREES F,,
+07/20/2019,15,FEET,59,DEGREES F,,
+08/25/2019,3,FEET,71.4,DEGREES F,,
+08/25/2019,6,FEET,71.2,DEGREES F,,
+08/25/2019,9,FEET,70.5,DEGREES F,,
+08/25/2019,12,FEET,69,DEGREES F,,
+08/25/2019,15,FEET,66,DEGREES F,,
+08/25/2019,18,FEET,65.4,DEGREES F,,
+09/27/2020,0,FEET,63.2,DEGREES F,10.04,MG/L
+09/27/2020,1,FEET,63.5,DEGREES F,9.97,MG/L
+09/27/2020,2,FEET,63.5,DEGREES F,9.9,MG/L
+09/27/2020,3,FEET,63.3,DEGREES F,9.59,MG/L
+09/27/2020,4,FEET,61,DEGREES F,.93,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/02/2000,Clear- 70 degrees- and light wind.    
+05/19/2000,Clear- frost last night- and no wind.    
+05/30/2000,Saw wood duck- eagle- and a beaver.  Nice day with no wind.    
+07/11/2000,1 1/2" rain on July 8th.  No wind.    
+07/27/2000,Partly sunny- 1 3/4" of rain on July 25th.    
+09/11/2000,Fog in the early am- sunny and light wind.    
+05/18/2001,Light southeast wind- clear- and the temperature is 65 degrees.    
+06/08/2001,Calm water- sunny- and the temperature is 75 degrees.    
+08/17/2001,Sunny and the temperature is 78 degrees.    
+10/12/2001,Cool- calm water- the temperature is 59 degrees- and haze with sun.    
+05/07/2002,Clean.  69 degrees F.  West wind lite.  No wildlife visible.    
+07/03/2002,Lake is bad - 80 degrees F- hot.  Algae very high. Other scum on water.  Heavy on shorelines.    
+10/01/2002,66 degrees F.  Clear skies.  No wind.  1 heron sighted.  Worst lake conditions I have seen since 1994.    
+05/26/2003,overcast day 55 degrees light waves water very high    
+06/04/2003,75 degrees calm day Partly cloudy lake looks pretty good today    
+07/03/2003,days have been hot much scum on water calm day    
+10/12/2003,Clear day- 67 F. No wind. Overall condition of Little Trade Lake this year is not getting any better.  Weed and scum everywhere.  Very heavy with float weeds.    
+
+
+
+
+Start Date,Group Name,Project Name
+04/24/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/02/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/19/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/30/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/09/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/25/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/11/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/27/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/12/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+09/11/2000,Melvin Cordes,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/18/2001,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/08/2001,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/08/2001,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/17/2001,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+10/12/2001,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/07/2002,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/03/2002,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+10/01/2002,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/26/2003,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/04/2003,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/03/2003,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+10/12/2003,Dick Jinks,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/08/2014,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/27/2014,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/31/2014,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/31/2014,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+09/01/2014,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/14/2015,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/19/2015,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/30/2015,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+05/22/2016,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/22/2016,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/24/2016,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/27/2016,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/30/2017,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/30/2017,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/31/2017,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+06/18/2018,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/21/2018,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/15/2018,Dave Blumer,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/25/2018,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+09/21/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+10/14/2018,Data Collectors,ROUND TRADE LAKE IMPROVEMENT ASSOCIATION: 2018-2019 AIS Management on Big and Little Trade Lakes
+04/29/2019,Data Collectors,ROUND TRADE LAKE IMPROVEMENT ASSOCIATION: 2018-2019 AIS Management on Big and Little Trade Lakes
+06/15/2019,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/20/2019,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+07/21/2019,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+08/25/2019,Randall Neumann,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+10/08/2019,Data Collectors,ROUND TRADE LAKE IMPROVEMENT ASSOCIATION: 2018-2019 AIS Management on Big and Little Trade Lakes
+09/27/2020,Dave Blumer,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+09/27/2020,Dave Blumer,ROUND TRADE LAKE IMPROVEMENT ASSOCIATION: 2018-2019 AIS Management on Big and Little Trade Lakes
+10/29/2020,DAVID BLUMER,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole
+10/29/2020,DAVID BLUMER,ROUND TRADE LAKE IMPROVEMENT ASSOCIATION: 2018-2019 AIS Management on Big and Little Trade Lakes
+10/29/2020,Dave Blumer,Citizen Lake Monitoring - Water Quality - Little Trade Lake - Deep Hole

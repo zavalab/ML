@@ -1,0 +1,641 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Scattering Rice Lake,Vilas,1600300,NO,64,,643102,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/10/1979,,,,10.08,,,,52,,,,,
+8190242,06/22/1994,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190242,07/03/1994,5,NO,1.5,,,54,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190242,07/17/1994,4.5,NO,1.4,,,55,,,NORMAL(UP ~2"),,,BROWN,2-Very minor aesthetic problems
+8190242,08/06/1994,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,08/31/1994,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,09/11/1994,3.5,NO,1.1,,,59,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190242,10/10/1994,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190242,05/05/1995,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190242,05/30/1995,5.75,NO,1.7,,,52,,,2" HIGHER,,,BROWN,2-Very minor aesthetic problems
+8190242,07/13/1995,4.75,NO,1.4,,,55,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,07/29/1995,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,08/28/1995,4,NO,1.2,,,57,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,10/16/1995,4,NO,1.2,,,57,,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,05/29/1996,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8190242,06/14/1996,6,NO,1.8,,,51,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190242,08/28/1996,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,06/08/1997,6,NO,1.8,,,51,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190242,06/26/1997,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190242,08/11/1997,4,NO,1.2,,,57,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190242,09/12/1997,4.5,NO,1.4,,,55,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190242,05/19/1998,5.5,NO,1.7,,,53,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190242,06/13/1998,5,NO,1.5,,,54,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190242,08/02/1998,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190242,09/16/1998,5,NO,1.5,,,54,,,NO CHANGE,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190242,04/22/2000,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190242,05/19/2000,6,YES,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190242,06/19/2000,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+8190242,08/24/2000,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190242,09/21/2000,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190242,10/17/2000,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190242,05/04/2001,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190242,05/29/2001,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8190242,06/29/2001,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190242,07/05/2001,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190242,08/07/2001,6,YES,1.8,,,51,,,,,,,
+8190242,08/24/2001,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,05/06/2002,5,YES,1.5,,,54,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,07/23/2002,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,08/20/2002,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,08/24/2002,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,08/27/2002,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,09/01/2002,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188852,09/18/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,09/25/2002,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,10/03/2002,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,10/10/2002,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,10/15/2002,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,10/28/2002,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,05/01/2003,5.5,YES,1.7,,,53,,,HIGH,,MURKY,,
+8188852,05/14/2003,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,05/29/2003,5.25,NO,1.6,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8190242,06/16/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,06/24/2003,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,07/01/2003,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190242,07/08/2003,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188852,07/10/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188852,08/18/2003,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190242,08/19/2003,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188852,09/12/2003,5,NO,1.5,,,54,,,NORMAL,27,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8190242,10/16/2003,5,YES,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188852,10/27/2003,5.5,NO,1.7,,,53,,,NORMAL,27,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,05/05/2004,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188852,05/19/2004,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,06/25/2004,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,07/21/2004,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,08/20/2004,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,09/21/2004,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,11/01/2004,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,04/25/2005,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,05/15/2005,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,,2-Very minor aesthetic problems
+8188852,06/20/2005,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,07/04/2005,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,07/11/2005,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,07/15/2005,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188852,09/05/2005,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,09/26/2005,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,04/20/2006,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,05/17/2006,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,07/07/2006,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,07/14/2006,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188852,09/03/2006,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+20738106,10/06/2007,4,YES,1.2,,,57,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36936942,08/14/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36936942,08/19/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36936942,08/23/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36936942,08/26/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+36936942,09/02/2010,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,05/28/2014,,,,,,,,,,,,,
+72779688,05/28/2014,4.3,N,1.3,6.93,34.1,56,55,49,,,,,
+64323418,06/04/2014,4,NO,1.2,,,57,,,,18,,BROWN,1-Beautiful, could not be nicer
+16073539,06/24/2014,3.3,N,1,29.5,34.6,60,56,60,,,,,
+34972236,07/23/2014,3.6,N,1.1,23.5,49.7,59,58,59,,,,,
+64323418,07/31/2014,4.25, ,1.3,,,56,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+64323418,08/14/2014,4, ,1.2,,,57,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+16073539,08/27/2014,4.1,N,1.2,24.5,44.6,57,58,59,,,,,
+64323418,09/01/2014,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188852,09/05/2014,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+64323418,09/30/2014,17,NO,5.2,,,36,,,NORMAL,3 1/2 ,,BROWN,2-Very minor aesthetic problems
+64323418,10/07/2014,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+41886196,10/23/2014,4,NO,1.2,2.36,46.3,57,58,41,,,,,
+34972236,02/18/2015,5.8,N,1.8,,25.1,52,53,,,,,,
+64323418,06/10/2015,3.5, ,1.1,,,59,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/23/2015,,,,18.3,43.8,,57,57,,,,,
+64323418,07/21/2015,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+64323418,07/30/2015,,,,37.3,45.6,,58,62,,,,,
+64323418,08/18/2015,2.75, ,0.8,41,46,63,58,63,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,05/03/2016,3.4,NO,1,12.4,46,59,58,54,,,,,
+64323418,06/08/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+64323418,06/14/2016,4,NO,1.2,,,57,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/23/2016,4,N,1.2,7.02,49.3,57,58,50,,,,,
+64323418,06/24/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+64323418,07/02/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+64323418,07/09/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+64323418,07/17/2016,5,NO,1.5,,,54,,,HIGH,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+1,07/21/2016,4,N,1.2,21.4,48,57,58,58,,,,,
+64323418,07/24/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+64323418,08/03/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+64323418,08/12/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+64323418,08/19/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/24/2016,2.9,N,0.9,16.9,44.4,62,58,56,,,,,
+64323418,08/28/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+64323418,09/02/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+64323418,09/11/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+64323418,09/18/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+64323418,10/04/2016,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+64323418,10/23/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,10/27/2016,3.4,N,1,2.04,43.3,59,57,40,,,,,
+1,02/20/2017,7.8,N,2.4,,23.1,48,52,,,,,,
+1,07/03/2020,,,,13.1,28.5,,54,54,,,,,
+145979919,07/03/2020,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,07/28/2020,,,,25.8,56.2,,59,59,,,,,
+145979919,07/28/2020,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,08/30/2020,,,,8.75,47.7,,58,51,,,,,
+145979919,08/30/2020,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/10/1979,,,24.5,C,,
+07/01/2003,0,FEET,22,C,8,MG/L
+08/18/2003,0,FEET,72,DEGREES F,8,MG/L
+09/12/2003,0,FEET,54,DEGREES F,8,MG/L
+10/27/2003,0,FEET,45,DEGREES F,8,MG/L
+05/05/2004,0,FEET,51.3,DEGREES F,,
+05/19/2004,0,FEET,61,DEGREES F,8,MG/L
+05/19/2004,1,FEET,61,DEGREES F,8,MG/L
+06/25/2004,0,FEET,68,DEGREES F,8,MG/L
+07/21/2004,1,FEET,77,DEGREES F,4,MG/L
+04/25/2005,1,FEET,47.5,DEGREES F,,
+06/20/2005,1,FEET,74,DEGREES F,,
+07/04/2005,1,FEET,24,DEGREES C,7,MG/L
+07/11/2005,1,FEET,76,DEGREES F,,
+07/15/2005,1,FEET,78,DEGREES F,,
+09/05/2005,0.5,FEET,24,DEGREES C,4,MG/L
+04/20/2006,2,FEET,53,DEGREES F,,
+07/07/2006,1,FEET,26,DEGREES C,4,MG/L
+09/03/2006,1,FEET,71,DEGREES F,,
+05/28/2014,,,12.0,C,7.7,MG/L
+06/24/2014,,,16.5,C,11.4,MG/L
+07/23/2014,,,17.6,C,0.2,MG/L
+08/27/2014,,,21.4,C,9.9,MG/L
+09/05/2014,1,FEET,67,DEGREES F,,
+10/23/2014,,,7.6,C,8.9,MG/L
+02/18/2015,,,0.5,C,0.2,MG/L
+05/03/2016,,,10.7,C,10..2,MG/L
+06/23/2016,,,16.3,C,0.2,MG/L
+07/02/2016,1,FEET,23,DEGREES C,8.28,MG/L
+07/02/2016,2,FEET,22.3,DEGREES C,8.49,MG/L
+07/02/2016,3,FEET,21.1,DEGREES C,8.74,MG/L
+07/02/2016,4,FEET,22,DEGREES C,8.78,MG/L
+07/02/2016,5,FEET,22,DEGREES C,8.87,MG/L
+07/02/2016,6,FEET,21.4,DEGREES C,8.57,MG/L
+07/02/2016,7,FEET,21,DEGREES C,8.27,MG/L
+07/02/2016,8,FEET,20.9,DEGREES C,8.29,MG/L
+07/02/2016,9,FEET,20.7,DEGREES C,8.22,MG/L
+07/02/2016,10,FEET,20.2,DEGREES C,5.71,MG/L
+07/02/2016,11,FEET,19.8,DEGREES C,4.33,MG/L
+07/02/2016,12,FEET,19.6,DEGREES C,4.99,MG/L
+07/02/2016,13,FEET,19.5,DEGREES C,5.39,MG/L
+07/02/2016,14,FEET,19,DEGREES C,3.37,MG/L
+07/02/2016,15,FEET,15.6,DEGREES C,.13,MG/L
+07/09/2016,1,FEET,23.4,DEGREES C,8.59,MG/L
+07/09/2016,2,FEET,23.4,DEGREES C,8.6,MG/L
+07/09/2016,3,FEET,23.3,DEGREES C,8.58,MG/L
+07/09/2016,4,FEET,23.3,DEGREES C,8.57,MG/L
+07/09/2016,5,FEET,23.1,DEGREES C,8.37,MG/L
+07/09/2016,6,FEET,22.8,DEGREES C,7.94,MG/L
+07/09/2016,7,FEET,22.7,DEGREES C,7.78,MG/L
+07/09/2016,8,FEET,22.2,DEGREES C,7.06,MG/L
+07/09/2016,9,FEET,21.2,DEGREES C,4.93,MG/L
+07/09/2016,10,FEET,20.7,DEGREES C,4.21,MG/L
+07/09/2016,11,FEET,19.9,DEGREES C,2.66,MG/L
+07/09/2016,12,FEET,19.2,DEGREES C,.13,MG/L
+07/09/2016,13,FEET,18.7,DEGREES C,.09,MG/L
+07/09/2016,14,FEET,17.6,DEGREES C,.06,MG/L
+07/09/2016,15,FEET,16.6,DEGREES C,.05,MG/L
+07/17/2016,1,FEET,23.3,DEGREES C,8.89,MG/L
+07/17/2016,2,FEET,22.2,DEGREES C,8.94,MG/L
+07/17/2016,3,FEET,22.2,DEGREES C,8.96,MG/L
+07/17/2016,4,FEET,22.1,DEGREES C,8.96,MG/L
+07/17/2016,5,FEET,21.9,DEGREES C,9.02,MG/L
+07/17/2016,6,FEET,21.9,DEGREES C,9.03,MG/L
+07/17/2016,7,FEET,21.9,DEGREES C,9.01,MG/L
+07/17/2016,8,FEET,21.7,DEGREES C,8.77,MG/L
+07/17/2016,9,FEET,21.5,DEGREES C,8.28,MG/L
+07/17/2016,10,FEET,21.3,DEGREES C,7.77,MG/L
+07/17/2016,11,FEET,20.8,DEGREES C,6.52,MG/L
+07/17/2016,12,FEET,20.5,DEGREES C,6.06,MG/L
+07/17/2016,13,FEET,20.3,DEGREES C,5.68,MG/L
+07/17/2016,14,FEET,19.5,DEGREES C,3.78,MG/L
+07/17/2016,15,FEET,18.6,DEGREES C,.17,MG/L
+07/21/2016,,,20.7,C,1.0,MG/L
+07/24/2016,1,FEET,26.4,DEGREES C,9.33,MG/L
+07/24/2016,2,FEET,26.4,DEGREES C,9.39,MG/L
+07/24/2016,3,FEET,26.3,DEGREES C,9.47,MG/L
+07/24/2016,4,FEET,26.3,DEGREES C,9.5,MG/L
+07/24/2016,5,FEET,26.3,DEGREES C,9.45,MG/L
+07/24/2016,6,FEET,26.2,DEGREES C,9.29,MG/L
+07/24/2016,7,FEET,25.9,DEGREES C,8.91,MG/L
+07/24/2016,8,FEET,25.8,DEGREES C,8.84,MG/L
+07/24/2016,9,FEET,25,DEGREES C,6.65,MG/L
+07/24/2016,10,FEET,23.4,DEGREES C,3.62,MG/L
+07/24/2016,11,FEET,22.6,DEGREES C,3.3,MG/L
+07/24/2016,12,FEET,21.5,DEGREES C,.23,MG/L
+07/24/2016,13,FEET,21,DEGREES C,.14,MG/L
+07/24/2016,14,FEET,20.1,DEGREES C,.09,MG/L
+07/24/2016,15,FEET,18.9,DEGREES C,.07,MG/L
+08/03/2016,1,FEET,27,DEGREES C,10.98,MG/L
+08/03/2016,2,FEET,26.9,DEGREES C,11.12,MG/L
+08/03/2016,3,FEET,26.6,DEGREES C,11.15,MG/L
+08/03/2016,4,FEET,25.9,DEGREES C,10.84,MG/L
+08/03/2016,5,FEET,25.2,DEGREES C,10.59,MG/L
+08/03/2016,6,FEET,24.1,DEGREES C,8.48,MG/L
+08/03/2016,7,FEET,23.2,DEGREES C,6.18,MG/L
+08/03/2016,8,FEET,23,DEGREES C,5.75,MG/L
+08/03/2016,9,FEET,22.4,DEGREES C,4.23,MG/L
+08/03/2016,10,FEET,21.9,DEGREES C,3.15,MG/L
+08/03/2016,11,FEET,21.4,DEGREES C,.62,MG/L
+08/03/2016,12,FEET,21.2,DEGREES C,.37,MG/L
+08/03/2016,13,FEET,20.09,DEGREES C,.1,MG/L
+08/03/2016,14,FEET,20.6,DEGREES C,.08,MG/L
+08/03/2016,15,FEET,19.5,DEGREES C,.07,MG/L
+08/12/2016,1,FEET,23.8,DEGREES C,8.22,MG/L
+08/12/2016,2,FEET,23.9,DEGREES C,8.14,MG/L
+08/12/2016,3,FEET,23.9,DEGREES C,8.07,MG/L
+08/12/2016,4,FEET,23.9,DEGREES C,7.87,MG/L
+08/12/2016,5,FEET,23.9,DEGREES C,7.95,MG/L
+08/12/2016,6,FEET,23.8,DEGREES C,7.52,MG/L
+08/12/2016,7,FEET,23.8,DEGREES C,7.63,MG/L
+08/12/2016,8,FEET,23.7,DEGREES C,7.21,MG/L
+08/12/2016,9,FEET,22.8,DEGREES C,2.77,MG/L
+08/12/2016,10,FEET,21.9,DEGREES C,.13,MG/L
+08/12/2016,11,FEET,21.6,DEGREES C,.09,MG/L
+08/12/2016,12,FEET,21.1,DEGREES C,.17,MG/L
+08/12/2016,13,FEET,20.7,DEGREES C,.1,MG/L
+08/12/2016,14,FEET,20.4,DEGREES C,.06,MG/L
+08/12/2016,15,FEET,20.2,DEGREES C,.06,MG/L
+08/24/2016,,,18.1,C,0.1,MG/L
+08/28/2016,1,FEET,23.6,DEGREES C,9.09,MG/L
+08/28/2016,2,FEET,22.1,DEGREES C,8.99,MG/L
+08/28/2016,3,FEET,21.2,DEGREES C,8.69,MG/L
+08/28/2016,4,FEET,20.9,DEGREES C,8.37,MG/L
+08/28/2016,5,FEET,20.7,DEGREES C,8.07,MG/L
+08/28/2016,6,FEET,20.6,DEGREES C,7.58,MG/L
+08/28/2016,7,FEET,20.4,DEGREES C,6.91,MG/L
+08/28/2016,8,FEET,20.1,DEGREES C,5.28,MG/L
+08/28/2016,9,FEET,19.8,DEGREES C,4.59,MG/L
+08/28/2016,10,FEET,19.5,DEGREES C,4.71,MG/L
+08/28/2016,11,FEET,19.1,DEGREES C,4.5,MG/L
+08/28/2016,12,FEET,18.9,DEGREES C,4.55,MG/L
+08/28/2016,13,FEET,18.7,DEGREES C,3.94,MG/L
+08/28/2016,14,FEET,18,DEGREES C,1.04,MG/L
+08/28/2016,15,FEET,17.8,DEGREES C,.12,MG/L
+09/11/2016,1,FEET,19.5,DEGREES C,7.43,MG/L
+09/11/2016,2,FEET,19.1,DEGREES C,7.41,MG/L
+09/11/2016,3,FEET,19,DEGREES C,7.4,MG/L
+09/11/2016,4,FEET,18.8,DEGREES C,7.34,MG/L
+09/11/2016,5,FEET,18.8,DEGREES C,7.37,MG/L
+09/11/2016,6,FEET,18.8,DEGREES C,7.37,MG/L
+09/11/2016,7,FEET,18.6,DEGREES C,7.14,MG/L
+09/11/2016,8,FEET,18.6,DEGREES C,6.95,MG/L
+09/11/2016,9,FEET,18.5,DEGREES C,6.28,MG/L
+09/11/2016,10,FEET,17.8,DEGREES C,2.42,MG/L
+09/11/2016,11,FEET,17.7,DEGREES C,2.39,MG/L
+09/11/2016,12,FEET,13.3,DEGREES C,.19,MG/L
+09/11/2016,13,FEET,16.9,DEGREES C,4.57,MG/L
+09/11/2016,14,FEET,16.9,DEGREES C,4.62,MG/L
+09/11/2016,15,FEET,16.9,DEGREES C,3.32,MG/L
+09/18/2016,1,FEET,19.8,DEGREES C,8.6,MG/L
+09/18/2016,2,FEET,18.9,DEGREES C,8.47,MG/L
+09/18/2016,3,FEET,18.5,DEGREES C,8.18,MG/L
+09/18/2016,4,FEET,18.4,DEGREES C,8.03,MG/L
+09/18/2016,5,FEET,18.3,DEGREES C,8.04,MG/L
+09/18/2016,6,FEET,18.2,DEGREES C,7.8,MG/L
+09/18/2016,7,FEET,18.1,DEGREES C,6.99,MG/L
+09/18/2016,8,FEET,18,DEGREES C,6.31,MG/L
+09/18/2016,9,FEET,17.9,DEGREES C,6.37,MG/L
+09/18/2016,10,FEET,17.5,DEGREES C,5.37,MG/L
+09/18/2016,11,FEET,17.3,DEGREES C,5.24,MG/L
+09/18/2016,12,FEET,17.1,DEGREES C,5.07,MG/L
+09/18/2016,13,FEET,16.8,DEGREES C,5.07,MG/L
+09/18/2016,14,FEET,16.7,DEGREES C,5.01,MG/L
+09/18/2016,15,FEET,16.3,DEGREES C,3.44,MG/L
+10/04/2016,1,FEET,15.1,DEGREES C,9.1,MG/L
+10/04/2016,2,FEET,15.1,DEGREES C,9.14,MG/L
+10/04/2016,3,FEET,15.1,DEGREES C,9.14,MG/L
+10/04/2016,4,FEET,15.1,DEGREES C,9.14,MG/L
+10/04/2016,5,FEET,15.1,DEGREES C,9.13,MG/L
+10/04/2016,6,FEET,15,DEGREES C,9.14,MG/L
+10/04/2016,7,FEET,15.1,DEGREES C,9.13,MG/L
+10/04/2016,8,FEET,14.8,DEGREES C,8.67,MG/L
+10/04/2016,9,FEET,14.6,DEGREES C,8.12,MG/L
+10/04/2016,10,FEET,14.4,DEGREES C,7.9,MG/L
+10/04/2016,11,FEET,14.2,DEGREES C,7.7,MG/L
+10/04/2016,12,FEET,14.1,DEGREES C,7.47,MG/L
+10/04/2016,13,FEET,13.9,DEGREES C,7.27,MG/L
+10/04/2016,14,FEET,13.8,DEGREES C,5.27,MG/L
+10/04/2016,15,FEET,13.7,DEGREES C,4.64,MG/L
+10/23/2016,1,FEET,11.3,DEGREES C,8.32,MG/L
+10/23/2016,2,FEET,10.8,DEGREES C,8.36,MG/L
+10/23/2016,3,FEET,10.6,DEGREES C,8.39,MG/L
+10/23/2016,4,FEET,10.5,DEGREES C,8.41,MG/L
+10/23/2016,5,FEET,10.3,DEGREES C,8.43,MG/L
+10/23/2016,6,FEET,10.2,DEGREES C,8.43,MG/L
+10/23/2016,7,FEET,10.1,DEGREES C,8.43,MG/L
+10/23/2016,8,FEET,10,DEGREES C,8.42,MG/L
+10/23/2016,9,FEET,10,DEGREES C,8.41,MG/L
+10/23/2016,10,FEET,9.8,DEGREES C,8.2,MG/L
+10/23/2016,11,FEET,9.6,DEGREES C,7.84,MG/L
+10/23/2016,12,FEET,9.4,DEGREES C,7.26,MG/L
+10/23/2016,13,FEET,9.1,DEGREES C,6.83,MG/L
+10/23/2016,14,FEET,9,DEGREES C,6.69,MG/L
+10/23/2016,15,FEET,8.6,DEGREES C,5.4,MG/L
+10/27/2016,,,7.5,C,10.0,MG/L
+02/20/2017,,,1.9,C,0.7,MG/L
+07/03/2020,1,FEET,80.6,DEGREES F,,
+07/03/2020,2,FEET,79.5,DEGREES F,,
+07/03/2020,3,FEET,78.9,DEGREES F,,
+07/03/2020,4,FEET,78.4,DEGREES F,,
+07/03/2020,5,FEET,77.9,DEGREES F,,
+07/03/2020,6,FEET,76.2,DEGREES F,,
+07/03/2020,7,FEET,74.4,DEGREES F,,
+07/03/2020,8,FEET,73.2,DEGREES F,,
+07/03/2020,9,FEET,70.7,DEGREES F,,
+07/03/2020,10,FEET,67.1,DEGREES F,,
+07/03/2020,11,FEET,64.8,DEGREES F,,
+07/03/2020,12,FEET,62.2,DEGREES F,,
+07/03/2020,13,FEET,60.5,DEGREES F,,
+07/28/2020,1,FEET,73.4,DEGREES F,,
+07/28/2020,2,FEET,73.1,DEGREES F,,
+07/28/2020,3,FEET,73.2,DEGREES F,,
+07/28/2020,4,FEET,73.2,DEGREES F,,
+07/28/2020,5,FEET,72.8,DEGREES F,,
+07/28/2020,6,FEET,72.8,DEGREES F,,
+07/28/2020,7,FEET,72.6,DEGREES F,,
+07/28/2020,8,FEET,72.5,DEGREES F,,
+07/28/2020,9,FEET,69.4,DEGREES F,,
+07/28/2020,10,FEET,67.8,DEGREES F,,
+07/28/2020,11,FEET,66,DEGREES F,,
+07/28/2020,12,FEET,62.6,DEGREES F,,
+07/28/2020,13,FEET,61.5,DEGREES F,,
+08/30/2020,1,FEET,69.9,DEGREES F,,
+08/30/2020,2,FEET,69.2,DEGREES F,,
+08/30/2020,3,FEET,68,DEGREES F,,
+08/30/2020,4,FEET,67.2,DEGREES F,,
+08/30/2020,5,FEET,66.5,DEGREES F,,
+08/30/2020,6,FEET,66.2,DEGREES F,,
+08/30/2020,7,FEET,66,DEGREES F,,
+08/30/2020,8,FEET,65.8,DEGREES F,,
+08/30/2020,9,FEET,65.3,DEGREES F,,
+08/30/2020,10,FEET,65.1,DEGREES F,,
+08/30/2020,11,FEET,64,DEGREES F,,
+08/30/2020,12,FEET,62.9,DEGREES F,,
+08/30/2020,13,FEET,62,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/10/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/22/1994,Visibility down because of pine pollen.    
+07/03/1994,Rather heavy weed growth at rather heavy weed growth at east end of lake.  Heavier than the average year.    
+07/17/1994,More brown because of recent rains through to swamps.    
+08/06/1994,Water quite brown.    
+08/31/1994,Starting to clear a little.    
+09/11/1994,I think the lake turned over.  Very green with pollen on algae.  Lost 2' of visibility in one week.    
+10/10/1994,Large pollen grains in lake.  Last report.    
+05/05/1995,Much less clear that this time last year.    
+07/13/1995,Hot weather-causing algae blooms late this year.    
+07/29/1995,Getting murky.    
+08/28/1995,Too much rain.    
+10/16/1995,See you next year!    
+05/29/1996,Ice off May 10. water level 6" high because of heavy ice melt. Water very murky from fresh wash of swamp tannic acid + higher levels of water. starting to clear now. (1994-95 winter-no snow-clean water.)    
+06/14/1996,Lots of pine pollen on water.    
+08/28/1996,Getting very murky.    
+06/26/1997,One eagle.  Severe storm night of June 24- 1997.  Scattered clouds- choppy water.    
+08/11/1997,Algae forming- getting quite green.    
+06/19/2000,Lake very dark this year.    
+09/21/2000,Very murky- pine pollen.    
+10/17/2000,Lake has turned over and is getting quite clear.    
+05/04/2001,Dark Brown    
+05/29/2001,dark Brown    
+06/29/2001,Clearer    
+07/05/2001,Clearer    
+08/07/2001,Very nice. Clear to 6' since they (the DNR) took out the upstream dam.    
+08/24/2001,Algae starting to clear out. This lake's clarity improved a great deal this summer since they took out the upstream dam on the Deerskin Flowage. Much less algae growth on dock ladder. Better swimming!    
+05/06/2002,Dark from all the rain. Water 2" higher    
+07/23/2002,Fairly clear    
+08/20/2002,Observed good amount of floating weed fragments due to heavy boat traffic. Saw 2 eagles and 1 loon.    
+08/24/2002,Water dark from a lot of rain    
+08/27/2002,Loon and eagle sighting.    
+09/01/2002,Loon and eagle sighting.    
+09/18/2002,Loon and eagle sighting.  Bloom on water.    
+09/25/2002,Boat traffic down.  Fisherman up.    
+10/03/2002,Fairly clear. No algae this year. Upstream removal of the deerskin dam allows a lot more flow through the lake. Better water quality I think.    
+10/10/2002,Unseasonably cold.    
+10/15/2002,Lake cleared.    
+10/28/2002,Lake cleanest since started testing.    
+05/01/2003,ice out on 4-22-03
+    
+05/14/2003,water temp rising fishing good
+    
+05/29/2003,lots of boat traffic week of memorial day water temp
+near 60
+    
+06/16/2003,Very dark this spring. Starting to clear.    
+06/24/2003,fair amount of pine pollen on water. may fly hatch in
+progress. Many snails in quiet areas along shore
+    
+07/01/2003,extreme amount of pine pollen and dead mayflies on
+water surface. several cluthes of malards sighted.    
+07/08/2003,Green and murky looking    
+07/10/2003,heavy algae bloom/pine pollen on water
+    
+08/18/2003,boat traffic falling off. kids back to school soon.
+secchi reading deepest of year at 6'.    
+08/19/2003,Clearer than usual. The rain helped to flush out the hazy water.    
+09/12/2003,turn over taking place. heavy algea bloom
+    
+10/16/2003,Last reading this fall. Cold and cloudy.    
+10/27/2003,Results averaged for year as
+follows:
+
+secchi-5.5 feet
+disolved oxygen-8 p.p.m.
+nitrate=5 p.p.m.
+ph-8
+turbidity-40 jtu
+phospate- less then 1 p.p.m    
+05/19/2004,disollved oxygen 8ppm. nitrates less then 5ppm. phosphate 1-2 ppm. ph 8 . coliform negative. dto-40jtu    
+06/25/2004,pine pollen in full swing; mayfly hatch starting    
+07/21/2004,coliform test negative.  turbidity 40jtu.  nitrate test less then 5 ppm.  phosphate 1-2 ppm. ph 8. took water sample home to conduct tests. 1st time dissolved oxygen was not 8ppm was 4 ppm instead. Delay in testing probably a factor    
+04/25/2005,Very murky. Very low reading at 4.5'. Water temp the week before were approaching 60 degrees. Pan fishing was great .Walleyes and perch are spawned out. and water temp have dropped 10 to 13 degrees    
+05/15/2005,Lake has cleared somewhat since last reading.  Good walleye catches.    
+06/20/2005,Worst secchi readings sice starting to collect data    
+07/04/2005,Heavy boat traffic on Eagle River chain. Noticed significant fragments of Eurasian milfoil on water surface. Many jet skis and boats driving through milfoil beds. Lower then normal sechi reading 4 '    Due to boat traffic and algae bloom    
+Chemistry Data:
+Dissolved Oxygen: Between 4 And 8 PPM on color scale 73 % oxygen saturation at 24 celcius.Fair to good
+Turbidity: 40jtu good
+Nitrates: less then 5ppm good
+Phosphates: between 1 + 2 ppm good
+PH: 8 good
+Coliform: negative    
+07/11/2005,Worst Secchi readings since started collecting data       
+07/15/2005,Water clarity + Secchi reading improved slightly. Lot of boat traffic. need enforcement on jet ski's with no regard to no wake areas and distance from shorelines.    
+09/05/2005,Additional chemical test results as follows: Turbidity 40 JTU. Phosphate 1 PPM( very good) Nitrates 5 PPM (good to excellent) PH 7-8 (good to excellent.
+
+After heavy boat traffic over holiday weekend a great amount of eurasian millfoil fragments around peir. People need to recognize where beds are and stay out of them    
+09/26/2005,Boat traffic has slowed. Only 3 boats on whole lake this Monday 9/26/05    
+04/20/2006,Ice out early on 4-13-06. Perch spawning in full swing at ice out.
+05/17/2006,2 nest sites for eagles on lake this year
+07/07/2006,Lake association installed 12 no wake bouys atound existing millfoil beds to prevent boat traffic from fragmenting eurasian millfoil and spreading of the same.Cost to assoc . in excess of $1700.00 plus no charge labor.Additional tests conducted: Turbidity:40 JTU- Phospate: 1ppm- Nitrate 5ppm- ph 7.
+07/14/2006,calm and overcast conditions improved secchi readings by 1 foot
+Lake association installed no wake bouys around heavy milfoil beds. milfoi is very heay in certain spots. waiting for a completed lake survey by northern enviromental. will decide action plan after seeing their report
+09/03/2006,milfoil beds on north and east end of lake worst ever. water has good amount of algea. lake in state of turnover
+10/06/2007,70 degrees
+Last night heavy rain
+Boat traffic moderate
+Cranberry fest weedend 70 degrees
+Last night heavy rain
+Boat traffic moderate
+Cranberry fest weedend
+08/14/2010,Air Temp-82F-water temp @ 3ft- 79F- Clear sunny day.
+08/19/2010,Air temp-67F- water temp@ 3ft-75F- Clear sunny day.
+08/23/2010,Air temp=77F- Water temp @ 3ft = 75F- Sunny + breezy
+08/26/2010,Air temp=76F- Water temp= - Sunny little wind.
+09/02/2010,Air temp=70F- Water temp=73F- Partly cloudy.
+06/08/2016,Earlier I entered 2 incorrect depths for this date. The correct reading is 3' Earlier I entered 2 incorrect depths for this date. The correct reading is 3'
+07/03/2020,85 degree air temp- very humid.  Several ski boats and fishing boats. 85 Degree air temp- very humid.  Several ski boats and fishing boats.
+07/28/2020,Windy- clear- a few fishing boats bright sun.
+08/30/2020,sunny- a few puffy clouds.  Several water skiers and other boats.
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1979,Data Collectors,Migrated from STORET Legacy
+06/22/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/03/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/17/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/06/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/31/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/11/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/10/1994,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/05/1995,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/30/1995,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/13/1995,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/29/1995,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/28/1995,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/16/1995,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/29/1996,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/14/1996,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/28/1996,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/08/1997,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/26/1997,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/11/1997,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/12/1997,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/19/1998,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/13/1998,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/02/1998,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/16/1998,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+04/22/2000,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/19/2000,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/19/2000,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/24/2000,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/21/2000,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/17/2000,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/04/2001,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/29/2001,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/29/2001,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/05/2001,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/07/2001,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/24/2001,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/06/2002,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/23/2002,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/20/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/24/2002,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/27/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/01/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/18/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/25/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/03/2002,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/10/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/15/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/28/2002,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/01/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/14/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/29/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/16/2003,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/24/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/01/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/08/2003,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/10/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/18/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/19/2003,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/12/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/16/2003,Linda Helke,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/27/2003,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/05/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/19/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/25/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/21/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/20/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/21/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+11/01/2004,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+04/25/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/15/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/20/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/04/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/11/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/15/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/05/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/26/2005,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+04/20/2006,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/17/2006,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/07/2006,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/14/2006,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/03/2006,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/06/2007,Marsha Newkirk,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/14/2010,Richard Matkin,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/19/2010,Richard Matkin,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/23/2010,Richard Matkin,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/26/2010,Richard Matkin,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/02/2010,Richard Matkin,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+05/28/2014,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+05/28/2014,Emily Castellanos,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+06/04/2014,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/24/2014,Tim Hoyman - Onterra- LLC,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+07/23/2014,Todd Hanke - Onterra- LLC,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+07/31/2014,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/14/2014,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/27/2014,Tim Hoyman - Onterra- LLC,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+09/01/2014,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/05/2014,Vincent Wagner,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/30/2014,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/07/2014,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/23/2014,Todd Hanke and Tim Hoyman - Onterra- LLC,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+02/18/2015,Todd Hanke - Onterra- LLC,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase II
+06/10/2015,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/23/2015,Data Collectors,Northern District Follow Up Monitoring for Impairment Decisions 2015
+07/21/2015,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/30/2015,Dennis Burg,Northern District Follow Up Monitoring for Impairment Decisions 2015
+08/18/2015,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/18/2015,Dennis Burg,Northern District Follow Up Monitoring for Impairment Decisions 2015
+05/03/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+06/08/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/14/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+06/23/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+06/24/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/02/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/09/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/17/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/21/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+07/24/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/03/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/12/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/19/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/24/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+08/28/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/02/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/11/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+09/18/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/04/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/23/2016,Dennis Burg,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+10/27/2016,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+02/20/2017,Data Collectors,EAGLE RIVER CHAIN OF LAKES ASSOC: Eagle River Chain of Lakes Management Planning Project- Phase 3
+07/03/2020,Dan Newitt,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/03/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/28/2020,Dan Newitt,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+07/28/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/30/2020,Dan Newitt,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole
+08/30/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Scattering Rice Lake; Deep Hole

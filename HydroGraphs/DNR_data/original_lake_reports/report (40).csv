@@ -1,0 +1,404 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Loon Lake,Barron,2478600,NO,3,,033178,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190348,06/20/1990,6.25,NO,1.9,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,06/30/1990,7,NO,2.1,,,49,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,07/12/1990,5.25,NO,1.6,,,53,,,NORMAL,,,LT. GREEN,2-Very minor aesthetic problems
+8190348,07/20/1990,5.5,NO,1.7,,,53,,,3" LOW,,,GREEN,2-Very minor aesthetic problems
+8190348,08/02/1990,5.5,NO,1.7,,,53,,,DOWN 3",,,BROWN,1-Beautiful, could not be nicer
+8190348,08/12/1990,5.75,NO,1.7,,,52,,,5" LOW,,,BROWN,2-Very minor aesthetic problems
+8190348,08/21/1990,6.25,NO,1.9,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,08/30/1990,6,NO,1.8,,,51,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,09/10/1990,5.75,NO,1.7,,,52,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,09/21/1990,5.5,NO,1.7,,,53,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,05/22/1991,9,NO,2.7,,,45,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190348,05/30/1991,8,NO,2.4,,,47,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190348,06/10/1991,8.5,NO,2.6,,,46,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,06/20/1991,7,NO,2.1,,,49,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190348,06/30/1991,8,NO,2.4,,,47,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,07/10/1991,8,NO,2.4,,,47,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,07/21/1991,7.5,NO,2.3,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,07/30/1991,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,08/10/1991,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,08/21/1991,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,09/02/1991,6.5,NO,2,,,50,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,09/10/1991,6.5,NO,2,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190348,05/29/1992,8,NO,2.4,,,47,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,06/10/1992,9,NO,2.7,,,45,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,06/21/1992,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190348,07/03/1992,8,NO,2.4,,,47,,,3" UP,,,BROWN,1-Beautiful, could not be nicer
+8190348,07/10/1992,7.5,NO,2.3,,,48,,,4"UP,,,GREEN,2-Very minor aesthetic problems
+8190348,07/23/1992,6.5,NO,2,,,50,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,07/30/1992,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,08/10/1992,5.5,NO,1.7,,,53,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,08/20/1992,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,08/31/1992,5.25,NO,1.6,,,53,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,09/11/1992,5.5,NO,1.7,,,53,,,NORM,,,GREEN,2-Very minor aesthetic problems
+8190348,10/01/1992,9,NO,2.7,,,45,,,DOWN 3",,,BROWN,1-Beautiful, could not be nicer
+8190348,05/21/1993,9.5,NO,2.9,,,45,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,06/02/1993,9.25,NO,2.8,,,45,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,06/10/1993,9.5,NO,2.9,,,45,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,06/23/1993,8.5,NO,2.6,,,46,,,3" HIGH,,,GREEN,2-Very minor aesthetic problems
+8190348,07/02/1993,7.5,NO,2.3,,,48,,,3" HIGH,,,GREEN,2-Very minor aesthetic problems
+8190348,07/11/1993,7,NO,2.1,,,49,,,1" HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190348,07/23/1993,6.5,NO,2,,,50,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190348,08/10/1993,5.5,NO,1.7,,,53,,,2" LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190348,08/20/1993,5.25,NO,1.6,,,53,,,2" LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,10/10/1993,7,NO,2.1,,,49,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190348,06/10/1994,7,NO,2.1,,,49,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8190348,06/24/1994,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8190348,07/10/1994,7.25,NO,2.2,,,49,,,NORMAL,,,BROWN,
+8190348,07/25/1994,7,NO,2.1,,,49,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,08/13/1994,6.5,NO,2,,,50,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,08/25/1994,8,NO,2.4,,,47,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190348,09/10/1994,7.5,NO,2.3,,,48,,,LOW 4",,,GREEN,2-Very minor aesthetic problems
+8190348,06/23/1995,8,NO,2.4,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+21871508,07/28/2007,9.75,NO,3,,,44,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,08/05/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21871508,08/25/2007,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21871508,09/03/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21871508,09/22/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+21871508,10/06/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+21871508,05/25/2008,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/07/2008,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/22/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/28/2008,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/06/2008,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/22/2008,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/26/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,09/01/2008,9.5,NO,2.9,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,09/26/2008,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,10/04/2008,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,05/10/2009,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,05/17/2009,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,05/23/2009,12.5,NO,3.8,,,41,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+21871508,06/13/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/05/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/12/2009,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/26/2009,10,NO,3,,,44,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/02/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/09/2009,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/30/2009,6.5,NO,2,,,50,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,09/06/2009,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,05/31/2010,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/07/2010,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/11/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/17/2010,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/24/2010,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/22/2010,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,09/05/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/25/2011,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/16/2011,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/31/2011,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/14/2011,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+21871508,08/21/2011,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,04/01/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/17/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/30/2012,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/08/2012,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/15/2012,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+21871508,07/21/2012,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/05/2012,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,08/18/2012,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,09/30/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/08/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/23/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/30/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/07/2013,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/04/2013,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/07/2014,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/22/2014,7.5, ,2.3,,,48,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/28/2014,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/19/2014,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/08/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,08/10/2014,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,08/31/2014,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,05/22/2015,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,06/26/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/12/2015,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,07/24/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+21871508,08/30/2015,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,09/14/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/18/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/24/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/19/2016,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,06/06/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/06/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/14/2017,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+21871508,07/24/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+19207139,07/15/2019,11.5,NO,3.5,,,42,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+82607229,07/15/2019,,,,4.52,20.1,,51,46,,,,,
+19207139,08/19/2019,11,NO,3.3,6.54,22.4,43,52,49,,,CLEAR,BROWN,
+82607229,09/06/2019,,,,8.87,18.3,,51,51,,,,,
+200837938,09/06/2019,9,NO,2.7,,,45,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+19207139,07/15/2020,7.5,NO,2.3,4.51,18.6,48,51,46,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19207139,08/06/2020,8.5,NO,2.6,6.55,26.3,46,53,49,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+19207139,08/31/2020,9,NO,2.7,7.03,18,45,51,50,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/15/2019,0,METERS,79.6,DEGREES F,7.91,MG/L
+07/15/2019,1,METERS,79.5,DEGREES F,7.93,MG/L
+07/15/2019,2,METERS,79.3,DEGREES F,7.95,MG/L
+07/15/2019,3,METERS,75.7,DEGREES F,7.53,MG/L
+07/15/2019,4,METERS,65.6,DEGREES F,.65,MG/L
+07/15/2019,5,METERS,57.7,DEGREES F,.16,MG/L
+07/15/2019,6,METERS,54,DEGREES F,.08,MG/L
+07/15/2019,7,METERS,51.6,DEGREES F,.04,MG/L
+08/19/2019,0,METERS,74.7,DEGREES F,6.51,MG/L
+08/19/2019,1,METERS,74.6,DEGREES F,6.53,MG/L
+08/19/2019,2,METERS,74.4,DEGREES F,6.63,MG/L
+08/19/2019,3,METERS,74.2,DEGREES F,6.67,MG/L
+08/19/2019,4,METERS,71.8,DEGREES F,.4,MG/L
+08/19/2019,5,METERS,65.2,DEGREES F,.23,MG/L
+08/19/2019,6,METERS,60.3,DEGREES F,.16,MG/L
+08/19/2019,7,METERS,55.4,DEGREES F,.14,MG/L
+09/06/2019,0,METERS,66.9,DEGREES F,7.23,MG/L
+09/06/2019,1,METERS,66.8,DEGREES F,7.21,MG/L
+09/06/2019,2,METERS,66.7,DEGREES F,7.18,MG/L
+09/06/2019,3,METERS,66.7,DEGREES F,7.15,MG/L
+09/06/2019,4,METERS,66.6,DEGREES F,7.11,MG/L
+09/06/2019,5,METERS,66.4,DEGREES F,7.02,MG/L
+09/06/2019,6,METERS,66.1,DEGREES F,6.95,MG/L
+09/06/2019,7,METERS,56.6,DEGREES F,.23,MG/L
+08/06/2020,0,METERS,74.5,DEGREES F,,
+08/06/2020,1,METERS,74.3,DEGREES F,,
+08/06/2020,2,METERS,74.2,DEGREES F,,
+08/06/2020,3,METERS,73.9,DEGREES F,,
+08/06/2020,4,METERS,71.5,DEGREES F,,
+08/06/2020,5,METERS,63.4,DEGREES F,,
+08/06/2020,6,METERS,57.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/20/1990,Cloudy- no algae    
+06/30/1990,Sunny- slight wind- no algae    
+07/12/1990,Slight chop- light algae    
+07/20/1990,Sunny- light wind- light algae    
+08/02/1990,Sunny- light wind    
+08/12/1990,Cloudy- slight wave    
+08/21/1990,Sunny- slight algae    
+08/30/1990,Sunny- slight. algae    
+09/10/1990,Sunny- lt. breeze- lt. algae    
+09/21/1990,Windy- cloudy- lt. algae    
+05/22/1991,Hazy- light wind    
+05/30/1991,Cloudy- light wind    
+06/10/1991,Breezy- sunny- assumed time was 12:00.    
+06/20/1991,Hazy- breezy    
+06/30/1991,Hazy- slight chop    
+07/10/1991,Light wind- sunny.    
+07/21/1991,Light algae bloom- cloudy.    
+07/30/1991,Sunny- sight breeze- mild algae bloom    
+08/10/1991,Clear- calm- slight algae    
+08/21/1991,Sunny- slight chop- slight algae    
+09/02/1991,Light wind- sunny.    
+09/10/1991,Sunny- slight chop    
+05/29/1992,Cloudy- slight wind.    
+06/10/1992,Slight wind.    
+06/21/1992,Green color from pine pollen- very windy.    
+07/03/1992,Cloudy- slight chop.    
+07/10/1992,Sunny- slight chop- minor algae.    
+07/23/1992,Light breeze.  Mild algae.    
+07/30/1992,Slight chop.    
+08/10/1992,Choppy.    
+08/20/1992,Sunny- light wind.    
+08/31/1992,Windy- cloudy.    
+09/11/1992,Choppy- sunny.    
+10/01/1992,Sunny- no wind.    
+05/21/1993,Sunny- slight breeze.    
+06/02/1993,Cloudy- slight breeze.    
+06/10/1993,Slight breeze- sunny    
+06/23/1993,Partly cloudy- slight chop- heavy rain 6/22    
+07/02/1993,Hazy sun- slight breeze- after storm    
+07/11/1993,Hazy sun- slight chop    
+07/23/1993,Cloudy- slight chop    
+08/10/1993,Slight breeze- clear and sunny.    
+08/20/1993,Slight breeze- partly cloudy    
+10/10/1993,Slight chop- sunny.    
+06/10/1994,Sunny- slight chop.    
+06/24/1994,Partly cloudy- slight chop.    
+07/10/1994,Sunny- slight breeze.    
+07/25/1994,Sunny-breezy- slight chop.    
+08/13/1994,Algal- sunny- slight chop.    
+08/25/1994,Sunny- slight breeze.    
+09/10/1994,Sunny- slight breeze.    
+06/23/1995,Slight algae- sunny- slight wind.    
+05/25/2008,cloudy and windy
+06/28/2008,cloudy + rain
+07/06/2008,sunny
+07/22/2008,sunny- partly cloudy
+07/26/2008,hazy-light breeze
+09/01/2008,windy-partly cloudy windy-partly cloudy
+10/04/2008,sunny
+05/17/2009,sunny-light wind
+06/13/2009,windy-chop on water
+07/05/2009,windy
+07/26/2009,cloudy-windy
+08/02/2009,cloudy-slight wind
+08/09/2009,windy
+08/30/2009,cloudy
+09/06/2009,Sunny
+07/07/2010,partly cloudy
+07/11/2010,cloudy
+06/25/2011,Partly cloudy
+07/31/2011,Slight chop
+08/14/2011,Slight chop
+04/01/2012,slight chop 
+06/08/2013,partly cloudy- slight chop
+06/23/2013,Overcast
+06/30/2013,Windy- overcast
+06/07/2014,Clear- slight breeze
+07/19/2014,Slight chop- overcast Slight chop- overcast Slight chop- overcast
+08/08/2014,Slight chop
+08/10/2014,Partly cloudy
+06/26/2015,Slight breeze
+07/12/2015,Windy
+08/30/2015,Windy and overcast
+07/24/2017,Slight wind
+
+
+
+
+Start Date,Group Name,Project Name
+06/20/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/30/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/12/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/20/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/02/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/12/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/21/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/30/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/10/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/21/1990,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/22/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/30/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/10/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/20/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/30/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/10/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/21/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/30/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/10/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/21/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/02/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/10/1991,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/29/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/10/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/21/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/03/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/10/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/23/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/30/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/10/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/20/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/31/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/11/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+10/01/1992,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/21/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/02/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/10/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/23/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/02/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/11/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/23/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/10/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/20/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+10/10/1993,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/10/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/24/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/10/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/25/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/13/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/25/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/10/1994,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/23/1995,Tom Kromer,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/28/2007,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/05/2007,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/25/2007,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/03/2007,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/22/2007,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+10/06/2007,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/25/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/07/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/22/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/28/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/06/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/22/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/26/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/01/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/26/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+10/04/2008,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/10/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/17/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/23/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/13/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/05/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/12/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/26/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/02/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/09/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/30/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/06/2009,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/31/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/07/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/11/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/17/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/24/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/22/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/05/2010,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/25/2011,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/16/2011,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/31/2011,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/14/2011,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/21/2011,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+04/01/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/17/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/30/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/08/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/15/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/21/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/05/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/18/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/30/2012,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/08/2013,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/23/2013,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/30/2013,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/07/2013,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/04/2013,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/07/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/22/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/28/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/19/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/08/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/10/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/31/2014,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+05/22/2015,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/26/2015,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/12/2015,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/24/2015,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+08/30/2015,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+09/14/2015,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/18/2016,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/24/2016,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/19/2016,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+06/06/2017,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/06/2017,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/14/2017,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/24/2017,Scott Hagen,Citizen Lake Monitoring - Water Quality - Loon Lake - Deep Hole
+07/15/2019,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+07/15/2019,ALEX SMITH,Directed Lakes 2019 Smith
+07/15/2019,Mark Sundeen and Alex Smith,2019-2020 Directed Lakes Smith - 319 eligible
+08/19/2019,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+09/06/2019,CLAUDIA M DUFFY- Mark R Sundeen,2019-2020 Directed Lakes Smith - 319 eligible
+09/06/2019,Mark Sundeen and Alex Smith,2019-2020 Directed Lakes Smith - 319 eligible
+07/15/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+08/06/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible
+08/31/2020,ALEX SMITH,2019-2020 Directed Lakes Smith - 319 eligible

@@ -1,0 +1,45 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Washburn Lake,Oneida,1178000,NO,44,,443302,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/13/1984,12.1,,3.7,14,,41,,55,,,,,
+1,09/19/1985,5.9,,1.8,,51,52,59,,,,,,
+7000105,06/24/2005,,,,,8,,44,,,,,,
+145711546,06/15/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/19/1985,,,12,C,.6,MG/L
+06/15/2017,1,FEET,76.8,DEGREES F,7.75,MG/L
+06/15/2017,3,FEET,75.9,DEGREES F,7.77,MG/L
+06/15/2017,5,FEET,74.4,DEGREES F,7.9,MG/L
+06/15/2017,7,FEET,69.1,DEGREES F,3.86,MG/L
+06/15/2017,9,FEET,63.3,DEGREES F,4.47,MG/L
+06/15/2017,11,FEET,60.1,DEGREES F,4.28,MG/L
+06/15/2017,13,FEET,57.1,DEGREES F,4.33,MG/L
+06/15/2017,15,FEET,52.4,DEGREES F,2.32,MG/L
+06/15/2017,17,FEET,49.1,DEGREES F,1.13,MG/L
+06/15/2017,19,FEET,48.5,DEGREES F,.34,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/13/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/19/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/24/2005,DEEP HOLE    
+06/15/2017,75 degrees windy and sunny.  Deep hole location can be found at Oneida County GIS. Conditions were sunny- windy- and slight chop on the water surface.
+
+
+
+
+Start Date,Group Name,Project Name
+07/13/1984,Data Collectors,Migrated from STORET Legacy
+09/19/1985,Data Collectors,Migrated from STORET Legacy
+06/24/2005,Paul Garrison,Chippewa County Forest Lakes 2003-2005
+06/15/2017,Aubrey Nycz- Derek Thorn,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

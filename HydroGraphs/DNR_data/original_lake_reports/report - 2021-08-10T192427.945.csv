@@ -1,0 +1,453 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Eagle Lake,Racine,759800,SE,52,,523131,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189593,04/19/1990,1.75,NO,0.5,,,69,,,,,,GREEN,2-Very minor aesthetic problems
+8189593,05/02/1990,1.5,NO,0.5,,,71,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189593,05/21/1990,2,NO,0.6,,,67,,,,,,GREEN,
+8189593,06/24/1990,2.75,NO,0.8,,,63,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189593,07/22/1990,2.75,NO,0.8,,,63,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,04/25/1991,2.5,,0.75,19,54,64,59,57,,,,,
+8189593,04/25/1991,3,NO,0.9,,,61,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189593,05/19/1991,2.25,NO,0.7,,,65,,,DOWN 1.5",,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189593,06/04/1991,2.25,NO,0.7,,,65,,,DOWN 2.25",,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/13/1991,1.8,,0.54,27,47,69,58,60,,,,,
+8189593,06/22/1991,2.25,NO,0.7,,,65,,,DOWN 2.75",,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189593,07/05/1991,2.75,NO,0.8,,,63,,,DOWN 4",,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190247,07/18/1991,2.25,NO,0.7,,,65,,,DOWN 6",,,,
+1,07/19/1991,,,,25,77,,62,59,,,,,
+8190247,07/30/1991,2.25,NO,0.7,,,65,,,DOWN 7",,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,08/21/1991,1.6,,0.5,44,88,70,63,63,,,,,
+1,02/19/1992,,,,2,29,,44,40,,,,,
+8190247,04/13/1992,11,YES,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,04/15/1992,,,,1,24,,53,35,,,,,
+1,06/24/1992,29.5,,9,1,17,28,50,35,,,,,
+1,07/22/1992,,,,2.21,32,,55,41,,,,,
+1,08/19/1992,,,,2.08,14,,49,40,,,,,
+8190247,06/15/1993,10,YES,3,,,44,,,HIGH,,,GREEN,
+1,06/23/1993,,,,1.91,21,,52,40,,,,,
+8190247,07/15/1993,9.5,YES,2.9,,,45,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190247,08/04/1993,6,NO,1.8,,,51,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190247,08/11/1993,3,NO,0.9,,,61,,,3" DOWN FROM LAST TEST,,,GREEN,4-Would not swim but boating OK (algae)
+1,08/23/1993,,,,36.9,82,,62,62,,,,,
+8190247,08/23/1993,3,NO,0.9,,,61,,,5" DOWN FROM SPRING,,,GREEN,
+8190247,04/08/1994,3.5,NO,1.1,,,59,,,GAUGE,150,,GREEN,
+1,04/12/1994,,,,11.5,46,,58,53,,,,,
+1,04/21/1994,5.9,,1.8,9.74,37,52,56,52,,,,,
+8190247,04/21/1994,3.5,NO,1.1,,,59,,,GAUGE,150,,GREEN,
+8190247,04/30/1994,5.5,NO,1.7,,,53,,,GAUGE,170,,GREEN,2-Very minor aesthetic problems
+8190247,05/03/1994,7.5,NO,2.3,,,48,,,GAUGE,170,,GREEN,2-Very minor aesthetic problems
+8190247,06/01/1994,10,YES,3,,,44,,,DOWN 5",170,,GREEN,2-Very minor aesthetic problems
+1,06/13/1994,,,,1.84,26,,53,39,,,,,
+8190247,07/10/1994,7.5,NO,2.3,,,48,,,1" DOWN SINCE LAST READING,110,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190247,07/18/1994,5,NO,1.5,,,54,,,DOWN 2" SINCE 7/10,90,,GREEN,
+8190247,07/30/1994,2.5,NO,0.8,,,64,,,GAUGE,70,,GREEN,5-Enjoyment substantially impaired (algae)
+1,08/15/1994,,,,15.9,73,,61,56,,,,,
+1,08/29/1994,,,,41.4,78,,62,63,,,,,
+8190247,03/24/1995,5,NO,1.5,,,54,,,HIGH,70,,GREEN,1-Beautiful, could not be nicer
+8190247,04/15/1995,5,NO,1.5,,,54,,,HIGH,170,,GREEN,
+1,04/19/1995,,,,31.8,40,,57,61,,,,,
+1,04/20/1995,2,,0.6,35.7,42,67,57,62,,,,,
+8190247,05/23/1995,4,NO,1.2,,,57,,,GAUGE,190,,GREEN,
+1,05/30/1995,6.2,,1.9,35.5,38,51,56,62,,,,,
+8190247,06/06/1995,7,NO,2.1,,,49,,,GAUGE,1.7,,GREEN,
+8190247,06/13/1995,8,NO,2.4,,,47,,,GAUGE,1.4,,GREEN,4-Would not swim but boating OK (algae)
+1,06/20/1995,,,,3.16,27,,54,43,,,,,
+8190247,07/05/1995,8.5,NO,2.6,,,46,,,GAUGE,1.4,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+1,07/14/1995,,,,,31,,55,,,,,,
+1,07/18/1995,,,,0.26,,,,25,,,,,
+8190247,07/30/1995,9,NO,2.7,,,45,,,GAUGE,1.4,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+1,08/15/1995,,,,17.5,36,,56,56,,,,,
+1,04/22/1996,,,,11,33,,55,53,,,,,
+8189593,04/22/1996,5,NO,1.5,,,54,,,GAUGE,1.2,CLEAR,,2-Very minor aesthetic problems
+8190247,05/06/1996,8,NO,2.4,,,47,,,,,CLEAR,,2-Very minor aesthetic problems
+8189593,05/30/1996,7,NO,2.1,,,49,,,GAUGE,1.64,CLEAR,,2-Very minor aesthetic problems
+8189593,06/10/1996,8,NO,2.4,,,47,,,GAUGE,1.78,CLEAR,,2-Very minor aesthetic problems
+1,06/12/1996,,,,11.7,26,,53,53,,,,,
+8189593,06/16/1996,8,NO,2.4,,,47,,,GAUGE,1.76,CLEAR,BLUE,2-Very minor aesthetic problems
+8189593,07/05/1996,9,NO,2.7,,,45,,,GAUGE,1.54,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189593,07/16/1996,9,NO,2.7,,,45,,,GAUGE,1.38,,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/29/1996,,,,41.3,87,,63,63,,,,,
+8189593,08/05/1996,7,NO,2.1,,,49,,,1.30 STAFF GAUGE,,,GREEN,4-Would not swim but boating OK (algae)
+8189593,08/10/1996,5,NO,1.5,,,54,,,GAUGE,1.24,,GREEN,4-Would not swim but boating OK (algae)
+8189593,08/13/1996,4,NO,1.2,,,57,,,GAUGE,1.1,,GREEN,4-Would not swim but boating OK (algae)
+8189593,08/18/1996,4,NO,1.2,,,57,,,GAUGE,1,,GREEN,4-Would not swim but boating OK (algae)
+1,08/20/1996,,,,30,82,,62,61,,,,,
+8188525,08/26/1999,1.968,,0.6,40,101,67,64,63,,,,,
+1,08/31/2000,1.6,,0.5,59,91,70,63,66,,,,,
+7000045,04/21/2003,3.9,NO,1.2,,10,57,46,,,,,,
+7000045,08/13/2003,4.264,NO,1.3,29,46,56,58,60,,,,,
+1,08/31/2006,2.25,NO,0.7,51.3,94,65,63,65,,,,,
+1,09/25/2006,,,,32.3,88,,63,61,,,,,
+1,10/18/2006,3.5,NO,1.1,15.5,63,59,60,56,,,,,
+18639595,04/22/2007,3.75,NO,1.1,28.7,30,58,54,60,,,,,
+1,10/08/2008,1.5,NO,0.5,61.6,134,71,66,66,,,,,
+18138116,06/29/2010,2,NO,0.6,47.8,87,67,63,64,,,,,
+18138116,07/20/2010,1.5,NO,0.5,93.5,111,71,65,69,,,,,
+18639595,08/25/2010,1.2,NO,0.4,45.9,129,74,66,64,,,,,
+18639595,09/28/2010,1,NO,0.3,73,144,77,67,67,,,,,
+18639595,10/11/2010,1.75,NO,0.5,21.7,99,69,64,58,,,,,
+18138116,05/10/2011,6.5,NO,2,4.85,29,50,54,47,,,,,
+18138116,06/28/2011,4,NO,1.2,10.8,47,57,58,53,,,,,
+18138116,07/26/2011,3.5,NO,1.1,33.9,69,59,61,61,,,,,
+1,08/16/2011,3,NO,0.9,47.1,,61,,64,,,,,
+18138116,09/12/2011,2.75,NO,0.8,54.7,86,63,63,65,,,,,
+18138116,10/12/2011,3.75,NO,1.1,10.4,56,58,59,53,,,,,
+18138116,04/03/2012,11.75,NO,3.6,2.38,32,42,55,41,,,,,
+18138116,05/14/2012,9.7,NO,2.9,5.59,29,44,54,48,,,,,
+18138116,06/20/2012,2.5,N,0.8,78.1,92,64,63,68,,,,,
+18138116,07/18/2012,2,NO,0.6,61.1,129,67,66,66,,,,,
+18138116,08/14/2012,2,NO,0.6,58.1,35,67,56,66,,,,,
+18138116,09/17/2012,2,NO,0.6,38.1,85,67,63,62,,,,,
+159643175,06/09/2018,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,07/30/2018,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,09/14/2018,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+159643175,10/09/2018,1,NO,0.3,,,77,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,05/07/2019,7,NO,2.1,,78.4,49,62,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+159643175,06/19/2019,2.5,NO,0.8,65.9,18.8,64,51,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,08/13/2019,1.5,NO,0.5,32.4,91.5,71,63,61,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,09/03/2019,1.25,NO,0.4,60.8,145,74,67,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,10/23/2019,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,05/20/2020,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,,1-Beautiful, could not be nicer
+159643175,06/29/2020,3,NO,0.9,32,75.3,61,62,61,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+159643175,08/01/2020,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,08/04/2020,,,,127,149,,67,71,,,,,
+159643175,08/26/2020,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+159643175,10/14/2020,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/25/1991,,,10.2,C,11.0,MG/L
+06/13/1991,,,82F,C,3.5,MG/L
+07/19/1991,,,25.0,C,6.4,MG/L
+08/21/1991,,,23,C,10.1,MG/L
+02/19/1992,,,2,C,>15,MG/L
+04/15/1992,,,8,C,**,MG/L
+06/24/1992,,,19,C,7.8,MG/L
+07/22/1992,,,23,C,7.5,MG/L
+08/19/1992,,,20,C,10.2,MG/L
+06/23/1993,,,22.2,C,10.2,MG/L
+08/23/1993,,,25.2,C,3.8,MG/L
+04/12/1994,,,8.0,C,11.2,MG/L
+04/21/1994,,,12.8,C,10.0,MG/L
+06/13/1994,,,21.4,C,9.2,MG/L
+08/15/1994,,,23.0,C,10.6,MG/L
+08/29/1994,,,22.9,C,10.3,MG/L
+04/19/1995,,,9.0,C,11.1,MG/L
+04/20/1995,,,8.8,C,11.5,MG/L
+05/30/1995,,,16.3,C,10.5,MG/L
+06/20/1995,,,18.2,C,0.7,MG/L
+07/14/1995,,,22.8,C,1.8,MG/L
+07/18/1995,,,26.4,C,7.1,MG/L
+08/15/1995,,,26.3,C,0.7,MG/L
+04/22/1996,,,11.9,C,11.1,MG/L
+06/12/1996,,,16.0,C,12.2,MG/L
+07/29/1996,,,22.8,C,6.5,MG/L
+08/20/1996,,,24.1,C,4.7,MG/L
+08/26/1999,3.28,FEET,,,6.3,MG/L
+08/26/1999,,,21.9,C,6.3,MG/L
+04/21/2003,1,FEET,,,10.5,MG/L
+04/21/2003,,,11.1,C,10.5,MG/L
+08/13/2003,6,FEET,,,9.2,MG/L
+08/13/2003,,,23.4,C,9.2,MG/L
+04/22/2007,,,16.0,C,,
+10/08/2008,,,12.2,C,,
+06/29/2010,,,25.6,C,,
+07/20/2010,,,26.7,C,,
+08/25/2010,,,24.4,C,,
+09/28/2010,,,14.4,C,,
+10/11/2010,,,20.0,C,,
+05/10/2011,,,13.0,C,,
+06/28/2011,,,21.0,C,,
+07/26/2011,,,26.0,C,,
+08/16/2011,,,22.77,C,,
+09/12/2011,,,21.11,C,,
+10/12/2011,,,20.0,C,,
+04/03/2012,,,10.56,C,,
+05/14/2012,,,15.5,C,,
+06/20/2012,,,25.0,C,,
+07/18/2012,,,28.3,C,,
+08/14/2012,,,22.2,C,,
+09/17/2012,,,16.0,C,,
+05/07/2019,1,FEET,57.7,DEGREES F,,
+05/07/2019,2,FEET,58.1,DEGREES F,,
+05/07/2019,3,FEET,58.2,DEGREES F,,
+05/07/2019,4,FEET,58.2,DEGREES F,,
+05/07/2019,5,FEET,58.2,DEGREES F,,
+05/07/2019,6,FEET,58.2,DEGREES F,,
+05/07/2019,7,FEET,58.2,DEGREES F,,
+05/07/2019,8,FEET,58.2,DEGREES F,,
+05/07/2019,9,FEET,58.2,DEGREES F,,
+05/07/2019,10,FEET,58.2,DEGREES F,,
+05/07/2019,11,FEET,58.2,DEGREES F,,
+05/07/2019,12,FEET,58.2,DEGREES F,,
+06/19/2019,1,FEET,69.6,DEGREES F,,
+06/19/2019,2,FEET,69.6,DEGREES F,,
+06/19/2019,3,FEET,69.6,DEGREES F,,
+06/19/2019,4,FEET,69.6,DEGREES F,,
+06/19/2019,5,FEET,69.6,DEGREES F,,
+06/19/2019,6,FEET,69.6,DEGREES F,,
+06/19/2019,7,FEET,69.6,DEGREES F,,
+06/19/2019,8,FEET,69.6,DEGREES F,,
+06/19/2019,9,FEET,69.6,DEGREES F,,
+06/19/2019,10,FEET,69.6,DEGREES F,,
+06/19/2019,11,FEET,69.4,DEGREES F,,
+06/19/2019,12,FEET,69.2,DEGREES F,,
+08/13/2019,1,FEET,82.2,DEGREES F,,
+08/13/2019,2,FEET,81.8,DEGREES F,,
+08/13/2019,3,FEET,81.8,DEGREES F,,
+08/13/2019,4,FEET,81.3,DEGREES F,,
+08/13/2019,5,FEET,80.6,DEGREES F,,
+08/13/2019,6,FEET,80,DEGREES F,,
+08/13/2019,7,FEET,79.8,DEGREES F,,
+08/13/2019,8,FEET,79.3,DEGREES F,,
+08/13/2019,9,FEET,78.8,DEGREES F,,
+08/13/2019,10,FEET,78.6,DEGREES F,,
+08/13/2019,11,FEET,78.4,DEGREES F,,
+08/13/2019,12,FEET,78.2,DEGREES F,,
+09/03/2019,1,FEET,74.1,DEGREES F,,
+09/03/2019,2,FEET,73,DEGREES F,,
+09/03/2019,3,FEET,72.6,DEGREES F,,
+09/03/2019,4,FEET,71.9,DEGREES F,,
+09/03/2019,5,FEET,71.7,DEGREES F,,
+09/03/2019,6,FEET,71.6,DEGREES F,,
+09/03/2019,7,FEET,71.6,DEGREES F,,
+09/03/2019,8,FEET,71.6,DEGREES F,,
+09/03/2019,9,FEET,71.4,DEGREES F,,
+09/03/2019,10,FEET,71,DEGREES F,,
+09/03/2019,11,FEET,71,DEGREES F,,
+09/03/2019,12,FEET,70.8,DEGREES F,,
+06/29/2020,1,FEET,83.1,DEGREES F,,
+06/29/2020,2,FEET,82.4,DEGREES F,,
+06/29/2020,3,FEET,82.2,DEGREES F,,
+06/29/2020,4,FEET,81.5,DEGREES F,,
+06/29/2020,5,FEET,81.6,DEGREES F,,
+06/29/2020,6,FEET,80.9,DEGREES F,,
+06/29/2020,7,FEET,80.9,DEGREES F,,
+06/29/2020,8,FEET,79.5,DEGREES F,,
+06/29/2020,9,FEET,77.3,DEGREES F,,
+06/29/2020,10,FEET,77,DEGREES F,,
+06/29/2020,11,FEET,76.8,DEGREES F,,
+06/29/2020,12,FEET,75.9,DEGREES F,,
+08/01/2020,1,FEET,80.6,DEGREES F,,
+08/01/2020,2,FEET,80.4,DEGREES F,,
+08/01/2020,3,FEET,80.2,DEGREES F,,
+08/01/2020,4,FEET,80,DEGREES F,,
+08/01/2020,5,FEET,79.8,DEGREES F,,
+08/01/2020,6,FEET,79.7,DEGREES F,,
+08/01/2020,7,FEET,79.5,DEGREES F,,
+08/01/2020,8,FEET,79.5,DEGREES F,,
+08/01/2020,9,FEET,79.1,DEGREES F,,
+08/01/2020,10,FEET,79.1,DEGREES F,,
+08/01/2020,11,FEET,78.9,DEGREES F,,
+08/01/2020,12,FEET,78.9,DEGREES F,,
+08/26/2020,1,FEET,82.4,DEGREES F,,
+08/26/2020,2,FEET,81.6,DEGREES F,,
+08/26/2020,3,FEET,81.3,DEGREES F,,
+08/26/2020,4,FEET,81.1,DEGREES F,,
+08/26/2020,5,FEET,80.9,DEGREES F,,
+08/26/2020,6,FEET,80.9,DEGREES F,,
+08/26/2020,7,FEET,80.7,DEGREES F,,
+08/26/2020,8,FEET,80,DEGREES F,,
+08/26/2020,9,FEET,79.5,DEGREES F,,
+08/26/2020,10,FEET,79.1,DEGREES F,,
+08/26/2020,11,FEET,79.1,DEGREES F,,
+08/26/2020,12,FEET,78.8,DEGREES F,,
+10/14/2020,1,FEET,58.2,DEGREES F,,
+10/14/2020,2,FEET,58.1,DEGREES F,,
+10/14/2020,3,FEET,57.9,DEGREES F,,
+10/14/2020,4,FEET,57.9,DEGREES F,,
+10/14/2020,5,FEET,57.9,DEGREES F,,
+10/14/2020,6,FEET,57.9,DEGREES F,,
+10/14/2020,7,FEET,57.9,DEGREES F,,
+10/14/2020,8,FEET,57.9,DEGREES F,,
+10/14/2020,9,FEET,57.9,DEGREES F,,
+10/14/2020,10,FEET,57.9,DEGREES F,,
+10/14/2020,11,FEET,57.9,DEGREES F,,
+10/14/2020,12,FEET,57.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+04/19/1990,Slightly overcast- breezy- no whitecaps    
+05/02/1990,Sunny- no wind    
+05/21/1990,Calm- sunny    
+06/24/1990,Clear- lt. SE wind- no whitecaps    
+07/22/1990,Overcast- calm- algae bloom    
+04/25/1991,Overcast- moderate wind    
+05/19/1991,Overcast- algae bloom    
+06/04/1991,Sunny- algae bloom    
+06/13/1991,SUNNY- WIND OUT OF SE APPROX 5 MPH GUSTS OF 10 MPH    
+06/22/1991,Sunny- med. wind- light algae    
+07/05/1991,Sunny- light wind    
+07/18/1991,Clear- SW wind at 8 mph- medium algae    
+07/19/1991,SECCHI DISK ON 7/18/91= 2.25FT.  SELF HELP VOLUNTEER.    
+07/30/1991,Overcast- no wind- algae bad    
+02/19/1992,LAKE MANAGEMENT PROJECTS- PURCHASE ORDER #NRA 91826    
+04/13/1992,Clearest I've seen this lake in 60 years. I'm excited.  Algae blooms- ice is off    
+06/24/1992,LAKE MANAGEMENT PROGRAMS PURCHASE ORDER NRA 91826    
+07/22/1992,072292 1100    
+06/15/1993,Cloudy- clear water- little algae- milfoil starting- moss weed- swimmers itch    
+07/15/1993,Sunny- blue sky- no clouds- algae bloom- lots of milfoil- swimmers itch better- less moss    
+08/04/1993,Hot- sunny- no wind- no clouds- less milfoil- lake starting to bloom- swimmers itch.    
+08/11/1993,Hot- sunny- no wind- no clouds- lake in full bloom- turned green overnight- less milfoil- lots of snails + bloodsuckers ...come see.    
+08/23/1993,Air temp 80- sunny- moderate SW wind- lake pea green bloom- little plant life or milfoil- lots of snails and blood suckers    
+04/08/1994,Overcast- moderate wind se- very little plant life- no milfoil visible- no dead fish.    
+04/21/1994,Sunny- SW wind 5 mph- lake unusually green for early spring- no milfoil visible.    
+04/30/1994,Found new deeper hole - 11 ft.  Was 9-10 ft. before.  Cloudy- calm- big clarity change since last test- no milfoil.    
+05/03/1994,Depth 10.5 ft to bottom; no milfoil- light east wind- sunny    
+06/01/1994,Lake level down 5" (170 last time) .  Sunny- light SW wind.  Clarity to bottom 10'.  Small amount milfoil N shore along Panyak park.    
+07/10/1994,Overcast- no wind- Eurasian milfoil starting in other areas of lake rapidly.  Lots of algae.    
+07/18/1994,Sunny- south wind- Eurasian milfoil spreading rapidly.  Large patch center of lake.  Lots of algae.  East shore pea green.    
+07/30/1994,Overcast- west wind.  Lots of Eurasian milfoil on shore all over.  Seems to be dying off most areas of lake.  Lots of algae NE corner.    
+03/24/1995,Lake level up from .70 last fall-8" up.  Ice off 3/16/95.  No surf weeds.  Lots of milfoil way up on shores-especially east shore.  Sunny blue skies.  Light east wind.    
+04/15/1995,Cloudy- strong east wind- no milfoil on top yet.  Good musk grass bottom cover-small amongst algae.  Two white swans-lots of ducks.    
+05/23/1995,Light east wind.  Milfoil + pond weed rapidly spreading over entire lake except north shore - looks bad.    
+06/06/1995,Light E wind.  Milfoil and lily pond weed heavy on east side of lake.  Clarity up from 4' to 7' since 5/23.    
+06/13/1995,No wind.  Milfoil + lily pond weed has spread to include middle of lake now.  Very little boating or swimming now.    
+07/05/1995,Light east winds- clear sky- milfoil-pondweed cover 80% of the lake- harvesting started.    
+07/30/1995,8 day harvesting contract 9500 channels harvested by my direction on board each day.  Algae bad.    
+08/15/1995,424207088072400    
+04/22/1996,Lake very clear.  Sunny- clear skies.  No algae.    
+05/06/1996,Lake very clear. lilly pond with pad 2' from the surface in 1/4' water depth NE corner. new harvester to ( ) within 2 weeks.    
+05/30/1996,Clear sunny skies- wind calm- some lily-pondweed starting to surface. number of sail boats on lake. good sign for minor weeds.    
+06/10/1996,Warmer weather . pondweed thick southeast corner + entire east shore. our new inland harvester in service since June 4-holds 8-000 lb. per load x average 6 loads ada.-48- 000 weeds + water per day.    
+06/16/1996,Cloudy-no wind. 80 % lake covered pond weed. red top milfoil coming three. harvesting 8 loads per day.    
+07/05/1996,Sunny-windy southwest. minor algae appearing. fishing still excellent.    
+07/16/1996,Sunny-wind calm-water in leaps-covered yellow/green. scum. harvesting rest of lake best as possible to keep up.    
+08/05/1996,Sunny-southwest strong winds. lake in bloom. swimming in center of lake okay harvesting different type weed now-slimy green baby moss.    
+08/10/1996,Sunny-windy southwest. clarity rapidly diminishing. shores (algae) look terrible. still harvesting under Department of Natural Resources supervision 24d was applied in front NE shoreline-approx. 100 ft.    
+08/13/1996,Water down-clarity down-algae terrible on shore-green slimy.    
+08/18/1996,Cloudy-light E wind-water level down-shores are terrible except by condos which were treated 24 d. killed 80% of weeds there-settled to bottom.    
+04/21/2003,MIDDLE OF BASIN (MOTOR DIED)    
+08/13/2003,DEEP SPOT @ 13FT    
+06/09/2018,Sunny- water perception 3 because green water color Sunny- water perception 3 because green water color Sunny- water perception 3 because green water color  Sunny. Water was green and murky - perception 3  Sunny. Murky green water- perception 3
+07/30/2018,Mostly Sunny- low wind- no rain for 1 week
+09/14/2018,Sunny + calm- no rain for 7+ days
+10/09/2018,Sunny and moderate wind- last 2 weeks brought 4+" rain
+05/07/2019,Windy + Cool. Jay + Rachel
+06/19/2019,Jay + Jack
+09/03/2019,Jay + Keith
+
+
+
+
+Start Date,Group Name,Project Name
+04/19/1990,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/02/1990,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/21/1990,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/24/1990,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/22/1990,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/25/1991,Data Collectors,LAKE MGT PROJECTS
+04/25/1991,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/19/1991,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/04/1991,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/13/1991,Data Collectors,LAKE MGT PROJECTS
+06/22/1991,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/05/1991,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/18/1991,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/19/1991,Data Collectors,LAKE MGT PROJECTS
+07/30/1991,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/21/1991,Data Collectors,LAKE MGT PROJECTS
+02/19/1992,Data Collectors,LAKE MGT PROJECTS
+04/13/1992,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/15/1992,Data Collectors,LAKE MGT PROJECTS
+06/24/1992,Data Collectors,LAKE MGT PROJECTS
+07/22/1992,Data Collectors,LAKE MGT PROJECTS
+08/19/1992,Data Collectors,LAKE MGT PROJECTS
+06/15/1993,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/23/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/15/1993,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/04/1993,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/11/1993,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/23/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/23/1993,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/08/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/12/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+04/21/1994,Data Collectors,LAKE EVALUATION
+04/21/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/30/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/03/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/01/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/13/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+07/10/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/18/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/30/1994,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/15/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/29/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+03/24/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/15/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+04/19/1995,Data Collectors,LAKE MANAGEMENT PROJECTS
+04/20/1995,Data Collectors,LAKE EVALUATION
+05/23/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/30/1995,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/06/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/13/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/20/1995,Data Collectors,LAKE MANAGEMENT PROJECTS
+07/05/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/14/1995,Data Collectors,LAKE MANAGEMENT 95/96
+07/18/1995,Data Collectors,LAKE MANAGEMENT 95/96
+07/30/1995,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/15/1995,Data Collectors,LAKE MANAGEMENT 95/96
+04/22/1996,Data Collectors,LAKE MANAGEMENT 95/96
+04/22/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/06/1996,Donald Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/30/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/10/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/12/1996,Data Collectors,LAKE MANAGEMENT 95/96
+06/16/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/05/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/16/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/29/1996,Data Collectors,EAGLE LAKE PROPERTY OWNERS IMPROVEMENT ASSOC: Eagle Lake Management Planning
+08/05/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/10/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/13/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/18/1996,Donald And Pauline Hermes,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/20/1996,Data Collectors,EAGLE LAKE PROPERTY OWNERS IMPROVEMENT ASSOC: Eagle Lake Management Planning
+08/26/1999,Bob Wakeman,Lake Baseline Monitoring- DNR (1970s-2006)
+08/31/2000,Data Collectors,GMU LAKE CLASS STUDY
+04/21/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/13/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/31/2006,Data Collectors,
+09/25/2006,Data Collectors,
+10/18/2006,Data Collectors,
+04/22/2007,Aron,EAGLE LAKE MANAGEMENT DISTRICT: LMI-Eagle Lake Restoration
+10/08/2008,Data Collectors,
+06/29/2010,Kathy Aron,LOWER TURTLE LAKE MGT DISTRICT: LMI-Turtle Lake Watershed 5 Yr Education + Best Management Practices Incentives/Cost-sharing Program
+07/20/2010,Kathy Aron,LOWER TURTLE LAKE MGT DISTRICT: LMI-Turtle Lake Watershed 5 Yr Education + Best Management Practices Incentives/Cost-sharing Program
+08/25/2010,Aron,EAGLE LAKE MANAGEMENT DISTRICT: LMI-Eagle Lake Restoration
+09/28/2010,Aron,EAGLE LAKE MANAGEMENT DISTRICT: LMI-Eagle Lake Restoration
+10/11/2010,Aron,EAGLE LAKE MANAGEMENT DISTRICT: LMI-Eagle Lake Restoration
+05/10/2011,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+06/28/2011,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+07/26/2011,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+08/16/2011,Data Collectors,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+09/12/2011,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+10/12/2011,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+04/03/2012,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+05/14/2012,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+06/20/2012,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+07/18/2012,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+08/14/2012,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+09/17/2012,Kathy Aron,EAGLE LAKE MANAGEMENT DISTRICT: Eagle Lake Restoration Treatment + Evaluation Project
+06/09/2018,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+07/30/2018,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+09/14/2018,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+10/09/2018,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/07/2019,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/19/2019,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/13/2019,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+09/03/2019,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+10/23/2019,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+05/20/2020,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+06/29/2020,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/01/2020,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/04/2020,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+08/26/2020,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole
+10/14/2020,Jay Golla,Citizen Lake Monitoring - Water Quality - Eagle Lake - Deep Hole

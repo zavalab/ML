@@ -1,0 +1,172 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Weyers Lake,Manitowoc,49400,NE,36,,363067,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/09/1977,,,,,60,,60,,,,,,
+1,06/06/1977,13.1,,4,,,40,,,,,,,
+1,08/29/1977,10.7,,3.25,,,43,,,,,,,
+1,04/20/1978,,,,,100,,64,,,,,,
+1,06/12/1997,,,,4.16,34,,55,46,,,,,
+1,07/15/1997,,,,4.68,22,,52,46,,,,,
+1,08/11/1997,,,,11.3,17,,50,53,,,,,
+1,02/03/1998,,,,,38,,56,,,,,,
+1,04/14/1998,,,,50.6,134,,66,64,,,,,
+8188622,05/04/2003,7.75,YES,2.4,,,48,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188622,05/10/2003,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188622,05/31/2003,14,YES,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188622,06/08/2003,13,YES,4,,,40,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188622,06/29/2003,11.5,YES,3.5,,,42,,,NORMAL,,CLEAR,BROWN,
+8188622,07/13/2003,12,YES,3.6,,,41,,,NORMAL,,CLEAR,BROWN,
+8188622,08/13/2003,12,YES,3.6,,,41,,,NORMAL,,MURKY,BROWN,
+8188622,08/24/2003,11.5,YES,3.5,,,42,,,LOW,,MURKY,BROWN,
+8188622,10/12/2003,11,YES,3.3,,,43,,,LOW,,MURKY,BROWN,
+1,08/19/2012,,,,13.5,22,,52,54,,,,,
+1,09/15/2012,,,,14.9,29,,54,55,,,,,
+34982050,04/26/2013,,,,,74.8,,62,,,,,,
+34982050,07/07/2013,,,,18.3,29.8,,54,57,,,,,
+34982050,08/05/2013,,,,9.37,19.7,,51,52,,,,,
+34982050,09/05/2013,,,,7.36,23.3,,53,50,,,,,
+34982050,04/21/2014,,,,,89.5,,63,,,,,,
+34982050,06/29/2014,3,NO,0.9,,,61,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34982050,08/08/2014,8.5, ,2.6,,,46,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000093,08/25/2014,7.5,,2.3,9.26,25,48,53,52,,,,,
+34982050,04/02/2015,4,,1.2,,113,57,65,,,,,,
+7000093,06/21/2015,,,,50.4,59.4,,60,64,,,,,
+34982050,06/21/2015,1.5,NO,0.5,,,71,,,,,,GREEN,5-Enjoyment substantially impaired (algae)
+7000093,07/28/2015,,,,15.2,27.5,,54,55,,,,,
+34982050,07/28/2015,7,NO,2.1,,,49,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000093,09/14/2015,,,,19.8,28.9,,54,57,,,,,
+34982050,09/14/2015,5,NO,1.5,,,54,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,06/30/2016,,,,,31.3,,55,,,,,,
+34982050,06/30/2016,7,,2.1,,,49,,,,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/01/2016,,,,,31.4,,55,,,,,,
+34982050,09/01/2016,6.5,,2,,,50,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+1,07/15/2017,,,,5.59,65.1,,60,48,,,,,
+34982050,07/15/2017,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+34982050,07/30/2017,6.5,,2,,,50,,,,,,,
+1,08/15/2017,,,,30.3,54.7,,59,61,,,,,
+34982050,08/15/2017,5,,1.5,,,54,,,,,,,
+1,09/13/2017,,,,43.9,62,,60,63,,,,,
+34982050,07/12/2018,6,,1.8,,,51,,,,,,,
+34982050,08/02/2018,5.5,,1.7,,,53,,,,,,,
+34982050,08/31/2018,6.5,,2,,,50,,,,,,,
+1,04/14/2019,,,,,83.7,,62,,,,,,
+1,06/30/2019,,,,32.4,58.1,,60,61,,,,,
+34982050,07/01/2019,8,,2.4,,,47,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+34982050,07/29/2019,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,07/30/2019,,,,10.5,41.3,,57,53,,,,,
+34982050,08/30/2019,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+1,08/31/2019,,,,16.8,37.4,,56,56,,,,,
+1,06/21/2020,,,,7.27,98.3,,64,50,,,,,
+34982050,06/21/2020,7,,2.1,,,49,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+34982050,07/27/2020,7,,2.1,23,86.3,49,63,59,,,CLEAR,BLUE,2-Very minor aesthetic problems
+34982050,08/31/2020,10,,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,09/01/2020,,,,6.6,61.1,,60,49,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/09/1977,,,35,C,1.1,MG/L
+06/06/1977,,,11,C,3,MG/L
+08/29/1977,,,19.5,C,7.6,MG/L
+08/25/2014,3,FEET,75,DEGREES F,8.6,MG/L
+08/25/2014,6,FEET,73,DEGREES F,8.4,MG/L
+08/25/2014,9,FEET,68,DEGREES F,.7,MG/L
+08/25/2014,12,FEET,57,DEGREES F,.5,MG/L
+08/25/2014,15,FEET,50,DEGREES F,.5,MG/L
+08/25/2014,18,FEET,46,DEGREES F,.4,MG/L
+08/25/2014,21,FEET,43,DEGREES F,.4,MG/L
+08/25/2014,24,FEET,42,DEGREES F,.4,MG/L
+04/02/2015,0,FEET,44,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+03/09/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/06/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/20/1978,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/04/2003,Partly cloudy- 5 mph wind E. 50 F. 18 geese on lake.    
+05/10/2003,Sunny- bright- no clouds.  12 geese on the lake.  Fish in shallows.    
+05/31/2003,Bright sunny day.    
+06/08/2003,Cloudy- overcast. Fog on lake after test. 10 mph wind east.    
+08/25/2014,Depth of IS water sample: 6 ft.
+SLH field number : WL-3
+Wind speed 5 mph- s/w
+Observed lots of coontail
+04/02/2015,Bottom Temp 40F.
+06/21/2015,3.2 inches rain in the past 10 days.   
+09/14/2015,Temperature   Surface  71F     10 ft   65 F       15 ft    48F    
+06/30/2016,Lake is rimmed with coon tail   
+09/01/2016,Lake rimmed with algae.   Fishing good for bluegills 
+
+
+
+
+Start Date,Group Name,Project Name
+03/09/1977,Data Collectors,Migrated from STORET Legacy
+06/06/1977,Data Collectors,Migrated from STORET Legacy
+08/29/1977,Data Collectors,Migrated from STORET Legacy
+04/20/1978,Data Collectors,Migrated from STORET Legacy
+06/12/1997,Data Collectors,MANITOWOC COUNTY: Carsten/Weyers Lake Management Planning
+07/15/1997,Data Collectors,LAKE EVALUATION
+08/11/1997,Data Collectors,MANITOWOC COUNTY: Carsten/Weyers Lake Management Planning
+02/03/1998,Data Collectors,LAKE EVALUATION
+04/14/1998,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/04/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+05/10/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+05/31/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+06/08/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+06/29/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+07/13/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/13/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/24/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+10/12/2003,David Pozorski,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/19/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/15/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+04/26/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+07/07/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+08/05/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+09/05/2013,Gene Weyer,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/21/2014,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/29/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/08/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/25/2014,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+04/02/2015,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/21/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+06/21/2015,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+07/28/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+07/28/2015,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+09/14/2015,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+09/14/2015,Mary Gansberg,Eastern District Follow Up Monitoring for Impairment Decisions 2014
+06/30/2016,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+06/30/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+09/01/2016,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/01/2016,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+07/15/2017,Data Collectors,Follow-up lake monitoring 2017
+07/15/2017,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+07/30/2017,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/15/2017,Data Collectors,Follow-up lake monitoring 2017
+08/15/2017,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+09/13/2017,Data Collectors,Follow-up lake monitoring 2017
+07/12/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/02/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/31/2018,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+04/14/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+06/30/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+07/01/2019,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+07/29/2019,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+07/30/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/30/2019,Gene Weyer,Citizen Lake Monitoring - Water Quality - Weyers Lake - Deep Hole
+08/31/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+06/21/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+06/21/2020,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/27/2020,Gene Weyer,Bacteria + Plankton (Paid Private)
+07/27/2020,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/31/2020,Gene Weyer,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/01/2020,Data Collectors,Bacteria + Plankton (Paid Private)

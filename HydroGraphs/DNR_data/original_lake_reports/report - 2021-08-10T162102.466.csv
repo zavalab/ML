@@ -1,0 +1,45 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Loon Lake,Chippewa,1863000,WC,9,,10052427,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+168314793,05/06/2019,,,,,33.2,,55,,,,,,
+168314793,07/15/2019,3.28,NO,1,25.9,55.3,60,59,59,,,,,
+168314793,08/12/2019,4.92,NO,1.5,17.4,49.6,54,58,56,,,,,
+168314793,09/13/2019,4.92,NO,1.5,,,54,,,,,,,
+168314793,09/14/2019,,,,15.6,47.9,,58,56,,,,,
+145262939,07/15/2020,,,,22.7,32.1,,55,58,,,,,
+211630288,08/18/2020,4.9,,1.5,7.5,41.3,54,57,50,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/15/2019,0,METERS,27.24,DEGREES C,9.38,MG/L
+07/15/2019,1,METERS,27.08,DEGREES C,9.42,MG/L
+07/15/2019,2,METERS,26.99,DEGREES C,9.33,MG/L
+09/13/2019,0,METERS,17.09,DEGREES C,9.38,MG/L
+09/13/2019,1,METERS,17.07,DEGREES C,8.07,MG/L
+09/13/2019,2,METERS,17.02,DEGREES C,7.99,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/15/2019,pH probe not working
+08/12/2019,pH probe and DO probe not working. 
+09/13/2019,pH probe not working. DO probe was replaced and is now working. 
+
+
+
+
+Start Date,Group Name,Project Name
+05/06/2019,Alexander J Selle- KRISTEN RATHBUN,2019 Directed Lakes Lepsch
+07/15/2019,Alexander J Selle- KRISTEN RATHBUN,2019 Directed Lakes Lepsch
+08/12/2019,Alexander J Selle- KRISTEN RATHBUN,2019 Directed Lakes Lepsch
+09/13/2019,Alexander J Selle- KRISTEN RATHBUN,2019 Directed Lakes Lepsch
+09/14/2019,Alexander J Selle- KRISTEN RATHBUN,2019 Directed Lakes Lepsch
+07/15/2020,ALEXANDER SELLE,2019 Directed Lakes Lepsch
+08/18/2020,Alexander J Selle- ANDREW J SCHNEYER,2019 Directed Lakes Lepsch

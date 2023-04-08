@@ -1,0 +1,107 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Price,2279800,NO,51,,514003,NW,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/23/1979,,,,4.94,9,,45,47,,,,,
+223749224,01/20/2020,,,,,,,,,,,,,
+223749224,05/07/2020,6.2,NO,1.9,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+223749224,06/08/2020,6.1,NO,1.9,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+223749224,07/03/2020,7.2,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+223749224,07/10/2020,7.1,NO,2.2,,,49,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+223749224,09/05/2020,8.2,NO,2.5,,,47,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+223749224,10/07/2020,10.2,NO,3.1,,,44,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/23/1979,,,,,.2,MG/L
+01/20/2020,0,FEET,.4,DEGREES C,8.13,MG/L
+01/20/2020,1,FEET,1.31,DEGREES C,7.59,MG/L
+01/20/2020,5,FEET,4.14,DEGREES C,6.06,MG/L
+01/20/2020,10,FEET,4.28,DEGREES C,5.81,MG/L
+01/20/2020,15,FEET,4.3,DEGREES C,5.15,MG/L
+01/20/2020,25,FEET,4.3,DEGREES C,4.73,MG/L
+01/20/2020,35,FEET,4.35,DEGREES C,4.18,MG/L
+01/20/2020,40,FEET,4.52,DEGREES C,2.25,MG/L
+05/07/2020,0,FEET,11.9,DEGREES C,10.64,MG/L
+05/07/2020,5,FEET,11.85,DEGREES C,10.6,MG/L
+05/07/2020,10,FEET,11.75,DEGREES C,10.62,MG/L
+05/07/2020,15,FEET,9.96,DEGREES C,9.98,MG/L
+05/07/2020,20,FEET,7.92,DEGREES C,9.62,MG/L
+05/07/2020,25,FEET,6.42,DEGREES C,8.73,MG/L
+05/07/2020,30,FEET,5.87,DEGREES C,8.05,MG/L
+05/07/2020,45,FEET,5.73,DEGREES C,7.57,MG/L
+06/08/2020,1,FEET,21.19,DEGREES C,8.2,MG/L
+06/08/2020,5,FEET,20.89,DEGREES C,8.24,MG/L
+06/08/2020,10,FEET,14.99,DEGREES C,8.51,MG/L
+06/08/2020,15,FEET,11.5,DEGREES C,7.77,MG/L
+06/08/2020,20,FEET,9.62,DEGREES C,6.48,MG/L
+06/08/2020,25,FEET,7.68,DEGREES C,4.64,MG/L
+06/08/2020,30,FEET,7,DEGREES C,4.02,MG/L
+06/08/2020,46,FEET,6.63,DEGREES C,3.25,MG/L
+07/03/2020,0,FEET,28.52,DEGREES C,7.54,MG/L
+07/03/2020,5,FEET,26.36,DEGREES C,7.55,MG/L
+07/03/2020,10,FEET,20.05,DEGREES C,6.76,MG/L
+07/03/2020,12,FEET,17.25,DEGREES C,6.28,MG/L
+07/03/2020,15,FEET,12.7,DEGREES C,5.61,MG/L
+07/03/2020,20,FEET,9.22,DEGREES C,4.54,MG/L
+07/03/2020,25,FEET,7.61,DEGREES C,2.48,MG/L
+07/03/2020,30,FEET,7.04,DEGREES C,1.49,MG/L
+07/03/2020,46,FEET,6.82,DEGREES C,.94,MG/L
+07/10/2020,0.5,FEET,25.98,DEGREES C,5.4,MG/L
+07/10/2020,5,FEET,25.76,DEGREES C,5.35,MG/L
+07/10/2020,10,FEET,22.02,DEGREES C,4.68,MG/L
+07/10/2020,12,FEET,18.78,DEGREES C,3.72,MG/L
+07/10/2020,15,FEET,13.45,DEGREES C,3.28,MG/L
+07/10/2020,16,FEET,13.15,DEGREES C,2.84,MG/L
+07/10/2020,25,FEET,8.05,DEGREES C,1.47,MG/L
+07/10/2020,45,FEET,6.95,DEGREES C,.72,MG/L
+09/05/2020,1,FEET,19.21,DEGREES C,5.45,MG/L
+09/05/2020,5,FEET,18.99,DEGREES C,5.27,MG/L
+09/05/2020,10,FEET,18.65,DEGREES C,4.8,MG/L
+09/05/2020,15,FEET,16.2,DEGREES C,1.16,MG/L
+09/05/2020,17,FEET,12.94,DEGREES C,.13,MG/L
+09/05/2020,20,FEET,10.5,DEGREES C,.12,MG/L
+09/05/2020,25,FEET,8.23,DEGREES C,.16,MG/L
+09/05/2020,30,FEET,7.63,DEGREES C,.17,MG/L
+09/05/2020,35,FEET,7.44,DEGREES C,.2,MG/L
+09/05/2020,45,FEET,7.36,DEGREES C,.19,MG/L
+10/07/2020,1,FEET,12.29,DEGREES C,7.52,MG/L
+10/07/2020,5,FEET,12.26,DEGREES C,7.47,MG/L
+10/07/2020,7,FEET,12.23,DEGREES C,7.48,MG/L
+10/07/2020,10,FEET,12.19,DEGREES C,7.5,MG/L
+10/07/2020,12,FEET,11.97,DEGREES C,7.38,MG/L
+10/07/2020,15,FEET,11.77,DEGREES C,6.84,MG/L
+10/07/2020,25,FEET,10.05,DEGREES C,2.75,MG/L
+10/07/2020,35,FEET,7.76,DEGREES C,.42,MG/L
+10/07/2020,45,FEET,7.51,DEGREES C,.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+01/20/2020,sunny. 20 degrees. light wind. 4.5 inches snow- 4 inches slush and 12 inches of ice with crusty layers.
+06/08/2020,Sunny- 87 F- Gusty South Wind 10-25mph
+Kris Mineau was my assistant
+07/03/2020,Helper Thomas Mineau
+09/05/2020,Mostly Sunny- wind 10mph
+Helper Kris Mineau
+10/07/2020,Partly to mostly sunny- Wind N at 5-10mph- Thomas Mineau was assisting
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+01/20/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole
+05/07/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole
+06/08/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole
+07/03/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole
+07/10/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole
+09/05/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole
+10/07/2020,James Mineau,Citizen Lake Monitoring - Water Quality - Bass Lake (4002w15) - Deep Hole

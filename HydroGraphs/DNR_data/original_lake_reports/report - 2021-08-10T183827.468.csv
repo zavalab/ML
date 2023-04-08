@@ -1,0 +1,181 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Aldridge Lake,Oneida,967400,NO,44,,443052,NE,DRAINED
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/16/1979,,,,,,,,,,,,,
+7000068,08/29/2001,,,,5.8,,,,48,,,,,
+8188599,08/29/2001,3,NO,0.9,,,61,,,,,,,
+1,08/14/2007,5.1,NO,1.55,3.54,29,54,54,44,,,,,
+83293435,08/17/2013,4.75,NO,1.4,,,55,,,NORMAL,3,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,09/03/2013,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/01/2014,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83293435,07/10/2014,4.25,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/02/2014,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/08/2014,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/31/2014,4, ,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+83293435,09/09/2014,3.75,NO,1.1,,,58,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,06/25/2015,4.3,NO,1.3,,,56,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/04/2015,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83293435,07/11/2015,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/17/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/14/2015,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,09/03/2015,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+103119417,09/09/2015,22,NO,6.7,,,33,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+83293435,09/25/2015,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,11/08/2015,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,11/29/2015,, ,,,,,,,,,,,
+83293435,12/17/2015,, ,,,,,,,,,,,
+83293435,05/06/2016,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/03/2016,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,09/22/2016,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,10/01/2016,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/31/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,09/29/2017,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/07/2018,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/16/2018,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/01/2018,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,10/04/2018,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,05/29/2019,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+83293435,07/07/2019,5,NO,1.5,,,54,,,NORMAL,17,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,07/25/2019,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/05/2019,,,,,,,,,,,,,
+83293435,08/25/2019,4,NO,1.2,,,57,,,NORMAL,9,MURKY,BROWN,2-Very minor aesthetic problems
+83293435,07/05/2020,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+83293435,07/07/2020,4.3,NO,1.3,,,56,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+83293435,08/23/2020,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/16/1979,,,19,C,,
+08/29/2001,0,FEET,22,DEGREES C,7.94,MG/L
+08/29/2001,2,FEET,21.7,DEGREES C,7.83,MG/L
+08/29/2001,4,FEET,21.8,DEGREES C,7.85,MG/L
+08/29/2001,6,FEET,21.7,DEGREES C,7.8,MG/L
+08/29/2001,8,FEET,21.6,DEGREES C,7.79,MG/L
+08/29/2001,10,FEET,20.6,DEGREES C,4.04,MG/L
+08/29/2001,12,FEET,19,DEGREES C,1.25,MG/L
+08/14/2007,0.5,METERS,24.2,DEGREES C,7.2,MG/L
+08/14/2007,1,METERS,23.6,DEGREES C,6.8,MG/L
+08/14/2007,2,METERS,23.4,DEGREES C,6.4,MG/L
+08/14/2007,3,METERS,23.1,DEGREES C,5.4,MG/L
+08/14/2007,4,METERS,20.6,DEGREES C,0.4,MG/L
+07/17/2015,3,FEET,68,DEGREES F,,
+07/17/2015,6,FEET,67,DEGREES F,,
+08/14/2015,3,FEET,68,DEGREES F,,
+08/14/2015,6,FEET,67,DEGREES F,,
+09/03/2015,3,FEET,73,DEGREES F,,
+09/03/2015,6,FEET,72,DEGREES F,,
+09/03/2015,10,FEET,70,DEGREES F,,
+09/09/2015,1,FEET,70.9,DEGREES F,8.7,MG/L
+09/09/2015,4,FEET,71.5,DEGREES F,8.6,MG/L
+09/09/2015,7,FEET,71.7,DEGREES F,8.56,MG/L
+09/09/2015,10,FEET,71.7,DEGREES F,8.53,MG/L
+09/09/2015,13,FEET,71.8,DEGREES F,8.49,MG/L
+09/09/2015,16,FEET,71.8,DEGREES F,8.44,MG/L
+09/09/2015,19,FEET,69.8,DEGREES F,8.68,MG/L
+09/09/2015,22,FEET,68.9,DEGREES F,8.11,MG/L
+09/09/2015,25,FEET,67.4,DEGREES F,6.73,MG/L
+09/25/2015,3,FEET,65,DEGREES F,,
+09/25/2015,6,FEET,66,DEGREES F,,
+09/25/2015,10,FEET,66,DEGREES F,,
+11/08/2015,3,FEET,46,DEGREES F,,
+11/08/2015,6,FEET,46,DEGREES F,,
+11/08/2015,10,FEET,46,DEGREES F,,
+05/06/2016,3,FEET,60,DEGREES F,,
+05/06/2016,6,FEET,58,DEGREES F,,
+05/06/2016,10,FEET,57,DEGREES F,,
+07/03/2016,3,FEET,74,DEGREES F,,
+07/03/2016,6,FEET,73,DEGREES F,,
+07/03/2016,10,FEET,71,DEGREES F,,
+09/22/2016,3,FEET,68,DEGREES F,,
+09/22/2016,6,FEET,66,DEGREES F,,
+09/22/2016,10,FEET,66,DEGREES F,,
+10/01/2016,3,FEET,60,DEGREES F,,
+10/01/2016,6,FEET,60,DEGREES F,,
+10/01/2016,10,FEET,60,DEGREES F,,
+07/31/2017,3,FEET,75,DEGREES F,,
+07/31/2017,6,FEET,74,DEGREES F,,
+07/31/2017,10,FEET,71,DEGREES F,,
+09/29/2017,3,FEET,70,DEGREES F,,
+09/29/2017,6,FEET,70,DEGREES F,,
+09/29/2017,10,FEET,67,DEGREES F,,
+08/05/2019,3,FEET,77,DEGREES F,7.54,MG/L
+08/05/2019,6,FEET,75.3,DEGREES F,7.47,MG/L
+08/05/2019,9,FEET,72,DEGREES F,4.77,MG/L
+08/05/2019,12,FEET,69,DEGREES F,.7,MG/L
+08/05/2019,15,FEET,66.7,DEGREES F,.72,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/16/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/2001,INTEGRATED SAMPLER- 2 METER SAMPLE    
+07/10/2014,Pair of Loons on lake with 2 young ones riding on the back of one of them
+07/17/2015,Air temp 80 degrees. Wind was from the west and was medium.  Beautiful day- saw 1 loon.
+08/14/2015,Clear day.  67 degrees.
+09/03/2015,Nice day.  Temperature is 74 degrees.  Light winds from the east.  Saw 2 loons.
+09/25/2015,Very nice day.  Calm day.  Temperature 70 degrees.  Saw 1 loon.  Noticed that weeds were less and were receding from several shorelines.
+11/08/2015,44 degrees.  Clear blue skies.  Windy.  Saw 1 Eagle.  Lake had virtually no visible weeds on surface.
+11/29/2015,Observed that the entire lake had froze over.
+12/17/2015,Observed that most of Aldridge Lake had reopened due to unseasonably warm weather and heavy rains.
+
+Lake was observed again on December 24th as frozen over again.
+05/06/2016,Temperature is 80 degrees- sunny- windy.  Winds out of the west.  No weeds present.  Saw 2 loons.
+07/03/2016,Nice clear day.  Sunny and 76 degrees- no wind.
+09/22/2016,68 degrees.  Partly cloudy- light winds.  Saw 1 loon and 1 heron.
+10/01/2016,56 degrees.  Partly cloudy.  Calm winds.
+07/31/2017,Calm sunny day.  75 degrees.
+09/29/2017,Nice day.  Partly cloudy 55 degrees.  Calm winds.
+07/07/2018,4th of July week- lots of boat traffic for fishing- tubing- pleasure riding-  also jet ski traffic.  Nice day- 76- clear- breezy. 
+
+
+
+
+Start Date,Group Name,Project Name
+08/16/1979,Data Collectors,Migrated from STORET Legacy
+08/29/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/29/2001,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/14/2007,Data Collectors,National Lake Survey - Index Sampling
+08/17/2013,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+09/03/2013,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/01/2014,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/10/2014,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/02/2014,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/08/2014,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/31/2014,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+09/09/2014,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+06/25/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/04/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/11/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/17/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/14/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+09/03/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+09/09/2015,Stephanie Boismenue and Sara Mills,Lake Water Quality Monitoring - Oneida County Land and Water Dept.
+09/25/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+11/08/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+11/29/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+12/17/2015,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+05/06/2016,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/03/2016,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+09/22/2016,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+10/01/2016,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/31/2017,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+09/29/2017,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/07/2018,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/16/2018,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/01/2018,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+10/04/2018,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+05/29/2019,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/07/2019,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/25/2019,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/05/2019,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/25/2019,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/05/2020,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+07/07/2020,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole
+08/23/2020,Hank Derleth,Citizen Lake Monitoring - Water Quality - Aldridge Lake - Deep Hole

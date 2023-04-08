@@ -1,0 +1,592 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lynx Lake,Vilas,2954500,NO,64,,643417,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190458,05/11/1993,12,NO,3.6,,,41,,,NORMAL,,,,1-Beautiful, could not be nicer
+8190458,05/25/1993,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190458,06/05/1993,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190458,06/25/1993,12.5,NO,3.8,,,41,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190458,07/02/1993,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190458,07/30/1993,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,
+8190458,08/16/1993,15,NO,4.6,,,38,,,DOWN 1' FROM HIGH,,CLEAR,BLUE,
+8190458,08/29/1993,13.5,NO,4.1,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190458,09/11/1993,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190458,05/06/1994,14,NO,4.3,,,39,,,HIGH,,,GREEN,
+48069782,07/08/2008,,,,,,,,,,,,,
+122938209,10/04/2016,10.5,NO,3.2,1.64,10.1,43,46,39,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+122938209,10/24/2016,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,04/22/2017,14,NO,4.3,,17.9,39,50,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,05/14/2017,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,06/01/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,06/09/2017,17,NO,5.2,,,36,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,06/27/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,06/29/2017,,,,6.15,15.8,,50,49,,,,,
+122938209,07/07/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/20/2017,10,NO,3,2.2,12.7,44,48,41,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+122938209,08/08/2017,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/12/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,08/29/2017,,,,2.41,9.87,,46,41,,,,,
+122938209,08/29/2017,11.5,NO,3.5,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,09/19/2017,,,,,,,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,09/21/2017,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,09/25/2017,,,,,,,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/14/2018,,,,,8.46,,45,,,,,,
+122938209,05/14/2018,15,NO,4.6,,,38,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,06/23/2018,,,,2.92,16.1,,50,43,,,,,
+122938209,06/23/2018,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/02/2018,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/06/2018,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/12/2018,,,,,,,,,,,,,
+122938209,07/14/2018,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/22/2018,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/23/2018,,,,2.44,9.62,,46,42,,,,,
+122938209,07/30/2018,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/11/2018,,,,,,,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/28/2018,,,,2.32,10.6,,46,41,,,,,
+122938209,08/31/2018,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,09/06/2018,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,04/28/2019,,,,,14.7,,49,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,05/29/2019,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,06/30/2019,,,,2.79,11.6,,47,43,,,,,
+122938209,07/04/2019,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,07/08/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,07/13/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,07/29/2019,11,NO,3.3,2.72,11.8,43,47,42,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/02/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/21/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/25/2019,,,,2.28,10.7,,47,41,,,,,
+122938209,06/09/2020,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,06/25/2020,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+122938209,06/28/2020,,,,1.97,9.34,,45,40,,,,,
+122938209,07/01/2020,15.5,NO,4.7,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/04/2020,13,NO,4,,,40,,,,,,,
+122938209,07/11/2020,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,07/21/2020,,,,3.24,13.6,,48,44,,,,,
+122938209,08/25/2020,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+122938209,08/30/2020,14.5,NO,4.4,1.9,12.2,39,48,40,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/08/2008,1,FEET,73.3,DEGREES F,8.29,MG/L
+07/08/2008,2,FEET,73.3,DEGREES F,8.25,MG/L
+07/08/2008,3,FEET,73.2,DEGREES F,8.23,MG/L
+07/08/2008,4,FEET,72.6,DEGREES F,8.19,MG/L
+07/08/2008,5,FEET,71.7,DEGREES F,8.26,MG/L
+07/08/2008,6,FEET,71.5,DEGREES F,8.17,MG/L
+07/08/2008,7,FEET,71.3,DEGREES F,8.19,MG/L
+07/08/2008,8,FEET,70.9,DEGREES F,8.03,MG/L
+07/08/2008,9,FEET,70.7,DEGREES F,8.12,MG/L
+07/08/2008,10,FEET,70.8,DEGREES F,8.13,MG/L
+07/08/2008,11,FEET,70.2,DEGREES F,8.03,MG/L
+07/08/2008,12,FEET,70.2,DEGREES F,7.97,MG/L
+07/08/2008,13,FEET,70,DEGREES F,7.99,MG/L
+07/08/2008,14,FEET,69.5,DEGREES F,8.01,MG/L
+07/08/2008,15,FEET,68.5,DEGREES F,7.85,MG/L
+07/08/2008,16,FEET,67.5,DEGREES F,7.64,MG/L
+07/08/2008,17,FEET,66.4,DEGREES F,7.43,MG/L
+07/08/2008,18,FEET,64.1,DEGREES F,7.03,MG/L
+07/08/2008,19,FEET,62,DEGREES F,6.53,MG/L
+07/08/2008,20,FEET,59.8,DEGREES F,6.23,MG/L
+07/08/2008,21,FEET,55.3,DEGREES F,4.87,MG/L
+07/08/2008,22,FEET,53.2,DEGREES F,4.35,MG/L
+07/08/2008,23,FEET,48.9,DEGREES F,4.06,MG/L
+07/08/2008,24,FEET,48.6,DEGREES F,2.86,MG/L
+07/08/2008,25,FEET,487.4,DEGREES F,2.47,MG/L
+10/04/2016,3,FEET,60.6,DEGREES F,,
+10/04/2016,6,FEET,60.4,DEGREES F,,
+10/04/2016,9,FEET,60.2,DEGREES F,,
+10/04/2016,12,FEET,60,DEGREES F,,
+10/04/2016,15,FEET,60,DEGREES F,,
+10/04/2016,18,FEET,60,DEGREES F,,
+10/04/2016,21,FEET,60,DEGREES F,,
+10/04/2016,24,FEET,60,DEGREES F,,
+10/04/2016,27,FEET,59.7,DEGREES F,,
+10/04/2016,30,FEET,59,DEGREES F,,
+10/04/2016,33,FEET,49.3,DEGREES F,,
+10/04/2016,36,FEET,46.2,DEGREES F,,
+10/04/2016,39,FEET,45.5,DEGREES F,,
+10/24/2016,3,FEET,52.1,DEGREES F,,
+10/24/2016,6,FEET,51.4,DEGREES F,,
+10/24/2016,9,FEET,51.2,DEGREES F,,
+10/24/2016,12,FEET,51.2,DEGREES F,,
+10/24/2016,15,FEET,51.2,DEGREES F,,
+10/24/2016,18,FEET,51.2,DEGREES F,,
+10/24/2016,21,FEET,51.2,DEGREES F,,
+10/24/2016,24,FEET,51.2,DEGREES F,,
+10/24/2016,27,FEET,51,DEGREES F,,
+10/24/2016,30,FEET,51,DEGREES F,,
+10/24/2016,33,FEET,48.2,DEGREES F,,
+10/24/2016,36,FEET,44.9,DEGREES F,,
+10/24/2016,39,FEET,44,DEGREES F,,
+10/24/2016,42,FEET,43.8,DEGREES F,,
+10/24/2016,45,FEET,43.8,DEGREES F,,
+10/24/2016,48,FEET,43.7,DEGREES F,,
+04/22/2017,3,FEET,46.7,DEGREES F,,
+04/22/2017,6,FEET,45.8,DEGREES F,,
+04/22/2017,9,FEET,45.3,DEGREES F,,
+04/22/2017,12,FEET,45.1,DEGREES F,,
+04/22/2017,15,FEET,44.7,DEGREES F,,
+04/22/2017,18,FEET,44.6,DEGREES F,,
+04/22/2017,21,FEET,44.4,DEGREES F,,
+04/22/2017,24,FEET,44,DEGREES F,,
+04/22/2017,27,FEET,43.8,DEGREES F,,
+04/22/2017,30,FEET,43.8,DEGREES F,,
+04/22/2017,33,FEET,43.5,DEGREES F,,
+04/22/2017,36,FEET,42.2,DEGREES F,,
+04/22/2017,39,FEET,41.3,DEGREES F,,
+04/22/2017,42,FEET,41.3,DEGREES F,,
+05/14/2017,3,FEET,58.2,DEGREES F,,
+05/14/2017,6,FEET,56.6,DEGREES F,,
+05/14/2017,9,FEET,56.1,DEGREES F,,
+05/14/2017,12,FEET,53.6,DEGREES F,,
+05/14/2017,15,FEET,50,DEGREES F,,
+05/14/2017,18,FEET,48.2,DEGREES F,,
+05/14/2017,21,FEET,47.4,DEGREES F,,
+05/14/2017,24,FEET,45.8,DEGREES F,,
+05/14/2017,27,FEET,44.9,DEGREES F,,
+05/14/2017,30,FEET,44.4,DEGREES F,,
+05/14/2017,33,FEET,44,DEGREES F,,
+05/14/2017,36,FEET,43.8,DEGREES F,,
+05/14/2017,39,FEET,43.5,DEGREES F,,
+05/14/2017,42,FEET,43.1,DEGREES F,,
+05/14/2017,45,FEET,43.1,DEGREES F,,
+05/14/2017,48,FEET,43,DEGREES F,,
+06/01/2017,3,FEET,59,DEGREES F,,
+06/01/2017,6,FEET,57.9,DEGREES F,,
+06/01/2017,9,FEET,57.5,DEGREES F,,
+06/01/2017,12,FEET,54.5,DEGREES F,,
+06/01/2017,15,FEET,53,DEGREES F,,
+06/01/2017,18,FEET,52.1,DEGREES F,,
+06/01/2017,21,FEET,51.8,DEGREES F,,
+06/01/2017,24,FEET,49.2,DEGREES F,,
+06/01/2017,27,FEET,46.7,DEGREES F,,
+06/01/2017,30,FEET,44.4,DEGREES F,,
+06/01/2017,33,FEET,44,DEGREES F,,
+06/01/2017,36,FEET,44,DEGREES F,,
+06/01/2017,39,FEET,44,DEGREES F,,
+06/01/2017,42,FEET,43.8,DEGREES F,,
+06/01/2017,45,FEET,43.5,DEGREES F,,
+06/09/2017,3,FEET,72.9,DEGREES F,9.2,MG/L
+06/09/2017,6,FEET,70.9,DEGREES F,9.3,MG/L
+06/09/2017,9,FEET,69.8,DEGREES F,9.3,MG/L
+06/09/2017,12,FEET,61.9,DEGREES F,9,MG/L
+06/09/2017,15,FEET,56.6,DEGREES F,9,MG/L
+06/09/2017,18,FEET,53.8,DEGREES F,8.1,MG/L
+06/09/2017,21,FEET,52.5,DEGREES F,7.7,MG/L
+06/09/2017,24,FEET,50.6,DEGREES F,7.4,MG/L
+06/09/2017,27,FEET,47.9,DEGREES F,7.2,MG/L
+06/09/2017,30,FEET,46.2,DEGREES F,6.5,MG/L
+06/09/2017,33,FEET,45.3,DEGREES F,5.3,MG/L
+06/09/2017,36,FEET,44.7,DEGREES F,3.9,MG/L
+06/09/2017,39,FEET,44.4,DEGREES F,3.9,MG/L
+06/09/2017,42,FEET,44,DEGREES F,3.1,MG/L
+06/09/2017,45,FEET,43.9,DEGREES F,2.9,MG/L
+06/09/2017,48,FEET,43.8,DEGREES F,.1,MG/L
+06/27/2017,3,FEET,66.9,DEGREES F,,
+06/27/2017,6,FEET,66,DEGREES F,,
+06/27/2017,9,FEET,65.4,DEGREES F,,
+06/27/2017,12,FEET,64.7,DEGREES F,,
+06/27/2017,15,FEET,60.8,DEGREES F,,
+06/27/2017,18,FEET,54.6,DEGREES F,,
+06/27/2017,21,FEET,51.8,DEGREES F,,
+06/27/2017,24,FEET,49.4,DEGREES F,,
+06/27/2017,27,FEET,47.1,DEGREES F,,
+06/27/2017,30,FEET,45.6,DEGREES F,,
+06/27/2017,33,FEET,44.6,DEGREES F,,
+06/27/2017,36,FEET,44.2,DEGREES F,,
+06/27/2017,39,FEET,44,DEGREES F,,
+06/27/2017,42,FEET,43.6,DEGREES F,,
+06/27/2017,45,FEET,43.6,DEGREES F,,
+06/27/2017,48,FEET,43.6,DEGREES F,,
+07/07/2017,3,FEET,72.8,DEGREES F,,
+07/07/2017,6,FEET,72.6,DEGREES F,,
+07/07/2017,9,FEET,71.9,DEGREES F,,
+07/07/2017,12,FEET,69.8,DEGREES F,,
+07/07/2017,15,FEET,64.2,DEGREES F,,
+07/07/2017,18,FEET,55.2,DEGREES F,,
+07/07/2017,21,FEET,51.8,DEGREES F,,
+07/07/2017,24,FEET,49.4,DEGREES F,,
+07/07/2017,27,FEET,46.7,DEGREES F,,
+07/07/2017,30,FEET,45.6,DEGREES F,,
+07/07/2017,33,FEET,44.9,DEGREES F,,
+07/07/2017,36,FEET,44.6,DEGREES F,,
+07/07/2017,39,FEET,44.2,DEGREES F,,
+07/07/2017,42,FEET,44,DEGREES F,,
+07/07/2017,45,FEET,44,DEGREES F,,
+07/07/2017,48,FEET,43.8,DEGREES F,,
+08/08/2017,3,FEET,71.6,DEGREES F,8.45,MG/L
+08/08/2017,6,FEET,70.3,DEGREES F,8.41,MG/L
+08/08/2017,9,FEET,69.2,DEGREES F,8.34,MG/L
+08/08/2017,12,FEET,68.9,DEGREES F,8.12,MG/L
+08/08/2017,15,FEET,68.1,DEGREES F,7.37,MG/L
+08/08/2017,18,FEET,63.4,DEGREES F,2.55,MG/L
+08/08/2017,21,FEET,54.9,DEGREES F,.53,MG/L
+08/08/2017,24,FEET,52.2,DEGREES F,.36,MG/L
+08/08/2017,27,FEET,49.2,DEGREES F,.1,MG/L
+08/08/2017,30,FEET,47.8,DEGREES F,.06,MG/L
+08/08/2017,33,FEET,46.4,DEGREES F,.05,MG/L
+08/08/2017,36,FEET,45.2,DEGREES F,.04,MG/L
+08/08/2017,39,FEET,44.9,DEGREES F,.03,MG/L
+08/08/2017,42,FEET,44.9,DEGREES F,.02,MG/L
+08/29/2017,3,FEET,69.4,DEGREES F,,
+08/29/2017,5,FEET,67,DEGREES F,,
+08/29/2017,10,FEET,66.2,DEGREES F,,
+08/29/2017,20,FEET,60.2,DEGREES F,,
+08/29/2017,30,FEET,46.2,DEGREES F,,
+08/29/2017,40,FEET,44.4,DEGREES F,,
+08/29/2017,48,FEET,44.4,DEGREES F,,
+09/19/2017,3,FEET,68.3,DEGREES F,9,MG/L
+09/19/2017,6,FEET,67.3,DEGREES F,9.03,MG/L
+09/19/2017,9,FEET,66.3,DEGREES F,9.02,MG/L
+09/19/2017,12,FEET,64.7,DEGREES F,8.34,MG/L
+09/19/2017,15,FEET,63.3,DEGREES F,7.81,MG/L
+09/19/2017,18,FEET,62.4,DEGREES F,6.8,MG/L
+09/19/2017,21,FEET,60.7,DEGREES F,5.91,MG/L
+09/19/2017,24,FEET,55.5,DEGREES F,.11,MG/L
+09/19/2017,27,FEET,50.7,DEGREES F,.08,MG/L
+09/19/2017,30,FEET,48,DEGREES F,.04,MG/L
+09/19/2017,33,FEET,46.5,DEGREES F,.04,MG/L
+09/19/2017,36,FEET,45.5,DEGREES F,.02,MG/L
+09/19/2017,39,FEET,45.1,DEGREES F,.02,MG/L
+09/19/2017,42,FEET,44.8,DEGREES F,.01,MG/L
+09/19/2017,45,FEET,44.7,DEGREES F,.01,MG/L
+09/19/2017,48,FEET,44.7,DEGREES F,0,MG/L
+05/14/2018,3,FEET,52.5,DEGREES F,,
+05/14/2018,6,FEET,50.7,DEGREES F,,
+05/14/2018,9,FEET,50,DEGREES F,,
+05/14/2018,12,FEET,47.8,DEGREES F,,
+05/14/2018,15,FEET,46,DEGREES F,,
+05/14/2018,18,FEET,44.7,DEGREES F,,
+05/14/2018,21,FEET,43.8,DEGREES F,,
+05/14/2018,24,FEET,42.2,DEGREES F,,
+05/14/2018,27,FEET,41.3,DEGREES F,,
+05/14/2018,30,FEET,40.8,DEGREES F,,
+05/14/2018,33,FEET,40.2,DEGREES F,,
+05/14/2018,36,FEET,39.9,DEGREES F,,
+05/14/2018,39,FEET,39.9,DEGREES F,,
+05/14/2018,42,FEET,39.9,DEGREES F,,
+05/14/2018,45,FEET,39.7,DEGREES F,,
+05/14/2018,48,FEET,39.7,DEGREES F,,
+06/23/2018,3,FEET,74.1,DEGREES F,,
+06/23/2018,6,FEET,73.3,DEGREES F,,
+06/23/2018,9,FEET,70.8,DEGREES F,,
+06/23/2018,12,FEET,66.2,DEGREES F,,
+06/23/2018,15,FEET,67.2,DEGREES F,,
+06/23/2018,18,FEET,48.9,DEGREES F,,
+06/23/2018,21,FEET,46.9,DEGREES F,,
+06/23/2018,24,FEET,45.1,DEGREES F,,
+06/23/2018,27,FEET,43.1,DEGREES F,,
+06/23/2018,30,FEET,41.9,DEGREES F,,
+06/23/2018,33,FEET,41,DEGREES F,,
+06/23/2018,36,FEET,40.6,DEGREES F,,
+06/23/2018,39,FEET,40.4,DEGREES F,,
+06/23/2018,42,FEET,40.4,DEGREES F,,
+06/23/2018,45,FEET,40.4,DEGREES F,,
+06/23/2018,48,FEET,40.4,DEGREES F,,
+06/23/2018,50,FEET,40.4,DEGREES F,,
+07/02/2018,3,FEET,74.6,DEGREES F,,
+07/02/2018,6,FEET,73.7,DEGREES F,,
+07/02/2018,9,FEET,73.7,DEGREES F,,
+07/02/2018,12,FEET,65.4,DEGREES F,,
+07/02/2018,15,FEET,56.1,DEGREES F,,
+07/02/2018,18,FEET,49.4,DEGREES F,,
+07/02/2018,21,FEET,47.3,DEGREES F,,
+07/02/2018,24,FEET,45.6,DEGREES F,,
+07/02/2018,27,FEET,44,DEGREES F,,
+07/02/2018,30,FEET,42.2,DEGREES F,,
+07/02/2018,33,FEET,41.3,DEGREES F,,
+07/02/2018,36,FEET,41,DEGREES F,,
+07/02/2018,39,FEET,40.8,DEGREES F,,
+07/02/2018,42,FEET,40.8,DEGREES F,,
+07/02/2018,45,FEET,40.8,DEGREES F,,
+07/12/2018,3,FEET,74.8,DEGREES F,8.56,MG/L
+07/12/2018,6,FEET,74.8,DEGREES F,8.48,MG/L
+07/12/2018,9,FEET,74.5,DEGREES F,8.36,MG/L
+07/12/2018,12,FEET,72.2,DEGREES F,8.34,MG/L
+07/12/2018,15,FEET,64.4,DEGREES F,8.07,MG/L
+07/12/2018,18,FEET,53.2,DEGREES F,6.32,MG/L
+07/12/2018,21,FEET,49.3,DEGREES F,4.52,MG/L
+07/12/2018,24,FEET,47.1,DEGREES F,5.14,MG/L
+07/12/2018,27,FEET,44.6,DEGREES F,3.13,MG/L
+07/12/2018,30,FEET,42.8,DEGREES F,2.01,MG/L
+07/12/2018,33,FEET,41.8,DEGREES F,.49,MG/L
+07/12/2018,36,FEET,41.4,DEGREES F,.06,MG/L
+07/12/2018,39,FEET,41.1,DEGREES F,.04,MG/L
+07/12/2018,42,FEET,41.1,DEGREES F,.03,MG/L
+07/22/2018,3,FEET,71.6,DEGREES F,,
+07/22/2018,6,FEET,70.8,DEGREES F,,
+07/22/2018,9,FEET,70.7,DEGREES F,,
+07/22/2018,12,FEET,70.7,DEGREES F,,
+07/22/2018,15,FEET,70.5,DEGREES F,,
+07/22/2018,18,FEET,52.5,DEGREES F,,
+07/22/2018,21,FEET,48.2,DEGREES F,,
+07/22/2018,24,FEET,45.8,DEGREES F,,
+07/22/2018,27,FEET,43.8,DEGREES F,,
+07/22/2018,30,FEET,42.6,DEGREES F,,
+07/22/2018,33,FEET,41.7,DEGREES F,,
+07/22/2018,36,FEET,41.3,DEGREES F,,
+07/22/2018,39,FEET,41,DEGREES F,,
+07/22/2018,42,FEET,41,DEGREES F,,
+07/22/2018,45,FEET,41,DEGREES F,,
+07/22/2018,48,FEET,41,DEGREES F,,
+08/11/2018,3,FEET,75.5,DEGREES F,8.9,MG/L
+08/11/2018,6,FEET,74.2,DEGREES F,9.09,MG/L
+08/11/2018,9,FEET,72.9,DEGREES F,8.97,MG/L
+08/11/2018,12,FEET,71.5,DEGREES F,8.7,MG/L
+08/11/2018,15,FEET,68.3,DEGREES F,7.68,MG/L
+08/11/2018,18,FEET,59.6,DEGREES F,3.7,MG/L
+08/11/2018,21,FEET,51.5,DEGREES F,2.16,MG/L
+08/11/2018,24,FEET,48.4,DEGREES F,2.02,MG/L
+08/11/2018,27,FEET,44.7,DEGREES F,.1,MG/L
+08/11/2018,30,FEET,43.7,DEGREES F,.05,MG/L
+08/11/2018,33,FEET,42.6,DEGREES F,.03,MG/L
+08/11/2018,36,FEET,42.2,DEGREES F,.03,MG/L
+08/11/2018,39,FEET,41.7,DEGREES F,.02,MG/L
+08/11/2018,42,FEET,41.6,DEGREES F,.02,MG/L
+08/11/2018,45,FEET,41.5,DEGREES F,.02,MG/L
+09/06/2018,3,FEET,69.2,DEGREES F,,
+09/06/2018,6,FEET,68.3,DEGREES F,,
+09/06/2018,9,FEET,68.1,DEGREES F,,
+09/06/2018,12,FEET,68,DEGREES F,,
+09/06/2018,15,FEET,67.8,DEGREES F,,
+09/06/2018,18,FEET,63.3,DEGREES F,,
+09/06/2018,21,FEET,53.6,DEGREES F,,
+09/06/2018,24,FEET,48,DEGREES F,,
+09/06/2018,27,FEET,45.3,DEGREES F,,
+09/06/2018,30,FEET,43.5,DEGREES F,,
+09/06/2018,33,FEET,42.6,DEGREES F,,
+09/06/2018,36,FEET,42,DEGREES F,,
+09/06/2018,39,FEET,41.7,DEGREES F,,
+09/06/2018,42,FEET,41.5,DEGREES F,,
+05/29/2019,3,FEET,56.1,DEGREES F,,
+05/29/2019,6,FEET,54.6,DEGREES F,,
+05/29/2019,9,FEET,53.9,DEGREES F,,
+05/29/2019,12,FEET,53.4,DEGREES F,,
+05/29/2019,15,FEET,52.3,DEGREES F,,
+05/29/2019,18,FEET,50,DEGREES F,,
+05/29/2019,21,FEET,48.2,DEGREES F,,
+05/29/2019,24,FEET,46.2,DEGREES F,,
+05/29/2019,27,FEET,43.8,DEGREES F,,
+05/29/2019,30,FEET,42.8,DEGREES F,,
+05/29/2019,33,FEET,42,DEGREES F,,
+05/29/2019,36,FEET,41.7,DEGREES F,,
+05/29/2019,39,FEET,41.5,DEGREES F,,
+05/29/2019,42,FEET,41.5,DEGREES F,,
+05/29/2019,45,FEET,41.3,DEGREES F,,
+05/29/2019,48,FEET,41.3,DEGREES F,,
+07/04/2019,3,FEET,76.8,DEGREES F,,
+07/04/2019,6,FEET,74.1,DEGREES F,,
+07/04/2019,9,FEET,69,DEGREES F,,
+07/04/2019,12,FEET,64.4,DEGREES F,,
+07/04/2019,15,FEET,56.1,DEGREES F,,
+07/04/2019,18,FEET,51.6,DEGREES F,,
+07/04/2019,21,FEET,49.6,DEGREES F,,
+07/04/2019,24,FEET,47.4,DEGREES F,,
+07/04/2019,27,FEET,45.3,DEGREES F,,
+07/04/2019,30,FEET,43.5,DEGREES F,,
+07/04/2019,33,FEET,42.6,DEGREES F,,
+07/04/2019,36,FEET,42.2,DEGREES F,,
+07/04/2019,39,FEET,42,DEGREES F,,
+07/04/2019,42,FEET,42,DEGREES F,,
+07/29/2019,3,FEET,74.6,DEGREES F,,
+07/29/2019,6,FEET,73.7,DEGREES F,,
+07/29/2019,9,FEET,73.4,DEGREES F,,
+07/29/2019,12,FEET,72.5,DEGREES F,,
+07/29/2019,15,FEET,67.4,DEGREES F,,
+07/29/2019,18,FEET,53.6,DEGREES F,,
+07/29/2019,21,FEET,51,DEGREES F,,
+07/29/2019,24,FEET,48.2,DEGREES F,,
+07/29/2019,27,FEET,46.5,DEGREES F,,
+07/29/2019,30,FEET,44.4,DEGREES F,,
+07/29/2019,33,FEET,43.1,DEGREES F,,
+07/29/2019,36,FEET,42.8,DEGREES F,,
+07/29/2019,39,FEET,42.4,DEGREES F,,
+07/29/2019,42,FEET,42.2,DEGREES F,,
+07/29/2019,45,FEET,42.2,DEGREES F,,
+07/29/2019,48,FEET,42.2,DEGREES F,,
+08/21/2019,3,FEET,70.5,DEGREES F,,
+08/21/2019,6,FEET,70.5,DEGREES F,,
+08/21/2019,9,FEET,70.3,DEGREES F,,
+08/21/2019,12,FEET,70.1,DEGREES F,,
+08/21/2019,15,FEET,68.7,DEGREES F,,
+08/21/2019,18,FEET,57.5,DEGREES F,,
+08/21/2019,21,FEET,51.8,DEGREES F,,
+08/21/2019,24,FEET,49.6,DEGREES F,,
+08/21/2019,27,FEET,46.7,DEGREES F,,
+08/21/2019,30,FEET,44.6,DEGREES F,,
+08/21/2019,33,FEET,43.5,DEGREES F,,
+08/21/2019,36,FEET,42.8,DEGREES F,,
+08/21/2019,39,FEET,42.8,DEGREES F,,
+08/21/2019,42,FEET,42.6,DEGREES F,,
+08/21/2019,45,FEET,42.4,DEGREES F,,
+06/09/2020,3,FEET,68.3,DEGREES F,,
+06/09/2020,6,FEET,67.8,DEGREES F,,
+06/09/2020,9,FEET,62.9,DEGREES F,,
+06/09/2020,12,FEET,56.4,DEGREES F,,
+06/09/2020,15,FEET,50.3,DEGREES F,,
+06/09/2020,18,FEET,49.2,DEGREES F,,
+06/09/2020,21,FEET,48.3,DEGREES F,,
+06/09/2020,24,FEET,46.4,DEGREES F,,
+06/09/2020,27,FEET,43.8,DEGREES F,,
+06/09/2020,30,FEET,42.6,DEGREES F,,
+06/09/2020,33,FEET,42,DEGREES F,,
+06/09/2020,36,FEET,41.7,DEGREES F,,
+06/09/2020,39,FEET,41.7,DEGREES F,,
+06/09/2020,42,FEET,41.5,DEGREES F,,
+06/25/2020,3,FEET,70.1,DEGREES F,,
+06/25/2020,6,FEET,69.2,DEGREES F,,
+06/25/2020,9,FEET,68.5,DEGREES F,,
+06/25/2020,12,FEET,66,DEGREES F,,
+06/25/2020,15,FEET,61.7,DEGREES F,,
+06/25/2020,18,FEET,51,DEGREES F,,
+06/25/2020,21,FEET,49.2,DEGREES F,,
+06/25/2020,24,FEET,47.3,DEGREES F,,
+06/25/2020,27,FEET,44.6,DEGREES F,,
+06/25/2020,30,FEET,42.8,DEGREES F,,
+06/25/2020,33,FEET,42.2,DEGREES F,,
+06/25/2020,36,FEET,42.2,DEGREES F,,
+06/25/2020,39,FEET,42,DEGREES F,,
+06/25/2020,42,FEET,41.9,DEGREES F,,
+07/01/2020,3,FEET,76.3,DEGREES F,8.21,MG/L
+07/01/2020,6,FEET,76.2,DEGREES F,8.17,MG/L
+07/01/2020,9,FEET,74.7,DEGREES F,8.39,MG/L
+07/01/2020,12,FEET,66.8,DEGREES F,8.32,MG/L
+07/01/2020,15,FEET,60.6,DEGREES F,8.12,MG/L
+07/01/2020,18,FEET,53,DEGREES F,7.21,MG/L
+07/01/2020,21,FEET,50.2,DEGREES F,6.2,MG/L
+07/01/2020,24,FEET,47.9,DEGREES F,6.27,MG/L
+07/01/2020,27,FEET,45.2,DEGREES F,4.75,MG/L
+07/01/2020,30,FEET,43.9,DEGREES F,4.11,MG/L
+07/01/2020,33,FEET,43.1,DEGREES F,3.46,MG/L
+07/01/2020,36,FEET,42.3,DEGREES F,1.4,MG/L
+07/01/2020,39,FEET,42,DEGREES F,.12,MG/L
+07/11/2020,3,FEET,79.4,DEGREES F,8,MG/L
+07/11/2020,6,FEET,78.2,DEGREES F,7.92,MG/L
+07/11/2020,9,FEET,77.8,DEGREES F,7.9,MG/L
+07/11/2020,12,FEET,74.8,DEGREES F,8.34,MG/L
+07/11/2020,15,FEET,63.9,DEGREES F,8.3,MG/L
+07/11/2020,18,FEET,54.7,DEGREES F,6.3,MG/L
+07/11/2020,21,FEET,50.6,DEGREES F,51.5,MG/L
+07/11/2020,24,FEET,48.6,DEGREES F,5.2,MG/L
+07/11/2020,27,FEET,46.3,DEGREES F,4.33,MG/L
+07/11/2020,30,FEET,44.3,DEGREES F,3.3,MG/L
+07/11/2020,33,FEET,43.2,DEGREES F,2.58,MG/L
+07/11/2020,36,FEET,42.6,DEGREES F,1.6,MG/L
+07/11/2020,39,FEET,42.3,DEGREES F,.82,MG/L
+07/11/2020,42,FEET,42.2,DEGREES F,.47,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/11/1993,Ice off two weeks ago- beautiful weather- with slight breeze    
+05/25/1993,Calm- sunny    
+06/05/1993,Clear- calm    
+06/25/1993,Very windy- clear day- rain yesterday.  Lake level: very high    
+07/02/1993,Lake level: very high    
+07/30/1993,Calm- clear day.    
+08/29/1993,Clear- slight breeze    
+09/11/1993,Clear- slightly windy.    
+07/08/2008,Assume noon for the time. Assume that temperature and dissolved oxygen profile was taken at the deep hole. 
+10/04/2016,Breezy and fair amount of cloud cover- not ideal conditions for secchi but training session with Sandy Wickman. Participants were Rick Green- Rick Wollerman- Bill Cerny- Gary Gruca- and Fritz Behr.  
+10/24/2016,Cloudless- beautiful- crisp day- ideal for secchi reading.  Assisted by Margaret Behr.  Spotted two immature loons and adult eagle in new nest.
+04/22/2017,Eagles have built a new nest on "Virgin Island" since last Fall and were observed on the nest.  Also observed one loon pair. Data collected by Gary Gruca and Fritz Behr
+05/14/2017,Observed loon and eagle on nest.
+06/01/2017,Satellite day.  Observed loon and eagle on nest.  Perfect day for secchi.
+06/09/2017,Loon chick is MIA- baby eagle sticking head above nest- smallmouth bass on nests. Good day for secchi.   Assisted by Margaret Behr 
+07/07/2017,Assisted by Trish Jonas
+07/20/2017,Data collected by Bill Cerny and Gary Gruca
+08/08/2017,Wind made it hard to stay anchored over 48' hole
+08/12/2017,Satellite day.  Data collected by Rick Wollerman
+08/29/2017,Data collected by Gary Gruca and Bill Cerny.  Perfect day for secchi reading.
+09/21/2017,Satellite day.  Sechhi reading by Bill Cerny. 
+09/25/2017,Collected water sample to be analyzed for lead- mercury- conductivity- alkalinity- hardness- and pH. Sample collection assisted by Gary Gruca. Results - conductivity: 24.2 uS/cm- pH: 6.92- alkalinity: 6.52 mg/L- calcium: 15.9 mg/L- magnesium: 5.86 mg/L- hardness: 63.9 mg/L- lead: ND- mercury: ND.   
+05/14/2018,Eagles have built a new nest in a different tree on "Virgin Island".  Sample collection assisted by Gary Gruca. Ice out was May 6.
+06/23/2018,Lake level very high from last weekends storms.  The area received 7" of rain from June 14-18. Water has brown stained appearance and the secchi reading has dropped.  The two observed loon nests on the lake were flooded and abandoned (4 eggs total).
+07/06/2018,Satellite day
+07/14/2018,Satellite day
+07/22/2018,Satellite day
+07/30/2018,Satellite day.  The eagle pair on "Virgin Island" gave birth to two eagles which are now out of the nest and flying.
+08/31/2018,Breezy - hard to hold boat over deep hole
+04/28/2019,Ice out was April 24.  Sample collection assisted by Gary Gruca
+05/29/2019,Lake water is extremely high and as a result the lake water has a slight yellow tint.
+07/04/2019,Not an ideal day for secchi due to clouds and light chop.  Water is murkier than usual due to high precipitation.  Assited by Margaret Behr 
+07/29/2019,Two eagles hatched and now flying.  Observed the two eaglets and two adults near the nest.
+06/09/2020,Ice Out was April 27.  Satellite Day.  Data collection was closely observed by one loon and one mature eagle.
+06/25/2020,Satellite day.Observed two loons and a mature eagle.
+07/01/2020,Temp and DO measured with PITLC Prosolo DO meter.  Observed two adult eagles and a loon.
+07/04/2020,Secchi reading taken by Rick Wollerman
+07/11/2020,satellite day.  Assisted by Margaret Behr.  Secchi  reading maybe be effected by Mayfly hatch.  Two adult eagles and three loons.  
+08/30/2020,Two adult eagles and one immature eagle.  Assisted by Margaret Behr.  
+
+
+
+
+Start Date,Group Name,Project Name
+05/11/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+05/25/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/05/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/25/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/02/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/30/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/16/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/29/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+09/11/1993,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+05/06/1994,Bobbie Nash,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/08/2008,Bonestroo- Inc.,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+10/04/2016,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+10/24/2016,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+04/22/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+05/14/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/01/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/09/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/27/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/29/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/07/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/20/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/08/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/12/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/29/2017,Data Collectors,Bacteria + Plankton (Paid Private)
+08/29/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+09/19/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+09/21/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+09/25/2017,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+05/14/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+05/14/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/23/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+06/23/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/02/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/06/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/12/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/14/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/22/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/23/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+07/30/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/11/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/28/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+08/31/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+09/06/2018,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+04/28/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+05/29/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/30/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/04/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/08/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/13/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/29/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/02/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/21/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/25/2019,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/09/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/25/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+06/28/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/01/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/04/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/11/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+07/21/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/25/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth
+08/30/2020,Fritz Behr,Citizen Lake Monitoring - Water Quality - Lynx Lake - Max Depth

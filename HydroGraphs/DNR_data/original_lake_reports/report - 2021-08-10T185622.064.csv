@@ -1,0 +1,38 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Townline Lake,Oneida,1023100,NO,44,,443277,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/09/1979,,,,,,,,,,,,,
+145711546,06/22/2017,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/09/1979,,,23,C,,
+06/22/2017,2,FEET,77.1,DEGREES F,8.16,MG/L
+06/22/2017,4,FEET,71.8,DEGREES F,8.12,MG/L
+06/22/2017,6,FEET,71.7,DEGREES F,8.08,MG/L
+06/22/2017,8,FEET,71.7,DEGREES F,8,MG/L
+06/22/2017,10,FEET,70.3,DEGREES F,7.1,MG/L
+06/22/2017,12,FEET,65.7,DEGREES F,10.83,MG/L
+06/22/2017,14,FEET,60.9,DEGREES F,11.23,MG/L
+06/22/2017,16,FEET,57.9,DEGREES F,3.61,MG/L
+06/22/2017,18,FEET,55.9,DEGREES F,.33,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/22/2017,Deep hole location can be found at Oneida County GIS. Conditions were cloudy- rainy- and murky water.
+
+
+
+
+Start Date,Group Name,Project Name
+08/09/1979,Data Collectors,Migrated from STORET Legacy
+06/22/2017,Aubrey Nycz- Derek Thorn,Lake Water Quality Monitoring - Oneida County Land and Water Dept.

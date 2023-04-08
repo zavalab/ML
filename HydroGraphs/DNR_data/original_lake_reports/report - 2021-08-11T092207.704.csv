@@ -1,0 +1,407 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Cochran Lake,Vilas,2963500,NO,64,,643230,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/11/1984,3,,0.9,23,,62,,59,,,,,
+1,10/16/1985,4.3,,1.3,,39,56,57,,,,,,
+29688754,04/15/2010,3,YES,0.9,,,61,,,HIGH,,CLEAR,GREEN,
+29688754,04/30/2010,3.4,YES,1,,,59,,,HIGH,,MURKY,GREEN,
+29688754,05/15/2010,4.5,YES,1.4,,,55,,,HIGH,,MURKY,GREEN,
+29688754,05/30/2010,5,YES,1.5,,,54,,,HIGH,,MURKY,GREEN,
+29688754,06/18/2010,6.5,YES,2,,,50,,,HIGH,,MURKY,GREEN,
+29688754,06/30/2010,8.9,YES,2.7,,,46,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+29688754,07/10/2010,7.5,YES,2.3,,,48,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+29688754,07/19/2010,7,YES,2.1,,,49,,,HIGH,,CLEAR,GREEN,
+29688754,08/14/2010,7.11,YES,2.2,,,49,,,HIGH,,CLEAR,BLUE,
+29688754,08/30/2010,6.1,YES,1.9,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+29688754,09/10/2010,6.1,YES,1.9,,,51,,,HIGH,,MURKY,GREEN,
+29688754,09/29/2010,9.11,YES,2.8,,,45,,,HIGH,,CLEAR,BLUE,
+29688754,10/07/2010,7.1,YES,2.2,,,49,,,NORMAL,,MURKY,BLUE,
+29688754,10/22/2010,9.1,YES,2.8,,,45,,,NORMAL,,CLEAR,BLUE,
+29688754,11/10/2010,9.6,YES,2.9,,,45,,,NORMAL,,,BLUE,
+29688754,11/24/2010,,YES,,,,,,,,,,,
+29688754,05/05/2011,4.5,YES,1.4,,,55,,,HIGH,,MURKY,BROWN,
+29688754,05/20/2011,6,YES,1.8,,,51,,,HIGH,,MURKY,GREEN,
+29688754,06/01/2011,9.75,YES,3,,,44,,,HIGH,,MURKY,GREEN,
+29688754,06/25/2011,8,YES,2.4,,,47,,,HIGH,,MURKY,GREEN,
+29688754,07/08/2011,7,YES,2.1,,,49,,,HIGH,,MURKY,GREEN,
+29688754,07/16/2011,7,YES,2.1,,,49,,,HIGH,,MURKY,GREEN,
+29688754,08/02/2011,7.5,YES,2.3,,,48,,,HIGH,,CLEAR,GREEN,
+29688754,08/17/2011,7,YES,2.1,,,49,,,HIGH,,CLEAR,GREEN,
+29688754,09/01/2011,7,YES,2.1,,,49,,,HIGH,,MURKY,GREEN,
+29688754,09/18/2011,8,YES,2.4,,,47,,,HIGH,,CLEAR,GREEN,
+29688754,10/02/2011,8.5,YES,2.6,,,46,,,HIGH,,MURKY,GREEN,
+29688754,10/21/2011,9.5,YES,2.9,,,45,,,HIGH,,CLEAR,BLUE,
+29688754,11/04/2011,10,YES,3,,,44,,,HIGH,,CLEAR,BLUE,
+29688754,03/22/2012,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,
+29688754,04/28/2012,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,
+29688754,05/05/2012,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,
+29688754,05/22/2012,6,NO,1.8,,,51,,,HIGH,,CLEAR,BLUE,
+29688754,06/10/2012,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,
+29688754,06/26/2012,6.5,NO,2,10.2,23,50,52,52,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+29688754,07/11/2012,7.5,NO,2.3,,,48,,,HIGH,,MURKY,GREEN,
+29688754,07/22/2012,8,NO,2.4,,,47,,,HIGH,,MURKY,GREEN,
+29688754,08/02/2012,9.5,NO,2.9,5.24,26,45,53,47,NORMAL,,MURKY,GREEN,
+29688754,08/17/2012,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,
+29688754,08/29/2012,7,NO,2.1,9.39,24,49,53,52,NORMAL,,MURKY,GREEN,
+29688754,09/27/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,
+29688754,10/12/2012,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,
+29688754,11/07/2012,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,11/25/2012,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,05/30/2013,8,NO,2.4,,29.2,47,54,,HIGH,,MURKY,BLUE,
+29688754,06/26/2013,10,NO,3,3.54,15.9,44,50,44,HIGH,,CLEAR,GREEN,
+29688754,07/10/2013,7,NO,2.1,,,49,,,HIGH,,MURKY,GREEN,
+29688754,07/22/2013,6,NO,1.8,8.48,22.7,51,52,51,HIGH,,MURKY,GREEN,
+29688754,08/10/2013,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,
+29688754,08/29/2013,10,NO,3,4.24,25.8,44,53,46,HIGH,,MURKY,GREEN,
+29688754,09/12/2013,9,NO,2.7,,,45,,,HIGH,,MURKY,GREEN,
+29688754,10/10/2013,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,
+29688754,10/29/2013,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,11/10/2013,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,
+29688754,05/13/2014,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,
+29688754,05/20/2014,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,
+29688754,05/21/2014,,,,,45.4,,58,,,,,,
+29688754,05/28/2014,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,
+29688754,06/17/2014,8,NO,2.4,4.78,22,47,52,47,HIGH,,CLEAR,BLUE,
+29688754,06/29/2014,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,
+29688754,07/10/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,
+29688754,07/28/2014,,,,29.3,33.4,,55,60,,,,,
+29688754,07/29/2014,4,NO,1.2,,,57,,,HIGH,,MURKY,GREEN,
+29688754,08/06/2014,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,
+29688754,08/20/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,
+29688754,08/31/2014,,,,25.9,36.9,,56,59,,,,,
+29688754,09/10/2014,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,
+29688754,09/27/2014,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+29688754,10/15/2014,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,11/10/2014,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,
+29688754,04/23/2015,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,
+29688754,05/14/2015,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,
+29688754,05/30/2015,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,
+29688754,06/18/2015,5,NO,1.5,11.9,28,54,54,54,NORMAL,,MURKY,GREEN,
+29688754,07/15/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,
+29688754,08/12/2015,5.5,NO,1.7,7.47,24,53,53,50,NORMAL,,MURKY,BROWN,
+29688754,08/27/2015,6.5,NO,2,6.34,25.8,50,53,49,NORMAL,,MURKY,GREEN,
+29688754,09/25/2015,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,
+29688754,10/10/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,
+29688754,11/14/2015,11,YES,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,05/15/2016,,,,,34.7,,56,,,,,,
+29688754,07/06/2016,,,,40.9,49.4,,58,63,,,,,
+29688754,08/25/2016,,,,7.7,32.7,,55,50,,,,,
+29688754,04/24/2017,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BLUE,
+29688754,05/10/2017,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29688754,06/20/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,
+29688754,06/21/2017,,,,8.31,38.6,,56,51,,,,,
+29688754,07/30/2017,4.5,NO,1.4,23.5,28.8,55,54,59,NORMAL,,MURKY,GREEN,
+29688754,08/10/2017,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,
+29688754,08/31/2017,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,
+29688754,09/08/2017,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,
+29688754,09/20/2017,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,
+29688754,10/11/2017,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,10/30/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,11/08/2017,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,
+29688754,05/20/2018,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,
+29688754,05/21/2018,,,,,29,,54,,,,,,
+29688754,05/27/2018,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,
+29688754,06/09/2018,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,
+29688754,06/21/2018,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,
+29688754,06/28/2018,7,NO,2.1,11.1,26.9,49,54,53,HIGH,,MURKY,BROWN,
+29688754,07/31/2018,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,
+29688754,08/01/2018,,,,12.6,24.2,,53,54,,,,,
+29688754,08/15/2018,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,
+29688754,08/30/2018,4.5,NO,1.4,18.6,33.4,55,55,57,HIGH,,MURKY,GREEN,
+29688754,09/01/2018,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,GREEN,
+29688754,09/18/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,
+29688754,10/12/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,
+29688754,11/05/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+29688754,05/07/2019,6,NO,1.8,,39.8,51,57,,NORMAL,,MURKY,BLUE,
+29688754,05/29/2019,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,
+29688754,06/18/2019,7.5,NO,2.3,3.54,31.8,48,55,44,NORMAL,,CLEAR,BLUE,
+29688754,06/26/2019,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,
+29688754,07/08/2019,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,
+29688754,07/25/2019,3,NO,0.9,26.2,38.2,61,56,59,NORMAL,,MURKY,BROWN,
+29688754,08/28/2019,5,NO,1.5,16.1,41,54,57,56,NORMAL,,MURKY,GREEN,
+29688754,05/18/2020,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+143167470,05/21/2020,,,,,25,,53,,,,,,
+29688754,07/05/2020,5,NO,1.5,12.4,24.1,54,53,54,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+29688754,07/28/2020,,,,13,41.9,,57,54,,,,,
+29688754,07/29/2020,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+29688754,08/27/2020,7,NO,2.1,8.7,31.4,49,55,51,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/16/1985,,,9.5,C,10.4,MG/L
+06/26/2012,3,FEET,75.5,DEGREES F,,
+06/26/2012,6,FEET,73,DEGREES F,,
+06/26/2012,9,FEET,71.5,DEGREES F,,
+06/26/2012,12,FEET,68.5,DEGREES F,,
+08/02/2012,3,FEET,77,DEGREES F,,
+08/02/2012,6,FEET,76.5,DEGREES F,,
+08/02/2012,9,FEET,76.4,DEGREES F,,
+08/02/2012,12,FEET,73,DEGREES F,,
+08/29/2012,3,FEET,75,DEGREES F,,
+08/29/2012,6,FEET,72.5,DEGREES F,,
+08/29/2012,9,FEET,72,DEGREES F,,
+08/29/2012,12,FEET,69.5,DEGREES F,,
+05/30/2013,3,FEET,66,DEGREES F,,
+05/30/2013,6,FEET,63,DEGREES F,,
+05/30/2013,9,FEET,60,DEGREES F,,
+05/30/2013,12,FEET,53,DEGREES F,,
+06/26/2013,3,FEET,80,DEGREES F,,
+06/26/2013,6,FEET,74.5,DEGREES F,,
+06/26/2013,9,FEET,72,DEGREES F,,
+06/26/2013,13,FEET,65,DEGREES F,,
+07/22/2013,3,FEET,77,DEGREES F,,
+07/22/2013,5,FEET,76,DEGREES F,,
+07/22/2013,9,FEET,75,DEGREES F,,
+07/22/2013,12,FEET,69,DEGREES F,,
+08/29/2013,3,FEET,77.5,DEGREES F,,
+08/29/2013,6,FEET,76.5,DEGREES F,,
+08/29/2013,9,FEET,76,DEGREES F,,
+08/29/2013,12,FEET,74,DEGREES F,,
+05/20/2014,3,FEET,60,DEGREES F,,
+05/20/2014,6,FEET,56,DEGREES F,,
+05/20/2014,9,FEET,52,DEGREES F,,
+05/20/2014,12,FEET,49,DEGREES F,,
+06/17/2014,3,FEET,71,DEGREES F,,
+06/17/2014,6,FEET,69,DEGREES F,,
+06/17/2014,9,FEET,67,DEGREES F,,
+06/17/2014,12,FEET,60,DEGREES F,,
+07/29/2014,3,FEET,72,DEGREES F,,
+07/29/2014,6,FEET,71.5,DEGREES F,,
+07/29/2014,9,FEET,70,DEGREES F,,
+07/29/2014,12,FEET,64,DEGREES F,,
+08/31/2014,3,FEET,69,DEGREES F,,
+08/31/2014,6,FEET,68.1,DEGREES F,,
+08/31/2014,9,FEET,67.8,DEGREES F,,
+08/31/2014,12,FEET,65.1,DEGREES F,,
+06/18/2015,3,FEET,68,DEGREES F,,
+06/18/2015,6,FEET,68,DEGREES F,,
+06/18/2015,9,FEET,67.5,DEGREES F,,
+06/18/2015,12,FEET,63.5,DEGREES F,,
+08/12/2015,3,FEET,75.5,DEGREES F,,
+08/12/2015,6,FEET,72,DEGREES F,,
+08/12/2015,9,FEET,71.5,DEGREES F,,
+08/12/2015,12,FEET,68,DEGREES F,,
+08/27/2015,3,FEET,64.5,DEGREES F,,
+08/27/2015,6,FEET,63.5,DEGREES F,,
+08/27/2015,9,FEET,63,DEGREES F,,
+08/27/2015,12,FEET,62.5,DEGREES F,,
+05/20/2018,3,FEET,68,DEGREES F,,
+05/20/2018,6,FEET,66,DEGREES F,,
+05/20/2018,9,FEET,60,DEGREES F,,
+05/20/2018,12,FEET,57,DEGREES F,,
+06/28/2018,3,FEET,76,DEGREES F,,
+06/28/2018,6,FEET,75,DEGREES F,,
+06/28/2018,9,FEET,74.5,DEGREES F,,
+06/28/2018,12,FEET,70.5,DEGREES F,,
+07/31/2018,3,FEET,74.1,DEGREES F,,
+07/31/2018,6,FEET,72.2,DEGREES F,,
+07/31/2018,9,FEET,71.1,DEGREES F,,
+07/31/2018,12,FEET,68,DEGREES F,,
+08/30/2018,3,FEET,68,DEGREES F,,
+08/30/2018,6,FEET,68.2,DEGREES F,,
+08/30/2018,9,FEET,67.8,DEGREES F,,
+08/30/2018,12,FEET,67.8,DEGREES F,,
+05/07/2019,3,FEET,53,DEGREES F,,
+05/07/2019,6,FEET,51.8,DEGREES F,,
+05/07/2019,9,FEET,51,DEGREES F,,
+05/07/2019,12,FEET,50.9,DEGREES F,,
+06/18/2019,3,FEET,68.5,DEGREES F,,
+06/18/2019,6,FEET,68.5,DEGREES F,,
+06/18/2019,9,FEET,66.2,DEGREES F,,
+06/18/2019,12,FEET,64,DEGREES F,,
+07/25/2019,3,FEET,76.5,DEGREES F,,
+07/25/2019,6,FEET,75,DEGREES F,,
+07/25/2019,9,FEET,73.5,DEGREES F,,
+07/25/2019,12,FEET,68,DEGREES F,,
+08/28/2019,3,FEET,65.5,DEGREES F,,
+08/28/2019,6,FEET,64.5,DEGREES F,,
+08/28/2019,9,FEET,64.3,DEGREES F,,
+08/28/2019,12,FEET,63.5,DEGREES F,,
+05/18/2020,3,FEET,60,DEGREES F,,
+05/18/2020,6,FEET,57,DEGREES F,,
+05/18/2020,9,FEET,54.5,DEGREES F,,
+05/18/2020,12,FEET,53,DEGREES F,,
+07/05/2020,3,FEET,84,DEGREES F,,
+07/05/2020,6,FEET,82.5,DEGREES F,,
+07/05/2020,9,FEET,74,DEGREES F,,
+07/05/2020,12,FEET,70.5,DEGREES F,,
+07/29/2020,3,FEET,77,DEGREES F,,
+07/29/2020,6,FEET,76,DEGREES F,,
+07/29/2020,9,FEET,74.5,DEGREES F,,
+07/29/2020,12,FEET,70.5,DEGREES F,,
+08/27/2020,3,FEET,76.5,DEGREES F,,
+08/27/2020,6,FEET,75.5,DEGREES F,,
+08/27/2020,9,FEET,74.5,DEGREES F,,
+08/27/2020,12,FEET,74.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/11/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/16/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/24/2010,"ice"
+06/26/2012,algae bloom 
+08/29/2012,algae bloom 
+11/07/2012,Secchi hit bottom and I could still see it. First time ever.
+05/30/2013,Ice out 5/17/13
+05/20/2014,Ice out May 7- 2014
+08/06/2014,August 1 - Major algal bloom. Lake is green- lots of smell.
+August 6 - Green and blue blooms. Strong smell.
+08/31/2014,assume noon
+06/18/2015,Algae bloom - the whole lake looks green.
+06/18/2015,algae bloom
+08/27/2015,algae bloom 
+05/10/2017,assume time at noon
+06/20/2017,assume time at noon
+07/30/2017,algal bloom
+08/10/2017,assume noon
+08/31/2017,assume noon assume noon
+09/08/2017,water temperature the same at three and twelve feet - 61 degrees.
+10/11/2017,assume noon
+10/30/2017,assume noon
+11/08/2017,assume noon
+06/21/2018,algae bloom
+06/28/2018,algae bloom 
+07/31/2018,heavy algae bloom 
+09/01/2018,algae bloom
+06/26/2019,algae bloom
+07/08/2019,algae bloom
+07/05/2020,algae bloom
+
+
+
+
+Start Date,Group Name,Project Name
+07/11/1984,Data Collectors,Migrated from STORET Legacy
+10/16/1985,Data Collectors,Migrated from STORET Legacy
+04/15/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+04/30/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/15/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/30/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/18/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/30/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/10/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/19/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/14/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/30/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/10/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/29/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/07/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/22/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/10/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/24/2010,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/05/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/20/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/01/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/25/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/08/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/16/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/02/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/17/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/01/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/18/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/02/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/21/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/04/2011,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+03/22/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+04/28/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/05/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/22/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/10/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/26/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/11/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/22/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/02/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/17/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/29/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/27/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/12/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/07/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/25/2012,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/30/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/26/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/10/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/22/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/10/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/29/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/12/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/10/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/29/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/10/2013,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/13/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/20/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/21/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/28/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/17/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/29/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/10/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/28/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/29/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/06/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/20/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/31/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/10/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/27/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/15/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/10/2014,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+04/23/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/14/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/30/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/18/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/18/2015,Rick Moren,Citizen Lake Monitoring Network QA/QC - 2015
+07/15/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/12/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/27/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/25/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/10/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/14/2015,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/15/2016,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/06/2016,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/06/2016,Rick Moren,Citizen Lake Monitoring Network QA/QC - 2016
+08/25/2016,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+04/24/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/10/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/20/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/21/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/30/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/10/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/31/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/08/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/20/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/11/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/30/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/08/2017,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/20/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/21/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/27/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/09/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/21/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/28/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/31/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/01/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/15/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/30/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/01/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+09/18/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+10/12/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+11/05/2018,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/07/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/29/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/18/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+06/26/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/08/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/25/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/28/2019,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/18/2020,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+05/21/2020,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/05/2020,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/28/2020,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+07/29/2020,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole
+08/27/2020,Rick Moren,Citizen Lake Monitoring - Water Quality - Cochran Lake - Deep Hole

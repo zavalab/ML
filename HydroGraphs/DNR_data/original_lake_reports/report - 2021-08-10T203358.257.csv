@@ -1,0 +1,53 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Schoenick Lake,Shawano,321100,NE,59,,593155,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+81855176,07/09/2019,3.25,NO,1,,,60,,,,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+213861248,07/09/2019,,,,35.8,126,,66,62,,,,,
+81855176,08/29/2019,,,,,,,,,,,,,
+143167470,07/23/2020,5,N,1.5,0.551,63.2,54,60,30,,,,,
+143167470,08/20/2020,,,,10.3,34.3,,56,52,,,,,
+143167470,09/27/2020,,,,39,44.5,,58,62,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/09/2019,0,FEET,25.87,DEGREES C,13.21,MG/L
+07/09/2019,3,FEET,24.39,DEGREES C,12.11,MG/L
+07/09/2019,6,FEET,20.75,DEGREES C,4.93,MG/L
+07/09/2019,9,FEET,16.02,DEGREES C,.12,MG/L
+07/09/2019,12,FEET,10.85,DEGREES C,0,MG/L
+07/09/2019,15,FEET,8.23,DEGREES C,0,MG/L
+07/09/2019,18,FEET,6.51,DEGREES C,0,MG/L
+07/09/2019,21,FEET,8.54,DEGREES C,0,MG/L
+07/09/2019,24,FEET,5.09,DEGREES C,0,MG/L
+07/09/2019,27,FEET,4.77,DEGREES C,0,MG/L
+07/09/2019,30,FEET,4.66,DEGREES C,0,MG/L
+08/29/2019,0,FEET,19.86,DEGREES C,8.22,MG/L
+08/29/2019,3,FEET,19.59,DEGREES C,8.12,MG/L
+08/29/2019,6,FEET,19.22,DEGREES C,7.71,MG/L
+08/29/2019,7,FEET,19.11,DEGREES C,7.2,MG/L
+08/29/2019,8,FEET,18.6,DEGREES C,5.68,MG/L
+08/29/2019,9,FEET,17.66,DEGREES C,3.88,MG/L
+08/29/2019,12,FEET,11.03,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/29/2019,windy windy
+
+
+
+
+Start Date,Group Name,Project Name
+07/09/2019,BRIAN ZALAY,Response Monitoring
+07/09/2019,Brian Zalay,Response Monitoring
+08/29/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Schoenick Lake at Deep Hole
+07/23/2020,ZANA SIJAN,Response Monitoring
+08/20/2020,ZANA SIJAN,Response Monitoring
+09/27/2020,ZANA SIJAN,Response Monitoring

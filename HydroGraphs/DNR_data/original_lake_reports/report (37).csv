@@ -1,0 +1,150 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Montanis,Barron,2103200,NO,3,,033191,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189034,06/25/2001,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189034,07/10/2001,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189034,07/26/2001,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189034,08/14/2001,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189034,09/17/2001,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189034,10/12/2001,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189034,10/28/2001,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+88139125,07/15/2014,2,YES,0.6,,,67,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+88139125,07/16/2014,,,,83.6,88.9,,63,68,,,,,
+88139125,08/26/2014,1,NO,0.3,62.2,92.5,77,63,66,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+88139125,06/24/2015,2.5,NO,0.8,44.1,51.7,64,59,63,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+88139125,07/27/2015,1, ,0.3,37,43.2,61,57,62,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,08/26/2015,1, ,0.3,89.1,107,77,64,69,,,,,
+88139125,06/21/2016,3,NO,0.9,23.9,54.6,61,59,59,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+88139125,07/28/2016,3.5,NO,1.1,29.5,38.1,59,56,60,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+88139125,08/23/2016,2.6,NO,0.8,44.3,67.7,63,61,63,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+88139125,06/14/2017,2,NO,0.6,25.4,63.8,67,60,59,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+88139125,07/27/2017,3.6,NO,1.1,21.7,52.3,59,59,58,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,08/30/2017,3,,0.9,24.1,41.7,61,57,59,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,06/21/2018,4,YES,1.2,14,25.8,57,53,55,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,07/30/2018,4,NO,1.2,21.8,15.4,57,49,58,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+88139125,08/22/2018,3,NO,0.9,67.5,49.7,61,58,67,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+88139125,06/26/2019,4,NO,1.2,21.3,39.3,57,57,58,LOW,4,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+88139125,07/23/2019,3,NO,0.9,,,61,,,LOW,3,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,08/21/2019,2.5,NO,0.8,45.2,69.1,64,61,64,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,06/23/2020,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,06/24/2020,,,,28.5,36,,56,60,,,,,
+88139125,07/23/2020,3,NO,0.9,12.5,50.2,61,58,54,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+88139125,08/17/2020,2,NO,0.6,22.8,65.1,67,60,58,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/26/2014,0,FEET,71.4,DEGREES F,,
+08/26/2014,3,FEET,71.6,DEGREES F,,
+08/26/2014,6,FEET,71.4,DEGREES F,,
+08/26/2014,9,FEET,71.2,DEGREES F,,
+06/24/2015,0,FEET,74.8,DEGREES F,,
+06/24/2015,3,FEET,72.3,DEGREES F,,
+06/24/2015,6,FEET,71.6,DEGREES F,,
+06/24/2015,9,FEET,69.8,DEGREES F,,
+07/27/2015,0,FEET,80.6,DEGREES F,,
+07/27/2015,3,FEET,64.5,DEGREES F,,
+07/27/2015,6,FEET,62.6,DEGREES F,,
+07/27/2015,9,FEET,61.8,DEGREES F,,
+07/28/2016,0,FEET,75.5,DEGREES F,,
+07/28/2016,3,FEET,75.9,DEGREES F,,
+07/28/2016,6,FEET,75.9,DEGREES F,,
+07/28/2016,9,FEET,71,DEGREES F,,
+08/23/2016,0,FEET,70.8,DEGREES F,,
+08/23/2016,3,FEET,70.1,DEGREES F,,
+08/23/2016,6,FEET,69.9,DEGREES F,,
+08/23/2016,9,FEET,69.8,DEGREES F,,
+06/14/2017,0,FEET,71.4,DEGREES F,,
+06/14/2017,3,FEET,71.2,DEGREES F,,
+06/14/2017,6,FEET,71,DEGREES F,,
+06/14/2017,9,FEET,70.8,DEGREES F,,
+06/14/2017,11,FEET,70.8,DEGREES F,,
+07/27/2017,0,FEET,74,DEGREES F,,
+07/27/2017,3,FEET,73.9,DEGREES F,,
+07/27/2017,6,FEET,73.4,DEGREES F,,
+07/27/2017,9,FEET,71,DEGREES F,,
+08/30/2017,0,FEET,69.2,DEGREES F,,
+08/30/2017,3,FEET,68,DEGREES F,,
+08/30/2017,6,FEET,66.2,DEGREES F,,
+08/30/2017,9,FEET,64.2,DEGREES F,,
+08/30/2017,11,FEET,62.4,DEGREES F,,
+06/21/2018,0,FEET,75.5,DEGREES F,,
+06/21/2018,3,FEET,74.8,DEGREES F,,
+06/21/2018,6,FEET,74.8,DEGREES F,,
+06/21/2018,9,FEET,69.8,DEGREES F,,
+07/30/2018,0,FEET,74.5,DEGREES F,,
+07/30/2018,3,FEET,74.1,DEGREES F,,
+07/30/2018,6,FEET,73.6,DEGREES F,,
+07/30/2018,9,FEET,70.6,DEGREES F,,
+08/22/2018,0,FEET,72.6,DEGREES F,,
+08/22/2018,3,FEET,71.2,DEGREES F,,
+08/22/2018,6,FEET,71,DEGREES F,,
+08/22/2018,9,FEET,70.8,DEGREES F,,
+06/26/2019,0,FEET,69.6,DEGREES F,,
+06/26/2019,3,FEET,69.4,DEGREES F,,
+06/26/2019,6,FEET,69,DEGREES F,,
+06/26/2019,9,FEET,67.4,DEGREES F,,
+08/21/2019,0,FEET,71.4,DEGREES F,,
+08/21/2019,3,FEET,71.4,DEGREES F,,
+08/21/2019,6,FEET,71,DEGREES F,,
+08/21/2019,9,FEET,70.5,DEGREES F,,
+06/23/2020,0,FEET,65.1,DEGREES F,,
+06/23/2020,3,FEET,67.1,DEGREES F,,
+06/23/2020,6,FEET,69,DEGREES F,,
+06/23/2020,9,FEET,69.8,DEGREES F,,
+07/23/2020,0,FEET,71.6,DEGREES F,,
+07/23/2020,3,FEET,71.4,DEGREES F,,
+07/23/2020,6,FEET,71,DEGREES F,,
+07/23/2020,9,FEET,69.1,DEGREES F,,
+08/17/2020,0,FEET,74.6,DEGREES F,,
+08/17/2020,3,FEET,74.3,DEGREES F,,
+08/17/2020,6,FEET,73.4,DEGREES F,,
+08/17/2020,9,FEET,71.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/15/2014,Jim Peterson and neighbor Jerry Woods did the test for the first time on Lake Montanis. Clear day in the middle 70's.  As far as we know there is not a depth of 14 ' but 10' plus.  The lake is in need of testing with the algae blueish-green and many more weeds in the last 3 years around my property on the north side of the lake as well as others.
+07/27/2017,Blue sky about 80 degrees Blue sky about 80 degrees
+08/30/2017,In the past week we received 4 inches of rain
+08/22/2018,Water is really green.  Many weeds are present everywhere around lake.  Difficult not to get weeds in motor going to check deep hole.
+
+
+
+
+Start Date,Group Name,Project Name
+06/25/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/10/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/26/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/14/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+09/17/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+10/12/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+10/28/2001,Michael Harvey,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/15/2014,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/16/2014,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/26/2014,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/24/2015,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/27/2015,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/26/2015,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/21/2016,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/28/2016,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/23/2016,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/14/2017,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/27/2017,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/30/2017,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/21/2018,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/30/2018,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/22/2018,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/26/2019,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/23/2019,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/21/2019,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/23/2020,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+06/24/2020,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+07/23/2020,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole
+08/17/2020,Jim Peterson,Citizen Lake Monitoring - Water Quality - Lake Montanis - Deep Hole

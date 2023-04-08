@@ -1,0 +1,477 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Meta Lake,Vilas,1004400,NO,64,,643086,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/10/1979,,,,,,,,,,,,,
+8190856,05/06/1993,7,NO,2.1,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190856,05/13/1993,5.75,NO,1.7,,,52,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,06/16/1993,5,NO,1.5,,,54,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,06/23/1993,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190856,07/07/1993,6.75,NO,2.1,,,50,,,HIGH,,,GREEN/BROWN,2-Very minor aesthetic problems
+8190856,07/21/1993,6.75,NO,2.1,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8190856,07/30/1993,5,NO,1.5,,,54,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,08/10/1993,5.75,NO,1.7,,,52,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,08/19/1993,7.5,NO,2.3,,,48,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190856,08/24/1993,5.75,NO,1.7,,,52,,,DOWN SLIGHTLY,,,GREEN,2-Very minor aesthetic problems
+8190856,09/17/1993,5.75,NO,1.7,,,52,,,,,,GREEN,2-Very minor aesthetic problems
+8190856,05/17/1994,7.75,NO,2.4,,,48,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190856,06/03/1994,5.75,NO,1.7,,,52,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190856,07/13/1994,8,NO,2.4,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190856,07/29/1994,7.33,NO,2.2,,,48,,,,,,GREEN,2-Very minor aesthetic problems
+8190856,08/11/1994,6,NO,1.8,,,51,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190856,08/26/1994,6.5,NO,2,,,50,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190856,09/20/1994,5.75,NO,1.7,,,52,,,DOWN SOME,,,GREEN,2-Very minor aesthetic problems
+8190856,05/31/1995,6.25,NO,1.9,,,51,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190856,06/15/1995,6.25,NO,1.9,,,51,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190856,06/29/1995,8.25,NO,2.5,,,47,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190856,07/07/1995,5.75,NO,1.7,,,52,,,DOWN 6",,,GREEN,2-Very minor aesthetic problems
+8190856,07/18/1995,8.75,NO,2.7,,,46,,,LOW,,,LIGHT GREEN,2-Very minor aesthetic problems
+8190856,08/02/1995,8.75,NO,2.7,,,46,,,DOWN 5-6",,,GREEN,2-Very minor aesthetic problems
+8190856,08/19/1995,7,NO,2.1,,,49,,,LOWER THAN NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190856,09/02/1995,7,NO,2.1,,,49,,,DOWN 6",,,GREEN,2-Very minor aesthetic problems
+8190856,06/14/1996,8,NO,2.4,,,47,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190856,08/01/1996,5,NO,1.5,,,54,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,08/16/1996,6,NO,1.8,,,51,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,06/11/1997,8.25,NO,2.5,,,47,,,GOOD TO A LITTLE UP,,,GREEN,1-Beautiful, could not be nicer
+8190856,06/21/1997,7.75,NO,2.4,,,48,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190856,06/28/1997,8.25,NO,2.5,,,47,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190856,07/10/1997,7.5,NO,2.3,,,48,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190856,07/18/1997,8,NO,2.4,,,47,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190856,08/05/1997,7,NO,2.1,,,49,,,GOOD,,,GREEN,1-Beautiful, could not be nicer
+8190856,08/31/1997,6,NO,1.8,,,51,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190856,09/11/1997,5.75,NO,1.7,,,52,,,GOOD,,,GREEN,2-Very minor aesthetic problems
+8190856,09/26/1997,6,NO,1.8,,,51,,,GOOD,,,GREEN,2-Very minor aesthetic problems
+7000068,08/27/2001,8,NO,2.4,3.4,,47,,44,,,,,
+33526820,04/24/2010,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,05/29/2010,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+33526820,05/31/2010,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/05/2010,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/06/2010,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/26/2010,8.5,NO,2.6,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/28/2010,8.75,NO,2.7,,,46,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/09/2010,9.25,NO,2.8,,,45,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/15/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/16/2010,8.25,NO,2.5,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/17/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/26/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/28/2010,7.25,NO,2.2,,,49,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,08/01/2010,6.75,NO,2.1,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,08/09/2010,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,08/18/2010,6.25,NO,1.9,,,51,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,09/05/2010,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+33526820,05/29/2011,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/14/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/20/2011,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/30/2011,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/02/2011,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/03/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/04/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/20/2011,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/29/2011,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+33526820,08/13/2011,9.75,,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,10/09/2011,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,04/29/2012,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/03/2012,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/26/2012,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,06/30/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/03/2012,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/10/2012,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/21/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,08/20/2013,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+33526820,07/18/2014,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130440407,08/15/2014,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130440407,08/24/2014,9.75,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130440407,07/19/2015,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130440407,07/21/2015,6.75,NO,2.1,,,50,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+130440407,08/10/2015,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+161467828,05/26/2018,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+161467828,06/05/2018,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,06/18/2018,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+33526820,07/04/2018,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+33526820,07/09/2018,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+161467828,07/18/2018,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,07/30/2018,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+33526820,08/10/2018,7.75,NO,2.4,,,48,,,HIGH,,MURKY,BLUE,2-Very minor aesthetic problems
+161467828,08/12/2018,7.25,NO,2.2,,,49,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161467828,08/19/2018,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+161467828,09/01/2018,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,09/15/2018,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,05/05/2019,7.25,NO,2.2,,20.8,49,52,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+161467828,05/28/2019,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,06/21/2019,8.5,NO,2.6,3.12,16.6,46,50,43,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+161467828,07/06/2019,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,07/25/2019,9.25,NO,2.8,4.22,13.6,45,48,46,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,08/14/2019,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,08/31/2019,7.5,NO,2.3,6.93,13.5,48,48,49,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+161467828,09/17/2019,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+161467828,05/04/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,05/21/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,06/22/2020,10.5,NO,3.2,2.61,13.6,43,48,42,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+130440407,07/02/2020,12.75,NO,3.9,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+161467828,07/04/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+130440407,07/18/2020,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+130440407,07/25/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+275136294,07/27/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+275136294,07/28/2020,9.75,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+161467828,07/30/2020,8.5,NO,2.6,3.16,16.5,46,50,43,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,08/12/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,08/18/2020,8.25,NO,2.5,6.58,18.1,47,51,49,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,09/10/2020,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+161467828,09/22/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/10/1979,,,25,C,,
+08/27/2001,0,FEET,22.9,DEGREES C,8.1,MG/L
+08/27/2001,1,FEET,22.9,DEGREES C,8.12,MG/L
+08/27/2001,3,FEET,22.8,DEGREES C,8.13,MG/L
+08/27/2001,6,FEET,22.5,DEGREES C,8.12,MG/L
+08/27/2001,9,FEET,22.4,DEGREES C,8.12,MG/L
+08/27/2001,12,FEET,22.4,DEGREES C,8,MG/L
+08/27/2001,15,FEET,21.6,DEGREES C,5.32,MG/L
+08/27/2001,16,FEET,21.2,DEGREES C,,
+08/27/2001,17,FEET,21,DEGREES C,,
+08/27/2001,18,FEET,20.7,DEGREES C,.96,MG/L
+08/27/2001,19,FEET,20.6,DEGREES C,,
+08/27/2001,21,FEET,20.2,DEGREES C,.83,MG/L
+05/05/2019,1,FEET,48.5,DEGREES F,,
+05/05/2019,3,FEET,48.5,DEGREES F,,
+05/05/2019,6,FEET,48,DEGREES F,,
+05/05/2019,9,FEET,47.1,DEGREES F,,
+05/05/2019,12,FEET,44.9,DEGREES F,,
+05/05/2019,15,FEET,43.5,DEGREES F,,
+05/05/2019,18,FEET,42.8,DEGREES F,,
+05/05/2019,21,FEET,42.4,DEGREES F,,
+05/28/2019,1,FEET,58.4,DEGREES F,,
+05/28/2019,3,FEET,57.2,DEGREES F,,
+05/28/2019,6,FEET,56.8,DEGREES F,,
+05/28/2019,9,FEET,56.6,DEGREES F,,
+05/28/2019,12,FEET,56.1,DEGREES F,,
+05/28/2019,15,FEET,55.7,DEGREES F,,
+05/28/2019,18,FEET,54.6,DEGREES F,,
+05/28/2019,21,FEET,53.4,DEGREES F,,
+06/21/2019,1,FEET,69.8,DEGREES F,,
+06/21/2019,3,FEET,69,DEGREES F,,
+06/21/2019,6,FEET,68.3,DEGREES F,,
+06/21/2019,9,FEET,68,DEGREES F,,
+06/21/2019,12,FEET,66.2,DEGREES F,,
+06/21/2019,15,FEET,62.4,DEGREES F,,
+06/21/2019,18,FEET,57.2,DEGREES F,,
+06/21/2019,21,FEET,54.3,DEGREES F,,
+07/06/2019,1,FEET,78,DEGREES F,,
+07/06/2019,3,FEET,77.9,DEGREES F,,
+07/06/2019,6,FEET,77.5,DEGREES F,,
+07/06/2019,9,FEET,76.8,DEGREES F,,
+07/06/2019,12,FEET,72.8,DEGREES F,,
+07/06/2019,15,FEET,66,DEGREES F,,
+07/06/2019,18,FEET,62.2,DEGREES F,,
+07/06/2019,21,FEET,58.4,DEGREES F,,
+07/25/2019,1,FEET,76.1,DEGREES F,,
+07/25/2019,3,FEET,75.5,DEGREES F,,
+07/25/2019,6,FEET,75.2,DEGREES F,,
+07/25/2019,9,FEET,74.8,DEGREES F,,
+07/25/2019,12,FEET,74.6,DEGREES F,,
+07/25/2019,15,FEET,71.9,DEGREES F,,
+07/25/2019,18,FEET,62.9,DEGREES F,,
+07/25/2019,21,FEET,56.4,DEGREES F,,
+08/14/2019,1,FEET,74.4,DEGREES F,,
+08/14/2019,3,FEET,74.1,DEGREES F,,
+08/14/2019,6,FEET,73.4,DEGREES F,,
+08/14/2019,9,FEET,73,DEGREES F,,
+08/14/2019,12,FEET,72.8,DEGREES F,,
+08/14/2019,15,FEET,72.6,DEGREES F,,
+08/14/2019,18,FEET,68,DEGREES F,,
+08/14/2019,21,FEET,62.2,DEGREES F,,
+08/31/2019,1,FEET,65.4,DEGREES F,,
+08/31/2019,3,FEET,65.1,DEGREES F,,
+08/31/2019,6,FEET,64.9,DEGREES F,,
+08/31/2019,9,FEET,64.7,DEGREES F,,
+08/31/2019,12,FEET,64.5,DEGREES F,,
+08/31/2019,15,FEET,64.5,DEGREES F,,
+08/31/2019,18,FEET,64.5,DEGREES F,,
+08/31/2019,21,FEET,64.4,DEGREES F,,
+09/17/2019,1,FEET,66.3,DEGREES F,,
+09/17/2019,3,FEET,66,DEGREES F,,
+09/17/2019,6,FEET,64.4,DEGREES F,,
+09/17/2019,9,FEET,62,DEGREES F,,
+09/17/2019,12,FEET,61.5,DEGREES F,,
+09/17/2019,15,FEET,60.8,DEGREES F,,
+09/17/2019,18,FEET,60.4,DEGREES F,,
+09/17/2019,21,FEET,60.2,DEGREES F,,
+05/04/2020,1,FEET,50.3,DEGREES F,,
+05/04/2020,3,FEET,49.8,DEGREES F,,
+05/04/2020,6,FEET,49.4,DEGREES F,,
+05/04/2020,9,FEET,49.2,DEGREES F,,
+05/04/2020,12,FEET,49.2,DEGREES F,,
+05/04/2020,15,FEET,49.1,DEGREES F,,
+05/04/2020,18,FEET,48.2,DEGREES F,,
+05/04/2020,21,FEET,46.7,DEGREES F,,
+05/21/2020,1,FEET,58.8,DEGREES F,,
+05/21/2020,3,FEET,58.2,DEGREES F,,
+05/21/2020,6,FEET,57.5,DEGREES F,,
+05/21/2020,9,FEET,57,DEGREES F,,
+05/21/2020,12,FEET,53.2,DEGREES F,,
+05/21/2020,15,FEET,52.8,DEGREES F,,
+05/21/2020,18,FEET,52.5,DEGREES F,,
+05/21/2020,21,FEET,52.1,DEGREES F,,
+06/22/2020,1,FEET,72.1,DEGREES F,,
+06/22/2020,3,FEET,71.6,DEGREES F,,
+06/22/2020,6,FEET,71.2,DEGREES F,,
+06/22/2020,9,FEET,71,DEGREES F,,
+06/22/2020,12,FEET,70.3,DEGREES F,,
+06/22/2020,15,FEET,67.4,DEGREES F,,
+06/22/2020,18,FEET,61.5,DEGREES F,,
+06/22/2020,21,FEET,57,DEGREES F,,
+06/22/2020,24,FEET,54,DEGREES F,,
+07/30/2020,1,FEET,75.5,DEGREES F,,
+07/30/2020,3,FEET,75,DEGREES F,,
+07/30/2020,6,FEET,74.4,DEGREES F,,
+07/30/2020,9,FEET,74.4,DEGREES F,,
+07/30/2020,12,FEET,74.1,DEGREES F,,
+07/30/2020,15,FEET,73.5,DEGREES F,,
+07/30/2020,18,FEET,70.1,DEGREES F,,
+07/30/2020,21,FEET,63.8,DEGREES F,,
+07/30/2020,24,FEET,60,DEGREES F,,
+08/12/2020,1,FEET,74.6,DEGREES F,,
+08/12/2020,3,FEET,74.1,DEGREES F,,
+08/12/2020,6,FEET,73.4,DEGREES F,,
+08/12/2020,9,FEET,73.2,DEGREES F,,
+08/12/2020,12,FEET,73.2,DEGREES F,,
+08/12/2020,15,FEET,72.6,DEGREES F,,
+08/12/2020,18,FEET,70.1,DEGREES F,,
+08/12/2020,21,FEET,66.2,DEGREES F,,
+08/12/2020,24,FEET,61.3,DEGREES F,,
+08/18/2020,1,FEET,73.5,DEGREES F,,
+08/18/2020,3,FEET,73.4,DEGREES F,,
+08/18/2020,6,FEET,73,DEGREES F,,
+08/18/2020,9,FEET,72.8,DEGREES F,,
+08/18/2020,12,FEET,72.8,DEGREES F,,
+08/18/2020,15,FEET,72.6,DEGREES F,,
+08/18/2020,18,FEET,71,DEGREES F,,
+08/18/2020,21,FEET,66.2,DEGREES F,,
+08/18/2020,24,FEET,61.5,DEGREES F,,
+09/10/2020,1,FEET,62.4,DEGREES F,,
+09/10/2020,3,FEET,60.8,DEGREES F,,
+09/10/2020,6,FEET,60.2,DEGREES F,,
+09/10/2020,9,FEET,60,DEGREES F,,
+09/10/2020,12,FEET,59.9,DEGREES F,,
+09/10/2020,15,FEET,59.7,DEGREES F,,
+09/10/2020,18,FEET,59.7,DEGREES F,,
+09/10/2020,21,FEET,59.7,DEGREES F,,
+09/10/2020,24,FEET,59.3,DEGREES F,,
+09/22/2020,1,FEET,62.9,DEGREES F,,
+09/22/2020,3,FEET,62.2,DEGREES F,,
+09/22/2020,6,FEET,61.7,DEGREES F,,
+09/22/2020,9,FEET,61.3,DEGREES F,,
+09/22/2020,12,FEET,60.2,DEGREES F,,
+09/22/2020,15,FEET,60,DEGREES F,,
+09/22/2020,18,FEET,59.7,DEGREES F,,
+09/22/2020,21,FEET,59.5,DEGREES F,,
+09/22/2020,24,FEET,59.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/10/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/06/1993,Ice off 4/28/93- perfect weather today- loons chasing for mate.  Water level: up- due to recent rains    
+06/23/1993,Fresh rains diluted fertile waters and diminished algae growth    
+07/07/1993,Overcast.  Water level: up- springs must be working    
+05/17/1994,Perfect day- little wind- no one else on lake.    
+07/13/1994,Lake is most clear than in last 2 years- springs must be active.    
+06/29/1995,Pine pollen gone-lake quite clear.    
+06/14/1996,Oak pollen around shore.  Water level: Up 8-10"    
+08/16/1996,Water level: Up some    
+08/27/2001,Partly cloudy. No thermocline. Took Van Dorn and 2 integrated sampler water samples.    
+08/27/2001,VAN DORN SAMPLE    
+04/24/2010,No other boats.
+05/29/2010,Clear- sunny- calm- floating and suspended particles (pollen )- no boats. Jen and Molly Stewart helped.
+05/31/2010,Sunny- light breeze- 2 loons- 1 jet ski. Jen and Molly Stewart helped.
+06/05/2010,Sunny- light wind- 1 power boat.
+06/06/2010,Molly Stewart helped.
+06/26/2010,Sunny- calm- 2 loons- lots of power boat activity earlier. Molly Stewart and Marie Milanowski helped.
+06/28/2010,Partly sunny- light wind- no boats. 
+07/09/2010,Partly cloudy- light wind- 3 power boats- 2 fishing boats- 2 sailboats. Jen and Molly Stewart helped.
+07/15/2010,Sunny- windy- 2 power boats- sailboats and kayaks out at girl's camp. Molly Stewart helped.
+07/16/2010,30% clouds- windy- 2 power boats- 2 jet skis. 
+07/17/2010,Clear- light breeze- 2 power boats- 1 jet ski.
+07/26/2010,20% clouds- light winds- 3 power boats- 1 jet ski.
+07/28/2010,30% clouds- windy- 3 power boats- 1 jet ski.
+08/01/2010,Hazy sun- 3 fishing boats.Jen and Molly Stewart helped.
+08/09/2010,20% clouds- light breeze- 1 pontoon.
+08/18/2010,100% clouds- breezy- no other boats.
+09/05/2010,5% clouds- light breeze-2 fishing boats- 1 loon- 1 bald eagle- slight brownish/yellow color water- small- suspended green particles.
+05/29/2011,Bruce- Jen- and Molly. 100% overcast- 3-inch waves- 2 loons- 1 fishing boat.
+06/14/2011,Jen- Bruce- and Molly.  5% overcast- just short of whitecaps- 2 loons.
+06/20/2011,Bruce and Viv.  100% overcast- light breeze- 2 eagles- 2 loons- 2 fishing boats.
+06/30/2011,Hazy sun- just short of whitecaps- small suspended particles.  Bruce.
+07/02/2011,Bruce and Molly.  20% overcast- light breeze- 2 loons- 2 eagles- suspended particles (size of salt grains).
+07/03/2011,Bruce- Molly- Jen.  10% overcast (cirrus)- calm- loon- eagle- suspended particles ( salt grain sized and smaller- whitish in color)- 5 fishing boats- 2 kayaks. 
+07/04/2011,Bruce.  10% overcast (cumulus)- light breeze- loon- eagle- fishing boat- small whitish suspended particles. 
+07/20/2011,Bruce.  Clear- light breeze- 2 eagles- 4 skiers/tubers- 3 fisherman- wavy due to boat activity. 
+07/29/2011,Bruce and Molly.  25% overcast(cumulus)- light breeze- 2 eagles- 2 fishing boats.  
+08/13/2011,Bruce- Randy Zogbaum- and Jackson.  50% overcast- light breeze- 3 skiers/tubers. 
+10/09/2011,Bruce- Jen- and Molly.  25% cirrus- light breeze- 1 fishing boat.
+06/26/2012,2 loons feeding. Molly caught a 16 inch small mouth bass.  Bruce and Molly Stewart. Bruce and Molly Stewart.
+07/10/2012,calm and sunny
+07/21/2012,sunny. light breeze.
+08/20/2013,Clear and warm. Light breeze- 3 loons. Bruce and Molly Stewart.
+07/18/2014,Sunny. Light breeze. 2 loons- 1 eagle. Deepest reading that I have recorded.
+08/15/2014,Sunny. Light breeze- 2 loons- 1 eagle and 2 waterskiers
+08/24/2014,Overcast and calm. 2 loons- 1 waterskier
+07/19/2015,Sunny. 6 inch waves.
+05/26/2018,Beautiful day.  2 days since 2" rainfall.
+06/05/2018,Beautiful day.  5" of rain in last 2 weeks.
+06/18/2018,beautiful day- 6+" of rain in last 3 days.
+07/04/2018,Suspended particles in murky water- brown cast. Super high.  
+07/18/2018,beautiful calm day- lake level down 5" in last month
+07/30/2018,sunny calm day
+08/12/2018,sunny calm day
+08/19/2018,sunny calm day.  water 76 degrees- limited recent rain-  lake level down 8" from summer peak.
+09/01/2018,beautiful day- water temp 72
+09/15/2018,beautiful day- water temp 72
+05/05/2019,high runoff from record winter snow- lake level high- surface temp 48 degrees
+05/05/2019,high runoff from record winter snow- water temp 48 at surface- lake level high
+05/28/2019,very wet + cold spring- water temp 58 at surface- lake level high
+06/21/2019,not much rain last 3 weeks but lake level still high- water temp 69 at surface- been cold spring
+07/06/2019,very dry the last month- water level -4.5" since dock-in- water temp 78 at surface- lots of boat traffic over 7/4 week.
+07/25/2019,continues to be a very dry summer- water level -7" since dock-in- water temp 76 at surface
+08/14/2019,2-3" of rain in last week- water temp 74 at surface- water level -6" since dock-in
+08/31/2019,recent above normal rain- water temp 65 at surface- water level -5" since dock-in
+09/17/2019,rainy Aug + Sept- water temp 66 at surface- water level -3" since dock-in
+05/04/2020,ice off 4/18- water temp 50 at surface- lake level high from snow melt + rain
+05/21/2020,water temp 59 at surface- not much rain last 3 weeks- level -1" since dock in
+06/22/2020,water temp 72 at surface- 3"+ rain in last 10 days- lake level -2" since dock in
+07/02/2020,Partly sunny. 1 speed boat. 1 adult bald eagle
+07/04/2020,water temp 81 at surface- little rain + high air temps in last 10 days- lake level -3" since dock-in
+08/12/2020,water temp 75 at surface- lots of rain and high boat traffic seem to be affecting clarity
+08/18/2020,water temp 73 at surface- little rain the last couple weeks so lake level has dropped about 4"
+09/10/2020,water temp 62 at surface- water level -3" since putting dock in in spring.
+09/22/2020,water temp 63 at surface
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1979,Data Collectors,Migrated from STORET Legacy
+05/06/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/13/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/16/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/23/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/07/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/21/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/30/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/10/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/19/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/24/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/17/1993,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/17/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/03/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/13/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/29/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/11/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/26/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/20/1994,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/31/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/15/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/29/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/07/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/18/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/02/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/19/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/02/1995,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/14/1996,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/01/1996,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/16/1996,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/11/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/21/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/28/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/10/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/18/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/05/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/31/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/11/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/26/1997,Ken Wiesner,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/27/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/2001,JENNIFER WUDI,Lakes Baseline and Trends Monitoring
+04/24/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/29/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/31/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/05/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/06/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/26/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/28/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/09/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/15/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/16/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/17/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/26/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/28/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/01/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/09/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/18/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/05/2010,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/29/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/14/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/20/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/30/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/02/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/03/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/04/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/20/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/29/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/13/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+10/09/2011,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+04/29/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/03/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/26/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/30/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/03/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/10/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/21/2012,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/20/2013,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/18/2014,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/15/2014,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/24/2014,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/19/2015,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/21/2015,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/10/2015,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/26/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/05/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/18/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/04/2018,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/09/2018,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/18/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/30/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/10/2018,Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/12/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/19/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/01/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/15/2018,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/05/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/28/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/21/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/06/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/25/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/14/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/31/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/17/2019,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/04/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+05/21/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+06/22/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/02/2020,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/04/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/18/2020,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/25/2020,Molly Stewart- Bruce Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/27/2020,Bruce Stewart- Jen Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/28/2020,Bruce Stewart- Jen Stewart,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+07/30/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/12/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+08/18/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/10/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole
+09/22/2020,Michael Mader,Citizen Lake Monitoring - Water Quality - Meta Lake - Deep Hole

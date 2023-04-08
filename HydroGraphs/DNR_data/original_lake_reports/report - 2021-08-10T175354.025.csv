@@ -1,0 +1,765 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spirit River Flowage,Lincoln,1506800,NO,35,,353195,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/25/1979,,,,,20,,51,,,,,,
+1,08/06/1979,,,,,,,,,,,,,
+1,06/15/2000,4.6,,1.4,11,36,55,56,53,,,,,
+1,07/24/2000,2.3,,0.7,6.1,76,65,62,48,,,,,
+1,08/14/2000,3,,0.9,6,81,62,62,48,,,,,
+1,10/17/2000,3.3,,1,9,73,60,61,51,,,,,
+7000068,06/12/2001,4.3,NO,1.3,9,36,56,56,51,,,,,
+7000068,07/09/2001,,,,15,,,,55,,,,,
+7000068,08/03/2001,1.5,NO,0.5,1.9,,71,,40,,,,,
+8188669,08/03/2001,1.5,NO,0.5,,,71,,,,,,,
+7000068,08/28/2001,,,,21,135,,66,58,,,,,
+7000068,10/02/2001,,,,15,63,,60,55,,,,,
+7000068,06/04/2002,,,,0.42,28,,54,28,,,,,
+7000068,07/10/2002,,,,3.71,33,,55,45,,,,,
+7000068,08/06/2002,,,,23.7,51,,59,59,,,,,
+7000068,09/23/2002,,,,12.6,58,,60,54,,,,,
+1,02/20/2007,,,,,78,,62,,,,,,
+19627451,05/21/2007,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+19627451,06/14/2007,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,06/24/2007,3,NO,0.9,7.66,34,61,55,50,NORMAL,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+18137630,08/08/2007,,,,25.6,68,,61,59,,,,,
+18137630,08/26/2007,,,,36,88,,63,62,,,,,
+18137630,06/01/2008,,,,,,,,,,,,,
+19627451,06/01/2008,3.25,NO,1,,32,60,55,,NORMAL,,MURKY,RED,1-Beautiful, could not be nicer
+25650237,06/21/2008,3.25,NO,1,,,60,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+18137630,06/30/2008,3.25,NO,1,3.82,37,60,56,45,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+18137630,07/20/2008,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137630,08/10/2008,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+25650237,08/10/2008,,,,57.7,67,,61,65,,,,,
+18137630,08/28/2008,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137630,09/19/2008,2,NO,0.6,36.6,116,67,65,62,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+17938391,02/05/2009,,,,,,,,,,,,,
+18137630,05/10/2009,,,,,33,,55,,,,,,
+29529054,05/11/2009,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,06/01/2009,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,06/16/2009,4,NO,1.2,3.34,47,57,58,44,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,07/06/2009,4.25,NO,1.3,,,56,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,07/19/2009,4.25,NO,1.3,4.61,69,56,61,46,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,08/05/2009,3.75,NO,1.1,,,58,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,08/22/2009,3.75,NO,1.1,11.6,72,58,61,53,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,09/07/2009,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,05/09/2010,5.5,NO,1.7,,34,53,55,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,05/30/2010,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+43061320,06/03/2010,5.9,NO,1.8,2.4,35,52,56,41,,,,,
+29529054,06/16/2010,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,06/26/2010,,,,,40,,57,,,,,,
+29529054,07/06/2010,4.25,NO,1.3,,,56,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+43061320,07/06/2010,5.9,NO,1.8,16.2,39,52,57,56,,,,,
+29529054,07/17/2010,3,NO,0.9,7.05,86,61,63,50,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+43061320,08/03/2010,3,NO,0.9,1.5,78,62,62,38,,,,,
+29529054,08/08/2010,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,08/22/2010,2,NO,0.6,1.34,102,67,64,37,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+43061320,10/07/2010,3,NO,0.9,,57,62,59,,,,,,
+29529054,05/15/2011,4.25,NO,1.3,,,56,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,06/11/2011,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+43061320,06/14/2011,5.6,NO,1.7,4.4,35,52,56,46,,,,,
+29529054,06/26/2011,,,,9.1,63,,60,51,,,,,
+43061320,07/06/2011,4.3,NO,1.3,12.7,50,56,58,54,,,,,
+29529054,07/12/2011,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,07/17/2011,,,,4.06,46,,58,45,,,,,
+29529054,07/24/2011,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+43061320,08/04/2011,3.3,NO,1,23.9,53,60,59,59,,,,,
+29529054,08/13/2011,2.1,NO,0.6,,,66,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+29529054,08/29/2011,2.5,NO,0.8,15.4,66,64,61,55,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+43061320,10/05/2011,3.3,,1,10.4,72,60,61,53,,,,,
+29529054,05/08/2012,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,06/17/2012,3.5,NO,1.1,9.1,79,59,62,51,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+58058836,06/20/2012,3,N,0.9,17.1,46,62,58,56,,,,,
+29529054,07/01/2012,2.8,NO,0.9,,,62,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,07/15/2012,4,NO,1.2,9.13,43,57,57,52,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+58058836,07/18/2012,4.9,NO,1.5,11.4,46,54,58,53,,,,,
+29529054,07/29/2012,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,08/12/2012,2.75,NO,0.8,25.1,37,63,56,59,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+58058836,08/15/2012,2.6,NO,0.8,47.2,71,63,61,64,,,,,
+58058836,10/15/2012,3.6,NO,1.1,14.1,79,59,62,55,,,,,
+29529054,05/26/2013,4,,1.2,,34.2,57,56,,,,,,
+29529054,06/07/2013,3.5,,1.1,,,59,,,,,,,
+29529054,06/21/2013,2.5,,0.8,,,64,,,,,,,
+29529054,06/23/2013,,,,2.67,46.4,,58,42,,,,,
+29529054,07/01/2013,2.5,,0.8,,,64,,,,,,,
+29529054,07/21/2013,2.8,NO,0.9,12.3,46.9,62,58,54,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,08/02/2013,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,08/25/2013,2,NO,0.6,20.2,85.8,67,63,58,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+29529054,05/10/2014,4,NO,1.2,,33.9,57,55,,,,,,
+29529054,06/21/2014,3,NO,0.9,10.3,44.8,61,58,52,,,,,
+29529054,07/20/2014,2.2,NO,0.7,12.4,61.3,66,60,54,,,,,
+29529054,08/03/2014,2.8,NO,0.9,,,62,,,,,,,
+29529054,08/24/2014,,,,21.9,72.7,,61,58,,,,,
+29529054,08/25/2014,2.5,NO,0.8,,,64,,,,,,,
+29529054,05/10/2015,,,,,26.8,,54,,,,,,
+29529054,06/28/2015,,,,6.24,51.9,,59,49,,,,,
+89214715,07/21/2015,,,,56.4,60.3,,60,65,,,,,
+29529054,07/25/2015,1.5,NO,0.5,134,83.6,71,62,72,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+29529054,08/21/2015,,,,4.46,121,,65,46,,,,,
+29529054,06/18/2016,3,NO,0.9,,,61,,,,,,,
+29529054,06/19/2016,,,,4.51,57.6,,60,46,,,,,
+29529054,07/16/2016,2,NO,0.6,,,67,,,,,,,
+29529054,07/18/2016,,,,10,134,,66,52,,,,,
+29529054,08/14/2016,,,,19.5,102,,64,57,,,,,
+29529054,06/25/2017,2.5,NO,0.8,2.76,88.7,64,63,42,,,,,
+29529054,07/15/2017,2.5,NO,0.8,63.5,73.6,64,61,66,,,,,
+29529054,08/19/2017,3.2,NO,1,,,60,,,,,,,
+29529054,08/20/2017,,,,14.4,68.8,,61,55,,,,,
+29529054,07/21/2018,,,,8.89,35.8,,56,51,,,,,
+29529054,06/22/2019,,,,8.46,36.1,,56,51,,,,,
+58058836,06/19/2020,3,NO,0.9,12.8,44.7,62,58,54,,,,,
+1,07/27/2020,2.3,N,0.7,18.2,54.1,65,59,57,,,,,
+241112303,08/19/2020,2,N,0.6,10.1,59.1,62,60,52,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/25/1979,,,,,6.4,MG/L
+08/06/1979,,,24,C,,
+08/03/2001,0,FEET,29.01,DEGREES C,12.4,MG/L
+08/03/2001,3,FEET,25.8,DEGREES C,9.77,MG/L
+08/03/2001,6,FEET,24.8,DEGREES C,8,MG/L
+08/03/2001,9,FEET,23.7,DEGREES C,6.16,MG/L
+08/03/2001,12,FEET,23.1,DEGREES C,5.33,MG/L
+08/03/2001,15,FEET,22.4,DEGREES C,4.1,MG/L
+08/03/2001,18,FEET,22,DEGREES C,2.66,MG/L
+08/03/2001,,,25.8,C,9.7,MG/L
+02/20/2007,,,0.4,C,6.66,MG/L
+06/24/2007,3,FEET,73.7,DEGREES F,,
+06/24/2007,6,FEET,71.7,DEGREES F,,
+06/24/2007,9,FEET,70.7,DEGREES F,,
+06/24/2007,12,FEET,69.4,DEGREES F,,
+06/24/2007,15,FEET,69.0,DEGREES F,,
+06/24/2007,18,FEET,68.5,DEGREES F,,
+06/24/2007,21,FEET,67.8,DEGREES F,,
+06/24/2007,24,FEET,66.5,DEGREES F,,
+06/01/2008,3,FEET,63.8,DEGREES F,,
+06/01/2008,6,FEET,62.4,DEGREES F,,
+06/01/2008,9,FEET,60.4,DEGREES F,,
+06/01/2008,12,FEET,60.2,DEGREES F,,
+06/01/2008,15,FEET,60.0,DEGREES F,,
+06/01/2008,18,FEET,59.0,DEGREES F,,
+06/01/2008,21,FEET,58.0,DEGREES F,,
+06/01/2008,24,FEET,58.0,DEGREES F,,
+06/30/2008,3,FEET,72.4,DEGREES F,,
+06/30/2008,6,FEET,70.0,DEGREES F,,
+06/30/2008,9,FEET,68.7,DEGREES F,,
+06/30/2008,12,FEET,68.2,DEGREES F,,
+06/30/2008,15,FEET,67.8,DEGREES F,,
+06/30/2008,18,FEET,66.5,DEGREES F,,
+06/30/2008,21,FEET,65.8,DEGREES F,,
+06/30/2008,24,FEET,64.6,DEGREES F,,
+07/20/2008,3,FEET,73.3,DEGREES F,,
+07/20/2008,6,FEET,71.5,DEGREES F,,
+07/20/2008,9,FEET,71.2,DEGREES F,,
+07/20/2008,12,FEET,71,DEGREES F,,
+07/20/2008,15,FEET,69.5,DEGREES F,,
+07/20/2008,18,FEET,69.3,DEGREES F,,
+08/10/2008,3,FEET,74.6,DEGREES F,,
+08/10/2008,6,FEET,71.9,DEGREES F,,
+08/10/2008,9,FEET,71.7,DEGREES F,,
+08/10/2008,12,FEET,71.6,DEGREES F,,
+08/10/2008,15,FEET,71.4,DEGREES F,,
+08/10/2008,18,FEET,71.1,DEGREES F,,
+08/28/2008,3,FEET,71.9,DEGREES F,,
+08/28/2008,6,FEET,70.8,DEGREES F,,
+08/28/2008,9,FEET,70.2,DEGREES F,,
+08/28/2008,12,FEET,69.4,DEGREES F,,
+08/28/2008,15,FEET,68.9,DEGREES F,,
+09/19/2008,3,FEET,66,DEGREES F,,
+09/19/2008,6,FEET,65.8,DEGREES F,,
+09/19/2008,9,FEET,65.8,DEGREES F,,
+09/19/2008,12,FEET,65.3,DEGREES F,,
+09/19/2008,15,FEET,64.2,DEGREES F,,
+02/05/2009,,,0.1,C,6.2,MG/L
+05/11/2009,3,FEET,57.7,DEGREES F,,
+05/11/2009,6,FEET,56.6,DEGREES F,,
+05/11/2009,9,FEET,55.9,DEGREES F,,
+05/11/2009,12,FEET,55.7,DEGREES F,,
+05/11/2009,15,FEET,55.7,DEGREES F,,
+05/11/2009,18,FEET,55.7,DEGREES F,,
+05/11/2009,21,FEET,55.4,DEGREES F,,
+05/11/2009,24,FEET,53.7,DEGREES F,,
+06/01/2009,3,FEET,65,DEGREES F,,
+06/01/2009,6,FEET,64,DEGREES F,,
+06/01/2009,9,FEET,63.6,DEGREES F,,
+06/01/2009,12,FEET,62.9,DEGREES F,,
+06/01/2009,15,FEET,62,DEGREES F,,
+06/01/2009,18,FEET,62,DEGREES F,,
+06/01/2009,21,FEET,61.5,DEGREES F,,
+06/01/2009,24,FEET,59.3,DEGREES F,,
+06/16/2009,3,FEET,69,DEGREES F,,
+06/16/2009,6,FEET,66.8,DEGREES F,,
+06/16/2009,9,FEET,60.8,DEGREES F,,
+06/16/2009,12,FEET,59.9,DEGREES F,,
+06/16/2009,15,FEET,59.7,DEGREES F,,
+06/16/2009,18,FEET,59.3,DEGREES F,,
+06/16/2009,21,FEET,59.1,DEGREES F,,
+06/16/2009,24,FEET,58.8,DEGREES F,,
+07/06/2009,3,FEET,70.8,DEGREES F,,
+07/06/2009,6,FEET,70.1,DEGREES F,,
+07/06/2009,9,FEET,69.8,DEGREES F,,
+07/06/2009,12,FEET,66.9,DEGREES F,,
+07/06/2009,15,FEET,65.6,DEGREES F,,
+07/06/2009,18,FEET,64.7,DEGREES F,,
+07/06/2009,21,FEET,58.4,DEGREES F,,
+07/06/2009,22.5,FEET,58.4,DEGREES F,,
+07/19/2009,3,FEET,65.4,DEGREES F,,
+07/19/2009,6,FEET,65.1,DEGREES F,,
+07/19/2009,9,FEET,65,DEGREES F,,
+07/19/2009,12,FEET,64.9,DEGREES F,,
+07/19/2009,15,FEET,64.9,DEGREES F,,
+07/19/2009,18,FEET,64.7,DEGREES F,,
+07/19/2009,21,FEET,64.7,DEGREES F,,
+07/19/2009,22,FEET,64.5,DEGREES F,,
+08/05/2009,3,FEET,69.8,DEGREES F,,
+08/05/2009,6,FEET,69,DEGREES F,,
+08/05/2009,9,FEET,68.3,DEGREES F,,
+08/05/2009,12,FEET,68.2,DEGREES F,,
+08/05/2009,15,FEET,68,DEGREES F,,
+08/05/2009,18,FEET,65.8,DEGREES F,,
+08/05/2009,20,FEET,65.2,DEGREES F,,
+08/22/2009,3,FEET,67.4,DEGREES F,,
+08/22/2009,6,FEET,66.5,DEGREES F,,
+08/22/2009,9,FEET,66.1,DEGREES F,,
+08/22/2009,12,FEET,66,DEGREES F,,
+08/22/2009,15,FEET,65.8,DEGREES F,,
+08/22/2009,17,FEET,65.8,DEGREES F,,
+09/07/2009,3,FEET,69,DEGREES F,,
+09/07/2009,6,FEET,66.2,DEGREES F,,
+09/07/2009,9,FEET,64.5,DEGREES F,,
+09/07/2009,12,FEET,63,DEGREES F,,
+09/07/2009,14,FEET,62.4,DEGREES F,,
+05/09/2010,3,FEET,55.4,DEGREES F,,
+05/09/2010,6,FEET,55.2,DEGREES F,,
+05/09/2010,9,FEET,53,DEGREES F,,
+05/09/2010,12,FEET,52.7,DEGREES F,,
+05/09/2010,15,FEET,52.5,DEGREES F,,
+05/09/2010,18,FEET,52.5,DEGREES F,,
+05/09/2010,21,FEET,52.5,DEGREES F,,
+05/30/2010,3,FEET,73.5,DEGREES F,,
+05/30/2010,6,FEET,69,DEGREES F,,
+05/30/2010,9,FEET,62.7,DEGREES F,,
+05/30/2010,12,FEET,57.3,DEGREES F,,
+05/30/2010,15,FEET,55.7,DEGREES F,,
+05/30/2010,18,FEET,54.8,DEGREES F,,
+05/30/2010,21,FEET,54.3,DEGREES F,,
+05/30/2010,24,FEET,53.4,DEGREES F,,
+06/03/2010,1,METERS,21.4,DEGREES C,6.9,MG/L
+06/03/2010,2,METERS,21.3,DEGREES C,6.8,MG/L
+06/03/2010,3,METERS,18.3,DEGREES C,4,MG/L
+06/03/2010,4,METERS,14.7,DEGREES C,2.1,MG/L
+06/03/2010,4.3,METERS,14.6,DEGREES C,2,MG/L
+06/03/2010,4.8,METERS,14.4,DEGREES C,1.8,MG/L
+06/03/2010,5.2,METERS,14.1,DEGREES C,1.8,MG/L
+06/03/2010,,,21.0,C,6.5,MG/L
+06/16/2010,3,FEET,76.2,DEGREES F,,
+06/16/2010,6,FEET,74.4,DEGREES F,,
+06/16/2010,9,FEET,73.9,DEGREES F,,
+06/16/2010,12,FEET,70.1,DEGREES F,,
+06/16/2010,15,FEET,66,DEGREES F,,
+06/16/2010,18,FEET,65,DEGREES F,,
+06/16/2010,21,FEET,62.6,DEGREES F,,
+06/16/2010,24,FEET,62.1,DEGREES F,,
+07/06/2010,1,METERS,23.7,DEGREES C,6.9,MG/L
+07/06/2010,2,METERS,23.3,DEGREES C,6.5,MG/L
+07/06/2010,3,FEET,70.8,DEGREES F,,
+07/06/2010,3,METERS,23.1,DEGREES C,5.9,MG/L
+07/06/2010,4,METERS,20.4,DEGREES C,1.1,MG/L
+07/06/2010,4.8,METERS,18.9,DEGREES C,.2,MG/L
+07/06/2010,5.2,METERS,18.9,DEGREES C,.2,MG/L
+07/06/2010,5.7,METERS,18.6,DEGREES C,.3,MG/L
+07/06/2010,6,FEET,70.1,DEGREES F,,
+07/06/2010,9,FEET,69.8,DEGREES F,,
+07/06/2010,12,FEET,66.9,DEGREES F,,
+07/06/2010,15,FEET,65.6,DEGREES F,,
+07/06/2010,18,FEET,64.7,DEGREES F,,
+07/06/2010,21,FEET,58.4,DEGREES F,,
+07/06/2010,22,FEET,58.4,DEGREES F,,
+07/06/2010,,,23.3,C,6.5,MG/L
+07/17/2010,3,FEET,74.4,DEGREES F,,
+07/17/2010,6,FEET,73.4,DEGREES F,,
+07/17/2010,9,FEET,73.2,DEGREES F,,
+07/17/2010,12,FEET,73.2,DEGREES F,,
+07/17/2010,15,FEET,73,DEGREES F,,
+07/17/2010,18,FEET,73,DEGREES F,,
+07/17/2010,21,FEET,72.8,DEGREES F,,
+07/17/2010,24,FEET,63.6,DEGREES F,,
+07/17/2010,26,FEET,61.3,DEGREES F,,
+08/03/2010,1,METERS,13,DEGREES C,6.6,MG/L
+08/03/2010,2,METERS,12.8,DEGREES C,6.5,MG/L
+08/03/2010,3,METERS,12.8,DEGREES C,6.4,MG/L
+08/03/2010,4,METERS,12.7,DEGREES C,6.4,MG/L
+08/03/2010,4.9,METERS,12.7,DEGREES C,6.3,MG/L
+08/03/2010,5.4,METERS,12.6,DEGREES C,5.7,MG/L
+08/03/2010,5.8,METERS,12.5,DEGREES C,5.5,MG/L
+08/03/2010,,,24.6,C,4.6,MG/L
+08/08/2010,3,FEET,75.2,DEGREES F,,
+08/08/2010,6,FEET,75,DEGREES F,,
+08/08/2010,9,FEET,75,DEGREES F,,
+08/08/2010,12,FEET,74.6,DEGREES F,,
+08/08/2010,15,FEET,74.4,DEGREES F,,
+08/08/2010,18,FEET,72.5,DEGREES F,,
+08/08/2010,21,FEET,69.6,DEGREES F,,
+08/08/2010,24,FEET,66.9,DEGREES F,,
+08/08/2010,26,FEET,66,DEGREES F,,
+08/22/2010,3,FEET,72.8,DEGREES F,,
+08/22/2010,6,FEET,70.8,DEGREES F,,
+08/22/2010,9,FEET,70.1,DEGREES F,,
+08/22/2010,12,FEET,69.2,DEGREES F,,
+08/22/2010,15,FEET,69,DEGREES F,,
+08/22/2010,18,FEET,68.7,DEGREES F,,
+08/22/2010,21,FEET,68.7,DEGREES F,,
+08/22/2010,24,FEET,67.6,DEGREES F,,
+10/07/2010,1,METERS,13,DEGREES C,6.6,MG/L
+10/07/2010,2,METERS,12.8,DEGREES C,6.5,MG/L
+10/07/2010,3,METERS,12.8,DEGREES C,6.4,MG/L
+10/07/2010,4,METERS,12.7,DEGREES C,6.4,MG/L
+10/07/2010,4.9,METERS,12.7,DEGREES C,6.3,MG/L
+10/07/2010,5.4,METERS,12.6,DEGREES C,5.7,MG/L
+10/07/2010,5.8,METERS,12.5,DEGREES C,5.5,MG/L
+10/07/2010,,,13.0,C,6.6,MG/L
+05/15/2011,3,FEET,53,DEGREES F,,
+05/15/2011,6,FEET,52.3,DEGREES F,,
+05/15/2011,9,FEET,52.3,DEGREES F,,
+05/15/2011,12,FEET,52.1,DEGREES F,,
+05/15/2011,15,FEET,51.8,DEGREES F,,
+05/15/2011,18,FEET,51.6,DEGREES F,,
+05/15/2011,21,FEET,51.4,DEGREES F,,
+05/15/2011,24,FEET,51.4,DEGREES F,,
+05/15/2011,27,FEET,51.2,DEGREES F,,
+06/11/2011,3,FEET,67.8,DEGREES F,,
+06/11/2011,6,FEET,65.8,DEGREES F,,
+06/11/2011,9,FEET,65.4,DEGREES F,,
+06/11/2011,12,FEET,65.4,DEGREES F,,
+06/11/2011,15,FEET,65.4,DEGREES F,,
+06/11/2011,18,FEET,65.1,DEGREES F,,
+06/11/2011,21,FEET,63.6,DEGREES F,,
+06/11/2011,24,FEET,62.4,DEGREES F,,
+06/11/2011,27,FEET,58.6,DEGREES F,,
+06/14/2011,1,METERS,19.8,DEGREES C,7.6,MG/L
+06/14/2011,2,METERS,19.1,DEGREES C,7,MG/L
+06/14/2011,3,METERS,18.8,DEGREES C,6.6,MG/L
+06/14/2011,4,METERS,18.4,DEGREES C,6,MG/L
+06/14/2011,4.8,METERS,18.2,DEGREES C,5.7,MG/L
+06/14/2011,5.3,METERS,18.1,DEGREES C,5.4,MG/L
+06/14/2011,5.7,METERS,17.8,DEGREES C,4.9,MG/L
+06/14/2011,,,19.1,C,7.0,MG/L
+07/06/2011,1,METERS,25.8,DEGREES C,7.6,MG/L
+07/06/2011,2,METERS,25.1,DEGREES C,6.8,MG/L
+07/06/2011,3,METERS,23.9,DEGREES C,5,MG/L
+07/06/2011,4,METERS,19.3,DEGREES C,2.4,MG/L
+07/06/2011,5.3,METERS,18.4,DEGREES C,1.5,MG/L
+07/06/2011,5.8,METERS,18.2,DEGREES C,1.4,MG/L
+07/06/2011,6.2,METERS,18,DEGREES C,.6,MG/L
+07/06/2011,,,25.8,C,7.6,MG/L
+07/12/2011,3,FEET,77,DEGREES F,,
+07/12/2011,6,FEET,75.2,DEGREES F,,
+07/12/2011,9,FEET,72.6,DEGREES F,,
+07/12/2011,12,FEET,67.8,DEGREES F,,
+07/12/2011,15,FEET,65.4,DEGREES F,,
+07/12/2011,18,FEET,64.2,DEGREES F,,
+07/12/2011,21,FEET,63.3,DEGREES F,,
+07/12/2011,24,FEET,62.2,DEGREES F,,
+07/24/2011,3,FEET,78.2,DEGREES F,,
+07/24/2011,6,FEET,78.2,DEGREES F,,
+07/24/2011,9,FEET,76.6,DEGREES F,,
+07/24/2011,12,FEET,72.3,DEGREES F,,
+07/24/2011,15,FEET,70.1,DEGREES F,,
+07/24/2011,18,FEET,67.4,DEGREES F,,
+07/24/2011,21,FEET,63.5,DEGREES F,,
+07/24/2011,24,FEET,62,DEGREES F,,
+08/04/2011,,,24.9,C,6.8,MG/L
+08/13/2011,3,FEET,76.8,DEGREES F,,
+08/13/2011,6,FEET,72.5,DEGREES F,,
+08/13/2011,9,FEET,71.9,DEGREES F,,
+08/13/2011,12,FEET,71.6,DEGREES F,,
+08/13/2011,15,FEET,70.8,DEGREES F,,
+08/13/2011,18,FEET,70.6,DEGREES F,,
+08/13/2011,21,FEET,62.7,DEGREES F,,
+08/13/2011,24,FEET,62.3,DEGREES F,,
+08/29/2011,3,FEET,72.3,DEGREES F,,
+08/29/2011,6,FEET,71.6,DEGREES F,,
+08/29/2011,9,FEET,71.4,DEGREES F,,
+08/29/2011,12,FEET,71,DEGREES F,,
+08/29/2011,15,FEET,70.5,DEGREES F,,
+08/29/2011,18,FEET,70.1,DEGREES F,,
+08/29/2011,21,FEET,68.3,DEGREES F,,
+08/29/2011,34,FEET,68.3,DEGREES F,,
+10/05/2011,,,15.1,C,9.2,MG/L
+05/08/2012,3,FEET,73.5,DEGREES F,,
+05/08/2012,6,FEET,73.4,DEGREES F,,
+05/08/2012,9,FEET,71.6,DEGREES F,,
+05/08/2012,12,FEET,66,DEGREES F,,
+05/08/2012,15,FEET,64.2,DEGREES F,,
+05/08/2012,18,FEET,63.6,DEGREES F,,
+05/08/2012,21,FEET,62.7,DEGREES F,,
+05/08/2012,247,FEET,61.8,DEGREES F,,
+06/17/2012,3,FEET,70.1,DEGREES F,,
+06/17/2012,6,FEET,69,DEGREES F,,
+06/17/2012,9,FEET,67.2,DEGREES F,,
+06/17/2012,12,FEET,66.5,DEGREES F,,
+06/17/2012,15,FEET,66.5,DEGREES F,,
+06/17/2012,18,FEET,66.5,DEGREES F,,
+06/17/2012,21,FEET,66.2,DEGREES F,,
+06/17/2012,24,FEET,66,DEGREES F,,
+06/20/2012,,,22.7,C,8.0,MG/L
+07/01/2012,3,FEET,77.7,DEGREES F,,
+07/01/2012,6,FEET,77,DEGREES F,,
+07/01/2012,9,FEET,76.4,DEGREES F,,
+07/01/2012,12,FEET,74.1,DEGREES F,,
+07/01/2012,15,FEET,69.8,DEGREES F,,
+07/01/2012,18,FEET,68.9,DEGREES F,,
+07/01/2012,21,FEET,66.2,DEGREES F,,
+07/01/2012,24,FEET,63.8,DEGREES F,,
+07/15/2012,3,FEET,80,DEGREES F,,
+07/15/2012,6,FEET,79.8,DEGREES F,,
+07/15/2012,9,FEET,77.3,DEGREES F,,
+07/15/2012,12,FEET,72.3,DEGREES F,,
+07/15/2012,15,FEET,68.3,DEGREES F,,
+07/15/2012,18,FEET,67.9,DEGREES F,,
+07/15/2012,21,FEET,65.1,DEGREES F,,
+07/18/2012,,,27.4,C,5.8,MG/L
+07/29/2012,3,FEET,78,DEGREES F,,
+07/29/2012,6,FEET,77,DEGREES F,,
+07/29/2012,9,FEET,76.2,DEGREES F,,
+07/29/2012,12,FEET,75,DEGREES F,,
+07/29/2012,15,FEET,68,DEGREES F,,
+07/29/2012,18,FEET,67.1,DEGREES F,,
+07/29/2012,21,FEET,63.5,DEGREES F,,
+08/12/2012,3,FEET,70.8,DEGREES F,,
+08/12/2012,6,FEET,70.5,DEGREES F,,
+08/12/2012,9,FEET,70.1,DEGREES F,,
+08/12/2012,12,FEET,69.9,DEGREES F,,
+08/12/2012,15,FEET,69.8,DEGREES F,,
+08/12/2012,18,FEET,69.6,DEGREES F,,
+08/12/2012,21,FEET,65.1,DEGREES F,,
+08/15/2012,,,22.3,C,9.3,MG/L
+10/15/2012,,,6.4,C,10.6,MG/L
+05/26/2013,3,FEET,61.1,DEGREES F,,
+05/26/2013,6,FEET,61.1,DEGREES F,,
+05/26/2013,9,FEET,60.8,DEGREES F,,
+05/26/2013,12,FEET,60.4,DEGREES F,,
+05/26/2013,15,FEET,59.7,DEGREES F,,
+05/26/2013,18,FEET,57.7,DEGREES F,,
+05/26/2013,21,FEET,56.1,DEGREES F,,
+05/26/2013,24,FEET,54.6,DEGREES F,,
+05/26/2013,26,FEET,52.3,DEGREES F,,
+06/07/2013,3,FEET,65.3,DEGREES F,,
+06/07/2013,6,FEET,65.1,DEGREES F,,
+06/07/2013,9,FEET,65,DEGREES F,,
+06/07/2013,12,FEET,64.3,DEGREES F,,
+06/07/2013,15,FEET,62.1,DEGREES F,,
+06/07/2013,18,FEET,60.1,DEGREES F,,
+06/07/2013,21,FEET,59.8,DEGREES F,,
+06/07/2013,24,FEET,59.7,DEGREES F,,
+06/07/2013,26,FEET,59.5,DEGREES F,,
+07/01/2013,3,FEET,70.7,DEGREES F,,
+07/01/2013,6,FEET,70.2,DEGREES F,,
+07/01/2013,9,FEET,69.8,DEGREES F,,
+07/01/2013,12,FEET,67.2,DEGREES F,,
+07/01/2013,15,FEET,66.9,DEGREES F,,
+07/01/2013,18,FEET,65.8,DEGREES F,,
+07/01/2013,21,FEET,62.1,DEGREES F,,
+07/01/2013,24,FEET,60.2,DEGREES F,,
+07/21/2013,3,FEET,78,DEGREES F,,
+07/21/2013,6,FEET,77.7,DEGREES F,,
+07/21/2013,9,FEET,77.7,DEGREES F,,
+07/21/2013,12,FEET,76.4,DEGREES F,,
+07/21/2013,15,FEET,69,DEGREES F,,
+07/21/2013,18,FEET,68,DEGREES F,,
+07/21/2013,21,FEET,62.6,DEGREES F,,
+07/21/2013,22,FEET,60,DEGREES F,,
+08/02/2013,3,FEET,79,DEGREES F,,
+08/02/2013,6,FEET,78.2,DEGREES F,,
+08/02/2013,9,FEET,76.1,DEGREES F,,
+08/02/2013,12,FEET,75.2,DEGREES F,,
+08/02/2013,15,FEET,70,DEGREES F,,
+08/02/2013,18,FEET,69,DEGREES F,,
+08/02/2013,21,FEET,63.1,DEGREES F,,
+08/02/2013,22,FEET,61.2,DEGREES F,,
+08/25/2013,3,FEET,74,DEGREES F,,
+08/25/2013,6,FEET,74,DEGREES F,,
+08/25/2013,9,FEET,72.3,DEGREES F,,
+08/25/2013,12,FEET,70.3,DEGREES F,,
+08/25/2013,15,FEET,69.2,DEGREES F,,
+08/25/2013,18,FEET,64,DEGREES F,,
+08/25/2013,20,FEET,61.3,DEGREES F,,
+05/10/2014,3,FEET,52.9,DEGREES F,,
+05/10/2014,6,FEET,51.6,DEGREES F,,
+05/10/2014,9,FEET,51.2,DEGREES F,,
+05/10/2014,12,FEET,51,DEGREES F,,
+05/10/2014,15,FEET,51,DEGREES F,,
+05/10/2014,18,FEET,50.7,DEGREES F,,
+05/10/2014,20,FEET,50,DEGREES F,,
+06/21/2014,3,FEET,71,DEGREES F,,
+06/21/2014,6,FEET,69.6,DEGREES F,,
+06/21/2014,9,FEET,69,DEGREES F,,
+06/21/2014,12,FEET,68,DEGREES F,,
+06/21/2014,15,FEET,67.2,DEGREES F,,
+06/21/2014,18,FEET,65.3,DEGREES F,,
+06/21/2014,21,FEET,64.7,DEGREES F,,
+06/21/2014,23,FEET,63.3,DEGREES F,,
+07/20/2014,3,FEET,71.2,DEGREES F,,
+07/20/2014,6,FEET,71,DEGREES F,,
+07/20/2014,9,FEET,70.3,DEGREES F,,
+07/20/2014,12,FEET,68,DEGREES F,,
+07/20/2014,15,FEET,67.6,DEGREES F,,
+07/20/2014,18,FEET,66.9,DEGREES F,,
+07/20/2014,21,FEET,65.3,DEGREES F,,
+07/20/2014,24,FEET,62.7,DEGREES F,,
+08/03/2014,3,FEET,75.4,DEGREES F,,
+08/03/2014,6,FEET,71.1,DEGREES F,,
+08/03/2014,9,FEET,70.5,DEGREES F,,
+08/03/2014,12,FEET,69,DEGREES F,,
+08/03/2014,15,FEET,69.6,DEGREES F,,
+08/03/2014,18,FEET,68,DEGREES F,,
+08/03/2014,21,FEET,63.6,DEGREES F,,
+08/25/2014,3,FEET,69.8,DEGREES F,,
+08/25/2014,6,FEET,69.6,DEGREES F,,
+08/25/2014,9,FEET,69.6,DEGREES F,,
+08/25/2014,12,FEET,69.6,DEGREES F,,
+08/25/2014,15,FEET,69.2,DEGREES F,,
+08/25/2014,18,FEET,69,DEGREES F,,
+08/25/2014,21,FEET,68.3,DEGREES F,,
+07/25/2015,3,FEET,78.2,DEGREES F,,
+07/25/2015,6,FEET,77.3,DEGREES F,,
+07/25/2015,9,FEET,76.2,DEGREES F,,
+07/25/2015,12,FEET,73.4,DEGREES F,,
+07/25/2015,15,FEET,72.5,DEGREES F,,
+07/25/2015,18,FEET,68.3,DEGREES F,,
+07/25/2015,26,FEET,64,DEGREES F,,
+06/18/2016,3,FEET,77,DEGREES F,,
+06/18/2016,6,FEET,71.9,DEGREES F,,
+06/18/2016,9,FEET,67.8,DEGREES F,,
+06/18/2016,12,FEET,67.2,DEGREES F,,
+06/18/2016,15,FEET,66.9,DEGREES F,,
+06/18/2016,18,FEET,66.5,DEGREES F,,
+06/18/2016,20,FEET,65.6,DEGREES F,,
+07/16/2016,3,FEET,72.1,DEGREES F,,
+07/16/2016,6,FEET,71.4,DEGREES F,,
+07/16/2016,9,FEET,71.6,DEGREES F,,
+07/16/2016,12,FEET,71.4,DEGREES F,,
+07/16/2016,15,FEET,71,DEGREES F,,
+07/16/2016,18,FEET,69.6,DEGREES F,,
+07/16/2016,20,FEET,69.4,DEGREES F,,
+06/25/2017,3,FEET,65,DEGREES F,,
+06/25/2017,6,FEET,65.1,DEGREES F,,
+06/25/2017,9,FEET,64.9,DEGREES F,,
+06/25/2017,12,FEET,64.7,DEGREES F,,
+06/25/2017,15,FEET,64.7,DEGREES F,,
+06/25/2017,18,FEET,64.7,DEGREES F,,
+06/25/2017,20,FEET,64.4,DEGREES F,,
+07/15/2017,3,FEET,76.4,DEGREES F,,
+07/15/2017,6,FEET,75.5,DEGREES F,,
+07/15/2017,9,FEET,74.6,DEGREES F,,
+07/15/2017,12,FEET,72.8,DEGREES F,,
+07/15/2017,15,FEET,64.7,DEGREES F,,
+07/15/2017,18,FEET,63.3,DEGREES F,,
+07/15/2017,20,FEET,61.5,DEGREES F,,
+08/19/2017,3,FEET,70.1,DEGREES F,,
+08/19/2017,6,FEET,69.6,DEGREES F,,
+08/19/2017,9,FEET,68.9,DEGREES F,,
+08/19/2017,12,FEET,68.9,DEGREES F,,
+08/19/2017,15,FEET,68.7,DEGREES F,,
+08/19/2017,18,FEET,68.3,DEGREES F,,
+08/19/2017,20,FEET,67.4,DEGREES F,,
+06/19/2020,,,22.6,C,8.3,MG/L
+07/27/2020,,,24.9,C,6.9,MG/L
+08/19/2020,,,12.4,C,7.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/25/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/06/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/24/2000,INTEGRATED SAMPLE    
+06/12/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/09/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED    
+08/03/2001,INTEGRATED SAMPLER- 2 METER SAMPLE    
+08/03/2001,Sampling conducted from a float plane.    
+08/28/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/02/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+06/04/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/10/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/06/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+09/23/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+02/20/2007,MILE 7 - MAIN CHANNEL 
+05/11/2009,Sunny and calm.
+06/01/2009,Sunny.  7 mph wind.
+06/16/2009,Sunny.  5 mph wind.
+07/06/2009,Sunny.  10 mph wind.
+07/19/2009,Sunny. 7-9 mph wind.
+08/05/2009,Sunny. 7 mph wind.
+08/22/2009,Sunny and calm.
+09/07/2009,Sunny. 5 mph wind.
+05/09/2010,calm and sunny.
+05/30/2010,Wind 5 MPH. Sunny and hot.
+06/16/2010,Calm and sunny.
+07/06/2010,Calm and sunny.
+07/17/2010,Wind at 5 MHP. Sunny.
+05/15/2011,sunny-  more than 5 mph wind
+06/11/2011,sunny-  more than 5 mph wind
+07/12/2011,sunny- 10 mph iwnd
+07/24/2011,sunny + calm
+08/13/2011,sunny + calm
+08/29/2011,sunny with a 5 mph wind
+05/08/2012,clear and calm.
+06/17/2012,clear and calm.
+07/01/2012,Partly cloudy. Light wind
+07/15/2012,Clear. Light wind.
+07/29/2012,Clear. Light wind.
+08/12/2012,Partly cloudy. Light wind.
+05/26/2013,Clear- light
+06/07/2013,Partly cloudy- light
+06/21/2013,Clear- light
+07/01/2013,Partly cloudly- light
+05/10/2014,assume noon
+06/21/2014,assume noon
+07/20/2014,assume noon
+08/03/2014,assume noon
+08/25/2014,assume noon
+07/25/2015,clear- calm assume noon
+06/18/2016,assume noon
+07/16/2016,assume noon
+06/25/2017,assume noon
+07/15/2017,assume noon
+
+
+
+
+Start Date,Group Name,Project Name
+07/25/1979,Data Collectors,Migrated from STORET Legacy
+08/06/1979,Data Collectors,Migrated from STORET Legacy
+06/15/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+06/15/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/24/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+07/24/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+08/14/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/17/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+10/17/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+06/12/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/09/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+07/09/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/03/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/03/2001,Weinfuster,Lakes Baseline and Trends Monitoring
+08/28/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+08/28/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+10/02/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+10/02/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/04/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+06/04/2002,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/10/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+08/06/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+09/23/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+02/20/2007,Data Collectors,WCR 303d and TMDL
+05/21/2007,Blaine Powers- Woody Erickson,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/14/2007,Blaine Powers- Woody Erickson,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/24/2007,Data Collectors,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/08/2007,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/26/2007,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/01/2008,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/01/2008,Blaine Powers- Woody Erickson,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/21/2008,Lennie Bartz and Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/30/2008,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/20/2008,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/10/2008,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/10/2008,Lennie Bartz and Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/28/2008,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+09/19/2008,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+02/05/2009,Scott Provost,Response Monitoring
+05/10/2009,Blaine Powers,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+05/11/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/01/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/16/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/06/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/19/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/05/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/22/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+09/07/2009,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+05/09/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+05/30/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/03/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+06/03/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/16/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/26/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/06/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+07/06/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/06/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/17/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/03/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+08/03/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/08/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/22/2010,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+10/07/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+10/07/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+05/15/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/11/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/14/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+06/14/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/26/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/06/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+07/06/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/12/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/17/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/24/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/04/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+08/04/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/13/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/29/2011,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+10/05/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+10/05/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+05/08/2012,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/17/2012,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/20/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+06/20/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/01/2012,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/15/2012,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/18/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+07/18/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/29/2012,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/12/2012,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/15/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+08/15/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/15/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Spirit Reservoir- P-2113T (Wisconsin Valley Improvement Company / WVIC) 
+10/15/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+05/26/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/07/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/21/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/23/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/01/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/21/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/02/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/25/2013,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+05/10/2014,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/21/2014,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/20/2014,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/03/2014,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/24/2014,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/25/2014,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+05/10/2015,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/28/2015,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/21/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 2016
+07/25/2015,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/21/2015,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/18/2016,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/19/2016,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/16/2016,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/18/2016,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/14/2016,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/25/2017,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/15/2017,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/19/2017,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+08/20/2017,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+07/21/2018,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/22/2019,Paul Sandry,Citizen Lake Monitoring - Water Quality - Spirit River Flowage - Deep Hole 
+06/19/2020,Ben Niffenegger,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+07/27/2020,Data Collectors,
+08/19/2020,Ben Niffenegger- Scott Blado,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022

@@ -1,0 +1,69 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Unnamed,Langlade,1448300,NO,34,,10043761,NE,
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+117499505,06/30/2015,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/18/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/08/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/16/2015,3, ,0.9,,,61,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/26/2015,3,NO,0.9,,,61,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/08/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/16/2015,3, ,0.9,,,61,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+117499505,09/26/2015,2.5,NO,0.8,,,64,,,LOW,,MURKY,BLUE,2-Very minor aesthetic problems
+117499505,06/10/2016,3.5,,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/08/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/19/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/06/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+122896168,06/16/2017,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/12/2017,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/27/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/25/2018,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/12/2019,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/16/2017,30,FEET,40.4,DEGREES F,,
+07/12/2017,12,FEET,55.4,DEGREES F,,
+07/27/2017,12,FEET,55.4,DEGREES F,,
+06/25/2018,25,FEET,39.7,DEGREES F,,
+07/12/2019,15,FEET,49.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/08/2015,sunny partial clouds
+08/26/2015,partial cloudy
+09/08/2015,Partial Cloudy RTain last PM
+09/16/2015,Windy- Recent Rain- Partial Cloudy
+09/26/2015,Sunny no wind- no waves
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/18/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+08/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+08/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+08/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+09/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+09/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+09/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+06/10/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/19/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+08/06/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+06/16/2017,Sam Picone- Paul Tusler,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/12/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/27/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+06/25/2018,Sam Picone,Citizen Aquatic Invasives Monitoring - Little Saddlebag Lake
+06/25/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 
+07/12/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Little Saddlebag Lake - Deep Hole 

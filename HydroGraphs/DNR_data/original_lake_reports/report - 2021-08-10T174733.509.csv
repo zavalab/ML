@@ -1,0 +1,151 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Dynamite Lake,Langlade,1451700,NO,34,,343067,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,08/22/1984,,,,20,,,,57,,,,,
+1,10/10/1985,5.2,,1.6,,77,53,62,,,,,,
+117499505,06/29/2015,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,07/08/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+117499505,07/18/2015,6, ,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+117499505,08/01/2015,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,08/16/2015,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,08/26/2015,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+117499505,09/08/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,09/16/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,06/08/2016,7,,2.1,,,49,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,07/08/2016,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/15/2016,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,08/07/2016,6,,1.8,,,51,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,08/15/2016,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,08/26/2016,4,,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,08/31/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/26/2017,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+122896168,07/03/2017,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/25/2017,6.5,NO,2,11.2,40.2,50,57,53,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+117499505,08/06/2017,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+117499505,08/15/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,09/07/2017,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,09/24/2017,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,06/17/2018,2.5,NO,0.8,62.1,49.7,64,58,66,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+117499505,07/04/2018,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+117499505,07/15/2018,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,07/16/2018,,,,46.3,50.7,,59,64,,,,,
+117499505,08/05/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+117499505,08/18/2018,6.5,NO,2,14.8,26.7,50,54,55,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+117499505,06/20/2019,7,NO,2.1,13.2,31.4,49,55,54,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+117499505,07/13/2019,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/16/2019,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+117499505,07/25/2019,2,NO,0.6,101,52.6,67,59,70,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+117499505,08/22/2019,3,NO,0.9,44.3,39.4,61,57,63,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+117499505,06/06/2020,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/21/2020,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+117499505,07/06/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+117499505,07/19/2020,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+117499505,08/05/2020,2.5,NO,0.8,,,64,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+117499505,08/21/2020,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/10/1985,,,8,C,9,MG/L
+06/26/2017,22,FEET,51.2,DEGREES F,,
+07/03/2017,17,FEET,50.7,DEGREES F,,
+07/25/2017,25,FEET,51.6,DEGREES F,,
+08/06/2017,30,FEET,52.5,DEGREES F,,
+08/15/2017,25,FEET,53,DEGREES F,,
+09/07/2017,25,FEET,56.1,DEGREES F,,
+09/24/2017,25,FEET,53.5,DEGREES F,,
+06/17/2018,20,FEET,44,DEGREES F,,
+07/04/2018,25,FEET,48.4,DEGREES F,,
+07/15/2018,25,FEET,45.8,DEGREES F,,
+08/05/2018,20,FEET,44,DEGREES F,,
+08/18/2018,25,FEET,47.8,DEGREES F,,
+06/20/2019,21,FEET,47.8,DEGREES F,,
+07/13/2019,20,FEET,42.4,DEGREES F,,
+07/16/2019,23,FEET,50,DEGREES F,,
+07/25/2019,18,FEET,50.1,DEGREES F,,
+08/22/2019,25,FEET,51.6,DEGREES F,,
+06/06/2020,25,FEET,49.2,DEGREES F,,
+06/21/2020,23,FEET,49.2,DEGREES F,,
+07/06/2020,25,FEET,49.8,DEGREES F,,
+07/19/2020,25,FEET,50.3,DEGREES F,,
+08/05/2020,25,FEET,48.7,DEGREES F,,
+08/21/2020,25,FEET,50.5,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+08/22/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/10/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/08/2015,loon on  lake sunny partial clouds
+08/01/2015,sunny partial cloudy
+08/16/2015,sunny partial cloudy- green algae floating? geese- loon present
+08/26/2015,Blue Green Algae Bloom- mod extensive- mirky water- partial cloudy
+09/08/2015,partial cloudy. Water mirky- blue green algae
+09/16/2015,Recent Rain- Partial Cloudy- Blue Green Algae not floating in clumps anymore
+06/08/2016,Blue Green Algae- Brown Murky Water- Sunny Day
+08/26/2016,Significantly increased blue green algae. Significantly increased mirky brown water
+08/06/2017,Recent Blue Green Algae bloom- now gone. Water muddy- murky brown worth ALOT of particulate matter
+08/15/2017,Mirky- muddy brown water- clumps of blue green algae- mirky
+09/07/2017,heavy blue green algae blooms- murky brown water
+09/24/2017,Blue Green Algae blooms- watrer mirky- muddy
+06/17/2018,cloudy- overcast- water mirky- blue greenalgae
+06/17/2018,overcast
+ overcast- blue green heavy algae
+
+07/04/2018,Blue Green Algae Clumps- Algae infested water
+07/15/2018,mirky water- a great deal of algae with blue green algae clumps
+08/22/2019,Thick surface layer of blue-green algae- poor visibility
+
+06/21/2020,blue green algae blooms 
+
+
+
+
+Start Date,Group Name,Project Name
+08/22/1984,Data Collectors,Migrated from STORET Legacy
+10/10/1985,Data Collectors,Migrated from STORET Legacy
+06/29/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/18/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/01/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+09/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+09/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+06/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/08/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/15/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/07/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/15/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/26/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/31/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+06/26/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/03/2017,Sam Picone- Paul Tusler,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/25/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/06/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/15/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+09/07/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+09/24/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+06/17/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/04/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/15/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/16/2018,Data Collectors,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/05/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/18/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+06/20/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/13/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/16/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/25/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/22/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+06/06/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+06/21/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/06/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+07/19/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/05/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole
+08/21/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Dynamite Lake - Deep Hole

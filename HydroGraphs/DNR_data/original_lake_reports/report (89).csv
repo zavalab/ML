@@ -1,0 +1,325 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Long Lake,Burnett,2674100,NO,7,,073050,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190424,10/12/1990,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190424,07/06/1991,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,07/11/1991,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,08/04/1991,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,08/12/1991,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,07/14/1992,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190424,08/09/1992,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190424,10/03/1992,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,07/10/1993,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,07/15/1993,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,08/15/1993,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,08/17/1993,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,05/28/1994,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,07/05/1994,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,07/11/1994,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,07/28/1994,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,08/15/1994,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,05/29/1995,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/04/1995,19,NO,5.8,1.48,7,35,43,38,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/07/1995,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189798,07/23/1995,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189798,08/18/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,09/04/1995,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,06/29/1996,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/10/1996,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/16/1996,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/23/1996,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189798,08/20/1996,19,NO,5.8,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,06/01/1997,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,06/15/1997,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/08/1998,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189798,07/31/1998,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189798,06/29/1999,17,NO,5.2,,,36,,,,,,,
+8189798,07/08/1999,17,NO,5.2,,,36,,,,,,,
+8189798,07/31/1999,19,NO,5.8,,,35,,,,,,,
+8189798,08/20/1999,19,NO,5.8,,,35,,,,,,,
+8189798,06/11/2000,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189798,06/25/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,07/04/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,07/09/2000,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,07/27/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8190424,08/13/2000,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+1,08/22/2000,15.7,,4.8,2.4,13,37,48,41,,,,,
+8189798,09/29/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,10/21/2000,17,NO,5.2,,,36,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,05/28/2001,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,06/10/2001,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,06/28/2001,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/14/2001,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,07/30/2001,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189798,08/31/2001,16,NO,4.9,,,37,,,LOW,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+8189798,10/02/2001,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189798,10/17/2001,20,NO,6.1,,,34,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189798,06/16/2002,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189798,08/11/2002,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,08/23/2002,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190424,08/25/2002,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/12/2003,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,08/29/2003,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,09/06/2003,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,06/12/2005,21,NO,6.4,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,06/19/2005,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,08/06/2005,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,09/18/2005,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,06/24/2006,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/01/2006,17,NO,5.2,,,36,,,LOW,,CLEAR,,1-Beautiful, could not be nicer
+8189798,07/15/2006,18,NO,5.5,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,08/05/2006,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,08/20/2006,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/08/2007,19,NO,5.8,,,35,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189798,07/28/2007,21,NO,6.4,,,33,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189798,07/26/2008,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799411,06/13/2011,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+36799411,07/10/2011,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799411,07/24/2011,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799411,08/17/2011,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799411,08/19/2011,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799411,06/11/2013,10.5,NO,3.2,,,43,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+36799411,06/18/2013,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+36799411,07/11/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+36799411,08/23/2013,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99027228,05/26/2014,,,,,12.1,,47,,,,,,
+99027228,06/05/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+99027228,06/10/2014,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+99027228,06/30/2014,,,,2.42,13,,48,41,,,,,
+99027228,07/20/2014,,,,2.84,17.3,,50,43,,,,,
+99027228,09/14/2014,,,,2.29,17.8,,50,41,,,,,
+99027228,07/26/2015,,,,1.22,15.8,,50,36,,,,,
+99027228,08/22/2015,,,,2.7,18,,51,42,,,,,
+99027228,05/22/2016,,,,,21.9,,52,,,,,,
+99027228,08/15/2016,,,,0.987,20.6,,52,35,,,,,
+99027228,09/05/2016,,,,1.2,24.2,,53,36,,,,,
+99027228,07/08/2017,,,,2.27,31.1,,55,41,,,,,
+145711632,07/11/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+145711632,07/28/2017,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99027228,07/31/2017,,,,1.45,20.5,,52,38,,,,,
+99027228,09/04/2017,,,,2.29,22.8,,52,41,,,,,
+99027228,05/28/2018,,,,,10.9,,47,,,,,,
+145711632,06/13/2018,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99027228,07/03/2018,,,,2.91,12.2,,48,43,,,,,
+99027228,07/22/2018,,,,2.1,8.1,,44,40,,,,,
+99027228,09/16/2018,,,,0.503,11.7,,47,30,,,,,
+145711632,10/04/2018,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145711632,05/07/2019,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+145711632,06/10/2019,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99027228,06/16/2019,,,,2.13,11.7,,47,41,,,,,
+99027228,07/28/2019,,,,2.16,11.8,,47,41,,,,,
+99027228,08/18/2019,,,,1.82,13.3,,48,39,,,,,
+99027228,10/07/2019,,NO,,,,,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99027228,06/30/2020,,,,2.41,12.2,,48,41,,,,,
+99027228,07/30/2020,,,,1.78,9,,45,39,,,,,
+99027228,09/03/2020,,,,1.97,10.3,,46,40,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/04/1995,1,FEET,70,DEGREES F,10,MG/L
+06/04/1995,3,FEET,69,DEGREES F,,
+06/04/1995,10,FEET,64,DEGREES F,,
+06/04/1995,15,FEET,64,DEGREES F,,
+06/04/1995,20,FEET,58,DEGREES F,,
+06/04/1995,25,FEET,53,DEGREES F,,
+06/04/1995,30,FEET,52,DEGREES F,,
+06/04/1995,35,FEET,48,DEGREES F,,
+06/04/1995,38,FEET,47,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+10/12/1990,Heavy weekend boat use and heavy filamentous algae in summer.    
+07/06/1991,Clear- heavy boat traffic- no algae present- high spring and summer rainfall    
+07/11/1991,Calm- clear- low boat traffic    
+08/04/1991,Partly sunny- heavy lake traffic- light winds    
+08/12/1991,Calm- clear- blue skies    
+07/14/1992,Lots of rain this summer- water levels are way up.  Some algae seen on eastern shore - large blobs.    
+08/09/1992,Hot- humid today- some algae blobs in shallow water.    
+10/03/1992,Winds @ 10 mph- 70 degrees- sunny.    
+07/10/1993,No algae- cool air temps- cold water- much rain this summer    
+07/15/1993,Winds 15 mph    
+08/15/1993,Areas of algae present- large blobs.    
+08/17/1993,Still areas of algae present.    
+05/28/1994,Busy on lake-clear skies- calm.    
+07/05/1994,Humid.    
+07/11/1994,Hazy sunshine.    
+05/29/1995,Lots of rain 5/27 + 5/28.    
+06/04/1995,Clear- calm- 80 degrees- water level is high- heavy poplar pollen and fuzz in the water.  Lots of rain in the last two weeks.    
+07/07/1995,Hot during June-more algae blooms than ever!!    
+07/23/1995,We have massive areas of algae-more than any year!!    
+08/18/1995,Algae blooms are going away. lots of weeds.    
+09/04/1995,Water level: Up a little    
+06/29/1996,Hot + humid today. lake level up. rainy- cool spring.    
+07/10/1996,Beautiful day. lots of rain this summer. lake unusually high. no algae blooms yet!    
+07/16/1996,Some algae blooms present.  We have a family of geese + 2 duck families - one with 13 babies.  3 pair loons but none nesting. eagles are returning.    
+07/23/1996,We have massive areas of algae-more than any year!!    
+08/20/1996,We have massive amounts of purple loosestrife everywhere along shoreline. we need help with this!    
+06/01/1997,We have massive amounts of purple loosestrife all around our lake.    
+07/08/1998,Large algae blooms- lots of loostrife along shoreline- growing larger every summer.    
+06/11/2000,Lake very low. Calm water- no algae blooms.    
+06/25/2000,Lake busy this weekend. calm water- hazy. satellite reading.    
+07/04/2000,Lake very busy all weekend.    
+07/09/2000,3" rain since Friday. Secchi dip in reading. Satellite reading.    
+07/27/2000,Warm- satellite reading.    
+08/13/2000,Warm and humid. 2" rain this week.    
+05/28/2001,The lake is up.  Lots of rain this spring.  Lake level still below normal level.  Lots of popal fuzz on the water.    
+06/10/2001,Lots of rain.    
+06/28/2001,The lake is busy- water level continues to rise from rain.  Secchi satellite date.    
+07/14/2001,Breezy and hazy. Satellite day.    
+07/30/2001,Some algae blooms. Lake down a little.  Secchi satellite date.    
+08/31/2001,Water is very clear at surface.  Secchi satellite date.    
+06/16/2002,Lots of rain this spring. Water temps are cooler than normal for this time of year.    
+08/11/2002,A perfect late summer day. Calm waters making for an
+ideal secchi reading.    
+08/23/2002,lots of rain this summer- yet our lake is remaining
+very clear. Reading taken today under clear blue skies with calm waters.
+
+    
+08/25/2002,unbelievable readings for this time of year! We are
+happy!! :)
+
+    
+07/12/2003,lots of rain this summer!
+    
+08/29/2003,no rain in almost 3 weeks. Lake levels are dropping
+daily. Lake busy on weekends.
+    
+06/13/2011,partly cloudy- windy
+07/10/2011,MOSTLY SUNNY- LIGHT BREEZE
+07/24/2011,MOSTLY SUNNY- LIGHT BREEZE
+08/19/2011,SLIGHT WIND
+06/18/2013,Partly cloudy skies-  pine pollen on water surface
+07/11/2013,Mostly clear sky
+08/23/2013,mostly clear
+07/11/2017,Lake level is very high water color may be off from what seems to be regular heavy bursts of rain that run off instead of soaking in. Sky was overcast at time of test.
+07/28/2017,Clear skies-  glass smooth surface finally no rain for a couple days
+06/13/2018,Light wind from west- clear sky- bright sun zero lake activity.  Light wind from west- clear sky- bright sun zero lake activity. There has been a lot of wind over the last several days and I think there is still a lot of opportunity for "stuff" to wash back in because to water is still very high compared to the norm.
+05/07/2019,Clear and sunny light wind from east no other boats on the water.
+06/10/2019,Clear sky slight wind out of the west- zero lake activity
+10/07/2019,Weather was clear sky bright sun however it was pretty winding making the water surface rough. Had it been smooth the depth reading may have been better.
+
+
+
+
+Start Date,Group Name,Project Name
+10/12/1990,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/06/1991,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/11/1991,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/04/1991,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/12/1991,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/14/1992,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/09/1992,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+10/03/1992,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/10/1993,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/15/1993,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/15/1993,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/17/1993,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/28/1994,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/05/1994,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/11/1994,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/28/1994,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/15/1994,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/29/1995,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/04/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/07/1995,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/23/1995,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/18/1995,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/04/1995,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/29/1996,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/10/1996,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/16/1996,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/23/1996,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/20/1996,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/01/1997,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/15/1997,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/08/1998,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/31/1998,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/29/1999,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/08/1999,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/31/1999,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/20/1999,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/11/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/25/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/04/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/09/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/27/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/13/2000,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/22/2000,Data Collectors,GMU LAKE CLASS STUDY
+09/29/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+10/21/2000,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/28/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/10/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/28/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/14/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/30/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/31/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+10/02/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+10/17/2001,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/16/2002,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/11/2002,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/23/2002,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/25/2002,John Mcmahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/12/2003,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/29/2003,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/06/2003,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/12/2005,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/19/2005,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/06/2005,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/18/2005,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/24/2006,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/01/2006,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/15/2006,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/05/2006,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/20/2006,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/08/2007,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/28/2007,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/26/2008,John And Candy McMahon,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/13/2011,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/10/2011,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/24/2011,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/17/2011,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/19/2011,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/11/2013,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/18/2013,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/11/2013,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/23/2013,Steve Hunnicutt,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/26/2014,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/05/2014,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/10/2014,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/30/2014,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/20/2014,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/14/2014,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/26/2015,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/22/2015,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/22/2016,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/15/2016,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/05/2016,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/08/2017,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/11/2017,foote,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/28/2017,foote,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/31/2017,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/04/2017,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/28/2018,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/13/2018,foote,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/03/2018,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/22/2018,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/16/2018,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+10/04/2018,foote,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+05/07/2019,foote,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/10/2019,foote,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/16/2019,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/28/2019,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+08/18/2019,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+10/07/2019,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+06/30/2020,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+07/30/2020,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/03/2020,Elizabeth Anderson,Citizen Lake Monitoring - Water Quality - Long Lake (T41N R14W S33); Deep Hole
+09/03/2020,Elizabeth Anderson,Citizen Lake Monitoring Network QA/QC - 2020

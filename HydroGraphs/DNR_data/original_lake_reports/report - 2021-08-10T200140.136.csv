@@ -1,0 +1,675 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Moose Lake,Sawyer,2420600,NO,58,,583086,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190591,06/15/1995,3.5,NO,1.1,,,59,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190591,07/07/1995,4,NO,1.2,,,57,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+7000017,05/22/1996,4.8,,1.5,6.3,19,55,51,49,,,,,
+8189752,07/22/1996,2.5,NO,0.8,,,64,,,,,,BROWN,2-Very minor aesthetic problems
+8189752,08/07/1996,2,NO,0.6,,,67,,,,,,BROWN,2-Very minor aesthetic problems
+1,08/22/1996,3,,0.9,6.04,33,61,55,48,,,,,
+8189752,08/23/1996,2.5,NO,0.8,,,64,,,,,,BROWN,
+8189752,06/09/1997,3.5,NO,1.1,,,59,,,,,,BROWN,1-Beautiful, could not be nicer
+8189752,07/04/1997,3.5,NO,1.1,,,59,,,,,,BROWN,1-Beautiful, could not be nicer
+8189752,07/17/1997,4,NO,1.2,,,57,,,,,,BROWN,1-Beautiful, could not be nicer
+8189752,08/27/1997,5,NO,1.5,,,54,,,,,,,
+8189752,06/10/1998,3,NO,0.9,,,61,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,07/04/1998,3,NO,0.9,,,61,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,08/06/1998,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,09/09/1998,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189752,10/03/1998,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,05/06/1999,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,06/02/1999,2.1,NO,0.6,,,66,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,06/30/1999,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189752,08/02/1999,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,09/02/1999,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,04/28/2000,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,06/25/2000,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,07/05/2000,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,07/18/2000,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,07/27/2000,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,08/11/2000,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189752,09/17/2000,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,06/28/2001,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,07/14/2001,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,07/30/2001,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,08/15/2001,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,08/31/2001,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,09/16/2001,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,10/04/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,10/18/2001,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189934,05/05/2002,2.5,NO,0.8,,,64,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,06/15/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,07/01/2002,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,07/17/2002,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,08/02/2002,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,08/18/2002,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,09/03/2002,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,09/19/2002,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,10/15/2002,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,05/13/2003,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,06/11/2003,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,06/18/2003,4.75,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,07/04/2003,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,07/13/2003,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,07/20/2003,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,07/29/2003,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,08/14/2003,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,08/21/2003,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,08/30/2003,3.75,NO,1.1,,,58,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,10/08/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189752,05/18/2004,,,,,28,,54,,,,,,
+8188557,05/19/2004,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,06/15/2004,3,NO,0.9,4.27,24,61,53,46,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188558,06/22/2004,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,07/26/2004,3.75,NO,1.1,6.66,,58,,49,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,08/13/2004,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,08/17/2004,2.75,NO,0.8,8.55,,63,,51,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191170,09/22/2004,3.5,NO,1.1,5.54,,59,,48,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189934,06/15/2005,3,NO,0.9,3.44,26,61,53,44,NORMAL,3,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,07/13/2005,,,,10,33,,55,52,,,,,
+8189934,07/13/2005,3,NO,0.9,,,61,,,NORMAL,3,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,08/22/2005,,,,16.7,47,,58,56,,,,,
+8189934,08/22/2005,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,09/26/2005,,,,12.5,40,,57,54,,,,,
+8191403,09/26/2005,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116016,05/23/2006,4,NO,1.2,,15,57,49,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116016,06/23/2006,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,06/26/2006,,,,4.33,34,,55,46,,,,,
+16116016,07/26/2006,3,NO,0.9,13.2,40,61,57,54,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116016,09/06/2006,3,NO,0.9,5.17,48,61,58,47,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116016,10/02/2006,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,10/04/2006,,,,4.96,42,,57,47,,,,,
+18431599,05/08/2007,5,NO,1.5,,25,54,53,,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+18431599,06/26/2007,4,NO,1.2,9.06,26,57,53,51,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+19291321,07/31/2007,5,NO,1.5,12.3,27,54,54,54,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+19291372,08/29/2007,5,NO,1.5,12,31,54,55,54,NORMAL,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+8189752,03/28/2008,,,,,,,,,LOW,,,,
+22954774,03/28/2008,,,,,,,,,,,,,
+18431599,05/23/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+22954774,05/23/2008,,,,,30,,54,,,,,,
+25435324,06/27/2008,3,NO,0.9,7.11,37,61,56,50,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25435324,07/23/2008,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25544601,07/23/2008,,,,9.43,31,,55,52,,,,,
+18431599,09/10/2008,3,NO,0.9,14.5,34,61,55,55,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191403,05/09/2009,3,NO,0.9,,38,61,56,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,06/25/2009,,,,5.23,30,,54,47,,,,,
+8191403,06/25/2009,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191403,07/30/2009,4,NO,1.2,7.92,27,57,54,50,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191403,09/21/2009,5,NO,1.5,8.31,28,54,54,51,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37171095,05/27/2010,4.5,NO,1.4,,28,55,54,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37170552,06/29/2010,,,,2.76,40,,57,42,,,,,
+37171095,06/29/2010,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191403,08/03/2010,2,NO,0.6,5.66,43,67,57,48,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37170552,08/23/2010,1.5,NO,0.5,5.87,53,71,59,48,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37170552,06/01/2011,,,,,28,,54,,,,,,
+37170552,06/05/2011,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37170552,06/25/2011,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+87836055,06/30/2011,,,,11.1,39,,57,53,,,,,
+1,07/27/2011,,,,43.2,44,,57,63,,,,,
+37170552,07/28/2011,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,
+37170552,09/11/2011,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,09/12/2011,,,,31.4,51,,59,61,,,,,
+37170552,05/31/2012,2.5,NO,0.8,,38,64,56,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191403,06/29/2012,2,NO,0.6,2.18,45,67,58,41,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37170552,07/01/2012,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,07/16/2012,,,,4.49,49,,58,46,,,,,
+8191403,09/06/2012,2.75,NO,0.8,7.93,43,63,57,50,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188557,06/27/2013,2.5, ,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191403,06/27/2013,, ,,2.39,35.4,,56,41,NORMAL,,CLEAR,BROWN,
+8188557,07/25/2013,, ,,,,,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25544601,07/25/2013,2.5, ,0.8,5.07,43.1,64,57,47,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+25544601,09/03/2013,2.5, ,0.8,10.2,49.8,64,58,52,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37170552,06/11/2014,3,NO,0.9,,34.1,61,55,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,07/15/2014,,,,2.28,41.9,,57,41,,,,,
+37170552,07/16/2014,2.5,NO,0.8,,,64,,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189752,09/20/2014,,,,3.9,37,,56,45,,,,,
+8191403,09/20/2014,1.7,NO,0.5,,,69,,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798399,06/29/2015,,,,7.19,35.6,,56,50,,,,,
+36798399,08/11/2015,2.5,NO,0.8,21.6,56.1,64,59,58,LOW,,MURKY,BROWN,
+1,10/03/2015,,,,,83.1,,62,,,,,,
+118251561,05/05/2016,3,NO,0.9,,36.6,61,56,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36798399,06/01/2016,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118251561,06/16/2016,,,,2.35,36.7,,56,41,,,,,
+1,08/01/2016,,,,6.67,46,,58,49,,,,,
+118251561,08/01/2016,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,09/01/2016,,,,0.644,46.5,,58,31,,,,,
+118251561,09/01/2016,2,NO,0.6,,,67,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118251561,07/03/2017,2.5,NO,0.8,3.85,37.7,64,56,45,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118251561,07/31/2017,1.8,NO,0.5,17.8,33.3,69,55,57,NORMAL,18,CLEAR,BROWN,1-Beautiful, could not be nicer
+118251561,08/31/2017,2.8,NO,0.9,16.2,38.3,62,56,56,NORMAL,18,CLEAR,BROWN,1-Beautiful, could not be nicer
+118251561,05/15/2018,3.75,NO,1.1,,26.8,58,54,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118251561,07/01/2018,2.5,NO,0.8,5.87,44.6,64,58,48,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118251561,07/30/2018,2.6,NO,0.8,3.92,35.4,63,56,45,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118251561,09/03/2018,2,NO,0.6,4.71,35.1,67,56,47,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+36798399,06/11/2019,,NO,,2.39,26,,53,41,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118251561,07/20/2019,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+118251561,08/29/2019,2.75,NO,0.8,9.55,28.1,63,54,52,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+31992668,07/27/2020,,,,8.75,43.2,,57,51,,,,,
+118251561,09/02/2020,,,,7.92,43.4,,57,50,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/22/1996,,,16.2,C,8.6,MG/L
+08/22/1996,,,17.3,C,0.1,MG/L
+05/19/2004,1,FEET,61.8,DEGREES F,11,MG/L
+05/19/2004,3,FEET,60.2,DEGREES F,11,MG/L
+05/19/2004,6,FEET,58.6,DEGREES F,9,MG/L
+05/19/2004,9,FEET,56.1,DEGREES F,8,MG/L
+05/19/2004,12,FEET,55.4,DEGREES F,8,MG/L
+05/19/2004,15,FEET,54.6,DEGREES F,,
+06/15/2004,1,FEET,67.1,DEGREES F,9,MG/L
+06/15/2004,3,FEET,66.5,DEGREES F,9,MG/L
+06/15/2004,6,FEET,66,DEGREES F,8,MG/L
+06/15/2004,9,FEET,64,DEGREES F,7,MG/L
+06/15/2004,12,FEET,62.9,DEGREES F,5,MG/L
+06/15/2004,15,FEET,61.5,DEGREES F,,
+07/26/2004,1,FEET,77,DEGREES F,5.5,MG/L
+07/26/2004,3,FEET,74.1,DEGREES F,5,MG/L
+07/26/2004,6,FEET,7205,DEGREES F,4,MG/L
+07/26/2004,9,FEET,71.6,DEGREES F,3.5,MG/L
+07/26/2004,12,FEET,69.8,DEGREES F,2.5,MG/L
+07/26/2004,15,FEET,65.6,DEGREES F,,
+08/17/2004,1,FEET,69,DEGREES F,7,MG/L
+08/17/2004,3,FEET,66.3,DEGREES F,6,MG/L
+08/17/2004,6,FEET,65.4,DEGREES F,5.5,MG/L
+08/17/2004,9,FEET,64.4,DEGREES F,5,MG/L
+08/17/2004,12,FEET,63.6,DEGREES F,4.5,MG/L
+08/17/2004,15,FEET,62,DEGREES F,,
+09/22/2004,1,FEET,68.1,DEGREES F,9,MG/L
+09/22/2004,3,FEET,67.1,DEGREES F,8,MG/L
+09/22/2004,6,FEET,66,DEGREES F,6,MG/L
+09/22/2004,9,FEET,64.9,DEGREES F,9,MG/L
+09/22/2004,12,FEET,64.4,DEGREES F,7,MG/L
+09/22/2004,15,FEET,64.2,DEGREES F,,
+06/15/2005,0,FEET,70.1,DEGREES F,,
+06/15/2005,3,FEET,69.8,DEGREES F,8,MG/L
+06/15/2005,6,FEET,69.6,DEGREES F,,
+06/15/2005,9,FEET,69.6,DEGREES F,8,MG/L
+06/15/2005,12,FEET,69.6,DEGREES F,8,MG/L
+06/15/2005,15,FEET,62.6,DEGREES F,7,MG/L
+06/15/2005,18,FEET,60.4,DEGREES F,7,MG/L
+07/13/2005,0,FEET,82.5,DEGREES F,,
+07/13/2005,3,FEET,81.5,DEGREES F,7,MG/L
+07/13/2005,6,FEET,77.5,DEGREES F,,
+07/13/2005,9,FEET,72.3,DEGREES F,7,MG/L
+07/13/2005,12,FEET,70.7,DEGREES F,6,MG/L
+07/13/2005,15,FEET,68.3,DEGREES F,5,MG/L
+07/13/2005,18,FEET,66.9,DEGREES F,,
+07/13/2005,125,FEET,68.3,DEGREES F,5,MG/L
+08/22/2005,1,FEET,72.5,DEGREES F,,
+08/22/2005,3,FEET,71.2,DEGREES F,8,MG/L
+08/22/2005,6,FEET,70.8,DEGREES F,7,MG/L
+08/22/2005,9,FEET,72.3,DEGREES F,7,MG/L
+08/22/2005,12,FEET,69.6,DEGREES F,7,MG/L
+08/22/2005,15,FEET,69.2,DEGREES F,6,MG/L
+09/26/2005,1,FEET,61.5,DEGREES F,,
+09/26/2005,3,FEET,62,DEGREES F,7,MG/L
+09/26/2005,6,FEET,62,DEGREES F,7,MG/L
+09/26/2005,9,FEET,62,DEGREES F,6,MG/L
+09/26/2005,12,FEET,61.8,DEGREES F,6,MG/L
+09/26/2005,15,FEET,61.8,DEGREES F,5,MG/L
+09/26/2005,18,FEET,61.8,DEGREES F,,
+05/23/2006,3,FEET,62.9,DEGREES F,7,MG/L
+05/23/2006,6,FEET,62.4,DEGREES F,7,MG/L
+05/23/2006,9,FEET,60.6,DEGREES F,7,MG/L
+05/23/2006,12,FEET,58.5,DEGREES F,7,MG/L
+05/23/2006,15,FEET,57.5,DEGREES F,6,MG/L
+05/23/2006,18,FEET,55.9,DEGREES F,6,MG/L
+06/23/2006,3,FEET,76.4,DEGREES F,7,MG/L
+06/23/2006,6,FEET,71,DEGREES F,7,MG/L
+06/23/2006,9,FEET,70.8,DEGREES F,6,MG/L
+06/23/2006,12,FEET,69.2,DEGREES F,5,MG/L
+06/23/2006,15,FEET,68,DEGREES F,5,MG/L
+06/23/2006,18,FEET,67.8,DEGREES F,5,MG/L
+07/26/2006,3,FEET,80.6,DEGREES F,8,MG/L
+07/26/2006,6,FEET,78.5,DEGREES F,7,MG/L
+07/26/2006,9,FEET,75.9,DEGREES F,6,MG/L
+07/26/2006,12,FEET,74.6,DEGREES F,5,MG/L
+07/26/2006,15,FEET,74.1,DEGREES F,5,MG/L
+07/26/2006,18,FEET,69.8,DEGREES F,,
+09/06/2006,1,FEET,75.5,DEGREES F,,
+09/06/2006,3,FEET,70.5,DEGREES F,7,MG/L
+09/06/2006,6,FEET,69.2,DEGREES F,7,MG/L
+09/06/2006,9,FEET,69,DEGREES F,7,MG/L
+09/06/2006,12,FEET,68,DEGREES F,7,MG/L
+09/06/2006,15,FEET,68.1,DEGREES F,5,MG/L
+09/06/2006,18,FEET,67.3,DEGREES F,,
+10/02/2006,1,FEET,56.7,DEGREES F,,
+10/02/2006,3,FEET,55.4,DEGREES F,,
+10/02/2006,6,FEET,55.4,DEGREES F,10,MG/L
+10/02/2006,9,FEET,55.4,DEGREES F,10,MG/L
+10/02/2006,12,FEET,55.4,DEGREES F,9,MG/L
+10/02/2006,15,FEET,55.4,DEGREES F,9,MG/L
+10/02/2006,18,FEET,54.9,DEGREES F,9,MG/L
+05/08/2007,1,FEET,65.3,DEGREES F,,
+05/08/2007,3,FEET,58.4,DEGREES F,,
+05/08/2007,6,FEET,57.2,DEGREES F,,
+05/08/2007,9,FEET,59.8,DEGREES F,,
+05/08/2007,12,FEET,55.6,DEGREES F,,
+05/08/2007,15,FEET,55.5,DEGREES F,,
+05/08/2007,18,FEET,55.5,DEGREES F,,
+06/26/2007,1,FEET,78,DEGREES F,,
+06/26/2007,3,FEET,77.9,DEGREES F,,
+06/26/2007,6,FEET,76.9,DEGREES F,,
+06/26/2007,9,FEET,76.4,DEGREES F,,
+06/26/2007,12,FEET,73.2,DEGREES F,,
+06/26/2007,15,FEET,70,DEGREES F,,
+06/26/2007,18,FEET,64.2,DEGREES F,,
+07/31/2007,0,FEET,81.6,DEGREES F,,
+07/31/2007,3,FEET,81.3,DEGREES F,,
+07/31/2007,6,FEET,80.3,DEGREES F,,
+07/31/2007,9,FEET,72.6,DEGREES F,,
+07/31/2007,12,FEET,69.8,DEGREES F,,
+07/31/2007,15,FEET,68.3,DEGREES F,,
+07/31/2007,18,FEET,69.2,DEGREES F,,
+08/29/2007,0,FEET,70.3,DEGREES F,7.3,MG/L
+08/29/2007,3,FEET,70.1,DEGREES F,7.22,MG/L
+08/29/2007,6,FEET,69.4,DEGREES F,7.38,MG/L
+08/29/2007,9,FEET,69.3,DEGREES F,7.42,MG/L
+08/29/2007,12,FEET,69.3,DEGREES F,7.29,MG/L
+08/29/2007,15,FEET,69.4,DEGREES F,7.01,MG/L
+08/29/2007,18,FEET,69,DEGREES F,6.6,MG/L
+03/28/2008,9,FEET,,,7.9,MG/L
+03/28/2008,12,FEET,,,8.1,MG/L
+05/23/2008,3,FEET,58.4,DEGREES F,8.63,MG/L
+05/23/2008,6,FEET,58.1,DEGREES F,8.35,MG/L
+05/23/2008,9,FEET,57.7,DEGREES F,8.2,MG/L
+05/23/2008,12,FEET,56.5,DEGREES F,7.55,MG/L
+05/23/2008,15,FEET,55.8,DEGREES F,6.9,MG/L
+05/23/2008,18,FEET,55.5,DEGREES F,6.82,MG/L
+05/23/2008,20,FEET,55.4,DEGREES F,6.5,MG/L
+06/27/2008,3,FEET,72.5,DEGREES F,6.6,MG/L
+06/27/2008,6,FEET,72.4,DEGREES F,6.55,MG/L
+06/27/2008,9,FEET,71.5,DEGREES F,6.4,MG/L
+06/27/2008,12,FEET,71.3,DEGREES F,6.4,MG/L
+06/27/2008,15,FEET,70.2,DEGREES F,6.01,MG/L
+06/27/2008,18,FEET,68,DEGREES F,5.85,MG/L
+06/27/2008,20,FEET,66.2,DEGREES F,5.2,MG/L
+07/23/2008,3,FEET,72.5,DEGREES F,6.6,MG/L
+07/23/2008,6,FEET,72.4,DEGREES F,6.55,MG/L
+07/23/2008,9,FEET,71.9,DEGREES F,6.4,MG/L
+07/23/2008,12,FEET,71.3,DEGREES F,6.3,MG/L
+07/23/2008,15,FEET,70.2,DEGREES F,6,MG/L
+07/23/2008,18,FEET,68,DEGREES F,5.86,MG/L
+07/23/2008,20,FEET,66.3,DEGREES F,5.2,MG/L
+09/10/2008,3,FEET,64.3,DEGREES F,7.62,MG/L
+09/10/2008,6,FEET,64.3,DEGREES F,7.6,MG/L
+09/10/2008,9,FEET,64.2,DEGREES F,7.56,MG/L
+09/10/2008,12,FEET,64.1,DEGREES F,7.51,MG/L
+09/10/2008,15,FEET,64.1,DEGREES F,7.5,MG/L
+09/10/2008,18,FEET,64,DEGREES F,7.47,MG/L
+05/09/2009,3,FEET,57,DEGREES F,8.6,MG/L
+05/09/2009,6,FEET,57,DEGREES F,8.57,MG/L
+05/09/2009,9,FEET,57,DEGREES F,8.57,MG/L
+05/09/2009,12,FEET,57,DEGREES F,8.5,MG/L
+05/09/2009,15,FEET,56.9,DEGREES F,8.5,MG/L
+06/25/2009,3,FEET,78.2,DEGREES F,7.6,MG/L
+06/25/2009,6,FEET,72.5,DEGREES F,5.9,MG/L
+06/25/2009,9,FEET,72,DEGREES F,5.5,MG/L
+06/25/2009,12,FEET,71.5,DEGREES F,5.5,MG/L
+06/25/2009,15,FEET,70.2,DEGREES F,5.4,MG/L
+07/30/2009,3,FEET,69.7,DEGREES F,7.7,MG/L
+07/30/2009,6,FEET,68.9,DEGREES F,7.67,MG/L
+07/30/2009,9,FEET,68.6,DEGREES F,7.33,MG/L
+07/30/2009,12,FEET,68,DEGREES F,7,MG/L
+07/30/2009,15,FEET,67.8,DEGREES F,6.93,MG/L
+09/21/2009,3,FEET,69.2,DEGREES F,7.82,MG/L
+09/21/2009,6,FEET,68.8,DEGREES F,6.98,MG/L
+09/21/2009,9,FEET,68.4,DEGREES F,7.03,MG/L
+09/21/2009,12,FEET,68.4,DEGREES F,7.02,MG/L
+09/21/2009,15,FEET,68.4,DEGREES F,5.6,MG/L
+05/27/2010,3,FEET,70.6,DEGREES F,7.4,MG/L
+05/27/2010,6,FEET,70.4,DEGREES F,7.5,MG/L
+05/27/2010,9,FEET,69.8,DEGREES F,6.4,MG/L
+05/27/2010,12,FEET,59.7,DEGREES F,6,MG/L
+05/27/2010,15,FEET,57.9,DEGREES F,5.4,MG/L
+06/29/2010,3,FEET,70.4,DEGREES F,4.03,MG/L
+06/29/2010,6,FEET,70.2,DEGREES F,6.54,MG/L
+06/29/2010,9,FEET,70.1,DEGREES F,6.5,MG/L
+06/29/2010,12,FEET,69.9,DEGREES F,6.64,MG/L
+06/29/2010,15,FEET,67.1,DEGREES F,5.4,MG/L
+08/03/2010,3,FEET,76.5,DEGREES F,6.05,MG/L
+08/03/2010,6,FEET,75.6,DEGREES F,5.4,MG/L
+08/03/2010,9,FEET,74.8,DEGREES F,4.5,MG/L
+08/03/2010,12,FEET,74.2,DEGREES F,3.95,MG/L
+08/03/2010,15,FEET,73.1,DEGREES F,2,MG/L
+08/23/2010,3,FEET,74.7,DEGREES F,5.9,MG/L
+08/23/2010,6,FEET,73.5,DEGREES F,5.39,MG/L
+08/23/2010,9,FEET,71.2,DEGREES F,3.85,MG/L
+08/23/2010,12,FEET,69.9,DEGREES F,3.55,MG/L
+08/23/2010,15,FEET,69.2,DEGREES F,2.95,MG/L
+08/23/2010,18,FEET,68.5,DEGREES F,2.19,MG/L
+06/05/2011,3,FEET,71.9,DEGREES F,8.6,MG/L
+06/05/2011,6,FEET,67.3,DEGREES F,8.08,MG/L
+06/05/2011,9,FEET,65.3,DEGREES F,7.95,MG/L
+06/05/2011,12,FEET,63.6,DEGREES F,7.83,MG/L
+06/05/2011,15,FEET,62.5,DEGREES F,6.76,MG/L
+06/25/2011,3,FEET,72.2,DEGREES F,7.8,MG/L
+06/25/2011,6,FEET,72,DEGREES F,7.79,MG/L
+06/25/2011,9,FEET,71.6,DEGREES F,7.82,MG/L
+06/25/2011,12,FEET,70.7,DEGREES F,6.87,MG/L
+06/25/2011,15,FEET,65.1,DEGREES F,4.72,MG/L
+07/28/2011,3,FEET,76.2,DEGREES F,7.75,MG/L
+07/28/2011,6,FEET,75.8,DEGREES F,7.25,MG/L
+07/28/2011,9,FEET,75.4,DEGREES F,6.75,MG/L
+07/28/2011,12,FEET,74.8,DEGREES F,6.3,MG/L
+07/28/2011,15,FEET,73.5,DEGREES F,5,MG/L
+09/11/2011,3,FEET,71.9,DEGREES F,8.53,MG/L
+09/11/2011,6,FEET,69,DEGREES F,6.36,MG/L
+09/11/2011,9,FEET,67.9,DEGREES F,5.96,MG/L
+09/11/2011,12,FEET,67.2,DEGREES F,4.95,MG/L
+09/11/2011,15,FEET,66.2,DEGREES F,3.06,MG/L
+09/11/2011,18,FEET,33.2,DEGREES F,2.09,MG/L
+05/31/2012,3,FEET,64,DEGREES F,6.15,MG/L
+05/31/2012,6,FEET,63.6,DEGREES F,6.2,MG/L
+05/31/2012,9,FEET,63.6,DEGREES F,6,MG/L
+05/31/2012,12,FEET,67.2,DEGREES F,6,MG/L
+05/31/2012,15,FEET,65.9,DEGREES F,5.9,MG/L
+06/29/2012,3,FEET,74.6,DEGREES F,4.5,MG/L
+06/29/2012,6,FEET,74.6,DEGREES F,4.48,MG/L
+06/29/2012,9,FEET,72.4,DEGREES F,4.18,MG/L
+06/29/2012,12,FEET,70.5,DEGREES F,2.99,MG/L
+06/29/2012,15,FEET,68.2,DEGREES F,2.41,MG/L
+07/01/2012,3,FEET,77,DEGREES F,4.81,MG/L
+07/01/2012,6,FEET,75.3,DEGREES F,4.27,MG/L
+07/01/2012,9,FEET,72.3,DEGREES F,3.11,MG/L
+07/01/2012,12,FEET,69.4,DEGREES F,2.2,MG/L
+07/01/2012,15,FEET,67.6,DEGREES F,1.35,MG/L
+09/06/2012,3,FEET,72.8,DEGREES F,6.68,MG/L
+09/06/2012,6,FEET,72.6,DEGREES F,6.46,MG/L
+09/06/2012,9,FEET,72,DEGREES F,4.88,MG/L
+09/06/2012,12,FEET,71.4,DEGREES F,3.32,MG/L
+06/27/2013,3,FEET,74.6,DEGREES F,5.95,MG/L
+06/27/2013,6,FEET,70.2,DEGREES F,4.55,MG/L
+06/27/2013,9,FEET,70.2,DEGREES F,4.55,MG/L
+06/27/2013,12,FEET,68.5,DEGREES F,4.53,MG/L
+06/27/2013,15,FEET,65.6,DEGREES F,4.29,MG/L
+07/25/2013,3,FEET,72.8,DEGREES F,5.58,MG/L
+07/25/2013,6,FEET,72.8,DEGREES F,5.58,MG/L
+07/25/2013,9,FEET,72.7,DEGREES F,5.58,MG/L
+07/25/2013,12,FEET,72.6,DEGREES F,5.48,MG/L
+07/25/2013,15,FEET,72.3,DEGREES F,4.97,MG/L
+09/03/2013,3,FEET,70.8,DEGREES F,5.55,MG/L
+09/03/2013,6,FEET,70.6,DEGREES F,5.27,MG/L
+09/03/2013,9,FEET,68.7,DEGREES F,5.17,MG/L
+09/03/2013,12,FEET,68.7,DEGREES F,4.01,MG/L
+09/03/2013,15,FEET,68.5,DEGREES F,3.54,MG/L
+06/11/2014,3,FEET,66.5,DEGREES F,6.45,MG/L
+06/11/2014,6,FEET,66.1,DEGREES F,6.1,MG/L
+06/11/2014,9,FEET,65.2,DEGREES F,56.3,MG/L
+06/11/2014,12,FEET,62.9,DEGREES F,4.26,MG/L
+06/11/2014,15,FEET,57.5,DEGREES F,2.01,MG/L
+07/16/2014,3,FEET,68.1,DEGREES F,5.84,MG/L
+07/16/2014,6,FEET,68.4,DEGREES F,5.84,MG/L
+07/16/2014,9,FEET,68.3,DEGREES F,5.83,MG/L
+07/16/2014,12,FEET,67.8,DEGREES F,5.76,MG/L
+07/16/2014,15,FEET,67.3,DEGREES F,6.1,MG/L
+07/16/2014,18,FEET,67,DEGREES F,6.1,MG/L
+09/20/2014,3,FEET,82.1,DEGREES F,59.5,MG/L
+09/20/2014,6,FEET,81.8,DEGREES F,59.3,MG/L
+09/20/2014,9,FEET,81.6,DEGREES F,59.1,MG/L
+09/20/2014,12,FEET,77.2,DEGREES F,58.2,MG/L
+09/20/2014,15,FEET,77.2,DEGREES F,57.8,MG/L
+08/11/2015,3,FEET,72.4,DEGREES F,7.56,MG/L
+08/11/2015,6,FEET,72.1,DEGREES F,7.44,MG/L
+08/11/2015,9,FEET,71.8,DEGREES F,7.28,MG/L
+08/11/2015,12,FEET,71.4,DEGREES F,6.63,MG/L
+08/11/2015,15,FEET,70.5,DEGREES F,4.77,MG/L
+09/01/2016,0,FEET,69.6,DEGREES F,68.3,MG/L
+09/01/2016,3,FEET,70.2,DEGREES F,67.5,MG/L
+09/01/2016,6,FEET,70.3,DEGREES F,66.8,MG/L
+09/01/2016,9,FEET,70.3,DEGREES F,65.8,MG/L
+09/01/2016,12,FEET,69.9,DEGREES F,53,MG/L
+09/01/2016,15,FEET,69.4,DEGREES F,45.2,MG/L
+09/01/2016,18,FEET,68.6,DEGREES F,27.5,MG/L
+07/03/2017,0,FEET,69,DEGREES F,75.5,MG/L
+07/03/2017,3,FEET,68.6,DEGREES F,75.4,MG/L
+07/03/2017,6,FEET,68.5,DEGREES F,72.8,MG/L
+07/03/2017,9,FEET,66.5,DEGREES F,58.4,MG/L
+07/03/2017,12,FEET,65.5,DEGREES F,56.4,MG/L
+07/03/2017,15,FEET,64.5,DEGREES F,48.2,MG/L
+07/03/2017,18,FEET,63.6,DEGREES F,35,MG/L
+07/31/2017,0,FEET,78.1,DEGREES F,,
+07/31/2017,3,FEET,77,DEGREES F,,
+07/31/2017,6,FEET,75.3,DEGREES F,,
+07/31/2017,9,FEET,72.8,DEGREES F,,
+07/31/2017,12,FEET,71.8,DEGREES F,,
+07/31/2017,15,FEET,69.2,DEGREES F,,
+07/31/2017,18,FEET,68.2,DEGREES F,,
+08/31/2017,0,FEET,67.1,DEGREES F,7,MG/L
+08/31/2017,3,FEET,66.6,DEGREES F,6.98,MG/L
+08/31/2017,6,FEET,66,DEGREES F,6.78,MG/L
+08/31/2017,9,FEET,65.5,DEGREES F,6.18,MG/L
+08/31/2017,12,FEET,64.6,DEGREES F,5.88,MG/L
+08/31/2017,15,FEET,64.3,DEGREES F,5.87,MG/L
+08/31/2017,18,FEET,64.1,DEGREES F,5.56,MG/L
+05/15/2018,0,FEET,64.5,DEGREES F,7.29,MG/L
+05/15/2018,3,FEET,63.1,DEGREES F,7.28,MG/L
+05/15/2018,6,FEET,59.5,DEGREES F,6.7,MG/L
+05/15/2018,9,FEET,56,DEGREES F,5.57,MG/L
+05/15/2018,12,FEET,55,DEGREES F,5.26,MG/L
+05/15/2018,15,FEET,53,DEGREES F,4.67,MG/L
+05/15/2018,18,FEET,51.6,DEGREES F,2.56,MG/L
+07/01/2018,0,FEET,77.1,DEGREES F,5.42,MG/L
+07/01/2018,3,FEET,77.7,DEGREES F,5.35,MG/L
+07/01/2018,6,FEET,77.5,DEGREES F,5.24,MG/L
+07/01/2018,9,FEET,76,DEGREES F,4.52,MG/L
+07/01/2018,12,FEET,72.5,DEGREES F,2.87,MG/L
+07/01/2018,15,FEET,67.4,DEGREES F,.3,MG/L
+07/01/2018,18,FEET,66.6,DEGREES F,.14,MG/L
+07/30/2018,0,FEET,73.3,DEGREES F,6.56,MG/L
+07/30/2018,3,FEET,72,DEGREES F,6.28,MG/L
+07/30/2018,6,FEET,71.4,DEGREES F,5.2,MG/L
+07/30/2018,9,FEET,71.1,DEGREES F,5.21,MG/L
+07/30/2018,12,FEET,70.7,DEGREES F,4.97,MG/L
+07/30/2018,15,FEET,69.8,DEGREES F,3.16,MG/L
+07/30/2018,18,FEET,68.9,DEGREES F,1.65,MG/L
+09/03/2018,0,FEET,69.5,DEGREES F,6.1,MG/L
+09/03/2018,3,FEET,69.4,DEGREES F,5.96,MG/L
+09/03/2018,6,FEET,69,DEGREES F,5.55,MG/L
+09/03/2018,9,FEET,68.7,DEGREES F,5.01,MG/L
+09/03/2018,12,FEET,67.6,DEGREES F,4.61,MG/L
+09/03/2018,15,FEET,66.9,DEGREES F,4.6,MG/L
+09/03/2018,18,FEET,66.6,DEGREES F,3.45,MG/L
+06/11/2019,0,FEET,68.2,DEGREES F,5.99,MG/L
+06/11/2019,3,FEET,68.3,DEGREES F,5.9,MG/L
+06/11/2019,6,FEET,68.3,DEGREES F,5.85,MG/L
+06/11/2019,9,FEET,67.9,DEGREES F,5.65,MG/L
+06/11/2019,12,FEET,65.9,DEGREES F,4.96,MG/L
+06/11/2019,15,FEET,61.3,DEGREES F,3.17,MG/L
+06/11/2019,18,FEET,56.9,DEGREES F,1.42,MG/L
+07/20/2019,0,FEET,77.7,DEGREES F,6.1,MG/L
+07/20/2019,3,FEET,77.5,DEGREES F,5.67,MG/L
+07/20/2019,6,FEET,77,DEGREES F,5.43,MG/L
+07/20/2019,9,FEET,76,DEGREES F,4.08,MG/L
+07/20/2019,12,FEET,73.01,DEGREES F,2.02,MG/L
+07/20/2019,15,FEET,66,DEGREES F,.35,MG/L
+07/20/2019,18,FEET,63,DEGREES F,.08,MG/L
+08/29/2019,0,FEET,59,DEGREES F,8.12,MG/L
+08/29/2019,3,FEET,65.1,DEGREES F,7.02,MG/L
+08/29/2019,6,FEET,65.1,DEGREES F,7.12,MG/L
+08/29/2019,9,FEET,65,DEGREES F,7.11,MG/L
+08/29/2019,12,FEET,65,DEGREES F,7.07,MG/L
+08/29/2019,15,FEET,64.03,DEGREES F,5.98,MG/L
+08/29/2019,18,FEET,63,DEGREES F,6.01,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/15/1995,Wind caused sediment in water-cause lower read     
+07/22/1996,Sunny- slight breeze.    
+08/07/1996,Sunny- slight breeze.    
+08/23/1996,Sunny- calm.    
+07/17/1997,Clear- calm.    
+08/27/1997,Assumed time is 12:00.    
+05/18/2004,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+06/15/2004,DEEP HOLE - SURFACE    
+07/26/2004,DEEP HOLE - BOTTOM    
+08/17/2004,DEEP HOLE - SURFACE    
+09/22/2004,DEEP HOLE - SURFACE    
+06/15/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/13/2005,DEEP HOLE - INTEGRATED SAMPLE    
+08/22/2005,DEEP HOLE - INTEGRATED SAMPLE    
+09/26/2005,DEEP HOLE - INTEGRATED SAMPLE    
+06/26/2006,  
+06/01/2016,Samples + measurements taken by Eisenbacher
+08/01/2016,Samples and measurement taken by Eisenbacher + Eisenbacher
+09/01/2016,Eisenbacher + Tom Koehler took samples.
+08/31/2017,Partly sunny day with a West breeze 
+
+
+
+
+Start Date,Group Name,Project Name
+06/15/1995,Steven Shaw,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/07/1995,Steven Shaw,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/22/1996,Craig Roesler,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/22/1996,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/07/1996,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/22/1996,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/23/1996,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/09/1997,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/04/1997,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/17/1997,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/27/1997,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/10/1998,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/04/1998,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/06/1998,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/09/1998,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/03/1998,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/06/1999,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/02/1999,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/30/1999,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/02/1999,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/02/1999,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+04/28/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/25/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/05/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/18/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/27/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/11/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/17/2000,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/28/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/14/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/30/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/15/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/31/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/16/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/04/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/18/2001,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/05/2002,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/15/2002,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/01/2002,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/17/2002,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/02/2002,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/18/2002,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/03/2002,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/19/2002,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/15/2002,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/13/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/11/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/18/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/04/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/13/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/20/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/29/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/14/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/21/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/30/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/08/2003,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/18/2004,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/19/2004,Dave Blumer and Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/15/2004,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/22/2004,Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/26/2004,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/13/2004,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/17/2004,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/22/2004,Ray Richter and Mark Vukovich,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/15/2005,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/13/2005,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/13/2005,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/22/2005,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/22/2005,Ray Richter And Chuck Jorgensen,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/26/2005,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/26/2005,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/23/2006,Ray Richter- Chuck Jorgensen- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/23/2006,Ray Richter- Chuck Jorgensen- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/26/2006,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/26/2006,Ray Richter- Chuck Jorgensen- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/06/2006,Ray Richter- Chuck Jorgensen- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/02/2006,Ray Richter- Chuck Jorgensen- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/04/2006,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/08/2007,Ray Richter- Jim Onarheim- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/26/2007,Ray Richter- Jim Onarheim- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/31/2007,Roger Winters- Ray Whaley- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/29/2007,Ray Richter- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+03/28/2008,Jim Onarheim- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+03/28/2008,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/23/2008,Jim Onarheim- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/23/2008,Ray Richter- Jim Onarheim- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/27/2008,Jim Onarheim- Ray Richter- Ray Whaley- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/23/2008,Jim Onarheim- Ray Richter- Ray Whaley- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/23/2008,Ray Richter- Ray Whaley- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/10/2008,Ray Richter- Jim Onarheim- Roger Winters,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/09/2009,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/25/2009,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/25/2009,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/30/2009,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/21/2009,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/27/2010,Ray Richter- Jim Onarheim- Don Rossiter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/29/2010,Ray Richter- Jim Onarheim- Don Rossiter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/29/2010,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/03/2010,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/23/2010,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/01/2011,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/05/2011,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/25/2011,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/30/2011,Ray Richter- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/27/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/28/2011,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/11/2011,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/12/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/31/2012,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/29/2012,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/01/2012,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/16/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/06/2012,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/27/2013,Dave Blumer and Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/27/2013,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/25/2013,Dave Blumer and Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/25/2013,Ray Richter- Ray Whaley- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/03/2013,Ray Richter- Ray Whaley- Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/11/2014,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/15/2014,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/16/2014,Ray Richter- Jim Onarheim- William Don McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/20/2014,Ray Richter,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/20/2014,Ray Richter and Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/29/2015,Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/11/2015,Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+10/03/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/05/2016,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/01/2016,Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/16/2016,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/01/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/01/2016,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/01/2016,Data Collectors,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/01/2016,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/03/2017,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/31/2017,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/31/2017,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+05/15/2018,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/01/2018,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/30/2018,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/03/2018,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+06/11/2019,Jim Onarheim,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/20/2019,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+08/29/2019,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+07/27/2020,William McCormick,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole
+09/02/2020,Ted Eisenbacher,Citizen Lake Monitoring - Water Quality - Moose Lake; Deep Hole

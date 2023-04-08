@@ -1,0 +1,655 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Beaver Dam Lake,Dodge,835100,SC,14,,143122,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/20/1973,,,,,550,,77,,,,,,
+1,11/14/1973,,,,,290,,72,,,,,,
+1,02/14/1974,,,,,190,,69,,,,,,
+1,04/11/1974,,,,,80,,62,,,,,,
+1,08/16/1974,,,,,400,,75,,,,,,
+1,11/11/1974,,,,,200,,69,,,,,,
+1,06/11/1980,3.3,,1,27,,54,,60,,,,,
+1,08/13/1980,1.6,,0.5,137,,70,,72,,,,,
+8191107,05/06/1995,2,NO,0.6,,,67,,,8.34" (FROM GAUGE BY DAM),,,BROWN,2-Very minor aesthetic problems
+8191107,05/18/1995,1.5,NO,0.5,,,71,,,GAUGE,8.5,,BROWN,2-Very minor aesthetic problems
+8191107,05/30/1995,1.5,NO,0.5,,,71,,,GAUGE,8.45,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,06/12/1995,1.75,NO,0.5,,,69,,,GAUGE,8.32,,BROWN,2-Very minor aesthetic problems
+8191107,06/21/1995,2.5,NO,0.8,,,64,,,GAUGE,8.18,,GREEN,2-Very minor aesthetic problems
+8191107,06/28/1995,1.5,NO,0.5,,,71,,,FEET,8.1,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,08/21/1995,2.25,NO,0.7,,,65,,,GAUGE,8.9,,BROWN,2-Very minor aesthetic problems
+8191107,09/05/1995,2.5,NO,0.8,,,64,,,GAUGE,8.86,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,09/15/1995,2.5,NO,0.8,,,64,,,GAUGE,8.2,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191107,10/08/1995,3,NO,0.9,,,61,,,FEET,8.7,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,05/04/1996,5,NO,1.5,,,54,,,8.30 FT,8.3,,BROWN,1-Beautiful, could not be nicer
+8191107,05/30/1996,6,NO,1.8,,,51,,,8.3',8.3,,BROWN,2-Very minor aesthetic problems
+8191107,06/11/1996,5.25,NO,1.6,,,53,,,GAUGE,8.8,,BROWN,2-Very minor aesthetic problems
+8191107,07/24/1996,3,NO,0.9,,,61,,,GAUGE,8.7,,GREEN,4-Would not swim but boating OK (algae)
+8191107,07/29/1996,1.75,NO,0.5,,,69,,,GAUGE,8.5,,GREEN,4-Would not swim but boating OK (algae)
+8191107,08/03/1996,2,NO,0.6,,,67,,,GAUGE,8.2,,GREEN,4-Would not swim but boating OK (algae)
+8191107,08/28/1996,1,NO,0.3,,,77,,,8.20',8.2,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191107,09/15/1996,1,NO,0.3,,,77,,,GAUGE,8.1,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191107,10/20/1996,2.25,NO,0.7,,,65,,,GAUGE,8.1,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,04/26/1997,6,NO,1.8,,,51,,,GAUGE,8.74,CLEAR,BROWN,2-Very minor aesthetic problems
+8191107,05/17/1997,4,NO,1.2,,,57,,,GAUGE,8.56,CLEAR,BROWN,2-Very minor aesthetic problems
+8191107,06/01/1997,6,NO,1.8,,,51,,,GAUGE,8.6,CLEAR,BROWN,2-Very minor aesthetic problems
+8191107,06/10/1997,7,NO,2.1,,,49,,,GAUGE,8.65,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,06/22/1997,5,NO,1.5,,,54,,,GAUGE,8.9,CLEAR,GREEN,2-Very minor aesthetic problems
+8191107,07/01/1997,5,NO,1.5,,,54,,,GAUGE,8.7,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191107,07/13/1997,1.5,NO,0.5,,,71,,,GAUGE,7.68,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,08/15/1997,2.5,NO,0.8,,,64,,,GAUGE,8.6,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,08/22/1997,2.75,NO,0.8,,,63,,,GAUGE,8.9,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191107,09/14/1997,3.25,NO,1,,,60,,,GAUGE,8.8,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,10/18/1997,4.75,NO,1.4,,,55,,,GAUGE,8.5,CLEAR,BROWN,2-Very minor aesthetic problems
+8191107,04/05/1998,5.25,NO,1.6,,,53,,,GAUGE,9,MURKY,BROWN,2-Very minor aesthetic problems
+8191107,04/19/1998,5.25,NO,1.6,,,53,,,GAUGE,8.94,MURKY,BROWN,2-Very minor aesthetic problems
+8191107,05/20/1998,3,NO,0.9,,,61,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190794,06/17/1998,1.75,NO,0.5,,,69,,,GAUGE,8.88,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8190794,06/27/1998,2.25,NO,0.7,,,65,,,GAUGE,9,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,07/12/1998,1.75,NO,0.5,,,69,,,GAUGE,8.5,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191107,07/30/1998,1.25,NO,0.4,,,74,,,GAUGE,8.42,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191107,08/31/1998,2.5,NO,0.8,,,64,,,GAUGE,8.4,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191107,10/04/1998,1.5,NO,0.5,,,71,,,GAUGE,8.3,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191107,10/11/1998,3,NO,0.9,,,61,,,GAUGE,8.55,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191107,12/15/1998,4.5,NO,1.4,,,55,,,GAUGE,8.4,MURKY,BROWN,2-Very minor aesthetic problems
+8191107,04/13/1999,6,NO,1.8,,,51,,,GAUGE,9,CLEAR,BROWN,2-Very minor aesthetic problems
+8191107,05/04/1999,6,NO,1.8,,,51,,,GAUGE,8.68,CLEAR,BROWN,2-Very minor aesthetic problems
+8191107,06/10/1999,2,NO,0.6,,,67,,,GAUGE,9.26,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191107,07/22/1999,3,NO,0.9,,,61,,,GAUGE,9.85,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191107,08/03/1999,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191107,08/11/1999,1,NO,0.3,,,77,,,GAUGE,9.2,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8188654,08/26/1999,1.968,,0.6,129,409,67,75,72,,,,,
+8190794,09/18/1999,2,NO,0.6,,,67,,,GAUGE,8.34,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,11/05/1999,,,,,,,,,,,,,
+8191225,06/03/2004,5,NO,1.5,,,54,,,NORMAL,88.4,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,06/18/2004,1.5,NO,0.5,,,71,,,HIGH,90,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,07/02/2004,3,NO,0.9,,,61,,,HIGH,89.9,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,07/15/2004,2,NO,0.6,,,67,,,HIGH,88.7,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,08/06/2004,2,NO,0.6,,,67,,,NORMAL,88.25,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,08/20/2004,2,NO,0.6,,,67,,,NORMAL,88.22,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,09/09/2004,1.5,NO,0.5,,,71,,,NORMAL,88.3,CLEAR,BLUE,2-Very minor aesthetic problems
+8191225,09/23/2004,2,NO,0.6,,,67,,,NORMAL,88.2,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191225,10/21/2004,5,NO,1.5,,,54,,,NORMAL,88.18,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191225,06/01/2005,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191225,06/20/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191225,07/08/2005,1,NO,0.3,,,77,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191225,08/01/2005,1.3,NO,0.4,,,73,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191225,08/20/2005,1.3,NO,0.4,,,73,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8191225,09/01/2005,1.5,NO,0.5,,,71,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191225,09/16/2005,1.5,NO,0.5,,,71,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191225,06/02/2006,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+16116047,06/26/2006,1.5,NO,0.5,24.1,327,71,73,59,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191225,06/29/2006,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191225,07/05/2006,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+16116047,07/28/2006,2,NO,0.6,62,457,67,76,66,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191225,07/31/2006,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191225,08/02/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8191225,08/20/2006,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116047,08/25/2006,2,NO,0.6,39.3,,67,,63,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191225,09/03/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191225,09/15/2006,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,4-Would not swim but boating OK (algae)
+16116047,04/30/2007,4,NO,1.2,,104,57,64,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+16116047,06/28/2007,1.5,NO,0.5,105,425,71,75,70,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116047,07/31/2007,1.25,NO,0.4,78,561,74,77,68,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+16116047,09/05/2007,1.5,NO,0.5,116,388,71,74,71,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116047,09/30/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116047,05/12/2008,5,NO,1.5,,78,54,62,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+16116047,07/31/2008,1,NO,0.3,52.6,211,77,70,65,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+16116047,08/26/2008,1.25,NO,0.4,132,237,74,70,72,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191225,08/27/2008,1,NO,0.3,,,77,,,LOW,,MURKY,BLUE,5-Enjoyment substantially impaired (algae)
+8191225,09/26/2008,3,NO,0.9,,,61,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+16116047,09/27/2008,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+16116047,05/11/2009,6,NO,1.8,,69,51,61,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116047,08/13/2009,0.5,NO,0.2,130,333,87,73,72,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191225,09/07/2009,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+16116047,06/01/2010,2,NO,0.6,107,208,67,69,70,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,07/08/2010,2,NO,0.6,118,220,67,70,71,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/11/2010,1,NO,0.3,158,343,77,73,73,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191225,06/26/2011,2.6,NO,0.8,,,63,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+16116047,06/29/2011,1.25,NO,0.4,87.1,140,74,66,69,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116047,07/31/2011,0.75,NO,0.2,99.7,303,81,72,70,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191225,08/18/2011,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,05/16/2012,4,NO,1.2,,80,57,62,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+16116047,06/25/2012,1,NO,0.3,107,209,77,69,70,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/14/2012,1,NO,0.3,169,82,77,62,74,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116047,09/25/2012,1,NO,0.3,162,185,77,69,73,LOW,,MURKY,GREEN,
+16116047,05/28/2013,2.75,NO,0.8,,86.1,63,63,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116047,06/26/2013,1.75, ,0.5,147,186,69,69,73,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,07/30/2013,1.5,NO,0.5,162,237,71,70,73,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/27/2013,1,NO,0.3,173,307,77,72,74,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,09/25/2013,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+34972236,05/22/2014,5.4,N,1.6,6.22,72.7,53,61,49,,,,,
+16116047,05/24/2014,,,,,73.2,,61,,,,,,
+16116047,05/28/2014,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116047,06/25/2014,2.3,N,0.7,64.9,110,64,65,66,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34972236,07/14/2014,1.2,N,0.4,,115,74,65,,,,,,
+34972236,07/17/2014,1.2,N,0.4,75.1,106,74,64,67,,,,,
+7000126,07/28/2014,,,,111,213,,70,70,,,,,
+16116047,07/30/2014,1,NO,0.3,106,190,77,69,70,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116047,08/27/2014,1,NO,0.3,161,301,77,72,73,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+72779688,10/09/2014,,,,29.5,390,,74,60,,,,,
+34972236,02/10/2015,2.1,NO,0.6,,155,66,67,,,,,,
+16116047,05/21/2015,4,NO,1.2,,114,57,65,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+16116047,06/24/2015,4.5,NO,1.4,24.8,172,55,68,59,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116047,07/30/2015,3,NO,0.9,62.8,425,61,75,66,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/26/2015,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+121395729,08/26/2015,,,,205,453,,75,75,,,,,
+16116047,09/26/2015,1.5,NO,0.5,,,71,,,HIGH,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+16116047,05/24/2016,5,NO,1.5,,41.6,54,57,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116047,06/21/2016,2,NO,0.6,40.2,146,67,67,63,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,07/26/2016,1,NO,0.3,121,205,77,69,71,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/29/2016,0.5,NO,0.2,176,264,87,71,74,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,05/09/2017,,,,,108,,61,,,,,,
+16116047,05/25/2017,1.4,NO,0.4,,,72,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,05/27/2017,,,,,58.7,,60,,,,,,
+16116047,06/21/2017,1.3,NO,0.4,69.7,121,73,65,67,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,06/27/2017,,,,,142,,67,,,,,,
+1,07/17/2017,,,,,112,,65,,,,,,
+16116047,07/19/2017,1,NO,0.3,29.5,116,77,65,60,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+1,08/13/2017,,,,,141,,66,,,,,,
+16116047,08/16/2017,1,NO,0.3,106,148,77,67,70,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,09/11/2017,,,,,139,,66,,,,,,
+16116047,05/18/2018,4.25,NO,1.3,,45.7,56,58,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+16116047,06/20/2018,1,NO,0.3,156,196,77,69,73,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+16116047,07/18/2018,0.75,NO,0.2,344,335,81,73,79,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/30/2018,0.8,NO,0.2,219,334,80,73,76,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,05/21/2019,1.25,NO,0.4,,,74,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+121395729,05/21/2019,,,,,177,,68,,,,,,
+16116047,06/26/2019,1.25,NO,0.4,69.8,127,74,66,67,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,07/24/2019,0.75,NO,0.2,150,223,81,70,73,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+16116047,08/25/2019,0.875,NO,0.3,220,278,79,72,76,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116047,05/20/2020,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116047,06/24/2020,1.3,NO,0.4,95.9,107,73,64,69,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+16116047,07/21/2020,1,NO,0.3,122,203,77,69,71,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+16116047,08/19/2020,1,NO,0.3,120,233,77,70,71,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/20/1973,,,24.7222,C,5.2,MG/L
+11/14/1973,,,1.11111,C,12.3,MG/L
+02/14/1974,,,.833333,C,11.4,MG/L
+04/11/1974,,,41,C,15.7,MG/L
+08/16/1974,,,22.5,C,7.9,MG/L
+11/11/1974,,,44,C,11.1,MG/L
+08/26/1999,1.64,FEET,,,6.9,MG/L
+08/26/1999,,,21.9,C,6.9,MG/L
+11/05/1999,,,7.2,C,10.8,MG/L
+06/26/2006,0,FEET,0,DEGREES F,0,MG/L
+06/26/2006,1,FEET,70.5,DEGREES F,5,MG/L
+06/26/2006,3,FEET,70.1,DEGREES F,5,MG/L
+06/26/2006,6,FEET,69,DEGREES F,5,MG/L
+07/28/2006,1,FEET,84.5,DEGREES F,8,MG/L
+07/28/2006,3,FEET,82,DEGREES F,6,MG/L
+07/28/2006,6,FEET,79.1,DEGREES F,5,MG/L
+08/25/2006,1,FEET,73.4,DEGREES F,5,MG/L
+08/25/2006,3,FEET,72.6,DEGREES F,5,MG/L
+08/25/2006,6,FEET,71.7,DEGREES F,5,MG/L
+04/30/2007,1,FEET,58.8,DEGREES F,6,MG/L
+04/30/2007,3,FEET,58.4,DEGREES F,6,MG/L
+04/30/2007,6,FEET,58.4,DEGREES F,6,MG/L
+06/28/2007,1,FEET,78.2,DEGREES F,5,MG/L
+06/28/2007,3,FEET,78.2,DEGREES F,5,MG/L
+06/28/2007,6,FEET,78,DEGREES F,4,MG/L
+07/31/2007,1,FEET,84.2,DEGREES F,6,MG/L
+07/31/2007,3,FEET,80.9,DEGREES F,6,MG/L
+07/31/2007,6,FEET,78.6,DEGREES F,5,MG/L
+09/05/2007,1,FEET,79.1,DEGREES F,8,MG/L
+09/05/2007,3,FEET,78.9,DEGREES F,8,MG/L
+09/05/2007,6,FEET,76.2,DEGREES F,8,MG/L
+09/30/2007,1,FEET,63.6,DEGREES F,6,MG/L
+09/30/2007,3,FEET,63.3,DEGREES F,6,MG/L
+09/30/2007,6,FEET,63.3,DEGREES F,6,MG/L
+05/12/2008,1,FEET,60,DEGREES F,10.2,MG/L
+05/12/2008,3,FEET,58.2,DEGREES F,10.4,MG/L
+05/12/2008,6,FEET,54.6,DEGREES F,10.9,MG/L
+07/31/2008,1,FEET,81.1,DEGREES F,8.7,MG/L
+07/31/2008,3,FEET,80.2,DEGREES F,8.3,MG/L
+07/31/2008,6,FEET,77.7,DEGREES F,6,MG/L
+08/26/2008,1,FEET,73.4,DEGREES F,11,MG/L
+08/26/2008,3,FEET,72.8,DEGREES F,10.48,MG/L
+08/26/2008,6,FEET,71.6,DEGREES F,7.95,MG/L
+09/27/2008,1,FEET,68.3,DEGREES F,10.2,MG/L
+09/27/2008,3,FEET,68.3,DEGREES F,10.1,MG/L
+09/27/2008,6,FEET,68.1,DEGREES F,10,MG/L
+05/11/2009,1,FEET,60.8,DEGREES F,8.05,MG/L
+05/11/2009,3,FEET,60,DEGREES F,8.06,MG/L
+05/11/2009,6,FEET,59.3,DEGREES F,8.1,MG/L
+08/13/2009,1,FEET,79.1,DEGREES F,14.1,MG/L
+08/13/2009,3,FEET,78,DEGREES F,12.8,MG/L
+08/13/2009,6,FEET,76.4,DEGREES F,6.5,MG/L
+06/01/2010,1,FEET,78,DEGREES F,16.3,MG/L
+06/01/2010,3,FEET,78,DEGREES F,16.3,MG/L
+06/01/2010,6,FEET,77.1,DEGREES F,9.6,MG/L
+07/08/2010,1,FEET,80.9,DEGREES F,,
+07/08/2010,3,FEET,80.7,DEGREES F,,
+07/08/2010,6,FEET,78.8,DEGREES F,,
+08/11/2010,1,FEET,81.1,DEGREES F,10.1,MG/L
+08/11/2010,3,FEET,80,DEGREES F,8.9,MG/L
+08/11/2010,6,FEET,79.5,DEGREES F,7,MG/L
+06/29/2011,1,FEET,73.4,DEGREES F,8.1,MG/L
+06/29/2011,3,FEET,72.6,DEGREES F,6.8,MG/L
+06/29/2011,6,FEET,71.2,DEGREES F,5.5,MG/L
+07/31/2011,1,FEET,84.3,DEGREES F,11,MG/L
+07/31/2011,3,FEET,84.2,DEGREES F,10,MG/L
+07/31/2011,6,FEET,81.8,DEGREES F,7,MG/L
+05/16/2012,1,FEET,67.8,DEGREES F,8,MG/L
+05/16/2012,3,FEET,67.4,DEGREES F,8.1,MG/L
+05/16/2012,6,FEET,65.1,DEGREES F,7,MG/L
+06/25/2012,1,FEET,75.5,DEGREES F,7.9,MG/L
+06/25/2012,3,FEET,75.3,DEGREES F,8,MG/L
+06/25/2012,6,FEET,74.4,DEGREES F,5,MG/L
+08/14/2012,1,FEET,74.6,DEGREES F,14.3,MG/L
+08/14/2012,3,FEET,71.6,DEGREES F,10.3,MG/L
+08/14/2012,6,FEET,69.6,DEGREES F,7.8,MG/L
+09/25/2012,1,FEET,58.1,DEGREES F,13,MG/L
+09/25/2012,3,FEET,57.5,DEGREES F,13,MG/L
+09/25/2012,6,FEET,57.7,DEGREES F,12.4,MG/L
+05/28/2013,1,FEET,64,DEGREES F,6.3,MG/L
+05/28/2013,3,FEET,63,DEGREES F,6,MG/L
+05/28/2013,6,FEET,62,DEGREES F,6,MG/L
+06/26/2013,1,FEET,76,DEGREES F,8.4,MG/L
+06/26/2013,3,FEET,76,DEGREES F,8.8,MG/L
+06/26/2013,6,FEET,76,DEGREES F,8.5,MG/L
+07/30/2013,1,FEET,69.2,DEGREES F,11.8,MG/L
+07/30/2013,3,FEET,68.7,DEGREES F,10.2,MG/L
+07/30/2013,6,FEET,66.7,DEGREES F,6.5,MG/L
+08/27/2013,1,FEET,78.36,DEGREES F,7.3,MG/L
+08/27/2013,3,FEET,78.2,DEGREES F,7,MG/L
+08/27/2013,6,FEET,77.7,DEGREES F,6.5,MG/L
+09/25/2013,1,FEET,62.7,DEGREES F,7.8,MG/L
+09/25/2013,3,FEET,62.4,DEGREES F,7.5,MG/L
+09/25/2013,6,FEET,62,DEGREES F,6.5,MG/L
+05/22/2014,,,17.8,C,7.0,MG/L
+05/28/2014,1,FEET,70.1,DEGREES F,6.9,MG/L
+05/28/2014,3,FEET,70.1,DEGREES F,6.8,MG/L
+05/28/2014,6,FEET,70.1,DEGREES F,6.8,MG/L
+06/25/2014,1,FEET,75.5,DEGREES F,8.3,MG/L
+06/25/2014,3,FEET,75.9,DEGREES F,8.5,MG/L
+06/25/2014,6,FEET,75.7,DEGREES F,8.3,MG/L
+06/25/2014,,,24.39,C,8.5,MG/L
+07/14/2014,,,21.2,C,7.0,MG/L
+07/17/2014,,,24.1,C,15.9,MG/L
+07/30/2014,1,FEET,73.2,DEGREES F,9,MG/L
+07/30/2014,3,FEET,71,DEGREES F,5.2,MG/L
+07/30/2014,6,FEET,70.7,DEGREES F,4.4,MG/L
+08/27/2014,1,FEET,76.4,DEGREES F,12.2,MG/L
+08/27/2014,3,FEET,74.8,DEGREES F,8.3,MG/L
+08/27/2014,6,FEET,74.1,DEGREES F,5.9,MG/L
+10/09/2014,,,10.2,C,9.5,MG/L
+02/10/2015,,,0.9,C,16.0,MG/L
+05/21/2015,1,FEET,58.4,DEGREES F,7.6,MG/L
+05/21/2015,3,FEET,58.4,DEGREES F,7.6,MG/L
+05/21/2015,6,FEET,58,DEGREES F,7.5,MG/L
+06/24/2015,1,FEET,77.7,DEGREES F,8.8,MG/L
+06/24/2015,3,FEET,75.5,DEGREES F,8.9,MG/L
+06/24/2015,6,FEET,73.9,DEGREES F,7.3,MG/L
+07/30/2015,1,FEET,77,DEGREES F,7.02,MG/L
+07/30/2015,3,FEET,77.3,DEGREES F,7.03,MG/L
+07/30/2015,6,FEET,77.3,DEGREES F,6.8,MG/L
+08/26/2015,1,FEET,63.8,DEGREES F,8,MG/L
+08/26/2015,3,FEET,63.5,DEGREES F,7.9,MG/L
+08/26/2015,6,FEET,63.3,DEGREES F,7.3,MG/L
+09/26/2015,1,FEET,67.4,DEGREES F,12.4,MG/L
+09/26/2015,3,FEET,67.1,DEGREES F,12,MG/L
+09/26/2015,6,FEET,66.3,DEGREES F,10,MG/L
+05/24/2016,1,FEET,69.4,DEGREES F,10.2,MG/L
+05/24/2016,3,FEET,69.2,DEGREES F,10.2,MG/L
+05/24/2016,6,FEET,68.7,DEGREES F,10.1,MG/L
+06/21/2016,1,FEET,76.2,DEGREES F,7.4,MG/L
+06/21/2016,3,FEET,76.2,DEGREES F,7.4,MG/L
+06/21/2016,6,FEET,76.2,DEGREES F,7.5,MG/L
+07/26/2016,1,FEET,84.5,DEGREES F,13.8,MG/L
+07/26/2016,3,FEET,82.7,DEGREES F,12.8,MG/L
+07/26/2016,6,FEET,81.5,DEGREES F,10.2,MG/L
+08/29/2016,1,FEET,77.9,DEGREES F,11.9,MG/L
+08/29/2016,3,FEET,73.5,DEGREES F,7.8,MG/L
+08/29/2016,6,FEET,72.3,DEGREES F,3,MG/L
+05/25/2017,1,FEET,58.4,DEGREES F,8.5,MG/L
+05/25/2017,3,FEET,58.2,DEGREES F,9,MG/L
+05/25/2017,6,FEET,58.1,DEGREES F,9,MG/L
+06/21/2017,1,FEET,72.6,DEGREES F,6.8,MG/L
+06/21/2017,3,FEET,72.5,DEGREES F,5.6,MG/L
+06/21/2017,6,FEET,70.8,DEGREES F,4.3,MG/L
+07/19/2017,1,FEET,77.4,DEGREES F,5.2,MG/L
+07/19/2017,3,FEET,77.2,DEGREES F,5.1,MG/L
+07/19/2017,6,FEET,76.8,DEGREES F,4.9,MG/L
+08/16/2017,1,FEET,75.5,DEGREES F,10.2,MG/L
+08/16/2017,3,FEET,74.6,DEGREES F,8.8,MG/L
+08/16/2017,6,FEET,72.8,DEGREES F,5.7,MG/L
+05/18/2018,1,FEET,65.8,DEGREES F,8.9,MG/L
+05/18/2018,3,FEET,65.6,DEGREES F,8.8,MG/L
+05/18/2018,6,FEET,65.6,DEGREES F,8.7,MG/L
+06/20/2018,1,FEET,73.4,DEGREES F,6.7,MG/L
+06/20/2018,3,FEET,73.7,DEGREES F,6.3,MG/L
+06/20/2018,6,FEET,73.7,DEGREES F,5.6,MG/L
+07/18/2018,1,FEET,80.4,DEGREES F,12.5,MG/L
+07/18/2018,3,FEET,79.8,DEGREES F,8.4,MG/L
+07/18/2018,6,FEET,79.1,DEGREES F,6.8,MG/L
+08/30/2018,1,FEET,72.8,DEGREES F,7,MG/L
+08/30/2018,3,FEET,72.8,DEGREES F,6.7,MG/L
+08/30/2018,6,FEET,72.8,DEGREES F,6,MG/L
+05/21/2019,1,FEET,55.7,DEGREES F,8.8,MG/L
+05/21/2019,3,FEET,55.7,DEGREES F,8.6,MG/L
+05/21/2019,6,FEET,55.7,DEGREES F,8.5,MG/L
+06/26/2019,1,FEET,71.9,DEGREES F,9.5,MG/L
+06/26/2019,3,FEET,70.9,DEGREES F,8,MG/L
+06/26/2019,6,FEET,70.1,DEGREES F,7.7,MG/L
+07/24/2019,1,FEET,79.1,DEGREES F,14.4,MG/L
+07/24/2019,3,FEET,76.4,DEGREES F,8.4,MG/L
+07/24/2019,6,FEET,76.2,DEGREES F,7.5,MG/L
+08/25/2019,1,FEET,72.6,DEGREES F,10,MG/L
+08/25/2019,3,FEET,72.1,DEGREES F,9.9,MG/L
+08/25/2019,6,FEET,71.7,DEGREES F,9.4,MG/L
+05/20/2020,1,FEET,57.5,DEGREES F,9.5,MG/L
+05/20/2020,3,FEET,57,DEGREES F,9.5,MG/L
+05/20/2020,6,FEET,57,DEGREES F,9.5,MG/L
+06/24/2020,1,FEET,73.4,DEGREES F,4.4,MG/L
+06/24/2020,3,FEET,72.8,DEGREES F,3.8,MG/L
+06/24/2020,6,FEET,72.6,DEGREES F,3.2,MG/L
+07/21/2020,1,FEET,77.5,DEGREES F,6.9,MG/L
+07/21/2020,3,FEET,77.5,DEGREES F,6.8,MG/L
+07/21/2020,6,FEET,77.3,DEGREES F,6.6,MG/L
+08/19/2020,1,FEET,75.3,DEGREES F,8.1,MG/L
+08/19/2020,2,FEET,75.3,DEGREES F,4.9,MG/L
+08/19/2020,3,FEET,74.6,DEGREES F,4.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/20/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/14/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/14/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/11/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/16/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/11/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/11/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/13/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/06/1995,Partly cloudy- wind 0-5 mph- temp. 70 degrees F.    
+05/18/1995,Public perception for Beaver Dam Lake.  Air temp. 65 degrees F.  Wind north-northeast 6 mph.    
+05/30/1995,Sunny- t-80 degrees F- SW 8 mph- 1.5" rain 5/27-5/28.    
+06/12/1995,Partly cloudy- temp. 76 degrees F- w-southwest 3 mph.  Rotenone treatment applied 1 week ago to Beaver Bay heights-misc.  Dead carp floating.    
+06/21/1995,Temp 94 degrees F- clear skies- wind: east 6 mph- nor rain for 2 weeks-temp above 85 degrees F all week.    
+06/28/1995,Partly sunny- no substantial rain in 3 weeks- temp 85 degrees F- wind S 5-10.    
+08/21/1995,Clear skies- winds 3 mph west-southwest- much rain over weekend- temp 86 degrees F.    
+09/05/1995,T-78 degrees F- winds 4 mph- no rain-hot! weather 1 wk.    
+09/15/1995,T 68 degrees- winds 5-7 southwest- no rain-dry- clear skies.    
+10/08/1995,Partly cloudy- winds 0-5 mph- temp-68 degrees F- algae-filamentous-green-approximately 4" of rain two days ago.    
+05/04/1996,Partly cloudy- 58 degrees- winds east 10 mph.    
+05/30/1996,Weather has been unusually cool.  High 30's nights- high 50 low 60 during the day.  Filamentous algae floating in lake.    
+06/11/1996,Northeast winds @ 2 mph.    
+07/24/1996,Air temperature is 76 degrees- partly cloudy- winds SE @ 7 mph- algae bloom early July.    
+07/29/1996,79 degrees- windy- partly sunny- filamentous algae.    
+08/03/1996,82 degrees- lake calm- winds S 10 mph- partly sunny- filamentous and clumpy algae- blue/green algae on the lake shore.    
+08/28/1996,Sunny- 70 degrees- winds- N 3 mph- filamentous algae.    
+10/20/1996,58 degrees F- winds 0-5 north-northeast- clear-sunny.    
+04/26/1997,Clear and sunny.  Winds 2 mph from the southwest.    
+05/17/1997,Dissolved oxygen 9.28 mg/l.  Water temp=10.3 degrees C.  Clear and sunny.  Weather has been cooler than normal.  Spring has been extremely windy.    
+06/01/1997,Dissolved oxygen is 9.01 mg/l.  Water temp=17.0 degrees C.  Clear and sunny.  Windy.    
+06/10/1997,Sunny and 78 degrees.  Water calm.  Filamentous algae and globules.  Water temperature = 20.6 degrees C.- dissolved oxygen = 9.16 mg/liter.    
+06/22/1997,Water 26.4 degrees C.  Weather partly sunny 98 degrees F.  Lots of boat traffic.    
+07/01/1997,Sunny and 90 degrees.  Water temperature = 25.9 degrees C.  Dissolved oxygen = 6.34    
+07/13/1997,Hot and humid all week.  A lot of boat traffic.  95 degrees and partly sunny.    
+08/22/1997,Weather partly cloudy and cooler.  65 degrees.  Pretty rainy and cloudy.  Cool August.    
+09/14/1997,Partly sunny- 80 degrees.  Filamentous algae- some blue green algae.    
+10/18/1997,Dissolved oxygen = 5.37 mg/l. Temperature = 11.7 degrees C.  Partly cloudy and windy.    
+04/19/1998,Calm no wind. Partly cloudy.    
+05/20/1998,Partly cloudy hot.    
+06/17/1998,Algae bloom green and smelly.    
+06/27/1998,Filamentous algae.    
+07/12/1998,Hot sunny. Much boating activity due to lake days. Algae starting to form green globs.    
+07/30/1998,Extreme green.    
+10/04/1998,Partly sunny cool windy. 64 degrees.  Some algae.    
+10/11/1998,Sunny.    
+12/15/1998,Unusually warm 50-60 degrees.  Water temp. 38 degrees. Dissolved oxygen 13.4 mg/l.    
+04/13/1999,Partly cloudy- mid-60's. SW winds 5-10 mph.  Lake calm- like glass.  No boats in our area.    
+05/04/1999,Partly sunny- mid-70's. SE winds 10-15 mph- lake rough- no white caps.  No rain for 1 week.  Two eagles and 2 loons- 1 boat in area.  Dissolved oxygen reading 8.73 mg/l.- water temperature 17.3 degrees C.    
+06/10/1999,Temps in high 80's for last week.  Partly cloudy- 88 degrees.  Lots of rain for last week.    
+07/22/1999,Received 6.5 inches of rain 7/20/99.  Hot and muggy- 90's.  Dissolved oxygen 13.24 mg/l.  Temperature 27.5 degrees C.    
+08/03/1999,Hot and muggy last week- high 90's.  Partly sunny.  Lake 1.5 feet high.    
+08/11/1999,Algae bloom on south end of lake.    
+09/18/1999,Cooler weather- clear skies.    
+06/03/2004,70F light NE breeze- seen a few common cormorants- ducks and geese    
+06/18/2004,lots of rain = flooding conditions=runoff=piers under water    
+07/02/2004,lots of high water- some fine algae    
+07/15/2004,80F- light west breeze- multi color algae on surface    
+08/06/2004,cluster algae on surface- some fisherman out- cormorants all over    
+08/20/2004,60F light W wind- small light algae- cormorants-american white pelicans    
+09/09/2004,65F- calm some cluster algae- some large- some small- some fishermen out    
+09/23/2004,80F S wind 10-15mph- some light algae- fine stuff- lots of birds on lake    
+10/21/2004,50F light W Breeze- algae is very light    
+06/26/2006,Heavy rain in last 12 hours- small waves- partly cloudy- blue-green algae 'Fanny' bloom (per Sefton)
+07/28/2006,Hot- sunny- blue-green algae bloom- fish kill affecting mostly small fish- e.g.- 4-5" walleye- small bluegill- etc.
+08/20/2006,pleasure boats all over- some gulls on lake
+08/25/2006,Partly cloudy- heavy rain in last 24 hours- some algae- mid 70's.
+09/03/2006,lots of gulls- local mallards- cormorants- several fishermen
+09/15/2006,Day is P/C to sunny- lt. wind from SW- 2 boats on big lake fishing- no vegetation here
+04/30/2007,Breezy.  SE winds. Partly Sunny.  Pelicans- few cormorants and gulls.
+06/28/2007,NE wind- cloudy- moderate algae bloom- no rain in last 2 weeks.  Lake is low.
+07/31/2007,Sunny- calm- hot (90)- blue-green algae.  Heavy rain (5" + ) 5 days ago.  Unusual number of gulls up and down the lake but no obvious fish kill.  Pelicans have left.  
+09/05/2007,90 Degrees- SW wind- sunny- algae bloom but no blue-green algae- fishing has been good for panfish- bass and catfish.
+09/30/2007,Sunny- warm- very breezy.  No fishermen out.  
+05/12/2008,light NE breeze- sunny- no algae- a few ducks- cormorants and pelicans- about 60 degrees F- strong NW wind the day before.
+07/31/2008,Partly sunny- W wind- choppy- no major algae bloom this year...very strange- no readings in June due to flooding conditions.
+08/26/2008,Sunny- NE wind 5-7mph- a few fisherman- no serious algae bloom so far this year.
+08/27/2008,No vegetation- a few cormorants- a few fishermen- no algae- light SE breeze.
+09/26/2008,No vegatation.  Light green fuzzy algae.  Very few birds.  A few fishing boats.
+09/27/2008,Sunny- SW breeze- slight chop- few fishermen- ducks- cormorants- gulls.  Not much alge and no major algae bloom so far this year.
+05/11/2009,Mostly sunny- calm- no algae and water is very clear.  Pelicans- ducks- cormorants.  A few fishermen.
+08/13/2009,Sunny- warm- light wind.  Several fishermen.  Fishing has been very poor all summer.  No pelicans- only a couple of cormorants.  Lake is 'pickle' green but no floating algae.
+09/07/2009,blue wing teal.  canada geese.  cormorants
+06/01/2010,Sunny- SW breeze- very few fishermen- algae forming- 80 degrees
+07/08/2010,NW breeze- mostly sunny- no fishermen- moderate algae bloom
+08/11/2010,Mostly sunny- light chop- no fishermen- moderate algae
+06/26/2011,I did not see any amount of pelicans- cormarants- ducks or geese.  Lots of pleasure boats and several fishermen.  75*- east wind 10 mph- sunny.
+06/29/2011,Mostly sunny.  Good number of fishermen- pelicans- slight algae bloom- 75- S wind 5mph- slight chop.
+07/31/2011,Cloudy- hot- a few fishermen- a number of recreational boaters- plenty of ducks- gulls- cormorants- and pelicans.  SW breeze- choppy.  
+08/18/2011,Sunny- calm- lots of pelicans and cormorants.  Only a couple of fishermen.
+05/16/2012,Sunny- 70 degrees- light norht wind- lot of pelicans- some cormorants- a few fishermen
+06/25/2012,Sunny- light NE wind- 75 degrees- lake is low and no rain in weeks.  No fishermen except commercial crew.  A few pelicans and cormorants.  Very mild algae bloom.
+08/14/2012,Sunny 74- light NW breeze- algal bloom- only 2 boats on the lake- lots of pelicans on north end- a few cormorants.
+09/25/2012,Sunny- NE wind 5-10- 61 Degrees- no fishermen- no pelicans- lots of gulls- high winds 15-20 nw previous 2 days.
+05/28/2013,75- Sunny- light south breeze- only a few fishermen- 100-s of pelicans but only a few cormorants.
+06/26/2013,74- Cloudy- 1.3 inches rain in the last 4 days.
+08/27/2013,Samples taken with Rachel Sabre- Sunny- wind 8-10 mph.
+09/25/2013,Sunny- dry- 70 degrees- light NE breeze- pelicans are gone- a few goldeneye in mid-lake- several fishermen but fishing has been very bad all summer and has now continued into fall.
+07/30/2014,Cloudy- 70- light NW breeze- blue-green algae forming along east shore of main basin.  Much better north of the Skunk islands.
+08/27/2014,Mostly sunny- low 70s- green but no floating algae- calm
+05/21/2015,Strong winds previous 48 hours so the lake is not quite a clear as it is normally.  Sunny with a light breeze.
+06/24/2015,Sunny with light breeze.  Some algae and a few weeds in the basin but many bays are choked.  Mostly Curly Leaf Pondweed but some sago in the bays.  Much better conditions than further north in the narrows. 
+07/30/2015,Sunny- most of the weeds- primarily curley-leafed pondweed- have died back.  Lot of algae.   Very few pelicans and cormorants compared to previous years.  Not much carp action being reported around the lake.
+08/26/2015,10-15mph w/nw winds gusting to 25-30 Sat- Sun- Mon.  Cloudy- 70degrees today. lt. nw wind.  heavy concentrations of algae in some areas of the lake.  About 10 boats fishing (probably perch).  Not many pelicans or cormorants.
+09/26/2015,Sunny.  LT NE wind.  Heavy Algae bloom.
+05/24/2016,80 degrees- partly sunny.  SW winds about 10mph.  Lite algae bloom- water mostly clear- shallow bays very weedy (mostly CLP).  Only saw several fishermen out.  
+06/21/2016,Sunny- west wind approx. 15- 80 degrees- slight algae bloom- CLP is dying back but still thick in the bays.  Some pelicans but did not see any cormorants. 
+07/26/2016,88 degrees- calm wind- mostly cloudy.  Only 1 or 2 fishermen out.
+08/29/2016,1.5 to 2.0 inches of rain in the last week.  Calm- partly sunny- 80 degrees.  Only 4 or 5 boats out.
+05/25/2017,Partly cloudy.  NE wind around 8.  Just over 1" of rain in the last 24 hours.  Over 300 pelicans and cormorants on High Island- most I've ever seen there.  Lake is still high and dam is running at 397cfs.  Some matted CLP but not as bad as 2 previous years.
+06/21/2017,Partly sunny- light south breeze- 70 degrees.  Lots of perch fishermen and the most cormorants and pelicans that I've ever seen on the lake and schools of small ( 6"- 8") buffalo everywhere.
+07/19/2017,80 degrees- light NE wind.  About 1.5 inches of rain in last 48 hours.  Hundreds of cormorants and pelicans.  Commercial fishermen up in Rakes bay.  Only 2 recreational fishermen out.  
+05/18/2018,Sunny 70 degrees.  E wind 10 - 15.  Hundreds of pelicans but few cormorants.  Several fishermen in main basin.
+06/20/2018,Cloudy.  70 ENE wind 5 - 10.  2 fishing boats out.  Spotty algae blooms mostly in the main basin and southern part of the narrows.  3 inches of rain in the last 4 days. Lake is a little high.
+07/18/2018,72 degrees- light variable wind- partly sunny.  1.1 inches of rain four days ago.  2 or 3  fishing boats out. 
+08/30/2018,70 degrees.  Lite SE wind.  Mostly cloudy.  Approx 8 inches rain in last 7 days.  Lake approx. 1' high.
+05/21/2019,Overcast. 57degrees. E wind 10-20 Gusts to 30.  1.5" rain in last 5 days
+06/26/2019,Sunny- 75 degrees and calm.  Over 1" of rain in the last 48 hours.  Algae buildup along west shore in the main basin
+07/24/2019,80 degrees.  Light wind- partly cloudy.  2.25" of rain in the last week.  2 fishermen out.
+08/25/2019,70 degrees- mostly cloudy- wind SE 9.  Several fishermen.  Hundreds of white pelicans.  No rain in the last 5 days.
+05/20/2020,Sunny-  windy.  Several fishermen.  Less pelicans and cormorants than last year.  2-3 inches of rain 3 days ago.
+
+PHOSPHOROUS:  Sample was submitted to Beaver Dam Waste Water Utility for analysis.  BDWWU is now a certified lab.  Total Phosphorous = 0.112 mg/l.  Sample collected with an integrated sampler at 1-3'
+06/24/2020,Partly sunny- 71 degrees- NW wind 5-10.  USGS recorded .75 inches of rain over the last 4 days.  No fishermen spotted.  Very few pelicans and cormorants on the water.  Most of the curly leaf pond weed- which was abundant on the west side and especially in the bays- has almost disappeared. 
+07/21/2020,75 degrees- sunny- SE wind 10- 2 fishing boats out.  Total of 1.2 inches of rain recorded by USGS over last 6 days.  No serious algae blooms so far this summer.  Many reports of large schools of minnows along the shoreline.  
+08/19/2020,Sunny.  75 Degrees.  Calm.  Only 2 fishing boats.  
+
+
+
+
+Start Date,Group Name,Project Name
+07/20/1973,Data Collectors,Migrated from STORET Legacy
+11/14/1973,Data Collectors,Migrated from STORET Legacy
+02/14/1974,Data Collectors,Migrated from STORET Legacy
+04/11/1974,Data Collectors,Migrated from STORET Legacy
+08/16/1974,Data Collectors,Migrated from STORET Legacy
+11/11/1974,Data Collectors,Migrated from STORET Legacy
+06/11/1980,Data Collectors,Migrated from STORET Legacy
+08/13/1980,Data Collectors,Migrated from STORET Legacy
+05/06/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/18/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/30/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/12/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/21/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/28/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/21/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/05/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/15/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/08/1995,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/04/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/30/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/11/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/24/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/29/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/03/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/28/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/15/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/20/1996,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+04/26/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/17/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/01/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/10/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/22/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/01/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/13/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/15/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/22/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/14/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/18/1997,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+04/05/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+04/19/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/20/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/17/1998,Wendy Braun,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/27/1998,Wendy Braun,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/12/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/30/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/31/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/04/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/11/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+12/15/1998,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+04/13/1999,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/04/1999,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/10/1999,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/22/1999,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/03/1999,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/11/1999,Wendy Braun And Laura Fernelius,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/26/1999,Jim Leverance and Mike Sorge,Lake Baseline Monitoring- DNR (1970s-2006)
+09/18/1999,Wendy Braun,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+11/05/1999,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake
+06/03/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/18/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/02/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/15/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/06/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/20/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/09/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/23/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/21/2004,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/01/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/20/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/08/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/01/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/20/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/01/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/16/2005,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/02/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/26/2006,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/29/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/05/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/28/2006,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/31/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/02/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/20/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/25/2006,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/03/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/15/2006,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+04/30/2007,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/28/2007,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/31/2007,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/05/2007,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/30/2007,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/12/2008,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/31/2008,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/26/2008,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/27/2008,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/26/2008,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/27/2008,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/11/2009,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/13/2009,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/07/2009,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/01/2010,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/08/2010,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/11/2010,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/26/2011,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/29/2011,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/31/2011,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/18/2011,Richard McMillan,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/16/2012,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/25/2012,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/14/2012,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/25/2012,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/28/2013,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/26/2013,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/30/2013,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/27/2013,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/27/2013,Bob Roell,Citizen Lake Monitoring Network QA/QC - 2013
+09/25/2013,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/22/2014,Todd Hanke - Onterra- LLC,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake Management Plan
+05/24/2014,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/28/2014,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/25/2014,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake Management Plan
+06/25/2014,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/14/2014,Todd Hanke - Onterra- LLC,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake Management Plan
+07/17/2014,Todd Hanke - Onterra- LLC,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake Management Plan
+07/28/2014,STEVEN GREB,Optical  Properties of WI Lakes 2011 - 2016
+07/30/2014,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/27/2014,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+10/09/2014,Emily Castellanos,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake Management Plan
+02/10/2015,Todd Hanke - Onterra- LLC,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Beaver Dam Lake Management Plan
+05/21/2015,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/24/2015,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/30/2015,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/26/2015,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/26/2015,Bob Ruell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/26/2015,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/24/2016,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/21/2016,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/26/2016,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/26/2016,Bob Roell,Citizen Lake Monitoring Network QA/QC - 2016
+08/29/2016,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/09/2017,Bob Roell,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+05/09/2017,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/25/2017,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/27/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+06/21/2017,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/27/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+07/17/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+07/19/2017,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/13/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+08/16/2017,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+09/11/2017,Data Collectors,BEAVER DAM LAKE IMPROVEMENT ASSOCIATION: Habitat Recovery Beaver Dam Watershed
+05/18/2018,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/20/2018,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/18/2018,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/30/2018,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/21/2019,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/21/2019,Bob Ruell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/26/2019,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/24/2019,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/25/2019,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+05/20/2020,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+06/24/2020,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+07/21/2020,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)
+08/19/2020,Bob Roell,Citizen Lake Monitoring - Water Quality - Beaver Dam Lake; Deep Hole (Denning Point)

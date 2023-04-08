@@ -1,0 +1,530 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Benet Lake,Kenosha,734800,SE,30,,303128,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191005,07/17/1990,2.5,NO,0.8,,,64,,,FEET,9,,GREEN,2-Very minor aesthetic problems
+8191005,09/27/1990,2.5,NO,0.8,,,64,,,FEET,9,,GREEN,4-Would not swim but boating OK (algae)
+8191005,07/17/1991,3,NO,0.9,,,61,,,FEET,7,,GREEN,2-Very minor aesthetic problems
+8191005,08/19/1991,1.5,NO,0.5,,,71,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191005,06/27/1992,3,NO,0.9,,,61,,,GAUGE,9,,GREEN,2-Very minor aesthetic problems
+8191005,08/17/1992,3,YES,0.9,,,61,,,GAUGE,9,,BROWN,
+1,08/31/2000,1.3,,0.4,71,129,73,66,67,,,,,
+18618990,05/26/2007,7.5,NO,2.3,,,48,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/09/2007,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/16/2007,5,NO,1.5,,,54,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/24/2007,3,NO,0.9,,,61,,,NORMAL,,,,
+18618990,07/07/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,
+18618990,07/15/2007,2.25,,0.7,,,65,,,,,,,
+18618990,07/28/2007,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,08/05/2007,0.75,NO,0.2,,,81,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,08/18/2007,1,NO,0.3,,,77,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,09/10/2007,0.75,NO,0.2,,,81,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+18618990,06/25/2008,4.5,NO,1.4,11.3,39,55,57,53,,,MURKY,GREEN,1-Beautiful, could not be nicer
+18618990,07/15/2008,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,1-Beautiful, could not be nicer
+18618990,07/21/2008,2.5,NO,0.8,23.9,44,64,57,59,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,08/06/2008,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,08/16/2008,1,NO,0.3,,,77,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,08/26/2008,1,NO,0.3,123,84,77,62,71,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/25/2009,3.5,YES,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,07/11/2009,3,NO,0.9,,,61,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,07/26/2009,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,08/09/2009,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+18618990,09/13/2009,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/22/2010,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,07/15/2010,2,NO,0.6,,,67,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,07/26/2010,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,08/29/2010,1,NO,0.3,,,77,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,06/27/2011,3.5,NO,1.1,,,59,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,07/18/2011,3.75,NO,1.1,,,58,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,07/27/2011,2.75,NO,0.8,,,63,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,08/28/2011,1.5,NO,0.5,,,71,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/25/2013,4.5,NO,1.4,12,30.4,55,55,54,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,07/22/2013,4,NO,1.2,20.7,31.8,57,55,58,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,08/26/2013,1.5,NO,0.5,77.3,62.4,71,60,68,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/24/2014,6,NO,1.8,4.1,24.1,51,53,45,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18618990,07/28/2014,4,NO,1.2,14.6,38.9,57,56,55,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+18618990,08/27/2014,2,NO,0.6,73.8,67.3,67,61,67,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+18618990,06/18/2015,,,,6.07,21.5,,52,48,,,,,
+18618990,06/19/2015,6.5,NO,2,,,50,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18618990,07/21/2015,3,NO,0.9,13.8,48.9,61,58,55,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+18618990,08/25/2015,2,NO,0.6,37.1,46.7,67,58,62,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,06/20/2016,7,YES,2.1,2.92,37.3,49,56,43,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,07/25/2016,2.5,NO,0.8,26.7,47.9,64,58,60,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+18618990,07/20/2017,3,NO,0.9,16.5,63,61,60,56,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+150685443,09/01/2017,1.5,NO,0.5,,,71,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+157734648,09/01/2017,,,,64.9,117,,65,66,,,,,
+150685443,05/16/2018,,,,,28.1,,54,,,,,,
+150685443,06/25/2018,,,,6.54,33.8,,55,49,,,,,
+150685443,07/27/2018,2.75,NO,0.8,26.2,58.4,63,60,59,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+150685443,08/30/2018,,,,90.8,57.3,,59,69,,,,,
+150685443,06/23/2019,3.5,NO,1.1,19.9,48.6,59,58,57,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+150685443,07/29/2019,1.9,NO,0.6,93.8,69.5,68,61,69,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+150685443,08/20/2019,,,,67.9,71.1,,61,67,,,,,
+150685443,08/22/2019,1.75,NO,0.5,,,69,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+150685443,08/17/2020,2.75,NO,0.8,,,63,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/26/2007,3,FEET,69.7,DEGREES F,,
+05/26/2007,6,FEET,69.2,DEGREES F,,
+05/26/2007,9,FEET,67.68,DEGREES F,,
+05/26/2007,12,FEET,63.6,DEGREES F,,
+05/26/2007,15,FEET,59,DEGREES F,,
+05/26/2007,18,FEET,50.7,DEGREES F,,
+05/26/2007,21,FEET,47.1,DEGREES F,,
+05/26/2007,24,FEET,44.9,DEGREES F,,
+06/09/2007,3,FEET,73.5,DEGREES F,,
+06/09/2007,6,FEET,72.8,DEGREES F,,
+06/09/2007,9,FEET,71.9,DEGREES F,,
+06/09/2007,12,FEET,68.5,DEGREES F,,
+06/09/2007,15,FEET,61.1,DEGREES F,,
+06/09/2007,18,FEET,53,DEGREES F,,
+06/09/2007,21,FEET,47.4,DEGREES F,,
+06/09/2007,24,FEET,45.6,DEGREES F,,
+06/16/2007,3,FEET,80.9,DEGREES F,,
+06/16/2007,6,FEET,79.5,DEGREES F,,
+06/16/2007,9,FEET,76.8,DEGREES F,,
+06/16/2007,12,FEET,69,DEGREES F,,
+06/16/2007,15,FEET,60.6,DEGREES F,,
+06/16/2007,18,FEET,55.6,DEGREES F,,
+06/16/2007,21,FEET,48,DEGREES F,,
+06/16/2007,24,FEET,45.8,DEGREES F,,
+06/24/2007,3,FEET,75.2,DEGREES F,,
+06/24/2007,6,FEET,75.2,DEGREES F,,
+06/24/2007,9,FEET,75.2,DEGREES F,,
+06/24/2007,12,FEET,74.4,DEGREES F,,
+06/24/2007,15,FEET,60.8,DEGREES F,,
+06/24/2007,18,FEET,54.3,DEGREES F,,
+06/24/2007,21,FEET,49.2,DEGREES F,,
+06/24/2007,24,FEET,46.4,DEGREES F,,
+07/07/2007,3,FEET,82.4,DEGREES F,,
+07/07/2007,6,FEET,81.8,DEGREES F,,
+07/07/2007,9,FEET,77,DEGREES F,,
+07/07/2007,12,FEET,73.4,DEGREES F,,
+07/07/2007,15,FEET,66,DEGREES F,,
+07/07/2007,18,FEET,54.6,DEGREES F,,
+07/07/2007,21,FEET,51.9,DEGREES F,,
+07/07/2007,24,FEET,48.5,DEGREES F,,
+07/15/2007,3,FEET,77,DEGREES F,,
+07/15/2007,6,FEET,76.4,DEGREES F,,
+07/15/2007,9,FEET,75.9,DEGREES F,,
+07/15/2007,12,FEET,75.2,DEGREES F,,
+07/15/2007,15,FEET,64.5,DEGREES F,,
+07/15/2007,18,FEET,58.2,DEGREES F,,
+07/15/2007,21,FEET,52.1,DEGREES F,,
+07/15/2007,24,FEET,48,DEGREES F,,
+07/28/2007,3,FEET,77.3,DEGREES F,,
+07/28/2007,6,FEET,77.3,DEGREES F,,
+07/28/2007,9,FEET,77.3,DEGREES F,,
+07/28/2007,12,FEET,74.4,DEGREES F,,
+07/28/2007,15,FEET,66.7,DEGREES F,,
+07/28/2007,18,FEET,58.6,DEGREES F,,
+07/28/2007,21,FEET,52.3,DEGREES F,,
+07/28/2007,24,FEET,49.2,DEGREES F,,
+08/05/2007,3,FEET,79.5,DEGREES F,,
+08/05/2007,6,FEET,78.8,DEGREES F,,
+08/05/2007,9,FEET,77.7,DEGREES F,,
+08/05/2007,12,FEET,76.1,DEGREES F,,
+08/05/2007,15,FEET,67.2,DEGREES F,,
+08/05/2007,18,FEET,59.9,DEGREES F,,
+08/05/2007,21,FEET,56.4,DEGREES F,,
+08/05/2007,24,FEET,50.7,DEGREES F,,
+08/18/2007,3,FEET,75.2,DEGREES F,,
+08/18/2007,6,FEET,75.5,DEGREES F,,
+08/18/2007,9,FEET,75.5,DEGREES F,,
+08/18/2007,12,FEET,75.5,DEGREES F,,
+08/18/2007,15,FEET,67.2,DEGREES F,,
+08/18/2007,18,FEET,60.8,DEGREES F,,
+08/18/2007,21,FEET,54.5,DEGREES F,,
+08/18/2007,24,FEET,51,DEGREES F,,
+09/10/2007,3,FEET,65.1,DEGREES F,,
+09/10/2007,6,FEET,64.7,DEGREES F,,
+09/10/2007,9,FEET,64.2,DEGREES F,,
+09/10/2007,12,FEET,63.8,DEGREES F,,
+09/10/2007,15,FEET,63.5,DEGREES F,,
+09/10/2007,18,FEET,62.4,DEGREES F,,
+09/10/2007,21,FEET,57,DEGREES F,,
+09/10/2007,24,FEET,52.7,DEGREES F,,
+06/25/2008,3,FEET,75.5,DEGREES F,9,MG/L
+06/25/2008,6,FEET,74.6,DEGREES F,,
+06/25/2008,9,FEET,74.3,DEGREES F,,
+06/25/2008,12,FEET,71.9,DEGREES F,,
+06/25/2008,15,FEET,63.6,DEGREES F,,
+06/25/2008,18,FEET,58.1,DEGREES F,,
+06/25/2008,21,FEET,54.6,DEGREES F,,
+06/25/2008,24,FEET,51.6,DEGREES F,,
+07/15/2008,3,FEET,77.3,DEGREES F,,
+07/15/2008,6,FEET,76.2,DEGREES F,,
+07/15/2008,9,FEET,75.2,DEGREES F,,
+07/15/2008,12,FEET,74.6,DEGREES F,,
+07/15/2008,15,FEET,70.8,DEGREES F,,
+07/15/2008,18,FEET,62.4,DEGREES F,,
+07/15/2008,21,FEET,55.7,DEGREES F,,
+07/15/2008,24,FEET,5.2,DEGREES F,,
+07/21/2008,3,FEET,79.3,DEGREES F,7,MG/L
+07/21/2008,6,FEET,80,DEGREES F,7,MG/L
+07/21/2008,9,FEET,79.5,DEGREES F,7,MG/L
+07/21/2008,12,FEET,75.2,DEGREES F,5,MG/L
+07/21/2008,15,FEET,69.2,DEGREES F,3,MG/L
+07/21/2008,18,FEET,62,DEGREES F,2,MG/L
+07/21/2008,21,FEET,57.5,DEGREES F,,
+07/21/2008,24,FEET,54.3,DEGREES F,,
+08/06/2008,3,FEET,80.2,DEGREES F,,
+08/06/2008,6,FEET,79.5,DEGREES F,,
+08/06/2008,9,FEET,77.5,DEGREES F,,
+08/06/2008,12,FEET,77.1,DEGREES F,,
+08/06/2008,15,FEET,70.5,DEGREES F,,
+08/06/2008,18,FEET,63.2,DEGREES F,,
+08/06/2008,21,FEET,60.1,DEGREES F,,
+08/06/2008,24,FEET,55.2,DEGREES F,,
+08/16/2008,3,FEET,76.2,DEGREES F,,
+08/16/2008,6,FEET,75.5,DEGREES F,,
+08/16/2008,9,FEET,74.6,DEGREES F,,
+08/16/2008,12,FEET,73.9,DEGREES F,,
+08/16/2008,15,FEET,69.9,DEGREES F,,
+08/16/2008,18,FEET,62.9,DEGREES F,,
+08/16/2008,21,FEET,57.7,DEGREES F,,
+08/16/2008,24,FEET,55.4,DEGREES F,,
+08/26/2008,3,FEET,78,DEGREES F,9,MG/L
+08/26/2008,6,FEET,74.3,DEGREES F,8,MG/L
+08/26/2008,9,FEET,73.4,DEGREES F,7,MG/L
+08/26/2008,12,FEET,73.2,DEGREES F,6,MG/L
+08/26/2008,15,FEET,71,DEGREES F,6,MG/L
+08/26/2008,18,FEET,64.4,DEGREES F,2,MG/L
+08/26/2008,21,FEET,59,DEGREES F,,
+08/26/2008,24,FEET,56.2,DEGREES F,,
+06/25/2009,3,FEET,86.3,DEGREES F,,
+06/25/2009,6,FEET,79.5,DEGREES F,,
+06/25/2009,9,FEET,75.2,DEGREES F,,
+06/25/2009,12,FEET,69.4,DEGREES F,,
+06/25/2009,15,FEET,66.2,DEGREES F,,
+06/25/2009,18,FEET,61.2,DEGREES F,,
+06/25/2009,21,FEET,55.2,DEGREES F,,
+06/25/2009,24,FEET,51.5,DEGREES F,,
+07/11/2009,3,FEET,77.3,DEGREES F,,
+07/11/2009,6,FEET,76.4,DEGREES F,,
+07/11/2009,9,FEET,73.2,DEGREES F,,
+07/11/2009,12,FEET,71,DEGREES F,,
+07/11/2009,15,FEET,66.9,DEGREES F,,
+07/11/2009,18,FEET,61.8,DEGREES F,,
+07/11/2009,21,FEET,57,DEGREES F,,
+07/11/2009,24,FEET,56.6,DEGREES F,,
+07/26/2009,3,FEET,72.8,DEGREES F,8,MG/L
+07/26/2009,6,FEET,72.3,DEGREES F,7,MG/L
+07/26/2009,9,FEET,72.3,DEGREES F,7,MG/L
+07/26/2009,12,FEET,72.1,DEGREES F,6,MG/L
+07/26/2009,15,FEET,68.3,DEGREES F,3,MG/L
+07/26/2009,18,FEET,62.2,DEGREES F,3,MG/L
+07/26/2009,21,FEET,59,DEGREES F,2,MG/L
+07/26/2009,24,FEET,53.7,DEGREES F,,
+08/09/2009,3,FEET,75.2,DEGREES F,,
+08/09/2009,6,FEET,74.8,DEGREES F,,
+08/09/2009,9,FEET,74.1,DEGREES F,,
+08/09/2009,12,FEET,72.8,DEGREES F,,
+08/09/2009,15,FEET,69,DEGREES F,,
+08/09/2009,18,FEET,63.1,DEGREES F,,
+08/09/2009,21,FEET,58.6,DEGREES F,,
+08/09/2009,24,FEET,57.2,DEGREES F,,
+09/13/2009,3,FEET,75,DEGREES F,10,MG/L
+09/13/2009,6,FEET,73,DEGREES F,8,MG/L
+09/13/2009,9,FEET,71.2,DEGREES F,4,MG/L
+09/13/2009,12,FEET,67.2,DEGREES F,2,MG/L
+09/13/2009,15,FEET,66.5,DEGREES F,2,MG/L
+09/13/2009,18,FEET,64.7,DEGREES F,2,MG/L
+09/13/2009,21,FEET,61.1,DEGREES F,1,MG/L
+09/13/2009,24,FEET,56.4,DEGREES F,,
+06/22/2010,3,FEET,80.6,DEGREES F,,
+06/22/2010,6,FEET,80,DEGREES F,,
+06/22/2010,9,FEET,78.8,DEGREES F,,
+06/22/2010,12,FEET,73.4,DEGREES F,,
+06/22/2010,15,FEET,66,DEGREES F,,
+06/22/2010,18,FEET,59.5,DEGREES F,,
+06/22/2010,21,FEET,56.4,DEGREES F,,
+06/22/2010,24,FEET,54.5,DEGREES F,,
+07/15/2010,3,FEET,84.5,DEGREES F,,
+07/15/2010,6,FEET,82.7,DEGREES F,,
+07/15/2010,9,FEET,82,DEGREES F,,
+07/15/2010,12,FEET,79.5,DEGREES F,,
+07/15/2010,15,FEET,70.5,DEGREES F,,
+07/15/2010,18,FEET,61.1,DEGREES F,,
+07/15/2010,21,FEET,55.9,DEGREES F,,
+07/15/2010,24,FEET,53.6,DEGREES F,,
+07/26/2010,3,FEET,83.4,DEGREES F,,
+07/26/2010,6,FEET,81.3,DEGREES F,,
+07/26/2010,9,FEET,80.4,DEGREES F,,
+07/26/2010,12,FEET,79.1,DEGREES F,,
+07/26/2010,15,FEET,71,DEGREES F,,
+07/26/2010,18,FEET,62.4,DEGREES F,,
+07/26/2010,21,FEET,57.5,DEGREES F,,
+07/26/2010,24,FEET,54.6,DEGREES F,,
+08/29/2010,3,FEET,79.1,DEGREES F,,
+08/29/2010,6,FEET,77.1,DEGREES F,,
+08/29/2010,9,FEET,76.8,DEGREES F,,
+08/29/2010,12,FEET,76.1,DEGREES F,,
+08/29/2010,15,FEET,71.6,DEGREES F,,
+08/29/2010,18,FEET,64,DEGREES F,,
+08/29/2010,21,FEET,59.3,DEGREES F,,
+08/29/2010,24,FEET,55.7,DEGREES F,,
+06/27/2011,3,FEET,75.9,DEGREES F,,
+06/27/2011,6,FEET,75,DEGREES F,,
+06/27/2011,9,FEET,74.1,DEGREES F,,
+06/27/2011,12,FEET,70.1,DEGREES F,,
+06/27/2011,15,FEET,67.2,DEGREES F,,
+06/27/2011,18,FEET,63.6,DEGREES F,,
+06/27/2011,21,FEET,59,DEGREES F,,
+06/27/2011,24,FEET,56.1,DEGREES F,,
+07/18/2011,3,FEET,87.8,DEGREES F,,
+07/18/2011,6,FEET,85.4,DEGREES F,,
+07/18/2011,9,FEET,83.1,DEGREES F,,
+07/18/2011,12,FEET,77.3,DEGREES F,,
+07/18/2011,15,FEET,68.7,DEGREES F,,
+07/18/2011,18,FEET,67.6,DEGREES F,,
+07/18/2011,21,FEET,59.7,DEGREES F,,
+07/18/2011,24,FEET,56.3,DEGREES F,,
+07/27/2011,3,FEET,81.3,DEGREES F,,
+07/27/2011,6,FEET,80.4,DEGREES F,,
+07/27/2011,9,FEET,79.8,DEGREES F,,
+07/27/2011,12,FEET,78.8,DEGREES F,,
+07/27/2011,15,FEET,72.3,DEGREES F,,
+07/27/2011,18,FEET,63.8,DEGREES F,,
+07/27/2011,21,FEET,57.3,DEGREES F,,
+07/27/2011,24,FEET,56.6,DEGREES F,,
+08/28/2011,3,FEET,72.7,DEGREES F,,
+08/28/2011,6,FEET,72,DEGREES F,,
+08/28/2011,9,FEET,76.4,DEGREES F,,
+08/28/2011,12,FEET,74.6,DEGREES F,,
+08/28/2011,15,FEET,70.5,DEGREES F,,
+08/28/2011,18,FEET,66.5,DEGREES F,,
+08/28/2011,21,FEET,59.5,DEGREES F,,
+08/28/2011,24,FEET,57,DEGREES F,,
+06/25/2013,3,FEET,77.7,DEGREES F,,
+06/25/2013,6,FEET,75.9,DEGREES F,,
+06/25/2013,9,FEET,75.3,DEGREES F,,
+06/25/2013,12,FEET,72.3,DEGREES F,,
+06/25/2013,15,FEET,62.9,DEGREES F,,
+06/25/2013,18,FEET,55.4,DEGREES F,,
+06/25/2013,21,FEET,51.4,DEGREES F,,
+06/25/2013,24,FEET,48.5,DEGREES F,,
+07/22/2013,3,FEET,85.8,DEGREES F,,
+07/22/2013,6,FEET,83.4,DEGREES F,,
+07/22/2013,9,FEET,82.2,DEGREES F,,
+07/22/2013,12,FEET,79.5,DEGREES F,,
+07/22/2013,15,FEET,67.2,DEGREES F,,
+07/22/2013,18,FEET,59.5,DEGREES F,,
+07/22/2013,21,FEET,54.6,DEGREES F,,
+07/22/2013,24,FEET,51.2,DEGREES F,,
+08/26/2013,3,FEET,79.1,DEGREES F,,
+08/26/2013,6,FEET,77.3,DEGREES F,,
+08/26/2013,9,FEET,76.2,DEGREES F,,
+08/26/2013,12,FEET,74.4,DEGREES F,,
+08/26/2013,15,FEET,69.2,DEGREES F,,
+08/26/2013,18,FEET,62.4,DEGREES F,,
+08/26/2013,21,FEET,56.6,DEGREES F,,
+08/26/2013,24,FEET,53.6,DEGREES F,,
+06/24/2014,3,FEET,77,DEGREES F,,
+06/24/2014,6,FEET,76.2,DEGREES F,,
+06/24/2014,9,FEET,75.7,DEGREES F,,
+06/24/2014,12,FEET,72.6,DEGREES F,,
+06/24/2014,15,FEET,67.4,DEGREES F,,
+06/24/2014,18,FEET,62.4,DEGREES F,,
+06/24/2014,21,FEET,56.4,DEGREES F,,
+06/24/2014,24,FEET,53,DEGREES F,,
+07/28/2014,3,FEET,76.8,DEGREES F,,
+07/28/2014,6,FEET,76.4,DEGREES F,,
+07/28/2014,9,FEET,76.2,DEGREES F,,
+07/28/2014,12,FEET,75.2,DEGREES F,,
+07/28/2014,15,FEET,74.1,DEGREES F,,
+07/28/2014,18,FEET,67.4,DEGREES F,,
+07/28/2014,21,FEET,58.2,DEGREES F,,
+07/28/2014,24,FEET,54.6,DEGREES F,,
+08/27/2014,3,FEET,78.8,DEGREES F,,
+08/27/2014,6,FEET,78.2,DEGREES F,,
+08/27/2014,9,FEET,77.5,DEGREES F,,
+08/27/2014,12,FEET,76.4,DEGREES F,,
+08/27/2014,15,FEET,73.2,DEGREES F,,
+08/27/2014,18,FEET,68.2,DEGREES F,,
+08/27/2014,21,FEET,61.8,DEGREES F,,
+08/27/2014,24,FEET,57.5,DEGREES F,,
+06/19/2015,3,FEET,75.7,DEGREES F,,
+06/19/2015,6,FEET,75.1,DEGREES F,,
+06/19/2015,9,FEET,74.3,DEGREES F,,
+06/19/2015,12,FEET,71.7,DEGREES F,,
+06/19/2015,15,FEET,66.2,DEGREES F,,
+06/19/2015,18,FEET,61.8,DEGREES F,,
+06/19/2015,21,FEET,54.8,DEGREES F,,
+06/19/2015,24,FEET,54,DEGREES F,,
+07/21/2015,3,FEET,80.6,DEGREES F,,
+07/21/2015,6,FEET,79.1,DEGREES F,,
+07/21/2015,9,FEET,77.7,DEGREES F,,
+07/21/2015,12,FEET,76.4,DEGREES F,,
+07/21/2015,15,FEET,70.8,DEGREES F,,
+07/21/2015,18,FEET,62.4,DEGREES F,,
+07/21/2015,21,FEET,56.3,DEGREES F,,
+07/21/2015,24,FEET,52.5,DEGREES F,,
+08/25/2015,3,FEET,71.9,DEGREES F,,
+08/25/2015,6,FEET,71.7,DEGREES F,,
+08/25/2015,9,FEET,71.4,DEGREES F,,
+08/25/2015,12,FEET,71,DEGREES F,,
+08/25/2015,15,FEET,70.5,DEGREES F,,
+08/25/2015,18,FEET,68.3,DEGREES F,,
+08/25/2015,21,FEET,60,DEGREES F,,
+08/25/2015,24,FEET,55.7,DEGREES F,,
+06/20/2016,3,FEET,80.4,DEGREES F,,
+06/20/2016,6,FEET,79.1,DEGREES F,,
+06/20/2016,9,FEET,73.9,DEGREES F,,
+06/20/2016,12,FEET,68.3,DEGREES F,,
+06/20/2016,15,FEET,63.8,DEGREES F,,
+06/20/2016,18,FEET,57.5,DEGREES F,,
+06/20/2016,21,FEET,52.5,DEGREES F,,
+06/20/2016,24,FEET,50,DEGREES F,,
+07/25/2016,3,FEET,85.1,DEGREES F,,
+07/25/2016,6,FEET,82.2,DEGREES F,,
+07/25/2016,9,FEET,80,DEGREES F,,
+07/25/2016,12,FEET,76.4,DEGREES F,,
+07/25/2016,15,FEET,63.7,DEGREES F,,
+07/25/2016,18,FEET,67.8,DEGREES F,,
+07/25/2016,21,FEET,63.8,DEGREES F,,
+07/25/2016,24,FEET,61.1,DEGREES F,,
+07/20/2017,3,FEET,81,DEGREES F,,
+07/20/2017,6,FEET,77.7,DEGREES F,,
+07/20/2017,9,FEET,75.2,DEGREES F,,
+09/01/2017,3,FEET,71,DEGREES F,,
+09/01/2017,6,FEET,70.8,DEGREES F,,
+09/01/2017,9,FEET,70.7,DEGREES F,,
+09/01/2017,12,FEET,70.3,DEGREES F,,
+09/01/2017,15,FEET,70.1,DEGREES F,,
+09/01/2017,18,FEET,68,DEGREES F,,
+09/01/2017,21,FEET,58.9,DEGREES F,,
+09/01/2017,24,FEET,54.8,DEGREES F,,
+09/01/2017,27,FEET,52.8,DEGREES F,,
+09/01/2017,29,FEET,52.5,DEGREES F,,
+07/27/2018,0,FEET,76.8,DEGREES F,,
+07/27/2018,3,FEET,76.4,DEGREES F,,
+07/27/2018,6,FEET,76.2,DEGREES F,,
+07/27/2018,9,FEET,76.2,DEGREES F,,
+07/27/2018,12,FEET,73,DEGREES F,,
+07/27/2018,15,FEET,62,DEGREES F,,
+07/27/2018,18,FEET,53.2,DEGREES F,,
+07/27/2018,21,FEET,47.3,DEGREES F,,
+06/23/2019,0,FEET,71,DEGREES F,,
+06/23/2019,3,FEET,70.8,DEGREES F,,
+06/23/2019,6,FEET,70.7,DEGREES F,,
+06/23/2019,9,FEET,70.1,DEGREES F,,
+06/23/2019,12,FEET,67.2,DEGREES F,,
+06/23/2019,15,FEET,60.8,DEGREES F,,
+06/23/2019,18,FEET,54.8,DEGREES F,,
+06/23/2019,21,FEET,50.7,DEGREES F,,
+06/23/2019,23,FEET,49.2,DEGREES F,,
+07/29/2019,0,FEET,79.5,DEGREES F,,
+07/29/2019,3,FEET,79.5,DEGREES F,,
+07/29/2019,6,FEET,79.5,DEGREES F,,
+07/29/2019,9,FEET,79.1,DEGREES F,,
+07/29/2019,12,FEET,77.5,DEGREES F,,
+07/29/2019,15,FEET,69.2,DEGREES F,,
+07/29/2019,18,FEET,61.5,DEGREES F,,
+07/29/2019,21,FEET,54.8,DEGREES F,,
+07/29/2019,24,FEET,52.5,DEGREES F,,
+08/22/2019,0,FEET,76.2,DEGREES F,,
+08/22/2019,3,FEET,75.9,DEGREES F,,
+08/22/2019,6,FEET,75.9,DEGREES F,,
+08/22/2019,9,FEET,75.9,DEGREES F,,
+08/22/2019,12,FEET,75.5,DEGREES F,,
+08/22/2019,15,FEET,72.8,DEGREES F,,
+08/22/2019,18,FEET,65.3,DEGREES F,,
+08/22/2019,24,FEET,59,DEGREES F,,
+08/17/2020,0,FEET,78.6,DEGREES F,,
+08/17/2020,3,FEET,78,DEGREES F,,
+08/17/2020,6,FEET,80.2,DEGREES F,,
+08/17/2020,9,FEET,79.7,DEGREES F,,
+08/17/2020,12,FEET,78.8,DEGREES F,,
+08/17/2020,15,FEET,73,DEGREES F,,
+08/17/2020,18,FEET,64,DEGREES F,,
+08/17/2020,21,FEET,57.2,DEGREES F,,
+08/17/2020,23,FEET,52,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/09/2007,Sunny day- 63 hours after thunderstorm
+08/05/2007,Cloudy
+08/18/2007,Cloudy Cloudy
+09/01/2017,Collector changed- swapped CLMN project IDS?
+07/27/2018,overcast
+06/23/2019,extremely rainy spring  overcast day 
+ducks geese with chicks noted 
+07/29/2019,Overcast resent rains Sea gull geese Overcast resent rains Sea gull geese
+08/22/2019,Recent Rain Partly cloudy
+08/17/2020,Slight over cast Ducks geese Sea gulls noted Emergent Milfoil noted 
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/1990,Ken Stezskal,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+09/27/1990,Ken Stezskal,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/17/1991,Ken Stezskal,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/19/1991,Ken Stezskal,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/27/1992,Ken Stezskal,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/17/1992,Ken Stezskal,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/31/2000,Data Collectors,GMU LAKE CLASS STUDY
+05/26/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/09/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/16/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/24/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/07/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/15/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/28/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/05/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/18/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+09/10/2007,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/25/2008,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/15/2008,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/21/2008,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/06/2008,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/16/2008,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/26/2008,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/25/2009,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/11/2009,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/26/2009,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/09/2009,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+09/13/2009,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/22/2010,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/15/2010,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/26/2010,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/29/2010,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/27/2011,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/18/2011,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/27/2011,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/28/2011,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/25/2013,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/22/2013,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/26/2013,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/24/2014,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/28/2014,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/27/2014,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/18/2015,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/19/2015,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/21/2015,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/25/2015,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/20/2016,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/25/2016,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/20/2017,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/20/2017,Joseph Polacheck,Citizen Lake Monitoring - Water Quality - Shangri-La; Shallow Hole
+09/01/2017,Joseph Polacheck- Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+09/01/2017,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+05/16/2018,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/25/2018,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/25/2018,Michael Von Gunten,Citizen Lake Monitoring Network QA/QC - 2018
+07/27/2018,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/30/2018,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+06/23/2019,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+07/29/2019,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/20/2019,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/22/2019,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole
+08/17/2020,Michael Von Gunten,Citizen Lake Monitoring - Water Quality - Lake Shangri-La -Benet - Deep Hole

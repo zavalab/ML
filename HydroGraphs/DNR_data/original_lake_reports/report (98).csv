@@ -1,0 +1,769 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Spirit Lake,Burnett,2650300,NO,7,,073040,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190850,06/29/1986,6.5,NO,2,,,50,,,,,CLEAR,BLUE,
+8190850,07/08/1986,6,NO,1.8,,,51,,,,,CLEAR,BLUE,
+8190850,07/15/1986,5.5,NO,1.7,,,53,,,,,,BROWN,
+8190850,07/21/1986,5,NO,1.5,,,54,,,,,,GREEN,
+8190850,07/28/1986,5.5,NO,1.7,,,53,,,,,,GREEN,
+8190850,08/06/1986,4.25,NO,1.3,,,56,,,,,,GREEN,
+8190850,08/11/1986,3.75,NO,1.1,,,58,,,,,,GREEN,
+8190850,08/16/1986,3.5,NO,1.1,,,59,,,,,,GREEN,
+8190850,08/28/1986,3,NO,0.9,,,61,,,,,,GREEN,
+8190850,09/01/1986,3,NO,0.9,,,61,,,,,,GREEN,
+8190850,09/10/1986,3.75,NO,1.1,,,58,,,,,,GREEN,
+8190850,09/15/1986,3.75,NO,1.1,,,58,,,,,,BLUE,
+8190850,09/24/1986,5.5,NO,1.7,,,53,,,,,,BLUE,
+8190850,09/29/1986,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190850,10/05/1986,5.25,NO,1.6,,,53,,,,,,BLUE,
+8190850,04/25/1987,6.5,NO,2,,,50,,,,,CLEAR,BLUE,
+8190850,05/04/1987,6,NO,1.8,,,51,,,,,CLEAR,BLUE,
+8190850,05/15/1987,5.75,NO,1.7,,,52,,,,,,GREEN,
+8190850,05/23/1987,5.5,NO,1.7,,,53,,,,,CLEAR,BLUE,
+8190850,06/02/1987,5.25,NO,1.6,,,53,,,,,CLEAR,BLUE,
+8190850,06/05/1987,5.25,NO,1.6,,,53,,,,,CLEAR,BLUE,
+8190850,06/09/1987,5.75,NO,1.7,,,52,,,,,,BLUE,
+8190850,06/11/1987,5.5,NO,1.7,,,53,,,,,,BROWN,
+8190850,06/24/1987,5.25,NO,1.6,,,53,,,,,CLEAR,BLUE,
+8190850,07/08/1987,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190850,07/14/1987,5,NO,1.5,,,54,,,,,,BROWN,
+8190850,07/20/1987,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190850,07/29/1987,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190850,08/08/1987,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190850,08/14/1987,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190850,08/18/1987,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190850,08/28/1987,4.5,NO,1.4,,,55,,,,,,BROWN,
+8190850,09/05/1987,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190850,09/11/1987,3,NO,0.9,,,61,,,,,,BROWN,
+8190850,09/15/1987,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190850,09/23/1987,5,NO,1.5,,,54,,,,,,BROWN,
+8190850,10/04/1987,4.75,NO,1.4,,,55,,,,,,BROWN,
+8190850,03/29/1988,6.25,NO,1.9,,,51,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190850,05/13/1988,7,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190850,06/05/1988,7.25,NO,2.2,,,49,,,,,CLEAR,BLUE,
+8190850,06/16/1988,5.5,NO,1.7,,,53,,,DOWN 3 FT. FROM LAST YR,,,GREEN,
+8190850,06/30/1988,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190850,07/09/1988,5.75,NO,1.7,,,52,,,,,,BROWN,
+8190850,08/14/1988,2.5,NO,0.8,,,64,,,,,,GREEN,
+8190850,08/20/1988,3.5,NO,1.1,,,59,,,,,,GREEN,1-Beautiful, could not be nicer
+8190850,09/10/1988,3,NO,0.9,,,61,,,,,,BROWN,
+8190850,04/27/1989,7,YES,2.1,,,49,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190850,05/14/1989,7,YES,2.1,,,49,,,DOWN 3 FT.,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190850,06/15/1989,5,NO,1.5,,,54,,,,,,GREEN,
+8190850,07/04/1989,6,NO,1.8,,,51,,,,,,GREEN,
+8190850,07/22/1989,6.5,NO,2,,,50,,,,,,GREEN,1-Beautiful, could not be nicer
+8190850,08/13/1989,5.5,NO,1.7,,,53,,,,,,GREEN,2-Very minor aesthetic problems
+8190850,09/07/1989,6,NO,1.8,,,51,,,,,,GREEN,
+8190850,09/23/1989,15,NO,4.6,,,38,,,,,,BLUE/GREEN,
+8190850,05/12/1990,7,NO,2.1,,,49,,,,,CLEAR,,2-Very minor aesthetic problems
+8190850,05/29/1990,5.25,YES,1.6,,,53,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190850,06/18/1990,6.5,YES,2,,,50,,,,,,BLUE,1-Beautiful, could not be nicer
+8190117,07/20/1990,8.25,NO,2.5,,,47,,,,,,BROWN,
+8190117,08/03/1990,5.25,NO,1.6,,,53,,,HIGH,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190117,08/10/1990,5,NO,1.5,,,54,,,DOWN 2" FROM 8/3,,,GREEN/LT.BROWN,2-Very minor aesthetic problems
+8190117,08/22/1990,5.75,NO,1.7,,,52,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8190117,10/01/1990,6.5,NO,2,,,50,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190117,05/30/1991,9,NO,2.7,,,45,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190117,06/19/1991,7.25,NO,2.2,,,49,,,HIGH,,,LIGHT BROWN,2-Very minor aesthetic problems
+8190117,07/10/1991,5.75,NO,1.7,,,52,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190117,08/04/1991,5.5,NO,1.7,,,53,,,DOWN,,,BROWN,2-Very minor aesthetic problems
+8190117,10/09/1991,6,NO,1.8,,19,51,51,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190117,06/08/1992,8,NO,2.4,,23,47,52,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190117,07/21/1992,5,NO,1.5,,20,54,51,,HIGH,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190117,08/14/1992,5.6,NO,1.7,,31,52,55,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190117,09/28/1992,4.5,NO,1.4,,31,55,55,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,05/25/1993,,,,,13,,48,,,,,,
+8191151,05/25/1993,11.5,NO,3.5,2.38,,42,,41,6" UP,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/25/1993,,,,,13,,48,,,,,,
+8191151,06/25/1993,6,NO,1.8,8.2,,51,,51,HIGH,,,GREEN,2-Very minor aesthetic problems
+1,07/19/1993,,,,,18,,51,,,,,,
+8191151,07/19/1993,6.75,NO,2.1,8.41,,50,,51,HIGH,,,GREEN,2-Very minor aesthetic problems
+1,08/24/1993,,,,18.5,,,,57,,,,,
+8191151,08/24/1993,5,NO,1.5,,26,54,53,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+1,09/27/1993,,,,,23,,52,,,,,,
+8191151,09/27/1993,5.25,NO,1.6,11.6,,53,,53,LOW,,,BROWN,2-Very minor aesthetic problems
+8191151,05/19/1994,8.25,NO,2.5,5.5,12,47,47,48,NORMAL,,,BROWN,
+8191151,06/27/1994,6.75,NO,2.1,7.69,,50,,50,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191151,07/12/1994,4.75,NO,1.4,14.9,26,55,53,55,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191151,08/24/1994,3,NO,0.9,31.9,21,61,52,61,NORMAL,,,BROWN,
+8191151,09/29/1994,4,NO,1.2,24.8,41,57,57,59,HIGH,,,BROWN,5-Enjoyment substantially impaired (algae)
+27118318,05/15/1996,8,,2.4,7.91,25,47,53,50,,,,,
+27118318,06/20/1996,10.5,,3.2,6.05,21,43,52,48,,,,,
+27118318,07/18/1996,7.5,,2.3,16.7,26,48,53,56,,,,,
+27118318,08/29/1996,5.9,,1.8,13.3,23,52,52,54,,,,,
+8189348,08/09/1998,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,08/23/1998,3.25,NO,1,,,60,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,09/07/1998,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,09/20/1998,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,10/04/1998,3.25,NO,1,,,60,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,04/24/1999,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,05/08/1999,13.5,NO,4.1,,,40,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,05/22/1999,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189348,06/05/1999,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189348,06/19/1999,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189348,07/03/1999,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,07/17/1999,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,08/07/1999,5,NO,1.5,,,54,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,08/14/1999,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,08/28/1999,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,09/12/1999,3,NO,0.9,,,61,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,09/25/1999,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,10/02/1999,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,05/06/2000,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,06/10/2000,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189348,06/25/2000,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,07/09/2000,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,07/22/2000,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,08/06/2000,3.5,NO,1.1,,,59,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,08/19/2000,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,09/03/2000,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,09/17/2000,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,10/01/2000,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,05/05/2001,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,05/19/2001,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,06/04/2001,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,06/28/2001,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,07/12/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,07/28/2001,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,08/08/2001,6,NO,1.8,,,51,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,08/22/2001,4,NO,1.2,,,57,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189348,09/01/2001,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189348,09/15/2001,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,09/29/2001,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,10/13/2001,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,05/11/2002,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189348,05/28/2002,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,06/02/2002,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,06/15/2002,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,07/06/2002,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,07/29/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,08/10/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,08/23/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,09/02/2002,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,05/03/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189348,05/17/2003,14,NO,4.3,,,39,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,05/30/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,06/15/2003,14,NO,4.3,,,39,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,07/05/2003,8,NO,2.4,,,47,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,08/07/2003,6,NO,1.8,,,51,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,08/17/2003,5,NO,1.5,,,54,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,08/30/2003,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,09/13/2003,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,09/27/2003,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,10/11/2003,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,04/17/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,05/08/2004,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,05/31/2004,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,06/05/2004,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,06/17/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,07/07/2004,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,07/08/2004,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,07/24/2004,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,08/09/2004,5,NO,1.5,,,54,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,08/20/2004,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,09/04/2004,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,09/19/2004,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,10/02/2004,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,10/16/2004,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,
+8189348,04/09/2005,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,05/07/2005,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,05/22/2005,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,06/04/2005,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,06/18/2005,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189348,06/25/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189348,07/10/2005,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189348,08/03/2005,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,08/16/2005,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,09/05/2005,3,NO,0.9,,,61,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189348,09/17/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,10/01/2005,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,10/14/2005,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189348,04/17/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,05/06/2006,13,NO,4,,,40,,,NORMAL,,CLEAR,BROWN,
+8189348,05/20/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,
+8189348,05/27/2006,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,
+8189348,06/12/2006,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,
+8189348,06/28/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,
+8189348,07/09/2006,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,
+8189348,07/22/2006,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,
+8189348,08/08/2006,4,NO,1.2,,,57,,,LOW,,CLEAR,BROWN,
+8189348,09/02/2006,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,
+8189348,09/16/2006,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,
+8189348,09/30/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,
+8189348,04/21/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,05/05/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,06/07/2007,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,06/30/2007,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,07/21/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,08/07/2007,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,08/23/2007,3,NO,0.9,,,61,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,09/12/2007,4,NO,1.2,,,57,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,09/26/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,10/11/2007,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189348,05/09/2008,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+8189348,06/23/2008,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189348,07/04/2008,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,07/21/2008,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189348,08/11/2008,4,NO,1.2,,,57,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189348,09/06/2008,4,NO,1.2,,,57,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189348,10/03/2008,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8189348,10/14/2008,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,04/28/2009,11,NO,3.3,,,43,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8189348,06/02/2009,12.5,NO,3.8,,,41,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189348,06/12/2009,12,NO,3.6,,,41,,,LOW,,,BROWN,1-Beautiful, could not be nicer
+8189348,07/11/2009,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189348,07/24/2009,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,08/05/2009,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189348,08/30/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189348,09/24/2009,5,NO,1.5,,,54,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+40860518,07/26/2014,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,08/01/2014,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/11/2014,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/30/2014,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+40860518,05/15/2015,20,NO,6.1,,,34,,,NORMAL,24,CLEAR,GREEN,1-Beautiful, could not be nicer
+40860518,06/14/2015,14,NO,4.3,,,39,,,NORMAL,23,CLEAR,GREEN,2-Very minor aesthetic problems
+40860518,06/18/2015,12,NO,3.6,,,41,,,NORMAL,26,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,06/27/2015,11,NO,3.3,,,43,,,NORMAL,25,CLEAR,BROWN,2-Very minor aesthetic problems
+40860518,07/09/2015,8,NO,2.4,,,47,,,NORMAL,23,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,07/18/2015,8,NO,2.4,,,47,,,NORMAL,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/09/2015,5.5,NO,1.7,,,53,,,NORMAL,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,09/01/2015,5,NO,1.5,,,54,,,HIGH,24,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,09/07/2015,4,NO,1.2,,,57,,,HIGH,24,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,09/27/2015,3.5,NO,1.1,,,59,,,HIGH,21,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+40860518,10/11/2015,4,NO,1.2,,,57,,,HIGH,22,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,05/18/2016,15,NO,4.6,,,38,,,NORMAL,23,CLEAR,GREEN,2-Very minor aesthetic problems
+40860518,05/29/2016,10,NO,3,,,44,,,NORMAL,23,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,06/08/2016,9,NO,2.7,,,45,,,NORMAL,23,CLEAR,GREEN,2-Very minor aesthetic problems
+40860518,07/16/2016,5.5,NO,1.7,,,53,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,07/24/2016,5,NO,1.5,,,54,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/31/2016,3.5,NO,1.1,,,59,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,05/07/2017,14,NO,4.3,,,39,,,NORMAL,23,CLEAR,GREEN,2-Very minor aesthetic problems
+40860518,06/02/2017,14,NO,4.3,,,39,,,HIGH,23,CLEAR,GREEN,2-Very minor aesthetic problems
+40860518,07/01/2017,7,NO,2.1,,,49,,,NORMAL,22,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,07/14/2017,7.5,NO,2.3,,,48,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+82607229,07/27/2017,6,NO,1.8,,,51,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+40860518,08/20/2017,5,NO,1.5,,,54,,,HIGH,26,MURKY,GREEN,2-Very minor aesthetic problems
+10585221,09/06/2017,4,NO,1.2,25.4,54.6,57,59,59,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+40860518,09/12/2017,3.5,NO,1.1,,,59,,,HIGH,24,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+40860518,10/07/2017,5,NO,1.5,,,54,,,HIGH,24,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+40860518,05/06/2018,7,NO,2.1,,,49,,,HIGH,23,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,08/18/2018,6,NO,1.8,,,51,,,NORMAL,23,MURKY,BROWN,2-Very minor aesthetic problems
+10585221,08/27/2018,8,,2.4,14.9,32.3,47,55,55,,,,,
+19207139,08/27/2018,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+40860518,05/12/2019,7,NO,2.1,,,49,,,HIGH,24,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,07/03/2019,10,NO,3,,,44,,,NORMAL,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,07/14/2019,9.5,NO,2.9,,,45,,,HIGH,23,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,07/29/2019,9,NO,2.7,,,45,,,HIGH,22,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,09/02/2019,5.5,NO,1.7,,,53,,,HIGH,24,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,09/28/2019,5.5,NO,1.7,,,53,,,HIGH,23,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,10/19/2019,7,NO,2.1,,,49,,,HIGH,23,MURKY,BROWN,2-Very minor aesthetic problems
+40860518,04/24/2020,10,NO,3,,,44,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/09/2020,5.5,NO,1.7,,,53,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/16/2020,5.5,NO,1.7,,,53,,,HIGH,23,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,08/24/2020,5.5,NO,1.7,,,53,,,HIGH,23.5,MURKY,GREEN,2-Very minor aesthetic problems
+40860518,10/04/2020,5,NO,1.5,,,54,,,HIGH,23.5,MURKY,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/09/1991,3,FEET,51,DEGREES F,8,MG/L
+10/09/1991,6,FEET,51,DEGREES F,11,MG/L
+10/09/1991,9,FEET,51,DEGREES F,13,MG/L
+10/09/1991,12,FEET,51,DEGREES F,12,MG/L
+10/09/1991,15,FEET,51,DEGREES F,10,MG/L
+10/09/1991,20,FEET,51,DEGREES F,11,MG/L
+10/09/1991,25,FEET,51,DEGREES F,12,MG/L
+06/08/1992,3,FEET,68,DEGREES F,8,MG/L
+06/08/1992,6,FEET,67,DEGREES F,8,MG/L
+06/08/1992,9,FEET,67,DEGREES F,8,MG/L
+06/08/1992,12,FEET,66,DEGREES F,8,MG/L
+06/08/1992,15,FEET,64,DEGREES F,2,MG/L
+06/08/1992,20,FEET,60,DEGREES F,3,MG/L
+06/08/1992,22,FEET,60,DEGREES F,1,MG/L
+07/21/1992,3,FEET,70,DEGREES F,9,MG/L
+07/21/1992,6,FEET,70,DEGREES F,8,MG/L
+07/21/1992,9,FEET,70,DEGREES F,8,MG/L
+07/21/1992,12,FEET,70,DEGREES F,8,MG/L
+07/21/1992,15,FEET,69,DEGREES F,5,MG/L
+07/21/1992,20,FEET,65,DEGREES F,2,MG/L
+07/21/1992,26,FEET,64,DEGREES F,,
+08/14/1992,3,FEET,73,DEGREES F,8,MG/L
+08/14/1992,6,FEET,71,DEGREES F,8,MG/L
+08/14/1992,9,FEET,71,DEGREES F,8,MG/L
+08/14/1992,12,FEET,70,DEGREES F,7,MG/L
+08/14/1992,15,FEET,70,DEGREES F,,
+08/14/1992,20,FEET,68,DEGREES F,1,MG/L
+08/14/1992,23,FEET,68,DEGREES F,1,MG/L
+09/28/1992,3,FEET,57,DEGREES F,9,MG/L
+09/28/1992,6,FEET,57,DEGREES F,9,MG/L
+09/28/1992,9,FEET,57,DEGREES F,8,MG/L
+09/28/1992,12,FEET,57,DEGREES F,8,MG/L
+09/28/1992,15,FEET,57,DEGREES F,9,MG/L
+09/28/1992,20,FEET,57,DEGREES F,9,MG/L
+09/28/1992,25,FEET,56,DEGREES F,9,MG/L
+05/25/1993,3,FEET,58,DEGREES F,7,MG/L
+05/25/1993,6,FEET,58,DEGREES F,8,MG/L
+05/25/1993,9,FEET,58,DEGREES F,8,MG/L
+05/25/1993,12,FEET,58,DEGREES F,8,MG/L
+05/25/1993,15,FEET,58,DEGREES F,8,MG/L
+05/25/1993,20,FEET,56,DEGREES F,7,MG/L
+05/25/1993,23,FEET,56,DEGREES F,7,MG/L
+06/25/1993,3,FEET,69,DEGREES F,9,MG/L
+06/25/1993,6,FEET,69,DEGREES F,9,MG/L
+06/25/1993,9,FEET,68,DEGREES F,9,MG/L
+06/25/1993,12,FEET,67,DEGREES F,7,MG/L
+06/25/1993,15,FEET,67,DEGREES F,7,MG/L
+06/25/1993,20,FEET,65,DEGREES F,4,MG/L
+06/25/1993,23,FEET,64,DEGREES F,5,MG/L
+07/19/1993,3,FEET,74,DEGREES F,8,MG/L
+07/19/1993,6,FEET,74,DEGREES F,8,MG/L
+07/19/1993,9,FEET,74,DEGREES F,9,MG/L
+07/19/1993,12,FEET,73,DEGREES F,7,MG/L
+07/19/1993,15,FEET,70,DEGREES F,6,MG/L
+07/19/1993,20,FEET,68,DEGREES F,1,MG/L
+07/19/1993,25,FEET,68,DEGREES F,1,MG/L
+08/24/1993,3,FEET,76,DEGREES F,6,MG/L
+08/24/1993,6,FEET,76,DEGREES F,6,MG/L
+08/24/1993,9,FEET,76,DEGREES F,6,MG/L
+08/24/1993,12,FEET,75,DEGREES F,6,MG/L
+08/24/1993,15,FEET,75,DEGREES F,4,MG/L
+08/24/1993,20,FEET,71,DEGREES F,2,MG/L
+08/24/1993,24,FEET,71,DEGREES F,2,MG/L
+09/27/1993,3,FEET,55,DEGREES F,8,MG/L
+09/27/1993,6,FEET,55,DEGREES F,,
+09/27/1993,9,FEET,55,DEGREES F,9,MG/L
+09/27/1993,12,FEET,55,DEGREES F,9,MG/L
+09/27/1993,15,FEET,56,DEGREES F,9,MG/L
+09/27/1993,20,FEET,56,DEGREES F,9,MG/L
+09/27/1993,25,FEET,56,DEGREES F,9,MG/L
+05/19/1994,3,FEET,64,DEGREES F,8,MG/L
+05/19/1994,6,FEET,64,DEGREES F,8,MG/L
+05/19/1994,9,FEET,63,DEGREES F,8,MG/L
+05/19/1994,12,FEET,60,DEGREES F,8,MG/L
+05/19/1994,15,FEET,60,DEGREES F,8,MG/L
+05/19/1994,20,FEET,58,DEGREES F,6,MG/L
+05/19/1994,26,FEET,58,DEGREES F,3,MG/L
+06/27/1994,3,FEET,75,DEGREES F,8,MG/L
+06/27/1994,6,FEET,75,DEGREES F,9,MG/L
+06/27/1994,9,FEET,75,DEGREES F,9,MG/L
+06/27/1994,12,FEET,75,DEGREES F,8,MG/L
+06/27/1994,15,FEET,72,DEGREES F,3,MG/L
+06/27/1994,20,FEET,70,DEGREES F,1,MG/L
+06/27/1994,23,FEET,72,DEGREES F,,
+07/12/1994,3,FEET,74,DEGREES F,7,MG/L
+07/12/1994,6,FEET,74,DEGREES F,7,MG/L
+07/12/1994,9,FEET,73,DEGREES F,7,MG/L
+07/12/1994,12,FEET,74,DEGREES F,7,MG/L
+07/12/1994,15,FEET,74,DEGREES F,6,MG/L
+07/12/1994,20,FEET,73,DEGREES F,6,MG/L
+07/12/1994,25,FEET,71,DEGREES F,2,MG/L
+08/24/1994,3,FEET,70,DEGREES F,6,MG/L
+08/24/1994,6,FEET,70,DEGREES F,7,MG/L
+08/24/1994,9,FEET,70,DEGREES F,7,MG/L
+08/24/1994,12,FEET,70,DEGREES F,6,MG/L
+08/24/1994,15,FEET,70,DEGREES F,6,MG/L
+08/24/1994,20,FEET,69,DEGREES F,4,MG/L
+08/24/1994,22,FEET,69,DEGREES F,2,MG/L
+09/29/1994,3,FEET,62,DEGREES F,10,MG/L
+09/29/1994,6,FEET,60,DEGREES F,9,MG/L
+09/29/1994,9,FEET,60,DEGREES F,8,MG/L
+09/29/1994,12,FEET,60,DEGREES F,8,MG/L
+09/29/1994,15,FEET,60,DEGREES F,7,MG/L
+09/29/1994,20,FEET,60,DEGREES F,8,MG/L
+09/29/1994,24,FEET,60,DEGREES F,8,MG/L
+05/15/1996,,,11.5,C,10.5,MG/L
+06/20/1996,,,16.5,C,0.5,MG/L
+07/18/1996,,,18.7,C,0.2,MG/L
+08/29/1996,,,19.0,C,0.3,MG/L
+07/27/2017,0,METERS,80.1,DEGREES F,9.5,MG/L
+07/27/2017,1,METERS,77.6,DEGREES F,9.75,MG/L
+07/27/2017,2,METERS,76.9,DEGREES F,9.58,MG/L
+07/27/2017,3,METERS,76,DEGREES F,8.81,MG/L
+07/27/2017,4,METERS,74.9,DEGREES F,6.15,MG/L
+07/27/2017,5,METERS,70.5,DEGREES F,.15,MG/L
+07/27/2017,6,METERS,68.4,DEGREES F,.15,MG/L
+07/27/2017,7,METERS,66.9,DEGREES F,.15,MG/L
+07/27/2017,8,METERS,66.3,DEGREES F,.16,MG/L
+09/06/2017,0,METERS,66.3,DEGREES F,7.16,MG/L
+09/06/2017,1,METERS,66.3,DEGREES F,7.11,MG/L
+09/06/2017,2,METERS,66.2,DEGREES F,7.04,MG/L
+09/06/2017,3,METERS,66.2,DEGREES F,6.88,MG/L
+09/06/2017,4,METERS,66.2,DEGREES F,6.77,MG/L
+09/06/2017,5,METERS,65.8,DEGREES F,6.74,MG/L
+09/06/2017,6,METERS,65.7,DEGREES F,6.93,MG/L
+09/06/2017,7,METERS,65.7,DEGREES F,7,MG/L
+09/06/2017,8,METERS,65.4,DEGREES F,7.11,MG/L
+09/06/2017,9,METERS,64.5,DEGREES F,6.48,MG/L
+08/27/2018,0,FEET,74.2,DEGREES F,7.48,MG/L
+08/27/2018,1,FEET,74.2,DEGREES F,7.48,MG/L
+08/27/2018,2,FEET,74.1,DEGREES F,7.45,MG/L
+08/27/2018,3,FEET,74,DEGREES F,7.39,MG/L
+08/27/2018,4,FEET,74,DEGREES F,7.39,MG/L
+08/27/2018,5,FEET,74,DEGREES F,7.33,MG/L
+08/27/2018,6,FEET,74,DEGREES F,7.31,MG/L
+08/27/2018,7,FEET,74,DEGREES F,7.33,MG/L
+08/27/2018,8,FEET,73.7,DEGREES F,7.08,MG/L
+08/27/2018,9,FEET,73.7,DEGREES F,6.89,MG/L
+08/27/2018,10,FEET,73.6,DEGREES F,6.86,MG/L
+08/27/2018,11,FEET,73.6,DEGREES F,6.84,MG/L
+08/27/2018,12,FEET,73.5,DEGREES F,6.79,MG/L
+08/27/2018,13,FEET,73.3,DEGREES F,6.28,MG/L
+08/27/2018,14,FEET,72.9,DEGREES F,5.71,MG/L
+08/27/2018,15,FEET,72.3,DEGREES F,4.39,MG/L
+08/27/2018,16,FEET,71.4,DEGREES F,2.12,MG/L
+08/27/2018,17,FEET,70.7,DEGREES F,1.15,MG/L
+08/27/2018,18,FEET,68.7,DEGREES F,.17,MG/L
+08/27/2018,19,FEET,67,DEGREES F,.17,MG/L
+08/27/2018,20,FEET,64.4,DEGREES F,.17,MG/L
+08/27/2018,21,FEET,64.4,DEGREES F,.17,MG/L
+08/27/2018,22,FEET,63.2,DEGREES F,.23,MG/L
+08/27/2018,23,FEET,62.2,DEGREES F,.22,MG/L
+08/27/2018,,,74.0,C,,
+
+
+
+Start Date,Fieldwork Comment
+08/03/1990,Water level: up 2.5"    
+10/01/1990,Lake Level: way down    
+05/30/1991,Water level: Up 3.5"    
+06/19/1991,Water level: Up 1.25"    
+06/08/1992,Partly cloudy- water okay- too cold for swimming.  The rain gauge reading from 5/20-6/8 is 0.5 inches.    
+07/21/1992,Cloudy day and no lake algae.  We have had at least 4 inches of rain in last four weeks.    
+08/14/1992,Cool- sunny- much algae for this lake- and lake is calm.  The rain gauge reading from 7/21-8/14 is 1.4 inches.    
+09/28/1992,Too cold for swimming.  The rain gauge reading from 8/14-9/28 is 5.2 inches. with the north wind it was hard to hold the pontoon boat.    
+05/25/1993,Too cold to swim.    
+06/25/1993,Water level up account high rainfall this year.    
+07/19/1993,1993 a high water year.  Water still 6 inches over outlet baffle.    
+08/24/1993,Weather much dryer last month.    
+09/27/1993,Too cold to swim.    
+06/27/1994,Cloudy day with some wind.  The temperature is 65 degrees.    
+07/12/1994,Clear- 72 degrees at 7: 00 am- and calm.    
+08/24/1994,It was windy yesterday.  Calm today but the lake is still stirred up.    
+09/29/1994,The water is greenish brown.  The algae is all the way down.    
+08/09/1998,Partly cloudy- wind moderate.    
+08/23/1998,Clear- sunny- 2 days of rain prior to sample.    
+09/07/1998,Clear- sunny- 2 days heavy wind prior to sample.    
+09/20/1998,Clear- windy (2 days).    
+10/04/1998,Clear- windy    
+04/24/1999,Ice out april 1.  On/off rain last 2 weeks.    
+05/08/1999,Lake level lower than august. 4/24-5/1 dry. 5/3-5/8 rain.    
+05/22/1999,Cloudy.    
+06/05/1999,Partly sunny. rain in morning. 15-20 mph wind.    
+07/03/1999,Very windy. storm early am.    
+07/17/1999,Partly cloudy.    
+08/14/1999,Partly cloudy. 2" rain 8/12.    
+09/12/1999,Heavy rains last night. partly sunny.    
+09/25/1999,Partly sunny.    
+05/06/2000,Ice out 3/20/2000.    
+07/09/2000,2.9" rain 7/08.    
+08/06/2000,Very windy    
+08/19/2000,2.5" rain last week.    
+09/15/2001,Cloudy and misty    
+05/11/2002,Ice out April 16 - Heavy rains last week.    
+05/28/2002,Unusual weed build up. Partly sunny.    
+06/02/2002,Little rain last two weeks. Cloudy.    
+07/29/2002,2.3" rainfall overnight (7/28/2002)    
+09/02/2002,2.4" rain last night.    
+05/03/2003,Ice out April 12- 2003    
+05/17/2003,2.25" rain 5/9-5/12    
+07/05/2003,6.9" rain from 6/29-7/3    
+06/17/2004,Partly cloudy - 4 days since last rain.    
+07/07/2004,Cloudy- Secchi Dip In.    
+07/08/2004,Clear - Secchi Dip In.    
+08/09/2004,Cloudy- rain past two days.    
+10/16/2004,Ice on date:  10/9/2004.    
+04/09/2005,ice out 4/8/2005    
+09/17/2005,4.9" rain    
+05/06/2006,surface water temp 57F
+06/12/2006,cloudy windy
+06/28/2006,Partly cloudy- 75F Surface Temp.
+07/09/2006,clear- 76F surface temp.
+07/22/2006,clear calm
+08/08/2006,Clear- 80.1F Surface temp.
+09/02/2006,Cloudy- 70.49F surface Temp.
+09/16/2006,Partly Cloudy 66.9F Surface Temp.
+09/30/2006,Partly Cloudy- 63F Surface Temp.
+04/21/2007,Ice out 4/9/2007
+05/09/2008,Secchi depth 9 ft.
+ice out was 4/23/08
+04/28/2009,Ice out was April 5- 2009.
+Lake level is down approximately 6 inches from normal in the spring.  Level is about at the same point when last fall's reading was taken.
+06/02/2009,Lake level is at it's lowest since I started doing this.  Estimate of between 5-6 inches below normal depth.  Rain level of less than 1/2 inch in last month.  Water temp was recorded at 68.5 degrees F.
+06/12/2009,Lake level at 94.95 ft. or just .5 inches over the minimum lake level for spirit lake.
+07/11/2009,Lake is down 2+ inches below lowest level reading at exit dam.  .1 inch of rain late yesterday afternoon.
+07/24/2009,Received 1.75+ inches of rain in last week.  Lake is still 2+ inches below low level mark on exit dam.
+08/05/2009,We've had +2.25 inches of rain this past week.
+08/30/2009,Over 3.5 inches of rain in last 10 days.
+09/24/2009,lake is back to 1+ inches below the low level at outlet.  No rain in past 2 weeks.
+
+
+
+
+Start Date,Group Name,Project Name
+06/29/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/08/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/15/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/21/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/28/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/06/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/11/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/16/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/28/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/01/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/10/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/15/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/24/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/29/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/05/1986,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/25/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/04/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/15/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/23/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/02/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/05/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/09/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/11/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/24/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/08/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/14/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/20/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/29/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/08/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/14/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/18/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/28/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/05/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/11/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/15/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/23/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/04/1987,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+03/29/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/13/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/05/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/16/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/30/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/09/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/14/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/20/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/10/1988,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/27/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/14/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/15/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/04/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/22/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/13/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/07/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/23/1989,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/12/1990,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/29/1990,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/18/1990,Bernie Gravier,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/20/1990,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/03/1990,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/10/1990,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/22/1990,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/01/1990,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/30/1991,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/19/1991,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/10/1991,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/04/1991,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/09/1991,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/08/1992,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/21/1992,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/14/1992,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/28/1992,Roy Dietz,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/25/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/25/1993,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/25/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/25/1993,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/19/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/19/1993,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/24/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/24/1993,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/27/1993,Data Collectors,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/27/1993,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/19/1994,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/27/1994,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/12/1994,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/24/1994,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/29/1994,Roy Dietz And Joe Smith,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/15/1996,CAHOW- JIM,NONPOINT SOURCE
+06/20/1996,CAHOW- JIM,NONPOINT SOURCE
+07/18/1996,CAHOW- JIM,NONPOINT SOURCE
+08/29/1996,CAHOW- JIM,NONPOINT SOURCE
+08/09/1998,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/23/1998,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/07/1998,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/20/1998,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/04/1998,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/24/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/08/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/22/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/05/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/19/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/03/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/17/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/07/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/14/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/28/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/12/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/25/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/02/1999,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/06/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/10/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/25/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/09/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/22/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/06/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/19/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/03/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/17/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/01/2000,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/05/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/19/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/04/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/28/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/12/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/28/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/08/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/22/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/01/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/15/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/29/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/13/2001,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/11/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/28/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/02/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/15/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/06/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/29/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/10/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/23/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/02/2002,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/03/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/17/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/30/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/15/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/05/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/07/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/17/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/30/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/13/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/27/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/11/2003,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/17/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/08/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/31/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/05/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/17/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/07/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/08/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/24/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/09/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/20/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/04/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/19/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/02/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/16/2004,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/09/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/07/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/22/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/04/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/18/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/25/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/10/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/03/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/16/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/05/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/17/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/01/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/14/2005,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/17/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/06/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/20/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/27/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/12/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/28/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/09/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/22/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/08/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/02/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/16/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/30/2006,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/21/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/05/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/07/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/30/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/21/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/07/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/23/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/12/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/26/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/11/2007,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/09/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/23/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/04/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/21/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/11/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/06/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/03/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/14/2008,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/28/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/02/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/12/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/11/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/24/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/05/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/30/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/24/2009,David Dopkins,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/26/2014,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/01/2014,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/11/2014,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/30/2014,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/15/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/14/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/18/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/27/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/09/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/18/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/09/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/01/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/07/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/27/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/11/2015,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/18/2016,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/29/2016,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/08/2016,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/16/2016,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/24/2016,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/31/2016,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/07/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+06/02/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/01/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/14/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/27/2017,Mark Sundeen and Alex Smith,Directed Lakes 2017 Smith
+08/20/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/06/2017,MARK SUNDEEN,Directed Lakes 2017 Smith
+09/12/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/07/2017,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+05/06/2018,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/18/2018,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/27/2018,ALEX SMITH,Directed Lakes 2017 Smith
+08/27/2018,MARK SUNDEEN,Directed Lakes 2017 Smith
+05/12/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/03/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/14/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+07/29/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/02/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+09/28/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/19/2019,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+04/24/2020,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/09/2020,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/16/2020,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+08/24/2020,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole
+10/04/2020,Kathy Java,Citizen Lake Monitoring - Water Quality - Spirit Lake; Deep Hole

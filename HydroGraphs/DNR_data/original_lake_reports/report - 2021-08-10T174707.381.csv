@@ -1,0 +1,114 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lower Wolf Lake,Langlade,1450600,NO,34,,10043756,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+117499505,06/26/2015,3.5,YES,1.1,,,59,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/05/2015,4, ,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/17/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/01/2015,3,NO,0.9,,,61,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/16/2015,4, ,1.2,,,57,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,08/26/2015,4.5,NO,1.4,,,55,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+117499505,09/08/2015,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/16/2015,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+117499505,09/26/2015,4.5,NO,1.4,,,55,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,06/07/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,06/16/2016,4,NO,1.2,,,57,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/16/2016,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/07/2016,4,,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/15/2016,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,08/31/2016,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+122896168,06/23/2017,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,07/13/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/25/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/06/2017,3,NO,0.9,,,61,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,08/16/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,09/07/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,09/24/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,10/03/2017,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/18/2018,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+117499505,07/07/2018,4,NO,1.2,,,57,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/05/2018,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+117499505,06/23/2019,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,07/02/2019,4,NO,1.2,,,57,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/11/2019,5,NO,1.5,,,54,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,06/06/2020,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/07/2020,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+117499505,08/18/2020,5,NO,1.5,,,54,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/07/2016,25,FEET,43.8,DEGREES F,,
+06/23/2017,15,FEET,44.7,DEGREES F,,
+07/13/2017,25,FEET,46.5,DEGREES F,,
+07/25/2017,20,FEET,46.1,DEGREES F,,
+08/06/2017,25,FEET,49.4,DEGREES F,,
+08/16/2017,25,FEET,47.6,DEGREES F,,
+09/07/2017,25,FEET,50.7,DEGREES F,,
+09/24/2017,25,FEET,50.1,DEGREES F,,
+10/03/2017,25,FEET,51.6,DEGREES F,,
+06/18/2018,20,FEET,43.5,DEGREES F,,
+07/07/2018,25,FEET,43.8,DEGREES F,,
+08/05/2018,25,FEET,46.3,DEGREES F,,
+06/23/2019,20,FEET,42.2,DEGREES F,,
+07/02/2019,12,FEET,47.2,DEGREES F,,
+08/11/2019,20,FEET,47.8,DEGREES F,,
+06/06/2020,17,FEET,48,DEGREES F,,
+08/07/2020,20,FEET,49.7,DEGREES F,,
+08/18/2020,20,FEET,50.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/26/2015,With Paul Tusler. Sunny. Historical (1977) 4 ft
+07/05/2015,Sunny Partial cloudy. Single Loon- Eagle
+07/17/2015,Sunny partial cloudy
+08/01/2015,Sunny Partial Cloudy
+08/16/2015,geese on lakes- sunny partial cloudy- lake level low- cannot traverse to Upper Wolf
+08/26/2015,partial cloudy
+09/08/2015,Partial Cloudy Rain last PM
+09/16/2015,Partial Cloudy- Windy- Recent Rain
+09/26/2015,Sunny no wind- no waves
+06/23/2017,VERY muddy water-visibility extremely poor
+
+
+
+
+Start Date,Group Name,Project Name
+06/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/05/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/17/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/01/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+09/08/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+09/16/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+09/26/2015,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+06/07/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+06/16/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/16/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/07/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/15/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/31/2016,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+06/23/2017,Sam Picone- Paul Tusler,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/13/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/25/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/06/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/16/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+09/07/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+09/24/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+10/03/2017,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+06/18/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/07/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/05/2018,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+06/23/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+07/02/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/11/2019,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+06/06/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/07/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole
+08/18/2020,Sam Picone,Citizen Lake Monitoring - Water Quality - Lower Wolf Lake - Deep Hole

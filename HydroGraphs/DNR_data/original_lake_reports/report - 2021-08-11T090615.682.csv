@@ -1,0 +1,240 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Boulder Lake,Vilas,2338300,NO,64,,643229,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/10/1984,4.9,,1.5,11,,54,,53,,,,,
+1,10/03/1985,5.9,,1.8,,21,52,52,,,,,,
+8190842,07/09/1990,6.5,NO,2,,,50,,,,,,BROWN/GREEN,2-Very minor aesthetic problems
+8190842,07/20/1990,7,NO,2.1,,,49,,,,,,BROWN/GREEN,2-Very minor aesthetic problems
+8190842,08/01/1990,7.5,NO,2.3,,,48,,,,,,BROWN/GREEN,2-Very minor aesthetic problems
+8190937,09/02/1990,6,NO,1.8,,,51,,,,,,BROWN,2-Very minor aesthetic problems
+8190937,09/10/1990,5.5,NO,1.7,,,53,,,,,,BROWN,2-Very minor aesthetic problems
+8190937,09/17/1990,4.75,NO,1.4,,,55,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190937,09/26/1990,4.25,NO,1.3,,,56,,,,,,GREEN/BROWN,4-Would not swim but boating OK (algae)
+8190937,09/30/1990,4.5,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190937,10/07/1990,4.5,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190937,10/12/1990,5,NO,1.5,,,54,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190937,10/20/1990,5,NO,1.5,,,54,,,,,,GREEN/BROWN,3-Enjoyment somewhat impaired (algae)
+8190937,10/26/1990,4.75,NO,1.4,,,55,,,,,,BROWN,2-Very minor aesthetic problems
+8190937,11/02/1990,5.25,NO,1.6,,,53,,,,,,GREEN/BROWN,2-Very minor aesthetic problems
+8188599,05/14/2003,9.5,NO,2.9,,,45,,,,,,,
+7000068,08/04/2003,,,,6.83,,,,49,,,,,
+8188599,08/04/2003,8.5,NO,2.6,,,46,,,,,,,
+161313836,05/15/2018,5,NO,1.5,,15.1,54,49,,HIGH,23,CLEAR,BROWN,
+161313836,06/30/2018,5,NO,1.5,,,54,,,HIGH,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+161313836,07/02/2018,,,,4.77,22.7,,52,47,,,,,
+161313836,07/22/2018,,,,8.14,21.3,,52,51,,,,,
+161313836,07/23/2018,4.75,NO,1.4,,,55,,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+161313836,08/19/2018,6.75,NO,2.1,5.18,17.2,50,50,47,NORMAL,21,CLEAR,BROWN,1-Beautiful, could not be nicer
+161313836,09/24/2018,4,NO,1.2,,,57,,,HIGH,6,MURKY,BROWN,2-Very minor aesthetic problems
+161313836,05/07/2019,6.25,NO,1.9,3.84,17.8,50,50,45,HIGH,6,CLEAR,BROWN,2-Very minor aesthetic problems
+143167470,06/24/2019,,,,3.66,17.2,,50,45,,,,,
+161313836,06/24/2019,6.33,NO,1.9,,,51,,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+143167470,07/22/2019,,,,5.09,15.4,,49,47,,,,,
+161313836,07/22/2019,6.5,NO,2,,,50,,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+143167470,08/19/2019,,,,7.23,21.2,,52,50,,,,,
+161313836,08/19/2019,5.75,NO,1.7,,,52,,,NORMAL,6,CLEAR,BROWN,1-Beautiful, could not be nicer
+161313836,10/22/2019,4.5,,1.4,,,55,,,HIGH,6,MURKY,BROWN,2-Very minor aesthetic problems
+161313836,06/29/2020,5.5,NO,1.7,6.63,18.5,53,51,49,NORMAL,6,CLEAR,BROWN,2-Very minor aesthetic problems
+161313836,07/27/2020,6.3,NO,1.9,6.29,24.7,51,53,49,HIGH,6,CLEAR,BROWN,2-Very minor aesthetic problems
+161313836,08/31/2020,5.5,NO,1.7,10.5,21.6,53,52,53,HIGH,6,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/03/1985,,,8.5,C,9,MG/L
+05/14/2003,0,FEET,12.9,DEGREES C,9.34,MG/L
+05/14/2003,1,FEET,12.8,DEGREES C,9.35,MG/L
+05/14/2003,3,FEET,12.6,DEGREES C,9.35,MG/L
+05/14/2003,6,FEET,12.5,DEGREES C,9.33,MG/L
+05/14/2003,9,FEET,12.4,DEGREES C,9.26,MG/L
+05/14/2003,12,FEET,11.6,DEGREES C,9.01,MG/L
+05/14/2003,15,FEET,11.2,DEGREES C,8.46,MG/L
+05/14/2003,18,FEET,11,DEGREES C,8.46,MG/L
+05/14/2003,21,FEET,10.9,DEGREES C,7.93,MG/L
+08/04/2003,0,FEET,23,DEGREES C,7.85,MG/L
+08/04/2003,3,FEET,23.1,DEGREES C,7.84,MG/L
+08/04/2003,6,FEET,23.1,DEGREES C,7.82,MG/L
+08/04/2003,9,FEET,23,DEGREES C,7.79,MG/L
+08/04/2003,12,FEET,23,DEGREES C,7.68,MG/L
+08/04/2003,15,FEET,21.5,DEGREES C,2.15,MG/L
+08/04/2003,18,FEET,20.5,DEGREES C,1.78,MG/L
+08/04/2003,21,FEET,19,DEGREES C,1.63,MG/L
+05/15/2018,1,FEET,59.8,DEGREES F,,
+05/15/2018,3,FEET,58.4,DEGREES F,,
+05/15/2018,6,FEET,57.7,DEGREES F,,
+05/15/2018,9,FEET,55.2,DEGREES F,,
+05/15/2018,12,FEET,51.8,DEGREES F,,
+05/15/2018,15,FEET,49.2,DEGREES F,,
+05/15/2018,18,FEET,49.4,DEGREES F,,
+05/15/2018,21,FEET,49.2,DEGREES F,,
+06/30/2018,1,FEET,75.5,DEGREES F,,
+06/30/2018,3,FEET,75,DEGREES F,,
+06/30/2018,6,FEET,74.4,DEGREES F,,
+06/30/2018,9,FEET,73.4,DEGREES F,,
+06/30/2018,12,FEET,71.4,DEGREES F,,
+06/30/2018,15,FEET,64.7,DEGREES F,,
+06/30/2018,18,FEET,62.9,DEGREES F,,
+06/30/2018,21,FEET,62.6,DEGREES F,,
+07/23/2018,1,FEET,77,DEGREES F,,
+07/23/2018,3,FEET,75.4,DEGREES F,,
+07/23/2018,6,FEET,71.4,DEGREES F,,
+07/23/2018,9,FEET,70.1,DEGREES F,,
+07/23/2018,12,FEET,69.8,DEGREES F,,
+07/23/2018,15,FEET,68,DEGREES F,,
+07/23/2018,18,FEET,63.1,DEGREES F,,
+07/23/2018,21,FEET,58.4,DEGREES F,,
+08/19/2018,1,FEET,75.9,DEGREES F,,
+08/19/2018,3,FEET,75,DEGREES F,,
+08/19/2018,6,FEET,74.1,DEGREES F,,
+08/19/2018,9,FEET,72.3,DEGREES F,,
+08/19/2018,12,FEET,69.6,DEGREES F,,
+08/19/2018,15,FEET,66.9,DEGREES F,,
+08/19/2018,18,FEET,65.6,DEGREES F,,
+08/19/2018,21,FEET,61.8,DEGREES F,,
+09/24/2018,1,FEET,63.1,DEGREES F,,
+09/24/2018,3,FEET,62.6,DEGREES F,,
+09/24/2018,6,FEET,62.6,DEGREES F,,
+09/24/2018,9,FEET,62.6,DEGREES F,,
+09/24/2018,12,FEET,62.4,DEGREES F,,
+09/24/2018,15,FEET,62.4,DEGREES F,,
+09/24/2018,18,FEET,62.2,DEGREES F,,
+09/24/2018,21,FEET,62.2,DEGREES F,,
+05/07/2019,3,FEET,53.4,DEGREES F,,
+05/07/2019,6,FEET,49.2,DEGREES F,,
+05/07/2019,9,FEET,48.2,DEGREES F,,
+05/07/2019,12,FEET,45.3,DEGREES F,,
+05/07/2019,15,FEET,44,DEGREES F,,
+05/07/2019,18,FEET,43.7,DEGREES F,,
+05/07/2019,21,FEET,43.7,DEGREES F,,
+06/24/2019,3,FEET,68,DEGREES F,,
+06/24/2019,6,FEET,67.2,DEGREES F,,
+06/24/2019,9,FEET,66.3,DEGREES F,,
+06/24/2019,12,FEET,64.7,DEGREES F,,
+06/24/2019,15,FEET,60.8,DEGREES F,,
+06/24/2019,18,FEET,58,DEGREES F,,
+06/24/2019,21,FEET,56.6,DEGREES F,,
+07/22/2019,3,FEET,75.5,DEGREES F,,
+07/22/2019,6,FEET,75.3,DEGREES F,,
+07/22/2019,9,FEET,73.2,DEGREES F,,
+07/22/2019,12,FEET,72.3,DEGREES F,,
+07/22/2019,15,FEET,65.1,DEGREES F,,
+07/22/2019,18,FEET,62,DEGREES F,,
+07/22/2019,21,FEET,59.3,DEGREES F,,
+08/19/2019,3,FEET,71,DEGREES F,,
+08/19/2019,6,FEET,70.5,DEGREES F,,
+08/19/2019,9,FEET,69.8,DEGREES F,,
+08/19/2019,12,FEET,69.4,DEGREES F,,
+08/19/2019,15,FEET,69.2,DEGREES F,,
+08/19/2019,18,FEET,67.9,DEGREES F,,
+08/19/2019,21,FEET,65.6,DEGREES F,,
+10/22/2019,3,FEET,46.7,DEGREES F,,
+10/22/2019,6,FEET,46.7,DEGREES F,,
+10/22/2019,9,FEET,46.7,DEGREES F,,
+10/22/2019,12,FEET,46.7,DEGREES F,,
+10/22/2019,15,FEET,46.7,DEGREES F,,
+10/22/2019,18,FEET,46.7,DEGREES F,,
+10/22/2019,21,FEET,47.4,DEGREES F,,
+06/29/2020,3,FEET,74.4,DEGREES F,,
+06/29/2020,6,FEET,74.3,DEGREES F,,
+06/29/2020,9,FEET,74.1,DEGREES F,,
+06/29/2020,12,FEET,69.2,DEGREES F,,
+06/29/2020,15,FEET,63.8,DEGREES F,,
+06/29/2020,18,FEET,62,DEGREES F,,
+06/29/2020,21,FEET,61.8,DEGREES F,,
+07/27/2020,3,FEET,73.5,DEGREES F,,
+07/27/2020,6,FEET,73.4,DEGREES F,,
+07/27/2020,9,FEET,73.2,DEGREES F,,
+07/27/2020,12,FEET,71,DEGREES F,,
+07/27/2020,15,FEET,69,DEGREES F,,
+07/27/2020,18,FEET,67.2,DEGREES F,,
+07/27/2020,21,FEET,62.2,DEGREES F,,
+08/31/2020,3,FEET,69,DEGREES F,,
+08/31/2020,6,FEET,69,DEGREES F,,
+08/31/2020,9,FEET,69,DEGREES F,,
+08/31/2020,12,FEET,69,DEGREES F,,
+08/31/2020,15,FEET,69,DEGREES F,,
+08/31/2020,18,FEET,68.9,DEGREES F,,
+08/31/2020,21,FEET,67.8,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/10/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/03/1985,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/09/1990,Sunny- 75 F- NW wind 10-15 mph- minor algae bloom past 2 weeks.    
+07/20/1990,Windy- 65 F- some algae    
+08/01/1990,Sunny- 75 F- some algae bloom- weed growth increased    
+09/02/1990,Sunny- clear- calm- 60'sf- took over sampling    
+09/10/1990,A few clouds    
+09/17/1990,Partly cloudy    
+09/26/1990,Clear sky- 70 F- lots of surface algae    
+09/30/1990,Lots of algae    
+10/07/1990,Partly sunny- lower 40'sf    
+10/12/1990,Sunny- lt. NW breeze- 45 F    
+10/20/1990,Partly cloudy- 35 F- S wind 5 mph    
+10/26/1990,Sunny- wind 20+ mph- not much algae    
+11/02/1990,Sunny- little algae- NW wind 1-5 mph    
+08/04/2003,DEEP HOLE - INTEGRATED SAMPLER    
+05/15/2018,calm-clear  and normal spring high and saw 1 loon
+06/30/2018,lake still high from 6 inches of rain last week
+07/23/2018,saw 2 adult loons and 1 baby loon
+08/19/2018,calm and partly cloudy- have seen algae since late July on north shore calm and hazy- have seen algae since late july on north shore
+09/24/2018,water is high and a windy day and water clarity is less than normal.
+05/07/2019,Sunny and temp in mid 50s 
+07/22/2019,partly cloudy and in low 80's
+10/22/2019,overcast with drizzle- last chance to monitor
+06/29/2020,Rain in morning + partly cloudy in after noon
+08/31/2020,Water high and unusual water temps as they are the same down to 15 ft
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1984,Data Collectors,Migrated from STORET Legacy
+10/03/1985,Data Collectors,Migrated from STORET Legacy
+07/09/1990,Colleen Gardner,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/20/1990,Colleen Gardner,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/01/1990,Colleen Gardner,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/02/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/10/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/17/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/26/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+09/30/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+10/07/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+10/12/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+10/20/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+10/26/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+11/02/1990,Brett Mears,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/14/2003,Rick Jirsa,Lakes Baseline and Trends Monitoring
+08/04/2003,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/04/2003,Rick Jirsa,Lakes Baseline and Trends Monitoring
+05/15/2018,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/15/2018,Richard Schauss,Directed Lakes 2018 Gauthier
+06/30/2018,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/02/2018,Richard Schauss,Directed Lakes 2018 Gauthier
+07/22/2018,Richard Schauss,Directed Lakes 2018 Gauthier
+07/23/2018,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/19/2018,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/19/2018,Richard Schauss,Directed Lakes 2018 Gauthier
+09/24/2018,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/07/2019,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+05/07/2019,Richard Schauss,Directed Lakes 2017 Toshner
+06/24/2019,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/24/2019,ZANA SIJAN,Directed Lakes 2018 Johnson
+07/22/2019,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/22/2019,ZANA SIJAN,
+08/19/2019,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/19/2019,ZANA SIJAN,
+10/22/2019,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/29/2020,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+06/29/2020,Richard Schauss,Directed Lakes 2020_Gauthier
+07/27/2020,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+07/27/2020,Richard Schauss,Directed Lakes 2020_Gauthier
+08/31/2020,Richard Schauss,Citizen Lake Monitoring - Water Quality - Boulder Lake; Deep Hole
+08/31/2020,Richard Schauss,Directed Lakes 2020_Gauthier

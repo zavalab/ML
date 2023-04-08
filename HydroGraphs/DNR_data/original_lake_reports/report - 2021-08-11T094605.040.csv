@@ -1,0 +1,396 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Bass Lake,Washburn,2451900,NO,66,,663112,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/24/1979,,,,7.05,12,,47,50,,,,,
+8190803,06/14/1996,20,NO,6.1,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190803,07/04/1996,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190803,05/30/1997,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190803,07/13/1997,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190803,08/13/1997,22,NO,6.7,,,33,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188550,08/25/1999,20,,6.1,2,12,34,47,40,,,,,
+1,08/21/2000,13.4,,4.1,,10,40,46,,,,,,
+8188858,11/05/2001,11.75,NO,3.6,,,42,,,,,,,
+8188858,07/04/2002,20,NO,6.1,,,34,,,GAUGE,,MURKY,,
+8188858,08/05/2002,21,NO,6.4,,,33,,,,,,,
+8188858,08/18/2002,20,NO,6.1,,,34,,,,,,,
+8188858,11/09/2002,13.5,NO,4.1,,,40,,,,,,,
+8188858,04/22/2003,10.75,NO,3.3,,,43,,,NORMAL,,MURKY,BROWN,
+8188858,05/05/2003,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,BROWN,
+8188858,06/05/2003,16.5,NO,5,,,37,,,NORMAL,,MURKY,BROWN,
+8188858,06/19/2003,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,07/05/2003,18,NO,5.5,,,35,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188858,07/12/2003,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,07/28/2003,18,NO,5.5,,,35,,,NORMAL,28,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,08/04/2003,18,NO,5.5,,,35,,,NORMAL,28,,BROWN,1-Beautiful, could not be nicer
+8188858,08/16/2003,18.75,NO,5.7,,,35,,,NORMAL,28,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,08/30/2003,17.5,NO,5.3,,,36,,,LOW,28,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,09/15/2003,18.5,NO,5.6,,,35,,,LOW,28,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,05/08/2004,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,06/29/2004,18.75,NO,5.7,,,35,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,07/15/2004,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,07/19/2004,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,07/24/2004,16.5,NO,5,,,37,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,08/01/2004,17.7,NO,5.4,,,36,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,08/14/2004,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,,2-Very minor aesthetic problems
+8188858,07/01/2005,23,NO,7,,,32,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,07/12/2005,21,NO,6.4,,,33,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188858,07/28/2005,19.5,NO,5.9,1.53,13,34,48,38,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,08/10/2005,22.5,NO,6.8,,,32,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,08/29/2005,19.5,NO,5.9,1.82,10,34,46,39,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,11/02/2005,15,NO,4.6,2.82,27,38,54,43,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,05/16/2006,13.5,NO,4.1,,19,40,51,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,06/13/2006,16.5,NO,5,1.62,10,37,46,38,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,07/20/2006,15,NO,4.6,1.63,10,38,46,38,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,08/29/2006,14,NO,4.3,4.43,16,39,50,46,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,05/13/2007,27.25,NO,8.3,,13,30,48,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,06/24/2007,16.5,NO,5,2.93,10,37,46,43,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,09/02/2007,14.5,NO,4.4,3.29,14,39,49,44,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8188858,07/28/2008,14.25,NO,4.3,1.96,18,39,51,40,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188858,08/26/2008,,,,4.76,14,,49,47,,,,,
+8188858,08/27/2008,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,04/24/2012,23.75,NO,7.2,,19,31,51,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,06/27/2012,16.75,NO,5.1,1.77,16,37,50,39,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188858,07/30/2012,11,NO,3.3,4.09,15,43,49,45,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+101353375,08/10/2014,30,YES,9.1,,,28,,,LOW,30,CLEAR,BLUE,2-Very minor aesthetic problems
+101353375,07/02/2015,17.25,NO,5.2,,,36,,,NORMAL,34,CLEAR,BLUE,2-Very minor aesthetic problems
+101353375,07/14/2015,18,NO,5.5,,,35,,,NORMAL,35,CLEAR,BLUE,2-Very minor aesthetic problems
+101353375,07/30/2015,13.5,NO,4.1,,,40,,,NORMAL,34,CLEAR,GREEN,2-Very minor aesthetic problems
+101353375,08/29/2015,13.6,YES,4.1,,,40,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+101353375,07/22/2016,17,NO,5.2,,,36,,,NORMAL,35,CLEAR,BLUE,2-Very minor aesthetic problems
+101353375,07/27/2017,13.9,NO,4.2,,,39,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+101353375,07/16/2018,12,NO,3.6,,,41,,,HIGH,37,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+101353375,07/29/2018,,,,,,,,,HIGH,14,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+101353375,06/29/2019,15.5,NO,4.7,,,38,,,HIGH,36,CLEAR,BLUE,2-Very minor aesthetic problems
+101353375,07/13/2019,15.5,NO,4.7,,,38,,,HIGH,36.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+101353375,07/04/2020,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+101353375,08/18/2020,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/24/1979,,,,,8.1,MG/L
+08/25/1999,1,FEET,,,8.5,MG/L
+08/25/1999,32.8,FEET,,,.1,MG/L
+08/25/1999,,,14.7,C,0.1,MG/L
+07/28/2005,0,FEET,75.9,DEGREES F,,
+07/28/2005,5,FEET,75.5,DEGREES F,7,MG/L
+07/28/2005,9,FEET,75.2,DEGREES F,,
+07/28/2005,12,FEET,75.2,DEGREES F,,
+07/28/2005,15,FEET,75,DEGREES F,7,MG/L
+07/28/2005,18,FEET,71.9,DEGREES F,7,MG/L
+07/28/2005,21,FEET,61.5,DEGREES F,6,MG/L
+07/28/2005,25,FEET,55.7,DEGREES F,3,MG/L
+07/28/2005,30,FEET,51.8,DEGREES F,0,MG/L
+07/28/2005,35,FEET,49.2,DEGREES F,,
+08/29/2005,0,FEET,73,DEGREES F,,
+08/29/2005,3,FEET,73,DEGREES F,7,MG/L
+08/29/2005,6,FEET,73,DEGREES F,7,MG/L
+08/29/2005,9,FEET,72,DEGREES F,7,MG/L
+08/29/2005,12,FEET,72,DEGREES F,7,MG/L
+08/29/2005,15,FEET,72,DEGREES F,7,MG/L
+08/29/2005,18,FEET,70,DEGREES F,7,MG/L
+08/29/2005,21,FEET,70,DEGREES F,7,MG/L
+08/29/2005,25,FEET,63,DEGREES F,3,MG/L
+08/29/2005,30,FEET,54,DEGREES F,0,MG/L
+08/29/2005,35,FEET,51,DEGREES F,0,MG/L
+11/02/2005,0,FEET,51,DEGREES F,,
+11/02/2005,3,FEET,51,DEGREES F,8,MG/L
+11/02/2005,6,FEET,51,DEGREES F,8,MG/L
+11/02/2005,9,FEET,51,DEGREES F,8,MG/L
+11/02/2005,12,FEET,51,DEGREES F,8,MG/L
+11/02/2005,15,FEET,51,DEGREES F,8,MG/L
+11/02/2005,18,FEET,51,DEGREES F,8,MG/L
+11/02/2005,21,FEET,51,DEGREES F,8,MG/L
+11/02/2005,25,FEET,51,DEGREES F,8,MG/L
+11/02/2005,30,FEET,51,DEGREES F,8,MG/L
+11/02/2005,35,FEET,51,DEGREES F,8,MG/L
+05/16/2006,0,FEET,55.7,DEGREES F,,
+05/16/2006,3,FEET,53.6,DEGREES F,8,MG/L
+05/16/2006,6,FEET,52.7,DEGREES F,8,MG/L
+05/16/2006,9,FEET,52.7,DEGREES F,8,MG/L
+05/16/2006,12,FEET,52.7,DEGREES F,8,MG/L
+05/16/2006,15,FEET,52.7,DEGREES F,8,MG/L
+05/16/2006,18,FEET,51.8,DEGREES F,8,MG/L
+05/16/2006,21,FEET,51.8,DEGREES F,8,MG/L
+05/16/2006,24,FEET,51.8,DEGREES F,8,MG/L
+05/16/2006,27,FEET,51.8,DEGREES F,,
+05/16/2006,30,FEET,51.8,DEGREES F,8,MG/L
+06/13/2006,0,FEET,70.5,DEGREES F,,
+06/13/2006,3,FEET,70.1,DEGREES F,8,MG/L
+06/13/2006,6,FEET,70,DEGREES F,8,MG/L
+06/13/2006,9,FEET,69.8,DEGREES F,8,MG/L
+06/13/2006,12,FEET,68.7,DEGREES F,8,MG/L
+06/13/2006,15,FEET,66.6,DEGREES F,8,MG/L
+06/13/2006,18,FEET,60.7,DEGREES F,8,MG/L
+06/13/2006,21,FEET,57.8,DEGREES F,8,MG/L
+06/13/2006,24,FEET,56,DEGREES F,8,MG/L
+06/13/2006,27,FEET,54.5,DEGREES F,8,MG/L
+06/13/2006,30,FEET,53.6,DEGREES F,,
+07/20/2006,0,FEET,78.9,DEGREES F,,
+07/20/2006,3,FEET,78.6,DEGREES F,,
+07/20/2006,6,FEET,78,DEGREES F,7,MG/L
+07/20/2006,9,FEET,77.8,DEGREES F,,
+07/20/2006,12,FEET,77.7,DEGREES F,7,MG/L
+07/20/2006,15,FEET,77.5,DEGREES F,7,MG/L
+07/20/2006,18,FEET,71.9,DEGREES F,7,MG/L
+07/20/2006,21,FEET,64.5,DEGREES F,6,MG/L
+07/20/2006,24,FEET,61.1,DEGREES F,,
+07/20/2006,27,FEET,57.2,DEGREES F,4,MG/L
+07/20/2006,30,FEET,54.5,DEGREES F,,
+08/29/2006,0,FEET,72.6,DEGREES F,,
+08/29/2006,3,FEET,72.5,DEGREES F,,
+08/29/2006,6,FEET,72.5,DEGREES F,7,MG/L
+08/29/2006,9,FEET,72.3,DEGREES F,,
+08/29/2006,12,FEET,72.3,DEGREES F,7,MG/L
+08/29/2006,15,FEET,72.3,DEGREES F,,
+08/29/2006,18,FEET,72.1,DEGREES F,7,MG/L
+08/29/2006,21,FEET,71.9,DEGREES F,7,MG/L
+08/29/2006,24,FEET,67.1,DEGREES F,7,MG/L
+08/29/2006,27,FEET,60.2,DEGREES F,4,MG/L
+08/29/2006,30,FEET,57.5,DEGREES F,1,MG/L
+05/13/2007,0,FEET,59.8,DEGREES F,,
+05/13/2007,5,FEET,59.7,DEGREES F,8,MG/L
+05/13/2007,9,FEET,59.4,DEGREES F,,
+05/13/2007,12,FEET,59.1,DEGREES F,8,MG/L
+05/13/2007,15,FEET,57.6,DEGREES F,8,MG/L
+05/13/2007,18,FEET,54.6,DEGREES F,8,MG/L
+05/13/2007,21,FEET,53.6,DEGREES F,8,MG/L
+05/13/2007,25,FEET,51.4,DEGREES F,,
+05/13/2007,27,FEET,50.8,DEGREES F,,
+05/13/2007,30,FEET,49.8,DEGREES F,8,MG/L
+06/24/2007,0,FEET,75.4,DEGREES F,,
+06/24/2007,3,FEET,75.2,DEGREES F,,
+06/24/2007,6,FEET,74.6,DEGREES F,9,MG/L
+06/24/2007,9,FEET,74.2,DEGREES F,,
+06/24/2007,12,FEET,72.9,DEGREES F,9,MG/L
+06/24/2007,15,FEET,71.6,DEGREES F,9,MG/L
+06/24/2007,18,FEET,69,DEGREES F,9,MG/L
+06/24/2007,21,FEET,64.2,DEGREES F,9,MG/L
+06/24/2007,24,FEET,61,DEGREES F,8,MG/L
+06/24/2007,27,FEET,58,DEGREES F,5,MG/L
+06/24/2007,30,FEET,55.5,DEGREES F,1,MG/L
+09/02/2007,0,FEET,70.9,DEGREES F,,
+09/02/2007,3,FEET,71,DEGREES F,,
+09/02/2007,6,FEET,71,DEGREES F,8,MG/L
+09/02/2007,9,FEET,71,DEGREES F,,
+09/02/2007,12,FEET,71,DEGREES F,8,MG/L
+09/02/2007,15,FEET,71,DEGREES F,8,MG/L
+09/02/2007,18,FEET,70.9,DEGREES F,8,MG/L
+09/02/2007,21,FEET,70.5,DEGREES F,7,MG/L
+09/02/2007,24,FEET,70.1,DEGREES F,6,MG/L
+09/02/2007,27,FEET,66.1,DEGREES F,1,MG/L
+09/02/2007,30,FEET,63.6,DEGREES F,,
+07/28/2008,0,FEET,76.4,DEGREES F,,
+07/28/2008,3,FEET,75.9,DEGREES F,,
+07/28/2008,6,FEET,75.5,DEGREES F,,
+07/28/2008,9,FEET,75.3,DEGREES F,,
+07/28/2008,12,FEET,75.2,DEGREES F,,
+07/28/2008,15,FEET,74.3,DEGREES F,,
+07/28/2008,18,FEET,72.3,DEGREES F,,
+07/28/2008,21,FEET,64.5,DEGREES F,,
+07/28/2008,24,FEET,59.3,DEGREES F,,
+07/28/2008,27,FEET,53.7,DEGREES F,,
+07/28/2008,30,FEET,50.9,DEGREES F,,
+08/27/2008,0,FEET,72.3,DEGREES F,,
+08/27/2008,3,FEET,72.3,DEGREES F,,
+08/27/2008,6,FEET,71.9,DEGREES F,,
+08/27/2008,9,FEET,71.9,DEGREES F,,
+08/27/2008,12,FEET,71.9,DEGREES F,,
+08/27/2008,15,FEET,71.7,DEGREES F,,
+08/27/2008,18,FEET,71.6,DEGREES F,,
+08/27/2008,21,FEET,70.5,DEGREES F,,
+08/27/2008,24,FEET,62.2,DEGREES F,,
+08/27/2008,27,FEET,56.1,DEGREES F,,
+08/27/2008,30,FEET,52.1,DEGREES F,,
+04/24/2012,0,FEET,51.8,DEGREES F,,
+04/24/2012,3,FEET,50,DEGREES F,,
+04/24/2012,6,FEET,50,DEGREES F,,
+04/24/2012,9,FEET,50,DEGREES F,,
+04/24/2012,12,FEET,49.1,DEGREES F,,
+04/24/2012,15,FEET,48.9,DEGREES F,,
+04/24/2012,18,FEET,48.5,DEGREES F,,
+04/24/2012,21,FEET,48.2,DEGREES F,,
+04/24/2012,24,FEET,48,DEGREES F,,
+04/24/2012,27,FEET,48,DEGREES F,,
+04/24/2012,30,FEET,48,DEGREES F,,
+06/27/2012,0,FEET,73.9,DEGREES F,,
+06/27/2012,3,FEET,73.5,DEGREES F,,
+06/27/2012,6,FEET,73.4,DEGREES F,,
+06/27/2012,9,FEET,73.2,DEGREES F,,
+06/27/2012,12,FEET,73.2,DEGREES F,,
+06/27/2012,15,FEET,72.3,DEGREES F,,
+06/27/2012,18,FEET,69,DEGREES F,,
+06/27/2012,21,FEET,65.6,DEGREES F,,
+06/27/2012,24,FEET,62,DEGREES F,,
+06/27/2012,27,FEET,59.3,DEGREES F,,
+06/27/2012,30,FEET,57.9,DEGREES F,,
+07/30/2012,0,FEET,80.6,DEGREES F,,
+07/30/2012,3,FEET,80.5,DEGREES F,,
+07/30/2012,6,FEET,80.4,DEGREES F,,
+07/30/2012,9,FEET,79.8,DEGREES F,,
+07/30/2012,12,FEET,79.1,DEGREES F,,
+07/30/2012,15,FEET,78.6,DEGREES F,,
+07/30/2012,18,FEET,77.7,DEGREES F,,
+07/30/2012,21,FEET,69.8,DEGREES F,,
+07/30/2012,24,FEET,65.6,DEGREES F,,
+07/30/2012,27,FEET,62.5,DEGREES F,,
+07/30/2012,30,FEET,60.4,DEGREES F,,
+08/10/2014,3,FEET,78.6,DEGREES F,,
+08/10/2014,6,FEET,78.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/24/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/14/1996,Sunny- calm- and ice off on April 30.    
+07/04/1996,Sunny and calm.  Lake level: very high    
+05/30/1997,Ice off April 20- 1997.  Lake level: very high    
+07/13/1997,Overcast- slight chop.  Lake level: very high    
+08/13/1997,Clear and calm.    
+11/05/2001,cloudy- windy
+    
+07/04/2002,sunny- light breeze
+    
+08/05/2002,sunny- windy
+    
+08/18/2002,mostly sunny- calm
+    
+11/09/2002,cloudy- calm
+    
+04/22/2003,clear- variable breezes.  Water Temp- 42.8.  Air temp
+55.9.  Lake level ~3" higher than last fall
+    
+05/05/2003,clear- sw breeze. air temp 60.8.  water temp 54.5.
+Water appeared noticable murky with brown-green color.  Very strong winds
+4/27/03
+    
+06/05/2003,Hazy- slight sw breeze.  Air temp 71.1. Water temp
+68.9.  Water covered with pine pollen.  Water appeared fairly clear with
+some small suspended particulates.
+    
+06/19/2003,clear- slight ne breeze.  Water looked clear with a
+few suspended particulates.
+    
+07/05/2003,mostly sunny- winds light + variable.  Water looked a
+little cloudy.  High activity with boating/skiers.  Storm 7/3/03
+    
+07/12/2003,mostly sunny winds light + variable.  Air temp 74.8.
+Water temp 73.4.  Water looked good- Some boating avtivity with a little
+wake activity.  First clear day after a couple of days of cool- light
+rainy days.  Accumulation ~1.0"
+    
+07/28/2003,hazy sky- still- air temp 77- water temp 76- water
+looked ok with some suspended particulates- slight brown-green color
+    
+08/04/2003,mostly sunny- slight breeze from SW- air temp 68-
+water temp 75- water looked ok- slight brown color- minimal particulates
+    
+08/16/2003,sunny- calm- air temp 83- water temp 78- water looked
+ok- level down 2-3" in last week.
+    
+08/30/2003,sunny- slight breeze from NW- air temp 83- water temp
+78- water looked ok- down another 2"
+    
+09/15/2003,clear- breeze from NE- air temp 74- water temp 70-
+water looked ok- lake level down a total of 11" from mid summer
+    
+05/08/2004,clear- sunny- still.  air temp 55- water temp 50    
+06/29/2004,clear with very slight haze- sunny- gentle breeze from west.
+water temp 67F- air temp 74F    
+07/15/2004,clear with some high thin clouds- still- air temp 78- water temp 75    
+07/19/2004,heavy cloud cover- light and variable breeze from SW.  Noticable suspended algae.  Air temp 79- water temp 80.    
+07/24/2004,mostly sunny- some hight thin clouds- breeze from SW air temp 61F- water temp 76F    
+08/01/2004,mostly sunny- steady breeze from SW- air temp 71- water temp 77    
+08/14/2004,air temp 68F- water temp 73F- mostly sunny- steady sw breeze    
+07/01/2005,Scattered clouds- sunny- moderate wind from NW.  Water level about 6" below normal.  Air temp 63F- water surface temp 72F    
+07/12/2005,very scattered clouds- sunny- slight breeze from west- level down 1-2" since last secchi- air temp 81F- water surface temp 78.8F    
+07/28/2005,late in day- some scattered clouds- moderate wind from NW- air temp 73.    
+08/10/2005,high scattered clouds- moderate wind from west- air temp 79- water temp 82    
+08/29/2005,partly to mostly cloudy- brisk breeze from west- air temp 68- lake level down a bit more    
+11/02/2005,partly to mostly cloudy- brisk wind from southwest- some white caps- air temp 54- lake level up 2-3" since 9/1/05    
+05/16/2006,mostly sunny- air temp 64.5- brisk wind from NW but no white caps
+06/13/2006,scattered clouds- air temp 70
+F- steady breeze from west
+07/20/2006,mostly sunny- some scattered clouds- air temp 80- good breeze from NW- some suspended particulates observed.
+08/29/2006,mostly sunny- air temp 69- breeze from NW- some suspended particulates observable.  Have noticed some algae late July and early Aug which have been hot and dry.
+05/13/2007,mostly sunny- air temp 68.1- brisk breeze from S- water looked great
+06/24/2007,mostly sunny- air temp 74.8- moderate breeze from S- water looked fine
+09/02/2007,Partly sunny- air temp 69.8- moderate breeze from S- water looked fine- QA/QC samples also
+09/02/2007,Partly sunny- air temp 69.8- moderate breeze from south- water looked fine- QA/QC samples also.  D. Blumer assisted.
+07/28/2008,clear and sunny- 77 air temp- calm
+08/27/2008,Sunny- air temp 68- breeze from SW
+07/13/2019,weather sunny- comfortable- low humidity
+
+
+
+
+Start Date,Group Name,Project Name
+07/24/1979,Data Collectors,Migrated from STORET Legacy
+06/14/1996,Al Carlson,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/04/1996,Al Carlson,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+05/30/1997,Al Carlson,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/13/1997,Al Carlson,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/13/1997,Al Carlson,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/25/1999,FRITSCHE,Lake Baseline Monitoring- DNR (1970s-2006)
+08/21/2000,Data Collectors,GMU LAKE CLASS STUDY
+11/05/2001,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/04/2002,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/05/2002,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/18/2002,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+11/09/2002,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+04/22/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+05/05/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/05/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/19/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/05/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/12/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/28/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/04/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/16/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/30/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+09/15/2003,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+05/08/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/29/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/15/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/19/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/24/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/01/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/14/2004,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/01/2005,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/12/2005,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/28/2005,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/10/2005,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/29/2005,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+11/02/2005,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+05/16/2006,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/13/2006,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/20/2006,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/29/2006,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+05/13/2007,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/24/2007,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+09/02/2007,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/28/2008,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/26/2008,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/27/2008,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+04/24/2012,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/27/2012,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/30/2012,Earl Cook,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/10/2014,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/02/2015,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/14/2015,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/30/2015,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/29/2015,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/22/2016,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/27/2017,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/16/2018,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/29/2018,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+06/29/2019,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/13/2019,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+07/04/2020,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 
+08/18/2020,Don Richards,Citizen Lake Monitoring - Water Quality - Bass Lake (T40R10Ws17); Deep Hole 

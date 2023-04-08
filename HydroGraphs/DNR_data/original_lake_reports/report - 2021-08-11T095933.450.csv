@@ -1,0 +1,399 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Beasley Lake,Waupaca,262300,NE,69,,693106,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190622,06/30/1990,16,NO,4.9,,,37,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190622,07/21/1990,17,NO,5.2,,,36,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190622,08/11/1990,17,NO,5.2,,,36,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190622,09/15/1990,16,NO,4.9,,,37,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190622,10/06/1990,17,NO,5.2,,,36,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,02/04/1992,,,,,17,,50,,,,,,
+1,09/22/1992,,,,4.16,14,,49,46,,,,,
+1,02/03/1993,,,,,4,,39,,,,,,
+1,05/20/1993,73.5,,22.4,0.9,20,15,51,34,,,,,
+1,08/16/1993,,,,2.65,12,,47,42,,,,,
+1,10/04/1993,,,,2.87,10,,46,43,,,,,
+1,02/15/1994,,,,,38,,56,,,,,,
+8190880,05/02/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,
+1,05/03/1994,52.5,,16,2.04,10,20,46,40,,,,,
+8190880,06/21/1994,23,NO,7,,,32,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,08/01/1994,41,,12.5,4.09,13,24,48,45,,,,,
+8190880,08/02/1994,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,09/21/1994,,,,4.26,10,,46,46,,,,,
+8190880,09/21/1994,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/26/2016,20.9,N,6.4,0.633,14.8,33,49,31,,,,,
+81855176,08/07/2016,18.75,NO,5.7,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/31/2016,18.25,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,06/04/2017,25,NO,7.6,,,31,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/02/2017,30,NO,9.1,,,28,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,07/22/2017,19.5,NO,5.9,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/12/2017,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/24/2017,19.75,NO,6,,,34,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,09/01/2017,19.5,NO,5.9,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/10/2017,18.75,NO,5.7,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/15/2017,19.75,NO,6,,,34,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,06/01/2018,,,,,,,,,,,,,
+1,06/03/2018,,,,,,,,,,,,,
+1,06/05/2018,,,,,,,,,,,,,
+81855176,06/05/2018,27.25,NO,8.3,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/07/2018,,,,,,,,,,,,,
+81855176,06/09/2018,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/14/2018,,,,,,,,,,,,,
+1,06/21/2018,,,,,,,,,,,,,
+1,06/28/2018,,,,,,,,,,,,,
+1,07/03/2018,,,,,,,,,,,,,
+1,07/19/2018,,,,,,,,,,,,,
+81855176,08/05/2018,20.5,NO,6.2,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/08/2018,21,NO,6.4,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,08/09/2018,,,,,,,,,,,,,
+81855176,08/12/2018,20.75,NO,6.3,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/14/2018,19.75,NO,6,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/22/2018,25.25,NO,7.7,,,31,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/26/2018,,,,,,,,,,,,,
+81855176,09/09/2018,16,NO,4.9,,,37,,,,,CLEAR,YELLOW,
+81855176,09/13/2018,15.5,NO,4.7,,,38,,,,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+81855176,09/16/2018,,,,,,,,,,,,,
+81855176,09/23/2018,17.5,NO,5.3,,,36,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+165388101,05/05/2019,21.5,NO,6.5,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,06/27/2019,25.5,NO,7.8,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,07/07/2019,20.5,NO,6.2,,,34,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81855176,07/14/2019,22,NO,6.7,1.78,14.8,33,49,39,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81855176,07/28/2019,20.25,NO,6.2,,,34,,,,,CLEAR,YELLOW,2-Very minor aesthetic problems
+81855176,08/11/2019,,,,3.64,16.5,,50,45,,,,,
+81855176,08/17/2019,20.5,NO,6.2,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/25/2019,21.5,NO,6.5,,,33,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/15/2019,,,,4.26,16.3,,50,46,,,,,
+165388101,04/26/2020,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,07/25/2020,19.25,NO,5.9,2.11,12.8,35,48,40,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/12/2020,13.75,NO,4.2,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+213861248,08/12/2020,,,,2.41,17.6,,50,41,,,,,
+81855176,08/19/2020,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/30/2020,16.5,NO,5,,,37,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/05/2020,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+213861248,09/05/2020,,,,2.93,12.3,,48,43,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/22/1992,,,16.00,C,0.54,MG/L
+02/03/1993,,,1.60,C,0.33,MG/L
+05/20/1993,,,14.23,C,0.68,MG/L
+08/16/1993,,,22.01,C,0.10,MG/L
+10/04/1993,,,11.63,C,0.49,MG/L
+02/15/1994,,,0.76,C,0.51,MG/L
+05/03/1994,,,11.40,C,0.54,MG/L
+08/01/1994,,,23.37,C,0.37,MG/L
+09/21/1994,,,20.62,C,0.76,MG/L
+07/26/2016,,,26.4,C,0.1,MG/L
+06/01/2018,,,22.2,C,,
+06/03/2018,,,21.7,C,,
+06/05/2018,,,19.1,C,,
+06/07/2018,,,19.3,C,,
+06/14/2018,,,21.2,C,,
+06/21/2018,,,21.3,C,,
+06/28/2018,,,22.2,C,,
+07/03/2018,,,24.8,C,,
+07/19/2018,,,24.5,C,,
+08/09/2018,,,23.1,C,,
+08/14/2018,0,FEET,26.72,DEGREES C,9.24,MG/L
+08/14/2018,3,FEET,26.43,DEGREES C,9.02,MG/L
+08/14/2018,6,FEET,25.99,DEGREES C,8.9,MG/L
+08/14/2018,9,FEET,24.82,DEGREES C,9.49,MG/L
+08/14/2018,12,FEET,22.18,DEGREES C,12.4,MG/L
+08/14/2018,15,FEET,18.13,DEGREES C,18.52,MG/L
+08/14/2018,18,FEET,12.88,DEGREES C,16.3,MG/L
+08/14/2018,21,FEET,9.41,DEGREES C,13.67,MG/L
+08/14/2018,24,FEET,7.87,DEGREES C,10.36,MG/L
+08/14/2018,27,FEET,7.06,DEGREES C,3.2,MG/L
+08/14/2018,30,FEET,6.63,DEGREES C,.34,MG/L
+08/14/2018,33,FEET,6.35,DEGREES C,.17,MG/L
+08/14/2018,36,FEET,6.18,DEGREES C,.18,MG/L
+08/14/2018,39,FEET,5.92,DEGREES C,0,MG/L
+08/14/2018,42,FEET,5.67,DEGREES C,0,MG/L
+08/14/2018,45,FEET,5.55,DEGREES C,0,MG/L
+08/26/2018,0,FEET,22.72,DEGREES C,8.03,MG/L
+08/26/2018,3,FEET,21.95,DEGREES C,7.87,MG/L
+08/26/2018,6,FEET,21.87,DEGREES C,7.67,MG/L
+08/26/2018,9,FEET,21.61,DEGREES C,7.87,MG/L
+08/26/2018,12,FEET,21.4,DEGREES C,7.85,MG/L
+08/26/2018,15,FEET,20.22,DEGREES C,12.37,MG/L
+08/26/2018,18,FEET,14.15,DEGREES C,14.1,MG/L
+08/26/2018,21,FEET,10.56,DEGREES C,11.36,MG/L
+08/26/2018,24,FEET,8.35,DEGREES C,7.58,MG/L
+08/26/2018,27,FEET,7.35,DEGREES C,2.37,MG/L
+08/26/2018,30,FEET,6.79,DEGREES C,0,MG/L
+08/26/2018,33,FEET,6.45,DEGREES C,0,MG/L
+08/26/2018,36,FEET,6.19,DEGREES C,0,MG/L
+08/26/2018,39,FEET,5.98,DEGREES C,0,MG/L
+08/26/2018,42,FEET,5.73,DEGREES C,0,MG/L
+08/26/2018,45,FEET,5.6,DEGREES C,0,MG/L
+09/16/2018,0,FEET,22.94,DEGREES C,9.06,MG/L
+09/16/2018,3,FEET,22.57,DEGREES C,8.83,MG/L
+09/16/2018,6,FEET,21.34,DEGREES C,9.71,MG/L
+09/16/2018,9,FEET,20.25,DEGREES C,11.06,MG/L
+09/16/2018,12,FEET,19.76,DEGREES C,10.75,MG/L
+09/16/2018,15,FEET,18.91,DEGREES C,8.31,MG/L
+09/16/2018,18,FEET,15.81,DEGREES C,5.16,MG/L
+09/16/2018,21,FEET,11.45,DEGREES C,4.69,MG/L
+09/16/2018,24,FEET,9.32,DEGREES C,3.96,MG/L
+09/16/2018,27,FEET,7.97,DEGREES C,0,MG/L
+09/16/2018,30,FEET,7.06,DEGREES C,0,MG/L
+09/16/2018,33,FEET,6.62,DEGREES C,0,MG/L
+09/16/2018,36,FEET,6.29,DEGREES C,0,MG/L
+09/16/2018,39,FEET,6.13,DEGREES C,0,MG/L
+09/16/2018,42,FEET,5.91,DEGREES C,0,MG/L
+09/16/2018,45,FEET,5.77,DEGREES C,0,MG/L
+05/05/2019,0,FEET,60.8,DEGREES F,,
+05/05/2019,3,FEET,56.4,DEGREES F,,
+05/05/2019,6,FEET,52.5,DEGREES F,,
+05/05/2019,9,FEET,51,DEGREES F,,
+05/05/2019,12,FEET,49.4,DEGREES F,,
+05/05/2019,15,FEET,48,DEGREES F,,
+05/05/2019,18,FEET,43.9,DEGREES F,,
+05/05/2019,21,FEET,41.9,DEGREES F,,
+05/05/2019,24,FEET,40.6,DEGREES F,,
+05/05/2019,27,FEET,39.4,DEGREES F,,
+05/05/2019,30,FEET,39.7,DEGREES F,,
+05/05/2019,33,FEET,39.7,DEGREES F,,
+05/05/2019,36,FEET,39.5,DEGREES F,,
+05/05/2019,39,FEET,39.5,DEGREES F,,
+05/05/2019,42,FEET,39.1,DEGREES F,,
+07/07/2019,0,FEET,25.53,DEGREES C,7.8,MG/L
+07/07/2019,3,FEET,25.35,DEGREES C,7.92,MG/L
+07/07/2019,6,FEET,23.6,DEGREES C,7.65,MG/L
+07/07/2019,9,FEET,22.51,DEGREES C,7.12,MG/L
+07/07/2019,12,FEET,19.26,DEGREES C,6.8,MG/L
+07/07/2019,15,FEET,14.85,DEGREES C,7.29,MG/L
+07/07/2019,18,FEET,10.41,DEGREES C,8.66,MG/L
+07/07/2019,21,FEET,8.65,DEGREES C,7.37,MG/L
+07/07/2019,24,FEET,6.96,DEGREES C,4.27,MG/L
+07/07/2019,27,FEET,6.09,DEGREES C,.89,MG/L
+07/07/2019,30,FEET,5.54,DEGREES C,0,MG/L
+07/07/2019,33,FEET,5.23,DEGREES C,0,MG/L
+07/07/2019,36,FEET,5.06,DEGREES C,0,MG/L
+07/07/2019,39,FEET,4.92,DEGREES C,0,MG/L
+07/07/2019,42,FEET,4.76,DEGREES C,0,MG/L
+07/07/2019,45,FEET,4.72,DEGREES C,0,MG/L
+07/14/2019,0,FEET,27.1,DEGREES C,7.68,MG/L
+07/14/2019,3,FEET,,,7.78,MG/L
+07/14/2019,6,FEET,,,7.64,MG/L
+07/14/2019,9,FEET,23.11,DEGREES C,7.1,MG/L
+07/14/2019,12,FEET,19.68,DEGREES C,5.5,MG/L
+07/14/2019,15,FEET,13.98,DEGREES C,7.68,MG/L
+07/14/2019,18,FEET,11.31,DEGREES C,8.03,MG/L
+07/14/2019,21,FEET,9.47,DEGREES C,6.46,MG/L
+07/14/2019,24,FEET,7.18,DEGREES C,3.47,MG/L
+07/14/2019,27,FEET,5.92,DEGREES C,0,MG/L
+07/14/2019,30,FEET,5.49,DEGREES C,0,MG/L
+07/14/2019,33,FEET,5.18,DEGREES C,0,MG/L
+07/14/2019,36,FEET,5.04,DEGREES C,0,MG/L
+07/14/2019,39,FEET,4.91,DEGREES C,0,MG/L
+07/14/2019,42,FEET,4.81,DEGREES C,0,MG/L
+07/14/2019,45,FEET,4.75,DEGREES C,0,MG/L
+07/28/2019,0,FEET,25.66,DEGREES C,8.18,MG/L
+07/28/2019,3,FEET,24.93,DEGREES C,7.91,MG/L
+07/28/2019,6,FEET,24,DEGREES C,7.48,MG/L
+07/28/2019,9,FEET,23.27,DEGREES C,7.42,MG/L
+07/28/2019,12,FEET,21.09,DEGREES C,4.59,MG/L
+07/28/2019,15,FEET,16.08,DEGREES C,4.58,MG/L
+07/28/2019,18,FEET,11.87,DEGREES C,6.07,MG/L
+07/28/2019,21,FEET,8.63,DEGREES C,4.42,MG/L
+07/28/2019,24,FEET,7.33,DEGREES C,2.36,MG/L
+07/28/2019,27,FEET,6.42,DEGREES C,.07,MG/L
+07/28/2019,30,FEET,5.81,DEGREES C,0,MG/L
+07/28/2019,33,FEET,5.46,DEGREES C,0,MG/L
+07/28/2019,36,FEET,5.24,DEGREES C,0,MG/L
+07/28/2019,39,FEET,5.05,DEGREES C,0,MG/L
+07/28/2019,42,FEET,4.93,DEGREES C,0,MG/L
+07/28/2019,45,FEET,4.86,DEGREES C,0,MG/L
+08/11/2019,0,FEET,24.08,DEGREES C,8.65,MG/L
+08/11/2019,3,FEET,24.02,DEGREES C,8.2,MG/L
+08/11/2019,6,FEET,23.6,DEGREES C,7.62,MG/L
+08/11/2019,9,FEET,23.08,DEGREES C,7.5,MG/L
+08/11/2019,12,FEET,22.02,DEGREES C,5.68,MG/L
+08/11/2019,15,FEET,17.13,DEGREES C,4.91,MG/L
+08/11/2019,18,FEET,12.89,DEGREES C,4.94,MG/L
+08/11/2019,21,FEET,9.7,DEGREES C,2.63,MG/L
+08/11/2019,24,FEET,7.78,DEGREES C,.62,MG/L
+08/11/2019,27,FEET,6.7,DEGREES C,.12,MG/L
+08/11/2019,30,FEET,6.01,DEGREES C,.01,MG/L
+08/11/2019,33,FEET,5.54,DEGREES C,0,MG/L
+08/11/2019,36,FEET,5.35,DEGREES C,0,MG/L
+08/11/2019,39,FEET,5.16,DEGREES C,0,MG/L
+08/11/2019,42,FEET,5.02,DEGREES C,0,MG/L
+08/11/2019,45,FEET,4.94,DEGREES C,0,MG/L
+08/25/2019,0,FEET,21.5,DEGREES C,8.49,MG/L
+08/25/2019,3,FEET,21.28,DEGREES C,8.39,MG/L
+08/25/2019,6,FEET,21.04,DEGREES C,8.4,MG/L
+08/25/2019,9,FEET,20.8,DEGREES C,7.76,MG/L
+08/25/2019,12,FEET,20.32,DEGREES C,7.62,MG/L
+08/25/2019,15,FEET,18.44,DEGREES C,8.98,MG/L
+08/25/2019,18,FEET,14.02,DEGREES C,7.48,MG/L
+08/25/2019,21,FEET,10.65,DEGREES C,3.27,MG/L
+08/25/2019,24,FEET,8.04,DEGREES C,.17,MG/L
+08/25/2019,27,FEET,6.88,DEGREES C,.13,MG/L
+08/25/2019,30,FEET,6.22,DEGREES C,.12,MG/L
+08/25/2019,33,FEET,5.76,DEGREES C,0,MG/L
+08/25/2019,36,FEET,5.44,DEGREES C,0,MG/L
+08/25/2019,39,FEET,5.27,DEGREES C,0,MG/L
+08/25/2019,42,FEET,5.1,DEGREES C,0,MG/L
+08/25/2019,45,FEET,5.02,DEGREES C,0,MG/L
+04/26/2020,0,FEET,54.6,DEGREES F,,
+04/26/2020,3,FEET,51.4,DEGREES F,,
+04/26/2020,6,FEET,50.3,DEGREES F,,
+04/26/2020,9,FEET,49,DEGREES F,,
+04/26/2020,12,FEET,48.2,DEGREES F,,
+04/26/2020,15,FEET,47.4,DEGREES F,,
+04/26/2020,18,FEET,45.3,DEGREES F,,
+04/26/2020,21,FEET,43.1,DEGREES F,,
+04/26/2020,24,FEET,41,DEGREES F,,
+04/26/2020,27,FEET,40.1,DEGREES F,,
+04/26/2020,30,FEET,39.7,DEGREES F,,
+04/26/2020,33,FEET,39.7,DEGREES F,,
+04/26/2020,36,FEET,39.7,DEGREES F,,
+04/26/2020,39,FEET,39.7,DEGREES F,,
+04/26/2020,42,FEET,39.9,DEGREES F,,
+04/26/2020,45,FEET,39.9,DEGREES F,,
+07/25/2020,0,FEET,25.8,DEGREES C,9.03,MG/L
+07/25/2020,3,FEET,25.09,DEGREES C,8.74,MG/L
+07/25/2020,6,FEET,23.82,DEGREES C,8.77,MG/L
+07/25/2020,9,FEET,23.34,DEGREES C,8.5,MG/L
+07/25/2020,12,FEET,22.17,DEGREES C,9.12,MG/L
+07/25/2020,15,FEET,17.92,DEGREES C,11.66,MG/L
+07/25/2020,18,FEET,13.77,DEGREES C,7.35,MG/L
+07/25/2020,21,FEET,10.47,DEGREES C,4.61,MG/L
+07/25/2020,24,FEET,8.8,DEGREES C,1.4,MG/L
+07/25/2020,27,FEET,7.44,DEGREES C,0,MG/L
+07/25/2020,30,FEET,6.4,DEGREES C,0,MG/L
+07/25/2020,33,FEET,5.88,DEGREES C,.15,MG/L
+07/25/2020,36,FEET,5.49,DEGREES C,0,MG/L
+07/25/2020,39,FEET,5.22,DEGREES C,0,MG/L
+07/25/2020,42,FEET,5.05,DEGREES C,0,MG/L
+07/25/2020,45,FEET,5,DEGREES C,0,MG/L
+08/19/2020,0,FEET,24.39,DEGREES C,10.93,MG/L
+08/19/2020,3,FEET,23.54,DEGREES C,11.06,MG/L
+08/19/2020,6,FEET,23.24,DEGREES C,10.93,MG/L
+08/19/2020,9,FEET,22.77,DEGREES C,11.16,MG/L
+08/19/2020,12,FEET,22.21,DEGREES C,10.4,MG/L
+08/19/2020,15,FEET,19.36,DEGREES C,10.94,MG/L
+08/19/2020,18,FEET,15.4,DEGREES C,7.71,MG/L
+08/19/2020,21,FEET,11.88,DEGREES C,.52,MG/L
+08/19/2020,24,FEET,9.46,DEGREES C,0,MG/L
+08/19/2020,27,FEET,8.11,DEGREES C,0,MG/L
+08/19/2020,30,FEET,6.75,DEGREES C,0,MG/L
+08/19/2020,33,FEET,6.15,DEGREES C,0,MG/L
+08/19/2020,36,FEET,5.66,DEGREES C,0,MG/L
+08/19/2020,39,FEET,5.45,DEGREES C,0,MG/L
+08/19/2020,42,FEET,5.26,DEGREES C,0,MG/L
+08/19/2020,45,FEET,5.16,DEGREES C,0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/30/1990,Clear or slightly.  Overcast.  Mid-afternoon readings for all of the readings.    
+07/02/2017,secchi depth was greater than 30 feet but ran out of rope
+09/01/2017,perception rating was between a 2 and 3
+06/09/2018,secchi depth was more than 30 feet but ran out of rope secchi depth was more than 30 feet but ran out of rope- mostly cloudy
+08/05/2018,partly cloudy
+09/16/2018,Mostly cloudy
+09/23/2018,67.3 degrees F surface temp
+05/05/2019,sw light wind. partly sunny. one canoe on lake. a few geese. 
+06/27/2019,74.2 F surface
+07/07/2019,water level high- some clouds
+08/11/2019,100% cloudy- rained last night
+08/25/2019,light wind- partly cloudy
+04/26/2020,sunny- 71F outside- light wind
+07/25/2020,light wind
+08/12/2020,77.2 F water surface
+08/19/2020,light wind
+09/05/2020,windy- surface temp 70.2 F
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/1990,Karl Spiegelberg,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/21/1990,Karl Spiegelberg,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/11/1990,Karl Spiegelberg,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/15/1990,Karl Spiegelberg,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+10/06/1990,Karl Spiegelberg,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+02/04/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/04/1992,Data Collectors,LAKE MGT PROJECTS
+09/22/1992,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+09/22/1992,Data Collectors,LAKE MGT PROJECTS
+02/03/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/03/1993,Data Collectors,LAKE MGT PROJECTS
+05/20/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+05/20/1993,Data Collectors,LAKE MGT PROJECTS
+08/16/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+08/16/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+10/04/1993,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+10/04/1993,Data Collectors,LAKE MANAGEMENT PROJECTS
+02/15/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+02/15/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+05/02/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+05/03/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+05/03/1994,Data Collectors,LAKE MANAGEMENT PROJ - 1994
+06/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/01/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+08/01/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+08/02/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/21/1994,Data Collectors,CHAIN O'LAKES PROTECTIVE ASSOCIATION: Waupaca Lower Chain O Lakes Management Planning
+09/21/1994,Data Collectors,LAKE MANAGEMENT PROJECTS
+09/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/07/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/31/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+06/04/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/02/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/22/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/12/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/24/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/01/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/10/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/15/2017,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+06/01/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/03/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/05/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+06/05/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/07/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/09/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+06/14/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/21/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+06/28/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+07/03/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+07/19/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+08/05/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/08/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/09/2018,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain O' Lakes AIS Control + Prevention Project
+08/12/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/14/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/22/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/26/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/09/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/13/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/16/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/23/2018,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+05/05/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+05/05/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Limekiln Lake - Deep Hole
+06/27/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/07/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/14/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/28/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/11/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/17/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/25/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/15/2019,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+04/26/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+07/25/2020,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/12/2020,BRIAN ZALAY,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/12/2020,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/19/2020,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+08/30/2020,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/05/2020,BRIAN ZALAY,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole
+09/05/2020,Brian Zalay,Citizen Lake Monitoring - Water Quality - Beasley Lake - Waupaca Co - Deep Hole

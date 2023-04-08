@@ -1,0 +1,446 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+White Ash Lake,Polk,2628800,NO,49,,493148,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190418,07/05/1993,3.5,NO,1.1,,,59,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190418,07/18/1993,3.67,NO,1.1,,,58,,,HIGH,,,BROWN,5-Enjoyment substantially impaired (algae)
+8190418,08/08/1993,1.75,NO,0.5,,,69,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8190418,08/28/1993,1.75,NO,0.5,,,69,,,NORMAL,,,GREEN,5-Enjoyment substantially impaired (algae)
+8190418,07/03/1994,3.5,NO,1.1,,,59,,,LOW,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190418,07/17/1994,2.5,NO,0.8,,,64,,,NORMAL,,,Green and Brown,4-Would not swim but boating OK (algae)
+8191354,09/18/2005,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191354,10/01/2005,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191354,10/08/2005,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8191354,05/07/2006,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191354,05/29/2006,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191354,06/03/2006,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191354,07/21/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191354,07/30/2006,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191354,08/20/2006,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191354,06/10/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191354,06/23/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191354,07/29/2007,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,
+8191354,08/25/2007,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191354,07/20/2008,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191354,05/03/2009,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191354,05/17/2009,6.5,YES,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191354,06/21/2009,6,YES,1.8,,,51,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191354,07/25/2009,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191354,08/15/2009,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,05/07/2010,5.5,NO,1.7,,37,53,56,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+34938876,05/15/2010,6.3,NO,1.9,,,51,,,LOW,3,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+34938876,06/03/2010,5,NO,1.5,,,54,,,NORMAL,,MURKY,YELLOW,
+34938876,06/23/2010,4,NO,1.2,26.2,80,57,62,59,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,07/17/2010,6.5,NO,2,,,50,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+34938876,07/31/2010,7.25,NO,2.2,14.1,50,49,58,55,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34938876,08/07/2010,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34938876,08/18/2010,9.5,NO,2.9,,,45,,,HIGH,,MURKY,,2-Very minor aesthetic problems
+34938876,08/20/2010,6.8,NO,2.1,,,50,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,08/28/2010,7.75,NO,2.4,,,48,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+34938876,09/04/2010,7,NO,2.1,8.66,54,49,59,51,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,09/29/2010,8.75,NO,2.7,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,10/08/2010,8.75,YES,2.7,,,46,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34938876,05/19/2011,5.25,NO,1.6,,,53,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34938876,05/20/2011,,,,,32,,55,,,,,,
+34938876,06/25/2011,5.25,NO,1.6,16.6,52,53,59,56,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34938876,07/16/2011,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,07/23/2011,8,NO,2.4,5.02,42,47,57,47,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,08/12/2011,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,08/19/2011,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+34938876,08/27/2011,6.25,NO,1.9,,,51,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+34938876,09/04/2011,,,,7.91,66,,61,50,,,,,
+34938876,04/20/2012,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+34938876,05/04/2012,,,,,29,,54,,,,,,
+34938876,05/05/2012,6,NO,1.8,,,51,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+34938876,05/12/2012,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34938876,06/23/2012,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,06/27/2012,,,,12.6,51,,59,54,,,,,
+34938876,07/21/2012,7,NO,2.1,9.35,42,49,57,52,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34938876,07/27/2012,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,08/18/2012,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,08/25/2012,6.5,NO,2,15.2,44,50,57,55,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+67199520,05/14/2013,,,,6.93,44.4,,58,49,,,,,
+34938876,06/08/2013,7.5,NO,2.3,,42.5,48,57,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,06/20/2013,,,,5.11,47.8,,58,47,,,,,
+34938876,06/22/2013,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+67199520,07/01/2013,,,,10.5,43.8,,57,53,,,,,
+34938876,07/20/2013,6,NO,1.8,7.55,39.8,51,57,50,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+37541368,08/08/2013,,,,7.99,41.9,,57,51,,,,,
+34938876,08/10/2013,6.25,NO,1.9,,,51,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+34938876,08/24/2013,7,NO,2.1,11.4,30.4,49,55,53,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+67199520,09/03/2013,,,,7.89,60.4,,60,50,,,,,
+37541368,10/22/2013,,,,5.39,24.6,,53,48,,,,,
+34938876,05/21/2014,,,,,49.2,,58,,,,,,
+34938876,06/04/2014,5,NO,1.5,,,54,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,06/25/2014,,,,19.8,54.8,,59,57,,,,,
+34938876,07/22/2014,7,NO,2.1,12.7,52.7,49,59,54,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,08/10/2014,6.5,NO,2,,,50,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34938876,09/02/2014,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,09/07/2014,6.5,NO,2,13.7,44.9,50,58,55,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,05/27/2015,3.5,NO,1.1,,54.5,59,59,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,06/25/2015,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,06/27/2015,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,06/28/2015,7, ,2.1,11.5,83,49,62,53,,,,,
+34938876,07/15/2015,7, ,2.1,15.4,69.8,49,61,55,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34938876,08/04/2015,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,08/12/2015,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,08/31/2015,7,NO,2.1,11.5,56.5,49,59,53,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,05/03/2016,6,NO,1.8,,58,51,60,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,05/18/2016,7,NO,2.1,,,49,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34938876,06/21/2016,,,,15.2,56.7,,59,55,,,,,
+34938876,07/18/2016,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,07/25/2016,6.5,NO,2,8.59,53.1,50,59,51,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+34938876,08/23/2016,,,,13,48.1,,58,54,,,,,
+34938876,05/28/2017,,,,,54.6,,59,,,,,,
+34938876,05/31/2017,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,06/27/2017,,,,15.5,76.4,,62,56,,,,,
+34938876,07/23/2017,,,,22.3,75.8,,62,58,,,,,
+34938876,07/27/2017,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,08/20/2017,7,NO,2.1,17.6,47.2,49,58,56,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,08/29/2017,5.75,NO,1.7,,,52,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,09/13/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,09/21/2017,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,05/28/2018,7.5,NO,2.3,,37.8,48,56,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+34938876,06/13/2018,7.5,NO,2.3,6.31,39.7,48,57,49,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,07/10/2018,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,07/16/2018,8,,2.4,8.49,45,47,58,51,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+34938876,08/21/2018,5,NO,1.5,20.2,43.8,54,57,58,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,05/28/2019,3.75,NO,1.1,,56.5,58,59,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,06/19/2019,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,06/25/2019,6,NO,1.8,18.6,75,51,62,57,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34938876,07/02/2019,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,07/11/2019,3.75,NO,1.1,,,58,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+34938876,08/06/2019,3,NO,0.9,44.2,103,61,64,63,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+34938876,09/04/2019,6.5,NO,2,15.9,51.8,50,59,56,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,09/10/2019,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,05/24/2020,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,5-Enjoyment substantially impaired (algae)
+34938876,05/31/2020,5.5,NO,1.7,,,53,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+34938876,06/30/2020,5.5,NO,1.7,15.5,54.1,53,59,56,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+34938876,07/20/2020,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,07/27/2020,4.5,,1.4,26.4,57.1,55,59,60,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+34938876,08/24/2020,7,NO,2.1,,,49,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+36799106,08/26/2020,,,,10.1,40.2,,57,52,,,,,
+34938876,09/02/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34938876,09/10/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34938876,09/22/2020,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+34938876,10/04/2020,6.5,,2,,,50,,,LOW,,,GREEN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/07/2010,0,FEET,55,DEGREES F,11.2,MG/L
+05/07/2010,6,FEET,,,10,MG/L
+05/15/2010,0,FEET,64,DEGREES F,,
+05/15/2010,6,FEET,55,DEGREES F,,
+06/03/2010,0,FEET,76,DEGREES F,9.2,MG/L
+06/03/2010,6,FEET,72,DEGREES F,8.8,MG/L
+08/07/2010,0,FEET,,,9.8,MG/L
+08/07/2010,6,FEET,,,10,MG/L
+08/18/2010,0,FEET,59,DEGREES F,,
+08/18/2010,6,FEET,60.6,DEGREES F,,
+09/04/2010,0,FEET,67.8,DEGREES F,,
+09/04/2010,6,FEET,67,DEGREES F,,
+09/29/2010,0,FEET,62.4,DEGREES F,,
+09/29/2010,6,FEET,60.2,DEGREES F,,
+10/08/2010,0,FEET,58.8,DEGREES F,,
+10/08/2010,6,FEET,57.7,DEGREES F,,
+05/19/2011,0,FEET,68,DEGREES F,10,MG/L
+05/19/2011,6,FEET,60.2,DEGREES F,10.5,MG/L
+06/25/2011,0,FEET,71,DEGREES F,,
+06/25/2011,6,FEET,66.2,DEGREES F,,
+07/16/2011,0,FEET,80.4,DEGREES F,8.8,MG/L
+07/16/2011,6,FEET,75.5,DEGREES F,8.2,MG/L
+08/19/2011,0,FEET,79.3,DEGREES F,,
+08/19/2011,6,FEET,75.7,DEGREES F,,
+08/27/2011,0,FEET,77.7,DEGREES F,,
+08/27/2011,6,FEET,74.6,DEGREES F,,
+05/05/2012,0,FEET,66.5,DEGREES F,,
+05/05/2012,6,FEET,65.1,DEGREES F,,
+05/12/2012,0,FEET,66.7,DEGREES F,9,MG/L
+05/12/2012,6,FEET,63.8,DEGREES F,10,MG/L
+06/23/2012,0,FEET,75.2,DEGREES F,,
+06/23/2012,6,FEET,74.8,DEGREES F,,
+07/21/2012,0,FEET,81.3,DEGREES F,,
+07/21/2012,6,FEET,80,DEGREES F,,
+07/27/2012,0,FEET,78.9,DEGREES F,7,MG/L
+07/27/2012,6,FEET,78.8,DEGREES F,7,MG/L
+08/18/2012,0,FEET,71.9,DEGREES F,,
+08/18/2012,6,FEET,69.6,DEGREES F,,
+08/25/2012,0,FEET,75.7,DEGREES F,,
+08/25/2012,3,FEET,75.7,DEGREES F,,
+08/25/2012,6,FEET,74.1,DEGREES F,,
+06/08/2013,0,FEET,64.6,DEGREES F,,
+06/08/2013,6,FEET,62.4,DEGREES F,,
+06/22/2013,0,FEET,75.9,DEGREES F,,
+06/22/2013,6,FEET,74.1,DEGREES F,,
+07/20/2013,0,FEET,82.4,DEGREES F,,
+07/20/2013,6,FEET,81.3,DEGREES F,,
+08/10/2013,0,FEET,74.6,DEGREES F,7,MG/L
+08/10/2013,6,FEET,73.2,DEGREES F,7,MG/L
+08/24/2013,0,FEET,78.6,DEGREES F,,
+08/24/2013,6,FEET,77.5,DEGREES F,,
+06/04/2014,0,FEET,78.2,DEGREES F,,
+06/04/2014,6,FEET,72.1,DEGREES F,,
+07/22/2014,0,FEET,80.6,DEGREES F,,
+07/22/2014,6,FEET,77.7,DEGREES F,,
+08/10/2014,0,FEET,81.6,DEGREES F,,
+08/10/2014,6,FEET,78,DEGREES F,,
+09/02/2014,0,FEET,75,DEGREES F,,
+09/02/2014,6,FEET,71.4,DEGREES F,,
+09/07/2014,0,FEET,70.5,DEGREES F,,
+09/07/2014,6,FEET,69.2,DEGREES F,,
+06/25/2015,0,FEET,77.3,DEGREES F,,
+06/25/2015,6,FEET,74.4,DEGREES F,,
+06/27/2015,0,FEET,81.6,DEGREES F,,
+06/27/2015,6,FEET,76.1,DEGREES F,,
+06/28/2015,0,FEET,80.9,DEGREES F,,
+06/28/2015,6,FEET,7.7,DEGREES F,,
+08/04/2015,0,FEET,79.1,DEGREES F,,
+08/04/2015,6,FEET,76.4,DEGREES F,,
+08/12/2015,0,FEET,79.1,DEGREES F,,
+08/12/2015,6,FEET,76.1,DEGREES F,,
+08/31/2015,0,FEET,73.2,DEGREES F,,
+08/31/2015,6,FEET,72.6,DEGREES F,,
+05/03/2016,0,FEET,59.1,DEGREES F,,
+05/03/2016,6,FEET,58.3,DEGREES F,,
+05/18/2016,0,FEET,65.4,DEGREES F,,
+05/18/2016,6,FEET,58.4,DEGREES F,,
+07/18/2016,0,FEET,81.6,DEGREES F,,
+07/18/2016,6,FEET,76.8,DEGREES F,,
+07/25/2016,0,FEET,84.3,DEGREES F,,
+07/25/2016,6,FEET,80.9,DEGREES F,,
+05/31/2017,0,FEET,78,DEGREES F,,
+05/31/2017,6,FEET,73.5,DEGREES F,,
+07/27/2017,0,FEET,79.7,DEGREES F,,
+07/27/2017,6,FEET,76.4,DEGREES F,,
+08/20/2017,0,FEET,75.5,DEGREES F,,
+08/20/2017,6,FEET,71.9,DEGREES F,,
+09/13/2017,0,FEET,71.6,DEGREES F,,
+09/13/2017,6,FEET,68.7,DEGREES F,,
+09/21/2017,0,FEET,69.6,DEGREES F,,
+09/21/2017,6,FEET,67.4,DEGREES F,,
+05/28/2018,0,FEET,84.2,DEGREES F,,
+05/28/2018,6,FEET,77,DEGREES F,,
+06/13/2018,0,FEET,75,DEGREES F,,
+06/13/2018,6,FEET,72.6,DEGREES F,,
+08/21/2018,0,FEET,74.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/05/1993,Lake very weedy- lake bottom is muddy    
+08/28/1993,Bay area is very green with algae growth    
+07/17/1994,Lake is constantly being weed harvested - many surface weeds.
+05/07/2010,  Rain- 45 degrees- no boat traffic and low wind
+05/15/2010,Sunny- 75 degrees- small boat traffic w/ very light wind
+06/03/2010,Sunny to part. cloudy- no boat traffic- weed machine had been out all morning.
+06/23/2010,Solid sun- 80 degrees-no boat traffic- low wind- recent rain fall by 1 day..
+07/17/2010,light boat traffic-light wind-very humid- rain on the way.
+07/31/2010,Clear- sunny- light wind. 5 pontoons on the lake. 2 baby eagles screaming wanting to be fed. 2 loons also spoted for the last couple of weeks. Odd for this lake. Clear- sunny- light wind. 5 pontoons on the lake. 2 baby eagles screaming wanting to be fed. 2 loons also spoted for the last couple of weeks. Odd for this lake. visability into lake is great- but weeds are right under the surface..
+08/07/2010,Sunny- light wind- Weed machine was out on the lake.
+08/18/2010,Light wind 5-10mph-Sunny 60 degrees. High water- with 2 swans swimming- not much boat traffic ..3 1/2 inches of rain for the week..
+08/20/2010,sunny- light wind w/ warming temps..
+08/28/2010,Very windy- could not do other water testing at the time since the anchor wouldn't hold.. Warm- humid- sunny. 2 boats on the lake.
+09/04/2010, Part. cloudy.. Major temp change. Last week hot humid  and 90 plus degree temps. Today part. cloudy- 63 for a high and last night was down to 42.
+09/29/2010,Mostly cloudy- 63 degrees- slight north wind 15-20 mph.. 2 Loons spotted on the lake- blue skies are coming.. High lake water due to another 3 inches received last week.. Flooding in the cities and south ..
+10/08/2010,Perfect day for Oct! Temp was in the 80's- which broke a record from 1963.. There was a slight wind- no visable weeds.. Lake water is currently at average height since water levels have gone down and no recent rain.. 1 Loon was seen on the lake.
+05/19/2011,Partly cloudy. Light wind. Lake is low- weeds are very close to surface. Over all nice weather and 3-4 boats out. The Eagle pair are sitting in their "old" nest". A new one was built by them over the winter. She sat on a egg all of March- but now both have abandoned the new nest.. Something must of happened to the egg or baby  Last year we had 2 young and then one other later in the season was released by the Rapture center. All 3 were well taken care of by our White Ash Eagle pair.
+06/25/2011,Hazy sky- lake choppy-not clear water due to 7 boats on lake- tubers and skiiers (odd) and choppy water more than  Swan pair have 3 babies. Eagles hanging out and catching fish- but they did not have young this year.
+07/16/2011,sunny-slight breezew/ few clouds. Many boats out- jet skiis- tubers and water skiiers.
+07/23/2011,Sunny day after a dark am. w/ 1/2 inch of rain. slight wind. 7 boats on lake and Eagle over head. Lake is nice and high. Many are enjoying the day on the water.
+08/12/2011,Water is still high- but many weeds are at the surface (due to the weed machine not being out harvesting) They are waiting for teh water to drop a bit more.  Many boats out for a Friday. 5 total w/ one water skiier.
+08/19/2011,Sunny- slight wind.80 degrees. We saw 1 adut Swan- not sure where the other adult and 2 babies were  Boat traffic was light- 2 other small fishing boats. Not many had arrived yet for the wk'end.
+08/27/2011, Part. cloudy-no breeze- no boat. Worse weeds we've ever seen. We could barley get our boat to the deep hole.
+04/20/2012,No wind or other boats out besides us. Very calm. Eagles in nest. She has been sitting for the month.  60 degree temp outside.
+05/05/2012,One other boat besides us. 66 degrees outside w/ a slight wind. Eagles have abandoned the nest for the second year in a row. This is after she sat on the nest for a full month both years   For sure we thought we had babies  We had rain 2 days prior and expecting more in the next day. We need it. Lake is low.
+05/12/2012,warm- slight breeze- us and one other boat on the lake. Our Eagles fighting w/ another pair.
+06/23/2012,Lake up 1 1/2 feet in one week due to rain. Rice bogs have broken off and are floating all over the lake.15 mph winds. 5 boats out on the lake. 
+07/21/2012,Lake up after 1 inch of rain. cloudy w/ a slight breeze. 1 jet skii out besides us. 2 swams on the lake w/ 1 baby.
+07/27/2012,Wind 15-20 mph.. no sun. water is very choppy.. Lake has gone down a bit since thre's been no rain in 1 week. land is very dry.. 57 nice cool degrees last night. weeds are creeping to the top. Weed machine will be back on our lake soon.
+08/18/2012,Lake has gone down 2 inches since last wke'nd. No rain.Easily boatable today. No visable weeds on top of the water except for around the out skirts.Wind 25 degrees. Choppy water. Solid sun 70 degrees. Feels great out! 3 swams swimming 2 adult and 1 baby. 2 other pontoons on the lake besides us.
+08/25/2012,Overcast. 10 mph south wind. PIlliated wood pecker flew over- 3 swans on the lake. 2 adults and their baby.Only 1 other boat out besides us.
+06/08/2013,Weed machine was out cutting. 2 adult swans were swimming. We hope they nest here again this year  2 Adult Eagles soaring w/ one baby in the nest! Finally a success!. Partly cloudy and 65 degrees. Weed machine was out cutting. 2 adult swans were swimming. We hope they nest here again this year  2 Adult Eagles soaring w/ one baby in the nest! Finally a success!. Partly cloudy and 65 degrees.
+06/22/2013,No one- but my husband and I were on the lake after 2 1/2 inches of rain the night before. Baby Eagle in the nest- Mom flying over head. We have a pair of Canadian geese this year on the lake w/ 2 young. The swans have a nest this year once again. I have not gotten close enough to see if there are any babies. Partly cloudy 75 degrees and very humid.
+07/20/2013,Part. cloudy- wind- 79 degrees after 1 week of intence heat.
+08/10/2013,part cloudy. 76 degrees for a high. 5 boats out w/ baby Eagle still screaming.
+08/24/2013,sunny- 85 and very windy. One swan on the lake.
+07/22/2014,Part cloudy- light breeze- 80 degrees. Lake is up.. Swans out w/ one baby
+08/10/2014,10 deg wind.  Part cloudy. Swans were out w the one baby.. 2 young eagles screamed all day wanting food from their parents . 78 degrees. 
+09/02/2014,Beautiful! Sunny! 75 degrees.. Eagles over head
+09/07/2014,Windy sun and 76 degrees. 4 inches of rain last wk. Lake is high
+05/27/2015,Large amounts of fish kill for this time of year.. Weed machine was out cutting all day.  Heavy rains the week prior.. Sunny and 2 other boats were on the lake. Both adults Swans that nest on our lake were out swimming. Eagles were fishing ..
+06/25/2015,sun and wind. no other boats or wild life
+06/27/2015,Eagle feeding 2 babies- 3 baby swans this year. gorgeous outside- water level starting to get low- weeds creeping to the top.
+06/28/2015,Clouds w/ rain the night before.. Lake is going down.. Beaver dam going to the other lake has  been a huge issue.. No one can get through to the otherside.. This has never happened in the past..
+07/15/2015,high water level after rain. Baby screaming eagles wanting food.. No boats out but us. Wind approx 15 mph
+08/04/2015,beautiful outside. Weed cutter was cutting
+08/12/2015,beautiful- weed machine out.. 2 1/4 inches of rain this week. Baby Eagles still screaming and want to be fed. A lot of flaoting loose weed in the lake due to the cutting of the weed machine.
+08/31/2015, No boats- slight wind- weed machine done for the year and off the lake. Water higher then normal and clear
+05/03/2016,Only boat on the water.. windy. Eagle feeding their 2 babies in the nest. 2 resident swans were swimming.. I don't think they had any young this year even though they built up the nest with anticipation.  65 degrees
+05/18/2016,70 degrees. Lake was lower then normal.. Not much rain this spring. Eagles were fishing and bringing it to the two young in the nest.. 3-4 boats were out on the lake
+07/18/2016,87 degrees- lake up after rain- no real weeds to worry about. beautiful day.
+05/31/2017,very windy- sun/cloud 80 degrees. No baby eagles this year. Something happened to the eggs or babies she had been sitting on.. Maybe froze?  Very recent heavy rains. 
+07/27/2017,Sunny- breezy- lake is holding the height even though very little rice is up this year due to getting 4 inches of rain in the spring..  Major SNAIL kill this spring and summer??/ None of us understand why and we have no reason for this?? It's very unusual if anyone finds a snail alive..
+08/20/2017,Sunny- little wake- 3 boats out..
+08/29/2017,Sun and cloud mix- no breeze- 2 boats on the lake.. High water due to all the rain.
+09/13/2017,Gorgeous outside.. We were the only boat out on the lake. Solid sun. 8mp winds
+09/21/2017,Sun. 10 mp wind. 1 other boat besides us.
+05/28/2018,Lake is low.. No baby eagle this year- but the adults are still around..  3 total boats on the lake
+06/13/2018,80 degrees.. Solid sun. No other boats out on the lake
+07/10/2018,80*  No wind- Geese with babies.. Loons this year on the lake!   No Eagle babies one again this year :(  We think the eggs may have froze?
+07/16/2018,80 degrees- 15 mph wind- no boats- many weeds- 1 swan (looks lost with no mate)
+08/21/2018,Clear skys- 4 boats on the water-  Weed Harvester was out during the day ..Still 1 lone Swan on this side. We think he or she lost their mate.
+
+ Both swans with 1 baby nested on the South lake Clear skys- 4 boats on the water-  Weed Harvester was out during the day ..Still 1 lone Swan on this side. We think he or she lost their mate.
+
+ Both swans with 1 baby nested on the South lake
+05/28/2019,Lake is high.. Tons of sun with light wind..  We saw 1 adult Eagle- Canadian Geese with babies and spawning Bass.. 1 boat on the lake besides our and the Weed harvester has not yet this year been out cutting
+06/19/2019,Sunny 70 deg.. Weed Harv was out. Solid sun Sunny 70 deg.. Weed Harv was out. Solid sun
+06/25/2019,15 mph winds. Harvester broke. Solid sun
+07/02/2019,85 DEGREES. Light wind- solid sun. 1 other boat out. Canadian geese with babies
+07/11/2019,No wind. Solid sun. 1 other boat besides us on the lake. Canadian geese with babies
+08/06/2019,Light Wind- solid sun- 1st Time out on the lake since the strait line winds and Tornado went through
+09/04/2019,Light wind- best looking water clarity wise since spring!! No other boats out.. water high
+09/10/2019,High lake level. A lot of recent rain.. 80* today- but had been cold with highs between 50-60 degrees. Many around the lake turned on their furnace.
+05/24/2020,swans- eagles-  fish and turtles. Light wind and sunny
+05/31/2020,Sunny - warm- weed harvesters tractor broke- so no harvesting and lake is dropping since lack of rain. 2 swans out and Eagles fishing to feed the babies. Many small fish seen along with tadpoles and turtles
+06/30/2020,- sunny- hot and humid. 3 inches of rain fell the day prior.. Weed Machine has been cutting on the lake
+07/20/2020,Sunny- .. Rain 1.5 inches water is deep
+07/27/2020,water really high-gorgeous outside. light wind- 2 inches of rain this week
+08/24/2020,Beautiful out.. No other boats- high water- weed cutter is doing a great job
+09/02/2020,Gorgeous- no other boats- lake high- eagle flying over head and Osprey dove in front of us.  Water very clear
+09/10/2020,No wind- solid sun- 1 other boat on the lake. Geese flying over head- recently seen White Pelicans over head migrating
+09/22/2020,Beautiful- Lake level is dropping since no precept. Weed Harvester has been put away and winterized. Weeds are at the surface- but will be dropping soon due to the cold temps.. Fall Peak colors are extra early this year.. Swan parents were on the lake with the 3 babies and the Eagles 2 young are still begging for food daily.. The Osprey continues to catch many fish
+10/04/2020,warm- windy
+
+
+
+
+Start Date,Group Name,Project Name
+07/05/1993,Charles McConville,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/18/1993,Charles McConville,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/08/1993,Charles McConville,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/28/1993,Charles McConville,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/03/1994,Charles McConville,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/17/1994,Charles McConville,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/18/2005,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+10/01/2005,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+10/08/2005,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/07/2006,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/29/2006,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/03/2006,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/21/2006,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/30/2006,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/20/2006,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/10/2007,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/23/2007,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/29/2007,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/25/2007,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/20/2008,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/03/2009,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/17/2009,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/21/2009,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/25/2009,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/15/2009,Tom Kartes,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/07/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/15/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/03/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/23/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/17/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/31/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/07/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/18/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/20/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/28/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/04/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/29/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+10/08/2010,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/19/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/20/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/25/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/16/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/23/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/12/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/19/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/27/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/04/2011,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+04/20/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/04/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/05/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/12/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/23/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/27/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/21/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/27/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/18/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/25/2012,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/14/2013,Cory McDonald,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+06/08/2013,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/20/2013,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/22/2013,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/01/2013,Cory McDonald,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+07/20/2013,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/08/2013,MATTHEW DIEBEL,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+08/10/2013,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/24/2013,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/03/2013,Cory McDonald,Assessing drivers of variability in the chlorophyll phosphorus relationship in Wisconsin lakes CO_06
+10/22/2013,MATTHEW DIEBEL,ISS MISC
+05/21/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/04/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/25/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/22/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/10/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/02/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/07/2014,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/27/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/25/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/27/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/28/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/15/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/04/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/12/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/31/2015,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/03/2016,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/18/2016,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/21/2016,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/18/2016,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/25/2016,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/23/2016,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/28/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/31/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/27/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/23/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/27/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/20/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/29/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/13/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/21/2017,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/28/2018,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/13/2018,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/10/2018,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/16/2018,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/21/2018,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/28/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/19/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/25/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/02/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/11/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/06/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/04/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/10/2019,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/24/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+05/31/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+06/30/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/20/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+07/27/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/24/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+08/26/2020,Jennifer Flannery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/02/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/10/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+09/22/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole
+10/04/2020,Jessica Flanery,Citizen Lake Monitoring - Water Quality - North White Ash Lake; Deep Hole

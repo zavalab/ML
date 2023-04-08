@@ -1,0 +1,101 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Twin Lakes,Marquette,103100,NE,39,,393137,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189906,07/10/2001,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189906,08/14/2001,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189906,08/26/2001,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189906,10/21/2001,5.5,YES,1.7,,,53,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189906,05/15/2002,4.5,YES,1.4,,,55,,,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+1,06/06/2002,,,,7,35,,56,50,,,,,
+8189906,06/12/2002,4.25,YES,1.3,,,56,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,07/11/2002,,,,15.5,32,,55,56,,,,,
+1,08/12/2002,,,,7.13,26,,53,50,,,,,
+8189906,08/19/2002,4,YES,1.2,,,57,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,02/27/2003,,,,,13,,48,,,,,,
+1,04/28/2003,,,,15.3,33,,55,55,,,,,
+1,06/05/2003,,,,7.99,37,,56,51,,,,,
+1,07/22/2003,,,,5.31,39,,57,47,,,,,
+1,08/21/2003,,,,6.65,24,,53,49,,,,,
+1,04/20/2004,,,,12.2,34,,55,54,,,,,
+1,06/22/2004,,,,12,40,,57,54,,,,,
+8188630,07/08/2004,,,,14.7,52,,59,55,,,,,
+1,08/23/2004,,,,14,51,,59,55,,,,,
+23143086,05/24/2008,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,
+23143086,06/14/2008,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,
+23143086,06/24/2008,3.3,NO,1,,,60,,,LOW,,MURKY,BROWN,
+23143086,07/06/2008,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,
+23143086,07/19/2008,3.25,NO,1,,,60,,,LOW,,MURKY,BROWN,
+23143086,06/14/2009,5.2,NO,1.6,,,53,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+23143086,05/07/2011,4,NO,1.2,,,57,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+1,04/30/2020,5.5,N,1.7,6.73,21,53,52,49,,,,,
+1,06/25/2020,2.7,NO,0.8,11.5,19.1,63,51,53,,,,,
+1,07/20/2020,5.2,NO,1.6,10.1,18.1,53,51,52,,,,,
+1,08/27/2020,3.3,NO,1,6,17.4,60,50,48,,,,,
+1,11/02/2020,7.8,N,2.4,1.93,18.2,48,51,40,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/30/2020,,,11.8,C,11.7,MG/L
+06/25/2020,,,23.8,C,10.6,MG/L
+07/20/2020,,,27.0,C,9.3,MG/L
+08/27/2020,,,26.5,C,9.8,MG/L
+11/02/2020,,,5.4,C,11.6,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/06/2002,TWIN LAKE- EAST TWIN    
+07/11/2002,TWIN LAKE- EAST TWIN    
+08/12/2002,TWIN LAKE- EAST TWIN    
+02/27/2003,TWIN LAKE- EAST TWIN    
+04/28/2003,TWIN LAKE- EAST TWIN    
+06/05/2003,TWIN LAKE- EAST TWIN    
+07/22/2003,TWIN LAKES- EAST TWIN    
+08/21/2003,TWIN LAKE- EAST TWIN    
+04/20/2004,TWIN LAKES- EAST TWIN    
+06/22/2004,TWIN LAKES- EAST TWIN    
+07/08/2004,TWIN LAKES- EAST TWIN    
+08/23/2004,TWIN LAKES- EAST TWIN    
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/2001,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+08/14/2001,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+08/26/2001,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+10/21/2001,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+05/15/2002,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+06/06/2002,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+06/12/2002,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+07/11/2002,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+08/12/2002,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+08/19/2002,Richard Marose,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+02/27/2003,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+04/28/2003,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+06/05/2003,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+07/22/2003,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+08/21/2003,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+04/20/2004,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+06/22/2004,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+07/08/2004,USGS,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+08/23/2004,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Appraisal + Leader Dev Phase 1a
+05/24/2008,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+06/14/2008,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+06/24/2008,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+07/06/2008,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+07/19/2008,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+06/14/2009,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+05/07/2011,Cameron Crombie,Citizen Lake Monitoring - Water Quality - East Twin Lake - Deep Hole
+04/30/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+06/25/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+07/20/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+08/27/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+11/02/2020,Data Collectors,TWIN LAKES CONSERVANCY INC: Twin Lakes Management Plan

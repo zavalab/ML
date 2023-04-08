@@ -1,0 +1,63 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Razorback Lake,Vilas,1013800,NO,64,,643098,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/23/1979,,,,,,,,,,,,,
+1,06/27/1989,,,,5,9,,45,47,,,,,
+1,07/19/1989,,,,5,11,,47,47,,,,,
+1,08/16/1989,,,,9,11,,47,51,,,,,
+1,08/30/1989,,,,7,14,,49,50,,,,,
+1,10/30/1989,,,,,,,,,,,,,
+1,05/07/2019,25.8,N,7.8,0.681,8.38,30,45,32,,,,,
+1,06/26/2019,16.1,NO,4.9,2.39,10.8,37,47,41,,,,,
+1,07/17/2019,13.1,NO,4,3.22,11.1,40,47,44,,,,,
+1,08/29/2019,,,,,,,,,,,,,
+129429270,08/29/2019,9.6,N,2.9,3.63,12.4,45,48,45,,,,,
+1,10/23/2019,9.1,NO,2.8,4.32,13.8,45,48,46,,,,,
+1,02/11/2020,9.1,N,2.8,,ND*,45,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/23/1979,,,24,C,,
+06/27/1989,,,15,C,2.5,MG/L
+07/19/1989,,,23.5,C,8.1,MG/L
+08/16/1989,,,16.5,C,0.2,MG/L
+08/30/1989,,,21.0,C,8.0,MG/L
+10/30/1989,,,9.5,C,9.3,MG/L
+05/07/2019,,,10.1,C,8.7,MG/L
+06/26/2019,,,15.3,C,0.7,MG/L
+07/17/2019,,,26.1,C,8.2,MG/L
+08/29/2019,,,19.3,C,8.1,MG/L
+10/23/2019,,,8.5,C,10.1,MG/L
+02/11/2020,,,0.7,C,1.9,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/2019,ZM Veliger: Negative; analyzed 5/18/2020 by RF; 50mL
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+06/27/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/19/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/16/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/30/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+10/30/1989,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/07/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+06/26/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+07/17/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/29/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/29/2019,Onterra- LLC,Bacteria + Plankton (Paid Private)
+08/29/2019,Onterra- LLC,DNR AIS Monitoring -Vilas County (Spiny Waterflea and Zebra Mussel Veliger Tows)
+10/23/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+02/11/2020,Data Collectors,Bacteria + Plankton (Paid Private)

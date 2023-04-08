@@ -1,0 +1,424 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mead Lake,Clark,2143900,WC,10,,103119,SW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189747,06/27/1996,2.5,NO,0.8,,,64,,,12 FEET,12,,BROWN,2-Very minor aesthetic problems
+8189747,07/13/1996,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189747,07/21/1996,2.25,NO,0.7,,,65,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8189747,08/03/1996,1.5,NO,0.5,,,71,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8189747,08/11/1996,1.25,NO,0.4,,,74,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8189747,08/25/1996,1.25,NO,0.4,,,74,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8189747,09/15/1996,1.25,NO,0.4,,,74,,,LOW,,,GREEN,4-Would not swim but boating OK (algae)
+8189747,09/29/1996,1.5,NO,0.5,,,71,,,NORMAL,,,GREEN,4-Would not swim but boating OK (algae)
+8189747,05/10/1997,2.75,NO,0.8,,,63,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189747,06/03/1997,2.75,NO,0.8,,,63,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189747,06/14/1997,2,NO,0.6,,,67,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8189747,06/28/1997,10,NO,3,,,44,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189747,07/14/1997,2.5,NO,0.8,,,64,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8189747,08/07/1997,2.5,NO,0.8,,,64,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189747,09/08/1997,2.5,NO,0.8,,,64,,,NO CHANGE,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189747,09/27/1997,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,06/07/1998,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189747,06/28/1998,2,NO,0.6,,,67,,,,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189747,07/12/1998,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189747,07/26/1998,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189747,08/16/1998,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189747,08/30/1998,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189747,05/22/1999,2.5,NO,0.8,,,64,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,06/05/1999,2.25,NO,0.7,,,65,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,06/19/1999,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189747,07/11/1999,1.5,NO,0.5,,,71,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189747,07/25/1999,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189747,05/23/2000,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,06/18/2000,2.25,NO,0.7,,,65,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,07/04/2000,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,07/23/2000,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189747,08/20/2000,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189747,09/10/2000,1,NO,0.3,,,77,,,NORMAL,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8189747,06/24/2001,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,07/22/2001,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,08/06/2001,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189747,08/19/2001,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189747,09/03/2001,1.25,NO,0.4,,,74,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189747,06/30/2002,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8189747,07/20/2002,1.75,NO,0.5,,,69,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189747,08/10/2002,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189747,08/25/2002,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189747,09/02/2002,2,NO,0.6,,,67,,,HIGH,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8188624,06/01/2003,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,06/29/2003,3.5,NO,1.1,,,59,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,07/13/2003,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,07/27/2003,3,NO,0.9,,,61,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,08/09/2003,2.25,NO,0.7,,,65,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,09/01/2003,2,NO,0.6,,,67,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,06/06/2004,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,
+8188624,06/20/2004,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,
+8188624,07/10/2004,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,
+8188624,07/25/2004,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,
+8188624,08/08/2004,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,
+8188624,09/06/2004,1.5,NO,0.5,,,71,,,LOW,,MURKY,GREEN,
+8188624,05/29/2005,2.75,NO,0.8,,,63,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,06/12/2005,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,07/02/2005,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,BROWN,
+8188624,07/17/2005,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,07/31/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,08/14/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,08/28/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,09/11/2005,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,05/28/2006,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,
+8188624,06/04/2006,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,
+8188624,07/16/2006,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,
+8188624,07/30/2006,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,
+8188624,08/07/2006,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,
+8188624,08/20/2006,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,
+8188624,09/03/2006,2.25,NO,0.7,,,65,,,NORMAL,,CLEAR,BROWN,
+8188624,05/28/2007,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,BROWN,
+8188624,06/24/2007,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,
+8188624,07/07/2007,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,
+8188624,07/22/2007,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,
+8188624,08/12/2007,1.25,NO,0.4,,,74,,,NORMAL,,MURKY,GREEN,
+8188624,09/02/2007,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,
+8188624,09/23/2007,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,
+8188624,05/25/2008,0,NO,0,,,,,,HIGH,,MURKY,BROWN,
+8188624,06/15/2008,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,07/04/2008,2,NO,0.6,,,67,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,07/26/2008,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,
+8188624,08/31/2008,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,09/28/2008,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,
+8188624,07/03/2009,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,08/02/2009,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,08/23/2009,1.75,NO,0.5,,,69,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,09/06/2009,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,04/28/2010,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,06/20/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,
+8188624,09/12/2010,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,05/31/2011,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,07/05/2011,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188624,08/16/2011,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,07/14/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,08/04/2012,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,03/23/2013,, ,,,,,,,,,,,
+8188624,06/06/2013,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,07/21/2013,2.5,NO,0.8,,,64,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,08/11/2013,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,03/21/2014,, ,,,,,,,,,,,
+8188624,04/11/2014,, ,,,,,,,,,,,
+8188624,04/20/2014,, ,,,,,,,,,,,
+8188624,04/27/2014,, ,,,,,,,,,,,
+8188624,05/26/2014,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,06/08/2014,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,07/05/2014,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,07/13/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8188624,08/16/2014,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,09/01/2014,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,11/13/2014,, ,,,,,,,,,,,
+8188624,11/23/2014,, ,,,,,,,,,,,
+8188624,02/01/2015,, ,,,,,,,,,,,
+8188624,03/14/2015,, ,,,,,,,,,,,
+8188624,03/21/2015,, ,,,,,,,,,,,
+8188624,04/04/2015,, ,,,,,,,,,,,
+8188624,04/18/2015,, ,,,,,,,,,,,
+8188624,05/25/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,05/31/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,06/14/2015,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,06/28/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,07/04/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,07/19/2015,2,NO,0.6,,,67,,,,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,08/02/2015,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,08/22/2015,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,08/23/2015,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,09/06/2015,2,NO,0.6,,,67,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,09/26/2015,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188624,05/15/2016,3,NO,0.9,,,61,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,06/05/2016,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,06/18/2016,2.5,NO,0.8,,,64,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,05/28/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,06/11/2017,1.5,NO,0.5,,,71,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,06/24/2017,2,YES,0.6,,,67,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,07/04/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,07/15/2017,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8188624,07/23/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,08/05/2017,2.5,YES,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,09/04/2017,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188624,05/26/2018,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,06/24/2018,2.25,NO,0.7,,,65,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8188624,05/31/2019,0.5,NO,0.2,,,87,,,HIGH,,MURKY,BROWN,
+8188624,06/13/2019,0.5,NO,0.2,,,87,,,HIGH,,MURKY,BROWN,
+8188624,06/28/2019,0,NO,0,,,,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,07/01/2019,3.5,NO,1.1,,,59,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,07/08/2019,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,07/21/2019,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,08/09/2019,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8188624,08/19/2019,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188624,09/01/2019,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188624,04/01/2020,,,,,,,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+
+
+
+Start Date,Fieldwork Comment
+07/13/1996,Algal blooms- lake starting to get green.    
+07/21/1996,Algal bloom -lake getting green.    
+08/03/1996,Algal blooms.    
+08/11/1996,Lake is low due to lack of rain.    
+08/25/1996,Lake is green.    
+09/15/1996,Algal blooms- lake level about 1' low.  Water level: very low.    
+09/29/1996,Algal blooms. 11/11/96: lake iced over.    
+05/10/1997,Ice off 4/5/97.  Lake is pretty clean.    
+06/03/1997,Lake pretty clean.    
+06/14/1997,Lake starting to green up.  A lot of dead fish on shore.    
+06/28/1997,Algae in small amounts.    
+07/14/1997,Lake pretty clean.    
+08/07/1997,Lake green.  Algal blooms.    
+06/01/2003,air temp.68 degrees clear and breezy
+    
+06/29/2003,air temp.76 degrees.partly cloudy and breezy.Alrea
+stating to bloom
+    
+07/13/2003,air temp. 76 degrees. partly cloudy winds 5-10 mph
+    
+07/27/2003,air temp 79 degrees partly cloudy + breezy obseved
+young blue herons + 4 sets of ducks with young
+    
+08/09/2003,air temp. 79 degrees bald eagle seen flying and
+catching fish seaweed floating
+    
+09/01/2003,air temp. 78 degrees pea green film on surface water
+down 1 to 2 feet either because of no rain and/or they are fixing the dam
+gates
+    
+06/06/2004,sunny- slight breeze- 74F- some debris is water    
+06/20/2004,68F- slight wind- cloudy- debris in water    
+07/10/2004,80F- slight breeze- mostly sunny- water very clear for this time of year    
+07/25/2004,65F- no wind- large pieces of algae floating    
+08/08/2004,76F breezy- cloudy- 1" of rain yesterday    
+09/06/2004,70F- breezy- cloudy- light mist on and off all day    
+06/12/2005,some clouds- 77 degrees- lots of dead fish floating in water    
+07/02/2005,partly cloudy- breezy- 78 degrees- starting to get a pea green film on parts of lake    
+07/17/2005,sunny- 91 degrees- slight breeze- no rain for about 16 days    
+07/31/2005,sunny- 90 degrees. slight breeze- no rain    
+08/14/2005,sunny 78 degrres- slight breeze- 3 1/2 inches of rain this week    
+08/28/2005,cloudy no breeze- 75 degrees- no rain this week    
+09/11/2005,sunny- breezy- 81 degrees- 2/10 inches of rain this week- leaves starting to change color    
+05/28/2006,90F- Crappy's and blue gills in shallows- water temp 76F- breezy- May orioles and hummingbirds back
+06/04/2006,74F- breezy; dead crappies floating; sunny- worm algae floating
+07/16/2006,86F- muggy- partly cloudy- 2 adult and six young canadian geese- at least 3 different sets of young geese- no blue herons seen on the lake- but seem to be in shallows by bridge and up river- no rain for 3 weeks
+08/07/2006,rain this week
+08/20/2006,74F- breezy- sunny
+09/03/2006,69F- breezy- sunny
+
+05/28/2007,76 F- sunny.  Gusty breeze.
+06/24/2007,74 F- sunny.  Slight breeze.
+07/07/2007,88 F- sunny.  Wind blowing.
+07/22/2007,74- mostly cloudy- some wind.
+08/12/2007,80 F- sunny- north wind.
+09/02/2007,80 F- clear- sunny.  10 mph wind.
+09/23/2007,75 F- clear- sunny.  Slight breeze.
+05/25/2008,Secchi dish no reading water high very windy water temp 63 degrees partly cloudy Secchi dish no reading water high very windy water temp 63 degrees partly cloudy-.80 inches of rain
+06/15/2008,70 degrees -mostly sunny - north wind
+07/04/2008,Month of june rainy could not get good readings. 75 degrees -no wind -sunny
+07/26/2008,76 degrees- sunny - some wind
+08/31/2008,75 degrees- sunny - some wind green scum on water
+09/28/2008,54 degrees- cloudy- east wind
+07/03/2009,mostly sunny- some wind- water has a green scum on top mostly sunny- some wind- water has a green scum on top- 74 degrees out
+08/02/2009,water fairly clear- fish starting to bite again- seen three pigeon hawks.
+08/23/2009,Sunny- some wind-frog pond scum in lake because of rain- about 5" rain within the last 2 weeks
+09/06/2009,water turning green- lots of frog pond weeds in the water because of rain water turning green- lots of frog pond weeds in the water because of rain-  temp. 75 degrees- partly sunny- some wind
+04/28/2010,ice gone on lake hummingbirds- oriels- mergansers- and geesenare back. Seen an osprey flying over lake- rose-breasted grosbeaks back on 5/16 
+06/20/2010,1 1/2" rain this week
+09/12/2010,74 degrees- sunny -some wind- frog pond algea floating on top- seen young bald eagle- seen commerants on lake
+05/31/2011,3 sets of Canadian Geese with at least 5 young each- humming birds back4/11/11- oriels back 4/4/11. Not as many comerants or mergansers seen on the lake this spring.Fish spawning late this year.Lake temp. 6/1/11 57 degrees
+07/05/2011,sunny- warm - slight breeze - very nice out
+08/16/2011,seen 2 commarents on lake all geese are gone water has more of a grrn film on top
+07/14/2012,Very hot and humid- upper 90's- 
+08/04/2012,mostly cloudy- 036" rain- some breeze- high 79 degrees
+8/5: sunny -breezy- high 66 degrees
+03/21/2014,Canadian geese on lake- a little rain and breezy
+04/11/2014,ice gong out- mergansers back
+04/20/2014,Loon on lake- pelican seen flying over lake- 62 degrees- cloudy some wind
+04/27/2014,cloudy -windy with rain- cormorants seen on lake
+05/26/2014,water temp 71 degrees- cloudy -warm - no wind- 70 degrees
+06/08/2014,72 degrees - sunny 
+07/05/2014,Sunny - slight breeze- humid
+07/13/2014,sunny -some breeze- humid
+08/16/2014,81 degrees- hot and humid- some sprinkles in the afternoon- wind picking up
+09/01/2014,sunny -hot- 80 degrees
+11/13/2014,lake froze over- couple of inches of snow on ground
+11/23/2014,46 degrees- very foggy- people starting to ice fish this week
+02/01/2015,11 degrees- cold- windy- about 14 to 18 inches of ice on lake
+03/14/2015,about 50 degrees- seen robin and Canadian geese people still ice fishing
+03/21/2015,28 degrees- sunny- no wind- about 3 to 6 inches of ice
+04/18/2015,nice out -sunny with some wind - heard a loon
+05/25/2015,cloudy and windy about 3 1/4" of rain
+05/31/2015,found dead adult Canada goose- some dead crappies 
+05/28/2017,Orieles and hummingbirds back at beginning of month. Canadian geese and mergansers back also. Saw a Trumpiter swan also.
+05/26/2018,Water very nice- Hummingbirds- Orioles- and Canadian geese back. Seen a Trumpeter swan- A pair of pie billed ducks- not as many comorants or mergansers ducks this year. Ice off 4-15-2018 but weather fairly cold. Nice day out on 5-26-2018 high around 90 Degrees slight breeze 
+06/24/2018,Nice day out breezy with lots of sun. Water a little higher than normal. About 7" of rain this week a lot of debris in water.
+05/31/2019,Lots of rain. Water high and muddy. cannot do Secchi reading.
+06/13/2019,Canadian geese- mergansers and comerants back. Hummingbirds and orieles back. Lots of rain water level high and very muddy.
+06/28/2019,Spotted a flock of pelicans swimming on the lake.
+07/01/2019,Very nice out no rain slight breeze
+04/01/2020,Ice gone from the lake. Water level normal. 
+
+
+
+
+Start Date,Group Name,Project Name
+06/27/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/13/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/21/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/03/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/11/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/25/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/15/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/29/1996,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/10/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/03/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/14/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/28/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/14/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/07/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/08/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/27/1997,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/07/1998,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/28/1998,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/12/1998,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/26/1998,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/16/1998,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/30/1998,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/22/1999,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/05/1999,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/19/1999,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/11/1999,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/25/1999,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/23/2000,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/18/2000,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/04/2000,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/23/2000,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/20/2000,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/10/2000,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/24/2001,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/22/2001,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/06/2001,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/19/2001,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/03/2001,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/30/2002,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/20/2002,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/10/2002,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/25/2002,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/02/2002,John Pernsteiner,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/01/2003,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/29/2003,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/13/2003,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/27/2003,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/09/2003,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/01/2003,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/06/2004,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/20/2004,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/10/2004,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/25/2004,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/08/2004,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/06/2004,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/29/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/12/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/02/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/17/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/31/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/14/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/28/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/11/2005,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/28/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/04/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/16/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/30/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/07/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/20/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/03/2006,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/28/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/24/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/07/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/22/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/12/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/02/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/23/2007,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/25/2008,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/15/2008,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/04/2008,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/26/2008,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/31/2008,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/28/2008,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/03/2009,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/02/2009,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/23/2009,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/06/2009,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/28/2010,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/20/2010,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/12/2010,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/31/2011,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/05/2011,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/16/2011,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/14/2012,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/04/2012,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+03/23/2013,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/06/2013,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/21/2013,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/11/2013,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+03/21/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/11/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/20/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/27/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/26/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/08/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/05/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/13/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/16/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/01/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+11/13/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+11/23/2014,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+02/01/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+03/14/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+03/21/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/04/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/18/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/25/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/31/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/14/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/28/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/04/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/19/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/02/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/22/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/23/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/06/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/26/2015,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/15/2016,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/05/2016,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/18/2016,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/28/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/11/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/24/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/04/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/15/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/23/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/05/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/04/2017,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/26/2018,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/24/2018,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+05/31/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/13/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+06/28/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/01/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/08/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+07/21/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/09/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+08/19/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+09/01/2019,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole
+04/01/2020,Brad Zepplin,Citizen Lake Monitoring - Water Quality - Mead Lake; Deep Hole

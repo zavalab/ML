@@ -1,0 +1,277 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lulu Lake,Shawano,324000,NE,59,,10043650,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+118430898,06/02/2015,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+118430898,07/07/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+118430898,08/08/2015,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+118430898,08/27/2015,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+118430898,06/08/2016,7,NO,2.1,,,49,,,HIGH,,,BLUE,2-Very minor aesthetic problems
+125862804,06/16/2016,,,,7.88,24.2,,53,50,,,,,
+118430898,07/18/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+118430898,08/10/2016,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,08/29/2016,,,,4.79,22.7,,52,47,,,,,
+1,05/19/2017,,,,,,,,,,,,,
+1,05/21/2017,,,,,,,,,,,,,
+1,05/23/2017,,,,,,,,,,,,,
+1,05/25/2017,,,,,,,,,,,,,
+1,06/01/2017,,,,,,,,,,,,,
+1,06/08/2017,,,,,,,,,,,,,
+1,06/15/2017,,,,,,,,,,,,,
+18137035,06/19/2017,6,N,1.8,5.99,24.8,51,53,48,,,,,
+118430898,06/19/2017,6,NO,1.8,,,51,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+118430898,07/28/2017,7,NO,2.1,7.9,21.6,49,52,50,HIGH,,,GREEN,2-Very minor aesthetic problems
+148112004,08/17/2017,9,,2.7,,,45,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118430898,08/29/2017,7,NO,2.1,4.17,17.6,49,50,46,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+118430898,05/23/2018,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118430898,06/22/2018,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+118430898,07/23/2018,6.5,NO,2,,,50,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+118430898,08/25/2018,7,NO,2.1,,,49,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+143167470,08/25/2018,7,N,2.1,3.61,14.8,49,49,45,,,,,
+118430898,09/26/2018,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+1,04/18/2019,8.7,N,2.6,3.09,14.1,46,49,43,,,,,
+1,05/26/2019,12,N,3.6,,14.8,41,49,,,,,,
+118430898,05/26/2019,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/23/2019,9,NO,2.7,5.81,13.1,45,48,48,,,,,
+118430898,06/23/2019,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/11/2019,9.8,NO,3,2.26,12.7,44,48,41,,,,,
+1,07/22/2019,7.6,NO,2.3,3.35,14.5,48,49,44,,,,,
+118430898,07/22/2019,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,08/25/2019,6.5,NO,2,10.4,16.7,50,50,53,,,,,
+118430898,08/25/2019,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,10/30/2019,11.2,N,3.4,,11.7,42,47,,,,,,
+1,02/04/2020,8.3,10,2.5,,ND*,47,,,,,,,
+118430898,05/20/2020,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+118430898,06/23/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+143167470,07/21/2020,,,,22.9,20,,51,58,,,,,
+118430898,07/22/2020,6.5,NO,2,,,50,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+118430898,08/24/2020,7,NO,2.1,,,49,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+143167470,08/24/2020,,,,8.07,22.9,,52,51,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/02/2015,1,FEET,69.2,DEGREES F,,
+06/02/2015,3,FEET,68.7,DEGREES F,,
+06/02/2015,6,FEET,66.2,DEGREES F,,
+06/02/2015,9,FEET,65,DEGREES F,,
+06/02/2015,12,FEET,64,DEGREES F,,
+06/02/2015,15,FEET,62,DEGREES F,,
+06/02/2015,18,FEET,62.2,DEGREES F,,
+07/07/2015,1,FEET,75.3,DEGREES F,,
+07/07/2015,3,FEET,75.2,DEGREES F,,
+07/07/2015,6,FEET,73.5,DEGREES F,,
+07/07/2015,9,FEET,72.8,DEGREES F,,
+07/07/2015,12,FEET,71.5,DEGREES F,,
+07/07/2015,15,FEET,67.4,DEGREES F,,
+07/07/2015,18,FEET,67.2,DEGREES F,,
+08/27/2015,1,FEET,66.9,DEGREES F,,
+08/27/2015,3,FEET,66,DEGREES F,,
+08/27/2015,6,FEET,65.6,DEGREES F,,
+08/27/2015,9,FEET,64.9,DEGREES F,,
+08/27/2015,12,FEET,64.4,DEGREES F,,
+08/27/2015,15,FEET,64.7,DEGREES F,,
+08/27/2015,18,FEET,64.7,DEGREES F,,
+06/08/2016,1,FEET,70.8,DEGREES F,,
+06/08/2016,3,FEET,70.7,DEGREES F,,
+06/08/2016,6,FEET,67.2,DEGREES F,,
+06/08/2016,9,FEET,66,DEGREES F,,
+06/08/2016,12,FEET,61.5,DEGREES F,,
+06/08/2016,15,FEET,58.4,DEGREES F,,
+06/08/2016,18,FEET,58.2,DEGREES F,,
+07/18/2016,3,FEET,76.2,DEGREES F,,
+07/18/2016,6,FEET,74.6,DEGREES F,,
+07/18/2016,9,FEET,73.4,DEGREES F,,
+07/18/2016,12,FEET,69.6,DEGREES F,,
+07/18/2016,15,FEET,66.5,DEGREES F,,
+07/18/2016,18,FEET,65.6,DEGREES F,,
+08/10/2016,3,FEET,80.6,DEGREES F,,
+08/10/2016,6,FEET,79.5,DEGREES F,,
+08/10/2016,9,FEET,76.2,DEGREES F,,
+08/10/2016,12,FEET,71.6,DEGREES F,,
+08/10/2016,15,FEET,66.2,DEGREES F,,
+08/10/2016,18,FEET,66,DEGREES F,,
+05/19/2017,,,19.9,C,,
+05/21/2017,,,14.2,C,,
+05/23/2017,,,14.1,C,,
+05/25/2017,,,14.3,C,,
+06/01/2017,,,18.1,C,,
+06/08/2017,,,24.4,C,,
+06/15/2017,,,24.1,C,,
+06/19/2017,3,FEET,75.5,DEGREES F,,
+06/19/2017,6,FEET,74.6,DEGREES F,,
+06/19/2017,9,FEET,70.8,DEGREES F,,
+06/19/2017,12,FEET,64.9,DEGREES F,,
+06/19/2017,15,FEET,61.1,DEGREES F,,
+06/19/2017,,,21.5,C,,
+07/28/2017,3,FEET,78,DEGREES F,,
+07/28/2017,6,FEET,76.2,DEGREES F,,
+07/28/2017,9,FEET,74.4,DEGREES F,,
+07/28/2017,12,FEET,70.8,DEGREES F,,
+07/28/2017,15,FEET,67.8,DEGREES F,,
+08/17/2017,3,FEET,24.09,DEGREES C,7.54,MG/L
+08/17/2017,6,FEET,22.8,DEGREES C,7.72,MG/L
+08/17/2017,9,FEET,21.32,DEGREES C,1.98,MG/L
+08/17/2017,12,FEET,19.14,DEGREES C,0,MG/L
+08/17/2017,15,FEET,18.74,DEGREES C,0,MG/L
+08/29/2017,3,FEET,68.3,DEGREES F,,
+08/29/2017,6,FEET,67.2,DEGREES F,,
+08/29/2017,9,FEET,66.2,DEGREES F,,
+08/29/2017,12,FEET,65.8,DEGREES F,,
+08/29/2017,15,FEET,65.3,DEGREES F,,
+05/23/2018,3,FEET,70.5,DEGREES F,,
+05/23/2018,6,FEET,64.5,DEGREES F,,
+05/23/2018,9,FEET,61.8,DEGREES F,,
+05/23/2018,12,FEET,58.4,DEGREES F,,
+05/23/2018,15,FEET,54.6,DEGREES F,,
+06/22/2018,3,FEET,75.2,DEGREES F,,
+06/22/2018,6,FEET,74.1,DEGREES F,,
+06/22/2018,9,FEET,72.3,DEGREES F,,
+06/22/2018,12,FEET,69.2,DEGREES F,,
+06/22/2018,15,FEET,64.7,DEGREES F,,
+07/23/2018,3,FEET,75.5,DEGREES F,,
+07/23/2018,6,FEET,74.1,DEGREES F,,
+07/23/2018,9,FEET,73.4,DEGREES F,,
+07/23/2018,12,FEET,71.2,DEGREES F,,
+08/25/2018,3,FEET,71.7,DEGREES F,,
+08/25/2018,6,FEET,70.8,DEGREES F,,
+08/25/2018,9,FEET,70.7,DEGREES F,,
+08/25/2018,12,FEET,69.8,DEGREES F,,
+08/25/2018,15,FEET,68.6,DEGREES F,,
+08/25/2018,,,21.7,C,,
+09/26/2018,3,FEET,63.6,DEGREES F,,
+09/26/2018,6,FEET,63.6,DEGREES F,,
+09/26/2018,9,FEET,63.6,DEGREES F,,
+09/26/2018,12,FEET,62.4,DEGREES F,,
+04/18/2019,,,8.6,C,11.5,MG/L
+05/26/2019,3,FEET,68.3,DEGREES F,,
+05/26/2019,6,FEET,63.1,DEGREES F,,
+05/26/2019,9,FEET,58.8,DEGREES F,,
+05/26/2019,12,FEET,55.7,DEGREES F,,
+05/26/2019,15,FEET,53.6,DEGREES F,,
+05/26/2019,,,20.17,C,,
+06/23/2019,3,FEET,73.2,DEGREES F,,
+06/23/2019,6,FEET,72.8,DEGREES F,,
+06/23/2019,9,FEET,69.8,DEGREES F,,
+06/23/2019,12,FEET,66.2,DEGREES F,,
+06/23/2019,15,FEET,62.4,DEGREES F,,
+06/23/2019,,,21.1,C,,
+07/11/2019,,,19.3,C,0.6,MG/L
+07/22/2019,3,FEET,78.2,DEGREES F,,
+07/22/2019,6,FEET,76.4,DEGREES F,,
+07/22/2019,9,FEET,74.4,DEGREES F,,
+07/22/2019,12,FEET,68.5,DEGREES F,,
+07/22/2019,15,FEET,66.5,DEGREES F,,
+07/22/2019,,,24.7,C,,
+08/25/2019,3,FEET,71.6,DEGREES F,,
+08/25/2019,6,FEET,69.6,DEGREES F,,
+08/25/2019,9,FEET,68.3,DEGREES F,,
+08/25/2019,12,FEET,67.2,DEGREES F,,
+08/25/2019,15,FEET,64.9,DEGREES F,,
+08/25/2019,,,20.9,C,,
+10/30/2019,,,6.9,C,9.1,MG/L
+02/04/2020,,,3.6,C,0.6,MG/L
+05/20/2020,3,FEET,63.1,DEGREES F,,
+05/20/2020,6,FEET,57.5,DEGREES F,,
+05/20/2020,9,FEET,54.8,DEGREES F,,
+05/20/2020,12,FEET,53.4,DEGREES F,,
+05/20/2020,15,FEET,51.6,DEGREES F,,
+06/23/2020,3,FEET,74.1,DEGREES F,,
+06/23/2020,6,FEET,71.7,DEGREES F,,
+06/23/2020,9,FEET,66.5,DEGREES F,,
+06/23/2020,12,FEET,61.1,DEGREES F,,
+06/23/2020,15,FEET,60.2,DEGREES F,,
+07/22/2020,3,FEET,78.8,DEGREES F,,
+07/22/2020,6,FEET,76.4,DEGREES F,,
+07/22/2020,9,FEET,72.3,DEGREES F,,
+07/22/2020,12,FEET,65.4,DEGREES F,,
+07/22/2020,15,FEET,60.8,DEGREES F,,
+08/24/2020,3,FEET,77.3,DEGREES F,,
+08/24/2020,6,FEET,75.7,DEGREES F,,
+08/24/2020,9,FEET,73.2,DEGREES F,,
+08/24/2020,12,FEET,68.3,DEGREES F,,
+08/24/2020,15,FEET,62.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/07/2015,Sunny nice day
+08/08/2015,Temperature gage not working. 60% cloudy lake looks good even caught an 18" northern.
+08/27/2015,Lake like glass no wind 90% sun . Using new temperature gage.  
+06/08/2016,Nice sunny day- caught a 15" northern.
+08/10/2016,Nice calm day 40% sunny Nice calm day 40% sunny
+06/19/2017,cloudy windy day- lots of rain before.
+07/28/2017,Nice partly sunny day.
+08/29/2017,80% sunny 80% sunny
+05/23/2018,Nice sunny day temp 83F
+06/22/2018,Partly sunny 70% nice breeze
+07/23/2018,nice day 70% sunny some floating plants
+08/25/2018,90% cloudy 
+09/26/2018,windy day windy all day- 80% sunny Windy all day-80% sunny.
+05/26/2019,Calm- partly sunny
+06/23/2019,Seen loon with one baby chick on it's back- windy 20% sun. Lots of milfoil. Also one heron.
+.
+07/22/2019,Very nice sunny day. 
+08/25/2019,Lots of floating Milfoil south end.
+05/20/2020,Sunny no clouds- nice day. 
+06/23/2020,70% cloudy and windy.   Lots of Milfoil. 70% cloudy and windy.   Lots of Milfoil.
+07/22/2020,cloudy day- lots of milfoil.
+
+
+
+
+Start Date,Group Name,Project Name
+06/02/2015,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/07/2015,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/08/2015,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/27/2015,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+06/08/2016,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+06/16/2016,Brenda L Nordin- TRAVIS J KINNING,Directed Lakes 2016 Nordin
+07/18/2016,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/10/2016,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/29/2016,Data Collectors,Directed Lakes 2015
+05/19/2017,Data Collectors,Herbicide Concentration Monitoring
+05/21/2017,Data Collectors,Herbicide Concentration Monitoring
+05/23/2017,Data Collectors,Herbicide Concentration Monitoring
+05/25/2017,Data Collectors,Herbicide Concentration Monitoring
+06/01/2017,Data Collectors,Herbicide Concentration Monitoring
+06/08/2017,Data Collectors,Herbicide Concentration Monitoring
+06/15/2017,Data Collectors,Herbicide Concentration Monitoring
+06/19/2017,Brenda Nordin,East Proposed Projects 2016
+06/19/2017,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/28/2017,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/28/2017,Richard Wisneski,East Proposed Projects 2016
+08/17/2017,Brenda L Nordin- BRIAN D ZALAY,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/29/2017,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/29/2017,Richard Wisneski,East Proposed Projects 2016
+05/23/2018,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+06/22/2018,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/23/2018,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/25/2018,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/25/2018,ZANA SIJAN,
+09/26/2018,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+04/18/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+05/26/2019,Data Collectors,Response Monitoring
+05/26/2019,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+06/23/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+06/23/2019,Data Collectors,Response Monitoring
+06/23/2019,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/11/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+07/22/2019,Data Collectors,Response Monitoring
+07/22/2019,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/25/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+08/25/2019,Data Collectors,Response Monitoring
+08/25/2019,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+10/30/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+02/04/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+05/20/2020,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+06/23/2020,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/21/2020,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+07/22/2020,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/24/2020,Richard Wisneski,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole
+08/24/2020,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Lulu Lake - Deep Hole

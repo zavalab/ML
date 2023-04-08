@@ -1,0 +1,483 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Puckaway Lake,Green Lake,158700,NE,24,,243039,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191150,07/16/1996,2.5,NO,0.8,,,64,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191150,07/25/1996,2.75,NO,0.8,,,63,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,08/01/1996,2.75,NO,0.8,,,63,,,,,MURKY,GREEN,1-Beautiful, could not be nicer
+8191150,08/07/1996,1.5,NO,0.5,,,71,,,,,MURKY,GREEN,2-Very minor aesthetic problems
+8191150,08/17/1996,2.5,NO,0.8,,,64,,,,,,GREEN,2-Very minor aesthetic problems
+8191150,08/30/1996,2,NO,0.6,,,67,,,,,,GREEN,2-Very minor aesthetic problems
+8191150,09/11/1996,1.75,NO,0.5,,,69,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,09/24/1996,2,NO,0.6,,,67,,,,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,06/10/1997,4.5,NO,1.4,,,55,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8191150,06/17/1997,3,NO,0.9,,,61,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,06/25/1997,1.5,NO,0.5,,,71,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191150,07/10/1997,2,NO,0.6,,,67,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191150,09/02/1997,1.5,NO,0.5,,,71,,,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191150,09/04/1997,2.75,NO,0.8,,,63,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191150,09/17/1997,2.25,NO,0.7,,,65,,,NO CHANGE,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,09/22/1997,2,NO,0.6,,,67,,,,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,10/01/1997,2,NO,0.6,,,67,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8191150,10/10/1997,2,NO,0.6,,,67,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191150,10/17/1997,2.5,NO,0.8,,,64,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,06/20/1998,2.75,NO,0.8,,,63,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,07/09/1998,3,NO,0.9,,,61,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,07/19/1998,1,NO,0.3,,,77,,,,,CLEAR,,3-Enjoyment somewhat impaired (algae)
+8191150,07/30/1998,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,08/07/1998,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,08/14/1998,2,NO,0.6,,,67,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,08/20/1998,1.5,NO,0.5,,,71,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,08/31/1998,1.75,NO,0.5,,,69,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191150,06/25/1999,5,YES,1.5,,,54,,,NO CHANGE,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191150,07/05/1999,3.5,YES,1.1,,,59,,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191150,07/16/1999,2,YES,0.6,,,67,,,,,CLEAR,,2-Very minor aesthetic problems
+8191150,07/30/1999,2,YES,0.6,,,67,,,,,CLEAR,,1-Beautiful, could not be nicer
+8191150,08/28/1999,3,YES,0.9,,,61,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191150,07/13/2000,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191150,08/14/2000,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191150,08/21/2000,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191150,08/30/2000,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191150,09/08/2000,2,NO,0.6,,,67,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8191150,09/15/2000,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191150,10/01/2000,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,10/14/2000,2.5,NO,0.8,,,64,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,08/01/2001,1.5,NO,0.5,,,71,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191150,08/07/2001,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191150,09/11/2001,2,NO,0.6,,,67,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191150,10/05/2001,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191150,06/29/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191150,07/13/2002,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191150,07/26/2002,1.75,NO,0.5,,,69,,,LOW,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8191150,08/02/2002,1.25,NO,0.4,,,74,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191150,09/02/2002,1.25,NO,0.4,,,74,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,09/18/2002,1.5,NO,0.5,,,71,,,LOW,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8191150,09/24/2002,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8191150,06/20/2003,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191150,07/22/2003,2,NO,0.6,,,67,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,08/07/2003,1.5,NO,0.5,,,71,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+7000091,08/14/2003,2.6,NO,0.8,,,63,,,,,,,
+8191150,08/23/2003,1.75,NO,0.5,,,69,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191150,09/08/2003,2,NO,0.6,,,67,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191150,09/24/2003,2,NO,0.6,,,67,,,NORMAL,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8188749,05/15/2004,3.25,NO,1,,,60,,,HIGH,6.3,CLEAR,BROWN,2-Very minor aesthetic problems
+8188749,05/16/2004,3,NO,0.9,,63,61,60,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188749,06/02/2004,4.5,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188749,06/06/2004,5,NO,1.5,25.5,146,54,67,59,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188749,07/05/2004,4.75,NO,1.4,,,55,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188749,07/13/2004,3.75,NO,1.1,29.1,151,58,67,60,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188749,08/06/2004,2.75,NO,0.8,,,63,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188749,08/15/2004,3.5,NO,1.1,55.9,98,59,64,65,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188749,08/29/2004,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188749,09/09/2004,2.5,NO,0.8,,,64,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188749,10/02/2004,1.75,NO,0.5,,149,69,67,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,04/21/2005,,,,,91,,63,,,,,,
+8188630,04/21/2005,,,,31.8,111,,65,61,,,,,
+8188630,06/20/2005,,,,73.4,132,,66,67,,,,,
+8191150,07/11/2005,1,NO,0.3,,,77,,,LOW,1.6,MURKY,GREEN,2-Very minor aesthetic problems
+1,07/18/2005,,,,174,309,,73,74,,,,,
+8188630,07/18/2005,,,,168,313,,73,74,,,,,
+8191150,07/19/2005,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191150,08/04/2005,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191150,08/12/2005,1,NO,0.3,,,77,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188630,08/22/2005,,,,53.1,166,,68,65,,,,,
+8191150,09/05/2005,1,NO,0.3,,,77,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8191150,09/13/2005,1.5,NO,0.5,,,71,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8191150,09/21/2005,1,NO,0.3,,,77,,,LOW,1681.22,MURKY,BROWN,4-Would not swim but boating OK (algae)
+1,04/18/2006,,,,65.1,101,,64,66,,,,,
+8188630,06/29/2006,,,,25.9,74,,61,59,,,,,
+8188630,07/27/2006,,,,39.2,93,,63,63,,,,,
+1,09/07/2006,,,,30.3,81,,62,61,,,,,
+8188630,04/24/2007,,,,54.9,85,,63,65,,,,,
+8188630,06/21/2007,,,,63.8,140,,66,66,,,,,
+8188630,07/24/2007,,,,51.6,,,,65,,,,,
+8188630,09/13/2007,,,,30.8,104,,64,61,,,,,
+7000091,07/09/2009,1.8,NO,0.5,58.6,169,69,68,66,,,,,
+7000091,07/31/2009,1.5,YES,0.5,54.7,204,71,69,65,,,,,
+7000091,09/03/2009,1,NO,0.3,82.5,185,77,69,68,,,,,
+7000091,09/23/2009,1.3,NO,0.4,62.1,125,73,66,66,,,,,
+21987428,06/02/2011,1.5,NO,0.5,41,112,71,65,63,,,,,
+21987428,06/14/2011,1.5,NO,0.5,91.4,173,71,68,69,,,,,
+21987428,06/30/2011,2.1,NO,0.6,70.8,107,66,64,67,,,,,
+21987428,07/14/2011,1.5,NO,0.5,96.3,182,71,68,69,,,,,
+33490934,07/31/2011,1.42,NO,0.4,84.9,150,72,67,68,,,,,
+21987428,08/15/2011,1.83,NO,0.6,80.3,124,68,65,68,,,,,
+21987428,08/31/2011,1.08,NO,0.3,118,154,76,67,71,,,,,
+21987428,05/10/2012,3.9,NO,1.2,45.4,84,58,62,64,,,,,
+21987428,06/04/2012,4.6,NO,1.4,17.2,104,55,64,56,,,,,
+21987428,06/19/2012,1.33,N,0.4,38.6,118,73,65,62,,,,,
+21987428,07/02/2012,1.75,NO,0.5,109,154,69,67,70,,,,,
+21987428,07/17/2012,0.92,NO,0.3,108,246,78,71,70,,,,,
+21987428,08/23/2012,1.5,NO,0.5,52.1,115,71,65,65,,,,,
+21987428,09/06/2012,1.58,NO,0.5,29.3,101,71,64,60,,,,,
+21987428,09/18/2012,1.67,NO,0.5,34.3,114,70,65,62,,,,,
+21987428,10/02/2012,2.83,NO,0.9,24.9,49,62,58,59,,,,,
+21987428,10/21/2012,2.91,,0.9,26.6,40,62,57,60,,,,,
+21987428,11/15/2012,4.08,NO,1.2,15.6,42,57,57,56,,,,,
+21987428,04/20/2013,3.33,N,1,49.1,32,60,55,64,,,,,
+21987428,05/14/2013,2.6,NO,0.8,33.4,103,63,64,61,,,,,
+21987428,06/03/2013,4.83,N,1.5,13.3,69.2,54,61,54,,,,,
+21987428,06/16/2013,4.3,N,1.3,37.8,67.2,56,61,62,,,,,
+21987428,07/01/2013,3.2,N,1,92.5,138,60,66,69,,,,,
+21987428,07/15/2013,5.9,N,1.8,26.5,74.6,52,62,60,,,,,
+21987428,08/04/2013,4.4,NO,1.3,16.1,84.9,56,63,56,,,,,
+21987428,08/18/2013,4.4,NO,1.3,59.8,93.7,56,63,66,,,,,
+21987428,09/03/2013,1.5,N,0.5,154,206,71,69,73,,,,,
+21987428,09/24/2013,2.2,NO,0.7,82.6,82,66,62,68,,,,,
+21987428,10/08/2013,1.83,N,0.6,102,108,68,64,70,,,,,
+21987428,04/17/2014,3.1,N,0.9,80.2,79.6,61,62,68,,,,,
+21987428,05/14/2014,4,N,1.2,32.9,70,57,61,61,,,,,
+21987428,05/28/2014,7.3,Y,2.2,61.6,127,48,66,66,,,,,
+21987428,06/10/2014,2.7,N,0.8,77,99.6,63,64,68,,,,,
+21987428,06/26/2014,3.2,N,1,13.8,108,60,64,55,,,,,
+21987428,07/13/2014,2.8,N,0.9,43.6,115,62,65,63,,,,,
+21987428,07/23/2014,2.6,NO,0.8,34.7,148,63,67,62,,,,,
+21987428,08/08/2014,2.1,,0.6,45.8,161,66,67,64,,,,,
+21987428,08/25/2014,1.9,N,0.6,35.9,112,68,65,62,,,,,
+21987428,09/11/2014,1.9,N,0.6,43.3,119,68,65,63,,,,,
+21987428,09/24/2014,3.5,N,1.1,15.7,52.2,59,59,56,,,,,
+21987428,10/08/2014,1.5,N,0.5,78.4,171,71,68,68,,,,,
+21987428,10/22/2014,3.5,N,1.1,62.8,51.4,59,59,66,,,,,
+21987428,11/07/2014,2.9,NO,0.9,42.8,55.9,62,59,63,,,,,
+130849168,04/15/2015,2.8,N,0.9,18.1,70.1,62,61,57,,,,,
+130839546,06/15/2015,5.2,N,1.6,16,75.7,53,62,56,,,,,
+16073539,07/21/2015,2.1,N,0.6,44.8,135,66,66,64,,,,,
+34972241,09/01/2015,1.2,NO,0.4,34.2,56.3,74,59,62,,,,,
+34972236,10/14/2015,2,NO,0.6,36,93.8,67,63,62,,,,,
+34972236,02/17/2016,5.4,YES,1.6,,39,53,57,,,,,,
+34972236,04/19/2016,2.8,N,0.9,21.1,61.9,62,60,58,,,,,
+16073539,06/28/2016,2.4,N,0.7,59.5,89.5,65,63,66,,,,,
+21928796,07/25/2016,2.1,N,0.6,65.5,95.4,66,63,66,,,,,
+160639170,08/15/2016,1.1,N,0.3,119,98.1,76,64,71,,,,,
+129429270,10/19/2016,2.1,NO,0.6,63.5,96.5,66,64,66,,,,,
+34972236,02/08/2017,5.8,NO,1.8,,68.2,52,61,,,,,,
+1,04/22/2020,2.7,N,0.8,26.7,45.2,63,58,60,,,,,
+1,06/10/2020,3.7,NO,1.1,19.5,94,58,63,57,,,,,
+1,07/20/2020,3.6,NO,1.1,25.4,102,59,64,59,,,,,
+1,08/31/2020,3.8,NO,1.2,35.8,71.8,58,61,62,,,,,
+1,10/26/2020,6.7,N,2,6.75,24.5,50,53,49,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/16/2004,2,FEET,61.5,DEGREES F,11,MG/L
+05/16/2004,4,FEET,61.1,DEGREES F,9,MG/L
+06/06/2004,2,FEET,69.6,DEGREES F,10.5,MG/L
+06/06/2004,4,FEET,68,DEGREES F,11.7,MG/L
+07/13/2004,2,FEET,75,DEGREES F,9.8,MG/L
+07/13/2004,4,FEET,73.2,DEGREES F,10.4,MG/L
+08/15/2004,2,FEET,66.9,DEGREES F,15,MG/L
+08/15/2004,4,FEET,65.7,DEGREES F,14.7,MG/L
+10/02/2004,2,FEET,56.6,DEGREES F,11.6,MG/L
+10/02/2004,4,FEET,57.2,DEGREES F,7.8,MG/L
+07/09/2009,,,23.3,C,8.6,MG/L
+09/03/2009,,,21.4,C,,
+06/02/2011,,,18.9,C,7.1,MG/L
+06/14/2011,,,21.5,C,9.4,MG/L
+06/30/2011,,,26.8,C,11.6,MG/L
+07/14/2011,,,25.2,C,6.4,MG/L
+07/31/2011,,,27.4,C,10.0,MG/L
+08/15/2011,,,24.3,C,11.4,MG/L
+08/31/2011,,,23.2,C,8.9,MG/L
+05/10/2012,,,17.8,C,10.3,MG/L
+06/04/2012,,,21.4,C,5.67,MG/L
+06/19/2012,,,26.8,C,10.1,MG/L
+07/02/2012,,,29.5,C,12.9,MG/L
+07/17/2012,,,29.2,C,8.13,MG/L
+08/23/2012,,,22.8,C,8.86,MG/L
+09/06/2012,,,24.4,C,8.10,MG/L
+09/18/2012,,,16.6,C,6.56,MG/L
+10/02/2012,,,15.5,C,10.97,MG/L
+10/21/2012,,,10.1,C,11.82,MG/L
+11/15/2012,,,3.9,C,12.64,MG/L
+04/20/2013,,,4.0,C,12.02,MG/L
+05/14/2013,,,15.3,C,14.82,MG/L
+06/03/2013,,,21.1,C,8.22,MG/L
+06/16/2013,,,23.0,C,10.96,MG/L
+07/01/2013,,,23.4,C,11.94,MG/L
+07/15/2013,,,27.8,C,9.65,MG/L
+08/04/2013,,,23.1,C,10.33,MG/L
+08/18/2013,,,24.1,C,7.9,MG/L
+09/03/2013,,,23.4,C,9.22,MG/L
+09/24/2013,,,17.4,C,12.19,MG/L
+10/08/2013,,,15.9,C,10.51,MG/L
+04/17/2014,,,7.5,C,,
+05/14/2014,,,16.3,C,8.53,MG/L
+05/28/2014,,,22.0,C,4.76,MG/L
+06/10/2014,,,22.2,C,,
+06/26/2014,,,25.7,C,8.0,MG/L
+07/13/2014,,,23.3,C,7.13,MG/L
+07/23/2014,,,25.8,C,11.1,MG/L
+08/08/2014,,,26.4,C,6.92,MG/L
+08/25/2014,,,25.0,C,7.63,MG/L
+09/11/2014,,,18.5,C,6.89,MG/L
+09/24/2014,,,17.8,C,9.94,MG/L
+10/08/2014,,,11.0,C,11.71,MG/L
+10/22/2014,,,10.2,C,13.01,MG/L
+11/07/2014,,,5.5,C,11.22,MG/L
+04/15/2015,,,12.7,C,12.6,MG/L
+06/15/2015,,,23.0,C,7.7,MG/L
+07/21/2015,,,26.1,C,10.9,MG/L
+09/01/2015,,,22.5,C,11.4,MG/L
+10/14/2015,,,12.4,C,10.6,MG/L
+02/17/2016,,,0.5,C,9.9,MG/L
+04/19/2016,,,14.0,C,12.0,MG/L
+06/28/2016,,,25.4,C,12.8,MG/L
+07/25/2016,,,26.5,C,7.9,MG/L
+08/15/2016,,,26.4,C,13.1,MG/L
+10/19/2016,,,16.1,C,12.3,MG/L
+02/08/2017,,,0.4,C,7.0,MG/L
+04/22/2020,,,8.8,C,13.2,MG/L
+06/10/2020,,,24.2,C,9.5,MG/L
+07/20/2020,,,26.5,C,10.2,MG/L
+08/31/2020,,,22.5,C,9.4,MG/L
+10/26/2020,,,4.5,C,,
+
+
+
+Start Date,Fieldwork Comment
+07/16/1996,75 degrees- sunny- windy.    
+07/25/1996,Northwest wind 8 mph- temp. 72 degrees.    
+08/01/1996,80 degrees- sunny-breezy. water near shore very clean.    
+08/07/1996,Very breezy-78 degrees.    
+08/17/1996,Sunny- calm- 74 degrees.    
+08/30/1996,Very slight breeze-sunny-temp. 78 degrees.    
+09/11/1996,Sunny-66 degrees-slight breeze.    
+09/24/1996,Partly sunny-60 degrees- NW winds 25-30 mph.    
+06/10/1997,Calm- no wind.  Temperature 68 degrees.  Clearest I have seen the lake.    
+06/17/1997,64 degrees- slight chop- algal bloom.    
+06/25/1997,70 degrees- NW wind- slight chop- partly sunny- algae.    
+07/10/1997,66 degrees- calm.    
+09/02/1997,Sunny- slight breeze- 78 degrees.    
+09/04/1997,Had algae bloom- temp 64 degrees- no wind- sunny    
+09/17/1997,Weather is sunny- 68 degrees- it is very windy.    
+09/22/1997,Sunny and 56 degrees.  Slight wind.    
+10/01/1997,Weather is sunny- 50 degrees- lake is very calm.    
+10/17/1997,Lake was very calm- temp was 52 degrees- and it was sunny out today.    
+06/20/1998,Sunny and windy 90 degrees.    
+07/09/1998,Sunny calm. 74 degrees.    
+07/19/1998,Sunny 76 degrees. slight chop.  Algae bloom.    
+07/30/1998,Partly sunny  N wind 66 degrees.  Choppy.    
+08/07/1998,Cloudy calm. 76 degrees.    
+08/20/1998,Partly sunny windy.  75 degrees.    
+08/31/1998,Sunny calm. 70 degrees.    
+06/25/1999,Water clearest I have ever seen- sunny- 90 F- many schools of 1-1 1/2" bullheads.    
+07/05/1999,Sunny- windy + temp 96 F.    
+07/16/1999,Sunny- slight breeze- temp 92 F.    
+07/30/1999,Sunny- slight breeze- temp 98 F- highest the water has ever been!    
+08/28/1999,Sunny. 85 F. slight breeze.    
+07/13/2000,Sunny- slight breeze- temp 76 degrees F. algae bloom.    
+08/14/2000,Breezy- overcast- 76 degrees F. 0.7" rain yesterday.    
+08/21/2000,72 degrees- partly sunny- slight wind. Beautiful day.    
+08/30/2000,Sunny- calm- 70 degrees F.    
+09/08/2000,Sunny- 66 degrees F.- lake smooth as glass. greasy green film near shore. only 2 boats fishing.    
+09/15/2000,56 degrees- sunny- NE wind 20-25 mph. no boats- whitecaps.    
+10/01/2000,Sunny- 63 degrees- slight wind. plenty of boats- some fishing some duck hunting.    
+10/14/2000,Sunny- beautiful day- 66 degrees- slight wind. boat out tomorrow.    
+08/01/2001,Sunny- the temperature is 90 degrees- slight breeze (vs) and the water is very low.    
+08/07/2001,Very hot- the temperature is 92 degrees- the water level is very low and there is no wind.    
+09/11/2001,The temperature is 66 degrees- sunny- the water is still low- 3" of rain last three days- slight wind- very clear out 200' from shore.    
+10/05/2001,Partly cloudy- the temperature is 49 degrees- very windy (NNW)- no ducks and the boat is out today.    
+06/29/2002,Sunny- hot and humid- and the temperature is 80 degrees.  Saw two baby wood ducks.  Eight boats.    
+07/13/2002,Sunny- hot- not so humid- temperature is 80 degrees.  Wood ducks getting bigger.  Not many boats.    
+07/26/2002,Hot- humid- sunny- and the temperature is 84 degrees.  Very little wind- very few boats.    
+08/02/2002,Windy- sunny- and the temperature is 76 degrees.    
+09/02/2002,Water is still very low- temperature is 72 degrees- windy and sunny.  Very heavy winds last night.    
+09/18/2002,Sunny- cool and 66 degrees.  One boat on lake.  Beautiful day!!    
+09/24/2002,Sunny- cool (56 degrees) and windy.  Only boat on big lake.  Beautiful day.  Boat out on 9/28/02.    
+06/20/2003,Sunny- very slight wind.  Temperature 70 F.    
+07/22/2003,Sunny- very windy last 2 days.  Temperature 62 F.  One boat on lake.    
+08/07/2003,Partly cloudy- 70 F.  Very windy.    
+08/23/2003,Partly cloudy- 70 F.  Slight wind.  No rain for 6-7 weeks.    
+09/08/2003,Beautiful day- temp 70 F.  Slight wind and very sunny.  No boats on lake!    
+09/24/2003,Sunny- 58 F.  Very windy.  Nor-wester.  Boat trailer and car stuck at boat landing!!    
+05/15/2004,Sunny- calm- water brown but clear- bass tournament.  Total depth 6.5 ft. Water level - Princeton: 6.30.    
+05/16/2004,Sunny- breeze with chop- water brown but clear.  Total depth 6.0 ft.  Water level - Princeton: 6.40.    
+06/02/2004,Sunny- breezy- brown water- lake level very high (Princeton: 10.10).  Total depth 9.5 ft- temp. 62.4 F.    
+06/06/2004,Sunny- calm- bogs floating from Grand River Marsh- total depth 9.5 ft.  Water level - Princeton: 10.10.    
+07/05/2004,Cloudy- breezy- level very high but going down (8.75 Princeton).  Heavy erosion.  Total depth 8.5 ft. Temp. 71.9 F.    
+07/13/2004,Partly sunny- breezy- duckweed- heavy vegetation in bays- total depth 7.5 ft.  Temp. 75.0 F.  Water level - Princeton: 7.90.    
+08/06/2004,Sunny- calm- water green- cloudy with algae.  Total depth 5.50 ft.  Temp. 72.8 F.  Water level - Princeton: 5.30.    
+08/15/2004,Sunny- calm- water green- cloudy with algae.  Total depth 5.0 ft. Temp. 67.4 F.  Water Level - Princeton: 4.65.    
+08/29/2004,Partly cloudy- calm- water green with algae.  Total depth 5.50 ft- temp. 69.6 F.  Water level -Princeton: 4.55.    
+09/09/2004,Partly cloudy- calm.  Total depth 3.00  ft.  Temp. 67.6 F.  Water level 4.40 (Princeton).    
+10/02/2004,Sunny- windy- total depth 5.0 ft. Water temp. 57.2 F.   Water level - Princeton: 3.85.    
+04/21/2005,PUCKAWAY LAKE- WEST BASIN    
+06/20/2005,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+07/11/2005,82.5F- Sunny- calm- beautiful day- 4 Boat on big lake    
+07/18/2005,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+07/19/2005,76F- sunny and lake is like glass- two boats and one paddle boat    
+08/04/2005,81.7F sunny and quite windy- small whitecaps- 3 pontoons and one runabout    
+08/12/2005,partly cloudy and windy- not much boat traffic    
+08/22/2005,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+09/05/2005,beautiful day- 12 boats- sunny 82.4F and very little wind.    
+09/13/2005,sunny and warm and very windy. 80F 3 boats on big lake- could storm    
+09/21/2005,beautiful day- sunny very breezy- 85.8F- water cear as gin at shoreline- 2 boats- one jet ski.    
+04/18/2006,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+06/29/2006,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+07/27/2006,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+09/07/2006,PUCKAWAY LAKE- WEST BASIN- NEAR MARQUETTE WI    
+
+
+
+
+Start Date,Group Name,Project Name
+07/16/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/25/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/01/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/07/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/17/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/30/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/11/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/24/1996,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/10/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/17/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/25/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/10/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/02/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/04/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/17/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/22/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/01/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/10/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/17/1997,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/20/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/09/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/19/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/30/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/07/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/14/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/20/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/31/1998,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/25/1999,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/05/1999,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/16/1999,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/30/1999,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/28/1999,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/13/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/14/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/21/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/30/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/08/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/15/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/01/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/14/2000,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/01/2001,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/07/2001,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/11/2001,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/05/2001,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/29/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/13/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/26/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/02/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/02/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/18/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/24/2002,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/20/2003,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/22/2003,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/07/2003,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/14/2003,Mark Sesing,Lakes Baseline and Trends Monitoring
+08/23/2003,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/08/2003,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/24/2003,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+05/15/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+05/16/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/02/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+06/06/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/05/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/13/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/06/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/15/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/29/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/09/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+10/02/2004,Steve Larson,Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+04/21/2005,Data Collectors,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+04/21/2005,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+06/20/2005,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+07/11/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+07/18/2005,Data Collectors,USGS LAKE SAMPLES
+07/18/2005,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+07/19/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/04/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/12/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+08/22/2005,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+09/05/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/13/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+09/21/2005,Robert Young (Puckaway Lake),Citizen Lake Monitoring - Water Quality - Puckaway Lk; Deep Hole - W Basin- Site 2
+04/18/2006,Data Collectors,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+06/29/2006,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+07/27/2006,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+09/07/2006,Data Collectors,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+04/24/2007,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+06/21/2007,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+07/24/2007,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+09/13/2007,USGS,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Plant App'l + Water Quality Study Phase 2
+07/09/2009,Mark Sesing,Lakes 303d Project NER2_10 
+07/31/2009,Mark Sesing,Lakes 303d Project NER2_10 
+09/03/2009,Mark Sesing,Lakes 303d Project NER2_10 
+09/23/2009,Mark Sesing,Lakes 303d Project NER2_10 
+06/02/2011,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/14/2011,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/30/2011,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/14/2011,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/31/2011,MARINETTE COUNTY- ANDREW J SABAI- GREG SEVENER,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/15/2011,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/31/2011,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+05/10/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/04/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/19/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/02/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/17/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/23/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+09/06/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+09/18/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+10/02/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+10/21/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+11/15/2012,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+04/20/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+05/14/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/03/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/16/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/01/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/15/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/04/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/18/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+09/03/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+09/24/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+10/08/2013,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+04/17/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+05/14/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+05/28/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/10/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+06/26/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/13/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+07/23/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/08/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+08/25/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+09/11/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+09/24/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+10/08/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+10/22/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+11/07/2014,ANDREW SABAI,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: LMI-Lake Puckaway Plan Implementation Project
+04/15/2015,Brenton Butterfield and Emily Henngillis,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Comprehensive Management Plan
+06/15/2015,Steve Fosheim,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Comprehensive Management Plan
+07/21/2015,Tim Hoyman - Onterra- LLC,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Comprehensive Management Plan
+09/01/2015,Dan Cibulka and Todd Hanke - Onterra- LLC,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Comprehensive Management Plan
+10/14/2015,Todd Hanke - Onterra- LLC,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Comprehensive Management Plan
+02/17/2016,Todd Hanke - Onterra- LLC,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Comprehensive Management Plan
+04/19/2016,Todd Hanke - Onterra- LLC,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Management Plan Phase II
+06/28/2016,Tim Hoyman - Onterra- LLC,PICKEREL CHAIN LAKES ASSOCIATION: Pickerel Chain Mngt Plan- Pickerel Lake Phase
+07/25/2016,Brenton Butterfield - Onterra- LLC,
+08/15/2016, Onterra- LLC- Todd Hanke,
+10/19/2016,Onterra- LLC,
+02/08/2017,Todd Hanke - Onterra- LLC,LAKE PUCKAWAY PROTECTION + REHAB DISTRICT: Lake Puckaway Management Plan Phase II
+04/22/2020,Data Collectors,DUCKS UNLIMITED: LMI - Lake Puckaway Habitat Restor-: Dredgebank Restoration - Ph 1
+06/10/2020,Data Collectors,DUCKS UNLIMITED: LMI - Lake Puckaway Habitat Restor-: Dredgebank Restoration - Ph 1
+07/20/2020,Data Collectors,DUCKS UNLIMITED: LMI - Lake Puckaway Habitat Restor-: Dredgebank Restoration - Ph 1
+08/31/2020,Data Collectors,DUCKS UNLIMITED: LMI - Lake Puckaway Habitat Restor-: Dredgebank Restoration - Ph 1
+10/26/2020,Data Collectors,DUCKS UNLIMITED: LMI - Lake Puckaway Habitat Restor-: Dredgebank Restoration - Ph 1

@@ -1,0 +1,894 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Wheeler Lake,Oconto,439800,NE,43,,433070,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/16/1976,,,,,10,,46,,,,,,
+1,04/29/1976,13.1,,4,,,40,,,,,,,
+1,07/27/1976,11.5,,3.5,,,42,,,,,,,
+1,10/27/1976,13.9,,4.25,,,39,,,,,,,
+8190852,06/13/1986,17.5,NO,5.3,,,36,,,GAUGE,1.86,CLEAR,BLUE,
+8190852,06/17/1986,17.5,NO,5.3,,,36,,,GAUGE,1.84,CLEAR,BLUE,
+8190852,06/26/1986,16.5,NO,5,,,37,,,GAUGE,1.8,CLEAR,BLUE,
+8190852,07/04/1986,16.5,NO,5,,,37,,,GAUGE,1.78,CLEAR,BLUE,
+8190852,07/09/1986,16.5,NO,5,,,37,,,GAUGE,1.76,CLEAR,BLUE,
+8190852,07/14/1986,16.25,NO,4.9,,,37,,,GAUGE,1.76,CLEAR,BLUE,
+8190852,07/20/1986,15.25,NO,4.6,,,38,,,GAUGE,1.96,CLEAR,BLUE,
+8190852,07/25/1986,14.5,NO,4.4,,,39,,,GAUGE,1.86,CLEAR,BLUE,
+8190852,07/31/1986,14,NO,4.3,,,39,,,GAUGE,1.82,CLEAR,BLUE,
+8190852,08/06/1986,13.25,NO,4,,,40,,,GAUGE,1.78,CLEAR,BLUE,
+8190852,08/16/1986,13,NO,4,,,40,,,GAUGE,1.72,CLEAR,BLUE,
+8190852,08/23/1986,13,NO,4,,,40,,,GAUGE,1.68,CLEAR,BLUE,
+8190852,08/30/1986,12.5,NO,3.8,,,41,,,GAUGE,1.55,CLEAR,BLUE,
+8190852,09/06/1986,12,NO,3.6,,,41,,,GAUGE,1.52,CLEAR,BLUE,
+8190852,09/13/1986,14,NO,4.3,,,39,,,GAUGE,1.58,CLEAR,BLUE,
+8190852,09/20/1986,13.5,NO,4.1,,,40,,,GAUGE,1.62,CLEAR,BLUE,
+8190852,09/24/1986,13.5,NO,4.1,,,40,,,GAUGE,1.7,CLEAR,BLUE,
+8190852,10/02/1986,13.5,NO,4.1,,,40,,,GAUGE,1.86,CLEAR,BLUE,
+8190852,10/17/1986,11,NO,3.3,,,43,,,GAUGE,1.96,CLEAR,BLUE,
+8190852,05/01/1987,25,NO,7.6,,,31,,,GAUGE,94,CLEAR,BLUE,
+8190852,05/08/1987,23,NO,7,,,32,,,GAUGE,82,CLEAR,BLUE,
+8190852,05/16/1987,19,NO,5.8,,,35,,,GAUGE,76,,,
+8190852,05/21/1987,16.75,NO,5.1,,,37,,,GAUGE,78,CLEAR,,
+8190852,05/31/1987,20,NO,6.1,,,34,,,GAUGE,82,CLEAR,,
+8190852,06/08/1987,23.5,NO,7.1,,,32,,,GAUGE,78,CLEAR,BLUE,
+8190852,06/17/1987,23,NO,7,,,32,,,GAUGE,.64,CLEAR,BLUE,
+8190852,06/23/1987,25.25,NO,7.7,,,31,,,GAUGE,.67,CLEAR,BLUE,
+8190852,07/04/1987,17.5,NO,5.3,,,36,,,GAUGE,1.64,CLEAR,,
+8190852,07/10/1987,14,NO,4.3,,,39,,,GAUGE,1.66,CLEAR,BLUE,
+8190852,07/19/1987,11,NO,3.3,,,43,,,GAUGE,1.62,CLEAR,BLUE,
+8190852,07/31/1987,10.5,NO,3.2,,,43,,,GAUGE,1.52,CLEAR,BLUE,
+8190852,08/08/1987,14,NO,4.3,,,39,,,GAUGE,1.46,CLEAR,BLUE,
+8190852,08/21/1987,11.5,NO,3.5,,,42,,,GAUGE,1.38,CLEAR,BLUE,
+8190852,08/29/1987,11,NO,3.3,,,43,,,GAUGE,1.3,CLEAR,BLUE,
+8190852,09/02/1987,10.5,NO,3.2,,,43,,,GAUGE,1.28,CLEAR,BLUE,
+8190852,09/09/1987,9,NO,2.7,,,45,,,GAUGE,1.18,CLEAR,BLUE,
+8190852,09/15/1987,9,NO,2.7,,,45,,,GAUGE,1.12,CLEAR,BLUE,
+8190852,09/27/1987,10,NO,3,,,44,,,GAUGE,7.14,CLEAR,,
+8190852,05/02/1988,21,NO,6.4,,,33,,,GAUGE,1.5,CLEAR,,1-Beautiful, could not be nicer
+8190852,05/13/1988,21,NO,6.4,,,33,,,GAUGE,1.48,CLEAR,,1-Beautiful, could not be nicer
+8190852,05/27/1988,27,NO,8.2,,,30,,,GAUGE,1.28,CLEAR,,2-Very minor aesthetic problems
+8190852,06/03/1988,27,NO,8.2,,,30,,,GAUGE,1.18,CLEAR,,2-Very minor aesthetic problems
+8190852,06/09/1988,27,NO,8.2,,,30,,,GAUGE,1.08,CLEAR,,2-Very minor aesthetic problems
+8190852,06/15/1988,22,NO,6.7,,,33,,,GAUGE,1,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,06/22/1988,20,NO,6.1,,,34,,,GAUGE,.94,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,06/28/1988,16,NO,4.9,,,37,,,GAUGE,.82,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,07/04/1988,14,NO,4.3,,,39,,,GAUGE,.76,CLEAR,,2-Very minor aesthetic problems
+8190852,07/12/1988,11,NO,3.3,,,43,,,GAUGE,.8,CLEAR,,
+8190852,07/23/1988,11,NO,3.3,,,43,,,GAUGE,.88,CLEAR,,2-Very minor aesthetic problems
+8190852,08/01/1988,9,NO,2.7,,,45,,,GAUGE,.76,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,08/09/1988,8.5,NO,2.6,,,46,,,GAUGE,.84,,BLUE,2-Very minor aesthetic problems
+8190852,08/20/1988,11,NO,3.3,,,43,,,GAUGE,.76,CLEAR,,2-Very minor aesthetic problems
+8190852,08/30/1988,10.5,NO,3.2,,,43,,,GAUGE,.68,CLEAR,,2-Very minor aesthetic problems
+8190852,09/07/1988,10.5,NO,3.2,,,43,,,GAUGE,.6,CLEAR,,2-Very minor aesthetic problems
+8190852,09/14/1988,12,NO,3.6,,,41,,,GAUGE,.56,CLEAR,,2-Very minor aesthetic problems
+8190852,09/25/1988,13,NO,4,,,40,,,GAUGE,.58,CLEAR,,2-Very minor aesthetic problems
+8190852,10/07/1988,13,NO,4,,,40,,,GAUGE,.48,CLEAR,,2-Very minor aesthetic problems
+8190852,10/15/1988,14,NO,4.3,,,39,,,GAUGE,.42,,BLUE,2-Very minor aesthetic problems
+8190852,10/24/1988,14,NO,4.3,,,39,,,GAUGE,.52,CLEAR,,2-Very minor aesthetic problems
+8190852,05/22/1989,14,NO,4.3,,,39,,,GAUGE,.94,,,2-Very minor aesthetic problems
+8190852,06/06/1989,15,NO,4.6,,,38,,,GAUGE,1.16,CLEAR,,2-Very minor aesthetic problems
+8190852,06/17/1989,22,NO,6.7,,,33,,,GAUGE,1.14,CLEAR,,2-Very minor aesthetic problems
+8190852,06/22/1989,20,NO,6.1,,,34,,,GAUGE,1.1,,BLUE,2-Very minor aesthetic problems
+8190852,07/02/1989,18,NO,5.5,,,35,,,GAUGE,.96,,BLUE,2-Very minor aesthetic problems
+8190852,07/09/1989,15,NO,4.6,,,38,,,GAUGE,.92,,BLUE,2-Very minor aesthetic problems
+8190852,07/15/1989,15,NO,4.6,,,38,,,GAUGE,.86,,,
+8190852,07/24/1989,15,NO,4.6,,,38,,,GAUGE,.78,CLEAR,,2-Very minor aesthetic problems
+8190852,07/31/1989,15,NO,4.6,,,38,,,GAUGE,.72,CLEAR,,2-Very minor aesthetic problems
+8190852,08/06/1989,13,NO,4,,,40,,,GAUGE,.64,CLEAR,,2-Very minor aesthetic problems
+8190852,08/10/1989,11,NO,3.3,,,43,,,GAUGE,.58,CLEAR,,2-Very minor aesthetic problems
+8190852,08/18/1989,10.5,NO,3.2,,,43,,,GAUGE,.57,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,08/31/1989,10,NO,3,,,44,,,GAUGE,.48,CLEAR,,2-Very minor aesthetic problems
+8190852,09/09/1989,10,NO,3,,,44,,,GAUGE,.46,CLEAR,,2-Very minor aesthetic problems
+8190852,09/18/1989,10,NO,3,,,44,,,GAUGE,.4,CLEAR,,2-Very minor aesthetic problems
+8190852,09/21/1989,12,NO,3.6,,,41,,,GAUGE,.36,,,2-Very minor aesthetic problems
+8190852,09/30/1989,12.5,NO,3.8,,,41,,,GAUGE,.2,,,2-Very minor aesthetic problems
+8190852,05/22/1990,19.5,NO,5.9,,,34,,,GAUGE,.5,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190852,06/15/1990,23,NO,7,,,32,,,GAUGE,.8,,,
+8190852,06/21/1990,20,NO,6.1,,,34,,,GAUGE,.77,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,06/26/1990,17,NO,5.2,,,36,,,GAUGE,.75,CLEAR,,2-Very minor aesthetic problems
+8190852,07/06/1990,15.5,NO,4.7,,,38,,,GAUGE,.72,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,07/18/1990,16,NO,4.9,,,37,,,GAUGE,.68,,BLUE,2-Very minor aesthetic problems
+8190852,07/26/1990,15,NO,4.6,,,38,,,GAUGE,.6,,BLUE,2-Very minor aesthetic problems
+8190852,07/31/1990,14.5,NO,4.4,,,39,,,GAUGE,.55,,BLUE,2-Very minor aesthetic problems
+8190852,08/08/1990,14.5,NO,4.4,,,39,,,GAUGE,.48,,BLUE,2-Very minor aesthetic problems
+8190852,08/22/1990,13,NO,4,,,40,,,GAUGE,.58,,BLUE,2-Very minor aesthetic problems
+8190852,08/27/1990,12,NO,3.6,,,41,,,GAUGE,.78,,BLUE,2-Very minor aesthetic problems
+8190852,09/04/1990,12.5,NO,3.8,,,41,,,GAUGE,.7,,BLUE,2-Very minor aesthetic problems
+8190852,09/13/1990,12,NO,3.6,,,41,,,GAUGE,.98,,BLUE,2-Very minor aesthetic problems
+8190852,09/28/1990,15.5,NO,4.7,,,38,,,GAUGE,.84,CLEAR,,2-Very minor aesthetic problems
+8190852,10/11/1990,16,NO,4.9,,,37,,,GAUGE,.87,CLEAR,,2-Very minor aesthetic problems
+8190852,06/21/1991,25.5,NO,7.8,,,30,,,GAUGE,1.89,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,06/24/1991,25,NO,7.6,,,31,,,GAUGE,1.82,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,06/25/1991,25,NO,7.6,,,31,,,GAUGE,1.82,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,08/10/1991,16,NO,4.9,,,37,,,GAUGE,1.78,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,09/02/1991,13,NO,4,,,40,,,GAUGE,1.62,CLEAR,BLUE,2-Very minor aesthetic problems
+8190852,09/22/1991,12,NO,3.6,,,41,,,GAUGE,1.56,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,05/20/1992,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,07/13/1992,18.25,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,08/02/1992,17.25,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,08/19/1992,15.5,NO,4.7,,,38,,,GOOD,,,GREEN,2-Very minor aesthetic problems
+8190699,09/13/1992,12.75,NO,3.9,,,40,,,NORMAL,,,GREEN,
+8190699,10/04/1992,14,NO,4.3,,,39,,,HIGH,,,GREEN,
+8190699,10/26/1992,12.75,NO,3.9,,,40,,,,,,GREEN,
+8190699,05/15/1993,26.25,NO,8,,,30,,,HIGH,,CLEAR,BLUE,
+8190699,06/02/1993,19.25,NO,5.9,,,35,,,HIGH,,CLEAR,BLUE,
+8190699,06/10/1993,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/21/1993,20.25,NO,6.2,,,34,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,07/28/1993,16.25,NO,4.9,,,37,,,HIGH,,,GREEN,
+8190699,08/16/1993,15,NO,4.6,,,38,,,HIGH,,,GREEN,
+8190699,08/28/1993,17.75,NO,5.4,,,36,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8190699,04/18/1994,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,04/26/1994,24.5,NO,7.4,,,31,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/06/1994,27.75,NO,8.4,,,29,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/28/1994,28.25,NO,8.6,,,29,,,LITTLE ABOVE NORMAL,,CLEAR,BLUE,
+8190699,06/09/1994,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,
+8190699,06/29/1994,23.75,NO,7.2,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,07/05/1994,18.5,NO,5.6,,,35,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190699,08/09/1994,12.5,NO,3.8,,,41,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/22/1994,12.25,NO,3.7,,,41,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190699,08/30/1994,12.5,NO,3.8,,,41,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,09/08/1994,12.25,NO,3.7,,,41,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,10/12/1994,12,NO,3.6,,,41,,,HIGH,,,GREEN,
+8190699,05/02/1995,31.5,NO,9.6,,,27,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/18/1995,30.5,NO,9.3,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/24/1995,25,NO,7.6,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/31/1995,27,NO,8.2,,,30,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/09/1995,30,NO,9.1,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/16/1995,26.75,NO,8.1,,,30,,,NORMAL,,CLEAR,BLUE/GREEN,2-Very minor aesthetic problems
+8190699,06/22/1995,30,NO,9.1,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/28/1995,26.5,NO,8.1,,,30,,,LITTLE BELOW NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,07/10/1995,17.75,NO,5.4,,,36,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190699,07/19/1995,15.75,NO,4.8,,,37,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190699,08/23/1995,13.5,NO,4.1,,,40,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/28/1995,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,09/12/1995,13,NO,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190699,05/03/1996,29,NO,8.8,,,29,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/15/1996,27.75,NO,8.4,,,29,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/19/1996,25.25,NO,7.7,,,31,,,HIGH,,CLEAR,BLUE,
+8190699,06/24/1996,16.4,NO,5,,,37,,,,,,GREEN,2-Very minor aesthetic problems
+8190699,07/06/1996,15.25,NO,4.6,,,38,,,,,,GREEN,2-Very minor aesthetic problems
+8190699,07/10/1996,15,NO,4.6,,,38,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190699,07/24/1996,15,NO,4.6,,,38,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/06/1996,14.5,NO,4.4,,,39,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/12/1996,14,NO,4.3,,,39,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/27/1996,13.5,NO,4.1,,,40,,,LITTLE HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,09/19/1996,13,NO,4,,,40,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190699,10/12/1996,15,NO,4.6,,,38,,,LOW,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,05/23/1997,29.5,NO,9,,,28,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/27/1997,24.5,NO,7.4,,,31,,,HIGH,,,BLUE,1-Beautiful, could not be nicer
+8190699,07/14/1997,18,NO,5.5,,,35,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190699,07/23/1997,16,NO,4.9,,,37,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190699,07/30/1997,17,NO,5.2,,,36,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190699,08/07/1997,16.25,NO,4.9,,,37,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190699,08/29/1997,17,NO,5.2,,,36,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8190699,04/29/1998,27,NO,8.2,,,30,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190699,05/18/1998,25.5,NO,7.8,,,30,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190699,05/29/1998,25,NO,7.6,,,31,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190699,06/08/1998,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190699,06/16/1998,20.5,NO,6.2,,,34,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190699,06/22/1998,17,NO,5.2,,,36,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,07/01/1998,16.5,NO,5,,,37,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,07/14/1998,17,NO,5.2,,,36,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,07/29/1998,16,NO,4.9,,,37,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/10/1998,14.75,NO,4.5,,,38,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8190699,08/13/1998,15,NO,4.6,,,38,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/25/1998,14.75,NO,4.5,,,38,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190699,09/03/1998,14,NO,4.3,,,39,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8190699,09/17/1998,14,NO,4.3,,,39,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,09/30/1998,14.5,NO,4.4,,,39,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,10/08/1998,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,10/22/1998,15.5,NO,4.7,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,05/01/1999,27.5,NO,8.4,,,29,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190699,05/11/1999,26,NO,7.9,,,30,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190699,05/18/1999,26.5,NO,8.1,,,30,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,06/02/1999,23,NO,7,,,32,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,06/24/1999,19.5,NO,5.9,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190699,07/08/1999,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190699,07/19/1999,15.75,NO,4.8,,,37,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,08/12/1999,15,NO,4.6,,,38,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,09/15/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,09/20/1999,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,10/01/1999,16,NO,4.9,,,37,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,10/08/1999,15.5,NO,4.7,,,38,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190699,05/13/2000,30.5,NO,9.3,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,05/25/2000,29.5,NO,9,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/02/2000,28,NO,8.5,,,29,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/07/2000,24.5,NO,7.4,,,31,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190699,06/16/2000,20.5,NO,6.2,,,34,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190699,06/27/2000,17.5,NO,5.3,,,36,,,,,,GREEN,
+8190699,07/13/2000,16,NO,4.9,,,37,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,07/15/2000,16,NO,4.9,,,37,,,,,,,
+8190699,07/29/2000,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,08/12/2000,15,NO,4.6,,,38,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,08/14/2000,14,NO,4.3,,,39,,,,,,,
+8190699,08/21/2000,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,08/30/2000,13,NO,4,,,40,,,,,,GREEN,
+8190699,09/02/2000,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,09/06/2000,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,09/13/2000,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,09/16/2000,11.75,NO,3.6,,,42,,,,,,,
+8190699,10/01/2000,13,NO,4,,,40,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,10/15/2000,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8190699,10/17/2000,18,,5.5,,,35,,,,,CLEAR,,
+8190699,04/26/2001,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,05/01/2001,28.5,NO,8.7,,,29,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,05/15/2001,30,NO,9.1,,,28,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,05/25/2001,29,NO,8.8,,,29,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,06/01/2001,27,NO,8.2,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,06/07/2001,25.5,NO,7.8,,,30,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,06/20/2001,20,NO,6.1,,,34,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,06/30/2001,21,,6.4,,,33,,,,,,,
+8190699,07/05/2001,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,07/16/2001,18,NO,5.5,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,08/01/2001,17.5,NO,5.3,,,36,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,08/17/2001,14.75,NO,4.5,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,09/02/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,09/18/2001,14,NO,4.3,,,39,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190699,10/10/2001,15.5,NO,4.7,,,38,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8188886,05/07/2002,23,YES,7,,,32,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188886,06/08/2002,21,YES,6.4,,,33,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188886,07/16/2002,19.41,NO,5.9,,,34,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8188886,08/13/2002,18,NO,5.5,,,35,,,LOW,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8188886,10/14/2002,20,YES,6.1,,,34,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188886,04/26/2003,23,YES,7,,,32,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188886,05/25/2006,20,NO,6.1,,,34,,,,25,CLEAR,BLUE,
+8188886,06/14/2006,20,NO,6.1,,,34,,,,25,CLEAR,BLUE,
+8188886,06/27/2006,19,NO,5.8,,,35,,,,28,CLEAR,GREEN,
+8188886,07/11/2006,18,NO,5.5,,,35,,,,28,CLEAR,GREEN,
+17815237,07/25/2006,,,,1.48,12,,47,38,,,,,
+8188886,07/26/2006,17,NO,5.2,,,36,,,,28,MURKY,GREEN,
+8188886,08/09/2006,18,NO,5.5,,,35,,,,28,CLEAR,GREEN,
+8188886,08/27/2006,13,NO,4,,,40,,,,28,MURKY,GREEN,
+8188886,09/07/2006,12,NO,3.6,,,41,,,,26,MURKY,GREEN,
+8188886,10/07/2006,15,NO,4.6,,,38,,,,25,MURKY,GREEN,
+17815237,10/25/2006,,,,4.12,8,,44,46,,,,,
+17815237,04/25/2007,,,,,10,,46,,,,,,
+8188886,05/10/2007,28,NO,8.5,,,29,,,HIGH,,CLEAR,BLUE,
+8188886,05/21/2007,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,
+8188886,06/06/2007,22,NO,6.7,,,33,,,NORMAL,,MURKY,GREEN,
+8188886,06/24/2007,20,NO,6.1,,,34,,,NORMAL,,MURKY,GREEN,
+17815237,06/24/2007,,,,1.56,ND*,,,38,,,,,
+8188886,07/02/2007,18,NO,5.5,,,35,,,LOW,,MURKY,GREEN,
+8188886,07/17/2007,18,NO,5.5,,,35,,,LOW,,MURKY,GREEN,
+17815237,07/31/2007,,,,2,9,,45,40,,,,,
+8188886,08/02/2007,18,NO,5.5,,,35,,,LOW,,MURKY,GREEN,
+8188886,08/08/2007,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,
+8188886,08/22/2007,15,NO,4.6,,,38,,,LOW,,MURKY,GREEN,
+8188886,09/03/2007,14,NO,4.3,,,39,,,LOW,,MURKY,GREEN,
+17815237,09/06/2007,,,,2.31,8,,44,41,,,,,
+8188886,09/11/2007,13,NO,4,,,40,,,LOW,,MURKY,GREEN,
+17815237,05/04/2008,,,,,7,,43,,,,,,
+25475388,06/07/2008,24.25,YES,7.4,,,31,,,NORMAL,,CLEAR,BLUE,
+17815237,06/29/2008,,,,2.29,8,,44,41,,,,,
+25475388,07/04/2008,15.5,YES,4.7,,,38,,,LOW,,CLEAR,GREEN,
+25475388,08/08/2008,16,YES,4.9,,,37,,,LOW,,CLEAR,GREEN,
+17815237,09/02/2008,,,,2.68,9,,45,42,,,,,
+25475388,09/20/2008,18.25,YES,5.5,,,35,,,LOW,,CLEAR,BLUE,
+17815237,04/25/2009,,,,,9,,45,,,,,,
+25475388,06/05/2009,26,YES,7.9,,,30,,,LOW,,CLEAR,BLUE,
+17815237,06/14/2009,,,,1.15,7,,43,36,,,,,
+25475388,07/04/2009,25,NO,7.6,,,31,,,LOW,,CLEAR,BLUE,
+25475388,07/05/2009,24,NO,7.3,,,31,,,LOW,,CLEAR,BLUE,
+25475388,07/07/2009,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,
+25475388,07/13/2009,22,NO,6.7,,,33,,,LOW,,CLEAR,BLUE,
+17815237,07/31/2009,,,,2.72,7,,43,42,,,,,
+25475388,08/09/2009,18,NO,5.5,,,35,,,LOW,,MURKY,GREEN,
+1,09/01/2009,,,,2.44,6,,42,42,,,,,
+25475388,09/04/2009,18,NO,5.5,,,35,,,LOW,,MURKY,GREEN,
+17815237,09/07/2009,,,,2.24,ND*,,,41,,,,,
+1,10/17/2009,,,,3.2,11,,47,44,,,,,
+1,04/25/2010,,,,0.35,9,,45,27,,,,,
+17815237,07/01/2010,,,,1.61,8,,44,38,,,,,
+1,07/02/2010,,,,,7,,43,,,,,,
+37553328,07/20/2010,18.5,NO,5.6,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+17815237,07/25/2010,,,,2.32,8,,44,41,,,,,
+37553328,08/01/2010,18,NO,5.5,,,35,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+37553328,08/23/2010,19,NO,5.8,,,35,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815237,09/05/2010,,,,2.35,12,,47,41,,,,,
+37553328,09/05/2010,20,NO,6.1,,,34,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+37556302,09/28/2010,,,,3.08,22,,52,43,,,,,
+37556283,10/01/2010,16.5,NO,5,,,37,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+37556302,02/19/2011,,,,,9,,45,,,,,,
+17815237,05/07/2011,,,,,7,,43,,,,,,
+37556283,05/29/2011,26,NO,7.9,,,30,,,NORMAL,,CLEAR,GREEN,
+37556283,06/17/2011,23,NO,7,,,32,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815237,06/26/2011,,,,2.43,12,,47,42,,,,,
+37556283,07/04/2011,17,NO,5.2,,,36,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+37556283,07/17/2011,16,NO,4.9,,,37,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+17815237,07/31/2011,,,,1.69,8,,44,39,,,,,
+37556283,09/02/2011,14,NO,4.3,,,39,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+37556283,09/09/2011,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815237,04/01/2012,,,,,10,,46,,,,,,
+37556283,05/18/2012,34,NO,10.3,,,26,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+37556283,05/27/2012,,,,,,,,,NORMAL,,,BLUE,1-Beautiful, could not be nicer
+37556283,06/08/2012,34,YES,10.3,,,26,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+17815237,06/10/2012,,,,1.12,9,,45,36,,,,,
+37556283,06/16/2012,34,YES,10.3,,,26,,,NORMAL,normal ,CLEAR,BLUE,1-Beautiful, could not be nicer
+37556283,06/23/2012,34,YES,10.3,,,26,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+17815237,07/22/2012,,,,2.56,10,,46,42,,,,,
+37556283,08/04/2012,21,NO,6.4,,,33,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+37556283,08/18/2012,17,NO,5.2,,,36,,,LOW,low,MURKY,GREEN,2-Very minor aesthetic problems
+17815237,08/30/2012,,,,2.37,11,,47,41,,,,,
+37556283,05/20/2013,23,NO,7,,,32,,,,,,,
+17815237,05/23/2013,,,,,6.4,,43,,,,,,
+37556283,06/03/2013,30,NO,9.1,,,28,,,,,,,
+37556283,06/22/2013,24,NO,7.3,,,31,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+17815237,06/28/2013,,,,2.2,8.33,,45,41,,,,,
+37556283,07/04/2013,24,NO,7.3,,,31,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+37556283,07/20/2013,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+17815237,07/25/2013,,,,2.48,5.97,,42,42,,,,,
+37556283,08/10/2013,16,NO,4.9,,,37,,,LOW,,,GREEN,2-Very minor aesthetic problems
+37556283,08/17/2013,14,NO,4.3,,,39,,,LOW,,,GREEN,2-Very minor aesthetic problems
+17815237,09/03/2013,,,,2.79,26.7,,54,43,,,,,
+17815237,05/30/2014,,,,,9.89,,46,,,,,,
+17815237,06/30/2014,,,,2.15,11.1,,47,41,,,,,
+1,08/31/2014,,,,3.3,13,,48,44,,,,,
+17815237,05/26/2015,,,,,12.4,,48,,,,,,
+17815237,06/29/2015,,,,1.96,8.77,,45,40,,,,,
+17815237,07/31/2015,,,,3.23,8.42,,45,44,,,,,
+17815237,05/08/2016,,,,,14.2,,49,,,,,,
+17815237,06/26/2016,,,,4.53,12.6,,48,46,,,,,
+17815237,06/30/2018,,,,1.57,7.4,,44,38,,,,,
+17815237,07/31/2018,,,,0.976,9.4,,46,35,,,,,
+17815237,09/02/2018,,,,2.03,10.6,,46,40,,,,,
+17815237,04/28/2019,,,,,9.23,,45,,,,,,
+1,05/28/2019,,,,0.636,10.9,,47,31,,,,,
+17815237,06/23/2019,,,,1.1,12.7,,48,36,,,,,
+17815237,07/28/2019,,,,2.48,14.8,,49,42,,,,,
+17815237,09/01/2019,,,,3.7,14.7,,49,45,,,,,
+1,09/03/2019,,,,,11.1,,47,,,,,,
+1,09/28/2019,,,,1.69,20.9,,52,39,,,,,
+17815237,07/03/2020,,,,0.382,12.7,,48,28,,,,,
+17815237,08/31/2020,,,,2.51,14.1,,49,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/16/1976,,,0,C,9.8,MG/L
+04/29/1976,,,9.4,C,10,MG/L
+07/27/1976,,,24.6,C,8.7,MG/L
+10/27/1976,,,7.2,C,9.9,MG/L
+10/17/2009,,,12.2,C,,
+04/25/2010,,,13.9,C,,
+07/02/2010,,,23.3,C,,
+09/28/2010,,,16.7,C,,
+02/19/2011,,,2.2,C,,
+09/28/2019,,,18.56,C,,
+
+
+
+Start Date,Fieldwork Comment
+02/16/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/29/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/27/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/13/1986,Broken clouds- the water temperature is 58 degrees F- and the air temperature is 68 degrees F.    
+06/17/1986,Sky clear- water temp 52- air 58    
+06/26/1986,Overcast- 80 F    
+07/04/1986,Partly cloudy- 86 F- lots of boats    
+07/09/1986,Windy- 84 F    
+07/14/1986,Scattered clouds- air 75 F- water 71 F- 0.8" rain 7/12    
+07/20/1986,Clear- air 84 F- water 76 F- 2.2" rain on 7/18    
+07/25/1986,Partly cloudy- air 81 F- water 77 F    
+07/31/1986,Air 78 F- water 76 F- breezy- clear    
+08/06/1986,Air temp 72 F water 70 F breezy    
+08/16/1986,Air 82 F- water 69 F- rain at night    
+08/23/1986,Air 69 F- water 67 F- clear- breezy    
+08/30/1986,Greenish colored specks in suspension- breezy- cloudy- air 68 F- water 64 F    
+09/06/1986,Breezy- clear- small green organisms in suspension - air 64 F    
+09/13/1986,Breezy- clear- air temperature is 59 F- and water temperature is 60 F.    
+09/20/1986,Overcast- cloudy and mist- air temperature is 60 F- and the water temperature is 58 F.    
+09/24/1986,The air temperature is 70 degrees F- the water temperature is 58 degrees F and there are no noticeable organisms in water.    
+10/02/1986,The air temperature is 62 degrees F- the water temperature is 55 degrees F- and the sky has broken clouds.    
+10/17/1986,Clarity not improving- even near the shore- water is cloudy- much rain and wind lately- air temperature is 43 degrees F- water temperature is 51 degrees F.  This is the last report.    
+05/01/1987,Partly cloudy- ice on 11/24/86- ice off 4/10/87- measurement not reliable over 25 Ft.    
+05/08/1987,Clear- air 72 F- no rain this week    
+05/16/1987,Cloudy- air 80 F- water 64 F- .8" rain 5/14    
+05/21/1987,Air temp. 70 F- 1.5" of rain on 5/20/87.    
+05/31/1987,Weather warm- air temperature is 80 degrees F- water temperature is 62 degrees F.    
+06/08/1987,Very clear- no wind- and the air temperature is 62 degrees F.    
+06/17/1987,Hot and light southeast wind.    
+06/23/1987,Clear sky- no wind- rained 0.9" on 6/21- air temperature is 88 degrees F- and the water temperature is 74 degrees F.    
+07/04/1987,Very hot- lake level dropping- and there was 1.4" of rain on 7/2/87.    
+07/10/1987,Algae bloom increasing- air temperature is 90 degrees F- and rain showers.    
+07/19/1987,Algae bloom increasing- air temperature is 92 degrees F- cloudy- and there are rain showers.    
+07/31/1987,Algae bloom heavy- water 81 F- air 90 F- humid weather- .8" of rain.    
+08/08/1987,Algae not so dense- overcast- SE wind- air 70 F- water 80 F.    
+08/21/1987,Overcast- air temp. 80 F- water temp. 78 F- heavy boat activity.    
+08/29/1987,Partly cloudy- air temp. 78 F- water temp. 74 F- .8" of rain on 8/30.    
+09/02/1987,Lake clear though algae is present- partly cloudy- air temp. 66 F- water at test site is 64 F.    
+09/09/1987,Lake clear though algae is present- fair sky- very dry- water temp. 66 F- lake level falling rapidly.    
+09/15/1987,Very dry- air temp. 68 F- water temp. 64 F- rained all night from 5 evening 9/16 to noon 9/17 dropping 2.7" rain.    
+09/27/1987,Partly cloudy- algae still present- no freezing temperatures to date- wind southwest- air 72 F- water 66 F- lake level still very low- no rain- last test of the season.    
+05/02/1988,Water 52 F- air 70 F- breezy- sky clear- ice off lake 4/13/88.    
+05/13/1988,Air 60 F- water 54 F- sky clear- rain on 5/8-.2"- 5/9-.8"- and 5/12-.6".    
+05/27/1988,Air 78 F- water 67 F    
+06/03/1988,No rain since 5/13- air 82 F- water 72 F    
+06/09/1988,Trace of rain 6/8- air 68 F- water 72 F    
+06/15/1988,3 days of 90 F+- water 78 F- plankton forming in water- no rain since May 13.    
+06/22/1988,Air 82 F- water 76 F- sky broken clouds- 0.5" rain 6/19- 0.4" rain 6/22    
+06/28/1988,1.0" rain- air 64 F- water 74 F.    
+07/04/1988,Heavy boat traffic- air 90 F- water 76 F- calm    
+07/12/1988,1.5" rain on 7/8- .3" rain on 7/9- air 78 F- water 76 F- algae particles evident.    
+07/23/1988,.8" rain 7/16- 1" 7/20- 1.1" 7/21.    
+08/01/1988,Salt size algae- air 90 F- water 78 F    
+08/09/1988,Rain 7/8-1.7"- suspended algae- much motor boat activity    
+08/20/1988,Rain .1" 8/11- 1.7" 8/12- .7" 8/13- air 78 F- water 75 F- rain settled algae    
+08/30/1988,Reduction of algae- rain .7" 8/22- .7" 8/27    
+09/07/1988,Rain 9/3 .6" - algae present    
+09/14/1988,Algae bloom decreasing- air 68 F- water 60- breezy    
+09/25/1988,2.7" rain since 9/16- air 65- water 58 F- water clearing of algae.    
+10/07/1988,Windy    
+10/15/1988,Lowest water level since 1945- air 50- water 45 F.    
+10/24/1988,2.3" rain between 10/16-10/23- last reading.    
+05/22/1989,Ice off 10% 4/21- 100% 4/23- partly cloudy today    
+06/06/1989,Partly cloudy- lake level 5/31- 1.10- 6/6- 1.16- water clearing    
+06/17/1989,Much rain lately- water clearing but lake level not improving    
+06/22/1989,Water temp. 60 F- previous rains helped water clarity    
+07/02/1989,Water temp. 72 F    
+07/09/1989,Hot- 94 F- lake level dropping rapidly.    
+07/15/1989,Very dry- 80 F    
+07/24/1989,Very dry- 90 F    
+07/31/1989,Rain .8" 7/28- .6" 7/29- 80 F    
+08/06/1989,Windy- 64 F- no rain    
+08/10/1989,Air 85 F- water 74 F- no rain    
+08/18/1989,Clear- algae forming- 80 F- not enough rain    
+08/31/1989,No rain- air 78 F- water 73 F- algae decreasing- lake level exceptionally low    
+09/09/1989,No rain- lake level decreasing    
+09/18/1989,No rain    
+09/21/1989,Lake level still dropping    
+09/30/1989,Algae clearing up- no rain- lake very low- last secchi reading    
+05/22/1990,Water 50 F- air 60 F- ice on 11/24/89- off 4/4/90- level=.16 5/2- =.36 5/10    
+06/15/1990,Rain 6.01" 6/12    
+06/21/1990,Water warming up- air 80 F    
+06/26/1990,Rain .4" in early a.m.- air 80 F    
+07/06/1990,Air 70 F    
+07/18/1990,Showers- level decreasing- heavy fishing pressure    
+07/26/1990,Still very dry- air 81 F- water 73 F    
+07/31/1990,Short showers but no measurable rain- level decreasing- windy- warm    
+08/08/1990,Very dry and windy- level lower    
+08/22/1990,Water smoky colored- 72 F- air 85 F- 2" rain 8/19-20.    
+08/27/1990,Heavy rain- 2-3" in 2 hours.- water 73 F- air 80 F- no algae clumps- water cloudy    
+09/04/1990,Received 3.4" rain in 24 hours. 9/6- level now .86'    
+09/13/1990,Rain 3.4" 9/6 level .86'- rain 1.8" 9/13- water 71 F    
+09/28/1990,Clear- air 58 F- water 62 F- algae reduced    
+10/11/1990,Last reading- lake level 10/31 .88'- ice on 12/2- heavy snow    
+06/25/1991,Ice off: 4/17- water temp: 76 F- 80 F- heavy rain recently.    
+09/22/1991,Algae clearing    
+05/20/1992,Ice out: 4-29.    
+07/13/1992,Too cold of weather for July.    
+08/19/1992,Weather very poor for swimming and water skiing.    
+09/13/1992,Test was after 3 or 4 cloudy days.    
+05/15/1993,Ice on November 28th 1992- ice out April 25th- winter fishing was poor.  Lake level: very high    
+06/02/1993,Previous weekend with lots of rain and wind.    
+06/21/1993,Lake level: very high    
+08/28/1993,Sunny and calm- good conditions for reading    
+04/18/1994,Not too deep a depth for the first time- but it was windy- very windy- 3 days before taking measurement.    
+04/26/1994,After a rain 2 days ago-keep smiling-    
+05/06/1994,Depth was greater than the last 2 times.  It has been quite a week.  Maybe the lake settled down.  I did it before the fishermen started churning it up.    
+06/29/1994,Lake level went down a lot in last 2 weeks.    
+08/30/1994,Cold month - fishing poor - crab infested.    
+09/08/1994,Real nice day- a little windy.  Thank you - Paul Verboomen.    
+10/12/1994,Very nice fall day- we can use about 180 more of them.  Paul.    
+05/02/1995,Very clear- this is the best I have ever seen it- but Maybe my eyes are getting better - haha!  no run off this spring- no snow - only went snowmobiling once on the trails.    
+05/18/1995,Cool weather.  Summer can start anytime now.    
+05/31/1995,Very nice day after miserable holiday weekend .  After a busy weekend us permanent residents get good weather-we deserve it.  Paul    
+06/09/1995,I can't see why the lake is so clear this year.  Today was an ideal day-no boat traffic.  Calm + sunny   are the other lakes clearer this year   I'll take this again after the weekend and we will see how much activity on the lake.  But May    
+06/16/1995,Lot of boating and swimming since it warmed up.  Summer has arrived.    
+06/22/1995,It was ideal conditions- calm + clear.  Very hot.  I don't know why the lake stays so good this year.  Are the other lakes the same     
+06/28/1995,Still dry- but there is some rain.    
+07/19/1995,I won't report no for 2 weeks.  I'm going on a trip to Belgium.  I will check when I get back-Paul.    
+08/23/1995,I missed taking reading for a few weeks-on vacation to Belgium for 3 weeks.    
+09/12/1995,Very nice day today- May you have a good one too.  P.v.    
+05/15/1996,Winter too long.    
+06/24/1996,Wonderful weather- lot of boat activity on the week of the 4th.    
+07/06/1996,Wonderful weather- lot of boat activity on the week of the 4th.    
+07/10/1996,Nice summer day.    
+10/12/1996,Also colder weather. merry Christmas.    
+05/23/1997,I'm late with this one - had surgery on my shoulder.  Spurs removed am recuperating.    
+06/27/1997,Water color between blue and green.    
+07/30/1997,Enjoyment level between 2 and 3.    
+08/07/1997,Enjoyment level between 2 and 3.    
+10/08/1999,Last reading - took the boat out.    
+05/13/2000,Best it has been since I started.    
+06/02/2000,Clear- very low    
+06/07/2000,Still low- blue gills not biting.    
+06/16/2000,No fish    
+06/27/2000,A little green. it was too windy to have a good test.    
+07/15/2000,About the same as last reading. it was calm today.    
+07/29/2000,Poor satellite test. lots of rain this week.    
+08/14/2000,Monday is a poor day to read. water is churned up from weekend boat traffic.    
+08/30/2000,Couldn't see too good- getting green.    
+09/16/2000,Lake not very clear this year. Maybe a lot of rain or too cool.    
+05/07/2002,Very clear    
+06/08/2002,Clear    
+07/16/2002,Boat traffic from 4th July murked water some.    
+10/14/2002,Clearing back up.    
+04/26/2003,Very clear water up 16"-18" from fall.  Very good.    
+06/07/2008,Water temp 65 F- air temp 71 F.  Very slight ripple on lake.  4 fishing boats- 2 loons- mallards mating. 
+07/04/2008,Water temp 73 F- air temp 72 F- lake calm.  6 fishing boats- 1 loon- mallards have hatched.
+08/08/2008,Water temp 74 F.  Air temp 71 F.  Slight ripple.  2 fishing boats- 1 pontoon.  2 loons.  Mallards gone.  Many young turtles.  Geese gone.
+09/20/2008,Water temp 65 F.  Lake is down 14" since ice out.  Loons are gone.
+06/05/2009,wtr temp 65 degrees air temp 62. very slight ripple 2 fishing boats 3 loons mallards hatched out
+07/04/2009,wtr temp 70 air temp 70- calm wtr- 8 fishing boats - 4 pontoon boats no ducks or geese 1 loon
+07/05/2009,wtr temp 71 air temp 74 slight chop 4 fishing boats 1 loon
+07/07/2009,wtr temp 70 air temp 65 5 fishing boats- 2 loons- 1 sea gull- 1 eagle
+07/13/2009,wtr temp 71 air temp 69- slight chop- 2 fishing boat 1 loon nesting 2 eggs ho ducks
+08/09/2009,wtr temp 74- air temp 79. slight chop on wtr. lot of boats and skiers and tubings. loon hatched on 7/13
+09/04/2009,wtr temp 72- air temp 78. calm numerous boats. 3 loons. 1 comorrant
+07/20/2010,no wind- air temp. 74 degrees- water temp. 78 degrees- light ripple- 1 fishing boat
+08/01/2010,no wind- air temp 68 degrees- water temp 77 degrees- overcast- light ripple
+08/23/2010,no wind- air temp 73 degrees- water temp. 77 degrees- perfect summer day- 5 fishing boats
+09/05/2010,light breeze- air temp 65 degrees
+10/01/2010,no wind- water extremely still (glass like)- air temp. 59 degrees- water temp 60.8 degrees- cloudy- overcast- no boats 
+05/29/2011,water still- no wind- overcazst- 4 jetskis- 5 pontoon boats- 9 small fishing boats- air temp. 66 degrees- water temp 60.8 degrees
+06/17/2011,10 boats- 4 speed- 2 pontoon boats- 3 jetskis
+07/04/2011,10 speed boats- 6 jet skis
+07/17/2011,2 fishing boats- 1 sail boat- slight breeze- sunny/hazy- air temp. 73 degrees- humid
+09/02/2011,2 ski boats just quit skiing- slight chop- hazy- cool - 60 degrees- water temp. 77 degrees- 
+09/09/2011,2 pontoon boats just floating in middle of lake- 74 degrees 
+05/18/2012,3 boats 1 paddle 1pontoon 1 Fishing
+72 degree slight breeze.
+05/27/2012,Data not collected too windy too much chop on water.
+06/08/2012,10 boats 3 fishing 3 pontoon
+2 jetskis 1 ski boats 
+06/16/2012,Water temp at 8" below surface 74 degrees. 5 fishing boats 2 pontoons 1 kayak 1 paddle.
+06/23/2012,5 boats no wind mostly sunny water temp 75 degrees.
+08/04/2012,High white cloudy 5 boats 2 dishing
+2 kayaks 1 pontoon.
+08/18/2012,3 boats 2 power one pontoon.
+Mostly Sunny cool morning 70degrees.
+05/20/2013,Cool Mid 60 slight breeze producing ripples 23' reading water temp 59 degrees.
+3boats  2fishing one pontoon loons present.
+06/03/2013,Jay Stellmacher Jen Stellmacher Bob Bohrer Taking reading 5 boats 2PWC
+3 Fish/Ski 2 Pontoons Mid 60Temp Still Blue skies no clouds 61 degree water temp
+30 Plus feet Secchi still visable no rope left.
+Loons present (4) Boyz club activity.
+
+
+
+
+Start Date,Group Name,Project Name
+02/16/1976,Data Collectors,Migrated from STORET Legacy
+04/29/1976,Data Collectors,Migrated from STORET Legacy
+07/27/1976,Data Collectors,Migrated from STORET Legacy
+10/27/1976,Data Collectors,Migrated from STORET Legacy
+06/13/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/17/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/26/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/09/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/14/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/20/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/25/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/06/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/16/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/23/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/30/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/06/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/13/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/20/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/24/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/02/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/17/1986,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/01/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/08/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/16/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/21/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/31/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/08/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/17/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/23/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/10/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/19/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/08/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/21/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/29/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/09/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/15/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/27/1987,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/02/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/13/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/27/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/03/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/09/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/15/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/22/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/28/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/12/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/23/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/01/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/09/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/20/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/30/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/07/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/14/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/25/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/07/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/15/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/24/1988,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/22/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/06/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/17/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/22/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/02/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/09/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/15/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/24/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/06/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/10/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/18/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/31/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/09/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/18/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/21/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/30/1989,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/22/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/15/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/21/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/26/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/06/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/18/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/26/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/08/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/22/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/27/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/04/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/13/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/28/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/11/1990,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/21/1991,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/24/1991,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/25/1991,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/10/1991,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/1991,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/22/1991,Roy Green,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/20/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/13/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/02/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/19/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/13/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/04/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/26/1992,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/15/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/02/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/10/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/21/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/28/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/16/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/28/1993,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/18/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/26/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/06/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/28/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/09/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/29/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/05/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/09/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/22/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/30/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/08/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/12/1994,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/02/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/18/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/24/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/31/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/09/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/16/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/22/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/28/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/10/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/19/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/23/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/28/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/12/1995,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/03/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/15/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/19/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/24/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/06/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/10/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/24/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/06/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/12/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/27/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/19/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/12/1996,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/23/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/27/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/14/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/23/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/30/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/07/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/29/1997,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/29/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/18/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/29/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/08/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/16/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/22/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/01/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/14/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/29/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/10/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/13/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/25/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/03/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/17/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/30/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/08/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/22/1998,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/01/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/11/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/18/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/02/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/24/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/08/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/19/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/12/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/15/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/20/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/01/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/08/1999,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/13/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/25/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/02/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/07/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/16/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/27/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/13/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/15/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/29/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/12/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/14/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/21/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/30/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/06/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/13/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/16/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/01/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/15/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/17/2000,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/26/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/01/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/15/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/25/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/01/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/07/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/20/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/30/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/05/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/16/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/01/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/17/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/18/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/10/2001,Paul Verboomen,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/07/2002,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/08/2002,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/16/2002,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/13/2002,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/14/2002,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/26/2003,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/25/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/14/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/27/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/11/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/25/2006,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/26/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/09/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/27/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/07/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/07/2006,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/25/2006,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/25/2007,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/10/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/21/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/06/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/24/2007,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/24/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/02/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/17/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/2007,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/02/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/08/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/22/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/03/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/06/2007,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/11/2007,Terry Aerts,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/04/2008,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/07/2008,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/29/2008,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/2008,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/08/2008,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/2008,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/20/2008,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/25/2009,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/05/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/14/2009,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/05/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/07/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/13/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/2009,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/09/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/01/2009,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comp Lake Mgmt Plan Ph 1
+09/04/2009,Craig Kowalski,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/07/2009,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+10/17/2009,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comp Lake Mgmt Plan Ph 1
+04/25/2010,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comp Lake Mgmt Plan Ph 1
+07/01/2010,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/02/2010,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comp Lake Mgmt Plan Ph 1
+07/20/2010,James Campbell,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/25/2010,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/01/2010,James Campbell,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/23/2010,James Campbell,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/05/2010,James Campbell,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/05/2010,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/28/2010,Gary Rosenbeck,WHEELER LAKE ASSN- INC: Wheeler Lake Comp Lake Mgmt Plan Ph 1
+10/01/2010,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+02/19/2011,Gary Rosenbeck,WHEELER LAKE ASSN- INC: Wheeler Lake Comp Lake Mgmt Plan Ph 1
+05/07/2011,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/29/2011,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/17/2011,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/26/2011,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/2011,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/17/2011,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/2011,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/2011,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/09/2011,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/01/2012,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/18/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/27/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/08/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/10/2012,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/16/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/23/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/22/2012,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/04/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/18/2012,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/30/2012,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/20/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/23/2013,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/03/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/22/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/28/2013,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/04/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/20/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/25/2013,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/10/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/17/2013,Bob Bohrer,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/03/2013,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/30/2014,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/30/2014,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/31/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/26/2015,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/29/2015,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/2015,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/08/2016,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/26/2016,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+06/30/2018,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/31/2018,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/02/2018,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+04/28/2019,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+05/28/2019,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comprehensive Lake Management Plan
+06/23/2019,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+07/28/2019,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/01/2019,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+09/03/2019,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comprehensive Lake Management Plan
+09/28/2019,Data Collectors,WHEELER LAKE ASSN- INC: Wheeler Lake Comprehensive Lake Management Plan
+07/03/2020,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole
+08/31/2020,Jay Stellmacher,Citizen Lake Monitoring - Water Quality - Wheeler Lake (439800)- Deep Hole

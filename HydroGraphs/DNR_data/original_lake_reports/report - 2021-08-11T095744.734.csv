@@ -1,0 +1,309 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Oconomowoc Lake,Waukesha,849600,SE,68,,683139,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,09/18/1973,,,,,10,,46,,,,,,
+1,11/20/1973,,,,,40,,57,,,,,,
+1,02/05/1974,,,,,30,,54,,,,,,
+1,04/03/1974,,,,,40,,57,,,,,,
+1,05/28/1974,,,,,20,,51,,,,,,
+1,06/05/1974,,,,,0,,,,,,,,
+1,06/06/1974,,,,,0,,,,,,,,
+1,06/10/1974,,,,,0,,,,,,,,
+1,07/12/1974,,,,,20,,51,,,,,,
+1,11/19/1974,,,,,40,,57,,,,,,
+1,02/18/1975,,,,,10,,46,,,,,,
+1,04/23/1975,,,,,20,,51,,,,,,
+1,09/18/1980,9.5,,2.9,3,,45,,43,,,,,
+1,09/14/1981,9,,2.75,4.8,,45,,47,,,,,
+1,07/26/1995,,,,0.51,ND*,,,30,,,,,
+1,08/29/1995,,,,2.83,ND*,,,43,,,,,
+1,10/26/1995,,,,4.4,9,,45,46,,,,,
+1,05/30/1996,,,,1.79,7,,43,39,,,,,
+1,04/26/2000,,,,,8,,44,,,,,,
+7000045,08/20/2003,9,NO,2.7,2.62,10,45,46,42,,,,GREEN,5-Enjoyment substantially impaired (algae)
+8188630,07/03/2007,6.4,NO,1.95,3.36,,50,,44,,,,,
+8188630,09/05/2007,12.3,NO,3.75,2.79,14,41,49,43,,,,,
+129580114,07/19/2011,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/14/2013,,,,0.446,12.9,,48,29,,,,,
+1,06/28/2013,,,,2.47,12.9,,48,42,,,,,
+1,07/30/2013,,,,4.81,9.76,,46,47,,,,,
+1,08/28/2013,,,,2.33,13.2,,48,41,,,,,
+1,03/06/2014,,,,0.388,14.3,,49,28,,,,,
+1,05/20/2014,,,,1.09,8.9,,45,35,,,,,
+1,07/01/2014,,,,2.75,12.4,,48,42,,,,,
+1,07/24/2014,,,,1.75,10.8,,47,39,,,,,
+1,08/22/2014,,,,1.37,11.4,,47,37,,,,,
+1,03/09/2015,,,,,15.6,,49,,,,,,
+1,04/28/2015,,,,0.639,12.2,,48,31,,,,,
+1,06/23/2015,,,,2.42,9.92,,46,41,,,,,
+1,07/29/2015,,,,1.27,10.3,,46,37,,,,,
+1,08/27/2015,,,,1.96,11.8,,47,40,,,,,
+1,04/26/2016,,,,0.523,12.6,,48,30,,,,,
+129580114,05/08/2016,30,NO,9.1,,,28,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/21/2016,24,NO,7.3,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/30/2016,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/17/2016,16,NO,4.9,,,37,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+129580114,06/25/2016,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,07/02/2016,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,07/10/2016,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,07/16/2016,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,07/24/2016,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+129580114,07/30/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,08/14/2016,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,08/20/2016,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,09/04/2016,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,09/17/2016,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/28/2017,17,NO,5.2,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/03/2017,15,NO,4.6,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/16/2017,13,NO,4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/27/2017,13,NO,4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/01/2017,12,NO,3.6,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/08/2017,10,NO,3,,,39,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+129580114,07/16/2017,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/30/2017,10,NO,3,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,08/13/2017,10,NO,3,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,08/25/2017,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,09/11/2017,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,09/23/2017,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/26/2018,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/08/2018,25,NO,7.6,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/28/2018,19,NO,5.8,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/07/2018,14,NO,4.3,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/11/2018,11,NO,3.3,,,43,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,08/14/2018,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/31/2019,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/15/2019,20,NO,6.1,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/27/2019,21,NO,6.4,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/12/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+129580114,07/25/2019,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+129580114,08/09/2019,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,05/15/2020,16,,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/25/2020,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,05/31/2020,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/16/2020,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,06/24/2020,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,07/01/2020,8,NO,2.4,,,47,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,07/09/2020,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+129580114,08/02/2020,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+129580114,08/14/2020,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,1-Beautiful, could not be nicer
+129580114,08/30/2020,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+129580114,09/05/2020,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+129580114,09/16/2020,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+09/18/1973,,,11.1111,C,.5,MG/L
+11/20/1973,,,44,C,10.5,MG/L
+02/05/1974,,,0,C,11.3,MG/L
+04/03/1974,,,3.33333,C,10.9,MG/L
+07/12/1974,,,10.2778,C,1.1,MG/L
+11/19/1974,,,45.5,C,10,MG/L
+02/18/1975,,,.555556,C,12.8,MG/L
+04/23/1975,,,3.88889,C,10.6,MG/L
+08/20/2003,1,FEET,26.6,DEGREES C,9.31,MG/L
+08/20/2003,3,FEET,26.56,DEGREES C,9.31,MG/L
+08/20/2003,6,FEET,26.51,DEGREES C,9.28,MG/L
+08/20/2003,9,FEET,26.33,DEGREES C,9.31,MG/L
+08/20/2003,12,FEET,26.23,DEGREES C,9.36,MG/L
+08/20/2003,15,FEET,26.05,DEGREES C,9.34,MG/L
+08/20/2003,18,FEET,24.54,DEGREES C,9.93,MG/L
+08/20/2003,21,FEET,23.37,DEGREES C,9.2,MG/L
+08/20/2003,24,FEET,20.87,DEGREES C,8.23,MG/L
+08/20/2003,27,FEET,17.13,DEGREES C,5.96,MG/L
+08/20/2003,30,FEET,15.47,DEGREES C,5,MG/L
+08/20/2003,33,FEET,13.75,DEGREES C,4.55,MG/L
+08/20/2003,36,FEET,12.17,DEGREES C,3.53,MG/L
+08/20/2003,39,FEET,11.31,DEGREES C,2.25,MG/L
+08/20/2003,42,FEET,10.49,DEGREES C,.66,MG/L
+08/20/2003,45,FEET,10.15,DEGREES C,.18,MG/L
+08/20/2003,48,FEET,9.89,DEGREES C,.14,MG/L
+08/20/2003,,,26.6,C,9.3,MG/L
+07/03/2007,0.5,METERS,23.8,DEGREES C,9.3,MG/L
+07/03/2007,1,METERS,23.9,DEGREES C,9.1,MG/L
+07/03/2007,2,METERS,23.9,DEGREES C,9.1,MG/L
+07/03/2007,3,METERS,23.9,DEGREES C,9.3,MG/L
+07/03/2007,4,METERS,23.9,DEGREES C,9.4,MG/L
+07/03/2007,5,METERS,23.5,DEGREES C,8.8,MG/L
+07/03/2007,6,METERS,22.9,DEGREES C,8,MG/L
+07/03/2007,7,METERS,19.2,DEGREES C,7.5,MG/L
+07/03/2007,8,METERS,16,DEGREES C,6.9,MG/L
+07/03/2007,9,METERS,13.5,DEGREES C,7.2,MG/L
+07/03/2007,10,METERS,10.9,DEGREES C,7.7,MG/L
+07/03/2007,11,METERS,9.1,DEGREES C,7.6,MG/L
+07/03/2007,12,METERS,8.4,DEGREES C,7.4,MG/L
+07/03/2007,13,METERS,7.9,DEGREES C,6.7,MG/L
+07/03/2007,14,METERS,7.7,DEGREES C,5.6,MG/L
+07/03/2007,15,METERS,7.4,DEGREES C,4.5,MG/L
+07/03/2007,16,METERS,7.2,DEGREES C,4.5,MG/L
+07/03/2007,17,METERS,7,DEGREES C,1.4,MG/L
+07/03/2007,18,METERS,6.8,DEGREES C,0.4,MG/L
+07/03/2007,18.5,METERS,6.8,DEGREES C,0.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/18/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/20/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/05/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/03/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/28/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/05/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/06/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/10/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/12/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/19/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/18/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/23/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/18/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/14/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/20/2003,DEEP SPOT @ 50FT     
+05/08/2016,Sunny. Wind 5-10
+05/21/2016,Sunny- Wind 5-10
+05/30/2016,Sunny. Wind 5. Memorial Day
+06/17/2016,Calm. I saw suds at the west shore yesterday with a higher wind.
+06/25/2016,Wind 10-15 and sunny
+07/02/2016,Wind 5 mph and sunny
+07/10/2016,Sunny. Wind 5-10
+07/16/2016,Sunny and calm
+07/24/2016,Sunny. Wind 10-15 mph
+07/30/2016,Sunny- Wind 10-15 mph
+08/14/2016,Sunny. Wind 10-15 mph
+08/20/2016,Cloudy. Wind 10 mph. Heavy rain last night.
+09/04/2016,Partly Cloudy. Wind 10-15 mph
+09/17/2016,Sunny. Wind 5 mph
+05/28/2017,Sunny- wind 5 mph
+05/28/2017,sunny- wind 5 mph
+06/03/2017,sunny- wind 0-5 mph
+06/27/2017,Partly cloudy
+07/01/2017,sunny
+07/08/2017,Sunny
+07/08/2017,sunny
+07/16/2017,Sunny wind 5 to 10 mph
+07/30/2017,Sunny calm winds Sunny calm winds Sunny calm winds Sunny calm
+07/30/2017,Sunny wind 0 to 5 mph
+08/13/2017,Sunny calm wind
+08/25/2017,Sunny 5 to 10 mph wind
+09/11/2017,Sunny + calm
+09/23/2017,Sunny + Calm 92 degrees in late September
+05/26/2018,Sunny Low Wind
+05/26/2018,Sunny Low Wind Sunny Low Wind
+06/08/2018,Sunny  Low Wind Sunny 5 mph wind
+06/28/2018,Sunny no wind Sunny Low wind
+07/07/2018,Sunny 5 mph wind
+07/07/2018,Sunny 5 mph wind 
+07/11/2018,Sunny 10 mph wind very dry for last 10 days 
+07/11/2018,Sunny 5 mph wind
+
+
+
+
+Start Date,Group Name,Project Name
+09/18/1973,Data Collectors,Migrated from STORET Legacy
+11/20/1973,Data Collectors,Migrated from STORET Legacy
+02/05/1974,Data Collectors,Migrated from STORET Legacy
+04/03/1974,Data Collectors,Migrated from STORET Legacy
+05/28/1974,Data Collectors,Migrated from STORET Legacy
+06/05/1974,Data Collectors,Migrated from STORET Legacy
+06/06/1974,Data Collectors,Migrated from STORET Legacy
+06/10/1974,Data Collectors,Migrated from STORET Legacy
+07/12/1974,Data Collectors,Migrated from STORET Legacy
+11/19/1974,Data Collectors,Migrated from STORET Legacy
+02/18/1975,Data Collectors,Migrated from STORET Legacy
+04/23/1975,Data Collectors,Migrated from STORET Legacy
+09/18/1980,Data Collectors,Migrated from STORET Legacy
+09/14/1981,Data Collectors,Migrated from STORET Legacy
+07/26/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/29/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+10/26/1995,Data Collectors,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/30/1996,Data Collectors,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+04/26/2000,Data Collectors,BIG GREEN LAKE SEDIMENT
+08/20/2003,Heidi Bunk,Lake Baseline Monitoring- DNR (1970s-2006)
+08/20/2003,Heidi Bunk,Proposed SER Legacy and Historical Data Entry - East District 
+07/03/2007,USGS,National Lake Survey - Index Sampling
+09/05/2007,USGS,National Lake Survey - Index Sampling
+07/19/2011,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/14/2013,Data Collectors,USGS LAKE SAMPLES
+06/28/2013,Data Collectors,USGS LAKE SAMPLES
+07/30/2013,Data Collectors,USGS LAKE SAMPLES
+08/28/2013,Data Collectors,USGS LAKE SAMPLES
+03/06/2014,Data Collectors,USGS LAKE SAMPLES
+05/20/2014,Data Collectors,USGS LAKE SAMPLES
+07/01/2014,Data Collectors,USGS LAKE SAMPLES
+07/24/2014,Data Collectors,USGS LAKE SAMPLES
+08/22/2014,Data Collectors,USGS LAKE SAMPLES
+03/09/2015,Data Collectors,USGS LAKE SAMPLES
+04/28/2015,Data Collectors,USGS LAKE SAMPLES
+06/23/2015,Data Collectors,USGS LAKE SAMPLES
+07/29/2015,Data Collectors,USGS LAKE SAMPLES
+08/27/2015,Data Collectors,USGS LAKE SAMPLES
+04/26/2016,Data Collectors,USGS LAKE SAMPLES
+05/08/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/21/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/30/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/17/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/25/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/02/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/10/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/16/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/24/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/30/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/14/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/20/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+09/04/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+09/17/2016,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/28/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/28/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+06/03/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/03/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+06/16/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/16/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+06/27/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/27/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+07/01/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/01/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+07/08/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/08/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+07/16/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/30/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/30/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+08/13/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/25/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+09/11/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+09/23/2017,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/26/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/26/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+06/08/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/08/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+06/28/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/28/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+07/07/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/07/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+07/11/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/11/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+08/14/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/14/2018,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lk- Site #2 (Hewitt Pt) - Deep Hole- NE Bay
+05/31/2019,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/15/2019,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/27/2019,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/12/2019,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/25/2019,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/09/2019,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/15/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/25/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+05/31/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/16/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+06/24/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/01/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+07/09/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/02/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/14/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+08/30/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+09/05/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole
+09/16/2020,Julie and Walter Page,Citizen Lake Monitoring - Water Quality - Oconomowoc Lake - Deep Hole

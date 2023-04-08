@@ -1,0 +1,323 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Paya Lake,Oconto,425600,NE,43,,433071,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/16/1976,,,,,7,,43,,,,,,
+1,04/29/1976,16.4,,5,,,37,,,,,,,
+1,07/27/1976,23,,7,,,32,,,,,,,
+1,10/27/1976,13.9,,4.25,,,39,,,,,,,
+8189768,06/23/1996,3.5,NO,1.1,,,59,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189768,07/01/1996,4.5,NO,1.4,,,55,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8189768,07/07/1996,3.75,NO,1.1,,,58,,,HIGH,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8189768,07/14/1996,4,NO,1.2,,,57,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189768,07/22/1996,4.75,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8188623,07/15/2004,23,NO,7,0.87,8,32,44,34,,,,,
+29174881,04/19/2009,33,NO,10,,,27,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/31/2009,31,YES,9.4,,,28,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/05/2009,26.5,NO,8.1,,,30,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,08/15/2009,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,09/06/2009,16.5,NO,5,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,11/08/2009,20.6,NO,6.3,,,34,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,04/11/2010,33,NO,10,,,27,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/07/2010,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,07/09/2010,22,NO,6.7,,,33,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,09/05/2010,17,NO,5.2,,,36,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+29174881,05/22/2011,24,NO,7.3,,9,31,45,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/29/2011,29,NO,8.8,,,29,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,06/25/2011,30,NO,9.1,1.24,7,28,43,36,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,07/30/2011,,,,1.43,7,,43,38,,,,,
+29174881,07/31/2011,17,NO,5.2,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,08/28/2011,20,NO,6.1,1.5,8,34,44,38,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+29174881,10/02/2011,25,NO,7.6,,,31,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,04/07/2012,33,NO,10,,,27,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/12/2012,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/13/2012,,,,,6,,42,,,,,,
+29174881,06/25/2012,19,NO,5.8,1.45,8,35,44,38,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/30/2012,19,NO,5.8,2.04,9,35,45,40,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+29174881,09/16/2012,,,,2.55,9,,45,42,,,,,
+29174881,05/19/2013,20,YES,6.1,,11.4,34,47,,LOW,6,CLEAR,BLUE,2-Very minor aesthetic problems
+29174881,07/01/2013,22,NO,6.7,,,33,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/05/2013,,,,1.24,,,,36,,,,,
+29174881,08/11/2013,16,NO,4.9,1.71,ND*,37,,39,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+29174881,05/26/2014,32,NO,9.7,,,27,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/04/2014,,,,1.33,7.31,,44,37,,,,,
+29174881,07/05/2014,27,NO,8.2,,,30,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,08/22/2014,14,NO,4.3,2.46,8.17,39,44,42,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+29174881,04/26/2015,30, ,9.1,,,28,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/31/2015,22, ,6.7,,8.46,33,45,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,06/27/2015,,,,1.23,8.75,,45,36,,,,,
+29174881,06/28/2015,18, ,5.5,,,35,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+29174881,08/21/2015,13,NO,4,2.09,6.31,40,42,40,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+29174881,05/21/2016,32,YES,9.7,,,27,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/22/2016,,,,,10.1,,46,,,,,,
+29174881,07/01/2016,31,YES,9.4,0.626,10.7,28,47,31,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/25/2016,19,NO,5.8,0.845,10.2,35,46,34,HIGH,,,BLUE,2-Very minor aesthetic problems
+29174881,08/29/2016,22,NO,6.7,0.91,12.1,33,47,34,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+125862804,09/01/2016,21.5,NO,6.5,,,33,,,,,CLEAR,,1-Beautiful, could not be nicer
+79323097,09/29/2016,13.75,NO,4.2,,,39,,,NORMAL,,,,
+79323097,11/10/2016,13.5,NO,4.1,,,40,,,NORMAL,,,,
+79323097,02/28/2017,,,,,,,,,,,,,
+1,04/28/2017,,,,,11,,47,,,,,,
+79323097,04/28/2017,15,NO,4.6,,,38,,,,,,,
+29174881,05/26/2017,27,YES,8.2,,,30,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+35009379,06/13/2017,,,,2.86,21,,52,43,,,,,
+29174881,06/29/2017,23,NO,7,,,32,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+35009379,07/11/2017,,,,2.67,16.6,,50,42,,,,,
+35009379,08/10/2017,,,,3.06,16.3,,50,43,,,,,
+29174881,08/11/2017,15,NO,4.6,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+148112004,09/13/2017,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,05/15/2018,32,No,9.7,,,27,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,06/13/2018,27,NO,8.2,1.26,12.3,30,48,37,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,07/25/2018,,,,0.885,8.15,,44,34,,,,,
+29174881,08/23/2018,21,NO,6.4,1.55,7.17,33,43,38,LOW,,,BLUE,1-Beautiful, could not be nicer
+29174881,09/12/2018,,,,,,,,,,1.5,,,
+29174881,05/29/2019,20,NO,6.1,,,34,,,HIGH,1.78,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,06/17/2019,,,,1.46,9,,45,38,,,,,
+29174881,07/15/2019,19,NO,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29174881,08/09/2019,,,,1.42,8.88,,45,37,,,,,
+1,09/08/2019,,,,1.59,ND*,,,38,,,,,
+203553177,09/08/2019,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+203553177,06/19/2020,16,NO,4.9,,,37,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+203553177,07/30/2020,18,NO,5.5,1.22,12.7,35,48,36,HIGH,1.04,CLEAR,GREEN,1-Beautiful, could not be nicer
+203553177,08/23/2020,,,,1.74,12,,47,39,,,,,
+203553177,09/26/2020,,,,1.55,12.5,,48,38,,,,,
+203553177,09/27/2020,19,NO,5.8,,,35,,,NORMAL,.79,CLEAR,BLUE,1-Beautiful, could not be nicer
+203553177,10/10/2020,,,,,,,,,,0.78,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/16/1976,,,0,C,9.5,MG/L
+04/29/1976,,,8.7,C,10.6,MG/L
+07/27/1976,,,24.9,C,9.2,MG/L
+10/27/1976,,,7.3,C,9.2,MG/L
+07/15/2004,6.56,FEET,,,7,MG/L
+07/15/2004,,,22.4,C,7.0,MG/L
+09/01/2016,3,FEET,23.86,DEGREES C,8.92,MG/L
+09/01/2016,6,FEET,23.88,DEGREES C,8.88,MG/L
+09/01/2016,9,FEET,23.89,DEGREES C,8.73,MG/L
+09/01/2016,12,FEET,23.86,DEGREES C,8.59,MG/L
+09/01/2016,15,FEET,23.85,DEGREES C,8.6,MG/L
+09/01/2016,18,FEET,23.84,DEGREES C,8.35,MG/L
+09/01/2016,21,FEET,23.82,DEGREES C,8.4,MG/L
+09/01/2016,24,FEET,23.82,DEGREES C,8.35,MG/L
+09/01/2016,27,FEET,23.7,DEGREES C,8.4,MG/L
+09/01/2016,30,FEET,23.55,DEGREES C,8.16,MG/L
+09/01/2016,33,FEET,21.9,DEGREES C,5.97,MG/L
+09/01/2016,36,FEET,19.51,DEGREES C,.49,MG/L
+09/01/2016,39,FEET,17.47,DEGREES C,.01,MG/L
+09/29/2016,1,FEET,19.4,DEGREES C,8.25,MG/L
+09/29/2016,2,FEET,19.2,DEGREES C,8.26,MG/L
+09/29/2016,3,FEET,19.1,DEGREES C,8.28,MG/L
+09/29/2016,4,FEET,19,DEGREES C,8.29,MG/L
+09/29/2016,5,FEET,19,DEGREES C,8.29,MG/L
+09/29/2016,6,FEET,19,DEGREES C,8.29,MG/L
+09/29/2016,7,FEET,18.9,DEGREES C,8.3,MG/L
+09/29/2016,8,FEET,18.9,DEGREES C,8.31,MG/L
+09/29/2016,9,FEET,18.9,DEGREES C,8.31,MG/L
+09/29/2016,10,FEET,18.9,DEGREES C,8.31,MG/L
+09/29/2016,11,FEET,18.9,DEGREES C,8.32,MG/L
+09/29/2016,12,FEET,18.9,DEGREES C,8.34,MG/L
+09/29/2016,13,FEET,18.9,DEGREES C,8.33,MG/L
+09/29/2016,14,FEET,18.8,DEGREES C,8.34,MG/L
+09/29/2016,15,FEET,18.8,DEGREES C,8.34,MG/L
+09/29/2016,16,FEET,18.8,DEGREES C,8.35,MG/L
+09/29/2016,17,FEET,18.8,DEGREES C,8.35,MG/L
+09/29/2016,18,FEET,18.8,DEGREES C,8.36,MG/L
+09/29/2016,19,FEET,18.8,DEGREES C,8.36,MG/L
+09/29/2016,20,FEET,18.8,DEGREES C,8.37,MG/L
+09/29/2016,21,FEET,18.8,DEGREES C,8.37,MG/L
+09/29/2016,22,FEET,18.8,DEGREES C,8.37,MG/L
+09/29/2016,23,FEET,18.9,DEGREES C,4.5,MG/L
+11/10/2016,1,FEET,11.2,DEGREES C,9.95,MG/L
+11/10/2016,3,FEET,11.1,DEGREES C,10.03,MG/L
+11/10/2016,5,FEET,11.1,DEGREES C,10.06,MG/L
+11/10/2016,7,FEET,11,DEGREES C,10.09,MG/L
+11/10/2016,9,FEET,11,DEGREES C,10.08,MG/L
+11/10/2016,11,FEET,11,DEGREES C,10.16,MG/L
+11/10/2016,13,FEET,11,DEGREES C,10.21,MG/L
+11/10/2016,15,FEET,10.9,DEGREES C,10.26,MG/L
+11/10/2016,17,FEET,10.9,DEGREES C,10.28,MG/L
+11/10/2016,19,FEET,10.8,DEGREES C,10.27,MG/L
+11/10/2016,21,FEET,10.9,DEGREES C,10.27,MG/L
+02/28/2017,2,FEET,2.2,DEGREES C,13.32,MG/L
+02/28/2017,4,FEET,3.3,DEGREES C,13.18,MG/L
+02/28/2017,6,FEET,3.9,DEGREES C,12.83,MG/L
+02/28/2017,8,FEET,3.9,DEGREES C,12.77,MG/L
+02/28/2017,10,FEET,4.1,DEGREES C,11.95,MG/L
+02/28/2017,12,FEET,4.3,DEGREES C,11.58,MG/L
+02/28/2017,14,FEET,4.4,DEGREES C,11.35,MG/L
+02/28/2017,16,FEET,4.4,DEGREES C,11.23,MG/L
+02/28/2017,18,FEET,4.4,DEGREES C,10.65,MG/L
+02/28/2017,20,FEET,4.5,DEGREES C,9.36,MG/L
+02/28/2017,22,FEET,4.7,DEGREES C,7.6,MG/L
+02/28/2017,24,FEET,4.8,DEGREES C,7.1,MG/L
+02/28/2017,26,FEET,5,DEGREES C,6.23,MG/L
+02/28/2017,28,FEET,5.3,DEGREES C,.9,MG/L
+02/28/2017,30,FEET,5.4,DEGREES C,.42,MG/L
+02/28/2017,32,FEET,5.5,DEGREES C,.15,MG/L
+02/28/2017,34,FEET,5.5,DEGREES C,.08,MG/L
+02/28/2017,36,FEET,5.5,DEGREES C,.05,MG/L
+04/28/2017,2,FEET,9.93,DEGREES C,9.76,MG/L
+04/28/2017,6,FEET,9.92,DEGREES C,8.47,MG/L
+04/28/2017,10,FEET,9.85,DEGREES C,6.84,MG/L
+04/28/2017,14,FEET,9.83,DEGREES C,4.99,MG/L
+04/28/2017,18,FEET,9.74,DEGREES C,6.51,MG/L
+04/28/2017,22,FEET,9.62,DEGREES C,5.31,MG/L
+04/28/2017,26,FEET,8.93,DEGREES C,5.54,MG/L
+04/28/2017,30,FEET,7.94,DEGREES C,7.31,MG/L
+04/28/2017,34,FEET,7.75,DEGREES C,5.13,MG/L
+09/13/2017,3,FEET,19.73,DEGREES C,10.37,MG/L
+09/13/2017,6,FEET,19.57,DEGREES C,10.19,MG/L
+09/13/2017,9,FEET,19.48,DEGREES C,9.35,MG/L
+09/13/2017,12,FEET,19.36,DEGREES C,8.57,MG/L
+09/13/2017,15,FEET,19.31,DEGREES C,8.93,MG/L
+09/13/2017,18,FEET,19.25,DEGREES C,8.59,MG/L
+09/13/2017,21,FEET,19.12,DEGREES C,7.72,MG/L
+09/13/2017,24,FEET,19.01,DEGREES C,7.99,MG/L
+09/13/2017,27,FEET,18.96,DEGREES C,7.76,MG/L
+09/13/2017,30,FEET,18.8,DEGREES C,7.07,MG/L
+09/13/2017,33,FEET,18.5,DEGREES C,5.63,MG/L
+09/13/2017,36,FEET,17.08,DEGREES C,.34,MG/L
+09/13/2017,39,FEET,15.09,DEGREES C,.11,MG/L
+
+
+
+Start Date,Fieldwork Comment
+02/16/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/29/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/27/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/27/1976,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/23/1996,Cloudy.    
+07/01/1996,Windy-rain.    
+07/07/1996,Too many boats-windy-cloudy.    
+07/14/1996,Boats up to 300 hp. sunny.    
+07/22/1996,Sunny-wind northeast.    
+07/15/2004,DEEPEST AREA - INTEGRATED SAMPLE    
+04/19/2009,Partly sunny. One week after ice left the lake. No boat traffic- calm conditions.  Warm day. Loons already on the lake.  Geese going over with some stops on the lake.
+05/31/2009,2 loons on the lake.  Multiple geese landed and stayed overnight leaving early on Sun. Pair of geese stayed the duration of the day. Sunny- clear with temperatures in the mid 60's. limited boat traffic the day before. Pollen particles in the water but still very clear.  Several comments from others that the water seems more clear than a typical spring.  Could not locate deepest area but could see to the bottom in 5 separate locations. Large bear tracks passing through our property looking for the bird feeder.
+07/05/2009,The lake was extremely busy on the 4th. with boat traffic.  The water is clear but not as clear as in the early part of the year.  Slight greenish cast with minor impurities in the water but still clear.  The water levels are very low- probably a foot lower than 2 years ago.  The day was slightly overcast when the test was taken.  The loons are very active providing some excellent opportunities for photos.
+08/15/2009,Boat traffic has been pretty heavy for the last few weekends.  
+09/06/2009,Water is clear but has a greenish hint to the color with some floating particles.  We have had 4 loons at times this year but 2 consistantly.  I have some great pictures of a loon swallowing a pretty good size fish. Boating on weekends has been high.
+11/08/2009,Great fall weekend.  Almost 70 degrees.  I took the sample from my row boat with everything else being put away for the winter.  Unusual- we haven't seen any geese leaving this year.  We must have missed them.  One loon was hanging around longer than usual this year.  Hopefully he isn't looking for his mate.
+04/11/2010,One of the best and earlist springs I can remember.  The ice has been out for several weeks and the weather has been fantastic.  The frost in the ground was out early and it dried up right away.  Very little moisture yet this spring.  Little to no boat traffic.  One loon was back but I haven't seen the other one yet.  The water level came up a little from last fall but is still quite far down from the high water mark. One of the best and earlist springs I can remember.  The ice has been out for several weeks and the weather has been fantastic.  The frost in the ground was out early and it dried up right away.  Very little moisture yet this spring.  Little to no boat traffic.  One loon was back but I haven't seen the other one yet.  The water level came up a little from last fall but is still quite far down from the high water mark.  I had to use the length of the rope and holder plus my arm and still could see the dish.
+07/07/2010,Lots of boat traffic over the weekend.  Several loons were on the lake together other than our normal two.  Rainy year and the water is up a fair amount but yet to go.
+07/09/2010,Lots of rain this week and a lot of boat traffic over the last few weeks.  Very warm summer.  Lake was calm at the time and pretty clear morning.  Loons still swimming around and calling to each other at night.
+09/05/2010,Lots of boat traffic this summer.  Great summer- lots of rain but we really never had a bad weekend.
+05/22/2011,Very cloudy day the day after an all night rain so it was difficult to see as deep as I usually do this time of the year. Two loons again on the lake early with one present while I was testing.  A pair of ducks are out and about again this year.  Very little weed growth observed in a canoe ride around the lake.  The lake level is up 16 inches from last summer.
+05/29/2011,The day was overcast but brighter than the day I tested the week before so I was able to see further down.  Boaters are out and spring residue is in the water but still very clear.
+06/25/2011,Nice clear sunny day so visibility was very good. Sun glasses were worn.  The water height continues to improve over last year and appears to be 16 to 18 inches higher than last year.  Minimal boat traffic so far this summer because of rainy weather but it has picked up starting this weekend.  3 loons on the lake today.  Summer appears to have arrived.
+07/31/2011,The water is not as clear as it was on the last test.  Boat traffic- warm temperatures and recent rains contributes to the lack of clarity.  The lake levels is maintaining it's height from the early spring and it is 16 plus inches higher than last year.  Today was clear and the depth test taken from the shady side of the boat and I had sunglasses on.  There were 5 loons swimming around but I'm sure with all the little fish the eating is good.  An exceptionally warm part of the year.
+08/28/2011,Very nice clear morning with lots of sun.  I had my sunglasses on when looking at the depth.  The loons were not out that morning but later in the day a couple were entertaining us flopping around and entertaining as his mate looked on in wonder.  The loons appeared smaller as if it wasn't the same ones that I've seen in the past.  Lots of boat traffic this summer and little rain for the past few weeks.  Very nice summer since our late spring.
+10/02/2011,End of the year so the lake is getting more clear again.  No boat traffic.  The loons are still around.
+04/07/2012,Ice was out very early this year as were all lakes in Wisconsin.  Nothing unusual to report. Ice was out very early as were all lakes in Wisconsin.  A warm early dry spring was welcome from an enjoyment standpoint.  No loons were noted at this time.
+05/12/2012,The loons are back on the lack which is alway good to see and hear. The water level is amazingly high even with the lack of snow and moisture this spring.  The level is higher than in fall but still not considered high but higher than the previous couple of years.
+06/25/2012,Water is still very clear but the depth of visibility is less than a month ago.
+07/30/2012,Nice day and a great summer.  Water temperature appears to be at an all time high.  Along with this the boat traffic is heavy but the clarity wasn't too bad.  Our loons are back and have seen more than the usual pair at times.  Sun glasses were on when I checked the depth and it was a bit cloudy at that time
+05/19/2013,I didn't get out as soon as has been in previous years so the water already had a lot of spring plant growth which limited the clarity somewhat.  I did not have sun glasses on and it was a little windy.  The loons are back and even had a visiting 3rd loon for a short period of time.  The winter was long and not for spring so far. The ice was out for more than two weeks so some spring tree growth and pollen was already making the appearance a little less clear than normal.  The wind and early spring bloom made the visibiltiy less than in the past.  When I say the appearance had minor issues it is comparrison to previous years.  The lake is allways clear but has been better in the past.
+08/11/2013,The water is always clear but this time of year can take on a greenish cast so there are minor issues with appearance but only comparing to the exceptional appearance during other portions of the year.  It seems a little silty but the boat traffic at this time of year is heavy.  Some of the larger slow moving boats create exceptionally high waves that crash to the shoreline. The loons continue to be active and are always a pleasure to see.  This test I had sun glasses on but there wasn't a great deal of sunshine into the water which contributes to only seeing 16 feet into the water.
+The water level is not alarmingly low but lower than the beginning of the summer and substantially lower than the high water mark. There appears to be more weed activity in the past few years in comparison to previous years.
+05/26/2014,It was a long cold winter but spring finally hit just in time for summer.  Memorial weekend was about as good as it could get with low humidity and temps into the 80's.  Full sun.  I think we are trying to get pay back for the winter season.  Water testing was a little later than it should be but still could see the dish the full length of the room and my arm.  The loons are out but with the boat traffic were a little quiet over the holiday but active from ice out until now.  The ice was still on for opening of the fishing season.  Great winter if you liked snow and cold but now we are off to the summer season. The water is pretty cold but boats were out along with the kids enjoying the water. 
+07/05/2014,Slow start to summer but a busy weekend over the 4th.  Clarity very good for a mid-summer test.
+08/22/2014,Very gloomy and dark day so the water clarity was most likely less because of that.
+05/21/2016,Water is extremely clear.  I hit bottom in two spots and saw it all the way to the bottom.  Water level was excessively high this spring to the point it was causing damage to the shore lines.  Water way overflow was plugged up causing the level to stay high until some of the area was cleared.  Loon activity seems a little quiet this year.  There are some visitors but they don't seem to be here as much and the activity is less.
+07/01/2016,The lake seems more clear than usual but the boat activity up to the holiday weekend has been somewhat light.  The loons visit but don't seem to be here as much as they have in the past.  The loon activity has been light.
+07/25/2016,Boat traffic and this time of the year makes a significant difference on the water clarity. The reading was done from a higher boat so the reading also is a little different because of that.
+08/29/2016,Water seems more clear than in July.  Gloomy day but the reading was still pretty good.
+05/26/2017,The clarity was less than previous years but the sample was on a cloudy day plus somewhat late because ice out was typically better clarity.  Spring tree activity also is adding to the lack of clarity.
+06/29/2017,Lots of rain the last couple weeks.  Water overflowing the lake a lot and enough to saturate the area that it flows to.  
+08/11/2017,Pretty cloudy so difficult to see down real far this time.
+05/15/2018,Water was amazing as it usually is at this time of the year.   The ice was out May 5th with all the snow and cold this winter.  Clarity is always exceptional until everything starts to grow and drop into the lake.  Loons were here right away again.  Starting this summer with a very warm start.
+05/29/2019,I didn't get out in the lake when the ice was first out and at this time of the year we have a lot of pollen and the boat traffic stirring up the lake so the reading wasn't as good as usual.
+
+
+
+
+Start Date,Group Name,Project Name
+02/16/1976,Data Collectors,Migrated from STORET Legacy
+04/29/1976,Data Collectors,Migrated from STORET Legacy
+07/27/1976,Data Collectors,Migrated from STORET Legacy
+10/27/1976,Data Collectors,Migrated from STORET Legacy
+06/23/1996,Walter Skrivanie,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/01/1996,Walter Skrivanie,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/07/1996,Walter Skrivanie,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/14/1996,Walter Skrivanie,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/22/1996,Walter Skrivanie,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/15/2004,Greg Sevener,Lake Baseline Monitoring- DNR (1970s-2006)
+04/19/2009,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/31/2009,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/05/2009,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/15/2009,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/06/2009,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+11/08/2009,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+04/11/2010,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/07/2010,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/09/2010,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/05/2010,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/22/2011,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/29/2011,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/25/2011,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/30/2011,Data Collectors,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/31/2011,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/28/2011,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+10/02/2011,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+04/07/2012,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/12/2012,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/13/2012,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/25/2012,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/30/2012,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/16/2012,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/19/2013,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/01/2013,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/05/2013,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/11/2013,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/26/2014,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/04/2014,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/05/2014,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/22/2014,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+04/26/2015,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/31/2015,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/27/2015,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/28/2015,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/21/2015,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/21/2016,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/22/2016,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/01/2016,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/25/2016,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/29/2016,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/01/2016,Brenda L Nordin- TRAVIS J KINNING,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/29/2016,Ryan Haney,Oconto County Lake Studies
+11/10/2016,Ryan Haney,Oconto County Lake Studies
+02/28/2017,Ryan Haney,Oconto County Lake Studies
+04/28/2017,Data Collectors,
+04/28/2017,Ryan Haney,Oconto County Lake Studies
+05/26/2017,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/13/2017,Ray Knutowski,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/29/2017,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/11/2017,Ray Knutowski,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/10/2017,Ray Knutowski,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/11/2017,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/13/2017,Brenda L Nordin- BRIAN D ZALAY,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+05/15/2018,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/13/2018,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/25/2018,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/23/2018,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/12/2018,Bernie Bangert,AIS Occurrence Records - 'Other' Records Reviewed
+09/12/2018,Bernie Bangert,Citizen Water Level Monitoring - Paya Lake - Oconto County
+05/29/2019,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/17/2019,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/15/2019,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/09/2019,Bernie Bangert,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/08/2019,Data Collectors,
+09/08/2019,Lisa Slaby,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+06/19/2020,Lisa Slaby,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+07/30/2020,Lisa Slaby,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+08/23/2020,Lisa Slaby,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/26/2020,Lisa Slaby,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+09/27/2020,Lisa Slaby,Citizen Lake Monitoring - Water Quality - Paya Lake - Deep Hole
+10/10/2020,Lisa Slaby,Citizen Water Level Monitoring - Paya Lake - Oconto County

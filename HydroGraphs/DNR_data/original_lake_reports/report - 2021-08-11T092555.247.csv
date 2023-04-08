@@ -1,0 +1,191 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Irving Lake,Vilas,2340900,NO,64,,643489,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190557,10/02/1998,10,NO,3,,,44,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189385,10/10/1998,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189383,05/03/1999,6,NO,1.8,8.98,30,51,54,51,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189383,05/14/1999,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/01/1999,4.5,,1.4,22.9,,55,,58,,,,,
+8189383,06/01/1999,4.5,NO,1.4,,,55,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189382,06/10/1999,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189383,06/23/1999,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/28/1999,4,,1.2,14.7,,57,,55,,,,,
+8189383,06/28/1999,4,NO,1.2,,,55,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189383,07/08/1999,4,NO,1.2,,,57,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189383,07/20/1999,4,NO,1.2,6.22,42,57,57,49,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189383,08/03/1999,5,NO,1.5,,,54,,,NO CHANGE,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+1,08/10/1999,6,,1.8,10,36,51,56,52,,,,,
+8189385,08/19/1999,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189383,09/01/1999,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189383,10/01/1999,5,NO,1.5,,,54,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+1,10/05/1999,6.5,,2,5,,50,,47,,,,,
+8189382,10/05/1999,6.5,NO,2,,,50,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189383,10/28/1999,7,NO,2.1,,,49,,,NO CHANGE,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189382,04/24/2000,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189382,05/01/2000,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189382,05/18/2000,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,06/05/2000,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189382,07/04/2000,6,NO,1.8,,,51,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190557,07/20/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190557,08/14/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190557,08/21/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190557,09/10/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190557,09/25/2000,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189382,10/17/2000,5,NO,1.5,,,54,,,LOW,,MURKY,GREEN,1-Beautiful, could not be nicer
+1,05/16/2018,7.2,N,2.2,3.71,21.6,49,52,45,,,,,
+1,06/26/2018,5.2,N,1.6,3.11,25.5,53,53,43,,,,,
+34972236,07/24/2018,6.2,N,1.9,4.02,22.5,51,52,45,,,,,
+1,08/23/2018,6.5,N,2,2.74,30.9,50,55,42,,,,,
+1,10/25/2018,6.8,N,2.1,7.43,18.9,50,51,50,,,,,
+1,02/20/2019,4.8,N,1.5,,25.4,55,53,,,,,,
+8190240,04/30/2019,,,,,20.6,,52,,,,,,
+236963861,07/28/2020,4.5,N,1.4,,,55,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+10/10/1998,3,FEET,52,DEGREES F,9,MG/L
+10/10/1998,6,FEET,52,DEGREES F,8,MG/L
+10/10/1998,9,FEET,51,DEGREES F,8,MG/L
+10/10/1998,12,FEET,51,DEGREES F,8,MG/L
+05/03/1999,3,FEET,64,DEGREES F,9,MG/L
+05/03/1999,6,FEET,63,DEGREES F,9,MG/L
+05/03/1999,9,FEET,59,DEGREES F,10,MG/L
+05/14/1999,3,FEET,58,DEGREES F,9,MG/L
+05/14/1999,6,FEET,58,DEGREES F,9,MG/L
+05/14/1999,9,FEET,58,DEGREES F,9,MG/L
+05/14/1999,12,FEET,58,DEGREES F,9,MG/L
+06/01/1999,3,FEET,63,DEGREES F,7,MG/L
+06/01/1999,6,FEET,63,DEGREES F,7,MG/L
+06/01/1999,9,FEET,62,DEGREES F,7,MG/L
+06/01/1999,12,FEET,54,DEGREES F,7,MG/L
+06/10/1999,3,FEET,75,DEGREES F,7,MG/L
+06/10/1999,6,FEET,71,DEGREES F,7,MG/L
+06/10/1999,9,FEET,69,DEGREES F,5,MG/L
+06/10/1999,12,FEET,68,DEGREES F,3,MG/L
+06/23/1999,3,FEET,72,DEGREES F,8,MG/L
+06/23/1999,6,FEET,72,DEGREES F,8,MG/L
+06/23/1999,9,FEET,19,DEGREES F,6,MG/L
+06/28/1999,3,FEET,73,DEGREES F,8,MG/L
+06/28/1999,6,FEET,73,DEGREES F,6,MG/L
+06/28/1999,9,FEET,72,DEGREES F,4,MG/L
+07/08/1999,3,FEET,72,DEGREES F,8,MG/L
+07/08/1999,6,FEET,71,DEGREES F,7,MG/L
+07/08/1999,9,FEET,71,DEGREES F,7,MG/L
+07/08/1999,12,FEET,71,DEGREES F,7,MG/L
+07/20/1999,3,FEET,78,DEGREES F,7,MG/L
+07/20/1999,6,FEET,74,DEGREES F,3,MG/L
+07/20/1999,9,FEET,68,DEGREES F,0,MG/L
+08/03/1999,3,FEET,71,DEGREES F,7,MG/L
+08/03/1999,6,FEET,71,DEGREES F,7,MG/L
+08/03/1999,9,FEET,70,DEGREES F,7,MG/L
+08/03/1999,12,FEET,70,DEGREES F,6,MG/L
+08/19/1999,3,FEET,67,DEGREES F,7,MG/L
+08/19/1999,6,FEET,66,DEGREES F,6,MG/L
+08/19/1999,9,FEET,66,DEGREES F,5,MG/L
+09/01/1999,3,FEET,71,DEGREES F,8,MG/L
+09/01/1999,6,FEET,69,DEGREES F,8,MG/L
+09/01/1999,9,FEET,68,DEGREES F,7,MG/L
+09/01/1999,12,FEET,67,DEGREES F,6,MG/L
+10/01/1999,3,FEET,50,DEGREES F,9,MG/L
+10/01/1999,6,FEET,50,DEGREES F,9,MG/L
+10/01/1999,9,FEET,50,DEGREES F,9,MG/L
+10/01/1999,12,FEET,50,DEGREES F,9,MG/L
+10/05/1999,3,FEET,47,DEGREES F,11,MG/L
+10/05/1999,6,FEET,47,DEGREES F,10,MG/L
+10/05/1999,9,FEET,46,DEGREES F,10,MG/L
+10/05/1999,12,FEET,46,DEGREES F,10,MG/L
+10/28/1999,3,FEET,41,DEGREES F,12,MG/L
+10/28/1999,6,FEET,40,DEGREES F,12,MG/L
+10/28/1999,9,FEET,40,DEGREES F,12,MG/L
+10/28/1999,12,FEET,40,DEGREES F,12,MG/L
+04/24/2000,3,FEET,51,DEGREES F,13,MG/L
+04/24/2000,6,FEET,50,DEGREES F,13,MG/L
+04/24/2000,9,FEET,50,DEGREES F,13,MG/L
+04/24/2000,12,FEET,50,DEGREES F,13,MG/L
+05/01/2000,3,FEET,60,DEGREES F,9,MG/L
+05/01/2000,6,FEET,60,DEGREES F,9,MG/L
+05/01/2000,9,FEET,60,DEGREES F,9,MG/L
+05/01/2000,12,FEET,60,DEGREES F,9,MG/L
+05/18/2000,3,FEET,59,DEGREES F,11,MG/L
+05/18/2000,6,FEET,57,DEGREES F,11,MG/L
+05/18/2000,9,FEET,56,DEGREES F,10,MG/L
+05/18/2000,12,FEET,56,DEGREES F,11,MG/L
+06/05/2000,3,FEET,62,DEGREES F,9,MG/L
+06/05/2000,6,FEET,60,DEGREES F,9,MG/L
+06/05/2000,9,FEET,60,DEGREES F,9,MG/L
+06/05/2000,12,FEET,60,DEGREES F,9,MG/L
+07/04/2000,3,FEET,71,DEGREES F,6,MG/L
+07/04/2000,6,FEET,69,DEGREES F,6,MG/L
+07/04/2000,9,FEET,68,DEGREES F,5,MG/L
+10/17/2000,3,FEET,51,DEGREES F,10,MG/L
+10/17/2000,6,FEET,51,DEGREES F,10,MG/L
+10/17/2000,9,FEET,50,DEGREES F,9,MG/L
+10/17/2000,12,FEET,50,DEGREES F,9,MG/L
+05/16/2018,,,20.4,C,9.7,MG/L
+06/26/2018,,,24,C,8.9,MG/L
+07/24/2018,,,23.7,C,8.4,MG/L
+08/23/2018,,,21.2,C,9.4,MG/L
+10/25/2018,,,5.4,C,11.7,MG/L
+02/20/2019,,,1.6,C,0.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+10/10/1998,Sunny clear calm.    
+05/03/1999,Very windy- 15-21 mph gusts- water is stirred up.    
+08/10/1999,(SEE IK006545 FOR BOTTOM SAMPLE)    
+10/05/1999,Very windy day.    
+06/05/2000,Three boats on lake. never saw that many in 3 years.    
+07/28/2020,Secci Water clarity - 4.5 ft 
+
+
+
+
+Start Date,Group Name,Project Name
+10/02/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+10/10/1998,Dwight Sandman- Carol Malmgren And William Grunwal,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+05/03/1999,Dwight Sandman And William Grunwald,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+05/14/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+06/01/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Irving Lake Mgt. Plan
+06/01/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+06/10/1999,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+06/23/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+06/28/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+06/28/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+07/08/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+07/20/1999,Dwight Sandman And William Grunwald,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Irving Lake Mgt. Plan
+08/03/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+08/10/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Irving Lake Mgt. Plan
+08/19/1999,Dwight Sandman- Carol Malmgren And William Grunwal,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+09/01/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+10/01/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+10/05/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Irving Lake Mgt. Plan
+10/05/1999,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+10/28/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+04/24/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+05/01/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+05/18/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+06/05/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+07/04/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+07/20/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+08/14/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+08/21/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+09/10/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+09/25/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+10/17/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+05/16/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+06/26/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+07/24/2018,Todd Hanke - Onterra- LLC,Bacteria + Plankton (Paid Private)
+07/24/2018,Todd Hanke - Onterra- LLC,TOWN OF PLUM LAKE: Town of Plum Lake Mgmt Plan Ph II - Irving- Laura- + Lt Star
+08/23/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+10/25/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+02/20/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+04/30/2019,Joe Heitz,Citizen Lake Monitoring - Water Quality - Irving Lake - At Point Of Maximum Depth
+07/28/2020,Robert Campion,VILAS COUNTY: Vilas County 2020 AIS Strategic Plan Implementation - AIS Early Detection

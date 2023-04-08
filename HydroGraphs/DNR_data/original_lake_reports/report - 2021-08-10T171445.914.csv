@@ -1,0 +1,67 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mauthe Lake,Fond du Lac,38200,NE,20,,203057,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000093,07/17/2019,,,,15.8,38,,56,56,,,,,
+160498428,07/17/2019,3.7,NO,1.1,,,58,,,,,,BROWN,
+7000093,08/13/2019,,,,17.7,36.7,,56,57,,,,,
+160498428,08/13/2019,5.8,NO,1.8,,,52,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+7000093,09/10/2019,,,,35.2,39.8,,57,62,,,,,
+160498428,09/10/2019,7.5,NO,2.3,,,48,,,,,CLEAR,BROWN,
+7000093,07/15/2020,5.5,NO,1.7,20.6,54,53,59,58,,,,,
+7000093,08/14/2020,7.4,NO,2.2,13.8,47.5,48,58,55,,,,BROWN,
+7000093,09/10/2020,6,NO,1.8,11,72,51,61,53,,,,BROWN,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/17/2019,1,METERS,26.8,DEGREES C,7.4,MG/L
+07/17/2019,2,METERS,25.1,DEGREES C,2.3,MG/L
+07/17/2019,3,METERS,20.2,DEGREES C,.2,MG/L
+07/17/2019,4,METERS,16.2,DEGREES C,.2,MG/L
+07/17/2019,5,METERS,13.7,DEGREES C,.2,MG/L
+07/17/2019,6,METERS,11.6,DEGREES C,.2,MG/L
+07/17/2019,7,METERS,10.8,DEGREES C,.1,MG/L
+08/13/2019,1,METERS,24.4,DEGREES C,4.8,MG/L
+08/13/2019,2,METERS,22.2,DEGREES C,2,MG/L
+08/13/2019,3,METERS,20.4,DEGREES C,.8,MG/L
+08/13/2019,4,METERS,17.8,DEGREES C,.2,MG/L
+08/13/2019,5,METERS,14.4,DEGREES C,.1,MG/L
+08/13/2019,6,METERS,12.2,DEGREES C,.1,MG/L
+09/10/2019,1,METERS,18.4,DEGREES C,8.1,MG/L
+09/10/2019,2,METERS,18.3,DEGREES C,7.8,MG/L
+09/10/2019,3,METERS,18,DEGREES C,524,MG/L
+09/10/2019,4,METERS,17.4,DEGREES C,.3,MG/L
+09/10/2019,5,METERS,15.6,DEGREES C,.2,MG/L
+09/10/2019,6,METERS,13,DEGREES C,.1,MG/L
+07/15/2020,,,24.1,C,5.0,MG/L
+08/14/2020,1,METERS,24.5,DEGREES C,7.8,MG/L
+08/14/2020,2,METERS,22.3,DEGREES C,4.5,MG/L
+08/14/2020,3,METERS,19.8,DEGREES C,3.6,MG/L
+08/14/2020,4,METERS,17.9,DEGREES C,1,MG/L
+08/14/2020,5,METERS,14.7,DEGREES C,.1,MG/L
+08/14/2020,6,METERS,12.3,DEGREES C,.1,MG/L
+08/14/2020,7,METERS,11.3,DEGREES C,.1,MG/L
+
+
+
+Start Date,Fieldwork Comment
+
+
+
+
+Start Date,Group Name,Project Name
+07/17/2019,Mary Gansberg,Directed Lakes 2019 Gansberg
+07/17/2019,Mary K Gansberg- HOLLY A STEGEMANN,Directed Lakes 2019 Gansberg
+08/13/2019,Mary Gansberg,Directed Lakes 2019 Gansberg
+08/13/2019,Mary K Gansberg- HOLLY A STEGEMANN,Directed Lakes 2019 Gansberg
+09/10/2019,Mary Gansberg,Directed Lakes 2019 Gansberg
+09/10/2019,Mary K Gansberg- HOLLY A STEGEMANN,Directed Lakes 2019 Gansberg
+07/15/2020,Mary Gansberg,Directed Lakes 2019 Gansberg
+08/14/2020,Mary Gansberg,Directed Lakes 2019 Gansberg
+09/10/2020,Mary Gansberg,Directed Lakes 2019 Gansberg

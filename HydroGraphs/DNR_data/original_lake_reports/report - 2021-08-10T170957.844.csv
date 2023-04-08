@@ -1,0 +1,281 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Frog Lake,Florence,585700,NO,19,,193010,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+18136776,08/09/2007,12.5,NO,3.8,,,41,,,LOW,,,,
+23140988,06/18/2008,16,YES,4.9,,,37,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+18136776,08/14/2008,13.5,NO,4.1,,,40,,,,,,,
+23140988,06/02/2009,14.5,YES,4.4,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29575558,08/03/2009,16,YES,4.9,,,37,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+23140988,08/26/2009,15,NO,4.6,,,38,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23140988,04/27/2010,14.3,YES,4.3,,,39,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+35006126,06/02/2010,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+18069694,06/14/2010,11.7,NO,3.6,1.11,19,42,51,36,,,,,
+23140988,07/14/2010,10.5,NO,3.2,1.37,14,43,49,37,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+34972236,07/15/2010,7.5,YES,2.3,8.44,35,48,56,51,,,,,
+41886128,08/12/2010,8.2,NO,2.5,4.43,17,47,50,46,,,,,
+23140988,09/06/2010,6.5,NO,2,,,50,,,LOW,,CLEAR,BROWN,1-Beautiful, could not be nicer
+23140988,09/07/2010,,,,7.68,19,,51,50,,,,,
+23140988,06/07/2011,16,YES,4.9,1.53,15,37,49,38,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+23140988,07/11/2011,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+23140988,07/28/2011,11,NO,3.3,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+23140988,04/04/2012,11,NO,3.3,,14,43,49,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+29693335,06/25/2012,16,YES,4.9,,,37,,,,16,CLEAR,GREEN,2-Very minor aesthetic problems
+23140988,05/29/2013,15,YES,4.6,,17.5,38,50,,LOW,N/A,CLEAR,BLUE,1-Beautiful, could not be nicer
+34970929,05/29/2013,,,,0.543,,,,30,,,,,
+34970929,05/31/2013,,,,0.364,,,,27,,,,,
+1,06/17/2013,,,,0.62,,,,31,,,,,
+1,06/28/2013,,,,1.79,,,,39,,,,,
+23140988,06/30/2013,15,NO,4.6,1.67,18,38,51,39,LOW,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+23140988,07/18/2013,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+81678457,08/13/2013,12,NO,3.6,,,41,,,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+23140988,06/02/2014,15,YES,4.6,2.68,20.1,38,51,42,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+128804629,05/04/2016,5.5,NO,1.7,,29.2,53,54,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+128804629,06/01/2016,14.6,NO,4.4,,,39,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128804629,07/03/2016,10,NO,3,,,44,,,NORMAL,,,,3-Enjoyment somewhat impaired (algae)
+128804629,07/21/2016,14.2,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+128804629,07/26/2016,11.6,NO,3.5,2.4,17.9,42,50,41,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+128804629,08/30/2016,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+128804629,08/08/2017,9.5,NO,2.9,,,45,,,,,,,
+143167470,08/08/2017,,,,4.24,18.4,,51,46,,,,,
+206974733,06/05/2020,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+206974733,06/28/2020,,,,2,24.3,,53,40,,,,,
+206974733,07/16/2020,6.5,NO,2,,,50,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+206974733,07/21/2020,,,,2.69,16.3,,50,42,,,,,
+206974733,08/21/2020,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+206974733,08/22/2020,,,,5.29,15.7,,49,47,,,,,
+206974733,09/18/2020,9.5,NO,2.9,,,45,,,HIGH,24,CLEAR,BROWN,1-Beautiful, could not be nicer
+206974733,09/27/2020,7.5,NO,2.3,,,48,,,HIGH,24,CLEAR,BROWN,1-Beautiful, could not be nicer
+206974733,10/08/2020,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/03/2009,3,FEET,23.4,DEGREES C,,
+08/03/2009,6,FEET,23.3,DEGREES C,,
+08/03/2009,9,FEET,23,DEGREES C,,
+08/03/2009,12,FEET,22.4,DEGREES C,,
+06/02/2010,0,FEET,73.7,DEGREES F,9.97,MG/L
+06/02/2010,3,FEET,74.2,DEGREES F,9.84,MG/L
+06/02/2010,6,FEET,74.5,DEGREES F,9.82,MG/L
+06/02/2010,9,FEET,74.6,DEGREES F,9.82,MG/L
+06/02/2010,12,FEET,72.4,DEGREES F,10.92,MG/L
+06/14/2010,,,20.3,C,,
+07/14/2010,0,FEET,79.3,DEGREES F,,
+07/14/2010,3,FEET,79.1,DEGREES F,,
+07/14/2010,6,FEET,78.6,DEGREES F,,
+07/14/2010,9,FEET,77.7,DEGREES F,,
+07/14/2010,12,FEET,75.9,DEGREES F,,
+07/14/2010,15,FEET,73.5,DEGREES F,,
+07/15/2010,,,27.1,C,8.0,MG/L
+08/12/2010,,,30.0,C,10.0,MG/L
+09/06/2010,0,FEET,68.3,DEGREES F,,
+09/06/2010,3,FEET,67.6,DEGREES F,,
+09/06/2010,6,FEET,67.4,DEGREES F,,
+09/06/2010,9,FEET,66.5,DEGREES F,,
+09/06/2010,12,FEET,65.8,DEGREES F,,
+09/06/2010,15,FEET,65.8,DEGREES F,,
+07/11/2011,0,FEET,81,DEGREES F,,
+07/11/2011,3,FEET,78,DEGREES F,,
+07/11/2011,6,FEET,77.5,DEGREES F,,
+07/11/2011,9,FEET,77,DEGREES F,,
+07/11/2011,12,FEET,76.4,DEGREES F,,
+07/11/2011,15,FEET,73.7,DEGREES F,,
+07/11/2011,18,FEET,72.3,DEGREES F,,
+07/28/2011,0,FEET,81,DEGREES F,,
+07/28/2011,3,FEET,78,DEGREES F,,
+07/28/2011,6,FEET,77.5,DEGREES F,,
+07/28/2011,9,FEET,77,DEGREES F,,
+07/28/2011,12,FEET,76.4,DEGREES F,,
+07/28/2011,15,FEET,73.7,DEGREES F,,
+07/28/2011,18,FEET,72.3,DEGREES F,,
+04/04/2012,0,FEET,50,DEGREES F,,
+04/04/2012,3,FEET,49.8,DEGREES F,,
+04/04/2012,6,FEET,48.9,DEGREES F,,
+04/04/2012,9,FEET,48,DEGREES F,,
+04/04/2012,12,FEET,47.1,DEGREES F,,
+04/04/2012,15,FEET,46.7,DEGREES F,,
+04/04/2012,18,FEET,46.2,DEGREES F,,
+06/25/2012,0,FEET,75.06,DEGREES F,9.04,MG/L
+06/25/2012,3,FEET,75.06,DEGREES F,9.11,MG/L
+06/25/2012,6,FEET,75.06,DEGREES F,9.08,MG/L
+06/25/2012,9,FEET,74.5,DEGREES F,9.1,MG/L
+06/25/2012,12,FEET,73.86,DEGREES F,9.55,MG/L
+06/25/2012,15,FEET,72.73,DEGREES F,3.07,MG/L
+05/29/2013,3,FEET,62.9,DEGREES F,,
+05/29/2013,6,FEET,62.7,DEGREES F,,
+05/29/2013,9,FEET,62.2,DEGREES F,,
+05/29/2013,12,FEET,60.2,DEGREES F,,
+05/29/2013,15,FEET,58.4,DEGREES F,,
+06/30/2013,0,FEET,77.1,DEGREES F,,
+06/30/2013,3,FEET,76.8,DEGREES F,,
+06/30/2013,6,FEET,74.4,DEGREES F,,
+06/30/2013,9,FEET,73.5,DEGREES F,,
+06/30/2013,12,FEET,72.6,DEGREES F,,
+06/30/2013,15,FEET,70.3,DEGREES F,,
+07/18/2013,0,FEET,86.8,DEGREES F,,
+07/18/2013,2,FEET,86.8,DEGREES F,,
+07/18/2013,4,FEET,85.5,DEGREES F,,
+07/18/2013,6,FEET,84,DEGREES F,,
+07/18/2013,8,FEET,81.9,DEGREES F,,
+07/18/2013,10,FEET,79.8,DEGREES F,,
+07/18/2013,12,FEET,78,DEGREES F,,
+07/18/2013,14,FEET,76.1,DEGREES F,,
+07/18/2013,16,FEET,70.5,DEGREES F,,
+08/13/2013,0,FEET,71.3,DEGREES F,8.84,MG/L
+08/13/2013,3,FEET,71.2,DEGREES F,8.83,MG/L
+08/13/2013,6,FEET,70.6,DEGREES F,8.72,MG/L
+08/13/2013,9,FEET,70.3,DEGREES F,8.8,MG/L
+08/13/2013,12,FEET,70.2,DEGREES F,8.78,MG/L
+06/02/2014,0,FEET,74.6,DEGREES F,,
+06/02/2014,3,FEET,74.4,DEGREES F,,
+06/02/2014,6,FEET,74.1,DEGREES F,,
+06/02/2014,9,FEET,68.7,DEGREES F,,
+06/02/2014,12,FEET,65.1,DEGREES F,,
+06/02/2014,15,FEET,63.3,DEGREES F,,
+05/04/2016,3,FEET,53,DEGREES F,,
+05/04/2016,6,FEET,54.3,DEGREES F,,
+05/04/2016,9,FEET,54.5,DEGREES F,,
+08/30/2016,10,FEET,72.3,DEGREES F,,
+08/08/2017,10,FEET,69,DEGREES F,,
+06/05/2020,0,FEET,73,DEGREES F,,
+06/05/2020,3,FEET,70.1,DEGREES F,,
+06/05/2020,6,FEET,67.3,DEGREES F,,
+06/05/2020,9,FEET,58.8,DEGREES F,,
+06/05/2020,12,FEET,53.2,DEGREES F,,
+06/05/2020,15,FEET,48.5,DEGREES F,,
+06/05/2020,18,FEET,45.3,DEGREES F,,
+06/05/2020,21,FEET,44.7,DEGREES F,,
+07/16/2020,0,FEET,78,DEGREES F,,
+07/16/2020,3,FEET,75.9,DEGREES F,,
+07/16/2020,6,FEET,74.8,DEGREES F,,
+07/16/2020,9,FEET,73.9,DEGREES F,,
+07/16/2020,12,FEET,63.5,DEGREES F,,
+07/16/2020,15,FEET,55.4,DEGREES F,,
+07/16/2020,18,FEET,50.3,DEGREES F,,
+07/16/2020,21,FEET,48.7,DEGREES F,,
+08/21/2020,0,FEET,75.7,DEGREES F,,
+08/21/2020,3,FEET,74.1,DEGREES F,,
+08/21/2020,6,FEET,73.5,DEGREES F,,
+08/21/2020,9,FEET,73,DEGREES F,,
+08/21/2020,12,FEET,67.6,DEGREES F,,
+08/21/2020,15,FEET,60,DEGREES F,,
+08/21/2020,18,FEET,53.2,DEGREES F,,
+08/21/2020,21,FEET,50,DEGREES F,,
+09/18/2020,0,FEET,63.5,DEGREES F,,
+09/18/2020,3,FEET,63.1,DEGREES F,,
+09/18/2020,6,FEET,62.7,DEGREES F,,
+09/18/2020,9,FEET,62.6,DEGREES F,,
+09/18/2020,12,FEET,62.6,DEGREES F,,
+09/18/2020,15,FEET,61.8,DEGREES F,,
+09/18/2020,18,FEET,57.9,DEGREES F,,
+09/18/2020,21,FEET,52.1,DEGREES F,,
+09/18/2020,24,FEET,49.4,DEGREES F,,
+09/27/2020,0,FEET,66.2,DEGREES F,,
+09/27/2020,3,FEET,65.8,DEGREES F,,
+09/27/2020,6,FEET,64.7,DEGREES F,,
+09/27/2020,9,FEET,63.6,DEGREES F,,
+09/27/2020,12,FEET,63.1,DEGREES F,,
+09/27/2020,15,FEET,62,DEGREES F,,
+09/27/2020,18,FEET,58.2,DEGREES F,,
+09/27/2020,21,FEET,53.7,DEGREES F,,
+09/27/2020,24,FEET,50.7,DEGREES F,,
+10/08/2020,0,FEET,59.1,DEGREES F,,
+10/08/2020,3,FEET,57.7,DEGREES F,,
+10/08/2020,6,FEET,53.3,DEGREES F,,
+10/08/2020,9,FEET,57,DEGREES F,,
+10/08/2020,12,FEET,56.4,DEGREES F,,
+10/08/2020,15,FEET,56.1,DEGREES F,,
+10/08/2020,18,FEET,55.7,DEGREES F,,
+10/08/2020,21,FEET,54.6,DEGREES F,,
+10/08/2020,24,FEET,52.3,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/18/2008,Cloudy with occassinal sun.  Slight westernly wind.
+08/14/2008,Assisted by Matt Yadro.
+06/02/2009,Partly sunny- 62 degrees slight southwest wind
+08/26/2009,Clear and sunny; 80 degree F. SW wind 0-5 mph
+04/27/2010,Sunny + 55 degrees.  Slight wind from the NW.  Aspen trees just starting to leaf.
+06/02/2010,Cloudy- slight ripple.
+Recent chemical treatment on Eurasian Water-milfoil population.
+Additional Staff- Maureen Ferry- Mari Dalapiazza
+Volunteer- Larry Yarck
+07/14/2010,water level is approximately 4 feet below OHWM. overcast and calm. Water level is approximately 4 feet below OHWM.  Overcast and calm
+09/06/2010,Water level is approximately 4 feet below OHWM.  Sunny and breezy.
+06/07/2011,Sunny 85 degree F.  South Wind 5-10 mph  90% Leaf
+07/28/2011,Sunny- 83 F.  SW wind 5-8  Beautiful Day!
+04/04/2012,Clear + Sunny Skies.  Light wind from the NW.  Beautiful day.  Maple and Aspen starting to bud.
+06/25/2012,Collected data with Bill Tuck.
+
+Sunny and clear with a light wind.
+05/29/2013,Overcast and 58 degree with no wind.  Trees are approximately 50% leaf out.  My son Jackson was with me to help.
+08/13/2013,Haley Winchell + Robert Richard			
+
+Partly Cloudy- slight breeze						
+Large-leaf pondweed- Yellow Pond Lily- Clasping-leaf Pondweed- Water Celery- White Water Lily- Flat-stemmed pondweed- Stiff Pondweed						
+												
+Most macrophytes dead- painted turtles						
+
+AIS: Floridone treatment- EWMF		
+
+05/04/2016,Cloudy and windy. Lots of ducks on the lake.
+Temperature is 48 degrees
+08/30/2016,A sunny afternoon with calm winds. 
+06/05/2020,Larry Yarck was assisting.
+
+
+
+
+Start Date,Group Name,Project Name
+08/09/2007,Dane Gagnon,Florence County Land Conservation Department- Secchi Data 
+06/18/2008,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/14/2008,Dane Gagnon,Florence County Land Conservation Department- Secchi Data 
+06/02/2009,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/03/2009,Robert Ferris,Florence County Land Conservation Department- Secchi Data 
+08/26/2009,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+04/27/2010,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+06/02/2010,Paul Tikusis,Florence County Land Conservation Department- Secchi Data 
+06/14/2010,Eddie Heath - Onterra- LLC,FROG + BASS LAKE ASSOC- INC: Frog + Bass Lake Management Planning Project
+07/14/2010,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/15/2010,Todd Hanke - Onterra- LLC,FROG + BASS LAKE ASSOC- INC: Frog + Bass Lake Management Planning Project
+08/12/2010,Dan Cibulka and Eddie Heath- Onterra LLC,FROG + BASS LAKE ASSOC- INC: Frog + Bass Lake Management Planning Project
+09/06/2010,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+09/07/2010,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+06/07/2011,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/11/2011,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/28/2011,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+04/04/2012,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+06/25/2012,Dave Ferris,Florence County Land Conservation Department- Secchi Data 
+05/29/2013,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+05/29/2013,Tim Plude,Frog Lake Fluridone Phytoplankton Project
+05/31/2013,Tim Plude,Frog Lake Fluridone Phytoplankton Project
+06/17/2013,Data Collectors,Frog Lake Fluridone Phytoplankton Project
+06/28/2013,Data Collectors,Frog Lake Fluridone Phytoplankton Project
+06/30/2013,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/18/2013,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/13/2013,Robert Richard,Florence County Land Conservation Department- Secchi Data 
+06/02/2014,Nick Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+05/04/2016,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+06/01/2016,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/03/2016,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/21/2016,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/26/2016,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/30/2016,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/08/2017,Paul Schlueter,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/08/2017,ZANA SIJAN,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+06/05/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+06/28/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/16/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+07/21/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/21/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+08/22/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+09/18/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+09/27/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part
+10/08/2020,John Baumgart,Citizen Lake Monitoring - Water Quality - Frog Lake; Deepest Part

@@ -1,0 +1,350 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Ballard Lake,Vilas,2340700,NO,64,,643224,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/10/1984,17.1,,5.2,5,,36,,47,,,,,
+1,10/18/1984,7.5,,2.3,,20,48,51,,,,,,
+8190557,06/10/1993,19,YES,5.8,,,35,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,06/17/1993,18.5,NO,5.6,,,35,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,06/29/1993,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,07/07/1993,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,08/07/1993,10,NO,3,,,44,,,,,,BROWN,2-Very minor aesthetic problems
+8190557,08/21/1993,10,NO,3,,,44,,,,,,BROWN,2-Very minor aesthetic problems
+8190557,09/06/1993,7.75,NO,2.4,,,48,,,,,,BROWN,2-Very minor aesthetic problems
+8190557,09/15/1993,8,NO,2.4,,,47,,,,,,BROWN,2-Very minor aesthetic problems
+8190557,10/13/1993,12,NO,3.6,,,41,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,06/08/1994,16,NO,4.9,,,37,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,06/26/1994,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,07/06/1994,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,07/22/1994,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,08/03/1994,12,NO,3.6,,,41,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190557,09/21/1994,14.5,NO,4.4,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,10/09/1994,14.5,NO,4.4,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,05/13/1995,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,05/30/1995,14,NO,4.3,,,39,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,07/04/1995,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,07/27/1995,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190557,08/15/1995,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,09/01/1995,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,09/10/1995,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,09/23/1995,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,10/18/1995,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,06/10/1996,11,NO,3.3,,,43,,,NORMAL,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8190557,06/24/1996,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,08/02/1996,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,09/09/1996,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,06/21/1997,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190557,07/15/1997,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190557,08/10/1997,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,08/27/1997,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,09/15/1997,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,10/01/1997,17,NO,5.2,,,36,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,06/16/1998,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190557,07/05/1998,11,NO,3.3,,,43,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8190557,07/17/1998,8,NO,2.4,,,47,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190557,08/04/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190557,08/16/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190557,09/01/1998,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190557,09/15/1998,10,NO,3,,,44,,,NO CHANGE,,MURKY,BROWN,2-Very minor aesthetic problems
+8190557,10/02/1998,12,NO,3.6,,,41,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,10/08/1998,,,,7.15,,,,50,,,,,
+1,11/11/1998,,,,11.2,,,,53,,,,,
+8189382,11/12/1998,7,NO,2.1,,,49,,,NO CHANGE,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189383,05/03/1999,9,NO,2.7,13.7,21,45,52,55,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189383,05/14/1999,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189383,06/01/1999,11,NO,3.3,5.86,17,43,50,48,HIGH,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8189382,06/10/1999,10,NO,3,,,44,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189383,06/23/1999,9,NO,2.7,,,45,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,06/28/1999,7,,2.1,9.89,,49,,52,,,,,
+8189383,06/28/1999,7,NO,2.1,,,49,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8189383,07/08/1999,12,NO,3.6,,,41,,,NO CHANGE,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+1,07/20/1999,10,,3,3.28,17,44,50,44,,,,,
+8189383,08/03/1999,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+1,08/10/1999,11,,3.3,2.47,16,43,50,42,,,,,
+8189384,08/19/1999,11.5,NO,3.5,,,42,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189383,09/01/1999,9,NO,2.7,,,45,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,09/08/1999,5,,1.5,3.47,,41,,44,,,,,
+8189383,09/08/1999,5,NO,1.5,,,41,,,,,,,
+8189383,10/01/1999,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,10/06/1999,14.5,,4.4,4,13,39,48,45,,,,,
+8189383,10/06/1999,14.5,NO,4.4,,,39,,,NO CHANGE,,CLEAR,GREEN,5-Enjoyment substantially impaired (algae)
+8189383,10/28/1999,15,NO,4.6,,,38,,,NO CHANGE,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189382,04/24/2000,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189383,05/01/2000,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189383,05/18/2000,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189383,06/05/2000,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189382,07/04/2000,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8190557,07/20/2000,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,08/21/2000,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,09/10/2000,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190557,09/25/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189382,10/17/2000,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,05/16/2018,9,N,2.7,6.8,13.4,12,48,49,,,,,
+1,06/26/2018,10.7,N,3.3,0.526,16.6,43,50,30,,,,,
+1,07/24/2018,,,,,,,,,,,,,
+34972236,07/24/2018,8.9,N,2.7,3.36,12.8,46,48,44,,,,,
+1,08/23/2018,9.1,N,2.8,0.61,15.4,45,49,31,,,,,
+1,10/24/2018,12.4,N,3.8,6.4,15.7,41,49,49,,,,,
+1,02/20/2019,8.6,N,2.6,,14.9,46,49,,,,,,
+8190240,04/30/2019,,,,,18,,51,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/12/1998,3,FEET,34,DEGREES F,12,MG/L
+11/12/1998,6,FEET,34,DEGREES F,12,MG/L
+11/12/1998,9,FEET,34,DEGREES F,12,MG/L
+11/12/1998,12,FEET,34,DEGREES F,12,MG/L
+11/12/1998,15,FEET,34,DEGREES F,12,MG/L
+11/12/1998,18,FEET,35,DEGREES F,12,MG/L
+05/03/1999,3,FEET,58,DEGREES F,11,MG/L
+05/03/1999,6,FEET,58,DEGREES F,11,MG/L
+05/03/1999,9,FEET,57,DEGREES F,12,MG/L
+05/03/1999,12,FEET,55,DEGREES F,12,MG/L
+05/03/1999,15,FEET,53,DEGREES F,12,MG/L
+05/03/1999,18,FEET,53,DEGREES F,11,MG/L
+05/03/1999,21,FEET,53,DEGREES F,11,MG/L
+05/14/1999,3,FEET,58,DEGREES F,10,MG/L
+05/14/1999,6,FEET,58,DEGREES F,10,MG/L
+05/14/1999,9,FEET,58,DEGREES F,10,MG/L
+05/14/1999,12,FEET,57,DEGREES F,10,MG/L
+05/14/1999,15,FEET,57,DEGREES F,9,MG/L
+06/01/1999,3,FEET,63,DEGREES F,8,MG/L
+06/01/1999,6,FEET,63,DEGREES F,8,MG/L
+06/01/1999,9,FEET,62,DEGREES F,8,MG/L
+06/01/1999,12,FEET,62,DEGREES F,8,MG/L
+06/01/1999,15,FEET,62,DEGREES F,8,MG/L
+06/01/1999,18,FEET,61,DEGREES F,8,MG/L
+06/10/1999,3,FEET,72,DEGREES F,9,MG/L
+06/10/1999,6,FEET,71,DEGREES F,9,MG/L
+06/10/1999,9,FEET,70,DEGREES F,9,MG/L
+06/10/1999,12,FEET,70,DEGREES F,8,MG/L
+06/10/1999,15,FEET,68,DEGREES F,8,MG/L
+06/10/1999,18,FEET,65,DEGREES F,7,MG/L
+06/23/1999,3,FEET,71,DEGREES F,9,MG/L
+06/23/1999,6,FEET,71,DEGREES F,9,MG/L
+06/23/1999,9,FEET,70,DEGREES F,8,MG/L
+06/23/1999,12,FEET,68,DEGREES F,8,MG/L
+06/23/1999,15,FEET,67,DEGREES F,7,MG/L
+06/28/1999,3,FEET,71,DEGREES F,9,MG/L
+06/28/1999,6,FEET,71,DEGREES F,8,MG/L
+06/28/1999,9,FEET,71,DEGREES F,8,MG/L
+06/28/1999,12,FEET,71,DEGREES F,8,MG/L
+06/28/1999,15,FEET,70,DEGREES F,8,MG/L
+06/28/1999,18,FEET,70,DEGREES F,9,MG/L
+07/08/1999,3,FEET,73,DEGREES F,8,MG/L
+07/08/1999,6,FEET,73,DEGREES F,8,MG/L
+07/08/1999,9,FEET,73,DEGREES F,8,MG/L
+07/08/1999,12,FEET,73,DEGREES F,8,MG/L
+07/08/1999,15,FEET,72,DEGREES F,8,MG/L
+07/08/1999,18,FEET,72,DEGREES F,8,MG/L
+08/03/1999,3,FEET,75,DEGREES F,7,MG/L
+08/03/1999,6,FEET,75,DEGREES F,7,MG/L
+08/03/1999,9,FEET,75,DEGREES F,7,MG/L
+08/03/1999,12,FEET,74,DEGREES F,7,MG/L
+08/03/1999,15,FEET,74,DEGREES F,7,MG/L
+08/03/1999,18,FEET,74,DEGREES F,7,MG/L
+08/19/1999,3,FEET,69,DEGREES F,8,MG/L
+08/19/1999,6,FEET,68,DEGREES F,8,MG/L
+08/19/1999,9,FEET,68,DEGREES F,8,MG/L
+08/19/1999,12,FEET,68,DEGREES F,8,MG/L
+08/19/1999,15,FEET,68,DEGREES F,8,MG/L
+08/19/1999,18,FEET,68,DEGREES F,8,MG/L
+09/01/1999,3,FEET,70,DEGREES F,8,MG/L
+09/01/1999,6,FEET,70,DEGREES F,8,MG/L
+09/01/1999,9,FEET,70,DEGREES F,8,MG/L
+09/01/1999,12,FEET,69,DEGREES F,8,MG/L
+09/01/1999,15,FEET,69,DEGREES F,8,MG/L
+09/01/1999,18,FEET,69,DEGREES F,8,MG/L
+10/01/1999,3,FEET,53,DEGREES F,10,MG/L
+10/01/1999,6,FEET,53,DEGREES F,10,MG/L
+10/01/1999,9,FEET,53,DEGREES F,9,MG/L
+10/01/1999,12,FEET,53,DEGREES F,9,MG/L
+10/01/1999,15,FEET,53,DEGREES F,9,MG/L
+10/01/1999,18,FEET,53,DEGREES F,9,MG/L
+10/06/1999,3,FEET,48,DEGREES F,10,MG/L
+10/06/1999,6,FEET,48,DEGREES F,10,MG/L
+10/06/1999,9,FEET,48,DEGREES F,10,MG/L
+10/06/1999,12,FEET,48,DEGREES F,10,MG/L
+10/06/1999,15,FEET,48,DEGREES F,10,MG/L
+10/06/1999,18,FEET,48,DEGREES F,10,MG/L
+10/28/1999,3,FEET,41,DEGREES F,11,MG/L
+10/28/1999,6,FEET,41,DEGREES F,11,MG/L
+10/28/1999,9,FEET,40,DEGREES F,11,MG/L
+10/28/1999,12,FEET,40,DEGREES F,11,MG/L
+10/28/1999,15,FEET,40,DEGREES F,11,MG/L
+10/28/1999,18,FEET,41,DEGREES F,11,MG/L
+04/24/2000,3,FEET,45,DEGREES F,13,MG/L
+04/24/2000,6,FEET,45,DEGREES F,13,MG/L
+04/24/2000,9,FEET,44,DEGREES F,13,MG/L
+04/24/2000,12,FEET,43,DEGREES F,13,MG/L
+04/24/2000,15,FEET,43,DEGREES F,13,MG/L
+04/24/2000,18,FEET,43,DEGREES F,13,MG/L
+04/24/2000,21,FEET,43,DEGREES F,13,MG/L
+05/01/2000,3,FEET,56,DEGREES F,11,MG/L
+05/01/2000,6,FEET,56,DEGREES F,11,MG/L
+05/01/2000,9,FEET,55,DEGREES F,11,MG/L
+05/01/2000,12,FEET,55,DEGREES F,11,MG/L
+05/01/2000,18,FEET,54,DEGREES F,11,MG/L
+05/01/2000,21,FEET,53,DEGREES F,11,MG/L
+05/18/2000,3,FEET,59,DEGREES F,10,MG/L
+05/18/2000,6,FEET,58,DEGREES F,10,MG/L
+05/18/2000,9,FEET,58,DEGREES F,10,MG/L
+05/18/2000,12,FEET,57,DEGREES F,9,MG/L
+05/18/2000,15,FEET,57,DEGREES F,9,MG/L
+05/18/2000,18,FEET,57,DEGREES F,9,MG/L
+05/18/2000,21,FEET,57,DEGREES F,9,MG/L
+06/05/2000,3,FEET,64,DEGREES F,8,MG/L
+06/05/2000,6,FEET,62,DEGREES F,8,MG/L
+06/05/2000,9,FEET,62,DEGREES F,8,MG/L
+06/05/2000,12,FEET,62,DEGREES F,8,MG/L
+06/05/2000,15,FEET,62,DEGREES F,8,MG/L
+06/05/2000,18,FEET,62,DEGREES F,8,MG/L
+07/04/2000,3,FEET,72,DEGREES F,8,MG/L
+07/04/2000,6,FEET,70,DEGREES F,8,MG/L
+07/04/2000,9,FEET,69,DEGREES F,8,MG/L
+07/04/2000,12,FEET,69,DEGREES F,7,MG/L
+07/04/2000,15,FEET,69,DEGREES F,6,MG/L
+07/04/2000,18,FEET,68,DEGREES F,6,MG/L
+07/04/2000,21,FEET,68,DEGREES F,5,MG/L
+10/17/2000,3,FEET,51,DEGREES F,12,MG/L
+10/17/2000,6,FEET,51,DEGREES F,12,MG/L
+10/17/2000,9,FEET,51,DEGREES F,12,MG/L
+10/17/2000,12,FEET,51,DEGREES F,12,MG/L
+10/17/2000,15,FEET,51,DEGREES F,12,MG/L
+10/17/2000,18,FEET,51,DEGREES F,12,MG/L
+05/16/2018,,,11.4,C,11.5,MG/L
+06/26/2018,,,23.5,C,8.8,MG/L
+07/24/2018,,,22.3,C,8.3,MG/L
+08/23/2018,,,22.0,C,8.4,MG/L
+10/24/2018,,,4.9,C,11.4,MG/L
+02/20/2019,,,1.6,C,0.5,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/10/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+10/18/1984,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/10/1993,Sunny- yesterday.    
+06/17/1993,Calm- dark- cloudy- have had 5 days of rain.    
+06/29/1993,Water slightly brown- 2 baby loons- family of fishers north of lake.    
+08/07/1993,No wind and sunny.    
+08/21/1993,Sunny.    
+09/06/1993,Cabbage plants never reached the surface.    
+10/13/1993,Last test for the year.    
+06/08/1994,Calm + sunny.    
+06/26/1994,The cabbage weeds are tall this year.  Two baby loons.    
+07/22/1994,One week of rain-some algal.    
+08/03/1994,The sun looks orange because of the forest fires.    
+10/09/1994,The lake level only goes up an inch or so because the lake flows into White Birch- Bob's Lake and on.  Last reading.    
+07/04/1995,No blue herons- 2 loon chicks.    
+08/15/1995,Sunny + calm.  No blue herons this year.    
+09/10/1995,3 nights of frost.    
+06/10/1996,We had a fish kill. I have only seen dead fish.  We had brown water when the ice went out.    
+06/24/1996,Very quiet!  No boats- fish- or birds.    
+08/02/1996,Calm and sunny.    
+09/09/1996,Calm + sunny.    
+06/21/1997,Few boats because of fish kill 2 years ago.    
+07/15/1997,Many eagles- loons- blue herons- etc.    
+10/08/1998,LAKE SAMPLE    
+11/12/1998,Lake choppy.  Readings taken the day after very strong winds.    
+05/03/1999,Very windy- 15-21 mph gusts.  Water near whitecaps and stirred up.    
+06/10/1999,The temperature and dissolved oxygen are from 6/9/99.    
+10/06/1999,(NO DATA SHEET REC`D FOR BOTTOM- SHEET CREATED + DATE-STAMPED 10/25)    
+
+
+
+
+Start Date,Group Name,Project Name
+07/10/1984,Data Collectors,Migrated from STORET Legacy
+10/18/1984,Data Collectors,Migrated from STORET Legacy
+06/10/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/17/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/29/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/07/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/07/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/21/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/06/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/15/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/13/1993,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/08/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/26/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/06/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/22/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/03/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/21/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/09/1994,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+05/13/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+05/30/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/04/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/27/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/15/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/01/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/10/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/23/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/18/1995,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/10/1996,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/24/1996,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/02/1996,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/09/1996,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/21/1997,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/15/1997,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/10/1997,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/27/1997,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/15/1997,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/01/1997,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/16/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/05/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/17/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/04/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/16/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/01/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/15/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/02/1998,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/08/1998,Data Collectors,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+11/11/1998,Data Collectors,LAKE EVAL BASIC
+11/12/1998,William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+05/03/1999,Dwight Sandman And William Grunwald,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+05/14/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/01/1999,Dwight Sandman And William Grunwald,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+06/10/1999,William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/23/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/28/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+06/28/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/08/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/20/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+08/03/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/10/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+08/19/1999,Carol Malmgren And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/01/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/08/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Ballard-Irving-White Birch  Mgt. Plan - Ballard/White Birch
+09/08/1999,Data Collectors,BALLARD-IRVING-WHITE BIRCH LAKES ASSN- INC.: Irving Lake Mgt. Plan
+09/08/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/01/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/06/1999,Data Collectors,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/06/1999,Dwight Sandman And William Grunwald,LAKE MGT PLANNING FY00
+10/28/1999,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+04/24/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+05/01/2000,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+05/18/2000,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+06/05/2000,Dwight Sandman And William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/04/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+07/20/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+08/21/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/10/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+09/25/2000,Dwight Sandman,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+10/17/2000,William Grunwald,Citizen Lake Monitoring - Water Quality - Ballard Lake - Deep Hole
+05/16/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+06/26/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+07/24/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+07/24/2018,Todd Hanke - Onterra- LLC,Bacteria + Plankton (Paid Private)
+07/24/2018,Todd Hanke - Onterra- LLC,TOWN OF PLUM LAKE: Town of Plum Lake Mgmt Plan Ph II - White Birch + Ballard Lakes
+08/23/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+10/24/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+02/20/2019,Data Collectors,Bacteria + Plankton (Paid Private)
+04/30/2019,Joe Heitz,Citizen Lake Monitoring - Water Quality - Ballard Lake - Musky Alley Deep Hole

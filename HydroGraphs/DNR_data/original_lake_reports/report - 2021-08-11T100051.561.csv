@@ -1,0 +1,132 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Round Lake,Waupaca,265000,NE,69,,693043,CE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/08/1980,,,,5,20,,51,47,,,,,
+1,11/03/1980,,,,6,,,,48,,,,,
+1,02/26/1981,,,,,20,,51,,,,,,
+1,04/15/1981,,,,,20,,51,,,,,,
+1,02/22/1982,,,,,20,,51,,,,,,
+1,05/10/1982,,,,,20,,51,,,,,,
+8190880,05/03/1994,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190880,06/21/1994,16,NO,4.9,,,37,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190880,08/03/1994,10.5,NO,3.2,,,43,,,,,,,1-Beautiful, could not be nicer
+8190880,09/22/1994,8,NO,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+29412424,06/01/2009,10,NO,3,,,44,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+29412424,06/04/2009,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+81855176,07/13/2013,12,NO,3.6,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/01/2013,14,NO,4.3,,,39,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/13/2013,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/31/2013,13,NO,4,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/01/2014,13.5,NO,4.1,,,40,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/08/2014,12.5,NO,3.8,,,41,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,08/11/2015,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+81855176,09/30/2015,8.75,NO,2.7,,,46,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/26/2016,6.7,N,2,1.85,9.01,50,45,39,,,,,
+81855176,08/08/2016,9.25,NO,2.8,,,45,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+81855176,08/31/2016,8.25,NO,2.5,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+165388101,05/05/2019,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+165388101,04/26/2020,15,NO,4.6,,,34,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/03/1980,,,8.3,C,7.6,MG/L
+02/26/1981,,,4.1,C,4.3,MG/L
+04/15/1981,,,6.1,C,11.1,MG/L
+02/22/1982,,,2.5,C,7,MG/L
+05/10/1982,,,14.2,C,2.2,MG/L
+07/26/2016,,,27.0,C,6.2,MG/L
+05/05/2019,0,FEET,57.3,DEGREES F,,
+05/05/2019,3,FEET,56.8,DEGREES F,,
+05/05/2019,6,FEET,56.1,DEGREES F,,
+05/05/2019,9,FEET,52.3,DEGREES F,,
+05/05/2019,12,FEET,49.6,DEGREES F,,
+05/05/2019,15,FEET,49.2,DEGREES F,,
+05/05/2019,18,FEET,47.6,DEGREES F,,
+05/05/2019,21,FEET,44.5,DEGREES F,,
+05/05/2019,24,FEET,42.8,DEGREES F,,
+05/05/2019,27,FEET,42.7,DEGREES F,,
+05/05/2019,30,FEET,42.6,DEGREES F,,
+05/05/2019,33,FEET,42.4,DEGREES F,,
+05/05/2019,36,FEET,42.1,DEGREES F,,
+05/05/2019,39,FEET,42,DEGREES F,,
+05/05/2019,42,FEET,42,DEGREES F,,
+05/05/2019,45,FEET,41.8,DEGREES F,,
+05/05/2019,48,FEET,41.7,DEGREES F,,
+04/26/2020,0,FEET,49.4,DEGREES F,,
+04/26/2020,3,FEET,48.9,DEGREES F,,
+04/26/2020,6,FEET,48.2,DEGREES F,,
+04/26/2020,9,FEET,47.4,DEGREES F,,
+04/26/2020,12,FEET,46.5,DEGREES F,,
+04/26/2020,15,FEET,46.2,DEGREES F,,
+04/26/2020,18,FEET,45.8,DEGREES F,,
+04/26/2020,21,FEET,45.8,DEGREES F,,
+04/26/2020,24,FEET,45.6,DEGREES F,,
+04/26/2020,27,FEET,45.1,DEGREES F,,
+04/26/2020,30,FEET,43.5,DEGREES F,,
+04/26/2020,33,FEET,41.7,DEGREES F,,
+04/26/2020,36,FEET,41.1,DEGREES F,,
+04/26/2020,39,FEET,41.1,DEGREES F,,
+04/26/2020,42,FEET,40.4,DEGREES F,,
+04/26/2020,45,FEET,40.2,DEGREES F,,
+04/26/2020,48,FEET,40.2,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/08/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/03/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/26/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/15/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/22/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/10/1982,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/13/2013,Boaters were still out even after waterskiing ended at 2:30. Mostly Sunny.
+08/01/2013,Winds W at 16 mph. Partly Cloudy. Windy. Waves. Boaters were out.
+08/13/2013,Partly Cloudy. Windy. Winds N at 9 mph. Boats are out.  Partly Cloudy. Windy. Winds N at 9 mph. Boaters are out. 
+08/31/2013,Sunny. Increased boat traffic due to Labor Day weekend.
+08/01/2014,3 boaters
+08/08/2014,4 boaters
+08/11/2015,five fast boats- loon sighting
+09/30/2015,0 fast boats- loon sighting at 3:10 pm- surface water temp 68.5 F
+08/08/2016,1 fast boat
+08/31/2016,1 fast boat
+05/05/2019,partly sunny. light wind from south.  blue water  no boat traffic 
+04/26/2020,outdoor air temp 71F- sunny- light win
+04/26/2020,sunny- outdoor temp 65.4F- very light wind
+
+
+
+
+Start Date,Group Name,Project Name
+07/08/1980,Data Collectors,Migrated from STORET Legacy
+11/03/1980,Data Collectors,Migrated from STORET Legacy
+02/26/1981,Data Collectors,Migrated from STORET Legacy
+04/15/1981,Data Collectors,Migrated from STORET Legacy
+02/22/1982,Data Collectors,Migrated from STORET Legacy
+05/10/1982,Data Collectors,Migrated from STORET Legacy
+05/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+06/21/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/03/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+09/22/1994,Ken Hurlbut,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+06/01/2009,Richard Hammen,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+06/04/2009,Richard Hammen,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+07/13/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/01/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/13/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/31/2013,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/01/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/08/2014,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/11/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+09/30/2015,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+07/26/2016,Data Collectors,WAUPACA CHAIN O'LAKES PUBLIC INLAND LAKE P+R: Waupaca Chain of Lakes Management Planning
+08/08/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+08/31/2016,Brian Zalay,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+05/05/2019,Hallstrom,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point
+04/26/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Columbia Lake - Deep Hole  Waupaca Co
+04/26/2020,Hallstrom,Citizen Lake Monitoring - Water Quality - Round Lake - Deepest Point

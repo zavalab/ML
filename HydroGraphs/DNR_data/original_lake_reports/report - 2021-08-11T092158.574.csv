@@ -1,0 +1,88 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Clearwater Lake,Oneida,1616400,NO,44,,443075,NE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/09/1979,,,,4.04,,,,45,,,,,
+147662579,09/12/2017,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+147662579,05/15/2018,7.5,NO,2.3,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,06/05/2018,11.25,NO,3.4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,06/19/2018,9.2,NO,2.8,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,06/28/2018,10,NO,3,,,43,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+147662579,07/06/2018,8.75,NO,2.7,,,43,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+147662579,07/10/2018,9,NO,2.7,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,07/18/2018,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,08/09/2018,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,08/22/2018,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+147662579,09/06/2018,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+242435566,08/27/2020,,,,2.65,13.6,,48,42,,,,,
+261331053,08/27/2020,13,NO,4,,,40,,,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/09/1979,,,21.5,C,,
+08/27/2020,3,FEET,78,DEGREES F,,
+08/27/2020,6,FEET,75,DEGREES F,,
+08/27/2020,9,FEET,74,DEGREES F,,
+08/27/2020,12,FEET,74,DEGREES F,,
+08/27/2020,15,FEET,73,DEGREES F,,
+08/27/2020,18,FEET,69,DEGREES F,,
+08/27/2020,21,FEET,57,DEGREES F,,
+08/27/2020,24,FEET,52,DEGREES F,,
+08/27/2020,27,FEET,50,DEGREES F,,
+08/27/2020,30,FEET,49,DEGREES F,,
+08/27/2020,33,FEET,48,DEGREES F,,
+08/27/2020,36,FEET,47,DEGREES F,,
+08/27/2020,39,FEET,47,DEGREES F,,
+08/27/2020,42,FEET,46,DEGREES F,,
+08/27/2020,45,FEET,46,DEGREES F,,
+08/27/2020,48,FEET,45,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/09/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/12/2017,Moderate wind
+05/15/2018,Sunny
+06/05/2018,Sunny- no clouds.
+06/19/2018,Sunny with clouds.
+8 inches of rain on previous days 6/15/2018 through 6/17/2018.
+06/28/2018,Sunny
+07/06/2018,Sunny
+07/10/2018,Hazy sun.
+07/10/2018,Hazy sun.
+
+09/06/2018,3" rain 1.5 days earlier.
+08/27/2020,assume noon
+
+
+
+
+Start Date,Group Name,Project Name
+07/09/1979,Data Collectors,Migrated from STORET Legacy
+09/12/2017,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+05/15/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+05/15/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+06/05/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+06/05/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+06/19/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+06/19/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+06/28/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+06/28/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+07/06/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+07/06/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+07/10/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+07/10/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+07/18/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+07/18/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+08/09/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+08/09/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; South Basin
+08/22/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+09/06/2018,William Patsch,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+08/27/2020,Adam Gohlke- Brian Scimeca,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole
+08/27/2020,Brian Scimeca,Citizen Lake Monitoring - Water Quality - Clearwater Lake; Deep Hole

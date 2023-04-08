@@ -1,0 +1,421 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Berry Lake,Oconto,418300,NE,43,,433300,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/24/1993,,,,,16,,50,,,,,,
+1,05/03/1993,18,,5.5,3.62,10,35,46,45,,,,,
+1,06/16/1993,12.5,,3.81,1.97,9,41,45,40,,,,,
+1,07/08/1993,9.5,,2.9,3.82,9,45,45,45,,,,,
+1,08/16/1993,10.5,,3.2,2.81,8,43,44,43,,,,,
+8189032,10/18/1999,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189032,10/29/1999,10.5,NO,3.2,,,43,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189132,04/22/2000,15,NO,4.6,,,38,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189132,05/07/2000,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189132,05/29/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189032,06/11/2000,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189032,06/25/2000,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189032,06/27/2000,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189032,05/28/2001,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189032,06/10/2001,13,NO,4,,,40,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189132,06/30/2001,10.25,NO,3.1,,,44,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189032,07/06/2002,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189032,07/14/2002,10.75,NO,3.3,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189132,08/17/2002,12,NO,3.6,,,41,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189132,08/31/2002,11.75,NO,3.6,,,42,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188623,08/13/2003,9.5,NO,2.9,4.48,12,45,47,46,,,,,
+8189132,06/09/2007,12,NO,3.6,,,41,,,LOW,,CLEAR,,
+18138754,06/24/2007,10.33,,3.1,,,43,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189132,07/06/2007,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,
+18138754,07/15/2007,10,,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8188630,07/19/2007,10.8,NO,3.3,2.88,15,43,49,43,,,,,
+18138754,07/19/2007,13,,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+18138754,07/24/2007,13,,4,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+18138754,07/26/2007,11.3,,3.4,,,42,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189132,06/13/2008,12,NO,3.6,,,41,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+18138754,07/20/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189132,07/22/2008,11,NO,3.3,,,43,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+18138754,07/22/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18138754,07/28/2008,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+25513426,07/31/2008,9,YES,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18138754,08/02/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18138754,08/04/2008,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18138754,08/07/2008,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18138754,08/15/2008,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+18138754,08/24/2008,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+18138754,09/03/2008,13,NO,4,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189132,07/08/2009,16,NO,4.9,,,37,,,LOW,,,BROWN,2-Very minor aesthetic problems
+18138754,07/22/2009,,,,1.8,13,,48,39,,,,,
+18138754,08/13/2009,,,,1.61,14,,49,38,,,,,
+18138754,08/15/2009,15,NO,4.6,,,38,,,,,,,
+18138754,09/02/2009,,,,1.95,13,,48,40,,,,,
+18138754,08/25/2010,,,,1.66,13,,48,39,,,,,
+18138754,05/04/2011,,,,,12,,47,,,,,,
+18138754,06/14/2011,,,,5.79,19,,51,48,,,,,
+18138754,07/06/2011,,,,3.82,15,,49,45,,,,,
+18138754,08/17/2011,,,,2.19,12,,47,41,,,,,
+62595126,09/06/2012,13.8,NO,4.2,3.15,13,39,48,43,,,,,
+1,09/16/2012,,,,,20,,51,,,,,,
+18138754,05/16/2013,,,,,17.1,,50,,,,,,
+34972236,05/20/2014,7.8,N,2.4,1.73,14,48,49,39,,,,,
+18138754,06/09/2014,,,,,19.2,,51,,,,,,
+16073539,06/26/2014,8.8,N,2.7,3.64,10.8,46,47,45,,,,,
+34972236,07/24/2014,11.3,NO,3.4,2.33,12.9,42,48,41,,,,,
+34972236,08/11/2014,9.9,N,3,1.73,12.8,44,48,39,,,,,
+34972236,10/29/2014,13.5,N,4.1,2.13,13.2,40,48,41,,,,,
+1,02/09/2015,4.2,N,1.3,,14.8,56,49,,,,,,
+1,09/13/2015,,,,14.5,31.5,,55,55,,,,,
+8189132,09/13/2015,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189132,05/21/2016,11.6,NO,3.5,,,42,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189132,05/29/2016,11.6,NO,3.5,,24.4,42,53,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189132,06/11/2016,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8189132,06/25/2016,,,,3.6,17.8,,50,44,,,,,
+8189132,07/01/2016,,,,3.57,13.2,,48,44,,,,,
+8189132,07/16/2016,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189032,08/28/2016,,,,5.5,15.8,,50,48,,,,,
+8189132,08/28/2016,10.25,NO,3.1,,,44,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189132,06/11/2017,10,NO,3,3.34,20.5,44,52,44,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189132,07/17/2017,8.5,NO,2.6,4.02,18.8,46,51,45,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189132,08/13/2017,8,NO,2.4,3.76,16.8,47,50,45,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+145584054,08/22/2017,,,,4.18,11.8,,47,46,,,,,
+148495147,08/23/2017,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189132,05/27/2018,12.5,NO,3.8,,8.66,41,45,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189132,06/25/2018,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189132,06/26/2018,,,,6.38,17.7,,50,49,,,,,
+8189132,07/27/2018,6,NO,1.8,6.01,12.1,51,47,48,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189032,08/26/2018,,,,5.68,15.3,,49,48,,,,,
+8189132,08/26/2018,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189132,05/26/2019,8.5,NO,2.6,3.15,19.1,46,51,43,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189132,07/14/2019,7,NO,2.1,,,49,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+36798281,07/14/2019,,,,4.44,13.6,,48,46,,,,,
+8189032,08/25/2019,,,,6.46,13.7,,48,49,,,,,
+8189132,08/25/2019,5.75,NO,1.7,,,52,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189132,07/29/2020,6,NO,1.8,3.13,17.8,51,50,43,HIGH,96.31,MURKY,BROWN,2-Very minor aesthetic problems
+8189132,08/26/2020,7,NO,2.1,3.24,16,49,50,44,HIGH,95.97,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/24/1993,,,3.3,C,4.6,MG/L
+05/03/1993,,,11.9,C,2.5,MG/L
+06/16/1993,,,14.8,C,6.8,MG/L
+07/08/1993,,,14.0,C,3.2,MG/L
+08/16/1993,,,15.0,C,0.6,MG/L
+08/13/2003,7,FEET,,,10.2,MG/L
+08/13/2003,,,24.2,C,10.2,MG/L
+07/19/2007,0.5,METERS,23.7,DEGREES C,8.8,MG/L
+07/19/2007,1,METERS,23.7,DEGREES C,8.7,MG/L
+07/19/2007,2,METERS,23.7,DEGREES C,8.7,MG/L
+07/19/2007,3,METERS,22.1,DEGREES C,8.3,MG/L
+07/19/2007,4,METERS,21.5,DEGREES C,7.6,MG/L
+07/19/2007,5,METERS,20.7,DEGREES C,7.1,MG/L
+07/19/2007,6,METERS,17.3,DEGREES C,0.3,MG/L
+08/04/2008,1,FEET,78.2,DEGREES F,,
+08/04/2008,3,FEET,78.2,DEGREES F,98.5,MG/L
+08/04/2008,6,FEET,78,DEGREES F,97.5,MG/L
+08/04/2008,9,FEET,77.3,DEGREES F,95,MG/L
+08/04/2008,12,FEET,76.2,DEGREES F,70.2,MG/L
+08/04/2008,15,FEET,74.1,DEGREES F,23.6,MG/L
+08/04/2008,18,FEET,70.8,DEGREES F,1.4,MG/L
+08/04/2008,21,FEET,69,DEGREES F,.4,MG/L
+08/15/2009,0,FEET,81.5,DEGREES F,,
+08/15/2009,3,FEET,81.3,DEGREES F,7.2,MG/L
+08/15/2009,6,FEET,80.4,DEGREES F,8.2,MG/L
+08/15/2009,9,FEET,77,DEGREES F,6.8,MG/L
+08/15/2009,15,FEET,71.9,DEGREES F,2.2,MG/L
+08/15/2009,17,FEET,70.8,DEGREES F,1.2,MG/L
+09/06/2012,0,METERS,23.7,DEGREES C,9.6,MG/L
+09/06/2012,1,METERS,23.8,DEGREES C,9.5,MG/L
+09/06/2012,2,METERS,23.8,DEGREES C,9.3,MG/L
+09/06/2012,3,METERS,23.5,DEGREES C,8.9,MG/L
+09/06/2012,4,METERS,23.1,DEGREES C,8.7,MG/L
+09/06/2012,5,METERS,22.1,DEGREES C,.4,MG/L
+09/06/2012,5.4,METERS,20.9,DEGREES C,.3,MG/L
+05/20/2014,,,12.1,C,6.2,MG/L
+06/26/2014,,,14.6,C,0.0,MG/L
+07/24/2014,,,17.3,C,2.4,MG/L
+08/11/2014,,,16.9,C,0.1,MG/L
+10/29/2014,,,9.2,C,10.1,MG/L
+02/09/2015,,,2.5,C,3.3,MG/L
+09/13/2015,1,FEET,68.4,DEGREES F,,
+09/13/2015,3,FEET,68.3,DEGREES F,,
+09/13/2015,6,FEET,68,DEGREES F,,
+09/13/2015,9,FEET,67.5,DEGREES F,,
+09/13/2015,12,FEET,66.9,DEGREES F,,
+09/13/2015,15,FEET,66.5,DEGREES F,,
+05/21/2016,0,FEET,66.2,DEGREES F,,
+05/21/2016,5,FEET,63.6,DEGREES F,,
+05/21/2016,10,FEET,58.6,DEGREES F,,
+05/21/2016,15,FEET,56.1,DEGREES F,,
+05/29/2016,0,FEET,72.1,DEGREES F,,
+05/29/2016,5,FEET,71.9,DEGREES F,,
+05/29/2016,10,FEET,71,DEGREES F,,
+05/29/2016,15,FEET,59.5,DEGREES F,,
+05/29/2016,20,FEET,58.6,DEGREES F,,
+07/16/2016,1,FEET,82,DEGREES F,,
+07/16/2016,5,FEET,79.8,DEGREES F,,
+07/16/2016,10,FEET,78.6,DEGREES F,,
+07/16/2016,15,FEET,72.6,DEGREES F,,
+07/16/2016,20,FEET,60.6,DEGREES F,,
+08/28/2016,0,FEET,75.5,DEGREES F,,
+08/28/2016,5,FEET,74.4,DEGREES F,,
+08/28/2016,10,FEET,73.2,DEGREES F,,
+08/28/2016,15,FEET,72.3,DEGREES F,,
+08/28/2016,20,FEET,66.5,DEGREES F,,
+06/11/2017,0,FEET,76.2,DEGREES F,,
+06/11/2017,5,FEET,75.2,DEGREES F,,
+06/11/2017,10,FEET,74.4,DEGREES F,,
+06/11/2017,15,FEET,62.7,DEGREES F,,
+06/11/2017,20,FEET,56.7,DEGREES F,,
+07/17/2017,1,FEET,77.3,DEGREES F,,
+07/17/2017,5,FEET,76.4,DEGREES F,,
+07/17/2017,10,FEET,75.2,DEGREES F,,
+07/17/2017,15,FEET,58,DEGREES F,,
+07/17/2017,20,FEET,58.5,DEGREES F,,
+08/13/2017,0,FEET,74.3,DEGREES F,,
+08/13/2017,5,FEET,73.4,DEGREES F,,
+08/13/2017,10,FEET,72.3,DEGREES F,,
+08/13/2017,15,FEET,71.5,DEGREES F,,
+08/13/2017,20,FEET,67.4,DEGREES F,,
+08/22/2017,0,METERS,23.85,DEGREES C,8.5,MG/L
+08/22/2017,1,METERS,24,DEGREES C,8.5,MG/L
+08/22/2017,2,METERS,24,DEGREES C,8.5,MG/L
+08/22/2017,3,METERS,24,DEGREES C,8.5,MG/L
+08/22/2017,4,METERS,23.4,DEGREES C,5.3,MG/L
+08/22/2017,5,METERS,21.7,DEGREES C,3.2,MG/L
+08/22/2017,5.3,METERS,20.5,DEGREES C,2.5,MG/L
+05/27/2018,0,FEET,75.9,DEGREES F,,
+05/27/2018,5,FEET,74.6,DEGREES F,,
+05/27/2018,10,FEET,66.2,DEGREES F,,
+05/27/2018,15,FEET,53.2,DEGREES F,,
+05/27/2018,18,FEET,51.8,DEGREES F,,
+06/25/2018,0,FEET,75.9,DEGREES F,,
+06/25/2018,3,FEET,75.9,DEGREES F,7.8,MG/L
+06/25/2018,6,FEET,75.5,DEGREES F,8.1,MG/L
+06/25/2018,9,FEET,75.5,DEGREES F,0,MG/L
+06/25/2018,12,FEET,72.8,DEGREES F,0,MG/L
+06/25/2018,15,FEET,65.6,DEGREES F,,
+06/25/2018,18,FEET,55.7,DEGREES F,,
+06/25/2018,21,FEET,52.3,DEGREES F,,
+06/25/2018,24,FEET,50.3,DEGREES F,,
+07/27/2018,0,FEET,74.4,DEGREES F,,
+07/27/2018,3,FEET,74.6,DEGREES F,5.8,MG/L
+07/27/2018,6,FEET,74.6,DEGREES F,5.6,MG/L
+07/27/2018,9,FEET,74.6,DEGREES F,5.7,MG/L
+07/27/2018,12,FEET,73.7,DEGREES F,4.5,MG/L
+07/27/2018,15,FEET,73.5,DEGREES F,,
+07/27/2018,18,FEET,60.8,DEGREES F,,
+07/27/2018,21,FEET,56.6,DEGREES F,,
+08/26/2018,0,FEET,72.8,DEGREES F,,
+08/26/2018,3,FEET,72.6,DEGREES F,7.6,MG/L
+08/26/2018,6,FEET,72.6,DEGREES F,7,MG/L
+08/26/2018,9,FEET,72.3,DEGREES F,7.2,MG/L
+08/26/2018,12,FEET,71.9,DEGREES F,6.8,MG/L
+08/26/2018,15,FEET,71.4,DEGREES F,,
+08/26/2018,18,FEET,67.2,DEGREES F,,
+08/26/2018,21,FEET,58.4,DEGREES F,,
+07/14/2019,0,FEET,79.7,DEGREES F,,
+07/14/2019,3,FEET,79.5,DEGREES F,7,MG/L
+07/14/2019,6,FEET,79.3,DEGREES F,,
+07/14/2019,9,FEET,79.1,DEGREES F,7.7,MG/L
+07/14/2019,12,FEET,78.2,DEGREES F,,
+07/14/2019,15,FEET,70.1,DEGREES F,5.4,MG/L
+07/14/2019,18,FEET,63.8,DEGREES F,,
+07/14/2019,21,FEET,60.2,DEGREES F,2.2,MG/L
+07/14/2019,24,FEET,57.7,DEGREES F,,
+08/25/2019,0,FEET,72.3,DEGREES F,,
+08/25/2019,3,FEET,72.3,DEGREES F,9.4,MG/L
+08/25/2019,6,FEET,72.3,DEGREES F,,
+08/25/2019,9,FEET,72.1,DEGREES F,9.1,MG/L
+08/25/2019,12,FEET,71.9,DEGREES F,,
+08/25/2019,15,FEET,71.6,DEGREES F,10,MG/L
+08/25/2019,18,FEET,70.9,DEGREES F,,
+08/25/2019,21,FEET,64.6,DEGREES F,4.2,MG/L
+08/25/2019,24,FEET,60.2,DEGREES F,,
+07/29/2020,0,FEET,80.3,DEGREES F,,
+07/29/2020,3,FEET,79.8,DEGREES F,,
+07/29/2020,6,FEET,79.5,DEGREES F,,
+07/29/2020,9,FEET,79.4,DEGREES F,,
+07/29/2020,12,FEET,79.1,DEGREES F,,
+07/29/2020,15,FEET,76.4,DEGREES F,,
+07/29/2020,18,FEET,64.7,DEGREES F,,
+07/29/2020,21,FEET,58.2,DEGREES F,,
+07/29/2020,24,FEET,56.1,DEGREES F,,
+08/26/2020,0,FEET,78.8,DEGREES F,,
+08/26/2020,3,FEET,78.4,DEGREES F,,
+08/26/2020,6,FEET,78.2,DEGREES F,,
+08/26/2020,9,FEET,78.2,DEGREES F,,
+08/26/2020,12,FEET,78,DEGREES F,,
+08/26/2020,15,FEET,76.4,DEGREES F,,
+08/26/2020,18,FEET,66.3,DEGREES F,,
+08/26/2020,21,FEET,61.7,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+10/18/1999,Mostly overcast- calm winds- temp 40 degrees.  Gulls- crows- 3 eagles soaring south of lake.    
+07/06/2002,Hot sunny day. Much boat and jet ski traffic. Saw 5 Osprey over east end of lake.    
+07/14/2002,Hot- sunny-  two bald eagles.  Little boat action.    
+08/31/2002,Fair amount of boat action.  Two bald eagles- King
+Fisher- partly cloudy.
+
+    
+08/13/2003,DEEPEST AREA - INTEGRATED SAMPLE    
+06/09/2007,12' deep clear secchi reading
+06/24/2007,Bright Sun.  Warm.  Breezy.  SW wind.  Waves.  Bruce + Sue Weyenberg each take readings.  Bruce 11' and Sue 9.5'
+
+
+07/06/2007,A bit windy
+07/15/2007,Jim = - Georgia =- Mason =
+07/24/2007,Sunny + Bright- semi-mild wind with gusts to 9 mph
+07/26/2007,Cloudy.  Strong wind with gusts over 15 mph.  Choppy water.
+06/13/2008,Partly cloudy/sunny
+Limited activity on lake
+
+07/20/2008,Sunny  Waves from boat traffic.
+07/22/2008,Blue Ski
+No clouds
+Partial Moon in the west
+Slight north east wind
+No wildlife
+Few fisherman
+
+07/22/2008,Clear weather
+07/28/2008,Clear sky.  Very slight wind.
+07/31/2008,The water quality depth from the point of the readings (I took 2 of them) was 9 ft both times.  However- because I don't think I was exactly over the "deep hole" the disk disappeared beneath the weeds before it was not possible to see it.  I hope to do more readings over the "deep hole" to try and get a more accurate reading.  
+
+I would rate the water quality as being "green" and the enjoyment factor as a #2.  
+
+The weather was sunny and partly cloudy.  
+08/02/2008,Sunny.  Glass smooth.
+08/04/2008,Sunny.  Light wind. Sunny.  Light wind.  Other participants:  Lief Erickson- Dirk- Wayne Towne + Renee Towne.
+08/07/2008,Sunny.  Slight Breeze.
+08/15/2008,Bright sun.  Smooth surface.
+08/24/2008,Sunny.  Light wind.  Very small waves.
+09/03/2008,Sunny.  Light wind.
+07/08/2009,Sunny
+Some high level puffy clouds
+08/15/2009,
+Still unable to find Deep Hole or Deep Hole is gone due to low water.  Still we should have at least 21' somewhere but I only found 18' and used that.
+
+09/13/2015,Sunny skies- temperature 64 degrees- lite winds.
+05/21/2016,Sunny- Calm winds- bald eagles- loons
+05/29/2016,Sunny- light breeze- bald eagles- a number of dead bullheads and bluegills along shore.
+06/11/2016,day after a big rain fall- strong breeze- sunny
+07/16/2016,Sunny- hot- calm winds. Lots of gulls- one bald eagle. 
+08/28/2016,Sunny- light breeze- 
+06/11/2017,Partial sun- calm winds- lots of pollen floating on surface of the lake. Viewed a bald eagle and two loons.
+07/17/2017,Calm winds- sunny- fresh water jelly fish spotted 1-2 feet below surface-king fishers- King bird- swallows.
+08/13/2017,Partly cloudy- light breeze- a lot of jetski activity.
+08/23/2017,10/3/2017 data entry. Scherer 
+05/27/2018,Very hot- slight wind- blue sky- pollen coating on surface of the lake. Observed mallard ducks- immature bald eagle- otter.
+06/25/2018,Partly sunny- medium easterly breeze- immature bald eagle
+07/27/2018,Breezy with north west winds and slight chop on the water- overcast. Saw three bald eagles two mature and one immature also one green heron.
+08/26/2018,Overcast- calm- no boat activity
+05/26/2019,Partly cloudy- a lot of boating activity- saw a couple loons
+07/14/2019,Light wind- sunny no boat traffic
+69 degrees
+08/25/2019,Sunny a few high clouds- light northeast wind- no boat traffic- 
+08/26/2020,Sunny- light winds and hazy.
+Observed an Osprey- gulls- king fishers and immature bald eagle.
+
+
+
+
+Start Date,Group Name,Project Name
+02/24/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/03/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/16/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/08/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/16/1993,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+10/18/1999,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+10/29/1999,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+04/22/2000,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/07/2000,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/29/2000,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/11/2000,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/25/2000,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/27/2000,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/28/2001,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/10/2001,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/30/2001,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/06/2002,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/14/2002,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/17/2002,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/31/2002,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/13/2003,Greg Sevener,Lake Baseline Monitoring- DNR (1970s-2006)
+06/09/2007,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/24/2007,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/06/2007,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/15/2007,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/19/2007,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/19/2007,USGS,National Lake Survey - Index Sampling
+07/24/2007,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/26/2007,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/13/2008,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/20/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/22/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/22/2008,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/28/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/31/2008,Dave Jensen,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/02/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/04/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/07/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/15/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/24/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+09/03/2008,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/08/2009,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/22/2009,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/13/2009,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/15/2009,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+09/02/2009,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/25/2010,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/04/2011,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/14/2011,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/06/2011,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/17/2011,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+09/06/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+09/16/2012,Data Collectors,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/16/2013,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/20/2014,Todd Hanke - Onterra- LLC,BERRY LAKE PROPERTY OWNERS ASSN INC: Comprehensive Management Plan
+06/09/2014,Brian Ewart,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/26/2014,Tim Hoyman - Onterra- LLC,BERRY LAKE PROPERTY OWNERS ASSN INC: Comprehensive Management Plan
+07/24/2014,Todd Hanke - Onterra- LLC,BERRY LAKE PROPERTY OWNERS ASSN INC: Comprehensive Management Plan
+08/11/2014,Todd Hanke - Onterra- LLC,BERRY LAKE PROPERTY OWNERS ASSN INC: Comprehensive Management Plan
+10/29/2014,Todd Hanke - Onterra- LLC,BERRY LAKE PROPERTY OWNERS ASSN INC: Comprehensive Management Plan
+02/09/2015,Data Collectors,BERRY LAKE PROPERTY OWNERS ASSN INC: Comprehensive Management Plan
+09/13/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+09/13/2015,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/21/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/29/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/11/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/25/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/01/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/16/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/28/2016,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/28/2016,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/11/2017,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/17/2017,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/13/2017,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/22/2017,SARAH R FANNING- SHELBY T ADLER,EPA National Lakes Assessment 2017
+08/23/2017,Maureen M Ferry- CHELSEY M BLANKE- Brian D Zalay,AIS Occurrence Records - 'Other' Records Reviewed
+08/23/2017,Maureen M Ferry- CHELSEY M BLANKE- Brian D Zalay,DNR AIS Monitoring -Oconto County (Spiny Waterflea and Zebra Mussel Veliger Tows)
+08/23/2017,Maureen M Ferry- CHELSEY M BLANKE- Brian D Zalay,EPA National Lakes Assessment 2017
+08/23/2017,Maureen M Ferry- CHELSEY M BLANKE- Brian D Zalay,QAQC for Baseline Statewide Monitoring - aquatic invasive species rate of spread 2017 
+05/27/2018,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/25/2018,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+06/26/2018,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/27/2018,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/26/2018,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/26/2018,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+05/26/2019,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/14/2019,Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/14/2019,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/25/2019,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/25/2019,Michael McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+07/29/2020,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole
+08/26/2020,Michael And Jennifer McDermot,Citizen Lake Monitoring - Water Quality - Berry Lake (418300)- Deep Hole

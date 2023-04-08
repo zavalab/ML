@@ -1,0 +1,320 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lake Koshkonong,Jefferson,808700,SC,28,,283119,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,06/30/1980,1.6,,0.5,211,,70,,75,,,,,
+1,07/29/1998,1.3,,0.4,231,399,73,74,76,,,,,
+1,08/27/1998,1.1,,0.35,202,365,75,74,75,,,,,
+1,02/08/1999,4.9,,1.5,31.9,150,54,67,61,,,,,
+1,04/08/1999,0.7,,0.2,120,347,83,73,71,,,,,
+1,06/24/1999,1,,0.3,64.6,133,77,66,66,,,,,
+8188786,09/11/2002,2,NO,0.6,,,67,,,,,,,
+25475352,07/05/2007,2.25,YES,0.7,,,65,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+25475352,07/30/2007,1.75,YES,0.5,,,69,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+25475352,08/16/2007,1.25,YES,0.4,,,74,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+63827977,08/01/2012,1,NO,0.3,,,77,,,,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+63827977,08/20/2012,1,NO,0.3,72.8,507,77,76,67,,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+48061369,09/17/2012,1,NO,0.3,37.4,495,77,76,62,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+114081025,06/14/2015,1.75,NO,0.5,,,69,,,,6.69,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,06/27/2015,1.75,NO,0.5,,,69,,,,6.59,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+89214715,07/08/2015,,,,437,251,,71,81,,,,,
+114081025,07/17/2015,1.75,NO,0.5,,,69,,,,6.50,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,08/06/2015,1.5,NO,0.5,,,71,,,,6.25,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/26/2015,1.25,NO,0.4,,,74,,,,6.30,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/21/2015,2.75,NO,0.8,,,63,,,,6.70,CLEAR,YELLOW,2-Very minor aesthetic problems
+114081025,10/20/2015,1,NO,0.3,,,77,,,,5.7,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,06/07/2016,1.5,NO,0.5,,,71,,,NORMAL,6.40,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,06/24/2016,2,NO,0.6,,,67,,,NORMAL,6.72,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,07/18/2016,1,NO,0.3,,,77,,,NORMAL,6.18,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/10/2016,1,NO,0.3,,,77,,,NORMAL,6.21,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/12/2016,1.25,NO,0.4,,,74,,,NORMAL,6.69,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,10/09/2016,2.5,NO,0.8,,,64,,,HIGH,7.88,CLEAR,YELLOW,1-Beautiful, could not be nicer
+114081025,06/14/2017,1.75,NO,0.5,,,69,,,,7.59,CLEAR,YELLOW,1-Beautiful, could not be nicer
+114081025,06/18/2017,1.5,NO,0.5,79.2,291,71,72,68,,7.68,CLEAR,YELLOW,1-Beautiful, could not be nicer
+114081025,07/31/2017,1.75,NO,0.5,116,357,69,74,71,,8.27,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/06/2017,1,NO,0.3,253,324,77,73,77,,6.50,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,09/14/2017,1,NO,0.3,,,77,,,,6.52,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,06/13/2018,4,NO,1.2,5.74,235,57,70,48,HIGH,7.99,CLEAR,YELLOW,1-Beautiful, could not be nicer
+114081025,07/25/2018,1,NO,0.3,185,327,77,73,74,NORMAL,6.59,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,07/31/2018,0.75,NO,0.2,,,81,,,,6.56,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+114081025,07/09/2019,2.25,NO,0.7,87.3,354,65,74,69,,7.90,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/03/2019,1.25,NO,0.4,,,74,,,,6.71,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,08/13/2019,1.5,NO,0.5,,,71,,,,6.75,MURKY,YELLOW,2-Very minor aesthetic problems
+199032774,08/14/2019,1.5,NO,0.5,139,526,71,77,72,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+114081025,08/27/2019,2.5,NO,0.8,4.38,490,64,76,46,,6.56,MURKY,YELLOW,2-Very minor aesthetic problems
+199032774,08/29/2019,,,,33.2,327,,73,61,,,,,
+114081025,06/27/2020,2.5,NO,0.8,48.9,232,64,70,64,,7.25,CLEAR,YELLOW,2-Very minor aesthetic problems
+114081025,07/13/2020,1.75,NO,0.5,,,69,,,,7.45,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/23/2020,1.25,NO,0.4,,,74,,,,7.45,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,07/29/2020,1,NO,0.3,,,77,,,,6.95,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,08/13/2020,1.75,NO,0.5,,,69,,,,6.40,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,09/05/2020,1,NO,0.3,139,336,77,73,72,,6.58,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+114081025,09/18/2020,1.75,NO,0.5,,,69,,,,6.75,MURKY,YELLOW,2-Very minor aesthetic problems
+114081025,10/06/2020,1.25,NO,0.4,,,74,,,,6.60,MURKY,YELLOW,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/29/1998,,,25.3,C,16.8,MG/L
+08/27/1998,,,25.1,C,9.6,MG/L
+02/08/1999,,,1.2,C,11.1,MG/L
+04/08/1999,,,11.9,C,10.7,MG/L
+06/24/1999,,,23,C,18,MG/L
+09/11/2002,0.5,METERS,24.1,DEGREES C,4.8,MG/L
+09/11/2002,1,METERS,25,DEGREES C,4.6,MG/L
+09/11/2002,2,METERS,23.1,DEGREES C,.3,MG/L
+07/05/2007,1,FEET,80.6,DEGREES F,,
+07/05/2007,2,FEET,80,DEGREES F,,
+07/05/2007,3,FEET,79.7,DEGREES F,,
+07/05/2007,4,FEET,78.4,DEGREES F,,
+07/05/2007,5,FEET,76.4,DEGREES F,,
+07/30/2007,1,FEET,86.9,DEGREES F,,
+07/30/2007,2,FEET,86.1,DEGREES F,,
+07/30/2007,3,FEET,79.8,DEGREES F,,
+07/30/2007,4,FEET,78.8,DEGREES F,,
+07/30/2007,5,FEET,78.2,DEGREES F,,
+07/30/2007,6,FEET,77.9,DEGREES F,,
+08/16/2007,1,FEET,75.5,DEGREES F,,
+08/16/2007,2,FEET,75.9,DEGREES F,,
+08/16/2007,3,FEET,75.9,DEGREES F,,
+08/16/2007,4,FEET,75.9,DEGREES F,,
+08/16/2007,5,FEET,75.9,DEGREES F,,
+08/01/2012,0,METERS,27.2,DEGREES C,8.51,MG/L
+08/01/2012,0.5,METERS,27.2,DEGREES C,8.33,MG/L
+08/01/2012,1,METERS,27.1,DEGREES C,7.73,MG/L
+08/01/2012,1.5,METERS,27,DEGREES C,6.03,MG/L
+08/01/2012,1.8,METERS,26.9,DEGREES C,4.44,MG/L
+08/20/2012,0,METERS,21.7,DEGREES C,3.98,MG/L
+08/20/2012,0.33,METERS,21.9,DEGREES C,4.01,MG/L
+08/20/2012,0.66,METERS,21.9,DEGREES C,3.96,MG/L
+08/20/2012,1,METERS,21.9,DEGREES C,3.94,MG/L
+08/20/2012,1.33,METERS,21.9,DEGREES C,3.92,MG/L
+08/20/2012,1.5,METERS,22,DEGREES C,3.78,MG/L
+09/17/2012,0,FEET,20.1,DEGREES C,6.73,MG/L
+09/17/2012,1,FEET,19.9,DEGREES C,6.73,MG/L
+09/17/2012,1.5,FEET,19.6,DEGREES C,6.78,MG/L
+09/17/2012,2,FEET,19.5,DEGREES C,6.66,MG/L
+09/17/2012,2.5,FEET,19.5,DEGREES C,6.69,MG/L
+09/17/2012,3,FEET,19.4,DEGREES C,6.6,MG/L
+09/17/2012,4,FEET,19.4,DEGREES C,6.62,MG/L
+09/17/2012,4.5,FEET,19.4,DEGREES C,6.61,MG/L
+09/17/2012,,,19.9,C,6.7,MG/L
+07/31/2017,1,FEET,77,DEGREES F,,
+07/31/2017,2,FEET,77,DEGREES F,,
+07/31/2017,3,FEET,77,DEGREES F,,
+07/31/2017,4,FEET,76.6,DEGREES F,,
+07/31/2017,5,FEET,76.6,DEGREES F,,
+07/31/2017,6,FEET,786.4,DEGREES F,,
+07/31/2017,7,FEET,76.2,DEGREES F,,
+07/31/2017,8,FEET,76.1,DEGREES F,,
+09/06/2017,1,FEET,63.3,DEGREES F,,
+09/06/2017,2,FEET,63.3,DEGREES F,,
+09/06/2017,3,FEET,63.3,DEGREES F,,
+09/06/2017,4,FEET,63.3,DEGREES F,,
+09/06/2017,5,FEET,63.3,DEGREES F,,
+09/06/2017,6,FEET,63.3,DEGREES F,,
+09/14/2017,1,FEET,69,DEGREES F,,
+09/14/2017,2,FEET,68.5,DEGREES F,,
+09/14/2017,3,FEET,68,DEGREES F,,
+09/14/2017,4,FEET,67.8,DEGREES F,,
+09/14/2017,5,FEET,67.8,DEGREES F,,
+09/14/2017,6,FEET,67.6,DEGREES F,,
+06/13/2018,1,FEET,72.5,DEGREES F,,
+06/13/2018,2,FEET,72.5,DEGREES F,,
+06/13/2018,3,FEET,72.5,DEGREES F,,
+06/13/2018,4,FEET,72.5,DEGREES F,,
+06/13/2018,5,FEET,72.5,DEGREES F,,
+06/13/2018,6,FEET,72.5,DEGREES F,,
+06/13/2018,7,FEET,72.5,DEGREES F,,
+06/13/2018,8,FEET,72.5,DEGREES F,,
+07/25/2018,1,FEET,82.2,DEGREES F,,
+07/25/2018,2,FEET,78.8,DEGREES F,,
+07/25/2018,3,FEET,76.8,DEGREES F,,
+07/25/2018,4,FEET,76.8,DEGREES F,,
+07/25/2018,5,FEET,76.6,DEGREES F,,
+07/25/2018,6,FEET,76.6,DEGREES F,,
+07/31/2018,1,FEET,78.8,DEGREES F,,
+07/31/2018,2,FEET,76.4,DEGREES F,,
+07/31/2018,3,FEET,75.5,DEGREES F,,
+07/31/2018,4,FEET,75,DEGREES F,,
+07/31/2018,5,FEET,75,DEGREES F,,
+07/31/2018,6,FEET,74.8,DEGREES F,,
+07/09/2019,1,FEET,80.4,DEGREES F,,
+07/09/2019,2,FEET,79.8,DEGREES F,,
+07/09/2019,3,FEET,79.7,DEGREES F,,
+07/09/2019,4,FEET,79.5,DEGREES F,,
+07/09/2019,5,FEET,79.1,DEGREES F,,
+07/09/2019,6,FEET,78.9,DEGREES F,,
+08/03/2019,1,FEET,80.9,DEGREES F,,
+08/03/2019,2,FEET,78.8,DEGREES F,,
+08/03/2019,3,FEET,77.3,DEGREES F,,
+08/03/2019,4,FEET,77,DEGREES F,,
+08/03/2019,5,FEET,76.8,DEGREES F,,
+08/03/2019,6,FEET,76.8,DEGREES F,,
+08/13/2019,1,FEET,78.6,DEGREES F,,
+08/13/2019,2,FEET,78,DEGREES F,,
+08/13/2019,3,FEET,77.3,DEGREES F,,
+08/13/2019,4,FEET,77.03,DEGREES F,,
+08/13/2019,5,FEET,77,DEGREES F,,
+08/13/2019,6,FEET,77,DEGREES F,,
+08/14/2019,0,FEET,25,DEGREES C,10.13,MG/L
+08/14/2019,1,FEET,24.9,DEGREES C,8.53,MG/L
+08/14/2019,1.5,FEET,24.4,DEGREES C,4.4,MG/L
+08/27/2019,1,FEET,70.5,DEGREES F,,
+08/27/2019,2,FEET,70.3,DEGREES F,,
+08/27/2019,3,FEET,70.3,DEGREES F,,
+08/27/2019,4,FEET,70.3,DEGREES F,,
+08/27/2019,5,FEET,70.1,DEGREES F,,
+08/27/2019,6,FEET,70.1,DEGREES F,,
+06/27/2020,1,FEET,82.5,DEGREES F,,
+06/27/2020,2,FEET,81.3,DEGREES F,,
+06/27/2020,3,FEET,76.6,DEGREES F,,
+06/27/2020,4,FEET,74.8,DEGREES F,,
+06/27/2020,5,FEET,74.1,DEGREES F,,
+06/27/2020,6,FEET,73.9,DEGREES F,,
+06/27/2020,7,FEET,73.7,DEGREES F,,
+07/13/2020,1,FEET,81.2,DEGREES F,,
+07/13/2020,2,FEET,80.4,DEGREES F,,
+07/13/2020,3,FEET,79.3,DEGREES F,,
+07/13/2020,4,FEET,79.1,DEGREES F,,
+07/13/2020,5,FEET,79.1,DEGREES F,,
+07/13/2020,6,FEET,79.1,DEGREES F,,
+07/13/2020,7,FEET,79.1,DEGREES F,,
+07/29/2020,1,FEET,78.8,DEGREES F,,
+07/29/2020,2,FEET,78.2,DEGREES F,,
+07/29/2020,3,FEET,78.2,DEGREES F,,
+07/29/2020,4,FEET,78,DEGREES F,,
+07/29/2020,5,FEET,78,DEGREES F,,
+07/29/2020,6,FEET,78,DEGREES F,,
+08/13/2020,1,FEET,80.6,DEGREES F,,
+08/13/2020,2,FEET,80.4,DEGREES F,,
+08/13/2020,3,FEET,80.4,DEGREES F,,
+09/05/2020,1,FEET,71.6,DEGREES F,,
+09/05/2020,2,FEET,71.4,DEGREES F,,
+09/05/2020,3,FEET,71.4,DEGREES F,,
+09/05/2020,4,FEET,71.4,DEGREES F,,
+09/05/2020,5,FEET,71.4,DEGREES F,,
+09/05/2020,6,FEET,71.2,DEGREES F,,
+09/18/2020,1,FEET,65.6,DEGREES F,,
+09/18/2020,2,FEET,65.3,DEGREES F,,
+09/18/2020,3,FEET,64.9,DEGREES F,,
+09/18/2020,4,FEET,64.7,DEGREES F,,
+09/18/2020,5,FEET,64.4,DEGREES F,,
+09/18/2020,6,FEET,64.4,DEGREES F,,
+10/06/2020,1,FEET,54.8,DEGREES F,,
+10/06/2020,2,FEET,54.8,DEGREES F,,
+10/06/2020,3,FEET,54.8,DEGREES F,,
+10/06/2020,4,FEET,54.8,DEGREES F,,
+10/06/2020,5,FEET,54.8,DEGREES F,,
+10/06/2020,6,FEET,54.6,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/30/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/29/1998,LAKE WATER QUALITY MONITORING    
+04/08/1999,LAKE WATER QUALITY MONITORING    
+06/24/1999,LAKE WATER QUALITY MONITORING    
+09/11/2002,% cloud cover = 1%; wind speed 5mph ene; custer color strip reading = 7; site depth = 7ft; algae development = moderate (quite noticeable); Meter type = reel 03 Model 57; depth of integrated water sample = 6ft; SLH field number = K01; "beautiful day"
+07/30/2007,Sunny- calm- no boats
+08/16/2007,cloudy- rough- no boats
+08/01/2012,Integrated sampler close to hitting bottom. Sample depth just short of 2 meters. YSI depths taken at 1/2 meter due to shallow water.
+08/20/2012,Lake Level still low.  Only 4.5 feet of 2m integrated sampler was able to be filled. 2m integrated sampler still hitting bottom due to low lake levels.  Only able to sample 4.5 feet.
+09/17/2012,Could only sample 4.5 feet of water column at deep hole because shallow
+06/14/2015,Secchi rested on bottom at 6.0 feet.  2 Pelicans swimming nearby.  8 fishing boats nearby.  
+06/27/2015,Water 6 feet deep.  0.5-1 inch algae strings common- some in clumps.  5 fishing boats nearby
+07/17/2015,less algae than 6/27.  gentle waves from breeze.  
+08/06/2015,very calm day.  water 5 feet- 9 inches deep.  no algae.   very calm day.  water 5 feet- 9 inches deep.  no algae.  
+08/26/2015,no algae- cloudy- calm- water 5 feet 9 inches deep
+09/21/2015,These comments related to Mud Lake but the data entered in the database are for my usual Koshkonong location- DH.  This is duplicate data for 9/21/2015 because I couldn't figure out how to edit the original data to add my comments.  
+I was unable to get into Mud Lake itself because it was too shallow for my kayak.  I kayaked from Koshkonong into the stream leading from Mud Lake and took a reading in what seemed to be the deepest part of the stream.  Its GPS was 42 54 06 north and 88 54 38 west.  It is slightly upstream from the concrete supports for the old carp gates.  The Secchi clarity was greater than 1.75 feet- where the disk hit the bottom.  The Koshkonong gauge height was 6.40 feet so if I return in the spring with a gauge height of over 7 feet I should be able to get into the lake.  There was a a significant current toward Koshkonong.   
+
+
+09/21/2015,slight algae- breeze from south- clear day
+10/20/2015,windy today- very windy yesterday.  water low due to winter draw down but even lower yesterday.  
+06/07/2016,Cloudy- cool- NW wind- 3 pelicans nearby- 1 fishing boat- small amount suspended algae
+06/24/2016,Clear- calm- significant current from NNE- one boat trolling- swimming "bugs" below surface- some rod-like suspended algae up to 1 inch long- 
+07/18/2016,clear- calm- NW breeze- much 1 inch algae rods but not clumped.  
+08/10/2016,Hot- humid- cloudy.  No algae- saw about 260 pelicans where mud lake flows into Koshkonong- 
+09/12/2016,sunny- clear- wind from south- white caps-rough- very little algae
+10/09/2016,clear- slight breeze from north- no algae.  Several "bugs" about 1 cm long swimming below surface.  
+06/14/2017,Strong wind from south- whitecaps- hard to get Secchi reading.  7.5 feet to bottom Strong wind from south- whitecaps- hard to get Secchi reading.  7.5 feet to bottom
+06/18/2017,Wind from west- white caps- hard to get Secchi reading- 7.0 feet to bottom
+07/31/2017,mild breeze from south- 6 fishing boats nearby- 8.0' to bottom mild breeze from south- 6 fishing boats nearby- 8.0' to bottom
+09/14/2017,calm- some fog- 6 fishing boats to south- noticeable current to south west- many short strands of algae with large clumps en route.
+06/13/2018,NW Wind- white caps.  lots of small "swimmers" visible in water and on chlorophyl filter
+07/25/2018,Sunny and mild- SW breeze- calm water- lots of 1/2" algae strings- some duckweed- approximately 200 pelicans near the stream entrance to Mud Lake west of Blackhawk Island.  
+07/31/2018,No wind- very calm water.  1/4" string-like algae.  Surface had what appeared to be many 1" long "husks" perhaps shed from damsel fly nymphs. Large flock of pelicans on shore near Mud Lake.  Tried to get close to them but bottomed out and bent propeller at GPS 42/53/48 N; 88/55/03 W.   
+07/09/2019,Sunny- breeze from south- 6 fishing boats to the south (channel?). Depth = 7.5' 
+08/03/2019,partly cloudy- calm- 2 fishing boats to south- depth 6.25'. 
+08/13/2019,partly sunny- calm 
+07/13/2020,Sunny- calm.  Lots of duck weed.  Water depth is 7.0 feet.  
+07/23/2020,Slight breeze from north- partly cloudy.  Not much duck weed.  Water depth is 7.0 feet.
+07/29/2020,Clear- calm- water depth 6.5'.  Duck weed- damsel fly husks- small "swimmers". 
+08/13/2020,Sunny- slight SE breeze.   
+09/05/2020,Sunny- slight breeze- many .25-.50 inch algae pieces- water depth = 6.0'.   
+09/18/2020,Partly cloudy- breeze from north.   
+10/06/2020,Stiff breeze from north- sunny.   
+
+
+
+
+Start Date,Group Name,Project Name
+06/30/1980,Data Collectors,Migrated from STORET Legacy
+07/29/1998,Data Collectors,BASIN ASSESSMENT BASIC 1998
+08/27/1998,Data Collectors,BASIN ASSESSMENT BASIC 1998
+02/08/1999,Data Collectors,BASIN ASSESSMENT BASIC 1998
+04/08/1999,Data Collectors,BASIN ASSESSMENT BASIC 1998
+06/24/1999,Data Collectors,BASIN ASSESSMENT BASIC 1998
+09/11/2002,Susan Graham and Carl Molter,Lake Baseline Monitoring- DNR (1970s-2006)
+07/05/2007,Norbert (Jim) Johnson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/30/2007,Norbert (Jim) Johnson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/16/2007,Norbert (Jim) Johnson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/01/2012,Cody Rebischke and Mike Carlson,SCR Long-Term Trend Lakes
+08/20/2012,Cody Rebischke and Mike Carlson,SCR Long-Term Trend Lakes
+09/17/2012,JAMES CARLSON,SCR Long-Term Trend Lakes
+06/14/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/27/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/08/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 2016
+07/17/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/06/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/26/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+09/21/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+10/20/2015,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/07/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/24/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/18/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/10/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+09/12/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+10/09/2016,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/14/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/18/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/31/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+09/06/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+09/14/2017,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/13/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/25/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/31/2018,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/09/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/03/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/13/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/14/2019,SHELBY T ADLER- ALYSSA M SOGGE- JULIE M BENZSCHAWEL,SCR Long-Term Trend Lakes
+08/27/2019,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/29/2019,SHELBY T ADLER- ALYSSA M SOGGE- JULIE M BENZSCHAWEL,SCR Long-Term Trend Lakes
+06/27/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+06/27/2020,Ronald Anderson,SCR Long-Term Trend Lakes
+07/13/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/23/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/29/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+07/29/2020,Ronald Anderson,SCR Long-Term Trend Lakes
+08/13/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+08/13/2020,Ronald Anderson,SCR Long-Term Trend Lakes
+09/05/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+09/05/2020,Ronald Anderson,SCR Long-Term Trend Lakes
+09/18/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore
+10/06/2020,Ronald Anderson,Citizen Lake Monitoring - Water Quality - Lake Koshkonong; Deep Hole Off South Shore

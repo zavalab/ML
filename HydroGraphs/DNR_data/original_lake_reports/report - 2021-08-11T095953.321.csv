@@ -1,0 +1,113 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Hatch Lake,Waupaca,282800,NE,69,,693047,CE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190378,06/24/1991,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190378,07/02/1991,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190378,07/09/1991,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190378,07/18/1991,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190378,07/25/1991,10.25,NO,3.1,,,44,,,NORMAL,,CLEAR,BLUE,
+8190378,08/03/1991,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190378,08/13/1991,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190378,08/25/1991,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190378,09/05/1991,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190378,09/19/1991,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190378,10/03/1991,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190378,10/17/1991,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190378,04/21/1992,11.25,YES,3.4,,,42,,,HIGH,,,GREEN,
+8190378,06/07/1992,11.5,YES,3.5,,,42,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189260,05/26/1997,8,NO,2.4,,,47,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189260,06/08/1997,9.75,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189260,06/28/1997,8.5,NO,2.6,,,46,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189261,10/10/1997,10.25,NO,3.1,,,44,,,LOW,,CLEAR,BLUE,
+8189261,07/12/1998,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189261,07/30/1998,11,NO,3.3,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189261,08/21/1998,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189261,08/31/1998,11,NO,3.3,,,43,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189261,09/09/1998,10.75,NO,3.3,,,43,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+8189261,10/11/1998,9.25,NO,2.8,,,45,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+7000093,06/21/1999,8,,2.4,4.63,20,47,51,46,,,,,
+7000093,07/19/1999,8,,2.4,2.09,18,47,51,40,,,,,
+7000093,08/24/1999,10.8,,3.3,1.3,14,43,49,37,,,,,
+7000093,04/12/2000,11.5,,3.5,1,14,42,49,35,,,,,
+8188638,04/23/2003,,,,,20,,51,,,,,,
+1,07/17/2003,,,,3.69,13,,48,45,,,,,
+1,08/27/2003,9.8,NO,3,6.74,15,44,49,49,,,,,
+1,06/10/2020,9.2,NO,2.8,3.96,17.6,45,50,45,,,,,
+1,07/27/2020,8.5,NO,2.6,3.42,17.3,46,50,44,,,,,
+143167470,08/06/2020,11.6,N,3.5,,,42,,,,,,,
+1,08/31/2020,8.4,NO,2.6,4.11,21.4,46,52,45,,,,,
+1,11/02/2020,6.7,N,2,9.2,19.5,50,51,52,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/21/1999,,,21.4,C,11.0,MG/L
+07/19/1999,,,25.7,C,7.2,MG/L
+08/24/1999,,,21.6,C,5.07,MG/L
+04/12/2000,,,7.2,C,12.45,MG/L
+06/10/2020,,,18.4,C,3.0,MG/L
+07/27/2020,,,24.8,C,10.1,MG/L
+08/31/2020,,,22.6,C,7.8,MG/L
+11/02/2020,,,2.9,C,12.7,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/26/1997,Windy- slight chop- speed boat traffic.  Sunny and clear.    
+06/08/1997,Clear sky- light breeze.    
+07/12/1998,Clear calm day.    
+07/30/1998,Clear slightly choppy.  Water level: very low.    
+08/21/1998,Slightly choppy and overcast.    
+08/31/1998,Clear quiet day.    
+09/09/1998,Clear quiet day.    
+10/11/1998,Light haze slightly choppy.    
+04/23/2003,DEEP HOLE - INTEGRATED SAMPLE 0-2M    
+07/17/2003,DEEP HOLE - VAN DORN    
+08/27/2003,DEEP SPOT - INTEGRATED SAMPLE 0-2M    
+
+
+
+
+Start Date,Group Name,Project Name
+06/24/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+07/02/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+07/09/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+07/18/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+07/25/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+08/03/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+08/13/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+08/25/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+09/05/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+09/19/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+10/03/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+10/17/1991,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+04/21/1992,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+06/07/1992,Greg Loeser,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+05/26/1997,Mike Gambsky,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+06/08/1997,Mike Gambsky,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+06/28/1997,Mike Gambsky,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+10/10/1997,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+07/12/1998,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+07/30/1998,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+08/21/1998,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+08/31/1998,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+09/09/1998,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+10/11/1998,Tom Rheingans,Citizen Lake Monitoring - Water Quality - Hatch Lake - Deep Hole
+06/21/1999,Mary Gansberg,HATCH LAKE ASSOCIATION: Hatch Lake Water Management Plan
+07/19/1999,Mary Gansberg,HATCH LAKE ASSOCIATION: Hatch Lake Water Management Plan
+08/24/1999,Mary Gansberg,HATCH LAKE ASSOCIATION: Hatch Lake Water Management Plan
+04/12/2000,Mary Gansberg,HATCH LAKE ASSOCIATION: Hatch Lake Water Management Plan
+04/23/2003,Crystal Olson,Lake Baseline Monitoring- DNR (1970s-2006)
+07/17/2003,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/27/2003,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/10/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+07/27/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+08/06/2020,ZANA SIJAN,
+08/31/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+11/02/2020,Data Collectors,HATCH LAKE ASSOCIATION: Hatch Lake Comprehensive Management Plan

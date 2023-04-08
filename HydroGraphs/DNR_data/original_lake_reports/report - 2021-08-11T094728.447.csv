@@ -1,0 +1,247 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Horseshoe Lake,Washburn,2470000,NO,66,,10042003,NW,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+99991843,06/16/2014,16.25,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/02/2014,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,07/18/2014,14.5,NO,4.4,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,08/20/2014,13,NO,4,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,06/11/2015,16,NO,4.9,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/29/2015,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,08/29/2015,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,06/05/2016,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,06/20/2016,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/15/2016,15.75,NO,4.8,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,08/27/2016,13.5,NO,4.1,,,40,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+99991843,09/25/2016,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,06/10/2017,17.5,NO,5.3,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,06/29/2017,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/21/2017,15.5,NO,4.7,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,08/16/2017,13.75,NO,4.2,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,09/15/2017,,NO,,,,,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+99991843,06/10/2018,18,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/08/2018,16.75,NO,5.1,,,37,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,08/23/2018,14,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,06/16/2019,17,NO,5.2,,,36,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,07/07/2019,16.5,NO,5,,,37,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,08/11/2019,,NO,,,,,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+99991843,09/08/2019,14.75,NO,4.5,,,38,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+65944318,05/22/2020,13,NO,4,,10.2,40,46,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+99991843,05/28/2020,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+99991843,06/20/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+65944318,06/21/2020,15,NO,4.6,2.42,14.9,38,49,41,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+99991843,07/16/2020,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+1,07/19/2020,,,,3.52,12.5,,48,44,,,,,
+1,08/16/2020,,,,3.85,12.3,,48,45,,,,,
+99991843,08/20/2020,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,09/20/2020,,,,3.93,12.7,,48,45,,,,,
+1,10/10/2020,,,,2.63,13.4,,48,42,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/16/2014,0,FEET,71,DEGREES F,,
+06/16/2014,5,FEET,68.7,DEGREES F,,
+06/16/2014,10,FEET,68,DEGREES F,,
+06/16/2014,15,FEET,67.8,DEGREES F,,
+06/16/2014,20,FEET,67.5,DEGREES F,,
+07/02/2014,1,FEET,73.1,DEGREES F,,
+07/02/2014,5,FEET,72.1,DEGREES F,,
+07/02/2014,10,FEET,70.7,DEGREES F,,
+07/02/2014,15,FEET,70.1,DEGREES F,,
+07/02/2014,20,FEET,69.8,DEGREES F,,
+07/18/2014,1,FEET,75,DEGREES F,,
+07/18/2014,5,FEET,73.9,DEGREES F,,
+07/18/2014,10,FEET,73.5,DEGREES F,,
+07/18/2014,15,FEET,71.6,DEGREES F,,
+07/18/2014,20,FEET,71.4,DEGREES F,,
+08/20/2014,1,FEET,72.8,DEGREES F,,
+08/20/2014,5,FEET,72.5,DEGREES F,,
+08/20/2014,10,FEET,72.3,DEGREES F,,
+08/20/2014,15,FEET,72.3,DEGREES F,,
+08/20/2014,20,FEET,71.9,DEGREES F,,
+06/11/2015,1,FEET,77.6,DEGREES F,,
+06/11/2015,5,FEET,75.9,DEGREES F,,
+06/11/2015,10,FEET,75.5,DEGREES F,,
+06/11/2015,15,FEET,73.7,DEGREES F,,
+06/11/2015,20,FEET,68.7,DEGREES F,,
+07/29/2015,1,FEET,79.7,DEGREES F,,
+07/29/2015,5,FEET,78.8,DEGREES F,,
+07/29/2015,10,FEET,77.1,DEGREES F,,
+07/29/2015,15,FEET,73.8,DEGREES F,,
+07/29/2015,20,FEET,68.9,DEGREES F,,
+08/29/2015,1,FEET,69.6,DEGREES F,,
+08/29/2015,5,FEET,69,DEGREES F,,
+08/29/2015,10,FEET,67.4,DEGREES F,,
+08/29/2015,15,FEET,65.6,DEGREES F,,
+08/29/2015,20,FEET,65.4,DEGREES F,,
+06/05/2016,1,FEET,66.2,DEGREES F,,
+06/05/2016,5,FEET,66,DEGREES F,,
+06/05/2016,10,FEET,65.8,DEGREES F,,
+06/05/2016,15,FEET,65.4,DEGREES F,,
+06/05/2016,20,FEET,65.3,DEGREES F,,
+06/20/2016,1,FEET,76.2,DEGREES F,,
+06/20/2016,5,FEET,76.7,DEGREES F,,
+06/20/2016,10,FEET,73.5,DEGREES F,,
+06/20/2016,15,FEET,72.3,DEGREES F,,
+06/20/2016,20,FEET,72.3,DEGREES F,,
+07/15/2016,1,FEET,73.8,DEGREES F,,
+07/15/2016,5,FEET,72.9,DEGREES F,,
+07/15/2016,10,FEET,72.5,DEGREES F,,
+07/15/2016,15,FEET,72.3,DEGREES F,,
+07/15/2016,20,FEET,72,DEGREES F,,
+08/27/2016,1,FEET,72.7,DEGREES F,,
+08/27/2016,5,FEET,72.5,DEGREES F,,
+08/27/2016,10,FEET,72.3,DEGREES F,,
+08/27/2016,15,FEET,72.2,DEGREES F,,
+08/27/2016,20,FEET,71.8,DEGREES F,,
+09/25/2016,1,FEET,72.6,DEGREES F,,
+09/25/2016,5,FEET,72.2,DEGREES F,,
+09/25/2016,10,FEET,72.1,DEGREES F,,
+09/25/2016,15,FEET,71.8,DEGREES F,,
+09/25/2016,20,FEET,71.8,DEGREES F,,
+06/10/2017,1,FEET,66.7,DEGREES F,,
+06/10/2017,5,FEET,66.5,DEGREES F,,
+06/10/2017,10,FEET,66.5,DEGREES F,,
+06/10/2017,15,FEET,65.6,DEGREES F,,
+06/10/2017,20,FEET,65.3,DEGREES F,,
+06/29/2017,1,FEET,71.4,DEGREES F,,
+06/29/2017,5,FEET,71.2,DEGREES F,,
+06/29/2017,10,FEET,71,DEGREES F,,
+06/29/2017,15,FEET,69.5,DEGREES F,,
+06/29/2017,20,FEET,69.3,DEGREES F,,
+07/21/2017,1,FEET,75.1,DEGREES F,,
+07/21/2017,5,FEET,75,DEGREES F,,
+07/21/2017,10,FEET,74.6,DEGREES F,,
+07/21/2017,15,FEET,74.4,DEGREES F,,
+07/21/2017,20,FEET,73.4,DEGREES F,,
+08/16/2017,1,FEET,73.7,DEGREES F,,
+08/16/2017,5,FEET,73.6,DEGREES F,,
+08/16/2017,10,FEET,73.2,DEGREES F,,
+08/16/2017,15,FEET,72.6,DEGREES F,,
+08/16/2017,20,FEET,71.9,DEGREES F,,
+09/15/2017,1,FEET,72.9,DEGREES F,,
+09/15/2017,5,FEET,72.8,DEGREES F,,
+09/15/2017,10,FEET,72.4,DEGREES F,,
+09/15/2017,15,FEET,72,DEGREES F,,
+09/15/2017,20,FEET,71.8,DEGREES F,,
+06/10/2018,1,FEET,67.1,DEGREES F,,
+06/10/2018,5,FEET,67,DEGREES F,,
+06/10/2018,10,FEET,66.7,DEGREES F,,
+06/10/2018,15,FEET,66.3,DEGREES F,,
+06/10/2018,20,FEET,65.9,DEGREES F,,
+07/08/2018,1,FEET,72.3,DEGREES F,,
+07/08/2018,5,FEET,72.1,DEGREES F,,
+07/08/2018,10,FEET,71.6,DEGREES F,,
+07/08/2018,15,FEET,71.2,DEGREES F,,
+07/08/2018,20,FEET,71.1,DEGREES F,,
+08/23/2018,1,FEET,74.3,DEGREES F,,
+08/23/2018,5,FEET,74.1,DEGREES F,,
+08/23/2018,10,FEET,73.8,DEGREES F,,
+08/23/2018,15,FEET,73.4,DEGREES F,,
+08/23/2018,20,FEET,73.2,DEGREES F,,
+06/16/2019,1,FEET,67.6,DEGREES F,,
+06/16/2019,5,FEET,67.4,DEGREES F,,
+06/16/2019,10,FEET,67.3,DEGREES F,,
+06/16/2019,15,FEET,66.8,DEGREES F,,
+06/16/2019,20,FEET,66.6,DEGREES F,,
+07/07/2019,1,FEET,73.9,DEGREES F,,
+07/07/2019,5,FEET,73.8,DEGREES F,,
+07/07/2019,10,FEET,73.3,DEGREES F,,
+07/07/2019,15,FEET,73,DEGREES F,,
+07/07/2019,20,FEET,72.8,DEGREES F,,
+08/11/2019,1,FEET,76.3,DEGREES F,,
+08/11/2019,5,FEET,76.2,DEGREES F,,
+08/11/2019,10,FEET,75.4,DEGREES F,,
+08/11/2019,15,FEET,75.1,DEGREES F,,
+08/11/2019,20,FEET,74.9,DEGREES F,,
+09/08/2019,1,FEET,69.5,DEGREES F,,
+09/08/2019,5,FEET,69.2,DEGREES F,,
+09/08/2019,10,FEET,68.7,DEGREES F,,
+09/08/2019,15,FEET,68.3,DEGREES F,,
+09/08/2019,20,FEET,68,DEGREES F,,
+05/28/2020,0,FEET,68.5,DEGREES F,,
+05/28/2020,5,FEET,68.1,DEGREES F,,
+05/28/2020,10,FEET,66.8,DEGREES F,,
+05/28/2020,15,FEET,64.2,DEGREES F,,
+05/28/2020,20,FEET,62.9,DEGREES F,,
+05/28/2020,25,FEET,59.4,DEGREES F,,
+06/20/2020,0,FEET,72.6,DEGREES F,,
+06/20/2020,5,FEET,72.1,DEGREES F,,
+06/20/2020,10,FEET,70.9,DEGREES F,,
+06/20/2020,15,FEET,68.3,DEGREES F,,
+06/20/2020,20,FEET,64.5,DEGREES F,,
+06/20/2020,25,FEET,61.2,DEGREES F,,
+06/21/2020,0,FEET,72.3,DEGREES F,,
+06/21/2020,5,FEET,71.9,DEGREES F,,
+06/21/2020,10,FEET,71.7,DEGREES F,,
+06/21/2020,15,FEET,71.6,DEGREES F,,
+06/21/2020,20,FEET,66.2,DEGREES F,,
+06/21/2020,25,FEET,57.9,DEGREES F,,
+07/16/2020,0,FEET,74.9,DEGREES F,,
+07/16/2020,5,FEET,73.4,DEGREES F,,
+07/16/2020,10,FEET,73.1,DEGREES F,,
+07/16/2020,15,FEET,71.8,DEGREES F,,
+07/16/2020,20,FEET,69.8,DEGREES F,,
+07/16/2020,25,FEET,66.7,DEGREES F,,
+08/20/2020,0,FEET,72.1,DEGREES F,,
+08/20/2020,5,FEET,71.5,DEGREES F,,
+08/20/2020,10,FEET,70.6,DEGREES F,,
+08/20/2020,15,FEET,68.6,DEGREES F,,
+08/20/2020,20,FEET,66.2,DEGREES F,,
+08/20/2020,25,FEET,65.1,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+05/22/2020,Eagle siting- training session with Dave Blumer
+05/28/2020,30 min of data collecting
+06/21/2020,Lana Blumer and Dave Blumer assisted with readings.
+
+
+
+
+Start Date,Group Name,Project Name
+06/16/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/02/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/18/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/20/2014,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/11/2015,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/29/2015,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/29/2015,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/05/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/20/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/15/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/27/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/25/2016,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/10/2017,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/29/2017,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/21/2017,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/16/2017,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/15/2017,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/10/2018,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/08/2018,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/23/2018,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/16/2019,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/07/2019,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/11/2019,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/08/2019,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+05/22/2020,Ed Wink,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+05/22/2020,Ed Wink,HORSESHOE LAKE PROPERTY ASSOC: 2020-21 Horseshoe Lake Updated APM Plan and EWM Planning
+05/28/2020,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/20/2020,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/21/2020,Ed Wink,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+06/21/2020,Ed Wink,HORSESHOE LAKE PROPERTY ASSOC: 2020-21 Horseshoe Lake Updated APM Plan and EWM Planning
+07/16/2020,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/19/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+07/19/2020,Data Collectors,HORSESHOE LAKE PROPERTY ASSOC: 2020-21 Horseshoe Lake Updated APM Plan and EWM Planning
+08/16/2020,Data Collectors,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+08/16/2020,Data Collectors,HORSESHOE LAKE PROPERTY ASSOC: 2020-21 Horseshoe Lake Updated APM Plan and EWM Planning
+08/20/2020,Mike Durand,Citizen Lake Monitoring - Water Quality - Horseshoe Lake - Deep Hole
+09/20/2020,Data Collectors,HORSESHOE LAKE PROPERTY ASSOC: 2020-21 Horseshoe Lake Updated APM Plan and EWM Planning
+10/10/2020,Data Collectors,HORSESHOE LAKE PROPERTY ASSOC: 2020-21 Horseshoe Lake Updated APM Plan and EWM Planning

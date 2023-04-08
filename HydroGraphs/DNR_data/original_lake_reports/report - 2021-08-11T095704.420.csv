@@ -1,0 +1,158 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lower Nashotah Lake,Waukesha,827300,SE,68,,683130,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,11/19/1973,,,,,30,,54,,,,,,
+1,02/07/1974,,,,,10,,46,,,,,,
+1,04/01/1974,,,,,40,,57,,,,,,
+1,07/08/1974,,,,,20,,51,,,,,,
+1,11/18/1974,,,,,40,,57,,,,,,
+1,02/04/1975,,,,,,,,,,,,,
+1,02/19/1975,,,,,10,,46,,,,,,
+1,04/21/1975,,,,,10,,46,,,,,,
+1,09/18/1980,6.6,,2,4,,50,,45,,,,,
+41731863,02/19/1981,35,NO,10.6,,,26,,,,,,,
+1,09/14/1981,8.9,,2.7,5,,46,,47,,,,,
+8190810,06/07/1987,4.75,NO,1.4,,,55,,,,,,GREEN,
+8190810,06/11/1987,15,NO,4.6,,,38,,,,,CLEAR,GREEN,
+8190810,06/22/1987,8,NO,2.4,,,47,,,`ABOUT 6" LOW,,,GREEN,
+8190810,07/13/1987,14,NO,4.3,,,39,,,,,CLEAR,GREEN,
+8190810,06/01/1988,7,NO,2.1,,,49,,,NORAML,,CLEAR,GREEN,
+8190810,07/03/1988,8,NO,2.4,,,47,,,6" BELOW NORMAL,,CLEAR,GREEN,
+8190810,08/07/1988,16,NO,4.9,,,37,,,8" DOWN,,CLEAR,GREEN,
+8190810,04/30/1989,22,NO,6.7,,,33,,,4-6 IN. BELOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,04/13/1992,24.6,,7.5,2,7,31,43,40,,,,,
+1,06/15/1992,7.5,,2.3,3,,48,,43,,,,,
+1,07/17/1992,8.2,,2.5,5.7,7,47,43,48,,,,,
+1,09/01/1992,14.1,,4.3,2.95,4,39,39,43,,,,,
+164047108,07/24/2018,12.8,NO,3.9,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+164047108,08/08/2018,12.2,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+164047108,09/01/2018,,NO,,,,,,,HIGH,20.0,CLEAR,BLUE,1-Beautiful, could not be nicer
+164047108,09/26/2018,13,NO,4,,,40,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+164047108,05/26/2019,9.5,NO,2.9,,,45,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+164047108,06/17/2019,9.8,NO,3,,,44,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+164047108,07/09/2019,6.5,NO,2,,,50,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+164047108,07/19/2019,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+164047108,07/28/2019,6.2,NO,1.9,,,51,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+164047108,08/28/2019,11.4,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+164047108,09/20/2019,13.5,NO,4.1,,,40,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+164047108,05/25/2020,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+164047108,06/19/2020,,NO,,,,,,,NORMAL,10.0,CLEAR,GREEN,1-Beautiful, could not be nicer
+164047108,08/05/2020,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+164047108,08/21/2020,14.5,NO,4.4,,,39,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+164047108,09/15/2020,12.3,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+164047108,10/08/2020,18.7,NO,5.7,,,35,,,LOW,,,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+11/19/1973,,,42.5,C,8.5,MG/L
+02/07/1974,,,.555556,C,10.7,MG/L
+04/01/1974,,,3.88889,C,10.3,MG/L
+07/08/1974,,,17.5,C,0,MG/L
+11/18/1974,,,45,C,9.1,MG/L
+02/04/1975,,,3.33333,C,6.7,MG/L
+02/19/1975,,,.277778,C,11.8,MG/L
+04/21/1975,,,3.88889,C,10.6,MG/L
+02/19/1981,0,FEET,.5,DEGREES C,13.1,MG/L
+02/19/1981,2,FEET,3,DEGREES C,12.6,MG/L
+02/19/1981,4,FEET,3,DEGREES C,11.7,MG/L
+02/19/1981,8,FEET,3,DEGREES C,11.6,MG/L
+02/19/1981,14,FEET,3,DEGREES C,11.4,MG/L
+02/19/1981,16,FEET,3,DEGREES C,11.1,MG/L
+02/19/1981,18,FEET,3,DEGREES C,11,MG/L
+02/19/1981,20,FEET,3,DEGREES C,10.9,MG/L
+02/19/1981,22,FEET,3,DEGREES C,10.5,MG/L
+02/19/1981,24,FEET,3,DEGREES C,9.6,MG/L
+02/19/1981,26,FEET,3,DEGREES C,9.4,MG/L
+02/19/1981,28,FEET,3,DEGREES C,8.2,MG/L
+02/19/1981,30,FEET,3,DEGREES C,7.3,MG/L
+02/19/1981,32,FEET,3,DEGREES C,5.8,MG/L
+02/19/1981,34,FEET,3,DEGREES C,4.4,MG/L
+02/19/1981,36,FEET,3.5,DEGREES C,1.4,MG/L
+02/19/1981,38,FEET,3.5,DEGREES C,.3,MG/L
+02/19/1981,40,FEET,4,DEGREES C,.3,MG/L
+02/19/1981,44,FEET,4,DEGREES C,.3,MG/L
+04/13/1992,,,2.9,C,13.3,MG/L
+06/15/1992,,,18.3,C,11.0,MG/L
+07/17/1992,,,18.3,C,1.1,MG/L
+09/01/1992,,,11.3,C,2.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+11/19/1973,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/07/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/01/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/08/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/18/1974,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/04/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/19/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+04/21/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+09/18/1980,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/19/1981, Kaas and Bruch.  Ice thickness = 14 inches.  Snow cover = none. Partly cloudy.
+09/14/1981,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/07/1987,Clear and heavier than normal algae bloom.    
+06/11/1987,Lake clearing and sunny.    
+06/22/1987,Algae bloom diminishing.    
+07/13/1987,Partly cloudy and there is no algae in the water.    
+06/01/1988,Sunny- algae bloom heavy    
+07/03/1988,Sunny- bloom disappearing    
+08/07/1988,Sunny- algae bloom gone    
+04/30/1989,Clear- light N wind- air low 50's- no algae    
+06/17/2019,partly cloudy- 73 degrees
+08/28/2019,data was collect by Fred and Anne Ehle
+05/25/2020,It was very windy.  Lots of ripples on the surface making vision difficult.  Also- Fred was the viewer.  Anne has much better vision and is the normal viewer.
+
+I believe this reading is not as favorable as normal.
+08/21/2020,Unusually clear day.  calm winds/lake surface- there has been no rain for over a week.  perfect conditions
+
+
+
+
+Start Date,Group Name,Project Name
+11/19/1973,Data Collectors,Migrated from STORET Legacy
+02/07/1974,Data Collectors,Migrated from STORET Legacy
+04/01/1974,Data Collectors,Migrated from STORET Legacy
+07/08/1974,Data Collectors,Migrated from STORET Legacy
+11/18/1974,Data Collectors,Migrated from STORET Legacy
+02/04/1975,Data Collectors,Migrated from STORET Legacy
+02/19/1975,Data Collectors,Migrated from STORET Legacy
+04/21/1975,Data Collectors,Migrated from STORET Legacy
+09/18/1980,Data Collectors,Migrated from STORET Legacy
+02/19/1981,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+09/14/1981,Data Collectors,Migrated from STORET Legacy
+06/07/1987,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+06/11/1987,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+06/22/1987,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+07/13/1987,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+06/01/1988,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+07/03/1988,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+08/07/1988,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+04/30/1989,Dave Chyla,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+04/13/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/15/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/17/1992,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+09/01/1992,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/24/2018,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+08/08/2018,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+09/01/2018,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+09/26/2018,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+05/26/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+06/17/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+07/09/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+07/19/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+07/28/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+08/28/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+09/20/2019,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+05/25/2020,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+06/19/2020,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+08/05/2020,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+08/21/2020,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+09/15/2020,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole
+10/08/2020,Fred Ehle,Citizen Lake Monitoring - Water Quality - Lower Nashotah Lake; Deep Hole

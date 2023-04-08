@@ -1,0 +1,186 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Chain Lake,Oneida,1598000,NO,44,,443070,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/12/1979,,,,,,,,,,,,,
+1,06/19/2000,4.9,,1.5,2,28,54,54,40,,,,,
+1,07/13/2000,3,,0.9,4.9,27,62,54,47,,,,,
+1,08/08/2000,3.3,,1,2.8,35,60,56,43,,,,,
+1,10/12/2000,3,,0.9,5,81,62,62,47,,,,,
+7000068,06/12/2001,4.3,NO,1.3,8,37,56,56,51,,,,,
+7000068,07/04/2001,,,,10.4,29,,54,53,,,,,
+7000068,08/22/2001,,,,9,37,,56,51,,,,,
+7000068,10/22/2001,,,,8,59,,60,51,,,,,
+7000068,06/19/2002,,,,1.51,26,,53,38,,,,,
+7000068,07/24/2002,,,,11.2,28,,54,53,,,,,
+7000068,08/28/2002,,,,18.7,31,,55,57,,,,,
+7000068,10/24/2002,,,,5.35,39,,57,47,,,,,
+18137337,05/29/2007,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+18137337,06/21/2007,4.5,NO,1.4,,,55,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137337,07/06/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137337,07/17/2007,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137337,08/07/2007,5.5,NO,1.7,,,53,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+18137337,08/14/2007,4.5,NO,1.4,,,55,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137337,08/31/2007,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+18137337,09/15/2007,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+43061320,06/23/2010,,,,,,,,,,,,,
+43061320,07/19/2010,3.9,NO,1.2,18.1,33,57,55,57,,,,,
+43061320,08/05/2010,4.9,NO,1.5,6.64,35,54,56,49,,,,,
+43061320,10/12/2010,2.6,NO,0.8,2.1,52,63,59,40,,,,,
+43061320,06/09/2011,2.6,NO,0.8,3.18,43,63,57,44,,,,,
+43061320,07/07/2011,,NO,,17.5,46,,58,56,,,,,
+43061320,08/10/2011,3,NO,0.9,6.95,,62,,49,,,,,
+43061320,10/10/2011,3.6,NO,1.1,11.4,48,59,58,53,,,,,
+58058836,06/21/2012,4.9,N,1.5,11.6,31,54,55,53,,,,,
+58058836,07/09/2012,6.6,,2,10.3,40,50,57,52,,,,,
+58058836,08/08/2012,5.2,NO,1.6,14.9,20,53,51,55,,,,,
+58058836,10/17/2012,4.9,NO,1.5,8.98,50,54,58,51,,,,,
+58058836,06/18/2020,3.3,NO,1,5.51,31.4,60,55,48,,,,,
+241112303,07/17/2020,2,N,0.6,8.08,32.5,63,55,51,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/12/1979,,,26,C,,
+06/23/2010,1,METERS,23.5,DEGREES C,8.7,MG/L
+06/23/2010,2,METERS,22.7,DEGREES C,8.7,MG/L
+06/23/2010,3,METERS,19.9,DEGREES C,7.8,MG/L
+06/23/2010,4.2,METERS,17.2,DEGREES C,1.7,MG/L
+06/23/2010,4.7,METERS,15.2,DEGREES C,.2,MG/L
+06/23/2010,5.1,METERS,14.9,DEGREES C,.2,MG/L
+07/19/2010,1,METERS,24.5,DEGREES C,8.5,MG/L
+07/19/2010,2,METERS,23.1,DEGREES C,6.1,MG/L
+07/19/2010,3,METERS,22.2,DEGREES C,4.3,MG/L
+07/19/2010,4,METERS,20.6,DEGREES C,.4,MG/L
+07/19/2010,4.6,METERS,18.7,DEGREES C,.1,MG/L
+07/19/2010,5.1,METERS,17.9,DEGREES C,.1,MG/L
+07/19/2010,5.5,METERS,16.9,DEGREES C,.2,MG/L
+07/19/2010,,,23.1,C,6.1,MG/L
+08/05/2010,1,METERS,24.5,DEGREES C,7.8,MG/L
+08/05/2010,2,METERS,24.4,DEGREES C,7.5,MG/L
+08/05/2010,3,METERS,23.4,DEGREES C,3.8,MG/L
+08/05/2010,4,METERS,20.8,DEGREES C,.2,MG/L
+08/05/2010,4.5,METERS,19.6,DEGREES C,.3,MG/L
+08/05/2010,5,METERS,18.8,DEGREES C,.3,MG/L
+08/05/2010,5.4,METERS,17.9,DEGREES C,.4,MG/L
+08/05/2010,,,24.4,C,7.5,MG/L
+10/12/2010,1,METERS,13.2,DEGREES C,7.4,MG/L
+10/12/2010,2,METERS,12.4,DEGREES C,6.9,MG/L
+10/12/2010,3,METERS,11.9,DEGREES C,6.1,MG/L
+10/12/2010,4,METERS,11.7,DEGREES C,5,MG/L
+10/12/2010,4.5,METERS,11.6,DEGREES C,4.6,MG/L
+10/12/2010,5,METERS,11.7,DEGREES C,2.6,MG/L
+10/12/2010,5.4,METERS,11.7,DEGREES C,2,MG/L
+10/12/2010,,,12.4,C,6.9,MG/L
+06/09/2011,1,METERS,21.2,DEGREES C,7.8,MG/L
+06/09/2011,2,METERS,21.1,DEGREES C,7.8,MG/L
+06/09/2011,3,METERS,20.7,DEGREES C,7.7,MG/L
+06/09/2011,4,METERS,17.5,DEGREES C,5.5,MG/L
+06/09/2011,4.6,METERS,15.9,DEGREES C,4.8,MG/L
+06/09/2011,5.1,METERS,15.3,DEGREES C,4,MG/L
+06/09/2011,5.5,METERS,14.9,DEGREES C,3.2,MG/L
+06/09/2011,,,21.1,C,7.8,MG/L
+07/07/2011,1,METERS,22.8,DEGREES C,5.6,MG/L
+07/07/2011,2,METERS,22.6,DEGREES C,5.7,MG/L
+07/07/2011,3,METERS,20.6,DEGREES C,5.2,MG/L
+07/07/2011,4,METERS,17.8,DEGREES C,3.4,MG/L
+07/07/2011,4.7,METERS,16.6,DEGREES C,1.6,MG/L
+07/07/2011,5.2,METERS,16.1,DEGREES C,.6,MG/L
+07/07/2011,5.6,METERS,16.3,DEGREES C,.8,MG/L
+07/07/2011,,,22.8,C,5.6,MG/L
+08/10/2011,,,22.3,C,6.5,MG/L
+10/10/2011,,,15.1,C,8.7,MG/L
+06/21/2012,,,22.1,C,7.8,MG/L
+07/09/2012,,,26.1,C,7.8,MG/L
+08/08/2012,,,23.2,C,7.3,MG/L
+10/17/2012,,,8.2,C,9.6,MG/L
+06/18/2020,,,20.9,C,7.8,MG/L
+07/17/2020,,,11.0,C,6.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/12/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+07/13/2000,INTEGRATED    
+06/12/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/04/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/22/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/22/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+06/19/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/24/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/28/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/24/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+05/29/2007,SE wind at 10-20 MPH. Waterlilies starting. Pollen visible
+06/21/2007,NE wind 5-10 MPH. Mostly sunny- 75 degrees.
+07/06/2007,NW wind- 5-10 MPH. Sunny and 80 degrees.
+07/17/2007,wind light and variable- 75 degrees. Algae bloom
+08/07/2007,NW wind 5-10 MPH. 75 degrees. Algae present.
+08/14/2007,Light wind from the SE. 80 degrees.
+08/31/2007,SW wind 5 to 8 MPH. 65 degrees.
+09/15/2007,SW wind 10 MPH. Cloudy- 50 degrees. Water temperature 59 degrees.
+
+
+
+
+Start Date,Group Name,Project Name
+07/12/1979,Data Collectors,Migrated from STORET Legacy
+06/19/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+06/19/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/13/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+07/13/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/08/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+08/08/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+10/12/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+10/12/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/12/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+06/12/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/04/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+07/04/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+08/22/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+10/22/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+10/22/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/19/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+06/19/2002,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/24/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+08/28/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+10/24/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+05/29/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+06/21/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+07/06/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+07/17/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+08/07/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+08/14/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+08/31/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+09/15/2007,Susan Gruender,Citizen Lake Monitoring - Water Quality - Chain Lake (1598000)- Max Depth
+06/23/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+06/23/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/19/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+07/19/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/05/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+08/05/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/12/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+10/12/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/09/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+06/09/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/07/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+07/07/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/10/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+08/10/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/10/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+10/10/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/21/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+06/21/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/09/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+07/09/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/08/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+08/08/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/17/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Sugar Camp Reservoir- P-2113I (Wisconsin Valley Improvement Company / WVIC) 
+10/17/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/18/2020,Ben Niffenegger,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+07/17/2020,Ben Niffenegger- Scott Blado,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022

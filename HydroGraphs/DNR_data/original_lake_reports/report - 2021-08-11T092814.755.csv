@@ -1,0 +1,700 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Lower Buckatabon Lake,Vilas,1621000,NO,64,,643082,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,07/23/1979,,,,,,,,,,,,,
+8190103,06/11/1993,12.75,NO,3.9,,,40,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/26/1993,11,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190103,07/03/1993,12,NO,3.6,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190103,07/10/1993,8,NO,2.4,,,47,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190103,07/19/1993,8,NO,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,07/27/1993,7.5,NO,2.3,,,48,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,08/05/1993,4.5,NO,1.4,,,55,,,,,,GREEN,2-Very minor aesthetic problems
+8190103,08/10/1993,4.5,NO,1.4,,,55,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190103,08/21/1993,6,NO,1.8,,,51,,,,,,GREEN,2-Very minor aesthetic problems
+8190103,08/29/1993,7,NO,2.1,,,49,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190103,09/05/1993,11,NO,3.3,,,43,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190103,09/25/1993,12,NO,3.6,,,41,,,,,CLEAR,,1-Beautiful, could not be nicer
+8190103,05/19/1994,11.25,NO,3.4,,,42,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/01/1994,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/15/1994,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,07/01/1994,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,07/17/1994,8,NO,2.4,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,08/02/1994,7.25,NO,2.2,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,08/15/1994,7,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,08/29/1994,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,09/12/1994,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,05/25/1995,10.5,NO,3.2,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/07/1995,10.25,NO,3.1,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/20/1995,9.5,NO,2.9,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,07/07/1995,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,07/22/1995,7,NO,2.1,,,49,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,08/10/1995,7.5,NO,2.3,,,48,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,09/05/1995,10,NO,3,,,44,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,10/04/1995,9,NO,2.7,,,45,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/02/1996,7.5,NO,2.3,,,48,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,06/28/1996,15,NO,4.6,,,38,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,08/12/1996,8.75,NO,2.7,,,46,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190103,09/10/1996,11,NO,3.3,,,43,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190442,05/28/1997,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/11/1997,11.75,NO,3.6,,,42,,,NORMAL,,,,2-Very minor aesthetic problems
+8190442,06/26/1997,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/09/1997,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/24/1997,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/06/1997,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/21/1997,7.5,NO,2.3,,,48,,,3 INCHES OVER NORMAL.,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/04/1997,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/19/1997,8,NO,2.4,,,47,,,2 INCHES HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,05/20/1998,12,NO,3.6,,,41,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/03/1998,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/17/1998,9.5,NO,2.9,,,45,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/01/1998,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190442,07/16/1998,8.5,NO,2.6,,,46,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/05/1998,8,NO,2.4,,,47,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/19/1998,6.5,NO,2,,,50,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/02/1998,6,NO,1.8,,,51,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/16/1998,6.5,NO,2,,,50,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,10/02/1998,10.25,NO,3.1,,,44,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,05/19/1999,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,06/03/1999,14,NO,4.3,,,39,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,06/17/1999,9,NO,2.7,,,45,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/07/1999,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/22/1999,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/05/1999,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/20/1999,7.25,NO,2.2,,,49,,,HIGH,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8189435,09/02/1999,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,09/16/1999,12.5,NO,3.8,,,41,,,NO CHANGE,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,05/17/2000,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,05/31/2000,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,06/06/2000,14.8,,4.5,1,14,38,49,35,,,,,
+8190442,06/13/2000,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/28/2000,9.5,NO,2.9,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,07/12/2000,8.9,,2.7,4,16,46,50,45,,,,,
+8190442,07/13/2000,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/30/2000,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,08/07/2000,8.2,,2.5,3,17,47,50,43,,,,,
+8190442,08/14/2000,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/30/2000,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,09/15/2000,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,10/09/2000,11.25,NO,3.4,,,42,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+1,10/10/2000,13.1,,4,3,21,40,52,43,,,,,
+8189435,05/18/2001,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000068,06/06/2001,,,,1.9,,,,40,,,,,
+8189435,06/20/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,06/30/2001,10,NO,3,,,44,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000068,07/03/2001,,,,2.9,25,,53,43,,,,,
+8189435,07/16/2001,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/03/2001,7,NO,2.1,,,49,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000068,08/15/2001,,,,6,24,,53,48,,,,,
+8189435,08/17/2001,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,09/03/2001,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,09/18/2001,8.25,NO,2.5,,,47,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+7000068,10/11/2001,,,,10,18,,51,52,,,,,
+8189435,05/30/2002,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000068,06/25/2002,,,,0.53,19,,51,30,,,,,
+8189435,06/28/2002,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/12/2002,6,NO,1.8,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000068,07/23/2002,,,,6.26,26,,53,49,,,,,
+8189435,07/30/2002,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/16/2002,5,NO,1.5,,,54,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+7000068,08/18/2002,,,,13.8,22,,52,55,,,,,
+8189435,09/04/2002,4,NO,1.2,,,57,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189435,09/21/2002,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189435,10/07/2002,8,NO,2.4,,,47,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+7000068,10/16/2002,,,,5.05,21,,52,47,,,,,
+8189435,05/29/2003,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,06/11/2003,8,YES,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/01/2003,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/29/2003,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/14/2003,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,09/15/2003,6.5,NO,2,,,50,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,10/08/2003,12,NO,3.6,,,41,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/10/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/25/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/17/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/23/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/12/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/27/2004,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/09/2004,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,10/06/2004,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190442,06/03/2005,13,NO,4,,,40,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/22/2005,11.5,YES,3.5,,,42,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/14/2005,12,NO,3.6,,,41,,,NORMAL,1.6,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/29/2005,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/13/2005,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/25/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/10/2005,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,09/21/2005,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,06/05/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,06/25/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/06/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/27/2006,6.5,NO,2,,,50,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/11/2006,5,NO,1.5,,,54,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8189435,08/28/2006,6,NO,1.8,,,51,,,NORMAL,,MURKY,BLUE,2-Very minor aesthetic problems
+8189435,06/12/2007,11.5,NO,3.5,,,42,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,06/26/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,07/17/2007,7,NO,2.1,,,49,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,07/31/2007,7.5,NO,2.3,,,48,,,LOW,,CLEAR,BLUE,2-Very minor aesthetic problems
+8190442,08/14/2007,5,NO,1.5,,,54,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190442,08/28/2007,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189435,09/12/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190442,09/24/2007,9,NO,2.7,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190442,07/14/2008,5.5,NO,1.7,,,53,,,HIGH,,MURKY,BLUE,3-Enjoyment somewhat impaired (algae)
+8190442,07/24/2008,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190442,08/07/2008,7,YES,2.1,,,49,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8190442,08/29/2008,6.5,NO,2,,,50,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189435,09/12/2008,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189435,09/25/2008,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189435,06/17/2009,7,NO,2.1,,,45,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189435,08/05/2009,5,NO,1.5,,,53,,,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+43061320,06/21/2010,12.8,NO,3.9,2.25,18,40,51,41,,,,,
+43061320,07/12/2010,10.8,NO,3.3,5.3,17,43,50,47,,,,,
+43061320,08/09/2010,7.5,NO,2.3,14.7,28,48,54,55,,,,,
+43061320,10/13/2010,7.9,NO,2.4,11.6,35,47,56,53,,,,,
+43061320,06/07/2011,13.4,NO,4.1,2.01,22,40,52,40,,,,,
+43061320,07/12/2011,11.8,NO,3.6,3.29,20,42,51,44,,,,,
+43061320,08/09/2011,,NO,,11.5,30,,54,53,,,,,
+43061320,10/18/2011,14.1,NO,4.3,5.33,18,39,51,47,,,,,
+58058836,06/13/2012,11.5,,3.5,3.73,23,42,52,45,,,,,
+58058836,07/02/2012,11.5,NO,3.5,3.05,18,42,51,43,,,,,
+58058836,08/02/2012,8.5,NO,2.6,9.22,25,46,53,52,,,,,
+58058836,10/24/2012,10.5,NO,3.2,9.24,30,43,54,52,,,,,
+128979249,07/24/2016,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,07/28/2016,5.5,NO,1.7,,,53,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,08/31/2016,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,09/08/2016,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,09/23/2016,9.75,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,10/02/2016,11.25,,3.4,,,42,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,11/02/2016,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+128979249,05/25/2017,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128979249,06/02/2017,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,06/21/2017,6,NO,1.8,,,51,,,NORMAL,,CLEAR,RED,3-Enjoyment somewhat impaired (algae)
+128979249,07/09/2017,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,08/12/2017,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,08/31/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,09/25/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,10/06/2017,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128979153,05/13/2018,,,,,23.1,,52,,,,,,
+128979249,05/14/2018,6.5,NO,2,,,50,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+128979249,05/29/2018,8.5,NO,2.6,,,46,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190103,06/24/2018,,,,2.74,25.5,,53,42,,,,,
+128979249,06/24/2018,7.75,NO,2.4,,,48,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8190103,07/25/2018,,,,7.11,18.1,,51,50,,,,,
+128979249,07/25/2018,5.75,NO,1.7,,,52,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,08/29/2018,,,,8.05,22.8,,52,51,,,,,
+128979249,08/30/2018,7,NO,2.1,,,49,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190103,05/04/2019,,,,,30.8,,55,,,,,,
+128979249,05/04/2019,4,NO,1.2,,,57,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,05/30/2019,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190103,06/20/2019,,,,3.24,17,,50,44,,,,,
+128979249,06/20/2019,,,,,,,,,,,,,
+128979249,07/02/2019,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190103,07/24/2019,,,,6.19,20.7,,52,49,,,,,
+128979249,07/24/2019,,,,,,,,,,,,,
+128979249,08/10/2019,6,NO,1.8,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8190103,08/29/2019,,,,8.77,18,,51,51,,,,,
+128979249,08/29/2019,,,,,,,,,,,,,
+128979249,09/02/2019,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128979249,09/28/2019,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+128979249,06/02/2020,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8190103,06/15/2020,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+58058836,06/16/2020,16.7,NO,5.1,1.86,16.6,37,50,39,,,,,
+128979153,06/22/2020,,,,2.82,21.4,,52,43,,,,,
+128979249,07/07/2020,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+241112303,07/08/2020,10.5,N,3.2,2.87,19.5,43,51,43,,,,,
+8190103,07/27/2020,6,NO,1.8,,,51,,,NORMAL,,,GREEN,3-Enjoyment somewhat impaired (algae)
+128979146,07/29/2020,,,,7.97,21.4,,52,50,,,,,
+241112303,08/10/2020,5.9,N ,1.8,10.4,25.1,49,53,53,,,,,
+128979249,08/12/2020,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+128979249,08/17/2020,5,,1.5,,,54,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8190103,08/25/2020,,,,12.5,24.7,,53,54,,,,,
+128979249,09/22/2020,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/23/1979,,,25,C,,
+06/21/2010,1,METERS,22.3,DEGREES C,9.5,MG/L
+06/21/2010,2,METERS,22.2,DEGREES C,9.6,MG/L
+06/21/2010,3,METERS,20,DEGREES C,11.9,MG/L
+06/21/2010,3.7,METERS,18.8,DEGREES C,10.9,MG/L
+06/21/2010,4.2,METERS,18.3,DEGREES C,7.9,MG/L
+06/21/2010,4.6,METERS,18.1,DEGREES C,.3,MG/L
+06/21/2010,,,22.2,C,9.6,MG/L
+07/12/2010,1,METERS,24.5,DEGREES C,9.3,MG/L
+07/12/2010,2,METERS,23.8,DEGREES C,9.6,MG/L
+07/12/2010,3,METERS,23.4,DEGREES C,8.2,MG/L
+07/12/2010,3.8,METERS,21.2,DEGREES C,.2,MG/L
+07/12/2010,4.3,METERS,19.5,DEGREES C,.1,MG/L
+07/12/2010,4.7,METERS,18.8,DEGREES C,.2,MG/L
+07/12/2010,,,23.8,C,9.6,MG/L
+08/09/2010,1,METERS,23.5,DEGREES C,8.6,MG/L
+08/09/2010,2,METERS,23.3,DEGREES C,7.3,MG/L
+08/09/2010,3,METERS,22.7,DEGREES C,4.1,MG/L
+08/09/2010,4.1,METERS,21.2,DEGREES C,.2,MG/L
+08/09/2010,4.6,METERS,19.6,DEGREES C,.2,MG/L
+08/09/2010,5,METERS,19.2,DEGREES C,.3,MG/L
+08/09/2010,,,23.3,C,7.4,MG/L
+10/13/2010,1,METERS,13.8,DEGREES C,9.9,MG/L
+10/13/2010,2,METERS,13.7,DEGREES C,9.8,MG/L
+10/13/2010,3,METERS,13.7,DEGREES C,9.5,MG/L
+10/13/2010,3.7,METERS,12.8,DEGREES C,4.5,MG/L
+10/13/2010,4.2,METERS,12.7,DEGREES C,3.6,MG/L
+10/13/2010,4.6,METERS,12.8,DEGREES C,.6,MG/L
+10/13/2010,,,13.7,C,9.8,MG/L
+06/07/2011,1,METERS,23.4,DEGREES C,9.1,MG/L
+06/07/2011,2,METERS,23.2,DEGREES C,9.1,MG/L
+06/07/2011,3,METERS,22,DEGREES C,9.1,MG/L
+06/07/2011,3.8,METERS,19.1,DEGREES C,7.6,MG/L
+06/07/2011,4.3,METERS,18.6,DEGREES C,6.2,MG/L
+06/07/2011,4.7,METERS,18.7,DEGREES C,5.3,MG/L
+06/07/2011,,,23.2,C,9.1,MG/L
+07/12/2011,1,METERS,25.1,DEGREES C,8.7,MG/L
+07/12/2011,2,METERS,25,DEGREES C,8.7,MG/L
+07/12/2011,3,METERS,24.8,DEGREES C,8.4,MG/L
+07/12/2011,3.9,METERS,21.6,DEGREES C,2.5,MG/L
+07/12/2011,4.4,METERS,20.4,DEGREES C,.8,MG/L
+07/12/2011,4.8,METERS,19.8,DEGREES C,.6,MG/L
+07/12/2011,,,25.1,C,8.7,MG/L
+08/09/2011,1,METERS,24,DEGREES C,8.1,MG/L
+08/09/2011,2,METERS,23.9,DEGREES C,8,MG/L
+08/09/2011,3,METERS,23.9,DEGREES C,7.5,MG/L
+08/09/2011,4.1,METERS,23.9,DEGREES C,.5,MG/L
+08/09/2011,4.6,METERS,22.9,DEGREES C,.6,MG/L
+08/09/2011,5,METERS,23.2,DEGREES C,.7,MG/L
+08/09/2011,,,24.0,C,8.1,MG/L
+10/18/2011,1,METERS,9,DEGREES C,10,MG/L
+10/18/2011,2,METERS,9,DEGREES C,10,MG/L
+10/18/2011,3,METERS,9,DEGREES C,9.9,MG/L
+10/18/2011,4,METERS,9,DEGREES C,9.6,MG/L
+10/18/2011,4.5,METERS,9,DEGREES C,2.4,MG/L
+10/18/2011,4.9,METERS,9.1,DEGREES C,2.9,MG/L
+10/18/2011,,,9.0,C,10.0,MG/L
+06/13/2012,,,21.1,C,8.3,MG/L
+07/02/2012,,,26.4,C,9.0,MG/L
+08/02/2012,,,25.1,C,8.6,MG/L
+10/24/2012,,,9.6,C,11.2,MG/L
+06/24/2018,3,FEET,76.4,DEGREES F,,
+06/24/2018,6,FEET,76.2,DEGREES F,,
+06/24/2018,9,FEET,75.5,DEGREES F,,
+06/24/2018,12,FEET,72.6,DEGREES F,,
+06/24/2018,15,FEET,71.6,DEGREES F,,
+06/24/2018,16,FEET,69.2,DEGREES F,,
+07/25/2018,3,FEET,73.3,DEGREES F,9.01,MG/L
+07/25/2018,6,FEET,73.7,DEGREES F,8.92,MG/L
+07/25/2018,9,FEET,73.7,DEGREES F,8.75,MG/L
+07/25/2018,12,FEET,71.8,DEGREES F,6.14,MG/L
+07/25/2018,14,FEET,71.4,DEGREES F,5.02,MG/L
+08/29/2018,3,FEET,69,DEGREES F,,
+08/29/2018,6,FEET,69.6,DEGREES F,,
+08/29/2018,9,FEET,69.6,DEGREES F,,
+08/29/2018,12,FEET,69.6,DEGREES F,,
+08/29/2018,14,FEET,69.6,DEGREES F,,
+05/04/2019,3,FEET,46.2,DEGREES F,,
+05/04/2019,6,FEET,45.6,DEGREES F,,
+05/04/2019,9,FEET,44,DEGREES F,,
+05/04/2019,12,FEET,42.4,DEGREES F,,
+06/20/2019,3,FEET,68,DEGREES F,,
+06/20/2019,6,FEET,68,DEGREES F,,
+06/20/2019,9,FEET,68,DEGREES F,,
+06/20/2019,12,FEET,66.5,DEGREES F,,
+07/24/2019,3,FEET,75.2,DEGREES F,,
+07/24/2019,6,FEET,74.4,DEGREES F,,
+07/24/2019,9,FEET,73.9,DEGREES F,,
+07/24/2019,12,FEET,73.7,DEGREES F,,
+07/24/2019,15,FEET,72.6,DEGREES F,,
+08/29/2019,3,FEET,63.5,DEGREES F,,
+08/29/2019,6,FEET,63.8,DEGREES F,,
+08/29/2019,9,FEET,63.8,DEGREES F,,
+08/29/2019,12,FEET,63.8,DEGREES F,,
+06/15/2020,3,FEET,72.5,DEGREES F,,
+06/15/2020,6,FEET,72.1,DEGREES F,,
+06/15/2020,9,FEET,72.4,DEGREES F,,
+06/15/2020,12,FEET,68.4,DEGREES F,,
+06/15/2020,15,FEET,66.9,DEGREES F,,
+06/16/2020,,,18.8,C,9.2,MG/L
+07/08/2020,,,27.7,C,8.4,MG/L
+07/27/2020,3,FEET,75.2,DEGREES F,,
+07/27/2020,6,FEET,75,DEGREES F,,
+07/27/2020,9,FEET,74.4,DEGREES F,,
+07/27/2020,12,FEET,73.2,DEGREES F,,
+07/27/2020,15,FEET,71.6,DEGREES F,,
+08/10/2020,,,23.8,C,11.2,MG/L
+
+
+
+Start Date,Fieldwork Comment
+07/23/1979,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/11/1993,Partly cloudy- E wind- air temp 75- saw 1 loon    
+06/26/1993,Partly cloudy- breezy- some bloom in water- 2 adult loons    
+07/03/1993,Bright sun- calm- some bloom on surface    
+07/10/1993,Bright sun- light breeze- some bloom in water    
+07/19/1993,Partly cloudy- southeast wind- some bloom on water.    
+07/27/1993,Sunny- light breeze    
+08/05/1993,Partly cloudy- south wind- water looks a little like pea soup.    
+08/10/1993,Sunny- calm- water is very green.    
+08/21/1993,Sunny- breezy.  Water color has improved somewhat since last test.    
+09/05/1993,No readings taken since 8/29 due to overcast- rain and white caps.    
+09/25/1993,Final report for the year.    
+05/19/1994,Ice went off 4-18- sunny- calm water- saw 1 loon.    
+06/01/1994,Sunny- moderate NE wind- saw 1 loon.    
+06/15/1994,Saw 2 bald eagles (adult) .  Sunny/high clouds/calm wind.    
+07/01/1994,Sunny - moderate wind.    
+07/17/1994,Sunny- calm.    
+08/02/1994,Hazy- sunny- saw adult loon.    
+08/15/1994,Sunny- calm.    
+08/29/1994,Sunny- calm - lots of (35) sea gulls on lake.    
+09/12/1994,Sunny- calm.    
+06/20/1995,Sunny- calm.    
+07/07/1995,Partly cloudy- moderate north wind.    
+08/10/1995,Water slightly green.    
+09/05/1995,Water has a green tint.    
+10/04/1995,Last reading for the season.    
+06/02/1996,Saw 1 loon.    
+08/12/1996,Saw one adult eagle and one loon.    
+05/28/1997,Ice off 4-29-97.    
+06/11/1997,Overcast.  Calm- 1 loon.    
+06/26/1997,1 loon.  Severe storm night of 6-24-97.  Scattered clouds.  Choppy.    
+07/09/1997,Clear- calm.  1 loon.  Fair amount of boat traffic.    
+07/24/1997,Cloudy- slight breeze.    
+08/06/1997,Cloudy- slight breeze.  1 loon.    
+08/21/1997,Cloudy- slight breeze.  Heavy rains 8-20--19-18-17-16.    
+09/04/1997,Clear and calm.    
+09/19/1997,Water cool.  Cloudy.  Slight breeze- rain past 2 days.  Last report for this year.    
+05/20/1998,Sunny and breezy.  Very choppy. water temp. 70 degrees.    
+06/03/1998,Partly sunny breezy.  Very choppy.  Much rain and wind past week.    
+06/17/1998,Partly cloudy and calm.  Water temp. 72 degrees.    
+07/01/1998,Sunny light breeze.  Water temp. 74 degrees.    
+07/16/1998,Scattered clouds breeze.  Slight chop.    
+08/05/1998,Cloudy slight breeze.    
+08/19/1998,Sunny heavy chop.  3 adult loons.    
+09/02/1998,Cloudy and cool. slight breeze.    
+09/16/1998,Sunny slight breeze.  Loon.    
+10/02/1998,Sunny slight breeze.    
+05/19/1999,Ice off 4/14/99- 1 loon- calm- pt. cloudy- water temp. 64 F.    
+06/03/1999,Sunny- calm- water temp 64 F.    
+06/17/1999,Pt. cloudy- light breeze.    
+07/07/1999,Moderate wind- waves- clear- much rain past 2 weeks.    
+07/22/1999,Pt. cloudy- slight breeze- water temp 78 F.    
+08/05/1999,1 loon- cloudy- breezy- moderate chop- heavy rains past 2 weeks.    
+08/20/1999,Much rain past 2 weeks- partly sunny- lake appears in bloom or turnover.  Slight breeze.    
+09/02/1999,1 loon. Hazy. Slight breeze.    
+09/16/1999,1 loon. Partly cloudy. Calm.    
+05/17/2000,One loon- cloudy- slight breeze    
+06/28/2000,One osprey aloft- scattered clouds- slight chop    
+07/12/2000,INTEGRATED    
+07/13/2000,One loon- scattered clouds- slight chop.    
+08/30/2000,1 eagle in flight.    
+05/18/2001,Ice off on 4/21/01.  Partly sunny and slight breeze.    
+06/06/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED SAMPLE    
+06/20/2001,Partly cloudy- slight breeze- and much rain past three weeks.    
+06/30/2001,Partly cloudy- slight breeze- rain last evening 0.25"- and the water temperature is 78 degrees.    
+07/03/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/16/2001,Mostly cloudy- slight breeze and one loon.    
+08/03/2001,Much rain on 8/01/01.    
+08/15/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/17/2001,Scattered clouds- slight breeze- and 0.25" of rain the evening of 8/16.    
+09/03/2001,One young eagle in flight.  Moderate winds- heavy chop- and sunny.    
+09/18/2001,Cloudy and one loon.    
+10/11/2001,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+06/25/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+07/23/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/18/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+10/16/2002,AT POINT OF MAXIMUM DEPTH- INTEGRATED 0-2M    
+08/14/2003,2 adult loons.    
+06/25/2004,2 loons- cloudy- heavy chop on water    
+07/17/2004,2 adult loons with 1 baby.  One eagle nest.    
+07/23/2004,2 adult loons with one baby.  Partly sunny.  Heavy chop on the water.    
+08/12/2004,2 adult loons- 1 young.  Partly cloudy- heavy chop on the water.    
+08/27/2004,Partly cloudy- chop on the water.    
+09/09/2004,1 adult eagle in flight.    
+06/03/2005,1 eagle in flight.  Nest appeared empty.    
+06/22/2005,1 eagle in flight.  1 eagle in nest.    
+07/14/2005,1 eaglet in nest.  1 adult by nest.  One adult sitting in tree on small island near nest.    
+08/25/2005,1 adult eagle in tree near nest.    
+06/05/2006,one eagle in nest- one eaglet in nest- one eagle in tree by small island- 2 loons feeding
+06/25/2006,one eagle near nest- one eaglet in nest
+07/27/2006,one PR loon with one chick 
+08/11/2006,one adult eagle sitting in tree on small island
+08/28/2006,one adult eagle sitting in tree on large island 
+06/12/2007,1 eagle sitting on fallen tree on small island.
+06/26/2007,2 eaglets in nest.  2 adult loons with chick near island.
+07/17/2007,2 adult loons- 1 chick.  2 eaglets in nest.
+07/31/2007,Chop on water.
+08/14/2007,2 eaglets in nest.  Cloudy- chop on water.  1 adult eagle sitting on log by island.
+08/28/2007,2 eaglets near nest- cloudy.
+09/12/2007,Cloudy
+09/24/2007,1 loon.  Cloudy- choppy.
+06/17/2009,1 loon- 1 eagle in flight
+06/17/2009,1 pair of loons with check. 1 eagle in flight.
+08/05/2009,1 adult loon. 2 eagles sitting in tree.
+08/05/2009,1 eagle in flight. 1 loon with chick.
+07/24/2016,Partly cloudy with winds 6-10 MPH.  Temp approximately 80 degrees.  Assisted by Barbara Stampf.  
+07/28/2016,mostly sunny with a few clouds   wind 10-15mph
+08/31/2016,cloudy with sunny breaks   data taken with Cathy Ekberg and Carol Zagorski cloudy with sunny breaks   data taken with Cathy Ekberg and Carol Zagorski
+09/08/2016,sunny with minimal clouds wind 8-10 mph sunny with minimal clouds wind 8-10 mph
+09/23/2016,Assisted by  
+ Lee Ekberg-  Sunny with few clouds;  wind 5-7 MPH
+10/02/2016,Surface Temperature - 58.7 degrees F.  Sunny no clouds wind 8-10 MPH small waves  3-4"
+11/02/2016,Mostly Sunny- Calm- Thin Clouds- wind 2-5 mph with a light ripple on the surface and a surface water temperature of 45.1 degrees F.  This will be my last reading for 2016; time to close up the cabin for winter.  I will be back in April.
+05/25/2017,Surface Temp 59.1 degrees F    Broken Clouds Patches of Sun     Light Breeze
+06/02/2017,Surface Temp 60.6 degrees F    Thin wispy clouds and a light breeze  with a slight ripple to the surface
+06/21/2017,Assisted by Riley and Emily Clarke
+Surface Temp 68 degrees F     Partly Cloudy with a light breeze
+07/09/2017,Surface Temp 70.1F Clouds with sunny breaks. light breeze   water calm
+08/12/2017,Surface Temp 66.9F   Very clear with a few high wispy clouds.  Light breeze with some surface rippling
+ 
+
+08/31/2017,Surface temp 65.3F-  Very Clear- Few Clouds- Light Breeze with a Slight Surface Ripple-  Wind approximately
+ 7mph 
+09/25/2017,Surface Temperature 68.7F Very Clear- Calm- Wind 3mph- Sunny- Fine Particles in the Water
+10/06/2017,Surface Temp 58.6F  Very Clear- Calm- No Wind- No Clouds- Sunny
+05/14/2018,Wind 8-10 mph Surface Temp- 59.8 F      W/ Ken Whyte- Gary Croisatiere- Dan Benson
+05/29/2018,Wind 8-10 MPH   Surface Temp 74.6F  Scattered thin clouds
+06/24/2018,Bright day with high thin clouds -- Surface temp. 75.2 degrees.    Observations taken with Linden Taylor- 
+Gary Croisatiere and Dan Benson
+07/25/2018,taken with Gary Croisatiere and Dan Benson
+08/30/2018,light wind 2-5 MPH   mostly Sunny with a few scattered clouds  a light ripple   surface Temp 67.5F 
+05/30/2019,Hazy- Partly Sunny with a light chop- wind N at appr. 8MPH observations taken with Cathy Ekberg Hazy Partly Sunny with Wind N at 8 MPH and a Light Chop-  taken with Cathy Ekberg
+07/02/2019,Sunny with wind SSE approx. 5MPH with a slight ripple- surface temp 74.6 with a slight surface ripple. Accompanied by Cathy Ekberg.
+08/10/2019,Sunny with scattered clouds- wind 8-10 MPH- Surface temp. 72.6.  Accompanied by Stephanie Atwood 
+
+
+
+
+Start Date,Group Name,Project Name
+07/23/1979,Data Collectors,Migrated from STORET Legacy
+06/11/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/26/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/03/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/10/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/19/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/27/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/05/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/10/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/21/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/29/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/05/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/25/1993,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/19/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/01/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/15/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/01/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/17/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/02/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/15/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/29/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/12/1994,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/25/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/07/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/20/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/07/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/22/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/10/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/05/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/04/1995,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/02/1996,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/28/1996,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/12/1996,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/10/1996,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/28/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/11/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/26/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/09/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/24/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/06/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/21/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/04/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/19/1997,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/20/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/03/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/17/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/01/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/16/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/05/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/19/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/02/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/16/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/02/1998,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/19/1999,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/03/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/17/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/07/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/22/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/05/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/20/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/02/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/16/1999,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/17/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/31/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/06/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+06/06/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+06/13/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/28/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/12/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+07/12/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/13/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/30/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/07/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+08/07/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/14/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/30/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/15/2000,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/09/2000,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/10/2000,Data Collectors,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+10/10/2000,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+05/18/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/06/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+06/06/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/20/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/30/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/03/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+07/03/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+07/16/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/03/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/15/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+08/15/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+08/17/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/03/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/18/2001,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/11/2001,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+10/11/2001,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+05/30/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/25/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+06/25/2002,JENNIFER WUDI,Lake Baseline Monitoring- DNR (1970s-2006)
+06/28/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/12/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/23/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+07/30/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/16/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/18/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+09/04/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/21/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/07/2002,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/16/2002,JENNIFER WUDI,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+05/29/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/11/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/01/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/29/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/14/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/15/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/08/2003,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/10/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/25/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/17/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/23/2004,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/12/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/27/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/09/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/06/2004,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/03/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/22/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/14/2005,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/29/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/13/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/25/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/10/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/21/2005,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/05/2006,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/25/2006,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/06/2006,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/27/2006,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/11/2006,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/28/2006,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/12/2007,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/26/2007,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/17/2007,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/31/2007,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/14/2007,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/28/2007,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/12/2007,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/24/2007,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/14/2008,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/24/2008,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/07/2008,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/29/2008,Robert Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/12/2008,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/25/2008,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/17/2009,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/05/2009,Robert And Eleanor Mitchell,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/21/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+06/21/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/12/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+07/12/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/09/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+08/09/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/13/2010,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+10/13/2010,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/07/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+06/07/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/12/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+07/12/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/09/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+08/09/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/18/2011,Cathy Wendt,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+10/18/2011,Cathy Wendt,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+06/13/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+06/13/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/02/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+07/02/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+08/02/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+08/02/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+10/24/2012,Ben Niffenegger,FERC WQ Monitoring - Wisconsin River Buckatahpon Reservoir P-2113C (Wisconsin Valley Improvement Company / WVIC) 
+10/24/2012,Ben Niffenegger,WVIC - WI Valley Improvement Corp. Monitoring - NOR_21_10 
+07/24/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/28/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/31/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/08/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/23/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/02/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+11/02/2016,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/25/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/02/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/21/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/09/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/12/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/31/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/25/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+10/06/2017,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/13/2018,Ken Whyte,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/14/2018,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/29/2018,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/24/2018,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/24/2018,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/24/2018,Gary Croisatiere,Citizen Lake Monitoring Network QA/QC - 2018
+07/25/2018,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/25/2018,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/29/2018,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/30/2018,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/04/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/04/2019,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+05/30/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/20/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/20/2019,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/02/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/24/2019,Art Ekberg,BUCKATABON LAKE ASSOCIATION: AIS Prevention + Planning Project for Buckatabon Lakes
+07/24/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/24/2019,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/10/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/29/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/29/2019,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/02/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/28/2019,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/02/2020,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/15/2020,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+06/16/2020,Ben Niffenegger,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+06/22/2020,Ken Whyte,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/07/2020,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/08/2020,Ben Niffenegger- Scott Blado,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+07/27/2020,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+07/29/2020,Dan Benson,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/10/2020,Ben Niffenegger- Scott Blado,North Proposed 06 CMP20 - WVIC FERC TSI Monitoring 2020-2022
+08/12/2020,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/17/2020,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+08/25/2020,Gary Croisatiere,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole
+09/22/2020,Art Ekberg,Citizen Lake Monitoring - Water Quality - Lower Buckatabon Lake; Deep Hole

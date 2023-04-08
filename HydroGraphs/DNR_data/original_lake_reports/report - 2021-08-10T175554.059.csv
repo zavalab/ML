@@ -1,0 +1,536 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Harpt Lake,Manitowoc,84600,NE,36,,363068,SE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,03/09/1977,,,,,80,,62,,,,,,
+1,06/06/1977,5.9,,1.8,,,52,,,,,,,
+1,08/29/1977,8.2,,2.5,,,47,,,,,,,
+1,11/01/1977,9.2,,2.8,,,45,,,,,,,
+1,02/17/1994,,,,,134,,66,,,,,,
+1,06/27/1994,17.5,,5.33,4.71,32,36,55,47,,,,,
+1,07/18/1994,9,,2.74,6.1,31,45,55,48,,,,,
+1,08/15/1994,8,,2.44,11.1,24,47,53,53,,,,,
+8188913,05/03/2003,9,NO,2.7,,,45,,,HIGH,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,05/10/2003,8.5,NO,2.6,,,46,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188913,05/17/2003,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8188913,05/23/2003,10,NO,3,,,44,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,06/12/2003,5,NO,1.5,,,54,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,06/21/2003,4,NO,1.2,,,57,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,06/26/2003,5,NO,1.5,,,54,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,07/17/2003,11,NO,3.3,,,43,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,07/23/2003,14,NO,4.3,,,39,,,LOW,,CLEAR,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,07/31/2003,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,08/09/2003,10,NO,3,,,44,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,08/22/2003,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+7000093,08/26/2003,7.2,NO,2.2,9.85,26,47,53,52,,,,,
+8188913,08/30/2003,6,NO,1.8,,,51,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,05/15/2004,2,NO,0.6,,,67,,,HIGH,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,05/29/2004,9,NO,2.7,,,45,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,06/03/2004,8,NO,2.4,,,47,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,06/09/2004,6,NO,1.8,,,51,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,06/12/2004,6,NO,1.8,,,51,,,HIGH,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,07/01/2004,6,NO,1.8,,,51,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,07/19/2004,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,07/28/2004,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,08/20/2004,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,08/26/2004,8,NO,2.4,,,47,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,09/04/2004,6,NO,1.8,,,51,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,09/20/2004,7,NO,2.1,,,49,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,09/28/2004,9,NO,2.7,,,45,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,10/05/2004,7,NO,2.1,,,49,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,10/10/2004,9,NO,2.7,,,45,,,LOW,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8188913,06/01/2005,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,06/03/2005,8,NO,2.4,,,47,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,06/11/2005,11,NO,3.3,,,43,,,NORMAL,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,06/23/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,06/27/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,07/14/2005,11,NO,3.3,,,43,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,07/23/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,08/02/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,08/14/2005,9,NO,2.7,,,45,,,LOW,,MURKY,YELLOW,5-Enjoyment substantially impaired (algae)
+8188913,08/30/2005,10,NO,3,,,44,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,09/15/2005,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,4-Would not swim but boating OK (algae)
+8188913,09/27/2005,10,NO,3,,,44,,,LOW,,MURKY,YELLOW,4-Would not swim but boating OK (algae)
+8188913,05/26/2006,1,NO,0.3,,,77,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8188913,06/03/2006,6,NO,1.8,,,51,,,HIGH,,MURKY,GREEN,5-Enjoyment substantially impaired (algae)
+8188913,06/19/2006,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188913,06/27/2006,3,NO,0.9,,,61,,,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188913,07/13/2006,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188913,07/20/2006,4,NO,1.2,,,57,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188913,07/28/2006,8,NO,2.4,,,47,,,LOW,,CLEAR,BROWN,4-Would not swim but boating OK (algae)
+8188913,08/04/2006,9,NO,2.7,,,45,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188913,08/24/2006,5,NO,1.5,,,54,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188913,09/14/2006,7,NO,2.1,,,49,,,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+16073539,04/16/2009,4.1,NO,1.2,25.8,166,57,68,59,,,,,
+32257511,05/06/2009,13.1,NO,4,,54,40,59,,,,,,
+32257511,05/25/2009,7.5,NO,2.3,,71,48,61,,,,,,
+21928796,06/03/2009,5,NO,1.5,,43,54,57,,,,,,
+21928796,06/11/2009,3.5,NO,1.1,11.5,52,59,59,53,,,,,
+32257511,06/14/2009,5.6,NO,1.7,,48,52,58,,,,,,
+32257511,06/28/2009,7.2,NO,2.2,,29,49,54,,,,,,
+21928796,07/08/2009,9.4,NO,2.9,3.13,28,45,54,43,,,,,
+32257511,07/12/2009,13.8,NO,4.2,,26,39,53,,,,,,
+32257511,07/26/2009,11.2,NO,3.4,,27,42,54,,,,,,
+32257511,08/17/2009,13,NO,4,,19,40,51,,,,,,
+32257511,09/07/2009,11,NO,3.3,,13,43,48,,,,,,
+21928796,09/17/2009,12.6,NO,3.8,2.55,23,41,52,42,,,,,
+32257511,09/20/2009,13,NO,4,,17,40,50,,,,,,
+32257511,09/27/2009,11.2,NO,3.4,,22,42,52,,,,,,
+32257511,10/11/2009,9,NO,2.7,,37,45,56,,,,,,
+1,10/18/2009,7.2,NO,2.2,,52,23,59,,,,,,
+32257511,11/01/2009,12.8,NO,3.9,,94,40,63,,,,,,
+16073539,12/01/2009,9.9,NO,3,7.2,142,44,67,50,,,,,
+34972204,03/02/2010,9.9,NO,3,,131,44,66,,,,,,
+34972204,03/29/2010,6,NO,1.8,,140,51,66,,,,,,
+30603722,05/08/2011,5,NO,1.5,,,54,,,NORMAL,,,,
+30603722,05/27/2011,8,NO,2.4,,,47,,,NORMAL,,,,
+30603722,05/29/2011,5,NO,1.5,,,54,,,NORMAL,,,,
+30603722,06/03/2011,3,NO,0.9,,,61,,,,,,,
+30603722,06/10/2011,3,NO,0.9,,,61,,,NORMAL,,,,
+30603722,06/17/2011,3,NO,0.9,,,61,,,,,,,
+30603722,06/23/2011,10,NO,3,,,44,,,,,,,
+30603722,06/24/2011,10,NO,3,,,44,,,,,,,
+30603722,07/01/2011,14,NO,4.3,,,39,,,,,,,
+30603722,07/08/2011,14,NO,4.3,,,39,,,,,,,
+30603722,07/14/2011,10,NO,3,,,44,,,,,,,
+30603722,07/15/2011,11,NO,3.3,,,43,,,,,,,
+30603722,07/27/2011,10,NO,3,,,44,,,,,,,
+30603722,08/04/2011,10,NO,3,,,44,,,,,,,
+30603722,08/11/2011,5.5,NO,1.7,,,53,,,,,,,
+30603722,08/19/2011,6,NO,1.8,,,51,,,,,,,
+30603722,08/25/2011,7,NO,2.1,,,49,,,,,,,
+30603722,09/02/2011,9,NO,2.7,,,45,,,,,,,
+30603722,09/08/2011,8,NO,2.4,,,47,,,,,,,
+30603722,09/16/2011,6,NO,1.8,,,51,,,,,,,
+34982050,05/08/2012,5,NO,1.5,,,54,,,,,,,
+34982050,05/27/2012,8,,2.4,,,47,,,,,,,
+34982050,05/29/2012,3,,0.9,,,61,,,,,,,
+34982050,06/03/2012,3,,0.9,,,61,,,,,,,
+34982050,06/10/2012,3,,0.9,,,61,,,,,,,
+34982050,06/17/2012,3,,0.9,,,61,,,,,,,
+34982050,06/23/2012,10,NO,3,,,44,,,,,,BROWN,
+34982050,07/01/2012,14,NO,4.3,,,39,,,,,,,
+34982050,07/08/2012,10,NO,3,,,44,,,,,MURKY,GREEN,
+34982050,07/14/2012,10,NO,3,,,44,,,,,MURKY,GREEN,
+34982050,07/15/2012,11,NO,3.3,,,43,,,,,MURKY,GREEN,
+1,07/24/2012,,,,7.34,28,,54,50,,,,,
+34982050,07/27/2012,10,NO,3,,,44,,,,,,GREEN,
+34982050,08/04/2012,10.5,NO,3.2,,,43,,,,,,,
+34982050,08/11/2012,5.5,,1.7,,,53,,,,,,,
+1,08/19/2012,,,,16.2,29,,54,56,,,,,
+34982050,08/19/2012,6,NO,1.8,,,51,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+34982050,08/25/2012,7,NO,2.1,,,49,,,,,,,
+34982050,09/02/2012,9,NO,2.7,,,45,,,,,,,
+62595126,09/05/2012,6.9,NO,2.1,15.9,25,49,53,56,,,,,
+34982050,09/08/2012,8,NO,2.4,,,47,,,,,,GREEN,
+1,09/15/2012,,,,13.5,25,,53,54,,,,,
+34982050,09/16/2012,6,,1.8,,,51,,,,,MURKY,GREEN,
+32257511,04/29/2013,,,,,181,,68,,,,,,
+30603722,06/15/2013,11,NO,3.3,,,43,,,,,,,
+30603722,06/22/2013,5,NO,1.5,,,54,,,,,,,
+30603722,06/30/2013,2,NO,0.6,,,67,,,,,,,
+30603722,07/06/2013,1,NO,0.3,,,77,,,,,,,
+30603722,07/07/2013,,,,188,85.5,,63,74,,,,,
+30603722,08/10/2013,7,NO,2.1,,,49,,,,,,,
+30603722,08/11/2013,11,NO,3.3,22.4,52.2,43,59,58,,,,,
+30603722,08/17/2013,8,NO,2.4,,,47,,,,,,,
+30603722,09/08/2013,,,,5.04,30.7,,55,47,,,,,
+30603722,04/28/2014,5,NO,1.5,,,54,,,NORMAL,,,,
+30603726,04/28/2014,5, ,1.5,,167,54,68,,,,,,
+30603722,05/26/2014,10,NO,3,,,44,,,,,,,
+34982050,05/26/2014,10, ,3,,,44,,,,,,,
+30603722,06/15/2014,,,,68.5,78.3,,62,67,,,,,
+34982050,06/15/2014,3, ,0.9,,,61,,,,,,,
+30603722,07/06/2014,,,,93.9,95.8,,63,69,,,,,
+34982050,07/06/2014,6, ,1.8,,,51,,,,,,,
+30603722,08/10/2014,10,NO,3,,,44,,,,,,,
+30603726,08/10/2014,,,,4.58,28.6,,54,46,,,,,
+34982050,08/10/2014,10, ,3,,,44,,,,,,,
+34982050,09/05/2014,9, ,2.7,,,45,,,,,,,
+30603722,04/07/2015,5,NO,1.5,,,54,,,,,,,
+32257511,04/07/2015,,,,,131,,66,,,,,,
+32257511,07/12/2015,,,,3.48,38.4,,56,44,,,,,
+30603722,07/15/2015,12,NO,3.6,,,41,,,,,,,
+30603722,08/30/2015,8,NO,2.4,,,47,,,,,,,
+32257511,08/30/2015,,,,11.4,31.4,,55,53,,,,,
+30603722,09/27/2015,15,NO,4.6,,,38,,,,,,,
+32257511,09/27/2015,,,,2.61,22.5,,52,42,,,,,
+32257511,03/23/2016,,,,,107,,64,,,,,,
+30603722,06/12/2016,1,NO,0.3,,,77,,,HIGH,,,,
+32257511,06/12/2016,,,,81.7,67.3,,61,68,,,,,
+32257511,07/16/2016,,,,5.01,34.1,,55,47,,,,,
+30603722,07/23/2016,12,NO,3.6,,,41,,,,,,,
+30603722,08/21/2016,9,NO,2.7,,,45,,,,,,,
+32257511,08/21/2016,,,,9.48,28.9,,54,52,,,,,
+30603722,09/16/2016,12,NO,3.6,,,41,,,,,,,
+30603722,04/02/2017,5,NO,1.5,,,54,,,,,,,
+32257511,04/02/2017,,,,,106,,64,,,,,,
+30603722,06/17/2017,10,NO,3,,,44,,,,,,,
+32257511,06/17/2017,,,,6.78,29.5,,54,49,,,,,
+30603722,07/16/2017,4,NO,1.2,,,57,,,,,,,
+32257511,07/16/2017,,,,16.8,39.3,,57,56,,,,,
+30603722,08/27/2017,9,NO,2.7,,,45,,,,,,,
+32257511,08/27/2017,,,,5.98,18.1,,51,48,,,,,
+30603722,04/29/2018,7,NO,2.1,,52.7,49,59,,,,,,
+30603722,06/16/2018,8,NO,2.4,19.2,57.3,47,59,57,,,,,
+30603722,07/22/2018,7,NO,2.1,6.95,40.3,49,57,49,,,,,
+30603722,08/19/2018,9,NO,2.7,8.23,35.3,45,56,51,,,,,
+30603722,04/21/2019,10,NO,3,,196,44,69,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+30603722,06/22/2019,2,NO,0.6,36.8,49.2,67,58,62,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+30603722,07/17/2019,8,NO,2.4,2.58,26.7,47,54,42,NORMAL,,CLEAR,BLUE,5-Enjoyment substantially impaired (algae)
+30603722,08/28/2019,10,NO,3,15.5,20.9,44,52,56,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+30603722,06/29/2020,3,NO,0.9,30,59.2,61,60,61,NORMAL,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+30603722,07/26/2020,7,NO,2.1,8.83,41.4,49,57,51,NORMAL,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+30603722,09/12/2020,5,NO,1.5,14,39.3,54,57,55,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+03/09/1977,,,3.5,C,8.3,MG/L
+06/06/1977,,,10.5,C,.7,MG/L
+08/29/1977,,,18.8,C,4.9,MG/L
+11/01/1977,,,11,C,8.3,MG/L
+02/17/1994,,,0.7,C,11.3,MG/L
+06/27/1994,,,23.1,C,0.08,MG/L
+07/18/1994,,,25.1,C,0.21,MG/L
+08/15/1994,,,22.0,C,0.0,MG/L
+08/26/2003,0,METERS,25.9,DEGREES C,,
+08/26/2003,1,METERS,25.6,DEGREES C,,
+08/26/2003,2,METERS,25.6,DEGREES C,,
+08/26/2003,3,METERS,24.3,DEGREES C,,
+08/26/2003,4,METERS,20.1,DEGREES C,,
+08/26/2003,5,METERS,13.5,DEGREES C,,
+08/26/2003,6,METERS,11.2,DEGREES C,,
+08/26/2003,7,FEET,,,9.3,MG/L
+08/26/2003,7,METERS,9.4,DEGREES C,,
+08/26/2003,8,METERS,8.4,DEGREES C,,
+08/26/2003,9,METERS,7.7,DEGREES C,,
+08/26/2003,10,METERS,7.4,DEGREES C,,
+08/26/2003,11,METERS,7.2,DEGREES C,,
+08/26/2003,12,METERS,7.2,DEGREES C,,
+08/26/2003,13,METERS,7.2,DEGREES C,,
+08/26/2003,14,METERS,7.1,DEGREES C,,
+08/26/2003,,,25.9,C,9.3,MG/L
+04/16/2009,,,3.8,C,0.2,MG/L
+05/06/2009,,,15.2,C,0.1,MG/L
+05/25/2009,,,18.7,C,0.1,MG/L
+06/03/2009,,,19.1,C,0.2,MG/L
+06/11/2009,,,19.4,C,0.2,MG/L
+06/14/2009,,,18.7,C,0.1,MG/L
+06/28/2009,,,25.3,C,0.0,MG/L
+07/08/2009,,,22.7,C,0.2,MG/L
+07/12/2009,,,22.6,C,0.1,MG/L
+07/26/2009,,,22.7,C,0.1,MG/L
+08/17/2009,,,24.9,C,0.1,MG/L
+09/07/2009,,,22.2,C,0.1,MG/L
+09/17/2009,,,22.1,C,0.2,MG/L
+09/20/2009,,,21.4,C,0.1,MG/L
+09/27/2009,,,20.0,C,0.1,MG/L
+10/11/2009,,,12.5,C,0.1,MG/L
+10/18/2009,,,5.6,C,0.1,MG/L
+11/01/2009,,,5.9,C,0.2,MG/L
+12/01/2009,,,5.9,C,5.3,MG/L
+03/02/2010,,,0.8,C,0.2,MG/L
+03/29/2010,,,3.5,C,0.2,MG/L
+09/05/2012,0,METERS,24.7,DEGREES C,10.6,MG/L
+09/05/2012,1,METERS,24.7,DEGREES C,10.6,MG/L
+09/05/2012,2,METERS,24.7,DEGREES C,10.6,MG/L
+09/05/2012,3,METERS,23.3,DEGREES C,9.2,MG/L
+09/05/2012,4,METERS,20.4,DEGREES C,.4,MG/L
+09/05/2012,5,METERS,15.2,DEGREES C,.4,MG/L
+09/05/2012,6,METERS,11.6,DEGREES C,.3,MG/L
+09/05/2012,7,METERS,8.7,DEGREES C,.4,MG/L
+09/05/2012,8,METERS,7.4,DEGREES C,.3,MG/L
+09/05/2012,9,METERS,6.1,DEGREES C,.3,MG/L
+09/05/2012,10,METERS,5.5,DEGREES C,.3,MG/L
+09/05/2012,11,METERS,5.4,DEGREES C,.3,MG/L
+09/05/2012,12,METERS,5.4,DEGREES C,.3,MG/L
+09/05/2012,13,METERS,5.3,DEGREES C,.3,MG/L
+09/05/2012,14,METERS,5.2,DEGREES C,.3,MG/L
+09/05/2012,14.3,METERS,5.2,DEGREES C,.3,MG/L
+
+
+
+Start Date,Fieldwork Comment
+03/09/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+06/06/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+08/29/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+11/01/1977,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+05/03/2003,east wind-geese goslings-ducks-buds on
+trees-clear-algae on north side of lake
+    
+05/10/2003,east wind-geese and young-partly cloudy-less algae
+    
+05/17/2003,east wind-geese and young-clear-less algae
+    
+05/23/2003,se wind-clear-algae on north end-2bas caught
+    
+06/12/2003,south wind-clear-2 bass-algae
+    
+06/21/2003,s wind - clear sky - algae around whole lake - 1 bass
+    
+06/26/2003,n wind - partly cloudy - algae
+    
+07/17/2003,n wind - cloudy - algae around whole lake
+    
+07/23/2003,n wind - partly cloudy - algae
+    
+07/31/2003,se wind - partly sunny - 16 in bass 7 in bluegill -
+algae
+    
+08/09/2003,se wind - partly cloudy - 4 fish - algae - pete 1
+andrea 3
+    
+08/22/2003,n wind - sunny - algae
+    
+08/26/2003,15.0 m deep- 5-10 mph winds- no clouds
+08/26/2003,DEEP SPOT    
+08/30/2003,n wind - partly sunny - algae - 7 fish
+    
+05/15/2004,N- osprey- 4 geese- 10 goslings.  Cormorant 6. Partly cloudy- algae.    
+05/29/2004,NE- partly cloudy. Algae.    
+06/03/2004,NE- clear sky- 10 geese- 30 goslings.  Algae.  Flooded land.    
+06/09/2004,N- cloudy.  Light rain.  Algae.    
+06/12/2004,Partly sunny- SE wind.  6 geese.  20 goslings.  Algae.  0 fish.    
+07/01/2004,Partly cloudy- E wind.  Algae.    
+07/19/2004,Partly sunny- algae.  50 geese.  NE wind.    
+07/28/2004,Partly cloudy- S wind.  Geese.  Algae.    
+08/20/2004,Thick algae.  Partly cloudy.  Geese.  SE wind.    
+08/26/2004,Thick algae.  Sunny.  S wind.    
+09/04/2004,S wind- cloudy.  Algae thick.    
+09/20/2004,S wind- clear.  Thick algae.    
+09/28/2004,S wind- partly cloudy.  Thick algae.    
+10/05/2004,SW wind- geese.  4 wood ducks.  Clear.  Thick algae.    
+10/10/2004,S wind.  Geese.  Clear.  Algae.    
+06/01/2005,No ducks geese -- clear sky -- SE wind.
+06/03/2005,Algae - partly sunny - S wind.  4 bass / wood duck / 4 families of geese (50).
+06/11/2005,Algae - sunny - SE wind - 50 geese.  14 inch bass.
+06/23/2005,Algae - hazy - S wind.  4 bass- 2 bluegills
+06/27/2005,Algae - hazy - S wind.  50 geese
+07/14/2005,Algae (heavy).  E wind.  Clear skies.  50 geese.
+07/23/2005,Algae heavy.  S wind.  Cloudy.  25 geese.
+08/02/2005,Algae heavy - S wind - hazy
+08/14/2005,Heavy algae - partly sunny - SE wind
+08/30/2005,Heavy algae - sunny - N wind
+09/15/2005,Heavy algae - cloudy - N wind - 30 geese - mallard
+09/27/2005,SW wind - no geese/ducks - heavy algae.
+05/26/2006,blue sky- bright green algae- ter: lake conditions- 4 geese- 12 chicks- east wind cloudy- wind NE- 6 ducks- 0 geese
+06/03/2006,blue sky- algae gone- 6 geese- 20 chicks- NE wind- 0 fish
+06/19/2006,partly sunny- wind SE- algae
+06/27/2006,partly cloudy- algae- wind South- 25 geese
+07/13/2006,hazy sky- wind S- 90F hot- no geese- 2 ducks
+07/20/2006,partly cloudy- S wind- Algae 90F hot- 40 geese
+07/28/2006,clear sky- W wind- 25 Geese- no fish- 90F hot
+08/04/2006,clear sky- E wind- 20 geese- hot
+08/24/2006,cloudy- wind NE- 6 ducks- 0 geese cloudy- wind NE- 6 ducks- 0 geese
+09/14/2006,clear- S wind- 0 ducks/geese
+05/08/2012,Lots of rain 3 days ago   Sunny and light breeze
+05/27/2012,Small amount of rain yesterday
+05/29/2012,Windy and sunny
+06/03/2012,Water "dirty"
+06/10/2012,Sunny   Water dirty
+06/17/2012,Sampled milfoil to send to DNR for DNA analysis
+06/23/2012,Sunny and hazy   Water a lot cleaner
+07/01/2012,Sunny
+07/08/2012,Cloudy 
+07/14/2012,cloudy
+07/15/2012,Sunny and hazy
+07/27/2012,Sunny
+08/04/2012,Party Sunny
+08/11/2012,2.25 inches rain over past week..... water clarity reduced
+08/19/2012,Green color.... moderate amount of rain over the past 2 weeks Received 4.5 inches rain in past week Overcast    Received 4.5 inches rain over past week 
+09/16/2012,Overcast 
+
+
+
+
+Start Date,Group Name,Project Name
+03/09/1977,Data Collectors,Migrated from STORET Legacy
+06/06/1977,Data Collectors,Migrated from STORET Legacy
+08/29/1977,Data Collectors,Migrated from STORET Legacy
+11/01/1977,Data Collectors,Migrated from STORET Legacy
+02/17/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+06/27/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+07/18/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+08/15/1994,Data Collectors,BASIN ASSESSMENT 1988 (over 3400 fieldwork events)
+05/03/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/10/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/17/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/23/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/12/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/21/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/26/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/17/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/23/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/31/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/09/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/22/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/26/2003,Mary Gansberg,Lake Baseline Monitoring- DNR (1970s-2006)
+08/30/2003,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/15/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/29/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/03/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/09/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/12/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/01/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/19/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/28/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/20/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/26/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/04/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/20/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/28/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+10/05/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+10/10/2004,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/01/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/03/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/11/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/23/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/27/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/14/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/23/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/02/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/14/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/30/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/15/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/27/2005,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/26/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/03/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/19/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/27/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/13/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/20/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/28/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/04/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/24/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/14/2006,Peter Stelzer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/16/2009,Tim Hoyman - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+05/06/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+05/25/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+06/03/2009,Brenton Butterfield - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+06/11/2009,Brenton Butterfield - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+06/14/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+06/28/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+07/08/2009,Brenton Butterfield - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+07/12/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+07/26/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+08/17/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+09/07/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+09/17/2009,Brenton Butterfield - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+09/20/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+09/27/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+10/11/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+10/18/2009,Data Collectors,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+11/01/2009,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+12/01/2009,Tim Hoyman - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+03/02/2010,Brenton Butterfield and Dan Cibulka - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+03/29/2010,Brenton Butterfield and Dan Cibulka - Onterra- LLC,MANITOWOC COUNTY LAKES ASSN: Harpt's Lake Mgmt Planning Project Ph 1
+05/08/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/27/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/29/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/03/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/10/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/17/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/23/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/24/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/01/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/08/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/14/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/15/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/27/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/04/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/11/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/19/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/25/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/02/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/08/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/16/2011,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/08/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/27/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/29/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/03/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/10/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/17/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/23/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/01/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/08/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/14/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/15/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/24/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+07/27/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/04/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/11/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/19/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+08/19/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/25/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/02/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/05/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+09/08/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/15/2012,Data Collectors,Manitowoc County Lakes Association - Extra Total Phosphorus and Chlorophyll Samples
+09/16/2012,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/29/2013,Glenn and Marlene Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+06/15/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/22/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/30/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/06/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/07/2013,Glenn Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+08/10/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/11/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/11/2013,Glenn Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+08/17/2013,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/08/2013,Glenn Rezek,MANITOWOC COUNTY LAKES ASSN: Manitowoc County Lakes Project
+04/28/2014,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/28/2014,Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/26/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+05/26/2014,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/15/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/15/2014,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/06/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/06/2014,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/10/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/10/2014,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/10/2014,Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/05/2014,Gene Weyer,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/07/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/07/2015,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/12/2015,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/15/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/30/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/30/2015,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/27/2015,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/27/2015,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+03/23/2016,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/12/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/12/2016,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/16/2016,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/23/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/21/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/21/2016,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/16/2016,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/02/2017,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/02/2017,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/17/2017,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/17/2017,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/16/2017,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/16/2017,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/27/2017,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/27/2017,Glenn and Marlene Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/29/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/16/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/22/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/19/2018,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+04/21/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/22/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/17/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+08/28/2019,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+06/29/2020,Glenn Rezek,Citizen Lake Monitoring - Northeast Region
+06/29/2020,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+07/26/2020,Glenn Rezek,Citizen Lake Monitoring - Northeast Region
+07/26/2020,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole
+09/12/2020,Glenn Rezek,Citizen Lake Monitoring - Northeast Region
+09/12/2020,Glenn Rezek,Citizen Lake Monitoring - Water Quality - Harpt Lake; Deep Hole

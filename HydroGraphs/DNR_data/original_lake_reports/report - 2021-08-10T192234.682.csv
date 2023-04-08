@@ -1,0 +1,597 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Schnur Lake,Price,2284000,NO,51,,513135,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8189076,04/26/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189076,05/07/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189076,05/14/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189076,05/19/2000,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189076,05/27/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189076,06/04/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189076,06/19/2000,8,NO,2.4,,,47,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189076,06/25/2000,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8189079,07/20/2000,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,07/29/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,08/10/2000,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,08/23/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189079,08/31/2000,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189079,09/10/2000,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189079,09/21/2000,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189079,10/01/2000,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,10/12/2000,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,10/19/2000,11,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,06/03/2001,5,NO,1.5,,,54,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,06/30/2001,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,07/08/2001,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189079,07/12/2001,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189079,08/04/2001,5,NO,1.5,,,54,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189079,08/17/2001,3.5,NO,1.1,,,59,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,08/25/2001,3,NO,0.9,,,61,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,09/04/2001,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,09/20/2001,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,10/01/2001,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,10/06/2001,4,NO,1.2,,,57,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,06/01/2002,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,06/16/2002,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189079,06/21/2002,9.25,NO,2.8,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,06/25/2002,9.25,NO,2.8,4.67,23,45,52,46,NORMAL,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189505,07/03/2002,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189079,07/07/2002,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,07/09/2002,7.75,NO,2.4,,,48,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8189505,07/16/2002,8.75,NO,2.7,,,46,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8189505,07/24/2002,7,NO,2.1,7.58,15,49,49,50,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,07/28/2002,7,NO,2.1,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,08/02/2002,6.75,NO,2.1,,,50,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,08/08/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189505,08/09/2002,5.5,NO,1.7,,,53,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189505,08/15/2002,5,NO,1.5,,,54,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,08/23/2002,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8189505,09/04/2002,6,NO,1.8,12.6,14,51,49,54,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189505,09/11/2002,5.5,NO,1.7,,,53,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,09/15/2002,5.25,NO,1.6,,,53,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,10/07/2002,5.25,NO,1.6,17.9,29,53,54,57,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+8189505,06/04/2003,10.75,NO,3.3,3.19,14,43,49,44,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189079,06/14/2003,18,NO,5.5,,,35,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,06/20/2003,11.75,NO,3.6,,,42,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189505,06/30/2003,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189079,07/05/2003,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,07/12/2003,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189079,07/23/2003,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,07/24/2003,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189505,07/29/2003,9.25,NO,2.8,3.5,13,45,48,44,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189505,08/14/2003,10,NO,3,,,44,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8189079,08/24/2003,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189505,09/01/2003,6.5,NO,2,,,50,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189505,09/17/2003,,,,11.3,26,,53,53,,,,,
+8189079,10/04/2003,5.75,NO,1.7,,,52,,,LOW,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189505,10/15/2003,6,NO,1.8,8.68,24,51,53,51,LOW,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8189505,07/13/2004,7.75,NO,2.4,3.99,15,48,49,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189505,08/05/2004,8.75,NO,2.7,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189505,08/13/2004,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189505,09/14/2004,7.5,NO,2.3,9.05,17,48,50,51,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8189505,10/12/2004,7.5,NO,2.3,12.9,30,48,54,54,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8189505,06/22/2005,,,,2.18,7,,43,41,,,,,
+8189505,07/25/2005,,,,2.87,20,,51,43,,,,,
+8189505,08/16/2005,,,,6.53,17,,50,49,,,,,
+1,06/20/2006,,,,5.3,20,,51,47,,,,,
+1,08/08/2007,5.1,NO,1.55,13.1,15,54,49,54,,,,,
+25475349,07/20/2008,4.75,NO,1.4,5.56,19,55,51,48,NORMAL,6,MURKY,BROWN,2-Very minor aesthetic problems
+25475348,08/11/2008,4.75,NO,1.4,,,55,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+26006553,08/11/2008,,,,15.1,21,,52,55,,,,,
+25475348,06/02/2009,6.5,NO,2,,,50,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+26006553,06/02/2009,,,,6.03,16,,50,48,,,,,
+26006553,06/12/2009,,,,3.93,14,,49,45,,,,,
+25475348,06/17/2009,6.5,NO,2,,,50,,,NORMAL,3,CLEAR,GREEN,1-Beautiful, could not be nicer
+26006553,09/03/2009,6.5,NO,2,8.67,10,50,46,51,LOW,6,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+37492488,06/26/2010,9.75,NO,3,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+37492488,06/28/2010,,,,4.85,12,,47,47,,,,,
+37492488,07/31/2010,9.75,NO,3,3.81,13,44,48,45,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37492488,07/31/2011,9.75,NO,3,,,44,,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37492488,04/29/2012,7.5,NO,2.3,,15,48,49,,HIGH,,CLEAR,BROWN,1-Beautiful, could not be nicer
+37492488,06/03/2012,8.8,NO,2.7,,,46,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+37492488,06/24/2012,7.6,NO,2.3,,,48,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+34998053,06/28/2012,,,,3.46,18,,51,44,,,,,
+37492488,07/29/2012,10,NO,3,5.17,13,44,48,47,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+133496703,05/30/2020,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/25/2002,3,FEET,75,DEGREES F,,
+06/25/2002,6,FEET,74,DEGREES F,,
+06/25/2002,9,FEET,73,DEGREES F,,
+06/25/2002,12,FEET,68,DEGREES F,,
+06/25/2002,15,FEET,64,DEGREES F,,
+06/25/2002,18,FEET,60,DEGREES F,,
+06/25/2002,21,FEET,57,DEGREES F,,
+06/25/2002,24,FEET,55,DEGREES F,,
+06/25/2002,27,FEET,55,DEGREES F,,
+07/03/2002,3,FEET,82,DEGREES F,,
+07/03/2002,6,FEET,80,DEGREES F,,
+07/03/2002,9,FEET,78,DEGREES F,,
+07/03/2002,12,FEET,70,DEGREES F,,
+07/03/2002,15,FEET,63,DEGREES F,,
+07/03/2002,18,FEET,58,DEGREES F,,
+07/03/2002,21,FEET,56,DEGREES F,,
+07/03/2002,24,FEET,55,DEGREES F,,
+07/03/2002,27,FEET,54,DEGREES F,,
+07/09/2002,3,FEET,80,DEGREES F,,
+07/09/2002,6,FEET,80,DEGREES F,,
+07/09/2002,9,FEET,78,DEGREES F,,
+07/09/2002,12,FEET,75,DEGREES F,,
+07/09/2002,15,FEET,62,DEGREES F,,
+07/09/2002,18,FEET,58,DEGREES F,,
+07/09/2002,21,FEET,57,DEGREES F,,
+07/09/2002,24,FEET,55,DEGREES F,,
+07/09/2002,27,FEET,55,DEGREES F,,
+07/16/2002,3,FEET,81,DEGREES F,,
+07/16/2002,6,FEET,80,DEGREES F,,
+07/16/2002,9,FEET,80,DEGREES F,,
+07/16/2002,12,FEET,74,DEGREES F,,
+07/16/2002,15,FEET,62,DEGREES F,,
+07/16/2002,18,FEET,58,DEGREES F,,
+07/16/2002,21,FEET,56,DEGREES F,,
+07/16/2002,24,FEET,55,DEGREES F,,
+07/16/2002,27,FEET,55,DEGREES F,,
+07/24/2002,3,FEET,76,DEGREES F,,
+07/24/2002,6,FEET,76,DEGREES F,,
+07/24/2002,9,FEET,76,DEGREES F,,
+07/24/2002,12,FEET,76,DEGREES F,,
+07/24/2002,15,FEET,67,DEGREES F,,
+07/24/2002,18,FEET,61,DEGREES F,,
+07/24/2002,21,FEET,57,DEGREES F,,
+07/24/2002,24,FEET,56,DEGREES F,,
+07/24/2002,27,FEET,55,DEGREES F,,
+08/02/2002,3,FEET,77,DEGREES F,,
+08/02/2002,6,FEET,76,DEGREES F,,
+08/02/2002,9,FEET,76,DEGREES F,,
+08/02/2002,12,FEET,75,DEGREES F,,
+08/02/2002,15,FEET,68,DEGREES F,,
+08/02/2002,18,FEET,61,DEGREES F,,
+08/02/2002,21,FEET,58,DEGREES F,,
+08/02/2002,24,FEET,57,DEGREES F,,
+08/02/2002,27,FEET,55,DEGREES F,,
+08/09/2002,3,FEET,75,DEGREES F,,
+08/09/2002,6,FEET,75,DEGREES F,,
+08/09/2002,9,FEET,75,DEGREES F,,
+08/09/2002,12,FEET,74,DEGREES F,,
+08/09/2002,15,FEET,70,DEGREES F,,
+08/09/2002,18,FEET,62,DEGREES F,,
+08/09/2002,21,FEET,58,DEGREES F,,
+08/09/2002,24,FEET,56,DEGREES F,,
+08/09/2002,27,FEET,55,DEGREES F,,
+08/15/2002,3,FEET,72,DEGREES F,,
+08/15/2002,6,FEET,72,DEGREES F,,
+08/15/2002,9,FEET,72,DEGREES F,,
+08/15/2002,12,FEET,71,DEGREES F,,
+08/15/2002,15,FEET,71,DEGREES F,,
+08/15/2002,18,FEET,71,DEGREES F,,
+08/15/2002,21,FEET,58,DEGREES F,,
+08/15/2002,24,FEET,57,DEGREES F,,
+08/15/2002,27,FEET,56,DEGREES F,,
+09/04/2002,3,FEET,72,DEGREES F,,
+09/04/2002,6,FEET,70,DEGREES F,,
+09/04/2002,9,FEET,70,DEGREES F,,
+09/04/2002,12,FEET,70,DEGREES F,,
+09/04/2002,15,FEET,69,DEGREES F,,
+09/04/2002,18,FEET,66,DEGREES F,,
+09/04/2002,21,FEET,63,DEGREES F,,
+09/04/2002,24,FEET,58,DEGREES F,,
+09/04/2002,27,FEET,56,DEGREES F,,
+09/11/2002,3,FEET,72,DEGREES F,,
+09/11/2002,6,FEET,71,DEGREES F,,
+09/11/2002,9,FEET,71,DEGREES F,,
+09/11/2002,12,FEET,70,DEGREES F,,
+09/11/2002,15,FEET,69,DEGREES F,,
+09/11/2002,18,FEET,68,DEGREES F,,
+09/11/2002,21,FEET,65,DEGREES F,,
+09/11/2002,24,FEET,60,DEGREES F,,
+09/11/2002,27,FEET,57,DEGREES F,,
+10/07/2002,3,FEET,54,DEGREES F,,
+10/07/2002,6,FEET,54,DEGREES F,,
+10/07/2002,9,FEET,53,DEGREES F,,
+10/07/2002,12,FEET,53,DEGREES F,,
+10/07/2002,15,FEET,53,DEGREES F,,
+10/07/2002,18,FEET,53,DEGREES F,,
+10/07/2002,21,FEET,53,DEGREES F,,
+10/07/2002,24,FEET,53,DEGREES F,,
+10/07/2002,27,FEET,53,DEGREES F,,
+06/04/2003,3,FEET,66,DEGREES F,,
+06/04/2003,6,FEET,63.6,DEGREES F,,
+06/04/2003,9,FEET,61.5,DEGREES F,,
+06/04/2003,12,FEET,59.7,DEGREES F,,
+06/04/2003,15,FEET,55.7,DEGREES F,,
+06/04/2003,18,FEET,52.3,DEGREES F,,
+06/04/2003,21,FEET,51.2,DEGREES F,,
+06/04/2003,24,FEET,51,DEGREES F,,
+06/04/2003,27,FEET,50,DEGREES F,,
+06/20/2003,3,FEET,74,DEGREES F,,
+06/20/2003,6,FEET,73.5,DEGREES F,,
+06/20/2003,9,FEET,71.4,DEGREES F,,
+06/20/2003,12,FEET,62,DEGREES F,,
+06/20/2003,15,FEET,57.2,DEGREES F,,
+06/20/2003,18,FEET,54.3,DEGREES F,,
+06/20/2003,21,FEET,53,DEGREES F,,
+06/20/2003,24,FEET,52.3,DEGREES F,,
+06/20/2003,27,FEET,51.4,DEGREES F,,
+06/30/2003,3,FEET,72.5,DEGREES F,,
+06/30/2003,6,FEET,70.1,DEGREES F,,
+06/30/2003,9,FEET,69,DEGREES F,,
+06/30/2003,12,FEET,67.2,DEGREES F,,
+06/30/2003,15,FEET,57.2,DEGREES F,,
+06/30/2003,18,FEET,54.8,DEGREES F,,
+06/30/2003,21,FEET,53.7,DEGREES F,,
+06/30/2003,24,FEET,53,DEGREES F,,
+06/30/2003,27,FEET,52.1,DEGREES F,,
+07/12/2003,3,FEET,71.7,DEGREES F,,
+07/12/2003,6,FEET,70.8,DEGREES F,,
+07/12/2003,9,FEET,70.1,DEGREES F,,
+07/12/2003,12,FEET,69.2,DEGREES F,,
+07/12/2003,15,FEET,61.5,DEGREES F,,
+07/12/2003,18,FEET,56.6,DEGREES F,,
+07/12/2003,21,FEET,55,DEGREES F,,
+07/12/2003,24,FEET,53.9,DEGREES F,,
+07/12/2003,27,FEET,53.2,DEGREES F,,
+07/24/2003,3,FEET,72.6,DEGREES F,,
+07/24/2003,6,FEET,71.6,DEGREES F,,
+07/24/2003,9,FEET,71.4,DEGREES F,,
+07/24/2003,12,FEET,70.7,DEGREES F,,
+07/24/2003,15,FEET,66.5,DEGREES F,,
+07/24/2003,18,FEET,57.4,DEGREES F,,
+07/24/2003,21,FEET,55.2,DEGREES F,,
+07/24/2003,24,FEET,54.6,DEGREES F,,
+07/24/2003,27,FEET,53.6,DEGREES F,,
+07/29/2003,3,FEET,77.3,DEGREES F,,
+07/29/2003,6,FEET,75.5,DEGREES F,,
+07/29/2003,9,FEET,75,DEGREES F,,
+07/29/2003,12,FEET,71.6,DEGREES F,,
+07/29/2003,15,FEET,67.4,DEGREES F,,
+07/29/2003,18,FEET,59.3,DEGREES F,,
+07/29/2003,21,FEET,56.4,DEGREES F,,
+07/29/2003,24,FEET,54.6,DEGREES F,,
+07/29/2003,27,FEET,53.6,DEGREES F,,
+08/14/2003,3,FEET,77,DEGREES F,,
+08/14/2003,6,FEET,76.5,DEGREES F,,
+08/14/2003,9,FEET,75,DEGREES F,,
+08/14/2003,12,FEET,73.7,DEGREES F,,
+08/14/2003,15,FEET,71.6,DEGREES F,,
+08/14/2003,18,FEET,60.8,DEGREES F,,
+08/14/2003,21,FEET,57.2,DEGREES F,,
+08/14/2003,24,FEET,55.4,DEGREES F,,
+08/14/2003,27,FEET,54.3,DEGREES F,,
+09/01/2003,3,FEET,72.3,DEGREES F,,
+09/01/2003,6,FEET,71,DEGREES F,,
+09/01/2003,9,FEET,70.8,DEGREES F,,
+09/01/2003,12,FEET,70.5,DEGREES F,,
+09/01/2003,15,FEET,70.1,DEGREES F,,
+09/01/2003,18,FEET,64.2,DEGREES F,,
+09/01/2003,21,FEET,59.7,DEGREES F,,
+09/01/2003,24,FEET,55.7,DEGREES F,,
+09/01/2003,27,FEET,53.9,DEGREES F,,
+10/15/2003,3,FEET,54,DEGREES F,,
+10/15/2003,6,FEET,53.6,DEGREES F,,
+10/15/2003,9,FEET,53.6,DEGREES F,,
+10/15/2003,12,FEET,53.4,DEGREES F,,
+10/15/2003,15,FEET,53.4,DEGREES F,,
+10/15/2003,18,FEET,53.4,DEGREES F,,
+10/15/2003,21,FEET,53.4,DEGREES F,,
+10/15/2003,24,FEET,53,DEGREES F,,
+10/15/2003,27,FEET,52.5,DEGREES F,,
+07/13/2004,3,FEET,75.7,DEGREES F,,
+07/13/2004,6,FEET,73.7,DEGREES F,,
+07/13/2004,9,FEET,69.2,DEGREES F,,
+07/13/2004,12,FEET,67.2,DEGREES F,,
+07/13/2004,15,FEET,64.7,DEGREES F,,
+07/13/2004,18,FEET,59.7,DEGREES F,,
+07/13/2004,21,FEET,57.7,DEGREES F,,
+07/13/2004,24,FEET,56.6,DEGREES F,,
+07/13/2004,27,FEET,55.5,DEGREES F,,
+08/05/2004,3,FEET,74.1,DEGREES F,,
+08/05/2004,6,FEET,73,DEGREES F,,
+08/05/2004,9,FEET,72.6,DEGREES F,,
+08/05/2004,12,FEET,71.7,DEGREES F,,
+08/05/2004,15,FEET,67.4,DEGREES F,,
+08/05/2004,18,FEET,62,DEGREES F,,
+08/05/2004,21,FEET,59.3,DEGREES F,,
+08/05/2004,24,FEET,57.5,DEGREES F,,
+08/05/2004,27,FEET,56.4,DEGREES F,,
+08/13/2004,3,FEET,66.5,DEGREES F,,
+08/13/2004,6,FEET,65.8,DEGREES F,,
+08/13/2004,9,FEET,65.4,DEGREES F,,
+08/13/2004,12,FEET,65.3,DEGREES F,,
+08/13/2004,15,FEET,64.7,DEGREES F,,
+08/13/2004,18,FEET,64.2,DEGREES F,,
+08/13/2004,21,FEET,58.8,DEGREES F,,
+08/13/2004,24,FEET,57,DEGREES F,,
+08/13/2004,27,FEET,55.7,DEGREES F,,
+09/14/2004,3,FEET,67.4,DEGREES F,,
+09/14/2004,6,FEET,67.4,DEGREES F,,
+09/14/2004,9,FEET,67.2,DEGREES F,,
+09/14/2004,12,FEET,67.2,DEGREES F,,
+09/14/2004,15,FEET,67.2,DEGREES F,,
+09/14/2004,18,FEET,67.1,DEGREES F,,
+09/14/2004,21,FEET,66.5,DEGREES F,,
+09/14/2004,24,FEET,60.8,DEGREES F,,
+09/14/2004,27,FEET,58.8,DEGREES F,,
+10/12/2004,3,FEET,56.6,DEGREES F,,
+10/12/2004,6,FEET,55.5,DEGREES F,,
+10/12/2004,9,FEET,55.2,DEGREES F,,
+10/12/2004,12,FEET,55,DEGREES F,,
+10/12/2004,15,FEET,54.8,DEGREES F,,
+10/12/2004,18,FEET,54.6,DEGREES F,,
+10/12/2004,21,FEET,54.6,DEGREES F,,
+10/12/2004,24,FEET,54.6,DEGREES F,,
+10/12/2004,27,FEET,54.6,DEGREES F,,
+08/08/2007,0.5,METERS,25.6,DEGREES C,9.9,MG/L
+08/08/2007,1,METERS,25.6,DEGREES C,9.8,MG/L
+08/08/2007,2,METERS,24.2,DEGREES C,9.8,MG/L
+08/08/2007,3,METERS,24,DEGREES C,9.5,MG/L
+08/08/2007,4,METERS,23.1,DEGREES C,4.4,MG/L
+08/08/2007,5,METERS,19.6,DEGREES C,0.4,MG/L
+08/08/2007,6,METERS,17.3,DEGREES C,0.3,MG/L
+08/08/2007,7,METERS,15.3,DEGREES C,0.3,MG/L
+07/20/2008,3,FEET,73.7,DEGREES F,,
+07/20/2008,6,FEET,73.4,DEGREES F,,
+07/20/2008,9,FEET,71.6,DEGREES F,,
+07/20/2008,12,FEET,69,DEGREES F,,
+07/20/2008,15,FEET,66.5,DEGREES F,,
+07/20/2008,18,FEET,61.5,DEGREES F,,
+07/20/2008,21,FEET,57.9,DEGREES F,,
+07/20/2008,24,FEET,56.1,DEGREES F,,
+08/11/2008,3,FEET,74.3,DEGREES F,,
+08/11/2008,6,FEET,72.8,DEGREES F,,
+08/11/2008,9,FEET,72.3,DEGREES F,,
+08/11/2008,12,FEET,71.7,DEGREES F,,
+08/11/2008,15,FEET,68.3,DEGREES F,,
+08/11/2008,18,FEET,61.8,DEGREES F,,
+08/11/2008,21,FEET,59.3,DEGREES F,,
+08/11/2008,24,FEET,57.5,DEGREES F,,
+06/02/2009,3,FEET,60.8,DEGREES F,,
+06/02/2009,6,FEET,60.6,DEGREES F,,
+06/02/2009,9,FEET,60.4,DEGREES F,,
+06/02/2009,12,FEET,60.4,DEGREES F,,
+06/02/2009,15,FEET,60.2,DEGREES F,,
+06/02/2009,18,FEET,60,DEGREES F,,
+06/02/2009,21,FEET,59.5,DEGREES F,,
+06/02/2009,24,FEET,56.6,DEGREES F,,
+06/17/2009,3,FEET,70.1,DEGREES F,,
+06/17/2009,6,FEET,69.9,DEGREES F,,
+06/17/2009,9,FEET,63.6,DEGREES F,,
+06/17/2009,12,FEET,60.9,DEGREES F,,
+06/17/2009,15,FEET,59.7,DEGREES F,,
+06/17/2009,18,FEET,59.1,DEGREES F,,
+06/17/2009,21,FEET,59,DEGREES F,,
+06/17/2009,24,FEET,57.6,DEGREES F,,
+09/03/2009,3,FEET,67.6,DEGREES F,,
+09/03/2009,6,FEET,66.9,DEGREES F,,
+09/03/2009,9,FEET,66.2,DEGREES F,,
+09/03/2009,12,FEET,66,DEGREES F,,
+09/03/2009,15,FEET,65.6,DEGREES F,,
+09/03/2009,18,FEET,65.1,DEGREES F,,
+09/03/2009,21,FEET,63.8,DEGREES F,,
+09/03/2009,24,FEET,60.6,DEGREES F,,
+06/26/2010,3,FEET,72.3,DEGREES F,,
+06/26/2010,6,FEET,72.1,DEGREES F,,
+06/26/2010,9,FEET,71.9,DEGREES F,,
+06/26/2010,12,FEET,68.7,DEGREES F,,
+06/26/2010,15,FEET,67.2,DEGREES F,,
+06/26/2010,18,FEET,62.4,DEGREES F,,
+07/31/2010,3,FEET,75.2,DEGREES F,,
+07/31/2010,6,FEET,75.5,DEGREES F,,
+07/31/2010,9,FEET,75,DEGREES F,,
+07/31/2010,12,FEET,75.2,DEGREES F,,
+07/31/2010,15,FEET,73.4,DEGREES F,,
+07/31/2010,18,FEET,71.4,DEGREES F,,
+07/31/2010,21,FEET,62.9,DEGREES F,,
+07/31/2010,24,FEET,60,DEGREES F,,
+07/31/2011,3,FEET,75.2,DEGREES F,,
+07/31/2011,6,FEET,75.5,DEGREES F,,
+07/31/2011,9,FEET,75.5,DEGREES F,,
+07/31/2011,12,FEET,75.2,DEGREES F,,
+07/31/2011,15,FEET,73.4,DEGREES F,,
+07/31/2011,18,FEET,71.4,DEGREES F,,
+07/31/2011,21,FEET,62.9,DEGREES F,,
+07/31/2011,24,FEET,60,DEGREES F,,
+04/29/2012,3,FEET,52.8,DEGREES F,,
+04/29/2012,6,FEET,52.5,DEGREES F,,
+04/29/2012,9,FEET,51,DEGREES F,,
+04/29/2012,12,FEET,50.7,DEGREES F,,
+04/29/2012,15,FEET,50.5,DEGREES F,,
+04/29/2012,18,FEET,50.1,DEGREES F,,
+04/29/2012,21,FEET,50.1,DEGREES F,,
+04/29/2012,24,FEET,49.8,DEGREES F,,
+06/03/2012,3,FEET,64.7,DEGREES F,,
+06/03/2012,6,FEET,64.7,DEGREES F,,
+06/03/2012,9,FEET,64.7,DEGREES F,,
+06/03/2012,12,FEET,63.3,DEGREES F,,
+06/03/2012,15,FEET,62.4,DEGREES F,,
+06/03/2012,18,FEET,58.4,DEGREES F,,
+06/03/2012,21,FEET,55.2,DEGREES F,,
+06/03/2012,24,FEET,52.8,DEGREES F,,
+06/03/2012,27,FEET,52.3,DEGREES F,,
+06/24/2012,3,FEET,76.6,DEGREES F,,
+06/24/2012,6,FEET,75.7,DEGREES F,,
+06/24/2012,9,FEET,73.2,DEGREES F,,
+06/24/2012,12,FEET,70.8,DEGREES F,,
+06/24/2012,15,FEET,66.5,DEGREES F,,
+06/24/2012,18,FEET,61.1,DEGREES F,,
+06/24/2012,21,FEET,59,DEGREES F,,
+07/29/2012,3,FEET,76.8,DEGREES F,,
+07/29/2012,6,FEET,76.8,DEGREES F,,
+07/29/2012,9,FEET,76.8,DEGREES F,,
+07/29/2012,12,FEET,75.5,DEGREES F,,
+07/29/2012,15,FEET,71.2,DEGREES F,,
+07/29/2012,18,FEET,63.5,DEGREES F,,
+07/29/2012,21,FEET,61.5,DEGREES F,,
+07/29/2012,24,FEET,60.9,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+06/03/2001,65 deg F. 5 mph N wind. Mostly cloudy    
+06/30/2001,85 deg F. 5 mph W wind. Sunny and beautiful.    
+07/08/2001,85 deg F. S wind at 5 mph. Sunny    
+07/12/2001,80 deg F. Slight N wind. Sunny- very little rain for past 3 weeks.    
+08/04/2001,80 deg F. No wind- very hot. It's been in 80's most part of 3 weeks (with rain)    
+08/17/2001,75 deg F. 5 mph S wind.    
+08/25/2001,68 deg F. Calm and overcast.    
+09/04/2001,Calm- sunny- beautiful. Water still green w/ green film on top.    
+09/20/2001,70 deg F. 5 mph N wind.    
+10/01/2001,60 deg F and calm    
+10/06/2001,30 de F. 10 mph wind NW. Fall color at peak.    
+06/01/2002,Temperature is 78 degrees F- clear- west wind at 5 mph- perfect day!    
+06/16/2002,Temperature is 75 degrees- partly cloudy- NW wind at 5 mph.    
+06/21/2002,Temperature is 80 degrees F- clear and calm.    
+06/25/2002,Very calm and bright sun.  2" rain two days earlier.    
+07/03/2002,Several days very warm weather.  Clear- temperature is  80 - 92 degrees F.    
+07/07/2002,Temperature is 90 degrees F- hot- slight breeze from south.    
+07/09/2002,Partly cloudy- warm- temperature is 80 degrees- it has been very warm- and 2.5" of rain on 7/7.    
+07/16/2002,Partly cloudy- temperature is 83 degrees- several days of very warm weather- and no rain for several days.    
+07/24/2002,Clear- sunny- temperature is 70 degrees F- light chop on lake- lake is high because of 2.5" of rain- and saw 2 loons.    
+07/28/2002,Temperature is 85 degrees- clear- beautiful day after wind storm evening before.    
+08/02/2002,Partly cloudy- temperature is 72 degrees F- cool front yesterday.    
+08/08/2002,Temperature is 65 degrees- 5 mph south- algae bloom 1 week ago.    
+08/09/2002,Sunny- temperature is 85 degrees F- predicted rain this evening.    
+08/15/2002,Cloudy- windy- cool and rainy.  May be start of turnover     
+08/23/2002,Temperature is 75 degrees F- slight breeze.    
+09/04/2002,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+09/11/2002,Bright- sunny last 6 days after 4" of rain and 3 days of very hot weather.    
+09/15/2002,Temperature is 65 degrees F- sunny- beautiful "early fall" day.  Everything green - few leaves are down.    
+10/07/2002,Very high water and rain 17 of the last 19 days.    
+06/04/2003,Clear- 61 F.    
+06/14/2003,75 F- clear.  North wind 5 mph. Perfect day except for mosquitoes in calm.    
+06/20/2003,Clear- warm and dry.    
+06/30/2003,Clear- sunny- 75 f. Rain 1.75" last week.    
+07/05/2003,75 F- clear- calm- beautiful- perfect day!    
+07/12/2003,Fair- partly cloudy. 83 F.    
+07/23/2003,70 F- clear. East breeze. Beautiful day.    
+07/24/2003,Fair- partly cloudy- 70 F.    
+07/29/2003,Partly cloudy- 84 F- dry.    
+08/14/2003,Very humid- partly cloudy- 79 F.    
+08/24/2003,78 F- hazy. Slight breeze from SW. Lazy day (conditions dry - water 1' low).    
+09/01/2003,Partly cloudy- calm- 72 F.    
+09/17/2003,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+10/04/2003,45 F- cool- cloudy. West wind 5-10 mph. Nice fall day. Leaves still mostly green.    
+10/15/2003,Partly cloudy- windy- 58 F.    
+07/13/2004,Partly cloudy- 76 F- breezy.    
+08/05/2004,Clear    
+08/13/2004,Partly cloudy- 66 F.  Breezy.  Record cold night.  40s.    
+09/14/2004,Cloudy- 67 F    
+10/12/2004,Partly cloudy- 64 F- calm.    
+06/22/2005,DEEP HOLE - INTEGRATED SAMPLE    
+07/25/2005,DEEP HOLE - INTERGRATED SAMPLE    
+08/16/2005,DEEP HOLE - INTEGRATED SAMPLE    
+06/20/2006,DEEP HOLE - 6FT INTEGRATED SAMPLE    
+07/20/2008,overcast + calm   /   with alice + faith + john hasler
+06/02/2009,63 degrees surface      sunny   light breeze 63 degrees   air temp. 63    sunny  light breeze 63 degrees   air temp. 63    sunny  light breeze 63 degrees   air temp. 63    sunny  light breeze
+06/17/2009,surface temp. 71     air temp.  74
+overcast  -  slight breeze -    clear water     
+09/03/2009,sunny  light breeze 69 surface temp.      71 air temp.
+06/26/2010,air temp 72.8F; overcast; Heavy rain previous evening.
+07/31/2010,Overcast.  Warm + Humid.  Light ppt previous day
+07/31/2011,Air Temp = 70.8 F. Overcast.  Warm + Humid.  Light ppt previous day.
+04/29/2012,Ait temp = 55 F. Light overcast- with some breaks of sunlight.  Windy.  No ppt previous 5 days.  Note: Lake turnover sometime during the night of 4/27.  Shoreline coated with scum and billions of bug carcasses from deep.
+06/03/2012,Air Temp = 65.1- Clear- calm- sunny.  No ppt past 5 days.  3 loons- hooded mergansers- lone immature eagle.  No herons yet.
+06/24/2012,Air Temp = 77.3F.  Clear- breezy- water choppy.  Herons are back.
+07/29/2012,Air Temp = 69F- partly cloudy- light breeze from south.  No ppt in past 48 hrs.  A pair of loon seemed to want to help today and came w/in 5' of my canoe.  Stayed by me for 15 minutes- talking alot (hoot-chicking).
+
+
+
+
+Start Date,Group Name,Project Name
+04/26/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+05/07/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+05/14/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+05/19/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+05/27/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/04/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/19/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/25/2000,Joe Brezinski,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/20/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/29/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/10/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/23/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/31/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/10/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/21/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/01/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/12/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/19/2000,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/03/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/30/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/08/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/12/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/04/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/17/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/25/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/04/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/20/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/01/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/06/2001,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/01/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/16/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/21/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/25/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/03/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/07/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/09/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/16/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/24/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/28/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/02/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/08/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/09/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/15/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/23/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/04/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/11/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/15/2002,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/07/2002,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/04/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/14/2003,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/20/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/30/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/05/2003,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/12/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/23/2003,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/24/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/29/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/14/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/24/2003,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/01/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/17/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/04/2003,Dennis Bablick,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/15/2003,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/13/2004,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/05/2004,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/13/2004,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/14/2004,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+10/12/2004,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/22/2005,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/25/2005,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/16/2005,Roger Reas,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/20/2006,Data Collectors,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/08/2007,Data Collectors,National Lake Survey - Index Sampling
+07/20/2008,Kim Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/11/2008,Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+08/11/2008,Kim and Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/02/2009,Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/02/2009,Kim and Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/12/2009,Kim and Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/17/2009,Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+09/03/2009,Kim and Alice Klima,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/26/2010,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/28/2010,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/31/2010,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/31/2011,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+04/29/2012,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/03/2012,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/24/2012,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+06/28/2012,Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+07/29/2012,Anna and Brian Quinn,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole
+05/30/2020,Dennis Stemen,Citizen Lake Monitoring - Water Quality - Schnur Lake; Deep Hole

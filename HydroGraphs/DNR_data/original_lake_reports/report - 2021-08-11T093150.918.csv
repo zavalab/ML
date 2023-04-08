@@ -1,0 +1,490 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Twin Lakes (North),Vilas,1623800,NO,64,,643429,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190760,06/21/1993,18.25,NO,5.5,,,35,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190760,08/10/1993,14,NO,4.3,,,39,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190760,08/24/1993,10.5,NO,3.2,,,43,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8190760,09/18/1993,11.5,NO,3.5,,,42,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8189979,05/25/1995,11,NO,3.3,,,43,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8189979,05/30/1995,12,NO,3.6,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8189979,06/13/1995,19.5,NO,5.9,,,34,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189979,07/09/1995,13.5,NO,4.1,,,40,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8189979,07/26/1995,14.25,NO,4.3,,,39,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8189979,08/23/1995,11.5,NO,3.5,,,42,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8189979,09/01/1995,8.75,NO,2.7,,,46,,,HIGH,,,GREEN,
+8189626,05/30/1996,9.5,NO,2.9,8.9,23,45,52,51,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189979,07/22/1996,13,NO,4,,,40,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8189627,07/25/1996,13.5,NO,4.1,3.84,10,40,46,45,,,,GREEN,2-Very minor aesthetic problems
+8190760,08/17/1996,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,BLUE,3-Enjoyment somewhat impaired (algae)
+8189627,08/21/1996,12,NO,3.6,3.49,ND*,41,,44,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8189979,08/21/1996,13.25,NO,4,,,40,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8190760,09/02/1996,12,NO,3.6,,,41,,,HIGH,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189628,10/08/1996,10,NO,3,5.33,26,44,53,47,,,,BROWN,2-Very minor aesthetic problems
+8189272,05/28/1997,9,NO,2.7,,45,45,58,,,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8189272,06/17/1997,20.25,NO,6.2,1.08,49,34,58,35,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8189272,07/16/1997,22,NO,6.7,1.82,40,33,57,39,,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8189272,08/21/1997,13,NO,4,4.11,13,40,48,45,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8189627,09/12/1997,10,NO,3,,,44,,,,,CLEAR,BLUE,2-Very minor aesthetic problems
+8189272,10/16/1997,9,NO,2.7,13.3,21,45,52,54,,,MURKY,BROWN,2-Very minor aesthetic problems
+8190070,04/24/1998,11.25,NO,3.4,,22,42,52,,GAUGE,1681.55,CLEAR,BLUE,2-Very minor aesthetic problems
+8190070,06/15/1998,12.5,NO,3.8,1.87,9,41,45,40,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8189272,07/20/1998,3,NO,0.9,2.57,10,61,46,42,,,,,
+8189272,08/19/1998,,,,6.47,16,,50,49,,,,,
+8189272,08/20/1998,8,NO,2.4,,,47,,,NO CHANGE,,MURKY,GREEN,2-Very minor aesthetic problems
+35027269,06/21/2010,10.5,NO,3.2,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+35515521,07/08/2010,12.5,NO,3.8,,,41,,,LOW,2,CLEAR,GREEN,1-Beautiful, could not be nicer
+35515521,07/30/2010,10.75,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+35515521,08/03/2010,12.25,NO,3.7,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+35515521,08/23/2010,8.5,NO,2.6,,,46,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+35515521,06/06/2011,13,NO,4,,,40,,,NORMAL,3,CLEAR,GREEN,1-Beautiful, could not be nicer
+35515521,07/07/2011,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+35515521,07/26/2011,10,NO,3,,,44,,,HIGH,,MURKY,GREEN,2-Very minor aesthetic problems
+35515521,05/23/2012,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+35515521,06/07/2012,14,NO,4.3,,,39,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+35515521,07/10/2012,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+35515521,08/02/2012,9,NO,2.7,,,45,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+35515521,06/11/2013,14,NO,4.3,,,39,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+35515521,07/07/2013,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+35515521,08/22/2013,11,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+35515521,06/29/2014,15,NO,4.6,,,38,,,HIGH,55,CLEAR,GREEN,1-Beautiful, could not be nicer
+138829750,06/11/2019,17.5,NO,5.3,,,36,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,06/19/2019,20,NO,6.1,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,07/24/2019,15,NO,4.6,,,38,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,08/17/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,09/02/2019,13.5,NO,4.1,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,05/22/2020,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,06/25/2020,20.5,NO,6.2,,,34,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,07/20/2020,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+138829750,09/01/2020,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+05/30/1996,3,FEET,56,DEGREES F,,
+05/30/1996,5,FEET,56,DEGREES F,,
+05/30/1996,10,FEET,54,DEGREES F,,
+05/30/1996,15,FEET,45,DEGREES F,,
+05/30/1996,20,FEET,45,DEGREES F,,
+05/30/1996,25,FEET,45,DEGREES F,,
+05/30/1996,30,FEET,45,DEGREES F,,
+05/30/1996,35,FEET,45,DEGREES F,,
+05/30/1996,40,FEET,45,DEGREES F,,
+07/25/1996,3,FEET,70,DEGREES F,,
+07/25/1996,5,FEET,68,DEGREES F,,
+07/25/1996,10,FEET,68,DEGREES F,,
+07/25/1996,15,FEET,68,DEGREES F,,
+07/25/1996,20,FEET,68,DEGREES F,,
+07/25/1996,25,FEET,64,DEGREES F,,
+07/25/1996,30,FEET,58,DEGREES F,,
+07/25/1996,35,FEET,52,DEGREES F,,
+07/25/1996,40,FEET,50,DEGREES F,,
+08/21/1996,3,FEET,70,DEGREES F,,
+08/21/1996,5,FEET,70,DEGREES F,,
+08/21/1996,10,FEET,70,DEGREES F,,
+08/21/1996,15,FEET,70,DEGREES F,,
+08/21/1996,20,FEET,70,DEGREES F,,
+08/21/1996,25,FEET,64,DEGREES F,,
+08/21/1996,30,FEET,62,DEGREES F,,
+08/21/1996,35,FEET,56,DEGREES F,,
+08/21/1996,40,FEET,51,DEGREES F,,
+10/08/1996,3,FEET,53,DEGREES F,,
+10/08/1996,5,FEET,53,DEGREES F,,
+10/08/1996,10,FEET,52,DEGREES F,,
+10/08/1996,15,FEET,52,DEGREES F,,
+10/08/1996,20,FEET,52,DEGREES F,,
+10/08/1996,25,FEET,52,DEGREES F,,
+10/08/1996,30,FEET,52,DEGREES F,,
+10/08/1996,35,FEET,52,DEGREES F,,
+10/08/1996,40,FEET,52,DEGREES F,,
+05/28/1997,3,FEET,50,DEGREES F,,
+05/28/1997,5,FEET,50,DEGREES F,,
+05/28/1997,10,FEET,49,DEGREES F,,
+05/28/1997,15,FEET,49,DEGREES F,,
+05/28/1997,20,FEET,48,DEGREES F,,
+05/28/1997,25,FEET,48,DEGREES F,,
+05/28/1997,30,FEET,48,DEGREES F,,
+05/28/1997,35,FEET,47,DEGREES F,,
+05/28/1997,40,FEET,47,DEGREES F,,
+06/17/1997,3,FEET,62,DEGREES F,,
+06/17/1997,5,FEET,62,DEGREES F,,
+06/17/1997,10,FEET,62,DEGREES F,,
+06/17/1997,15,FEET,61,DEGREES F,,
+06/17/1997,20,FEET,54,DEGREES F,,
+06/17/1997,25,FEET,52,DEGREES F,,
+06/17/1997,30,FEET,50,DEGREES F,,
+06/17/1997,35,FEET,50,DEGREES F,,
+06/17/1997,40,FEET,48,DEGREES F,,
+07/16/1997,3,FEET,73,DEGREES F,8,MG/L
+07/16/1997,5,FEET,72,DEGREES F,9,MG/L
+07/16/1997,10,FEET,72,DEGREES F,8,MG/L
+07/16/1997,15,FEET,72,DEGREES F,9,MG/L
+07/16/1997,20,FEET,67,DEGREES F,9,MG/L
+07/16/1997,25,FEET,60,DEGREES F,7,MG/L
+07/16/1997,30,FEET,55,DEGREES F,8,MG/L
+07/16/1997,35,FEET,52,DEGREES F,4,MG/L
+07/16/1997,40,FEET,52,DEGREES F,2,MG/L
+08/21/1997,3,FEET,65,DEGREES F,8,MG/L
+08/21/1997,5,FEET,65,DEGREES F,8,MG/L
+08/21/1997,10,FEET,65,DEGREES F,8,MG/L
+08/21/1997,15,FEET,64,DEGREES F,8,MG/L
+08/21/1997,20,FEET,64,DEGREES F,8,MG/L
+08/21/1997,25,FEET,64,DEGREES F,8,MG/L
+08/21/1997,30,FEET,60,DEGREES F,4,MG/L
+08/21/1997,35,FEET,55,DEGREES F,1,MG/L
+08/21/1997,40,FEET,52,DEGREES F,0,MG/L
+10/16/1997,3,FEET,54,DEGREES F,,
+10/16/1997,5,FEET,54,DEGREES F,,
+10/16/1997,10,FEET,54,DEGREES F,,
+10/16/1997,20,FEET,54,DEGREES F,,
+10/16/1997,30,FEET,54,DEGREES F,,
+10/16/1997,35,FEET,54,DEGREES F,,
+04/24/1998,3,FEET,50,DEGREES F,11,MG/L
+04/24/1998,5,FEET,50,DEGREES F,11,MG/L
+04/24/1998,10,FEET,47,DEGREES F,12,MG/L
+04/24/1998,15,FEET,46,DEGREES F,11,MG/L
+04/24/1998,20,FEET,45,DEGREES F,11,MG/L
+04/24/1998,25,FEET,44,DEGREES F,11,MG/L
+04/24/1998,30,FEET,43,DEGREES F,10,MG/L
+04/24/1998,35,FEET,42,DEGREES F,10,MG/L
+04/24/1998,40,FEET,42,DEGREES F,9,MG/L
+06/15/1998,3,FEET,65,DEGREES F,9,MG/L
+06/15/1998,5,FEET,65,DEGREES F,4,MG/L
+06/15/1998,10,FEET,61,DEGREES F,4,MG/L
+06/15/1998,15,FEET,60,DEGREES F,7,MG/L
+06/15/1998,20,FEET,60,DEGREES F,5,MG/L
+06/15/1998,30,FEET,59,DEGREES F,2,MG/L
+06/15/1998,35,FEET,58,DEGREES F,2,MG/L
+06/15/1998,40,FEET,58,DEGREES F,2,MG/L
+08/20/1998,3,FEET,72,DEGREES F,,
+08/20/1998,5,FEET,71,DEGREES F,,
+08/20/1998,10,FEET,70,DEGREES F,,
+08/20/1998,15,FEET,70,DEGREES F,,
+08/20/1998,20,FEET,70,DEGREES F,,
+08/20/1998,25,FEET,70,DEGREES F,,
+08/20/1998,30,FEET,70,DEGREES F,,
+08/20/1998,35,FEET,64,DEGREES F,,
+06/21/2010,3,FEET,71.2,DEGREES F,9.7,MG/L
+06/21/2010,6,FEET,68.2,DEGREES F,10.04,MG/L
+06/21/2010,9,FEET,66.8,DEGREES F,9.95,MG/L
+06/21/2010,12,FEET,66.3,DEGREES F,9.97,MG/L
+06/21/2010,15,FEET,65.8,DEGREES F,9.71,MG/L
+06/21/2010,20,FEET,65.3,DEGREES F,9.54,MG/L
+06/21/2010,25,FEET,64.2,DEGREES F,8.74,MG/L
+06/21/2010,30,FEET,58.3,DEGREES F,6,MG/L
+06/21/2010,35,FEET,55.3,DEGREES F,4.41,MG/L
+06/21/2010,40,FEET,53.2,DEGREES F,1.85,MG/L
+06/21/2010,45,FEET,52.7,DEGREES F,1.77,MG/L
+06/21/2010,50,FEET,52.3,DEGREES F,1.43,MG/L
+06/21/2010,55,FEET,52,DEGREES F,.85,MG/L
+06/21/2010,60,FEET,52,DEGREES F,.14,MG/L
+07/08/2010,3,FEET,75.4,DEGREES F,8.62,MG/L
+07/08/2010,6,FEET,74.2,DEGREES F,8.66,MG/L
+07/08/2010,9,FEET,73.7,DEGREES F,8.69,MG/L
+07/08/2010,12,FEET,73.3,DEGREES F,8.55,MG/L
+07/08/2010,15,FEET,72.1,DEGREES F,8.65,MG/L
+07/08/2010,20,FEET,70.5,DEGREES F,8.19,MG/L
+07/08/2010,25,FEET,66,DEGREES F,5.62,MG/L
+07/08/2010,30,FEET,60.4,DEGREES F,2.86,MG/L
+07/08/2010,35,FEET,56.7,DEGREES F,.66,MG/L
+07/08/2010,40,FEET,54.4,DEGREES F,.07,MG/L
+07/08/2010,45,FEET,53.5,DEGREES F,.03,MG/L
+07/08/2010,50,FEET,53,DEGREES F,0,MG/L
+07/30/2010,3,FEET,74.5,DEGREES F,8.49,MG/L
+07/30/2010,6,FEET,74.6,DEGREES F,8.52,MG/L
+07/30/2010,9,FEET,74.2,DEGREES F,8.53,MG/L
+07/30/2010,12,FEET,73.8,DEGREES F,8.49,MG/L
+07/30/2010,15,FEET,73.2,DEGREES F,8.2,MG/L
+07/30/2010,20,FEET,73,DEGREES F,8.14,MG/L
+07/30/2010,25,FEET,71.6,DEGREES F,6.4,MG/L
+07/30/2010,30,FEET,66.2,DEGREES F,1.36,MG/L
+07/30/2010,35,FEET,59.2,DEGREES F,.11,MG/L
+07/30/2010,40,FEET,56.5,DEGREES F,.06,MG/L
+07/30/2010,45,FEET,55.1,DEGREES F,.04,MG/L
+07/30/2010,50,FEET,54.5,DEGREES F,.03,MG/L
+07/30/2010,55,FEET,54,DEGREES F,.02,MG/L
+08/03/2010,3,FEET,75.5,DEGREES F,8.4,MG/L
+08/03/2010,6,FEET,75.1,DEGREES F,8.46,MG/L
+08/03/2010,9,FEET,74.8,DEGREES F,8.48,MG/L
+08/03/2010,12,FEET,74.4,DEGREES F,8.52,MG/L
+08/03/2010,15,FEET,74.3,DEGREES F,8.52,MG/L
+08/03/2010,20,FEET,74,DEGREES F,8.39,MG/L
+08/03/2010,25,FEET,71.8,DEGREES F,6.16,MG/L
+08/03/2010,30,FEET,69.8,DEGREES F,3.99,MG/L
+08/03/2010,35,FEET,65.3,DEGREES F,.54,MG/L
+08/03/2010,40,FEET,59.5,DEGREES F,.1,MG/L
+08/03/2010,45,FEET,56.7,DEGREES F,.06,MG/L
+08/03/2010,50,FEET,55.1,DEGREES F,.03,MG/L
+08/03/2010,55,FEET,54.7,DEGREES F,.02,MG/L
+08/23/2010,3,FEET,75.5,DEGREES F,8.83,MG/L
+08/23/2010,6,FEET,74.2,DEGREES F,8.85,MG/L
+08/23/2010,9,FEET,72.8,DEGREES F,8.9,MG/L
+08/23/2010,12,FEET,71,DEGREES F,8.65,MG/L
+08/23/2010,15,FEET,70.7,DEGREES F,8.57,MG/L
+08/23/2010,20,FEET,70.1,DEGREES F,8.09,MG/L
+08/23/2010,25,FEET,69.8,DEGREES F,7.34,MG/L
+08/23/2010,30,FEET,69.6,DEGREES F,7.14,MG/L
+08/23/2010,35,FEET,68.9,DEGREES F,5.99,MG/L
+08/23/2010,40,FEET,65.5,DEGREES F,1.09,MG/L
+08/23/2010,45,FEET,59.3,DEGREES F,.1,MG/L
+08/23/2010,50,FEET,57.1,DEGREES F,.04,MG/L
+06/06/2011,3,FEET,65.1,DEGREES F,9.42,MG/L
+06/06/2011,6,FEET,62,DEGREES F,9.72,MG/L
+06/06/2011,9,FEET,60.1,DEGREES F,9.75,MG/L
+06/06/2011,12,FEET,59.2,DEGREES F,9.8,MG/L
+06/06/2011,15,FEET,58.9,DEGREES F,9.68,MG/L
+06/06/2011,20,FEET,58.4,DEGREES F,9.58,MG/L
+06/06/2011,25,FEET,58.2,DEGREES F,9.44,MG/L
+06/06/2011,30,FEET,57.9,DEGREES F,9.36,MG/L
+06/06/2011,35,FEET,57,DEGREES F,8.85,MG/L
+06/06/2011,40,FEET,56.8,DEGREES F,8.63,MG/L
+06/06/2011,45,FEET,56,DEGREES F,7.8,MG/L
+06/06/2011,50,FEET,55.9,DEGREES F,6.52,MG/L
+06/06/2011,55,FEET,55.1,DEGREES F,5.8,MG/L
+07/07/2011,3,FEET,71.7,DEGREES F,9.17,MG/L
+07/07/2011,6,FEET,72.2,DEGREES F,9.14,MG/L
+07/07/2011,9,FEET,72.1,DEGREES F,8.99,MG/L
+07/07/2011,12,FEET,72.1,DEGREES F,8.95,MG/L
+07/07/2011,15,FEET,71.8,DEGREES F,9.36,MG/L
+07/07/2011,20,FEET,69.5,DEGREES F,8.95,MG/L
+07/07/2011,25,FEET,64.7,DEGREES F,6.63,MG/L
+07/07/2011,30,FEET,62.6,DEGREES F,4.65,MG/L
+07/07/2011,35,FEET,60.9,DEGREES F,2.08,MG/L
+07/07/2011,40,FEET,59.3,DEGREES F,.97,MG/L
+07/07/2011,45,FEET,58.7,DEGREES F,.67,MG/L
+07/07/2011,50,FEET,58.4,DEGREES F,.65,MG/L
+07/26/2011,3,FEET,74.2,DEGREES F,8.95,MG/L
+07/26/2011,6,FEET,74.1,DEGREES F,8.84,MG/L
+07/26/2011,9,FEET,74.1,DEGREES F,8.78,MG/L
+07/26/2011,12,FEET,74,DEGREES F,8.58,MG/L
+07/26/2011,15,FEET,74,DEGREES F,8.55,MG/L
+07/26/2011,20,FEET,73.8,DEGREES F,8.33,MG/L
+07/26/2011,25,FEET,69.6,DEGREES F,5.26,MG/L
+07/26/2011,30,FEET,63.8,DEGREES F,1.66,MG/L
+07/26/2011,35,FEET,61.6,DEGREES F,.52,MG/L
+07/26/2011,40,FEET,59.7,DEGREES F,.09,MG/L
+07/26/2011,45,FEET,59.1,DEGREES F,.06,MG/L
+07/26/2011,50,FEET,58.8,DEGREES F,.04,MG/L
+07/26/2011,55,FEET,58.6,DEGREES F,.03,MG/L
+05/23/2012,3,FEET,59.3,DEGREES F,9.6,MG/L
+05/23/2012,6,FEET,59.7,DEGREES F,9.53,MG/L
+05/23/2012,12,FEET,60,DEGREES F,9.44,MG/L
+05/23/2012,15,FEET,60,DEGREES F,9.42,MG/L
+05/23/2012,20,FEET,60.1,DEGREES F,9.39,MG/L
+05/23/2012,25,FEET,59.9,DEGREES F,9.24,MG/L
+05/23/2012,30,FEET,58.3,DEGREES F,8.83,MG/L
+05/23/2012,35,FEET,57.7,DEGREES F,8.34,MG/L
+05/23/2012,40,FEET,54.4,DEGREES F,6.13,MG/L
+05/23/2012,45,FEET,52.9,DEGREES F,4.6,MG/L
+05/23/2012,50,FEET,52.3,DEGREES F,4.35,MG/L
+06/07/2012,3,FEET,70.2,DEGREES F,9.31,MG/L
+06/07/2012,6,FEET,69.3,DEGREES F,9.37,MG/L
+06/07/2012,9,FEET,68.5,DEGREES F,9.48,MG/L
+06/07/2012,12,FEET,66.3,DEGREES F,9.69,MG/L
+06/07/2012,15,FEET,64.8,DEGREES F,9.81,MG/L
+06/07/2012,20,FEET,62.9,DEGREES F,8.57,MG/L
+06/07/2012,25,FEET,62.2,DEGREES F,8.28,MG/L
+06/07/2012,30,FEET,61.2,DEGREES F,7.4,MG/L
+06/07/2012,35,FEET,59,DEGREES F,4.42,MG/L
+06/07/2012,40,FEET,56.8,DEGREES F,2.04,MG/L
+06/07/2012,45,FEET,54.8,DEGREES F,.56,MG/L
+06/07/2012,50,FEET,54.2,DEGREES F,.3,MG/L
+06/07/2012,55,FEET,53.9,DEGREES F,.14,MG/L
+07/10/2012,3,FEET,78,DEGREES F,8.92,MG/L
+07/10/2012,6,FEET,78,DEGREES F,9.04,MG/L
+07/10/2012,9,FEET,77.5,DEGREES F,9.05,MG/L
+07/10/2012,12,FEET,77.2,DEGREES F,9.01,MG/L
+07/10/2012,15,FEET,77,DEGREES F,8.82,MG/L
+07/10/2012,20,FEET,72.9,DEGREES F,6.87,MG/L
+07/10/2012,25,FEET,69.9,DEGREES F,4.1,MG/L
+07/10/2012,30,FEET,66.1,DEGREES F,.76,MG/L
+07/10/2012,35,FEET,63.6,DEGREES F,.07,MG/L
+07/10/2012,40,FEET,62,DEGREES F,.03,MG/L
+07/10/2012,45,FEET,60.8,DEGREES F,.01,MG/L
+07/10/2012,50,FEET,59.9,DEGREES F,0,MG/L
+07/10/2012,55,FEET,59.4,DEGREES F,,
+08/02/2012,3,FEET,77.9,DEGREES F,8.2,MG/L
+08/02/2012,6,FEET,76.7,DEGREES F,8.35,MG/L
+08/02/2012,9,FEET,76.3,DEGREES F,8.35,MG/L
+08/02/2012,12,FEET,76,DEGREES F,8.32,MG/L
+08/02/2012,15,FEET,75.9,DEGREES F,9.27,MG/L
+08/02/2012,20,FEET,75.4,DEGREES F,7.99,MG/L
+08/02/2012,25,FEET,74.2,DEGREES F,4.36,MG/L
+08/02/2012,30,FEET,69.7,DEGREES F,.12,MG/L
+08/02/2012,35,FEET,66,DEGREES F,.04,MG/L
+08/02/2012,40,FEET,62.7,DEGREES F,.02,MG/L
+08/02/2012,45,FEET,60.9,DEGREES F,0,MG/L
+08/02/2012,50,FEET,60.2,DEGREES F,0,MG/L
+08/02/2012,55,FEET,59.7,DEGREES F,0,MG/L
+08/02/2012,60,FEET,56.5,DEGREES F,0,MG/L
+06/11/2013,3,FEET,63.2,DEGREES F,9.74,MG/L
+06/11/2013,6,FEET,62.9,DEGREES F,9.81,MG/L
+06/11/2013,9,FEET,62,DEGREES F,9.77,MG/L
+06/11/2013,12,FEET,60.5,DEGREES F,9.47,MG/L
+06/11/2013,15,FEET,59.2,DEGREES F,9.55,MG/L
+06/11/2013,20,FEET,58,DEGREES F,9.24,MG/L
+06/11/2013,25,FEET,56,DEGREES F,8.57,MG/L
+06/11/2013,30,FEET,50.7,DEGREES F,6.97,MG/L
+06/11/2013,35,FEET,49,DEGREES F,6.25,MG/L
+06/11/2013,40,FEET,47.7,DEGREES F,5.1,MG/L
+06/11/2013,45,FEET,47.1,DEGREES F,4.47,MG/L
+06/11/2013,50,FEET,46.7,DEGREES F,3.99,MG/L
+06/11/2013,55,FEET,46.4,DEGREES F,2.21,MG/L
+07/07/2013,3,FEET,74.6,DEGREES F,8.23,MG/L
+07/07/2013,6,FEET,74.2,DEGREES F,8.26,MG/L
+07/07/2013,9,FEET,73.9,DEGREES F,8.27,MG/L
+07/07/2013,12,FEET,73.4,DEGREES F,8.29,MG/L
+07/07/2013,15,FEET,73.1,DEGREES F,8.3,MG/L
+07/07/2013,20,FEET,66.4,DEGREES F,9.01,MG/L
+07/07/2013,25,FEET,61.1,DEGREES F,8.51,MG/L
+07/07/2013,30,FEET,56,DEGREES F,5.33,MG/L
+07/07/2013,35,FEET,52.6,DEGREES F,2.93,MG/L
+07/07/2013,40,FEET,49.6,DEGREES F,1.08,MG/L
+07/07/2013,45,FEET,48.8,DEGREES F,.47,MG/L
+07/07/2013,50,FEET,48.3,DEGREES F,.2,MG/L
+07/07/2013,55,FEET,48.1,DEGREES F,.07,MG/L
+08/22/2013,3,FEET,71.9,DEGREES F,8.84,MG/L
+08/22/2013,6,FEET,71.9,DEGREES F,8.82,MG/L
+08/22/2013,9,FEET,71.9,DEGREES F,8.8,MG/L
+08/22/2013,12,FEET,71.8,DEGREES F,8.8,MG/L
+08/22/2013,15,FEET,70.7,DEGREES F,8.73,MG/L
+08/22/2013,20,FEET,67.8,DEGREES F,7.74,MG/L
+08/22/2013,25,FEET,66.2,DEGREES F,6.21,MG/L
+08/22/2013,30,FEET,64.9,DEGREES F,5.13,MG/L
+08/22/2013,35,FEET,55.3,DEGREES F,.15,MG/L
+08/22/2013,40,FEET,53.3,DEGREES F,.11,MG/L
+08/22/2013,45,FEET,51.4,DEGREES F,.13,MG/L
+08/22/2013,50,FEET,50.6,DEGREES F,.1,MG/L
+08/22/2013,55,FEET,49.8,DEGREES F,.06,MG/L
+06/29/2014,3,FEET,70.6,DEGREES F,9,MG/L
+06/29/2014,6,FEET,70.3,DEGREES F,8.99,MG/L
+06/29/2014,12,FEET,70.1,DEGREES F,8.96,MG/L
+06/29/2014,15,FEET,70,DEGREES F,8.94,MG/L
+06/29/2014,20,FEET,69.1,DEGREES F,8.9,MG/L
+06/29/2014,25,FEET,67.3,DEGREES F,8.53,MG/L
+06/29/2014,30,FEET,62,DEGREES F,7.63,MG/L
+06/29/2014,35,FEET,59.6,DEGREES F,6.63,MG/L
+06/29/2014,40,FEET,57.7,DEGREES F,6.04,MG/L
+06/29/2014,45,FEET,52.7,DEGREES F,4.27,MG/L
+06/29/2014,50,FEET,50.9,DEGREES F,3.61,MG/L
+
+
+
+Start Date,Fieldwork Comment
+06/21/1993,Has rained for last week and half.    
+08/10/1993,Very little boating or water skiing on the lake.  Some algae bloom.  Clear day.    
+08/24/1993,Lake activity low- not much boating or skiing.    
+09/18/1993,Lake activity very low.  Fishing but no skiing.  The sun is bright- the air temperature is 50 degrees- and the temperature at night is 38 degrees- cool nights.    
+05/25/1995,Too cold for swimming.    
+06/13/1995,Water level: Up from last testing    
+07/09/1995,First day there was sun + didn't have much wind in many a day.  Water was clearest since early spring.    
+07/26/1995,Some algae and bright to cloudy bright.    
+08/23/1995,Public perception 3 for swimming due to schistome.  One of summer's best !    
+09/01/1995,Murky water/possibly from high winds.  Bright day-low humidity/2 days ago.    
+05/30/1996,Ice off- pollen- 1 eagle.    
+07/22/1996,Water temp. 70 degrees-some algae-a good day in the north woods. gentle south wind.    
+07/25/1996,Algae minor to moderate.    
+08/21/1996,Increased algae- good for anything.    
+08/21/1996,Perfect weather- calm- sunny- algae bloom on 8/16/96.    
+10/08/1996,Perfect- calm- clear sky.    
+06/17/1997,Sunny and the wind is 5-10 mph.    
+07/16/1997,Rain gauge reading from 6/16 to 7/17 = 3 3/8 inches.    
+08/21/1997,Rain gauge reading from 7/18 to 8/21 = 4.5 inches.    
+10/16/1997,Rain gauge reading from 8/21 to 10/16 = 6.75 inches.  Surface of water is foamy.    
+04/24/1998,Clear northeast wind at 5 mph.  The temperature is 54 degrees.    
+06/15/1998,Partly cloudy wind 10-15 mph 68 degrees.    
+07/20/1998,LAKE SAMPLE    
+08/19/1998,LAKE SAMPLE    
+08/20/1998,LAKE SAMPLE    
+06/21/2010,Additional volunteer Jackie Fruth(85481) 3mph wind from the S. West partly cloudy with some sun.
+07/08/2010,day after rain fall  
+08/03/2010,Slight Bloom at this location but not as much as Ne Basin weather same.
+06/06/2011,winds 7 mph. not much activity boats-etc.
+07/07/2011,overcast day SW winds 5-7 mph. slight chop. sighting 1 loon near boat 2 fishing boats
+07/26/2011,pollen floating in the water lots of fishing boats- sunny very calm 5 m.p.h.
+05/23/2012,Partly Cloudy 10 mph S.SE.winds
+No wild life very queit lake activity
+06/07/2012,pollen in the water leaving the water a bit murky looking saw 1 loon and 2 fishing boats very calm wind 3 mph.
+07/10/2012,very calm day / bloom on North Twin / spotted 1 loon
+08/02/2012,pollen present SE. winds 5-7 mph partly sunny
+
+not alot of activity on the lake
+06/11/2013,Saw one loon right in front of our boat- a few fisherman but not alot of activity. Weather was partly cloudy and a bit of a chop on the water. All in all a good day for lake monitoring
+07/07/2013,not alot of activity/ very clear
+08/22/2013,NorthEast Winds 7 mph. Very sunny skies some pollem in the water. Stormed the night before 3/4 inch of rain Fishing and SkiingBoats- Beautiful Clear Day saw 3 loons swimming together   Some boating  
+06/29/2014,Winds are picking up partly sunny skies. Rain the night before. Not much activity on the lake 
+06/11/2019,Sunny with thin clouds. Surface temperature 67 degrees. No rain for 2 days!
+06/19/2019,sunny- 8" chop
+07/24/2019,Sunny and clear. 3 inch chop. Water temperature 74.7 degrees F.
+08/17/2019,Sunny and clear. 4" chop.
+09/02/2019,Sunny and clear. Waves calm.
+05/22/2020,3 inch chop. Partly sunny- water temp 55 degrees F- 
+06/25/2020,8 inch chop- Sunny- water temp 66 degrees F- 
+07/20/2020,6 inch chop- mostly cloudy- water temp 75 degrees F- cold front.
+09/01/2020,5 inch chop- Hazy sun
+
+
+
+
+Start Date,Group Name,Project Name
+06/21/1993,Marj Zuleger,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/10/1993,Marj Zuleger,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/24/1993,Marj Zuleger,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+09/18/1993,Marj Zuleger,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+05/25/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+05/30/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/13/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/09/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/26/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/23/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+09/01/1995,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+05/30/1996,Joyce Adams And Ginny Parker,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/22/1996,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/25/1996,Joyce Adams- Ginny Parker- Karl + Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/17/1996,Marj Zuleger,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/21/1996,Joyce Adams,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/21/1996,Joyce Adams- Ginny Parker- Karl + Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+09/02/1996,Marj Zuleger,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+10/08/1996,Karl And Aggie Hettwer and Ginny Parker,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+05/28/1997,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/17/1997,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/16/1997,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/21/1997,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+09/12/1997,Joyce Adams- Ginny Parker- Karl + Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+10/16/1997,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+04/24/1998,John Callewaert,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/15/1998,John Callewaert,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/20/1998,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/19/1998,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/20/1998,Karl And Aggie Hettwer,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/21/2010,Jim Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/08/2010,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/08/2010,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+07/30/2010,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/03/2010,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/23/2010,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/06/2011,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/07/2011,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/26/2011,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+05/23/2012,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/07/2012,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/10/2012,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/02/2012,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/11/2013,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+07/07/2013,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+08/22/2013,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/29/2014,Jim and Jackie Fruth,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 1-Mid / North Central
+06/11/2019,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+06/19/2019,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+07/24/2019,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+08/17/2019,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+09/02/2019,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+05/22/2020,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+06/25/2020,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+07/20/2020,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin
+09/01/2020,David Selby,Citizen Lake Monitoring - Water Quality - North Twin Lake; Site 3-NE Basin

@@ -1,0 +1,711 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Geneva Lake,Walworth,758300,SE,65,,653122,SE,SPRING
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+1,02/25/1975,,,,,10,,46,,,,,,
+41731863,07/20/1978,18,NO,5.5,,,35,,,,,,,
+41731863,02/21/1980,,,,,,,,,,,,,
+8190497,02/12/1986,15,NO,4.6,,,38,,,GAUGE,863.98,,GREEN,
+8190497,04/23/1986,16,NO,4.9,,,37,,,GAUGE,864.3,,BLUE,
+8190497,06/09/1986,23,NO,7,,,32,,,GAUGE,864.5,CLEAR,BLUE,
+8190497,07/16/1986,11,NO,3.3,,,43,,,GAUGE,864.54,CLEAR,BLUE,
+8190497,08/01/1986,11,NO,3.3,,,43,,,,,CLEAR,BLUE,
+8190497,08/20/1986,14,NO,4.3,,,39,,,GAUGE,864.1,CLEAR,BLUE,
+8190497,09/09/1986,9,NO,2.7,,,45,,,GAUGE,864.1,CLEAR,BLUE,
+8190497,09/22/1986,10,NO,3,,,44,,,GAUGE,864.06,CLEAR,BLUE,
+8190497,10/02/1986,9,NO,2.7,,,45,,,GAUGE,864.62,CLEAR,BLUE,
+8190497,10/14/1986,,,,,,,,,GAUGE,864.48,CLEAR,BLUE,
+8190497,10/16/1986,18,NO,5.5,,,35,,,,,,,
+8190497,10/28/1986,,,,,,,,,GAUGE,864.38,CLEAR,BLUE,
+8190497,10/30/1986,18,NO,5.5,,,35,,,,,,,
+8190497,11/25/1986,17.5,NO,5.3,,,36,,,GAUGE,864.34,CLEAR,BLUE,
+8190497,05/06/1987,13,NO,4,,,40,,,GAUGE,864.76,CLEAR,BLUE,
+8190497,06/30/1987,15,NO,4.6,,,38,,,GAUGE,864.43,CLEAR,BLUE,
+8190497,07/20/1987,11.75,NO,3.6,,,42,,,GAUGE,864.47,CLEAR,BLUE,
+8190497,08/07/1987,12,NO,3.6,,,41,,,GAUGE,864.49,CLEAR,BLUE,
+8190497,08/11/1987,11,NO,3.3,,,43,,,GAUGE,864.45,CLEAR,BLUE,
+8190497,08/24/1987,14.75,NO,4.5,,,38,,,GAUGE,864.72,CLEAR,BLUE,
+8190497,09/02/1987,13,NO,4,,,40,,,GAUGE,864.68,CLEAR,BLUE,
+8190497,09/11/1987,14.75,NO,4.5,,,38,,,GAUGE,864.55,CLEAR,BLUE,
+8190497,09/25/1987,16.25,NO,4.9,,,37,,,GAUGE,864.59,CLEAR,BLUE,
+8190497,10/08/1987,15,NO,4.6,,,38,,,GAUGE,864.22,CLEAR,BLUE,
+8190497,05/10/1988,15,NO,4.6,,,38,,,GAUGE,864.52,,BLUE,
+8190497,06/06/1988,28,NO,8.5,,,29,,,GAUGE,864.38,,BLUE,
+8190497,06/22/1988,21,NO,6.4,,,33,,,GAUGE,864.14,,BLUE,
+1,06/28/1988,14.8,,4.5,,20,38,51,,,,,,
+1,07/13/1988,11.8,,3.6,,20,42,51,,,,,,
+8190497,07/13/1988,12,NO,3.6,,,41,,,GAUGE,864.1,,LIMEGREEN,
+1,07/15/1988,11.8,,3.6,2,,42,,40,,,,,
+1,08/03/1988,11.8,,3.6,2,20,42,51,40,,,,,
+8190497,08/03/1988,12,NO,3.6,,,41,,,GAUGE,846.06,,LIMEGREEN,
+1,08/17/1988,6.6,,2,3,20,49,51,43,,,,,
+8190497,08/17/1988,6,NO,1.8,,,51,,,GAUGE,864.06,,LIMEGREEN,
+1,08/31/1988,9.8,,3,5,20,44,51,47,,,,,
+8190497,08/31/1988,11,NO,3.3,,,43,,,GAUGE,864.06,,BLUE,
+1,09/15/1988,9.8,,3,5,20,43,51,47,,,,,
+8190497,09/15/1988,11,NO,3.3,,,43,,,GAUGE,863.82,,BLUE,
+1,10/03/1988,10.7,,3.25,7,20,41,51,50,,,,,
+8190497,10/03/1988,12,NO,3.6,,,41,,,GAUGE,863.92,,BLUE,
+1,10/17/1988,13.1,,4,5,20,40,51,47,,,,,
+8190497,10/17/1988,13,NO,4,,,40,,,GAUGE,863.88,,BLUE,
+1,10/26/1988,13.4,,4.1,4,20,40,51,45,,,,,
+8190497,10/26/1988,13,NO,4,,,40,,,GAUGE,863.88,,BLUE,
+1,11/21/1988,18.4,,5.6,4,20,35,51,45,,,,,
+8190497,11/22/1988,19,NO,5.8,,,35,,,GAUGE,863.88,,BLUE,
+1,12/14/1988,16.4,,5,8,,37,,51,,,,,
+8190497,12/14/1988,16,NO,4.9,,,37,,,GAUGE,864.22,,BLUE,
+1,02/16/1989,14.8,,4.5,4,20,38,51,45,,,,,
+8190833,02/16/1989,14.75,NO,4.5,,,38,,,GAUGE,864.3,,BLUE,
+1,03/22/1989,21.6,,6.6,2,20,33,51,40,,,,,
+8190833,03/23/1989,21.5,NO,6.5,,,33,,,GAUGE,864.3,,BLUE,
+1,04/12/1989,18.7,,5.7,3,10,35,46,43,,,,,
+8190833,04/12/1989,18.25,NO,5.5,,,35,,,GAUGE,864.34,,BLUE,
+1,05/25/1989,9.8,,3,,9,44,45,,,,,,
+8190833,05/25/1989,9.75,NO,3,,,44,,,GAUGE,864.38,,BLUE,
+1,05/26/1989,,,,4,,,,45,,,,,
+1,06/19/1989,9.8,,3,3,10,44,46,43,,,,,
+8190833,06/19/1989,9.75,NO,3,,,44,,,GAUGE,864.48,,BLUE,
+1,06/28/1989,14.8,,4.5,3,,38,,43,,,,,
+8190833,06/28/1989,14.75,NO,4.5,,,38,,,GAUGE,863.39,,BLUE,
+1,07/12/1989,9.8,,3,4,10,44,46,45,,,,,
+8190833,07/12/1989,9.75,NO,3,,,44,,,GAUGE,863.39,,BLUE,
+1,07/26/1989,11.5,,3.5,4,8,42,44,45,,,,,
+8190833,07/26/1989,11.5,NO,3.5,,,42,,,GAUGE,864.34,,BLUE,
+1,08/14/1989,8.2,,2.5,,10,47,46,,,,,,
+8190833,08/14/1989,8.25,NO,2.5,,,47,,,GAUGE,864.38,,BLUE,
+1,08/30/1989,13.1,,4,,10,40,46,,,,,,
+8190833,08/30/1989,13,NO,4,,,40,,,GAUGE,864.38,,BLUE,
+1,09/14/1989,14.1,,4.3,4,10,39,46,45,,,,,
+8190833,09/14/1989,14,NO,4.3,,,39,,,GAUGE,864.67,,BLUE,
+1,09/22/1989,12.5,,3.8,,8,41,44,,,,,,
+1,09/27/1989,15.7,,4.8,,,37,,,,,,,
+8190833,09/27/1989,15.5,NO,4.7,,,38,,,GAUGE,864.3,,BLUE,
+1,09/28/1989,,,,3,,,,43,,,,,
+1,10/09/1989,14.8,,4.5,4,8,38,44,45,,,,,
+8190833,10/09/1989,14.75,NO,4.5,,,38,,,GAUGE,864.21,,BLUE,
+1,10/24/1989,17.2,,5.25,,,36,,,,,,,
+8190833,10/24/1989,17.25,NO,5.2,,,36,,,GAUGE,864.09,,BLUE,
+1,10/25/1989,,,,5,,,,47,,,,,
+1,11/14/1989,17.4,,5.3,5,12,36,47,47,,,,,
+8190833,11/14/1989,17.25,NO,5.2,,,36,,,GAUGE,864.05,,BLUE,
+1,01/15/1990,23.9,,7.3,8,9,31,45,51,,,,,
+1,02/28/1990,17.4,,5.3,8,20,36,51,51,,,,,
+1,04/18/1990,14.1,,4.3,8,9,39,45,51,,,,,
+1,05/30/1990,19,,5.8,4,20,35,51,45,,,,,
+1,03/04/1991,17.1,,5.2,5,,36,,47,,,,,
+1,10/03/1991,9.8,,3,5,,44,,47,,,,,
+1,09/24/1992,14.1,,4.3,4.6,,39,,46,,,,,
+8190497,02/15/1993,14.8,NO,4.5,,,38,,,GAUGE,864.13,CLEAR,BLUE,
+8190497,04/28/1993,10,NO,3,,,44,,,GAUGE,864.47,CLEAR,BLUE,
+8190497,05/13/1993,9,NO,2.7,,,45,,,GAUGE,864.47,CLEAR,BLUE,
+8190497,09/01/1993,13,NO,4,,,40,,,GAUGE,864.38,CLEAR,BLUE,
+8190497,10/14/1993,10,NO,3,,,43,,,GAUGE,864.22,CLEAR,BLUE,
+8190497,11/11/1993,11,NO,3.3,,,42,,,GAUGE,864.05,CLEAR,BLUE,
+8190833,02/01/1994,11.5,NO,3.5,,,42,,,MSL,864.13,,BLUE,
+8190833,02/22/1994,22.15,NO,6.7,,,32,,,MSL,864.22,,BLUE,
+8190833,12/01/1994,15.09,NO,4.6,,,38,,,MSL,864.22,,BLUE,
+1,10/04/1996,13.1,,4,,8,40,44,,,,,,
+1,10/21/1996,9.8,,3,5.77,ND*,44,,48,,,,,
+1,11/19/1996,19,,5.8,6.52,,35,,49,,,,,
+8188630,11/17/1998,,,,1.04,6,,42,35,,,,,
+8188630,12/16/1998,,,,2.92,14,,49,43,,,,,
+8188630,05/19/1999,,,,1,,,,35,,,,,
+8188630,02/08/2000,,,,0.44,8,,44,29,,,,,
+8188630,04/12/2000,,,,2.15,13,,48,41,,,,,
+8188630,05/23/2000,,,,1,11,,47,35,,,,,
+8188630,06/15/2000,,,,2.2,,,,41,,,,,
+8188630,07/12/2000,,,,2,15,,49,40,,,,,
+8188630,08/15/2000,,,,1,10,,46,35,,,,,
+8188630,09/14/2000,,,,4.6,8,,44,46,,,,,
+8188630,10/16/2000,,,,1.9,10,,46,40,,,,,
+8188630,11/15/2000,,,,1,10,,46,35,,,,,
+8188630,04/18/2001,,,,1,10,,45,35,,,,,
+8188630,06/20/2001,,,,1,9,,45,35,,,,,
+8188630,07/16/2001,,,,1,5,,41,35,,,,,
+8188630,08/20/2001,,,,2.3,8,,44,41,,,,,
+8188630,09/11/2001,,,,4,,,,45,,,,,
+8188630,10/22/2001,,,,2.1,13,,48,40,,,,,
+1,04/17/2002,,,,1,8,,44,35,,,,,
+1,06/12/2002,,,,,7,,43,,,,,,
+1,07/17/2002,,,,0.74,8,,44,33,,,,,
+8188630,07/17/2002,,,,0.96,8,,44,34,,,,,
+1,08/14/2002,,,,2.87,10,,46,43,,,,,
+1,09/16/2002,,,,2.96,9,,45,43,,,,,
+1,10/30/2002,,,,10.3,9,,45,52,,,,,
+1,04/14/2003,,,,4.31,11,,47,46,,,,,
+1,06/19/2003,,,,1.63,11,,47,38,,,,,
+1,07/16/2003,,,,2.4,9,,45,41,,,,,
+1,08/12/2003,,,,2.39,11,,47,41,,,,,
+1,10/24/2003,,,,3.54,13,,48,44,,,,,
+1,06/22/2004,,,,4.02,7,,43,45,,,,,
+1,07/20/2004,,,,1.6,8,,44,38,,,,,
+1,08/19/2004,,,,2.65,9,,45,42,,,,,
+1,09/22/2004,,,,2.61,11,,47,42,,,,,
+1,11/16/2004,,,,5.54,16,,50,48,,,,,
+1,04/14/2005,,,,3.63,9,,45,45,,,,,
+1,06/16/2005,,,,2.15,10,,46,41,,,,,
+1,07/13/2005,,,,3.9,11,,47,45,,,,,
+1,08/16/2005,,,,2.34,10,,46,41,,,,,
+1,09/20/2005,,,,2.9,12,,47,43,,,,,
+1,11/14/2005,,,,2.78,57,,59,43,,,,,
+1,04/17/2006,,,,2.58,8,,44,42,,,,,
+1,06/13/2006,,,,0.44,10,,46,29,,,,,
+1,07/20/2006,,,,2.72,11,,47,42,,,,,
+1,08/15/2006,,,,1.15,12,,47,36,,,,,
+1,09/21/2006,,,,4.44,14,,49,46,,,,,
+1,11/20/2006,,,,1.75,14,,49,39,,,,,
+8188630,04/16/2007,,,,3.49,8,,44,44,,,,,
+8188630,06/12/2007,,,,1,ND*,,,35,,,,,
+8188630,07/18/2007,,,,1.38,9,,45,37,,,,,
+8188630,08/22/2007,,,,2.16,8,,44,41,,,,,
+8188630,09/19/2007,,,,3.29,8,,44,44,,,,,
+8188630,11/13/2007,,,,8.36,10,,46,51,,,,,
+8188630,04/23/2008,,,,1.68,24,,53,39,,,,,
+8188630,06/23/2008,,,,3.24,8,,44,44,,,,,
+8188630,07/23/2008,,,,1.99,10,,46,40,,,,,
+8188630,08/18/2008,,,,2.32,15,,49,41,,,,,
+8188630,09/17/2008,,,,4.38,11,,47,46,,,,,
+8188630,11/18/2008,,,,3.31,12,,47,44,,,,,
+8188630,04/09/2009,,,,1.53,11,,47,38,,,,,
+8188630,06/11/2009,,,,1.81,11,,47,39,,,,,
+8188630,07/16/2009,,,,3.65,11,,47,45,,,,,
+8188630,08/11/2009,,,,3.04,12,,47,43,,,,,
+8188630,09/15/2009,,,,2.05,8,,44,40,,,,,
+8188630,11/03/2009,,,,3.14,12,,47,43,,,,,
+8188630,08/19/2010,,,,2.61,10,,46,42,,,,,
+1,04/13/2011,,,,2.9,12,,47,43,,,,,
+1,06/21/2011,,,,2.82,9,,45,43,,,,,
+8188630,07/19/2011,,,,2.77,7,,43,43,,,,,
+8188630,08/17/2011,,,,3.19,10,,46,44,,,,,
+8188630,09/07/2011,,,,2.96,14,,49,43,,,,,
+8188630,11/23/2011,,,,1.57,16,,50,38,,,,,
+1,04/11/2012,,,,2.08,6,,42,40,,,,,
+1,06/27/2012,,,,2.38,12,,47,41,,,,,
+1,07/24/2012,,,,3.1,13,,48,43,,,,,
+1,08/22/2012,,,,4,10,,46,45,,,,,
+1,09/25/2012,,,,4.7,13,,48,46,,,,,
+1,11/20/2012,,,,3.48,19,,51,44,,,,,
+1,04/30/2013,,,,4.31,39.9,,57,46,,,,,
+1,08/14/2013,,,,3.28,ND*,,,44,,,,,
+1,09/27/2013,,,,1.84,12.4,,48,39,,,,,
+1,11/19/2013,,,,1.9,15.1,,49,40,,,,,
+1,03/04/2014,,,,,16.7,,50,,,,,,
+1,05/13/2014,,,,3.32,9.65,,46,44,,,,,
+1,06/26/2014,,,,2.38,10.6,,46,41,,,,,
+7000126,07/21/2014,,,,1.97,6.82,,43,40,,,,,
+1,07/29/2014,,,,2.65,10.6,,46,42,,,,,
+1,08/19/2014,,,,2.77,10.5,,46,43,,,,,
+1,09/09/2014,,,,3.41,11.4,,47,44,,,,,
+89214715,09/23/2014,,,,2.1,13,,48,40,,,,,
+1,11/05/2014,,,,3.23,13.6,,48,44,,,,,
+1,04/27/2015,,,,2.04,12.8,,48,40,,,,,
+1,06/10/2015,,,,1.4,11.5,,47,37,,,,,
+1,07/08/2015,,,,3.17,12.7,,48,44,,,,,
+89214715,07/08/2015,,,,3.19,12.3,,48,44,,,,,
+1,08/04/2015,,,,1.04,9.05,,45,35,,,,,
+1,10/06/2015,,,,2.78,9.75,,46,43,,,,,
+1,11/03/2015,,,,3.16,15,,49,43,,,,,
+1,04/13/2016,,,,4.28,16.1,,50,46,,,,,
+1,06/23/2016,,,,2.04,12.3,,48,40,,,,,
+1,07/19/2016,,,,0.474,12.4,,48,29,,,,,
+1,08/10/2016,,,,1.34,15.4,,49,37,,,,,
+1,09/14/2016,,,,3.2,9.36,,45,44,,,,,
+1,11/09/2016,,,,4.37,18.4,,51,46,,,,,
+1,04/17/2017,,,,1.95,13,,48,40,,,,,
+1,07/20/2017,,,,1.85,13.2,,46,39,,,,,
+1,08/09/2017,,,,2.08,13.7,,48,40,,,,,
+1,11/07/2017,,,,3.15,17.7,,50,43,,,,,
+1,04/25/2018,,,,4.29,12.5,,48,46,,,,,
+1,06/14/2018,,,,2.61,10.9,,47,42,,,,,
+1,07/11/2018,,,,1.14,8.32,,45,36,,,,,
+1,08/09/2018,,,,2.63,8.35,,45,42,,,,,
+1,08/14/2018,,,,,,,,,,,,,
+1,09/25/2018,,,,3.12,11.4,,47,43,,,,,
+1,10/15/2018,,,,,,,,,,,,,
+1,10/24/2018,,,,,,,,,,,,,
+1,11/14/2018,,,,2.9,,,,43,,,,,
+1,02/22/2019,,,,,,,,,,,,,
+1,05/01/2019,,,,3.1,10.9,,47,43,,,,,
+1,06/12/2019,,,,,,,,,,,,,
+1,06/20/2019,,,,4.42,14.4,,49,46,,,,,
+1,07/09/2019,,,,1.89,10.7,,47,40,,,,,
+1,08/07/2019,,,,1.79,12.8,,48,39,,,,,
+1,08/21/2019,,,,,,,,,,,,,
+1,10/17/2019,,,,,,,,,,,,,
+1,11/05/2019,,,,1.74,17.4,,50,39,,,,,
+1,04/28/2020,,,,6.25,9.71,,46,49,,,,,
+1,06/09/2020,,,,,,,,,,,,,
+1,06/18/2020,,,,2.36,9.31,,45,41,,,,,
+1,07/22/2020,,,,3.18,13.4,,48,44,,,,,
+1,09/16/2020,,,,4.88,15.9,,50,47,,,,,
+1,10/21/2020,,,,,,,,,,,,,
+143167470,11/19/2020,,,,1.05,14.8,,49,35,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+02/25/1975,,,1.94444,C,10.6,MG/L
+07/20/1978,0,FEET,25.5,DEGREES C,7.5,MG/L
+07/20/1978,2,FEET,24.5,DEGREES C,7.5,MG/L
+07/20/1978,5,FEET,24,DEGREES C,7.3,MG/L
+07/20/1978,20,FEET,23.5,DEGREES C,7.3,MG/L
+07/20/1978,21,FEET,23.5,DEGREES C,7.1,MG/L
+07/20/1978,23,FEET,23,DEGREES C,7.1,MG/L
+07/20/1978,24,FEET,23,DEGREES C,7,MG/L
+07/20/1978,25,FEET,22.5,DEGREES C,6.9,MG/L
+07/20/1978,26,FEET,21,DEGREES C,6.7,MG/L
+07/20/1978,27,FEET,20.5,DEGREES C,6.7,MG/L
+07/20/1978,28,FEET,20,DEGREES C,6.7,MG/L
+07/20/1978,29,FEET,19.5,DEGREES C,6.7,MG/L
+07/20/1978,30,FEET,19,DEGREES C,6.7,MG/L
+07/20/1978,31,FEET,18.5,DEGREES C,6.7,MG/L
+07/20/1978,32,FEET,18,DEGREES C,6.5,MG/L
+07/20/1978,33,FEET,17,DEGREES C,6.3,MG/L
+07/20/1978,34,FEET,16,DEGREES C,6,MG/L
+07/20/1978,35,FEET,15,DEGREES C,5.8,MG/L
+07/20/1978,36,FEET,14,DEGREES C,5.8,MG/L
+07/20/1978,37,FEET,13,DEGREES C,5.8,MG/L
+07/20/1978,39,FEET,12.5,DEGREES C,5.8,MG/L
+07/20/1978,40,FEET,12,DEGREES C,5.8,MG/L
+07/20/1978,43,FEET,11.5,DEGREES C,5.8,MG/L
+07/20/1978,45,FEET,11,DEGREES C,5.5,MG/L
+07/20/1978,46,FEET,10.5,DEGREES C,5.5,MG/L
+07/20/1978,47,FEET,10,DEGREES C,5.5,MG/L
+07/20/1978,49,FEET,9.5,DEGREES C,5.5,MG/L
+07/20/1978,52,FEET,9,DEGREES C,5.5,MG/L
+07/20/1978,54,FEET,9,DEGREES C,5.6,MG/L
+07/20/1978,57,FEET,8.5,DEGREES C,5.6,MG/L
+07/20/1978,58,FEET,8,DEGREES C,5.8,MG/L
+07/20/1978,61,FEET,8,DEGREES C,5.7,MG/L
+07/20/1978,63,FEET,8.5,DEGREES C,5.7,MG/L
+07/20/1978,66,FEET,8.5,DEGREES C,5.4,MG/L
+07/20/1978,71,FEET,8.5,DEGREES C,5.6,MG/L
+07/20/1978,75,FEET,8.5,DEGREES C,5.4,MG/L
+07/20/1978,77,FEET,7.5,DEGREES C,5.4,MG/L
+07/20/1978,79,FEET,7.5,DEGREES C,5.6,MG/L
+07/20/1978,81,FEET,7.5,DEGREES C,5.4,MG/L
+07/20/1978,83,FEET,7.5,DEGREES C,5.2,MG/L
+07/20/1978,84,FEET,7.5,DEGREES C,4.8,MG/L
+07/20/1978,87,FEET,7,DEGREES C,4.8,MG/L
+07/20/1978,88,FEET,7,DEGREES C,5.1,MG/L
+07/20/1978,91,FEET,7,DEGREES C,5,MG/L
+07/20/1978,93,FEET,7,DEGREES C,4.9,MG/L
+07/20/1978,95,FEET,7,DEGREES C,4.8,MG/L
+07/20/1978,98,FEET,7,DEGREES C,4.9,MG/L
+07/20/1978,100,FEET,11,DEGREES C,4.8,MG/L
+07/20/1978,105,FEET,10,DEGREES C,6.9,MG/L
+07/20/1978,110,FEET,10,DEGREES C,5.8,MG/L
+07/20/1978,115,FEET,11,DEGREES C,5,MG/L
+07/20/1978,120,FEET,10,DEGREES C,3.2,MG/L
+07/20/1978,125,FEET,10,DEGREES C,2.1,MG/L
+07/20/1978,130,FEET,10,DEGREES C,1.6,MG/L
+07/20/1978,135,FEET,11.5,DEGREES C,1.7,MG/L
+02/21/1980,0,FEET,0,DEGREES C,15.5,MG/L
+02/21/1980,3,FEET,0,DEGREES C,15,MG/L
+02/21/1980,4,FEET,0,DEGREES C,15.1,MG/L
+02/21/1980,28,FEET,0,DEGREES C,15,MG/L
+02/21/1980,32,FEET,0,DEGREES C,14.9,MG/L
+02/21/1980,36,FEET,0,DEGREES C,14.8,MG/L
+02/21/1980,40,FEET,0,DEGREES C,14.7,MG/L
+02/21/1980,42,FEET,0,DEGREES C,14.6,MG/L
+02/21/1980,52,FEET,0,DEGREES C,14.4,MG/L
+02/21/1980,53,FEET,0,DEGREES C,14.3,MG/L
+02/21/1980,60,FEET,0,DEGREES C,14.2,MG/L
+02/21/1980,62,FEET,0,DEGREES C,14.1,MG/L
+02/21/1980,64,FEET,0,DEGREES C,14,MG/L
+02/21/1980,66,FEET,0,DEGREES C,13.8,MG/L
+02/21/1980,70,FEET,1,DEGREES C,13.8,MG/L
+02/21/1980,74,FEET,1,DEGREES C,13.7,MG/L
+02/21/1980,76,FEET,1,DEGREES C,13.6,MG/L
+02/21/1980,86,FEET,1,DEGREES C,13.4,MG/L
+02/21/1980,88,FEET,1,DEGREES C,13.2,MG/L
+02/21/1980,96,FEET,1,DEGREES C,13,MG/L
+02/21/1980,100,FEET,1,DEGREES C,12.8,MG/L
+02/21/1980,105,FEET,1,DEGREES C,12.6,MG/L
+02/21/1980,110,FEET,1,DEGREES C,12.4,MG/L
+02/21/1980,115,FEET,1,DEGREES C,11.4,MG/L
+02/21/1980,120,FEET,1,DEGREES C,11.2,MG/L
+02/21/1980,125,FEET,1,DEGREES C,9.5,MG/L
+02/21/1980,130,FEET,2,DEGREES C,8.8,MG/L
+06/28/1988,,,23,C,9.9,MG/L
+07/13/1988,,,11.5,C,1.0,MG/L
+07/15/1988,,,24.75,C,10.2,MG/L
+08/03/1988,,,13.5,C,5.5,MG/L
+08/17/1988,,,10.0,C,0.0,MG/L
+08/31/1988,,,10.5,C,0.0,MG/L
+09/15/1988,,,10.75,C,0.0,MG/L
+10/03/1988,,,18,C,9.1,MG/L
+10/17/1988,,,13.0,C,0.2,MG/L
+10/26/1988,,,11,C,8.5,MG/L
+11/21/1988,,,8.0,C,10.0,MG/L
+12/14/1988,,,5,C,12.1,MG/L
+02/16/1989,,,0.5,C,14.0,MG/L
+03/22/1989,,,1.5,C,13.5,MG/L
+04/12/1989,,,2.75,C,12.5,MG/L
+05/25/1989,,,15,C,11.8,MG/L
+06/19/1989,,,13,C,10.3,MG/L
+06/28/1989,,,11,C,10.4,MG/L
+07/12/1989,,,14,C,11.4,MG/L
+07/26/1989,,,15,C,1.5,MG/L
+08/14/1989,,,12.0,C,1.0,MG/L
+08/30/1989,,,19.5,C,4.0,MG/L
+09/14/1989,,,13,C,0.0,MG/L
+09/22/1989,,,17,C,9.1,MG/L
+09/27/1989,,,10.5,C,0.0,MG/L
+10/09/1989,,,10,C,0.0,MG/L
+10/24/1989,,,10.0,C,0.0,MG/L
+11/14/1989,,,6.0,C,10.5,MG/L
+01/15/1990,,,0,C,11.8,MG/L
+02/28/1990,,,0,C,12.9,MG/L
+04/18/1990,,,3.0,C,12.2,MG/L
+05/30/1990,,,10.5,C,10.4,MG/L
+03/04/1991,,,0,C,12.0,MG/L
+10/03/1991,,,,,17.0,MG/L
+09/24/1992,,,18,C,9.0,MG/L
+10/04/1996,,,11.5,C,1.0,MG/L
+10/21/1996,,,11.5,C,0.1,MG/L
+11/19/1996,,,8.0,C,9.7,MG/L
+08/14/2018,,,12.8,C,,
+10/15/2018,,,14.6,C,,
+10/24/2018,,,10.0,C,,
+02/22/2019,,,0.9,C,,
+06/12/2019,,,1.0,C,,
+08/21/2019,,,10.5,C,,
+10/17/2019,,,10.9,C,,
+06/09/2020,,,10.0,C,,
+10/21/2020,,,12.8,C,,
+
+
+
+Start Date,Fieldwork Comment
+02/25/1975,Migrated from EPA STORET Legacy Database- originally reported by Wisconsin DNR    
+02/21/1980,10" ice
+11/25/1986,No time entered in data- assumed noon    
+05/06/1987,Clear- light breeze from SW at 5-7 mph- surface temp 10.5c- air 16.5c- not stratified with defined thermocline.    
+06/30/1987,Thermocline 32.8 to 52.5 feet- partly sunny- east wind- water temperature is 24 degrees Celsius- and the air temperature is 27 degrees Celsius.    
+07/20/1987,Thermocline 32.8 to 52.5 feet- partly sunny- east wind- water temperature is 24 degrees Celsius- and the air temperature is 27 degrees Celsius.    
+08/07/1987,Thermocline at 26-52'-  less than 2 mg/l do at 111.52'- anoxic at 137.76'- mostly sunny- calm- air temp. 26.5c- water temp. 27c.    
+08/11/1987,Thermocline 32-52 feet-  less than 2 mg/l do at 101.68'- anoxic at 144.32'- partly sunny- hazy- wind west-southwest 5-7 mph- air temp. 29c- water temp. 22.5c.    
+08/24/1987,Thermocline at 36-50':  less than 2 mg/l of do below 101.68'- anoxic at 137.75- h2s odor at 131.2'- cloudy- waves 6-9"- light wind- air temp. 19.25c- water 24c.    
+09/02/1987,Thermocline 42.6-55.8'-  less than 2 mg/l of do below 88.6'- anoxic below 137.75'- surface water temp. 21.25c- light overcast- high cirrus clouds- wind east-northeast 10-12 mph- air 18.25c.    
+09/11/1987,Thermocline 39-99'-  less than 2 mg/l do below 72'- anoxic below 137.75'- water temp. 22.5c- air 25c- mostly sunny- light breeze.    
+09/25/1987,Thermocline 46-56'-  less than 2 mg/l of do in all of hypolimnion- anoxic at 131.2'- clear- calm- air temp. 20c- surface water temp. 20c.    
+10/08/1987,Thermocline 56-62' deep-  less than 2 mg/l of do below Thermocline- anoxic at 114.8'- sunny- clear- light breeze- air 12.5c- water 15c.    
+05/10/1988,75% clear- waves 9-12".    
+06/06/1988,Clear- 6" waves    
+06/22/1988,Clear- 12" waves    
+07/13/1988,Clear- 12" waves    
+08/03/1988,90% clear- waves  less than 6".    
+08/17/1988,COMPOSITE SURFACE: 1M-2M-3M    
+08/17/1988,Clear- hot- waves 9-12"    
+08/31/1988,Clear- hot- waves 9-12"    
+09/15/1988,85% clear- waves 9".    
+10/03/1988,50% clear- waves  less than 6".    
+10/17/1988,100% cloudy- rain- waves  less than 6".    
+10/26/1988,90% clear- waves 9-12".    
+11/22/1988,100% cloudy- waves 6".    
+12/14/1988,100% clear- 12-18" waves.    
+02/16/1989,6 in. ice- 5 in. snow.    
+03/23/1989,12 in. ice- .5 in. snow.    
+04/12/1989,35% cloud cover- 9-12 in. waves.    
+05/25/1989,Overcast- calm    
+06/19/1989,55% cloud cover- 9-12 in. waves.    
+06/28/1989,1% cloud cover- 12-15 in. waves.    
+07/12/1989,60% cloud cover- 12 in. waves.    
+07/26/1989,50% cloud cover- 6-9 in. waves- just rained.    
+08/14/1989,Overcast- 12-18 in. waves    
+08/30/1989,30% cloud cover- waves  less than 6 in.    
+09/14/1989,50% cloud cover- 12-18 in. waves.    
+09/27/1989,Clear- calm    
+10/09/1989,2 LITER EACH FROM SURFACE-1M-2M-3M WITH 2 LITER OF COMPOSITE SENT    
+10/09/1989,Clear- hazy- 9-12 in. waves    
+10/24/1989,Clear- calm    
+11/14/1989,Overcast- 12-18 in. waves- light drizzle    
+02/28/1990,2 LITER COMPOSITE OF 2 LITER FROM EACH SURFACE-1M-2M-3M    
+03/04/1991,SURFACE- 1M- 2M- 3M    
+02/15/1993,10" ice- 50% snow cover- light cloud cover    
+04/28/1993,Cirrus clouds- 90% clear- wind  less than 5 mph- surface calm    
+05/13/1993,Clear- n-northeast wind 7-10mph- 6" waves    
+09/01/1993,Calm-  less than 5 % clouds- clear- light SW wind  less than  5 mph    
+10/14/1993,75% clear- SW 15-18 mph wind- great surface disturbance.    
+11/11/1993,Clear- sunny- SE wind  less than 18 mph    
+02/01/1994,Mostly cloudy- SW wind- 21 ice- 4" snow.    
+02/22/1994,Cloudy- moderate NW wind- clear ice.    
+12/01/1994,Southwest 12-16 mph wind- partly cloudy.    
+04/17/2002,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+06/12/2002,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+07/17/2002,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+08/14/2002,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+09/16/2002,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+10/30/2002,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+04/14/2003,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+06/19/2003,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+07/16/2003,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+08/12/2003,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+10/24/2003,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+06/22/2004,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+07/20/2004,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+08/19/2004,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+09/22/2004,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+11/16/2004,GENEVA LAKE AT WEST END NEAR WILLIAMS BAY WI    
+04/14/2005,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+06/16/2005,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+07/13/2005,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+08/16/2005,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+09/20/2005,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+11/14/2005,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+04/17/2006,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+06/13/2006,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+07/20/2006,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+08/15/2006,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+09/21/2006,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+11/20/2006,LAKE GENEVA AT WEST END NEAR WILLIAMS BAY WI    
+
+
+
+
+Start Date,Group Name,Project Name
+02/25/1975,Data Collectors,Migrated from STORET Legacy
+07/20/1978,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/21/1980,Ron Piening,Lake Sampling Southeast Region DNR - 1970s
+02/12/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+04/23/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+06/09/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+07/16/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/01/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/20/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/09/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/22/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/02/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/14/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/16/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/28/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/30/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+11/25/1986,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+05/06/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+06/30/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+07/20/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/07/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/11/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/24/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/02/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/11/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/25/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/08/1987,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+05/10/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+06/06/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+06/22/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+06/28/1988,Data Collectors,LAKE EVALUATION
+07/13/1988,Data Collectors,LAKE EVALUATION
+07/13/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+07/13/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+07/15/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/03/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/03/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/17/1988,Data Collectors,Lake Baseline Monitoring- DNR (1970s-2006)
+08/17/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/31/1988,Data Collectors,LAKE EVALUATION
+08/31/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/15/1988,Data Collectors,AMBIENT MONITORING - STREAMS 1988
+09/15/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/03/1988,Data Collectors,LAKE EVALUATION
+10/03/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/17/1988,Data Collectors,LAKE EVALUATION
+10/17/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/26/1988,Data Collectors,LAKE EVALUATION
+10/26/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+11/21/1988,Data Collectors,LAKE EVALUATION
+11/22/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+12/14/1988,Data Collectors,LAKE EVALUATION
+12/14/1988,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+02/16/1989,Data Collectors,LAKE EVALUATION
+02/16/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+03/22/1989,Data Collectors,LAKE EVALUATION
+03/23/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+04/12/1989,Data Collectors,LAKE EVALUATION
+04/12/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+05/25/1989,Data Collectors,LAKE EVALUATION
+05/25/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+05/26/1989,Data Collectors,LAKE EVALUATION
+06/19/1989,Data Collectors,LAKE EVALUATION
+06/19/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+06/28/1989,Data Collectors,LAKE EVALUATION
+06/28/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+07/12/1989,Data Collectors,LAKE EVALUATION
+07/12/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+07/26/1989,Data Collectors,LAKE EVALUATION
+07/26/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/14/1989,Data Collectors,LAKE EVALUATION
+08/14/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+08/30/1989,Data Collectors,LAKE EVALUATION
+08/30/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/14/1989,Data Collectors,LAKE EVALUATION
+09/14/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/22/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+09/27/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+09/27/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/28/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+10/09/1989,Data Collectors,LAKE EVALUATION
+10/09/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/24/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+10/24/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/25/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+11/14/1989,Data Collectors,BASIC AGREEMENT 1988 (1895 fieldwork events)
+11/14/1989,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+01/15/1990,Data Collectors,LAKE EVALUATION
+02/28/1990,Data Collectors,LAKE EVALUATION
+04/18/1990,Data Collectors,LAKE EVALUATION
+05/30/1990,Data Collectors,LAKE EVALUATION
+03/04/1991,Data Collectors,LAKE EVALUATION
+10/03/1991,Data Collectors,LAKE EVALUATION
+09/24/1992,Data Collectors,LAKE MGT PROJECTS
+02/15/1993,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+04/28/1993,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+05/13/1993,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+09/01/1993,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/14/1993,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+11/11/1993,Ted Peters,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+02/01/1994,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+02/22/1994,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+12/01/1994,Geneva Lake Environmental Agency,Citizen Lake Monitoring - Water Quality - Geneva Lake - Deep Hole-Site A
+10/04/1996,Data Collectors,NONPOINT SOURCE
+10/21/1996,Data Collectors,NONPOINT SOURCE
+11/19/1996,Data Collectors,NONPOINT SOURCE
+11/17/1998,USGS,LAKE PROTECTION GRANTS
+12/16/1998,USGS,LAKE PROTECTION GRANTS
+05/19/1999,USGS,
+02/08/2000,USGS,
+04/12/2000,USGS,
+05/23/2000,USGS,
+06/15/2000,USGS,GENEVA LAKE
+07/12/2000,USGS,GENEVA LAKE
+08/15/2000,USGS,GENEVA LAKE
+09/14/2000,USGS,GENEVA LAKE
+10/16/2000,USGS,GENEVA LAKE
+11/15/2000,USGS,GENEVA LAKE
+04/18/2001,USGS,GENEVA LAKE
+06/20/2001,USGS,GENEVA LAKE
+07/16/2001,USGS,GENEVA LAKE
+08/20/2001,USGS,GENEVA LAKE
+09/11/2001,USGS,GENEVA LAKE
+10/22/2001,USGS,GENEVA LAKE ENV. AGENCY
+04/17/2002,Data Collectors,GENEVA LAKE ENV. AGENCY
+06/12/2002,Data Collectors,GENEVA LAKE ENV. AGENCY
+07/17/2002,Data Collectors,GENEVA LAKE ENV. AGENCY
+07/17/2002,USGS,GENEVA LAKE ENV. AGENCY
+08/14/2002,Data Collectors,GENEVA LAKE ENV. AGENCY
+09/16/2002,Data Collectors,GENEVA LAKE ENV. AGENCY
+10/30/2002,Data Collectors,GENEVA LAKE ENV. AGENCY
+04/14/2003,Data Collectors,GENEVA LAKE ENV. AGENCY
+06/19/2003,Data Collectors,GENEVA LAKE ENV. AGENCY
+07/16/2003,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/12/2003,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+10/24/2003,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/22/2004,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/20/2004,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/19/2004,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/22/2004,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/16/2004,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/14/2005,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/16/2005,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/13/2005,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/16/2005,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/20/2005,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/14/2005,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/17/2006,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/13/2006,Data Collectors,
+07/20/2006,Data Collectors,
+08/15/2006,Data Collectors,
+09/21/2006,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/20/2006,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/16/2007,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+06/12/2007,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+07/18/2007,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+08/22/2007,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+09/19/2007,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+11/13/2007,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+04/23/2008,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+06/23/2008,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+07/23/2008,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+08/18/2008,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+09/17/2008,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+11/18/2008,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+04/09/2009,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+06/11/2009,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+07/16/2009,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+08/11/2009,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+09/15/2009,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+11/03/2009,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+08/19/2010,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+04/13/2011,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/21/2011,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/19/2011,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+08/17/2011,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+09/07/2011,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+11/23/2011,USGS,GENEVA LAKE ENVIRONMENTAL AGEN
+04/11/2012,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/27/2012,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/24/2012,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/22/2012,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/25/2012,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/20/2012,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/30/2013,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/14/2013,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/27/2013,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/19/2013,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+03/04/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+05/13/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/26/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/21/2014,STEVEN GREB,Optical  Properties of WI Lakes 2011 - 2016
+07/29/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/19/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/09/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/23/2014,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 2016
+11/05/2014,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/27/2015,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/10/2015,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/08/2015,DANIELA GURLIN,Optical  Properties of WI Lakes 2011 - 2016
+07/08/2015,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/04/2015,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+10/06/2015,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/03/2015,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/13/2016,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/23/2016,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/19/2016,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/10/2016,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/14/2016,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/09/2016,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/17/2017,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/20/2017,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/09/2017,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+11/07/2017,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/25/2018,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/14/2018,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/11/2018,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/09/2018,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/14/2018,Data Collectors,Bacteria + Plankton (Paid Private)
+09/25/2018,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+10/15/2018,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+10/24/2018,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+11/14/2018,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+02/22/2019,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+05/01/2019,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/12/2019,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+06/20/2019,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/09/2019,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/07/2019,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+08/21/2019,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+10/17/2019,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+11/05/2019,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+04/28/2020,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+06/09/2020,Data Collectors,Bacteria + Plankton (Paid Private)
+06/18/2020,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+07/22/2020,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+09/16/2020,Data Collectors,GENEVA LAKE ENVIRONMENTAL AGEN
+10/21/2020,Data Collectors,Chloride Impact Study for the Southeastern Wisconsin Region
+11/19/2020,ZANA SIJAN,USGS Monitoring - Delavan Lake

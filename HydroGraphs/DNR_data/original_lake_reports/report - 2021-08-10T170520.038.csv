@@ -1,0 +1,310 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+St Croix Flowage ,Douglas,2740300,NO,16,,10031157,NW,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8191428,04/28/2010,9,NO,2.7,,,45,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191428,05/25/2010,10.5,NO,3.2,,,43,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191428,06/29/2010,10,NO,3,,,44,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,07/12/2010,10,NO,3,,,44,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,07/26/2010,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191428,08/23/2010,7.5,NO,2.3,,,48,,,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191428,09/28/2010,6,NO,1.8,,,51,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191428,10/08/2010,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,10/11/2010,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,05/17/2011,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,YELLOW,3-Enjoyment somewhat impaired (algae)
+8191428,06/09/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191428,06/28/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191428,07/08/2011,14,NO,4.3,,,39,,,NORMAL,,CLEAR,BROWN,1-Beautiful, could not be nicer
+8191428,07/24/2011,9.5,NO,2.9,,,45,,,NORMAL,,MURKY,GREEN,2-Very minor aesthetic problems
+8191428,08/10/2011,6,NO,1.8,,,51,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191428,08/23/2011,9,YES,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,10/06/2011,15,NO,4.6,,,38,,,LOW,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191428,10/21/2011,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8191428,04/12/2012,11,NO,3.3,,,43,,,LOW,,MURKY,YELLOW,1-Beautiful, could not be nicer
+8191428,06/06/2012,11,NO,3.3,,,43,,,LOW,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191428,07/09/2012,12,NO,3.6,,,41,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,08/06/2012,7.5,NO,2.3,,,48,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191428,08/28/2012,13,NO,4,,,40,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,05/27/2013,7,YES,2.1,,,49,,,LOW,,MURKY,YELLOW,1-Beautiful, could not be nicer
+8191428,06/24/2013,9,NO,2.7,,,45,,,HIGH,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191428,07/10/2013,7,NO,2.1,,,49,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,07/23/2013,9.5,NO,2.9,,,45,,,LOW,,MURKY,YELLOW,1-Beautiful, could not be nicer
+8191428,08/26/2013,11,NO,3.3,,,43,,,LOW,,MURKY,GREEN,2-Very minor aesthetic problems
+8191428,09/16/2013,13,NO,4,,,40,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,06/16/2014,11,NO,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,07/28/2014,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,08/12/2014,12,NO,3.6,,,41,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,09/23/2014,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,05/04/2015,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,06/12/2015,13,NO,4,,,40,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,07/27/2015,12,NO,3.6,,,41,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191428,09/01/2015,11,NO,3.3,,,43,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,09/30/2015,10.5,NO,3.2,,,43,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,05/08/2016,9,NO,2.7,,,45,,,LOW,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8191428,06/21/2016,10,NO,3,,,44,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191428,08/01/2016,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,08/31/2016,12,NO,3.6,,,41,,,LOW,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,10/16/2016,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191428,06/05/2017,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,07/24/2017,11.5,NO,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,08/15/2017,14,NO,4.3,,,39,,,LOW,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191428,10/08/2017,8,NO,2.4,,,47,,,LOW,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191428,06/25/2018,6,NO,1.8,,,51,,,NORMAL,,MURKY,BROWN,1-Beautiful, could not be nicer
+8191428,07/23/2018,9,NO,2.7,,,45,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,09/11/2018,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,2-Very minor aesthetic problems
+8191428,06/18/2019,13,YES,4,,,40,,,NORMAL,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191428,07/22/2019,7,NO,2.1,,,49,,,NORMAL,,MURKY,YELLOW,2-Very minor aesthetic problems
+8191428,08/12/2019,12,NO,3.6,,,41,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191428,10/09/2019,9,NO,2.7,,,45,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191428,06/22/2020,14,NO,4.3,,,39,,,LOW,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,07/20/2020,13,NO,4,,,40,,,HIGH,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+8191428,09/14/2020,10,NO,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+04/28/2010,0,FEET,59.1,DEGREES F,11.29,MG/L
+04/28/2010,3,FEET,58.4,DEGREES F,11.94,MG/L
+04/28/2010,6,FEET,55.7,DEGREES F,10.27,MG/L
+04/28/2010,9,FEET,49.7,DEGREES F,6.55,MG/L
+04/28/2010,12,FEET,47.9,DEGREES F,6.78,MG/L
+04/28/2010,15,FEET,46.7,DEGREES F,5.44,MG/L
+04/28/2010,18,FEET,46.2,DEGREES F,4.4,MG/L
+04/28/2010,21,FEET,45.9,DEGREES F,3.35,MG/L
+04/28/2010,23.5,FEET,45.7,DEGREES F,3.21,MG/L
+05/25/2010,0,FEET,76.6,DEGREES F,9.72,MG/L
+05/25/2010,3,FEET,72.1,DEGREES F,10.55,MG/L
+05/25/2010,6,FEET,55.7,DEGREES F,7.2,MG/L
+05/25/2010,9,FEET,50.2,DEGREES F,8.05,MG/L
+05/25/2010,12,FEET,47.5,DEGREES F,5.93,MG/L
+05/25/2010,15,FEET,46.6,DEGREES F,5.03,MG/L
+05/25/2010,18,FEET,46.3,DEGREES F,6.32,MG/L
+05/25/2010,21,FEET,43.4,DEGREES F,6.74,MG/L
+06/29/2010,0,FEET,72.2,DEGREES F,9.18,MG/L
+06/29/2010,3,FEET,71.9,DEGREES F,9.19,MG/L
+06/29/2010,6,FEET,53.6,DEGREES F,4.73,MG/L
+06/29/2010,9,FEET,50.5,DEGREES F,6.14,MG/L
+06/29/2010,12,FEET,47.1,DEGREES F,5.37,MG/L
+06/29/2010,15,FEET,46.5,DEGREES F,5.14,MG/L
+06/29/2010,18,FEET,46.3,DEGREES F,3.02,MG/L
+06/29/2010,21,FEET,45.9,DEGREES F,2.81,MG/L
+06/29/2010,24,FEET,46.1,DEGREES F,2.56,MG/L
+07/12/2010,0,FEET,74.6,DEGREES F,8.86,MG/L
+07/12/2010,3,FEET,74.8,DEGREES F,8.84,MG/L
+07/12/2010,6,FEET,56.6,DEGREES F,6.99,MG/L
+07/12/2010,9,FEET,49.6,DEGREES F,6.46,MG/L
+07/12/2010,12,FEET,47.3,DEGREES F,4.6,MG/L
+07/12/2010,15,FEET,46.9,DEGREES F,3.37,MG/L
+07/12/2010,18,FEET,46.2,DEGREES F,2.98,MG/L
+07/12/2010,21,FEET,46,DEGREES F,3.53,MG/L
+07/12/2010,24,FEET,46.1,DEGREES F,2.42,MG/L
+07/26/2010,0,FEET,79.1,DEGREES F,10.04,MG/L
+07/26/2010,3,FEET,73.9,DEGREES F,8.19,MG/L
+07/26/2010,6,FEET,53.8,DEGREES F,4.86,MG/L
+07/26/2010,9,FEET,49.4,DEGREES F,4.87,MG/L
+07/26/2010,12,FEET,48.9,DEGREES F,4.25,MG/L
+07/26/2010,15,FEET,47.6,DEGREES F,4.5,MG/L
+07/26/2010,18,FEET,46.7,DEGREES F,4.43,MG/L
+07/26/2010,21,FEET,46.2,DEGREES F,3.57,MG/L
+07/26/2010,24,FEET,46,DEGREES F,4.38,MG/L
+08/23/2010,0,FEET,74.3,DEGREES F,10.73,MG/L
+08/23/2010,3,FEET,70.4,DEGREES F,8.27,MG/L
+08/23/2010,6,FEET,52.1,DEGREES F,9.69,MG/L
+08/23/2010,9,FEET,48.1,DEGREES F,7.13,MG/L
+08/23/2010,12,FEET,46.7,DEGREES F,2.68,MG/L
+08/23/2010,15,FEET,46.4,DEGREES F,2.47,MG/L
+08/23/2010,18,FEET,46.2,DEGREES F,2.5,MG/L
+08/23/2010,21,FEET,46.1,DEGREES F,2.3,MG/L
+08/23/2010,24,FEET,46.1,DEGREES F,.31,MG/L
+09/28/2010,0,FEET,56.1,DEGREES F,9.89,MG/L
+09/28/2010,3,FEET,56.2,DEGREES F,9.85,MG/L
+09/28/2010,6,FEET,52.5,DEGREES F,7.36,MG/L
+09/28/2010,9,FEET,47.3,DEGREES F,2.85,MG/L
+09/28/2010,12,FEET,46.4,DEGREES F,1.42,MG/L
+09/28/2010,15,FEET,46.2,DEGREES F,1.5,MG/L
+09/28/2010,18,FEET,46,DEGREES F,1.99,MG/L
+09/28/2010,21,FEET,45.9,DEGREES F,2.06,MG/L
+09/28/2010,24,FEET,45.8,DEGREES F,2.06,MG/L
+10/08/2010,0,FEET,59.4,DEGREES F,11.23,MG/L
+10/08/2010,3,FEET,57.5,DEGREES F,11.09,MG/L
+10/08/2010,6,FEET,52.6,DEGREES F,7.92,MG/L
+10/08/2010,9,FEET,48.2,DEGREES F,6.72,MG/L
+10/08/2010,12,FEET,46.5,DEGREES F,1.67,MG/L
+10/08/2010,15,FEET,46.2,DEGREES F,1.09,MG/L
+10/08/2010,18,FEET,46,DEGREES F,1.06,MG/L
+10/08/2010,21,FEET,46,DEGREES F,1.45,MG/L
+10/08/2010,24,FEET,45.9,DEGREES F,.87,MG/L
+10/11/2010,0,FEET,59.9,DEGREES F,11.22,MG/L
+10/11/2010,3,FEET,58.6,DEGREES F,10.58,MG/L
+10/11/2010,6,FEET,57.6,DEGREES F,9.69,MG/L
+10/11/2010,9,FEET,47.1,DEGREES F,5.76,MG/L
+10/11/2010,12,FEET,46.3,DEGREES F,1.65,MG/L
+10/11/2010,15,FEET,46,DEGREES F,2.03,MG/L
+10/11/2010,18,FEET,45.9,DEGREES F,2.02,MG/L
+10/11/2010,21,FEET,45.9,DEGREES F,2.14,MG/L
+10/11/2010,24,FEET,47.5,DEGREES F,1.44,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/25/2010,Hot and sunny; breezy; air temp 86 degrees F.
+06/29/2010,Air emp 70 degrees F.  Clear/sunny with light breeze- after one month of rain totals of 4 - 4 inches.
+Conducttivity = 90    pH = 6.5
+07/12/2010,Clear with light breeze;  Air temp 70 - 75 degrees F.
+07/26/2010,Hot partly cloudy- light wind;  air temp. 80 - 85 degrees F.
+Conductivity = 90    pH = 6.75
+08/23/2010,Sunny; windy; previous week 4 - 5 inches of rain; storm front predicted for pm
+Air temp 80 degrees F.  
+Conductivity = 100   pH = 7.0
+09/28/2010,low overcast; breezy; (3 inches of rain 5 days ago)  Air temp. 55  -60 degrees F.
+Conductivity = 120    pH = 6.5 
+10/08/2010,clear and sunny; warm; slight breeze; Air temp high 70's F.
+10/11/2010,light breeze; hazy sunshine; high overcast;  air temp. 60 degrees F.
+conductivity = 100   pH = 6.5
+05/17/2011,Air temp 68 - 70 degrees F.  Night-time temps 30 degrees F.  Sunny ; Cool and breezy.   pH = 6.5  Conductivity 100 
+06/09/2011,Air temp 52 degrees F.  Cool and windy;  High overcast;  pH = 6.5  
+Conductivity 120
+06/28/2011,Air temp 65 degreees F.  Broken clouds; breezy
+pH = 6.75  Conductivity 90
+07/08/2011,Air temp 84 degrees F.  Sunny and clear; light breeze
+07/24/2011,Air temp 75 degreesF.  Sunny; light breeze; few clouds
+pH = 6.75  Conductivity = 100
+08/10/2011,Air temp 75 degrees F.  Sunny- clear and calm
+Water level extremely low due to removal of 15 boards from Gordon Dam after heavy rain event.  
+08/23/2011,Warm; light breeze; Overcast   pH = 7  Conductivity = 90
+Water level still extremely low after 15 boards removed from Gordon Dam; 
+8 Boards returned on 8/22/11 (yesterday) but no effect noted so far...
+Secchi depth 9 ft; Hit bottom at 23 ft.
+10/06/2011,Air temp 70 degrees F.  Sunny- warm and breezy; beautiful fall day.
+10/21/2011,Air temp 50 degrees F.  Night-time temps 28 degrees F.  Cold-clear and sunny
+Light breeze;  Some algae noted on submerged plants
+04/12/2012,Ice Out: 03/24/2012
+North Star Community Charter School (Minong) students observed and assisted
+Clear- sunny; air temperature 54 degrees F.  
+pH = 6.5
+06/06/2012,North Star Community Charter School (Minong) students observed and assisted
+pH = 7.0
+07/09/2012,Clear- calm- and sunny;  Air temperature in the eighties
+pH = 6.5
+08/06/2012,Breezy; clear and sunny; Night time air temperatures in the fifties
+Daytime air temperature 75 degrees F.
+pH = 6.5
+08/28/2012,Partly cloudy; calm; air temperature 75 - 80 degrees F.
+Night time temperature 50 degrees F.
+05/27/2013,Ice out on 05/06/2013
+Cloudy; Air temperature 50 degrees F.  Light breeze
+Secchi Depth 7 ft. Hit bottom at 23 ft.
+06/24/2013,Sunny- calm; warm
+Readings taken after days of heavy rain
+Flowage Association volunteers- Tom and Barb DeHere assisting to learn routine
+
+07/10/2013,Clear and sunny; Breezy; Air temperature in the high 70's
+07/23/2013,Partly cloudy- Breezy; Air temperature in the 70's
+Flowage Association member/volunteer- Lynn Zimek assisted at all sites to learn routine.
+08/26/2013,Hot- humid- and hazy; Light breeze; Partly cloudy; Air temperature 85+ degrees F.
+09/16/2013,Clear and cool; Light breeze; Sunny; Air temperature 64 degrees F.  
+Night temperature 34 degrees F.
+06/16/2014,Weather clear- sunny- windy; air temperature in the 70's F.
+07/28/2014,Weather sunny- cool- breezy; few clouds; Air temperature in the sixties
+08/12/2014,Weather Sunny with a few clouds; windy; Air temperature in the 60's F 
+09/23/2014,Weather clear- calm- sunny; Daytime air temperature in the 70's; Night time temperatures in the 40's F. 
+05/04/2015,First observation after ice out.  Ice out 4/7/2015
+High overcast; light breeze; Air temperature in the mid sixties
+06/12/2015,Clear; sunny; breezy; Air temperature 79 degrees F.
+07/27/2015,Clear; sunny; breezy; Hot; Air temperature in the high 80's F
+Volunteer Barb DeHeer- assisting to learn procedure.
+09/01/2015,Hot; humid; hazy days; Air temperatures in 80's F; High overcast; no wind;
+09/30/2015,Cool; clear; sunny; Air temperature 60 degrees F.
+Water level low due to pending EWM treatment.
+05/08/2016,Ice out 3/31/2016;  Clear; Hazy due to fires in Canada; Calm Fishing opener on 5/7/16
+06/21/2016,Sunny; Air temp 75 degrees F; Scattered clouds; very windy; 1.5 inches rain and storm two days ago
+08/01/2016,Clear; Sunny; Light wind; Air temp 70 degrees F
+08/31/2016,Clear; Sunny; Air temp in the seventies; No wind; Calm
+10/16/2016, Air temp 62 degrees F; High clouds; Night temps in the forties
+06/05/2017,Ice out; 03/31/2017   Cold wet spring
+Windy- cool and sunny; air temperature high sixites
+07/24/2017,Clear and sunny; light breeze; air temperature in the high sixties
+08/15/2017,Clear- calm and sunny- following morning fog and two days of heavy rain.
+Air temperature in the seventies.
+10/08/2017,Calm- clear and cool; light breeze; Air temperature low sixties
+
+Overall comments for summer: rainy and cool; water level kept low by control at Dam.
+06/25/2018,Partly cloudy; light breeze; readings taken after heavy rain a week ago (8 inches)
+07/23/2018,Partly cloudy; light breeze; air temperature in the eighties F.  Temp fifties at night; no recent rain 
+09/11/2018,Sunny and windy; air temperature in the sixties; more aquatic plants than seen here in the past
+06/18/2019,Monitoring done with Dave Blumer- Lake Consultant
+Calm- cloudy; Air temperature 60 degrees F
+07/22/2019,Sunny; light breeze; Air temperature 72 degrees F.
+08/12/2019,Light breeze; clear and sunny
+10/09/2019,Sunny; windy; air temperature in fifties; Night temperatures in the thirties (F)
+06/22/2020,Clear; few clouds; light breeze
+07/20/2020,Sunny; high clouds; calm; air temperature high sixties.
+-readings done one day after two nights of heavy storms- winds and rain.
+09/14/2020,High clouds; breezy; air temperature sixties
+
+
+
+
+Start Date,Group Name,Project Name
+04/28/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+05/25/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/29/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/12/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/26/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/23/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/28/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/08/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/11/2010,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+05/17/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/09/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/28/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/08/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/24/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/10/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/23/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/06/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/21/2011,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+04/12/2012,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/06/2012,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/09/2012,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/06/2012,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/28/2012,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+05/27/2013,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/24/2013,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/10/2013,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/23/2013,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/26/2013,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/16/2013,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/16/2014,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/28/2014,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/12/2014,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/23/2014,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+05/04/2015,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/12/2015,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/27/2015,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/01/2015,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/30/2015,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+05/08/2016,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/21/2016,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/01/2016,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/31/2016,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/16/2016,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/05/2017,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/24/2017,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/15/2017,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/08/2017,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/25/2018,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/23/2018,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/11/2018,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/18/2019,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/22/2019,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+08/12/2019,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+10/09/2019,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+06/22/2020,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+07/20/2020,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 
+09/14/2020,Lorna and Roger Wilson,Citizen Lake Monitoring - Water Quality - St. Croix Flowage - True Deep Hole 

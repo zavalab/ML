@@ -1,0 +1,156 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Gilas Lake,Marinette,523300,NE,38,,383100,NE,SEEPAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+7000043,08/22/2001,,,,,,,,,,,,,
+8188623,08/22/2001,18,,5.5,8,14,35,49,51,,,,,
+8189527,06/01/2002,12,NO,3.6,,,41,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189527,06/19/2002,7.5,NO,2.3,,,48,,,HIGH,,MURKY,BROWN,4-Would not swim but boating OK (algae)
+8189527,06/28/2002,8.5,NO,2.6,,,46,,,HIGH,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189527,07/12/2002,13,NO,4,,,40,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189527,08/16/2002,8,NO,2.4,,,47,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189527,08/29/2002,9,NO,2.7,,,45,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+7000043,09/05/2002,,,,,,,,,,,,,
+8188623,09/05/2002,13.1,,4,3.59,11,40,47,44,,,,,
+8189527,09/12/2002,10,NO,3,,,44,,,LOW,,MURKY,BROWN,5-Enjoyment substantially impaired (algae)
+8188939,06/29/2003,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188939,07/19/2003,16.5,NO,5,,,37,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189527,08/21/2003,14.5,NO,4.4,,,39,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8189527,09/06/2003,13.5,NO,4.1,,,40,,,NORMAL,,MURKY,BROWN,3-Enjoyment somewhat impaired (algae)
+8188939,06/18/2013,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+1,06/25/2013,,,,2.39,8.61,,45,41,,,,,
+8188939,08/14/2013,13,NO,4,3.19,13.5,40,48,44,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188939,09/04/2013,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,09/06/2013,,,,3.12,16.3,,50,43,,,,,
+1,05/04/2014,,,,,19.6,,51,,,,,,
+8188939,05/04/2014,10,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188939,06/10/2014,9,NO,2.7,3.64,11.7,45,47,45,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188939,07/09/2014,12, ,3.6,2.36,11.2,41,47,41,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188939,08/05/2014,14,NO,4.3,1.99,11,39,47,40,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188939,05/07/2015,8,NO,2.4,,18.2,47,51,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188939,06/09/2015,11,NO,3.3,2.91,17.3,43,50,43,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188939,07/27/2015,13,NO,4,1.77,17,40,50,39,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+1,09/29/2015,,,,3.79,17.7,,50,45,,,,,
+8188939,09/29/2015,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8188939,06/23/2016,,,,1.1,8.83,,45,36,,,,,
+8188939,07/11/2016,,,,2.04,9.91,,46,40,,,,,
+8188939,08/22/2016,,,,2.84,15.9,,50,43,,,,,
+8188939,05/26/2017,,,,,22.4,,52,,,,,,
+8188939,07/07/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+29413546,07/07/2017,,,,5.08,21.1,,52,47,,,,,
+1,08/18/2017,,,,7.62,22.7,,52,50,,,,,
+8188939,08/18/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,BROWN,3-Enjoyment somewhat impaired (algae)
+8188939,05/31/2018,,,,,16.9,,50,,,,,,
+8188939,06/25/2018,13,NO,4,,,40,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8190450,06/25/2018,,,,1.81,14.8,,49,39,,,,,
+8188939,07/24/2018,14,NO,4.3,1.92,7.89,39,44,40,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8188939,08/22/2018,,,,2.39,11,,47,41,,,,,
+8188939,05/28/2019,9.5,NO,2.9,,,45,,,HIGH,,MURKY,BROWN,2-Very minor aesthetic problems
+29413546,05/28/2019,,,,,24.3,,53,,,,,,
+8188939,06/25/2019,11,NO,3.3,2.85,14.1,43,49,43,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188939,07/23/2019,,,,2.21,12.2,,48,41,,,,,
+8188939,08/27/2019,11,NO,3.3,4.46,14.5,43,49,46,HIGH,,MURKY,YELLOW,2-Very minor aesthetic problems
+8188939,06/28/2020,,,,3.38,16.2,,50,44,,,,,
+8188939,07/27/2020,,,,3.07,12.6,,48,43,,,,,
+8188939,07/28/2020,12,NO,3.6,,,41,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8188939,08/24/2020,,,,3.28,17.9,,50,44,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/22/2001,78.72,FEET,,,.3,MG/L
+08/22/2001,,,23.0,C,0.3,MG/L
+09/05/2002,3.28,FEET,,,8,MG/L
+09/05/2002,75.44,FEET,,,0,MG/L
+09/05/2002,,,22.7,C,0.0,MG/L
+
+
+
+Start Date,Fieldwork Comment
+08/22/2001,INTEGRATED SAMPLER    
+08/22/2001,VAN DORN SAMPLER    
+06/01/2002,Sunny- light wind    
+06/19/2002,Cloudy- south winds 10-15 mph    
+06/28/2002,Hazy and sunny. Light breeze.    
+07/12/2002,Sunny- light wind    
+08/16/2002,Sunny 5-15 mph winds    
+08/29/2002,Sunny- very light wind    
+09/05/2002,AT DEEPEST AREA WITH VAN DORN- NEAR BOTTOM    
+09/05/2002,GILAS LAKE AT DEEPEST AREA WITH INTEGRATED SAMPLER    
+09/12/2002,Sunny- 5-10 mph wind    
+08/14/2013,Sunny morning- light breeze with no boat traffic. Saw a bald eagle and loons
+09/04/2013,Somewhat overcast- slight chop- one other boat on the lake. Saw two loons.
+06/10/2014,overcast- breezy and cool- I saw a loon
+07/09/2014,overcast- with scattered showers- light wind from northwest- I saw 1 loon. Surface temp was 74 degrees
+05/07/2015,Beautiful day- sunny- light wind- I saw one osprey.
+06/09/2015,Somewhat overcast today with light wind- about 4 or 5 people fishing.
+09/29/2015,It was overcast and cool today. I saw ducks and a bald eagle It was overcast and cool today. I saw ducks and a bald eagle. There are floating bunches of grassy weeds.
+07/07/2017,Clear sky- slight breeze- one other boat on lake. I saw one loon and a osprey.
+08/18/2017,Weather was windy and overcast (from NW 15 mph). Water seems to be more brown than usual. I saw two loons and a osprey.
+06/25/2018,Sunny with 15mph wind from southeast. I saw loons an eagle- osprey and lots of muskrats.
+07/24/2018,Beautiful day partly cloudy with a steady breeze from the southeast. I saw loons- an eagle and a large pine snake. water temp was 79 degrees.
+05/28/2019,Overcast and cool- saw loons- water level is extremely high this spring. Water color seems to be more yellow- brown (tannic) than usual. Overcast and cool today- saw 2 loons. Water seems to be more yellow- brown (tannic) than usual. Water level is the highest that I have seen since I bought this place in 1983. Surface water Temp. 60.9 degrees.
+06/25/2019,75 degrees- partly cloudy- 10-15 mph breeze from the west. I saw one loon 75 degrees- partly cloudy- 10-15 mph breeze from west. Water temp was 72 degrees. I saw one loon.
+08/27/2019,Partly cloudy- brisk wind from west and about 71 deg. I saw a bald eagle and a loon. Water temp. was 74 deg. Partly cloudy- brisk wind from the west- Temp. was 72 deg. I saw a bald eagle and a loon. Lots of weeds floating around
+
+
+
+
+Start Date,Group Name,Project Name
+08/22/2001,GREGORY SEVENER,Lake Baseline Monitoring- DNR (1970s-2006)
+08/22/2001,Greg Sevener,Lake Baseline Monitoring- DNR (1970s-2006)
+06/01/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/19/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/28/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/12/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/16/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/29/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+09/05/2002,GREGORY SEVENER,Lake Baseline Monitoring- DNR (1970s-2006)
+09/05/2002,Greg Sevener,Lake Baseline Monitoring- DNR (1970s-2006)
+09/12/2002,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/29/2003,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/19/2003,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/21/2003,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+09/06/2003,Gloria Sobush,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/18/2013,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/25/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/14/2013,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+09/04/2013,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+09/06/2013,Data Collectors,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/04/2014,Data Collectors,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/04/2014,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/10/2014,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/09/2014,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/05/2014,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/07/2015,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/09/2015,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/27/2015,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+09/29/2015,Data Collectors,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+09/29/2015,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/23/2016,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/11/2016,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/22/2016,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/26/2017,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/07/2017,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/07/2017,Steve Mueller ,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/18/2017,Data Collectors,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/18/2017,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/31/2018,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/25/2018,John Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/25/2018,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/24/2018,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/22/2018,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/28/2019,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+05/28/2019,Steve Mueller ,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/25/2019,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/23/2019,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/27/2019,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+06/28/2020,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/27/2020,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+07/28/2020,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole
+08/24/2020,Steve Mueller,Citizen Lake Monitoring - Water Quality - Gilas Lake - Deep Hole

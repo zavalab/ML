@@ -1,0 +1,56 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Mud Lake,Sawyer,2434800,NO,58,,583216,CE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8188630,08/07/2007,6.4,NO,1.95,2.6,15,50,49,42,,,,,
+48236536,05/28/2020,11.5,YES,3.5,,,42,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236536,06/16/2020,10.7,YES,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236536,06/30/2020,10.7,YES,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236536,07/07/2020,13.94,YES,4.2,,,39,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+48236536,07/30/2020,9.8,YES,3,,,44,,,NORMAL,,CLEAR,YELLOW,
+1,08/06/2020,,,,1.86,19,,51,39,,,,,
+48236536,08/06/2020,9.8,YES,3,,,44,,,LOW,,CLEAR,BROWN,2-Very minor aesthetic problems
+48236536,08/18/2020,10.7,YES,3.3,,,43,,,NORMAL,,CLEAR,YELLOW,1-Beautiful, could not be nicer
+1,09/08/2020,,,,5.45,21.4,,52,48,,,,,
+1,09/29/2020,,,,4.29,20.6,,52,46,,,,,
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+08/07/2007,0.5,METERS,24.1,DEGREES C,7.6,MG/L
+08/07/2007,1,METERS,24.1,DEGREES C,7.6,MG/L
+08/07/2007,2,METERS,23.9,DEGREES C,7.4,MG/L
+08/07/2007,3,METERS,23.6,DEGREES C,6.1,MG/L
+08/07/2007,3.5,METERS,23.6,DEGREES C,6.1,MG/L
+08/06/2020,0,FEET,70.4,DEGREES F,9.22,MG/L
+08/06/2020,3,FEET,71.7,DEGREES F,8.7,MG/L
+08/06/2020,6,FEET,71.6,DEGREES F,8.66,MG/L
+08/06/2020,9,FEET,71.8,DEGREES F,8.6,MG/L
+08/06/2020,12,FEET,71,DEGREES F,8,MG/L
+
+
+
+Start Date,Fieldwork Comment
+05/28/2020,Sunny light breeze sunny calm  
+07/30/2020,sunny/slight  breeze
+
+
+
+
+Start Date,Group Name,Project Name
+08/07/2007,USGS,National Lake Survey - Index Sampling
+05/28/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+06/16/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+06/30/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+07/07/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+07/30/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+08/06/2020,Data Collectors,CALLAHAN LAKE PROTECTIVE ASSOCIATION- INC: Callahan-Mud Lakes APM Planning Project
+08/06/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+08/18/2020,Joe Lewandowski,Citizen Lake Monitoring - Water Quality - Mud Lake - Deepest Spot
+09/08/2020,Data Collectors,CALLAHAN LAKE PROTECTIVE ASSOCIATION- INC: Callahan-Mud Lakes APM Planning Project
+09/29/2020,Data Collectors,CALLAHAN LAKE PROTECTIVE ASSOCIATION- INC: Callahan-Mud Lakes APM Planning Project

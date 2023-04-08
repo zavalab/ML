@@ -1,0 +1,105 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Benson Lake,Vilas,2327100,NO,64,,643193,NE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190287,06/11/1993,10,NO,3,,,44,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190287,06/19/1993,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,BLUE,
+8190287,07/06/1993,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190287,07/21/1993,9,NO,2.7,,,45,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190287,08/04/1993,9,NO,2.7,,,45,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190287,08/22/1993,9,NO,2.7,,,45,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8190287,08/29/1993,9.25,NO,2.8,,,45,,,NORMAL,,,BROWN,1-Beautiful, could not be nicer
+8190287,09/15/1993,11,NO,3.3,,,43,,,NORMAL,,CLEAR,,1-Beautiful, could not be nicer
+8190287,09/24/1993,8.5,NO,2.6,,,46,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190287,10/02/1993,7.75,NO,2.4,,,48,,,,,,BROWN,1-Beautiful, could not be nicer
+8190287,10/17/1993,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190287,06/08/1994,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,08/16/1994,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,09/01/1994,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,10/14/1994,6,NO,1.8,,,51,,,HIGH,,,BROWN,
+8190287,07/09/1995,8.25,NO,2.5,,,47,,,,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,08/21/1995,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,09/01/1995,9,NO,2.7,,,45,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,10/05/1995,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,1-Beautiful, could not be nicer
+8190287,05/11/1996,7.25,NO,2.2,,,49,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190287,08/10/1996,7.5,NO,2.3,,,48,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190287,09/03/1996,9,NO,2.7,,,45,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,10/12/1996,6.75,NO,2.1,,,50,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8190287,06/14/1997,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,07/28/1997,8,NO,2.4,,,47,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+8190287,08/18/1997,8.75,NO,2.7,,,46,,,HIGH,,CLEAR,BLUE,1-Beautiful, could not be nicer
+1,06/28/2017,6.4,N,1.9,5.46,26.9,50,54,48,,,,,
+1,07/27/2017,,,,,,,,,,,,,
+147984276,07/27/2017,8.2,NO,2.5,5.48,24.2,47,53,48,,,,,
+1,08/28/2017,6.5,N,2,4.4,18.4,50,51,46,,,,,
+200261660,06/02/2020,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+200261660,06/16/2020,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+200261660,07/15/2020,10,NO,3,,,44,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+200261660,07/31/2020,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+200261660,08/08/2020,10.5,NO,3.2,,,43,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+200261660,09/05/2020,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+200261660,09/23/2020,11.25,NO,3.4,,,42,,,NORMAL,,CLEAR,BLUE,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+06/28/2017,,,18.5,C,8.1,MG/L
+07/27/2017,,,23.0,C,6.4,MG/L
+08/28/2017,,,19.2,C,7.4,MG/L
+
+
+
+Start Date,Fieldwork Comment
+09/24/1993,Lake level: Very high- lot of rain    
+10/17/1993,Lake level: very high    
+10/14/1994,Rest lake draw dam down.  Lake level: very high    
+10/05/1995,Rest lake drawn down because of flooding.  Lake level: very high    
+08/10/1996,Lake level: very high    
+10/12/1996,Lake level: very high    
+
+
+
+
+Start Date,Group Name,Project Name
+06/11/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+06/19/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+07/06/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+07/21/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/04/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/22/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/29/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/15/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/24/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+10/02/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+10/17/1993,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+06/08/1994,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/16/1994,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/01/1994,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+10/14/1994,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+07/09/1995,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/21/1995,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/01/1995,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+10/05/1995,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+05/11/1996,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/10/1996,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/03/1996,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+10/12/1996,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+06/14/1997,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+07/28/1997,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/18/1997,Les Jacobson,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+06/28/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+07/27/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+07/27/2017,Jo Barlament,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+08/28/2017,Data Collectors,NORTH LAKELAND DISCOVERY CENTER: Manitowish Chain of Lake Management Plan - Phase V
+06/02/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+06/16/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+07/15/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+07/31/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+08/08/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/05/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth
+09/23/2020,Greg Holt_0,Citizen Lake Monitoring - Water Quality - Benson Lake - Max Depth

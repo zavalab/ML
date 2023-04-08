@@ -1,0 +1,788 @@
+Lake Water Quality Report - 1950 to 2020
+
+
+Lake Name,County Name,Waterbody ID(WBIC),Region Code,County Code,Station Name,Station ID,Geo Region,Lake Type
+Crooked Lake,Waukesha,826800,SE,68,,683371,SE,DRAINAGE
+
+
+
+Group Seq No, Start Date, Secchi (Feet),Secchi Hit Bottom?,Secchi (Meters),Chlorophyll(ug/l),Total Phosphorus(ug/l),Secchi TSI,Total Phosphorus TSI,Chlorophyll TSI,Lake Level,Staff Gauge,Appearance,Color,Perception
+8190790,07/04/1988,4,NO,1.2,,,57,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/09/1988,4.5,NO,1.4,,,55,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/16/1988,5,NO,1.5,,,54,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/25/1988,5.5,NO,1.7,,,53,,,`1.5" OVER THE DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/31/1988,6,NO,1.8,,,51,,,DOWN 2 FT.,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/06/1988,6.5,NO,2,,,50,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/13/1988,7,NO,2.1,,,49,,,,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/28/1988,7.5,NO,2.3,,,48,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,09/02/1988,7,NO,2.1,,,49,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,09/24/1988,9,NO,2.7,,,45,,,HIGH,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,06/17/1989,12,NO,3.6,,,41,,,LOW,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,06/23/1989,11,NO,3.3,,,43,,,30' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/07/1989,4.5,NO,1.4,,,55,,,30' @ BRIDGE,,,BROWN,
+8190790,07/14/1989,7,NO,2.1,,,49,,,30' @ BRIDGE,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/05/1989,9,NO,2.7,,,45,,,34' @ BRIDGE,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/12/1989,10,NO,3,,,44,,,32' @ BRIDGE,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/19/1989,10.5,NO,3.2,,,43,,,30 @ BRIDGE,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/30/1989,9,NO,2.7,,,45,,,30 FT.,30,,BROWN,4-Would not swim but boating OK (algae)
+8190790,09/08/1989,7.5,NO,2.3,,,48,,,33 FT.,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,09/15/1989,10,NO,3,,,44,,,33' @ BRIDGE,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,06/20/1990,10,NO,3,,,44,,,NORMAL,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/01/1990,10,NO,3,,,44,,,38' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/08/1990,9,NO,2.7,,,45,,,34' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/15/1990,6,NO,1.8,,,51,,,28' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/21/1990,10.5,NO,3.2,,,43,,,28' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,07/28/1990,8,NO,2.4,,,47,,,30' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8190790,08/05/1990,7.5,NO,2.3,,,48,,,30' @ DAM,,,BROWN,4-Would not swim but boating OK (algae)
+8191113,06/15/1994,6,NO,1.8,,,51,,,FEET,16,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,06/26/1994,5.5,NO,1.7,,,53,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8191113,07/02/1994,5.25,NO,1.6,,,53,,,HIGH,,,GREEN,2-Very minor aesthetic problems
+8191113,07/10/1994,7.75,NO,2.4,,,48,,,HIGH,,,GREEN,1-Beautiful, could not be nicer
+8191113,07/17/1994,8.25,NO,2.5,,,47,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191113,07/23/1994,8,NO,2.4,,,47,,,HIGH,,,BROWN,2-Very minor aesthetic problems
+8191113,07/30/1994,8,NO,2.4,,,47,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191113,08/05/1994,7.5,NO,2.3,,,48,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191113,08/28/1994,7,NO,2.1,,,49,,,NORMAL,,,GREEN,2-Very minor aesthetic problems
+8191113,09/05/1994,7.75,NO,2.4,,,48,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191113,09/15/1994,8.25,NO,2.5,,,47,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8191113,09/25/1994,10,NO,3,,,44,,,LOW,,,GREEN,2-Very minor aesthetic problems
+8191113,10/01/1994,8,NO,2.4,,,47,,,NORMAL,,,BROWN,2-Very minor aesthetic problems
+8191113,10/09/1994,10,NO,3,,,44,,,LOW,,,BROWN,2-Very minor aesthetic problems
+8191113,10/22/1994,11,NO,3.3,,,43,,,,,,GREEN,2-Very minor aesthetic problems
+8191113,10/29/1994,9.25,NO,2.8,,,45,,,,,,GREEN,2-Very minor aesthetic problems
+8191113,04/22/1995,5.5,NO,1.7,,,53,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191113,04/29/1995,6,NO,1.8,,,51,,,,,,BROWN,3-Enjoyment somewhat impaired (algae)
+8191113,05/05/1995,6.5,NO,2,,,50,,,,,,GREEN,2-Very minor aesthetic problems
+8191113,05/16/1995,6,NO,1.8,,,51,,,,,,BROWN,2-Very minor aesthetic problems
+8191113,05/26/1995,5,NO,1.5,,,54,,,,,,GREEN,4-Would not swim but boating OK (algae)
+8191113,06/10/1995,5.75,NO,1.7,,,52,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,06/18/1995,11.5,NO,3.5,,,42,,,1.4 FEET,1.4,,GREEN,2-Very minor aesthetic problems
+8191113,06/25/1995,9.5,NO,2.9,,,45,,,1.40' LOW,,,BROWN,2-Very minor aesthetic problems
+8191113,07/09/1995,8.75,NO,2.7,,,46,,,1.32 FEET,1.32,,GREEN,2-Very minor aesthetic problems
+8191113,07/23/1995,7,NO,2.1,,,49,,,1.25 FEET,1.25,,GREEN,2-Very minor aesthetic problems
+8191113,07/30/1995,7,NO,2.1,,,49,,,1.4 FEET,1.4,,BROWN,2-Very minor aesthetic problems
+8191113,08/13/1995,7,NO,2.1,,,49,,,FEET,2.06,,GREEN,2-Very minor aesthetic problems
+8191113,08/20/1995,9,NO,2.7,,,45,,,FEET,2.35,,BROWN,2-Very minor aesthetic problems
+8191113,09/04/1995,9.25,NO,2.8,,,45,,,1.8 FEET,1.8,,BROWN,2-Very minor aesthetic problems
+8191113,09/17/1995,9.5,NO,2.9,,,45,,,1.2 FEET,1.2,,GREEN,2-Very minor aesthetic problems
+8191113,09/23/1995,12.5,NO,3.8,,,41,,,1.2 FEET,1.2,,GREEN,2-Very minor aesthetic problems
+8191113,06/30/1996,12,NO,3.6,,,41,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,07/07/1996,10,NO,3,,,44,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,07/21/1996,10.5,NO,3.2,,,43,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,08/04/1996,11.5,NO,3.5,,,42,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,05/11/1997,8.75,NO,2.7,,,46,,,,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,06/20/1997,11,NO,3.3,,,43,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,07/12/1997,11.25,NO,3.4,,,42,,,HIGH,,,GREEN,3-Enjoyment somewhat impaired (algae)
+8191113,09/25/1997,11,NO,3.3,,,43,,,NO CHANGE,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191113,06/20/1998,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191113,07/05/1998,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191113,07/16/1998,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191113,09/08/1998,8,NO,2.4,,,47,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/09/2002,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/14/2002,7,NO,2.1,,,49,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/03/2002,7,NO,2.1,,,49,,,LOW,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,05/20/2006,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,05/28/2006,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,06/15/2006,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/02/2006,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/13/2006,7.5,NO,2.3,,,48,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,07/22/2006,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/15/2006,6.75,NO,2.1,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/02/2006,6.5,NO,2,,,50,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,10/01/2006,11,NO,3.3,,,43,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,10/08/2006,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,04/28/2007,10.5,NO,3.2,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,05/28/2007,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/22/2007,8.5,NO,2.6,,,46,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/12/2007,7,NO,2.1,,,49,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/02/2007,12,NO,3.6,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,09/23/2007,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,04/20/2008,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,05/26/2008,12.25,NO,3.7,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,06/26/2008,14.25,NO,4.3,,,39,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191112,07/05/2008,11.25,YES,3.4,,,42,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191112,08/02/2008,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/27/2008,9,NO,2.7,,,45,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/07/2008,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,09/27/2008,12.5,YES,3.8,,,41,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,05/31/2009,12.5,NO,3.8,,,41,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,06/14/2009,12,NO,3.6,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,06/27/2009,13,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/25/2009,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/04/2011,10,NO,3,,,44,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/10/2011,8.75,NO,2.7,,,46,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/17/2011,8.5,NO,2.6,,,46,,,LOW,,CLEAR,,2-Very minor aesthetic problems
+8191112,07/31/2011,8.25,NO,2.5,,,47,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/17/2011,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/10/2012,7.75,NO,2.4,,,48,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/01/2012,5.75,NO,1.7,,,52,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+62595126,07/10/2012,,,,6.22,21,,52,49,,,,,
+62595126,07/11/2012,7.2,NO,2.2,,,49,,,,,,,
+8191112,06/23/2013,9.25,NO,2.8,,,45,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/30/2015,7,NO,2.1,,,49,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/24/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8191112,07/30/2016,4.5,NO,1.4,,,55,,,NORMAL,,CLEAR,GREEN,4-Would not swim but boating OK (algae)
+8191112,08/13/2016,2.25,NO,0.7,,,65,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191112,08/19/2016,3.25,NO,1,,,60,,,NORMAL,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/20/2016,6.25,NO,1.9,,,51,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/26/2016,1.75,NO,0.5,,,69,,,NORMAL,,MURKY,GREEN,4-Would not swim but boating OK (algae)
+8191112,09/05/2016,4.25,NO,1.3,,,56,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/10/2016,3.5,NO,1.1,,,59,,,HIGH,,MURKY,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/18/2016,5.5,NO,1.7,,,53,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,04/23/2017,13.5,YES,4.1,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,05/07/2017,13.25,NO,4,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,05/13/2017,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,05/27/2017,10.75,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/07/2017,11,NO,3.3,,,43,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/17/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/27/2017,8.75,NO,2.7,6.35,21.7,46,52,49,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/03/2017,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/09/2017,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/23/2017,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+1,07/31/2017,,,,4.66,17.4,,50,46,,,,,
+8191112,07/31/2017,10.25,NO,3.1,,,44,,,HIGH,,CLEAR,BROWN,2-Very minor aesthetic problems
+8191112,08/16/2017,10,NO,3,,,44,,,HIGH,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191112,08/30/2017,7.75,NO,2.4,,,48,,,HIGH,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/10/2017,9,NO,2.7,,,45,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,09/17/2017,8,NO,2.4,,,47,,,NORMAL,,CLEAR,YELLOW,2-Very minor aesthetic problems
+8191112,10/08/2017,9.5,NO,2.9,,,45,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,04/08/2018,8,NO,2.4,,16.5,47,50,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,05/26/2018,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/17/2018,8,NO,2.4,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/25/2018,9.25,NO,2.8,4.08,20.2,45,51,45,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/03/2018,7.5,NO,2.3,,,48,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/28/2018,5.75,NO,1.7,4.29,12.1,52,47,46,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/19/2018,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/31/2018,8.25,NO,2.5,,,47,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,09/09/2018,9.75,NO,3,,,44,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,09/16/2018,11.5,NO,3.5,,,42,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,04/10/2019,12.5,NO,3.8,,13.7,41,48,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,04/20/2019,12.5,NO,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,04/28/2019,12.5,YES,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,05/26/2019,13.5,YES,4.1,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/09/2019,10.75,NO,3.3,,,43,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,06/23/2019,7,NO,2.1,6.11,16.6,49,50,48,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/04/2019,9.25,NO,2.8,,,45,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,07/13/2019,7.75,NO,2.4,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/23/2019,7.5,NO,2.3,5.61,17.3,48,50,48,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/17/2019,7.5,NO,2.3,,,48,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/27/2019,7.25,NO,2.2,9.98,15.6,49,49,52,,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,04/04/2020,13,YES,4,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,04/19/2020,12.5,NO,3.8,,,41,,,NORMAL,,,GREEN,1-Beautiful, could not be nicer
+8191112,05/23/2020,13.5,YES,4.1,,,40,,,HIGH,,CLEAR,GREEN,1-Beautiful, could not be nicer
+8191112,05/31/2020,12.75,NO,3.9,,,40,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/06/2020,,,,,,,,,,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/14/2020,8.5,NO,2.6,,,46,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/21/2020,7,NO,2.1,4.08,16.6,49,50,45,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,06/27/2020,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/03/2020,7.25,NO,2.2,,,49,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/11/2020,7.25,NO,2.2,,,49,,,HIGH,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,07/19/2020,8,NO,2.4,,,47,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,08/09/2020,6.75,NO,2.1,,,50,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/20/2020,6,NO,1.8,,,51,,,LOW,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,08/23/2020,7,NO,2.1,6.93,18,49,51,49,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,09/04/2020,5.75,NO,1.7,,,52,,,NORMAL,,CLEAR,GREEN,3-Enjoyment somewhat impaired (algae)
+8191112,09/19/2020,8.5,NO,2.6,,,46,,,NORMAL,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,09/27/2020,9.5,NO,2.9,,,45,,,LOW,,CLEAR,GREEN,2-Very minor aesthetic problems
+8191112,10/05/2020,12.5,YES,3.8,,,41,,,NORMAL,,CLEAR,GREEN,1-Beautiful, could not be nicer
+
+
+
+Start Date,Depth,Depth Units,Temperature,Temperature Units,Dissolved Oxygen,Dissolved Oxygen Units
+07/11/2012,0,METERS,28.7,DEGREES C,8.3,MG/L
+07/11/2012,0.5,METERS,28.6,DEGREES C,8.3,MG/L
+07/11/2012,1,METERS,28.6,DEGREES C,8.4,MG/L
+07/11/2012,1.5,METERS,28.6,DEGREES C,8.4,MG/L
+07/11/2012,2,METERS,28.4,DEGREES C,8.7,MG/L
+07/11/2012,2.5,METERS,28,DEGREES C,8.6,MG/L
+06/27/2017,3,FEET,69.8,DEGREES F,,
+06/27/2017,6,FEET,69,DEGREES F,,
+06/27/2017,9,FEET,68,DEGREES F,,
+06/27/2017,12,FEET,66.3,DEGREES F,,
+07/31/2017,1,FEET,78.4,DEGREES F,,
+07/31/2017,3,FEET,77.9,DEGREES F,,
+07/31/2017,4,FEET,76.7,DEGREES F,,
+07/31/2017,5,FEET,76.2,DEGREES F,,
+07/31/2017,6,FEET,75.5,DEGREES F,,
+07/31/2017,9,FEET,74.3,DEGREES F,,
+07/31/2017,12,FEET,73.4,DEGREES F,,
+07/31/2017,14.5,FEET,71.6,DEGREES F,,
+08/30/2017,1,FEET,70.8,DEGREES F,,
+08/30/2017,3,FEET,70.5,DEGREES F,,
+08/30/2017,6,FEET,70.1,DEGREES F,,
+08/30/2017,9,FEET,69.8,DEGREES F,,
+08/30/2017,12,FEET,69.4,DEGREES F,,
+08/30/2017,14.5,FEET,69,DEGREES F,,
+04/08/2018,1,FEET,40.2,DEGREES F,,
+04/08/2018,3,FEET,40.2,DEGREES F,,
+04/08/2018,6,FEET,40.2,DEGREES F,,
+04/08/2018,9,FEET,41.2,DEGREES F,,
+04/08/2018,12,FEET,41.1,DEGREES F,,
+06/25/2018,1,FEET,73.4,DEGREES F,,
+06/25/2018,3,FEET,73.4,DEGREES F,,
+06/25/2018,6,FEET,71.9,DEGREES F,,
+06/25/2018,9,FEET,70.3,DEGREES F,,
+06/25/2018,12,FEET,69,DEGREES F,,
+06/25/2018,13.5,FEET,67.8,DEGREES F,,
+07/28/2018,1,FEET,78.8,DEGREES F,,
+07/28/2018,2,FEET,78.4,DEGREES F,,
+07/28/2018,3,FEET,77.3,DEGREES F,,
+07/28/2018,6,FEET,75.9,DEGREES F,,
+07/28/2018,9,FEET,74.8,DEGREES F,,
+07/28/2018,12,FEET,73.7,DEGREES F,,
+08/31/2018,1,FEET,75.2,DEGREES F,,
+08/31/2018,2,FEET,75,DEGREES F,,
+08/31/2018,3,FEET,74.1,DEGREES F,,
+08/31/2018,6,FEET,72.6,DEGREES F,,
+08/31/2018,9,FEET,71.4,DEGREES F,,
+08/31/2018,12,FEET,70.8,DEGREES F,,
+08/31/2018,14,FEET,70.8,DEGREES F,,
+04/10/2019,1,FEET,50.7,DEGREES F,,
+04/10/2019,2,FEET,50.7,DEGREES F,,
+04/10/2019,3,FEET,50.3,DEGREES F,,
+04/10/2019,6,FEET,48.5,DEGREES F,,
+04/10/2019,9,FEET,45.6,DEGREES F,,
+04/10/2019,12,FEET,44,DEGREES F,,
+04/10/2019,12.5,FEET,44,DEGREES F,,
+06/23/2019,1,FEET,71.7,DEGREES F,,
+06/23/2019,3,FEET,71.6,DEGREES F,,
+06/23/2019,6,FEET,70.8,DEGREES F,,
+06/23/2019,9,FEET,67.8,DEGREES F,,
+06/23/2019,12,FEET,66.7,DEGREES F,,
+06/23/2019,14,FEET,65.6,DEGREES F,,
+07/23/2019,1,FEET,78.8,DEGREES F,,
+07/23/2019,3,FEET,78.6,DEGREES F,,
+07/23/2019,6,FEET,78,DEGREES F,,
+07/23/2019,9,FEET,76.8,DEGREES F,,
+07/23/2019,12,FEET,75.5,DEGREES F,,
+07/23/2019,13,FEET,75.3,DEGREES F,,
+08/27/2019,1,FEET,72.6,DEGREES F,,
+08/27/2019,2,FEET,72.4,DEGREES F,,
+08/27/2019,3,FEET,72.3,DEGREES F,,
+08/27/2019,4,FEET,72.1,DEGREES F,,
+08/27/2019,5,FEET,71.9,DEGREES F,,
+08/27/2019,6,FEET,71.9,DEGREES F,,
+08/27/2019,9,FEET,71,DEGREES F,,
+08/27/2019,12,FEET,70.8,DEGREES F,,
+04/04/2020,1,FEET,49.4,DEGREES F,,
+04/04/2020,3,FEET,48.9,DEGREES F,,
+04/04/2020,6,FEET,46.7,DEGREES F,,
+04/04/2020,9,FEET,45.6,DEGREES F,,
+04/04/2020,12,FEET,45.6,DEGREES F,,
+04/04/2020,13,FEET,45.8,DEGREES F,,
+04/19/2020,1,FEET,49.1,DEGREES F,,
+04/19/2020,3,FEET,48.7,DEGREES F,,
+04/19/2020,6,FEET,48.2,DEGREES F,,
+04/19/2020,9,FEET,48.3,DEGREES F,,
+04/19/2020,12,FEET,48.2,DEGREES F,,
+06/14/2020,1,FEET,71.7,DEGREES F,,
+06/14/2020,3,FEET,71.6,DEGREES F,,
+06/14/2020,6,FEET,71,DEGREES F,,
+06/14/2020,9,FEET,69,DEGREES F,,
+06/14/2020,12,FEET,67.4,DEGREES F,,
+06/14/2020,14.5,FEET,67.2,DEGREES F,,
+06/21/2020,1,FEET,79.5,DEGREES F,,
+06/21/2020,3,FEET,78.6,DEGREES F,,
+06/21/2020,6,FEET,76.4,DEGREES F,,
+06/21/2020,9,FEET,71.4,DEGREES F,,
+06/21/2020,12,FEET,69.2,DEGREES F,,
+06/21/2020,14,FEET,67.4,DEGREES F,,
+07/19/2020,1,FEET,81.8,DEGREES F,,
+07/19/2020,3,FEET,81.6,DEGREES F,,
+07/19/2020,6,FEET,80.4,DEGREES F,,
+07/19/2020,9,FEET,78.6,DEGREES F,,
+07/19/2020,12,FEET,76.6,DEGREES F,,
+07/19/2020,14,FEET,76.2,DEGREES F,,
+08/23/2020,1,FEET,79.3,DEGREES F,,
+08/23/2020,3,FEET,78.6,DEGREES F,,
+08/23/2020,6,FEET,78.2,DEGREES F,,
+08/23/2020,9,FEET,77.3,DEGREES F,,
+08/23/2020,12,FEET,76.8,DEGREES F,,
+08/23/2020,13,FEET,76.4,DEGREES F,,
+
+
+
+Start Date,Fieldwork Comment
+07/04/1988,Lake substantially lower- excessive weed condition    
+07/09/1988,Pt. to mostly sunny and hazy    
+07/16/1988,Overcast- partly sunny- test taken before rain    
+07/25/1988,Partly sunny- dam ruined between crooked lake and bark river by canoeists    
+07/31/1988,Sunny to partly sunny    
+08/06/1988,Very sunny- rain 2 days age- no effect on lake level- no lake activity    
+08/13/1988,Pt. cloudy- windy- some rain last wk.- excessive weeds continue    
+08/28/1988,Bright sun and windy    
+09/02/1988,Sunny to pt. Sunny.  Water level up.    
+09/24/1988,Sunny and calm    
+06/17/1989,Sunny- weeds terrible like last year    
+06/23/1989,Partly sunny/cloudy- many carp- weeds- weeds and more weeds    
+07/07/1989,Sunny- very weedy- no boat traffic    
+07/14/1989,Sunny- windy- few boats    
+08/05/1989,Very windy- sunny- severe storm previous day- water level up- storm approaching    
+08/12/1989,Very calm- sunny- no rain lately- little boat activity    
+08/19/1989,Partly cloudy- very windy- minor lake activity- weeds in bark river very bad- lots of loosestrife    
+08/30/1989,Partly cloudy- dam on crooked lake and bark river being wrecked- level going down- weed problems    
+09/08/1989,Partly cloudy- no other boats on lake    
+09/15/1989,Sunny- no boat traffic- disc is getting lost in weeds- reading would probably be deeper    
+06/20/1990,Clear- sunny    
+07/01/1990,Mostly sunny- weeds excessive but no more than '89- few boats- lake level up    
+07/08/1990,Sunny- windy- few motorboats- mostly canoes- heavy weeds    
+07/15/1990,Cloudy- calm- drastic level change- too weedy for motors- dam going out in shambles    
+07/21/1990,Mostly cloudy- calm- no boats- weeds in bark r. getting bad from dam to lake    
+07/28/1990,Overcast- hazy- no other boats- terribly weedy- clarity of bark river improved    
+08/05/1990,Partly cloudy- windy    
+06/15/1994,Clear- sunny- hot 90 degrees- minor algal blooms. Assumed sample time was noon.    
+06/26/1994,Sunny- clear + 80 degrees- lily pads blooming.    
+07/02/1994,75 degrees. partly cloudy- some algae blooms.    
+07/10/1994,69 degrees- sunny- a light breeze- few weeds- lots of lily pads.    
+07/17/1994,Partly sunny- 85 degrees- light breeze- few weeds- lily pads still blooming.  Lake level: very high    
+07/23/1994,Sunny- 85 degrees- light breeze- lily pads blooming- a few more weeds growing.    
+07/30/1994,Partly sunny- 80 degrees- little breeze- more weeds under water.    
+08/05/1994,Sunny- light breeze- 75 degrees.  Note: on vacation last week - no reading.    
+08/28/1994,~70 degrees- cloudy- light breeze.    
+09/05/1994,Overcast- 60 degrees F- light breeze.    
+09/15/1994,Sunny- light breeze- few weeds- 81 degrees F.    
+09/25/1994,Partly sunny- 72 degrees F- very little breeze.    
+10/01/1994,Windy- partly sunny- cool.    
+10/09/1994,Sunny- breezy- 58 degrees F.    
+10/22/1994,Sunny- windy.    
+10/29/1994,Sunny- 60 degrees F.    
+04/22/1995,Sunny- warm (3/19 ice off) .    
+04/29/1995,Sunny.    
+06/10/1995,Lots of weeds.    
+06/18/1995,Part sun. 90 degrees F- light breeze- many weeds and lily pads.    
+06/25/1995,Sunny- 87 degrees- fewer weeds- lily pads- light breeze.    
+07/09/1995,Part sun.    
+07/23/1995,Sunny- lilies in bloom.    
+07/30/1995,Sunny- breezy- lilies blooming.    
+08/13/1995,Part sun- very hot (93 degrees f) - lily pads blooming- few weeds- 4" new rain.    
+08/20/1995,Light breeze- sunny.    
+09/04/1995,Sunny- breezy- warm.    
+09/17/1995,Breezy- sunny.    
+09/23/1995,Sunny. light breeze.    
+06/30/1996,Sunny- light breeze- weedy.    
+07/07/1996,Sunny- windy- 83 degrees F- very weedy.    
+07/21/1996,Sunny- light breeze-  greater than 1.5" rain- weedy- lilies in bloom.    
+08/04/1996,Sunny- light breeze- windy. (11/2/95-ice on- 4/4/96-ice off) .    
+05/11/1997,Sunny with a light breeze.    
+06/20/1997,Many weeds and sunny.    
+07/12/1997,Lily blooms- many weeds- and sunny.    
+06/20/1998,Breezy 85 degrees.    
+07/05/1998,Light breeze 80 degrees.    
+07/16/1998,Water lilies blooming.    
+09/08/1998,Breezy.    
+06/09/2002,sunny- 85 degrees- lily pads blooming- water iris blooming- many fish and spawing beds    
+07/14/2002,Some algae beginning to show in the water.  Low lake
+level.  A lot of eurasian milfoil.  Zebra mussels visible on
+rocks in the lake.    
+08/03/2002,Quite a bit of algae in the water.  Low lake level.
+Eurasian milfoil is beginning to die back.
+
+    
+05/20/2006,windy- sunny- some milfoil present (not at surface yet)
+05/28/2006,breezy- sunny- outside temp. 94 degrees- a little more milfoil present under the water surface- a few lily pads appearing
+06/15/2006,overcast- light breeze- water lilies blooming- eurasian milfoil present to the surface in some areas
+07/02/2006,Sunny and calm
+07/13/2006,Sunny- light breeze- few weeds visible in lake- algae in water
+07/22/2006,Partly cloudy- breezy- algae visible in the lake
+08/15/2006,Few weeds- algae levels pretty high - very visible in water- sunny- breezy- 85 degrees outside
+09/02/2006,Partly cloudy- windy- algae visible
+10/01/2006,calm- sunny- some weeds- some algae
+10/08/2006,breezy- sunny
+04/28/2007,windy- Canada geese on lake (~6)
+05/28/2007,Partly cloudy- 80 degrees- slight breeze- water irises in bloom
+07/22/2007,light breeze- water lillies blooming- sunny- some algae present in the water- few weeds
+08/12/2007,sunny- light breeze- some algae present in water- lilly pads w/ blooms- water level up after recent rain storms
+09/02/2007,sunny- light breeze- high water level due to recent rain in past 2 weeks- some weeds are visible again especially in the south end of the lake- heron spotted on lake
+09/23/2007,sunny- breezy- many weeds growing on south end of lake- quite a few weed patches visible elsewhere on lake also
+04/20/2008,Sunny- light breeze-  1 great blue heron on lake- about 5 pair of canada geese on lake
+05/26/2008,windy day- partly sunny- a lot of eurasian milfoil on the south end of the lake-  also a lot of pollen on the water surface (especially in locations protected from the wind)
+06/26/2008,Cloudy- lily pad flowers blooming- many green algae blobs present in water especially near shorelines
+ Secchi hit bottom at 14.50 feet.
+07/05/2008,Breezy- algae blobs still present
+08/02/2008,Fewer algae blobs present- water lilies blooming- sunny- very light breeze
+08/27/2008,Breezy- sunny- quite a few weeds present in lake- also algae present in water
+09/07/2008,Partly cloudy- light breeze- 
+09/27/2008,light breeze- sunny- algae present in lake
+05/31/2009,Light breeze- sunny- many yellow irises in bloom- couple of ducks on lake- canada geese on lake- a lot of pollen on surface- eurasian milfoil present
+06/14/2009,light breeze- water irises blooming- mostly sunny- eurasian milfoil present
+06/27/2009,Sunny- light breeze- lily pads blooming- great blue heron on lake
+07/25/2009,breezy- party cloudy- algae present in lake and heavier in a few areas near shoreline
+07/04/2011,Lily pads beginning to bloom
+Sunny- light breeze
+07/10/2011,Cloud cover
+Some milfoil present
+lily pads blooming
+Light breeze
+07/17/2011,Algae present in lake
+Windy
+Quite a few lily pads with flowers blooming
+07/31/2011,Lake water is warm 
+Sunny- breezy
+Algae present in water
+08/17/2011,Breezy
+06/10/2012,Breezy
+07/01/2012,Very light breeze
+Milfoil present
+Sunny- 93 degrees
+06/23/2013,Algae present in lake
+A lot of Eurasian milfoil
+Calm
+
+08/30/2015,Light breeze- Partly cloudy
+Few weeds present in lake
+Some lily pads still blooming
+some algae visible in lake
+07/24/2016,Breezy- partly cloudy- lilies in bloom
+Some milfoil on surface of water near river inlet/outlet
+A lot of grey/black/brown surface algae near river inlet now broken up - was in larger patch previously
+
+07/30/2016,Windy- partly cloudy
+A lot of gray/black/brown algae floating on surface near the river inlet + outlet end of lake
+08/13/2016,Cloudy- light breeze
+Water appears cloudy
+Very little surface algae - a lot of dissolved algae 
+A lot of dead milfoil on surface of lake 
+
+08/19/2016,Light breeze- sunny- 80?
+Quite a few areas of floating milfoil and coontail
+A lot of lily pads on the South end
+Algae bloom present in the lake.  Light breeze- sunny- 80?- great blue heron on lake
+Quite a few areas of floating milfoil and coontail
+A lot of lily pads on the South end
+Algae bloom present in the lake. 
+08/20/2016,Sunny- light breeze
+08/26/2016,Sunny- very light breeze- many lily pads in bloom (loads of lily pads on South end of lake)
+A lot of E. milfoil on surface of water in a few areas (bet. Kramer pier + peninsula- bet. cabin + island- in front of hermitage). Lake has an unusual yellow green murky hue not seen in the past.  Quite a bit of Decayed Organic Plant Material chunks floating on surface. 
+
+Water in Bark River upstream much clearer than lake. 
+09/05/2016,Two great blue herons on lake. Some lily pads in bloom. Spots of weeds floating on lake surface (out from R. pier- Retreat center bay). Lake color is better (more green- less yellow) and clearer. The previous week was much cooler temperatures (70s during the day and 50s at night). 
+09/10/2016,Surface weeds between cabin + K. property- K. bay and Retreat Center pier
+Breezy 
+Partly cloudy
+Warm weather the previous weed (more algae present)
+
+09/18/2016,Many lily pads on south end of lake- a lot of Decayed Organic Plant Material floating throughout the lake especially from the river inlet to north end of lake. Areas of weeds floating on surface still present between Retreat Center + island and also small area west of K. pier.
+Sunny- slight breeze
+04/23/2017,Sunny- pretty calm- Lake is green/yellow in color
+Blobs of bright green algae seen forming on the SW end of lake near shoreline - spirogyra 
+The lake bottom near the Bark River inlet and outlet is covered with bright green algae (spirogyra) not seen on this lake in the past with the exception of last summer after effluent from Dela-Hart entered river. 
+Canada geese nesting on island- Great Blue heron spotted on east side of lake- Mallard spotted near island. 
+05/07/2017,Breezy- Sunny- Spirogyra along bed of lake in the river inlet/outlet area
+Eurasion milfoil beginning to grow in the river inlet/outlet area + also along the south end of the lake. 
+05/13/2017,Light breeze- partly cloudy- great blue heron on shoreline.
+Eurasion milfoil getting taller/thicker in the river inlet/outlet area + in south end of lake.
+Spirogyra along lake bottom in the river inlet/outlet area.
+Kayakers + canoers out enjoying lake today. 
+05/27/2017,Party cloudy- pretty calm- couple of Canada geese on lake. Also a pair of mallards nesting. Eurasian milfoil growing on south end of lake. Treatment for Eurasian milfoil took place on Tuesday. Kayakers + canoers enjoying lake today. 
+06/07/2017,Calm afternoon- sunny
+A lot of fish seen in lake (bass- gar- minnows- carp- perch?)
+Eurasian milfoil pretty heavy between K. pier + K. point. Also spirogyra (? bright green looking) seen along bed of lake at the river inlet/outlet. 
+06/17/2017,Mostly cloudy- pretty calm- 9 canoes/kayaks on lake- EWM present near smaller lake inlet + point.
+06/27/2017,Mostly sunny- very light breeze- white lilies blooming- one canoe
+07/03/2017,Sunny- Breezy- Eurasian milfoil prolific in the south end of lake and also in a patch east of the island. 
+07/09/2017,sunny- breezy- beautiful day- canoers and kayakers on the water
+07/23/2017,Light breeze- took reading from kayak (not pontoon)- partly cloudy- lily pads blooming 
+Kayakers and fishermen/women
+A few green/brown blobs floating around.
+07/31/2017,Partly sunny- Light breeze- E. milfoil beds at south end of lake + area go the east of Island
+08/16/2017,Sunny- light breeze- boat w/ fishermen on lake- lily pads blooming- suspended particles visible in lake
+08/30/2017,Sunny- calm.
+More suspended particles in the water- and streaking on surface of water between island + Retreat Center and also between island + east peninsula. 
+2 Kayakers on lake fishing
+09/10/2017,Calm. A lot of milfoil floating on surface of lake in areas where it is present below as well. Canada geese back on lake (migrating). 
+09/17/2017,Light breeze- 7 kayaks on lake- Sunny- A lot of eurasian milfoil in south end of lake and also east of the island. 
+10/08/2017,Breezy + sunny. Water level has gone down and some shoreline rocks visible on Eastern peninsula. Kayaks and canoes on lake (some fishing). Some of the weeds are no longer as visible on top of the surface of the water as they were in September. 
+Took reading from kayak (not pontoon). 
+05/26/2018,Sunny- Calm- Some algae present- a lot of tree pollen on surface of lake
+10 kayaks- 1 canoe - some are fishing
+06/17/2018,Breezy- partly cloudy- 90 degrees
+Eurasian milfoil has been treated recently and the results look good!
+Great blue heron on lake- lily pads beginning to bloom
+8 kayaks on lake
+06/25/2018,Partly sunny- breezy
+Few eurasian milfoil areas - great results from treatment
+Lake is 13.5 feet deep at deep hole
+
+07/03/2018,Mostly sunny- very light breeze- 90 degrees
+16 kayaks/canoes on lake
+pontoon boat with water skier + tubers
+lily pads blooming
+great blue heron- painted turtles- snapping turtle
+
+07/28/2018,8 kayaks/canoes on lake- Sunny with a couple of clouds- 78 degrees- a lot of lily pads with blooms- fish jumping
+The eurasian milfoil is looking very good after spring treatment - few areas of growth. Three great blue herons sighted on lake. 
+08/19/2018,Sunny- light breeze- Wavy surface from boat on lake
+Eurasian milfoil looks good (controlled)
+A few lily pads in bloom yet
+Algae particles visible in water
+
+08/31/2018,Algae particles visible in the water- a few lily pads in bloom- sunny- 80 degrees- breezy- no boats out
+
+09/09/2018,7 kayaks- 1 canoe on lake
+Water level very high from recent rains - presently no wake- piers at lake water level
+Windy- sunny- 66 degrees
+09/16/2018,Sunny- light breeze- 4 kayaks on the lake- Lily pads on lake- Eurasian milfoil under control + looks great!
+Algae visible suspended in water.
+04/10/2019,Sunny- calm
+Geese nesting on island
+Ducks
+1 Loon
+
+04/20/2019,Sunny- light breeze- 64 degrees. Quite a few Canada geese on lake and nests on island. Pair of mallards on lake. Lake appears greener than normal. Algae visible on bed of lake near small river inlet. 
+04/28/2019,Sunny- Canada geese on lake- slight breeze
+05/26/2019,Sunny- 70 degrees- Very light breeze. Pontoon boat w/tubers out. Beginning to see some eurasian milfoil under the water and scattered curly leaf pond weed. 
+06/09/2019,Cloudy- Light Breeze- Great blue heron flying over. A lot of yellow water irises around the shoreline - more than in the past. A few water lilies in northwest bay.
+06/23/2019,Mostly sunny- Windy- 73 degrees. Four kayaks on lake. Great blue heron flying over lake. Eurasian milfoil visible in many areas. Curly leaf pond weed scattered about. A lot of yellow iris on shoreline.
+
+07/04/2019,Kayakers- Canoeists + Swimmers on lake.-Sunny- Light breeze.- Water lilies blooming.- Some spatterdock also in bloom.
+07/13/2019,Part Cloudy- 9 total - Kayaks- Canoes Paddleboards - Swimmers- Breezy- Few weeds present- some algae suspended in the water
+
+07/23/2019,Sunny + Breezy. More algae visible suspended in the water.
+
+
+08/17/2019,Calm- Part Sun- Some water lilies blooming- 3 kayaks on lake- Algae visible suspended in water - Water appears yellow-green in color
+08/27/2019,Sunny + breezy. Very few weeds- Some water lilies still in bloom. Great blue heron on a pier. Depth is 12.5 feet.
+
+04/04/2020,Sunny- Light Breeze
+Canada Geese nesting on island + lake
+6 kayaks- 2 canoes out on lake
+
+04/19/2020,Sunny- breezy
+Canoe + Kayak on lake fishing
+At least 10 Canada geese on lake
+No aquatic plants visible on surface or under surface
+05/23/2020,Sunny
+Lake is very clear and beautiful
+Many kayaks- canoes on lake
+
+05/31/2020,Sunny- Light Breeze- 
+4 kayaks on lake- Pontoon boat with tubers on lake
+Observed: carp- largemouth bass- Male Mallard- Snapping turtles
+Eurasian milfoil growing in many areas
+Curly leaf pondweed visible in a few areas
+
+06/06/2020,A lot of yellow water iris on shoreline
+Filament algae in a few places
+A lot of eurasian milfoil 
+06/14/2020,Windy
+A lot of Curly leaf pond weed at both river inlets
+Eurasian milfoil is dying back after treatment
+6 kayaks- 1 canoe
+
+
+Depth to bottom of lake ~ 14.5 feet
+06/21/2020,Sunny- light breeze- 78 degrees air temp.
+Water lilles (yellow + white)
+Curly leaf pond weed- Eurasian milfoil (a lot on surface)
+Great blue heron- carp- Garfish- Large mouth bass
+20 kayaks on lake
+Bottom of lake measured around 14 feet.
+06/27/2020,Mostly sunny- Calm
+Seen on lake: garfish- a lot of carp- snapping turtle- deer at the shoreline
+27 canoe/kayak/tubers
+
+07/03/2020,2 canoes- 10 kayaks- 1 tuber- swimmers
+Partly cloudy- very light breeze
+
+07/11/2020,Mostly sunny- light breeze
+20 kayaks- 3 swimmers
+Some algae visible in the water
+Weeds are well controlled
+07/19/2020,15 kayaks- 2 canoes- 1 pontoon: Mostly cloudy- breezy- 81 degrees: Algae visible suspended in water: Yellow + white water lilies: ~14 feet to bottom
+
+
+08/09/2020,Partly Cloudy- Calm
+Lake level is low with 3-4 feet of rocky shoreline exposed
+1 kayak
+Algae visible suspended in water
+08/20/2020,Sunny- breezy: 2 canoes- 2 paddle boarders: No weeds noted- water lilies blooming: Water level is pretty low. :Over 50 Canada geese on lake 
+08/23/2020,partly cloudy- light breeze. 4 kayaks. water lilies. Lake level is about 2 feet below normal. About 6 feet of shoreline exposed. 
+09/04/2020,Sunny - Breezy
+2 kayaks on lake fishing
+67 degrees out
+09/19/2020,Sunny- Calm - Fish jumping - 5 kayaks- 2 canoes on lake - 65 degrees outside
+09/27/2020,Partly Cloudy- Breezy - 67 degrees outside - fish jumping - 2 pontoons- 5 kayaks on lake- water lily pads still visible 
+10/05/2020,Windy- Sunny- 59 degrees outside - whitecaps on south half of lake
+
+
+
+
+Start Date,Group Name,Project Name
+07/04/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/09/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/16/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/25/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/31/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/06/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/13/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/28/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/02/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/24/1988,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/17/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/23/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/07/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/14/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/05/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/12/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/19/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/30/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/08/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/15/1989,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/20/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/01/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/08/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/15/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/21/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/28/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/05/1990,Dennis Bolender,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/15/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/26/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/02/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/10/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/17/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/23/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/30/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/05/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/28/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/05/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/15/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/25/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/01/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/09/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/22/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/29/1994,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/22/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/29/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/05/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/16/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/26/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/10/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/18/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/25/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/09/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/23/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/30/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/13/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/20/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/04/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/17/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/23/1995,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/30/1996,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/07/1996,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/21/1996,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/04/1996,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/11/1997,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/20/1997,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/12/1997,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/25/1997,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/20/1998,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/05/1998,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/16/1998,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/08/1998,James And Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/09/2002,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/14/2002,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/03/2002,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/20/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/28/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/15/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/02/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/13/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/22/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/15/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/02/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/01/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/08/2006,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/28/2007,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/28/2007,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/22/2007,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/12/2007,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/02/2007,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/23/2007,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/20/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/26/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/26/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/05/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/02/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/27/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/07/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/27/2008,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/31/2009,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/14/2009,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/27/2009,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/25/2009,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/04/2011,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/10/2011,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/17/2011,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/31/2011,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/17/2011,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/10/2012,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/01/2012,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/10/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+07/11/2012,CAITLIN CARLSON,EPA National Lakes Survey 2012
+06/23/2013,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/30/2015,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/24/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/30/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/13/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/19/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/20/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/26/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/05/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/10/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/18/2016,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/23/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/07/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/13/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/27/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/07/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/17/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/27/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/03/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/09/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/23/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/31/2017,Data Collectors,Bacteria + Plankton (Paid Private)
+07/31/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/16/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/30/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/10/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/17/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/08/2017,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/08/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/26/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/17/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/25/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/03/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/28/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/19/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/31/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/09/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/16/2018,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/10/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/20/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/28/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/26/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/09/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/23/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/04/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/13/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/23/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/17/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/27/2019,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/04/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+04/19/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/23/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+05/31/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/06/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/14/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/21/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+06/27/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/03/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/11/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+07/19/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/09/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/20/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+08/23/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/04/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/19/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+09/27/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
+10/05/2020,Sue Siepmann,Citizen Lake Monitoring - Water Quality - Crooked Lake; Deep Hole
