@@ -21,7 +21,7 @@ This folder also contains several files and scripts. These are as follows:
 * `WILakes.df` - This is a set of the waterbodies from the NHDPlusV2 for the state of Wisconsin. It includes columns for the HUC8, HUC10, and HUC12 codes and a column for intersecting rivers. This file is created by the script `add_river_lake_nodes.py`.
 * `WIRivers.df` - This is a set of the rivers from the NHDPlusV2 for the state of Wisconsin. It includes columns for the HUC8, HUC10, and HUC12 codes and a column for intersecting waterbodies. This file is created by the script `add_river_lake_nodes.py`.
 * `agland.df` - This is the agricultural land with the HUC8, HUC10, and HUC12 codes added; this file is created by the script `add_hucs_to_agland`.
-* `WI_graph_functions.py` - This script contains several functions for working with "Hydrology Graphs." It also contains several functions that are called to form the desired graphs from the NHDPlusV2 and WBD.
+* `HydroGraph_functions.py` - This script contains several functions for working with "HydroGraphs." It also contains several functions that are called to form the desired graphs from the NHDPlusV2 and WBD.
 * `run_WI_graph_code.py` - This script runs the following other scripts, in the following order, to take the data from `lakes_rivers` and construct the files in `WIgeodataframes` and the files `WILakes.df` and `WIRivers.df`
     * `build_base_dataframes.py` - takes the NHDPlusV2 data and removes the areas outside of Wisconsin.
     * `add_hucs_to_lakes_rivers.py` - adds the HUC8, HUC10, and HUC12 codes to the river and waterbody GeoDataFrames
@@ -32,7 +32,7 @@ This folder also contains several files and scripts. These are as follows:
 
 ## 2. case_studies
 
-This folder contains three .ipynb files for three separate case studies. These three case studies focus on how "Hydrology Graphs" can be used to analyze pollutant impacts in surface waters. Details of these case studies can be found in the manuscript above.
+This folder contains three .ipynb files for three separate case studies. These three case studies focus on how "HydroGraphs" can be used to analyze pollutant impacts in surface waters. Details of these case studies can be found in the manuscript above.
 
 ## 3. DNR_data
 
@@ -62,7 +62,7 @@ The .py file in `DNR_data` used for webscraping used Python version 3.9.5 with S
 
 ## General Framework
 
-While the code in this repository contains scripts for the state of Wisconsin, the overall framework can easily be applied to other geographical areas as long as the data is in the right format. As our data comes directly from the NHDPlusV2 and WBD datasets, this is easy to set up for other areas. The script `run_WI_graph_code.py` calls 5 other python files that incorporate this framework. In addition, it calls many predefined functions from the file `WI_graph_functions.py`. These functions are a primary contribution of this work. 
+While the code in this repository contains scripts for the state of Wisconsin, the overall framework can easily be applied to other geographical areas as long as the data is in the right format. As our data comes directly from the NHDPlusV2 and WBD datasets, this is easy to set up for other areas. The script `run_WI_graph_code.py` calls 5 other python files that incorporate this framework. In addition, it calls many predefined functions from the file `HydroGraph_functions.py`. These functions are a primary contribution of this work. 
 
 The first file called is `build_base_dataframes.py`. This file is primarily data processing; the state of Wisconsin includes two different datasets from the NHDPlusV2 (HUC04 and HUC07), and we needed to first merge these two datasets together and then choose only the waterbodies/rivers/watersheds that are in the state of Wisconsin. For users who want to see an example of how to merge multiple HUC2 watersheds, this script may be helpful. 
 
