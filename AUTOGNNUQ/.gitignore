@@ -1,0 +1,6 @@
+gnn_uq.egg-info/
+*.tar.gz
+result/
+raw_notebook/
+*.pyc
+*.pickle
