@@ -8,7 +8,12 @@ Graph Neural Networks (GNNs) have emerged as a prominent class of data-driven me
 
 - 👉 [AIChE](https://drive.google.com/file/d/1DFC_-jh8x_qYjCub839b4cb4Fi4IlT6n/view?usp=sharing)
 
-<br />
+> Paper
+
+- 👉 [arXiv](https://doi.org/10.48550/arXiv.2307.10438)
+
+
+<br /> 
 
 ## ✨ AUTOGNNUQ Overview
 <br />
