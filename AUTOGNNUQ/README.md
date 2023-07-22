@@ -37,6 +37,7 @@ ray = 2.0.1
 
 ### Code
 `python train.py` runs neural architecture search for uncertainty quantification using multi-GPU support.
+
 `python post_training.py` executes post-training with the top 10 architectures discovered.
 
 ### Data and Result Visualization
