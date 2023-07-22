@@ -19,8 +19,7 @@ DistributionLambda = tfp.layers.DistributionLambda
 
 available_gpus = tf.config.list_physical_devices("GPU")
 n_gpus = len(available_gpus)
-if n_gpus > 1:
-    n_gpus -= 0
+
 is_gpu_available = n_gpus > 0
 
 if is_gpu_available:
@@ -96,5 +95,5 @@ for seed in range(8):
 
 
         regevo_search = RegularizedEvolution(problem, get_evaluator(
-            run_base_trainer), log_dir=f"./NEW_RE_{dataset}_random_{seed}")
+            run_base_trainer), log_dir=f"./result/NEW_RE_{dataset}_random_{seed}")
         regevo_search.search(max_evals=500)

@@ -26,5 +26,20 @@ $ cd ML/AUTOGNNUQ
 $ pip install -e .
 ```
 
-### Details
-Coming soon
+### Install Packages
+```bash
+python = 3.8
+deephyper = 0.3.3
+tensorflow = 2.5.0
+tensorflow-probability = 0.13.0
+ray = 2.0.1
+```
+
+### Code
+`python train.py` runs neural architecture search for uncertainty quantification using multi-GPU support.
+`python post_training.py` executes post-training with the top 10 architectures discovered.
+
+### Data and Result Visualization
+```bash
+$ cd notebook
+```

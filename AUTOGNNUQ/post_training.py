@@ -97,10 +97,24 @@ def post_train(arch, name, dataset, seed):
     print(f'RMSE: {unexplained_error ** 0.5: 0.4f}')
     print(f'R2: {R_squared: 0.4f}')
 
-    with open(f'./NEW_POST_RESULT/post_result_{dataset}_random_{seed}/{name}.pickle', 'wb') as handle:
+    with open(f'./result/NEW_POST_RESULT/post_result_{dataset}_random_{seed}/{name}.pickle', 'wb') as handle:
         pickle.dump(y_test, handle)
         pickle.dump(y_pred, handle)
         pickle.dump(history, handle)
+
+    y_valid = y_valid.squeeze()
+    
+    y_pred_valid = []
+    for i in range(len(x_valid[0])):
+        x_valid_ = [x_valid[j][i][None, ...] for j in range(len(x_valid))]
+        y_dist_ = model(x_valid_)
+        y_pred_valid.append([y_dist_.loc, y_dist_.scale])
+
+    y_pred_valid = np.array(y_pred_valid).squeeze()
+    
+    with open(f'./result/NEW_POST_RESULT/post_result_{dataset}_random_{seed}/val_{name}.pickle', 'wb') as handle:
+        pickle.dump(y_valid, handle)
+        pickle.dump(y_pred_valid, handle)
 
 
 def main(dataset='qm7', topk=20, seed=0):
@@ -110,10 +124,7 @@ def main(dataset='qm7', topk=20, seed=0):
         dataset: str, data set name
         topk: int, the number of best models to pick
     """
-    if platform.system() == 'Darwin':
-        MODEL_DIR = f'/Users/sjiang87/data_weight/gnn_uq/RE_{dataset}_random_{seed}/save/model/'
-    elif platform.system() == 'Linux':
-        MODEL_DIR = f"/home/sjiang87/gnn_uq/NEW_RE_{dataset}_random_{seed}/save/model/"
+    MODEL_DIR = f'./result/RE_{dataset}_random_{seed}/save/model/'
 
     arch_path = MODEL_DIR.split('save')[0] + 'results.csv'
     df = pd.read_csv(arch_path)
