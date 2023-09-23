@@ -1,6 +1,6 @@
 # HydroGraphs
 
-This repository contains the code for the manuscript "A Graph-Based Modeling Framework for Tracing Hydrological Pollutant Transport in Surface Waters." There are three main folders containing code and data, and these are outlined below. We call the framework for building a graph of these hydrological systems "HydroGraphs".
+This repository contains the code for the manuscript ["A Graph-Based Modeling Framework for Tracing Hydrological Pollutant Transport in Surface Waters."](https://arxiv.org/abs/2302.04991) There are three main folders containing code and data, and these are outlined below. We call the framework for building a graph of these hydrological systems "HydroGraphs".
 
 Several of the datafiles for building this framework are large and cannot be stored on Github. To conserve space, the notebook `get_and_unpack_data.ipynb` or the script `get_and_unpack_data.py` can be used to download the data from the Watershed Boundary Dataset (WBD), the National Hydrography Dataset (NHDPlusV2), and the agricultural land dataset for the state of Wisconsin. The files `WILakes.df` and `WIRivers.df` mentioned in section 1 below are contained within the `WI_lakes_rivers.zip` folder, and the files 24k Hydro Waterbodies dataset are contained in a zip file under the directory `DNR_data/Hydro_Waterbodies`. These files can also be unpacked by running the corresponding cells in the notebook `get_and_unpack_data.ipynb` or `get_and_unpack_data.py`. 
 
