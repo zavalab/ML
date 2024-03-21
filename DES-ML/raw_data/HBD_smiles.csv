@@ -1,0 +1,27 @@
+Name,Short,SMILES
+"1,2,4-triazole","1,2,4-triazole",c1nc[nH]n1
+"2,6-xylenol","2,6-xylenol",Cc1cccc(C)c1O
+Urea,Urea,NC(N)=O
+Imidazole,Imidazole,c1c[nH]cn1
+Decanoic acid,DECA,CCCCCCCCCC(=O)O
+Ethylene glycol,EG,OCCO
+Acetic acid,AC,CC(=O)O
+Glycerol,GLY,OCC(O)CO
+Phenol,Phenol,Oc1ccccc1
+Lactic acid,LA,CC(O)C(=O)O
+Levulinic acid,LEV,CC(=O)CCC(=O)O
+Ethanolamine,EA,NCCO
+Diethyleneglycol,DEG,OCCOCCO
+Methyldiethanol amine,MDA,CN(CCO)CCO
+Hexanoic acid,HEXA,CCCCCC(=O)O
+Thymol,Thymol,Cc1ccc(C(C)C)c(O)c1
+Furfuryl alcohol,FA,OCc1ccco1
+Triethyleneglycol,TEG,OCCOCCOCCO
+Octanoic acid,OCTA,CCCCCCCC(=O)O
+"1,4-butanediol","1,4-butanediol",OCCCCO
+"2,3-butanediol","2,3-butanediol",CC(O)C(C)O
+"1,2-propanediol","1,2-propanediol",CC(O)CO
+Guaiacol,Guaiacol,COc1ccccc1O
+"1,2-butanediol","1,2-butanediol",CCC(O)CO
+diethanolamine,DEA,OCCNCCO
+Ethylenecyanohydrin,ECN,N#CCCO
