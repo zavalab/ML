@@ -23,13 +23,16 @@ Graph Neural Networks (GNNs) have emerged as a prominent class of data-driven me
 ## ✨ Implementation and Development
 
 ### Download Data
-The data is publicly available at [here](https://drive.google.com/drive/folders/1lTG0aoY68D_yYBB7FCDlxpgmvPZbjW0u?usp=sharing).
+The necessary data can be found in the `data` folder. It includes the csv files for Lipo, FreeSolv, ESOL, and QM7 datasets from Deepchem.
 
+Download the folder from the git repository and install it as a pip package with the editable option.
 ```bash
 $ git clone -b AUTOGNNUQ --single-branch https://github.com/zavalab/ML.git
 $ cd ML/AUTOGNNUQ
 $ pip install -e .
 ```
+
+The trained weights are available [here](https://drive.google.com/drive/folders/19CH9L3GL6_yWj1qAl411GBIO7-mxb_f7?usp=sharing).
 
 ### Install Packages
 ```bash
@@ -39,13 +42,37 @@ tensorflow = 2.5.0
 tensorflow-probability = 0.13.0
 ray = 2.0.1
 ```
+This package heavily relies on DeepHyper. Detailed documentation and installation tutorials for different machines can be found at [https://deephyper.readthedocs.io/en/latest/index.html](https://deephyper.readthedocs.io/en/latest/index.html).
 
-### Code
-`python train.py` runs neural architecture search for uncertainty quantification using multi-GPU support.
+### Folder Structure
+- The `data` folder includes all raw data files in CSV format, containing SMILES strings and properties.
+- The `gnn_uq` folder contains all Python files used for neural architecture search (NAS), post-training analysis, and result analysis.
+- The `notebook` folder contains three Jupyter Notebooks for the results of NAS, UQ, and tSNE, respectively.
+- The `result` folder contains pickle files with all the results. Instructions on how to load them can be found in the notebooks.
 
-`python post_training.py` executes post-training with the top 10 architectures discovered.
+### How to Train
 
-### Data and Result Visualization
+- `python gnn_uq/train.py` runs neural architecture search for uncertainty quantification using multi-GPU support.
+- `python gnn_uq/post_training.py` executes post-training with the top 10 architectures discovered.
+- `python gnn_uq/post_training_random.py` executes post-training with random 10 architectures discovered.
+
+To run NAS training with multiple GPUs, submit the following Slurm script on your server.
+
 ```bash
-$ cd notebook
+#!/bin/bash
+#SBATCH --job-name=some.name
+#SBATCH --output=some.out
+#SBATCH --error=some.err
+#SBATCH --nodes=1                
+#SBATCH --ntasks=1             
+#SBATCH --cpus-per-gpu=1         
+#SBATCH --mem-per-cpu=32G
+#SBATCH --gres=gpu:32
+#SBATCH --time=24:00:00
+
+export TRAIN="/some/dir/autognnuq/gnn_uq/train.py"
+
+conda activate your.python.env
+
+srun python $TRAIN
 ```

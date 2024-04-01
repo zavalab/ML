@@ -1,3 +1,4 @@
+
 import tensorflow as tf
 import tensorflow.keras.backend as K
 from numpy.random import seed
@@ -28,7 +29,8 @@ class SPARSE_MPNN(tf.keras.layers.Layer):
                  update_method,
                  attn_head,
                  activation):
-        super(SPARSE_MPNN, self).__init__(self)
+#         super(SPARSE_MPNN, self).__init__(self)
+        super().__init__()
         self.state_dim = state_dim
         self.T = T
         self.activation = activations.get(activation)
@@ -94,7 +96,8 @@ class MP_layer(tf.keras.layers.Layer):
             attn_method,
             attn_head,
             update_method):
-        super(MP_layer, self).__init__(self)
+#         super(MP_layer, self).__init__(self)
+        super().__init__()
         self.state_dim = state_dim
         self.aggr_method = aggr_method
         self.activation = activation
@@ -166,7 +169,8 @@ class Message_Passer_NNM(tf.keras.layers.Layer):
             attn_method,
             aggr_method,
             activation):
-        super(Message_Passer_NNM, self).__init__()
+#         super(Message_Passer_NNM, self).__init__()
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
         self.attn_method = attn_method
@@ -307,7 +311,9 @@ class Update_Func_GRU(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim):
-        super(Update_Func_GRU, self).__init__()
+#         super(Update_Func_GRU, self).__init__()
+        
+        super().__init__()
         self.state_dim = state_dim
 
     def build(self, input_shape):
@@ -358,7 +364,9 @@ class Update_Func_MLP(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, activation):
-        super(Update_Func_MLP, self).__init__()
+#         super(Update_Func_MLP, self).__init__()
+        
+        super().__init__()
         self.state_dim = state_dim
         self.activation = activation
 
@@ -398,7 +406,9 @@ class Attention_GAT(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, attn_heads):
-        super(Attention_GAT, self).__init__()
+#         super(Attention_GAT, self).__init__()
+        
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
 
@@ -469,7 +479,8 @@ class Attention_SYM_GAT(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, attn_heads):
-        super(Attention_SYM_GAT, self).__init__()
+#         super(Attention_SYM_GAT, self).__init__()
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
 
@@ -544,7 +555,8 @@ class Attention_COS(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, attn_heads):
-        super(Attention_COS, self).__init__()
+#         super(Attention_COS, self).__init__()
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
 
@@ -615,7 +627,8 @@ class Attention_Linear(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, attn_heads):
-        super(Attention_Linear, self).__init__()
+#         super(Attention_Linear, self).__init__()
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
 
@@ -676,7 +689,9 @@ class Attention_Gen_Linear(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, attn_heads):
-        super(Attention_Gen_Linear, self).__init__()
+#         super(Attention_Gen_Linear, self).__init__()
+
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
 
@@ -751,7 +766,8 @@ class Attention_Const(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, attn_heads):
-        super(Attention_Const, self).__init__()
+#         super(Attention_Const, self).__init__()
+        super().__init__()
         self.state_dim = state_dim
         self.attn_heads = attn_heads
 
@@ -786,7 +802,9 @@ class GlobalAttentionPool(tf.keras.layers.Layer):
     """
 
     def __init__(self, state_dim, **kwargs):
-        super(GlobalAttentionPool, self).__init__()
+#         super(GlobalAttentionPool, self).__init__()
+
+        super().__init__()
         self.state_dim = state_dim
         self.kwargs = kwargs
 
@@ -823,7 +841,9 @@ class GlobalAttentionSumPool(tf.keras.layers.Layer):
     """
 
     def __init__(self, **kwargs):
-        super(GlobalAttentionSumPool, self).__init__()
+#         super(GlobalAttentionSumPool, self).__init__()
+
+        super().__init__()
         self.kwargs = kwargs
 
     def __str__(self):
@@ -862,7 +882,9 @@ class GlobalAvgPool(tf.keras.layers.Layer):
     """
 
     def __init__(self, axis=-2, **kwargs):
-        super(GlobalAvgPool, self).__init__()
+#         super(GlobalAvgPool, self).__init__()
+
+        super().__init__()
         self.axis = axis
         self.kwargs = kwargs
 
@@ -889,7 +911,9 @@ class GlobalMaxPool(tf.keras.layers.Layer):
     """
 
     def __init__(self, axis=-2, **kwargs):
-        super(GlobalMaxPool, self).__init__()
+#         super(GlobalMaxPool, self).__init__()
+
+        super().__init__()
         self.axis = axis
         self.kwargs = kwargs
 
@@ -917,7 +941,9 @@ class GlobalSumPool(tf.keras.layers.Layer):
     """
 
     def __init__(self, axis=-2, **kwargs):
-        super(GlobalSumPool, self).__init__()
+#         super(GlobalSumPool, self).__init__()
+
+        super().__init__()
         self.axis = axis
         self.kwargs = kwargs
 

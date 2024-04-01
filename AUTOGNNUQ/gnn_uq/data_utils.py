@@ -31,11 +31,10 @@ ATOM_FEATURES = {
 }
 
 # Distance feature sizes
-PATH_DISTANCE_BINS = list(range(10))
-THREE_D_DISTANCE_MAX = 20
+PATH_DISTANCE_BINS    = list(range(10))
+THREE_D_DISTANCE_MAX  = 20
 THREE_D_DISTANCE_STEP = 1
-THREE_D_DISTANCE_BINS = list(
-    range(0, THREE_D_DISTANCE_MAX + 1, THREE_D_DISTANCE_STEP))
+THREE_D_DISTANCE_BINS = list(range(0, THREE_D_DISTANCE_MAX + 1, THREE_D_DISTANCE_STEP))
 
 # len(choices) + 1 to include room for uncommon values; + 2 at end for IsAromatic and mass
 ATOM_FDIM = sum(len(choices) + 1 for choices in ATOM_FEATURES.values()) + 2
@@ -44,16 +43,35 @@ BOND_FDIM = 14
 # Memoization
 SMILES_TO_GRAPH = {}
 
-
 def onek_encoding_unk(value, choices):
+    """
+    Encode a categorical value using one-hot encoding, handling unknown values.
+
+    Args:
+        value: The categorical value to encode.
+        choices (list): List of possible categorical choices.
+
+    Returns:
+        list: The one-hot encoding of the value.
+
+    """
     encoding = [0] * (len(choices) + 1)
     index = choices.index(value) if value in choices else -1
     encoding[index] = 1
-
     return encoding
 
 
 def atom_featurizer(atom):
+    """
+    Generate features for a given atom.
+
+    Args:
+        atom (rdkit.Chem.Atom): The RDKit Atom object.
+
+    Returns:
+        list: List of features representing the atom.
+
+    """
     features = onek_encoding_unk(atom.GetAtomicNum() - 1, ATOM_FEATURES['atomic_num']) + \
         onek_encoding_unk(atom.GetTotalDegree(), ATOM_FEATURES['degree']) + \
         onek_encoding_unk(atom.GetFormalCharge(), ATOM_FEATURES['formal_charge']) + \
@@ -66,6 +84,16 @@ def atom_featurizer(atom):
 
 
 def bond_featurizer(bond):
+    """
+    Generate features for a given bond.
+
+    Args:
+        bond (rdkit.Chem.Bond or None): The RDKit Bond object or None if there is no bond.
+
+    Returns:
+        list: List of features representing the bond.
+
+    """
     if bond is None:
         fbond = [1] + [0] * (BOND_FDIM - 1)
     else:
@@ -84,6 +112,16 @@ def bond_featurizer(bond):
 
 
 def mol_to_graph(mol):
+    """
+    Convert an RDKit molecule into graph representation.
+
+    Args:
+        mol (rdkit.Chem.Mol): The RDKit molecule object.
+
+    Returns:
+        tuple: Tuple containing atom features, bond features, and pair indices.
+
+    """
     # Initialize graph
     atom_features = []
     bond_features = []
@@ -104,18 +142,35 @@ def mol_to_graph(mol):
     return np.array(atom_features), np.array(bond_features), np.array(pair_indices)
 
 
-def get_data(path, max_data_size=None):
+def get_data(path, tasks, max_data_size=None):
+    """
+    Load and preprocess data from a CSV file containing molecular information.
+
+    Args:
+        path (str): Path to the CSV file.
+        tasks (list): List of strings specifying the tasks to extract from the CSV file.
+        max_data_size (int, optional): Maximum number of data samples to load. Defaults to None.
+
+    Returns:
+        dict: Dictionary containing the preprocessed data.
+    """
 
     max_data_size = max_data_size or float('inf')
 
     # if already exists
     pickle_path = path.split('csv')[0] + 'pickle'
 
-    if os.path.exists(pickle_path):
+    if os.path.exists(pickle_path) :
         with open(pickle_path, 'rb') as f:
             data = pickle.load(f)
     else:
         # load data
+        with open(path, 'r') as f:
+            header = next(csv.reader(f))
+        
+        smile_idx = header.index("smiles")
+        label_idx = [header.index(task) for task in tasks if task in header]
+            
         with open(path, 'r') as f:
             reader = csv.reader(f)
             next(reader)  # skip header
@@ -127,14 +182,14 @@ def get_data(path, max_data_size=None):
                     'label': []}
 
             for line in reader:
-                smiles = line[0]
+                smiles = line[smile_idx]
                 mol = Chem.MolFromSmiles(smiles, sanitize=True)
                 atom_feature, bond_feature, pair_index = mol_to_graph(mol)
                 data['smiles'].append(smiles)
                 data['atom_features'].append(atom_feature)
                 data['bond_features'].append(bond_feature)
                 data['pair_indices'].append(pair_index)
-                data['label'].append(float(line[1]))
+                data['label'].append([float(line[i]) for i in label_idx])
 
                 if len(data) >= max_data_size:
                     break
@@ -148,6 +203,16 @@ def get_data(path, max_data_size=None):
 
 
 def format_data(data):
+    """
+    Format the raw molecular data into a standard format suitable for further processing.
+
+    Args:
+        data (dict): Dictionary containing the raw molecular data.
+
+    Returns:
+        dict: Dictionary containing the formatted molecular data.
+
+    """
     num_mol = len(data['atom_features'])
     num_atom = [data['atom_features'][i].shape[0] for i in range(num_mol)]
     num_bond = [data['bond_features'][i].shape[0] for i in range(num_mol)]
@@ -178,6 +243,21 @@ def format_data(data):
 
 
 def split_data(data, split_type='random', sizes=(0.5, 0.2, 0.3), seed=0, show_mol=False):
+    """
+    Split the molecular data into training, validation, and test sets according to the specified split type.
+
+    Args:
+        data (dict): Dictionary containing the molecular data.
+        split_type (str, optional): Type of data split. Defaults to 'random'.
+        sizes (tuple, optional): Sizes of the training, validation, and test sets. Defaults to (0.5, 0.2, 0.3).
+        seed (int, optional): Seed for random number generation. Defaults to 0.
+        show_mol (bool, optional): Whether to return molecular structures along with data splits. Defaults to False.
+
+    Returns:
+        list: Depending on 'show_mol', returns either a list containing the molecular structures and labels 
+        for each split, or lists containing the feature matrices and labels for each split.
+
+    """
 
     if split_type == 'random':
         num_mol = len(data['atom_features'])
@@ -236,6 +316,19 @@ def split_data(data, split_type='random', sizes=(0.5, 0.2, 0.3), seed=0, show_mo
 
 
 def scaffold_split(data, sizes=(0.5, 0.2, 0.3), show_mol=False):
+    """
+    Perform scaffold-based splitting of the molecular data into training, validation, and test sets.
+
+    Args:
+        data (dict): Dictionary containing the molecular data.
+        sizes (tuple, optional): Sizes of the training, validation, and test sets. Defaults to (0.5, 0.2, 0.3).
+        show_mol (bool, optional): Whether to return molecular structures along with data splits. Defaults to False.
+
+    Returns:
+        list: Depending on 'show_mol', returns either a list containing the molecular structures and labels 
+        for each split, or lists containing the feature matrices and labels for each split.
+
+    """
     # Split
     num_mol = len(data['atom_features'])
     train_size, val_size = sizes[0] * num_mol, sizes[1] * num_mol
@@ -298,6 +391,16 @@ def scaffold_split(data, sizes=(0.5, 0.2, 0.3), show_mol=False):
 
 
 def generate_scaffold(mol):
+    """
+    Generate the scaffold for a given molecule.
+
+    Args:
+        mol (str or Mol): SMILES representation of the molecule or RDKit Mol object.
+
+    Returns:
+        str: SMILES representation of the scaffold.
+
+    """
     mol = Chem.MolFromSmiles(mol) if type(mol) == str else mol
     scaffold = MurckoScaffold.MurckoScaffoldSmiles(
         mol=mol, includeChirality=False)
@@ -305,6 +408,17 @@ def generate_scaffold(mol):
 
 
 def scaffold_to_smiles(mols, use_indices=True):
+    """
+    Generate a mapping from scaffold to molecule indices or molecules.
+
+    Args:
+        mols (list): List of molecules in SMILES format.
+        use_indices (bool, optional): If True, maps scaffolds to molecule indices. If False, maps scaffolds to molecules themselves. Defaults to True.
+
+    Returns:
+        defaultdict: A defaultdict where keys are scaffold SMILES strings and values are sets of molecule indices or molecules.
+
+    """
     scaffolds = defaultdict(set)
 
     for i, mol in enumerate(mols):
