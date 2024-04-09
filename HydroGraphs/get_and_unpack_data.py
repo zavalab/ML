@@ -28,7 +28,7 @@ os.remove(path + "/WI_ACPFfields2019.zip")
 
 # Download HUC04 NHDPlusV2 data
 
-watershed4_url = "https://edap-ow-data-commons.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusGL/NHDPlusV21_GL_04_NHDSnapshot_08.7z"
+watershed4_url = "https://dmap-data-commons-ow.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusGL/NHDPlusV21_GL_04_NHDSnapshot_08.7z"
 wget.download(watershed4_url, out = path)
 
 # Extract data from .7z file
@@ -56,7 +56,7 @@ os.remove(path + "/NHDPlusV21_GL_04_NHDSnapshot_08.7z")
 
 # Download HUC07 NHDPlusV2 data
 
-watershed7_url = "https://edap-ow-data-commons.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusMS/NHDPlus07/NHDPlusV21_MS_07_NHDSnapshot_08.7z"
+watershed7_url = "https://dmap-data-commons-ow.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusMS/NHDPlus07/NHDPlusV21_MS_07_NHDSnapshot_08.7z"
 wget.download(watershed7_url, out = path)
 
 # Extract data from .7z file
@@ -83,7 +83,7 @@ os.remove(path + "/NHDPlusV21_MS_07_NHDSnapshot_08.7z")
 
 # Download the NHDPlusV2 Attributes to get file that contains the to-from comid lists for HUC 04
 
-watershed4_url_attributes = "https://edap-ow-data-commons.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusGL/NHDPlusV21_GL_04_NHDPlusAttributes_14.7z"
+watershed4_url_attributes = "https://dmap-data-commons-ow.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusGL/NHDPlusV21_GL_04_NHDPlusAttributes_14.7z"
 wget.download(watershed4_url_attributes, out = path)
 
 # Extract data from the .7z file
@@ -103,7 +103,7 @@ os.remove(path + "/NHDPlusV21_GL_04_NHDPlusAttributes_14.7z")
 
 # Download the NHDPlusV2 Attributes to get file that contains the to-from comid lists for HUC 07
 
-watershed7_url_attributes = "https://edap-ow-data-commons.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusMS/NHDPlus07/NHDPlusV21_MS_07_NHDPlusAttributes_10.7z"
+watershed7_url_attributes = "https://dmap-data-commons-ow.s3.amazonaws.com/NHDPlusV21/Data/NHDPlusMS/NHDPlus07/NHDPlusV21_MS_07_NHDPlusAttributes_10.7z"
 wget.download(watershed7_url_attributes, out = path)
 
 # Extract data from the .7z file

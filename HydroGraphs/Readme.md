@@ -1,6 +1,6 @@
 # HydroGraphs
 
-This repository contains the code for the manuscript "A Graph-Based Modeling Framework for Tracing Hydrological Pollutant Transport in Surface Waters." There are three main folders containing code and data, and these are outlined below. We call the framework for building a graph of these hydrological systems "HydroGraphs".
+This repository contains the code for the manuscript ["A Graph-Based Modeling Framework for Tracing Hydrological Pollutant Transport in Surface Waters."](https://arxiv.org/abs/2302.04991) There are three main folders containing code and data, and these are outlined below. We call the framework for building a graph of these hydrological systems "HydroGraphs".
 
 Several of the datafiles for building this framework are large and cannot be stored on Github. To conserve space, the notebook `get_and_unpack_data.ipynb` or the script `get_and_unpack_data.py` can be used to download the data from the Watershed Boundary Dataset (WBD), the National Hydrography Dataset (NHDPlusV2), and the agricultural land dataset for the state of Wisconsin. The files `WILakes.df` and `WIRivers.df` mentioned in section 1 below are contained within the `WI_lakes_rivers.zip` folder, and the files 24k Hydro Waterbodies dataset are contained in a zip file under the directory `DNR_data/Hydro_Waterbodies`. These files can also be unpacked by running the corresponding cells in the notebook `get_and_unpack_data.ipynb` or `get_and_unpack_data.py`. 
 
@@ -9,7 +9,8 @@ This folder contains the data and code for building a graph of the watershed-riv
 
 * `CAFOS_shp` - contains the shape files for concentrated animal feeding operations (CAFOs) in Wisconsin
 * `Counties` - contains the shape files for all the counties in Wisconsin, obtained from [here](https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::county-boundaries-24k/about). This shapefile was dissolved to get a polygon of the state of Wisconsin. 
-* `agland` - contains a shapefile of the agricultural land for the state of Wisconsin obtained from [here](https://doi.org/10.15482/USDA.ADC/1520625). This file was altered to clip the land by watershed and include the HUC8, HUC10, and HUC12 codes for the watershed that each polgyon of land lies within. The resulting GeoDataFrame is called `agland.df`. Agricultural land (not including pastures/hay) is found in the subset of polygons where feature `isAG` is equal to 1.
+* `agland` - contains a shapefile (after running the `get_and_unpack_data` script) of the agricultural land for the state of Wisconsin obtained from [here](https://doi.org/10.15482/USDA.ADC/1520625). This file was altered to clip the land by watershed and include the HUC8, HUC10, and HUC12 codes for the watershed that each polgyon of land lies within. The resulting GeoDataFrame is called `agland.df`. Agricultural land (not including pastures/hay) is found in the subset of polygons where feature `isAG` is equal to 1.
+* `landcover` - contains the wiscland2 land cover raster file. A script for converting the raster file into a shapefile. A second script is available for clipping the land cover polygons along the HUC watershed boundaries and assigning the clipped polygons to a HUC. The resulting GeoDataFrame is then used for analyzing urban land fractions.
 * `lakes_rivers` - contains the basic dataframes obtained from the NHDPlusV2 and WBD. These are contained within the `Watershed4` and `Watershed7` subfolders. These subfolders also contain the `PlusFlow.dbf` file from the NHDPlusV2, and the `PlusFlow.csv` file that is a CSV format of the `PlusFlow.dbf`. In addition, there is a subfolder, `WI`, that contains the shapefile of Wisconsin that was constructed from the Wisconsin counties. 
 * `WIgeodataframes` - contains the shapefiles of the lakes, rivers, and HUCs for the state of Wisconsin after running the script `run_WI_graph_code.py` (the resulting files are not included in the repository due to size). These were obtained from the NHDPlusV2 and WBD data in `lakes_rivers`, but with some minor attribute additions and only over the state of Wisconsin. In addition, this folder contains the CSVs of TOCOMID and FROMCOMID list for different graphs. These lists are manipulations of the `PlusFlow.csv` where:
     * `WItofroms.csv` is the `PlusFlow.csv` applied to just the state of Wisconsin. This can be used to form the river graph
@@ -48,6 +49,7 @@ The .py files in `graph_construction/` were run using Python version 3.9.7. The 
 * networkx (2.7.1)
 * pandas (1.4.1)
 * numpy (1.21.2)
+* rasterio (1.2.10)
 
 The .ipynb files in `graph_construction/` and `case_studies` were run using Python version 3.8.5 with the following packages and version numbers:
 
@@ -62,7 +64,7 @@ The .py file in `DNR_data` used for webscraping used Python version 3.9.5 with S
 
 ## General Framework
 
-While the code in this repository contains scripts for the state of Wisconsin, the overall framework can easily be applied to other geographical areas as long as the data is in the right format. As our data comes directly from the NHDPlusV2 and WBD datasets, this is easy to set up for other areas. The script `run_WI_graph_code.py` calls 5 other python files that incorporate this framework. In addition, it calls many predefined functions from the file `HydroGraph_functions.py`. These functions are a primary contribution of this work. 
+While the code in this repository contains scripts for the state of Wisconsin, the overall framework can easily be applied to other geographical areas as long as the data is in the right format. As our data comes directly from the NHDPlusV2 and WBD datasets, this is easy to set up for other areas. The script `run_WI_graph_code.py` calls 5 other python files that incorporate this framework. In addition, it calls many predefined functions from the file `HydroGraph_functions.py`. These functions are among the contributions of this framework. 
 
 The first file called is `build_base_dataframes.py`. This file is primarily data processing; the state of Wisconsin includes two different datasets from the NHDPlusV2 (HUC04 and HUC07), and we needed to first merge these two datasets together and then choose only the waterbodies/rivers/watersheds that are in the state of Wisconsin. For users who want to see an example of how to merge multiple HUC2 watersheds, this script may be helpful. 
 
@@ -79,6 +81,7 @@ If the user has the correct data (i.e., they have the NHDPlusV2 and WBD data for
  * Add HUC code attributes to the waterbody and river datasets (lines 23-31 of file `add_hucs_to_lakes_rivers.py`; this is done through the functions `add_HUC8`, `add_HUC10`, and `add_HUC12`)
  * Identify the river segments that intersect each waterbody (and the waterbodies that intersect each river segment). This is done through the function `add_lake_river_node_column` (see line 12 of `add_river_lake_nodes.py`)
  * Aggregate the graph (if desired). This reduces the number of nodes in the graph, but maintains connectivity to HUC12s and upstream waterbodies. This is done through the function `aggregate_river_nodes` (see line 18 of `aggregated_graph`)
+ * Optionally (for use in the case studies), land cover data can be generated by calling `landcover/landcover_raster_to_shp.py` and then `landcover/landcover_assignments.py`.
 
 The result of this framework is an edge list (list of COMID sources and destinations). For river segments alone, this list is supplied by NHDPlusV2, but the above process returns a new list composed of lake and river COMIDs. In addition, the aggregation process returns a reduced list of COMIDs. These lists can be used very easily to construct graphs in `NetworkX` in Python. `HydroGraphs` also provides functions for producing the graph directly from the edge list/tofrom list, and it provides functions for getting the upstream and downstream graphs from a given COMID. 
 
