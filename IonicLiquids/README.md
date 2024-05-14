@@ -37,14 +37,6 @@ We analyze the underlying principles of pure ionic liquid conductivity and other
 
 <br />
 
-## Implementation and Development
-
-```bash
-$ git clone -b SolvGNN --single-branch https://github.com/zavalab/ML.git
-$ cd ML
-$ conda create -f environment.yml
-```
-
 ## Tutorials
 
 For detailed usage, navigate to the `notebook` directory.
