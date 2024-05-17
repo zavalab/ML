@@ -18,7 +18,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 > Publication
 
-- 👉 [Submitted Paper](Link)
+- In Progress
 
 <br />
 
