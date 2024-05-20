@@ -18,7 +18,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 > Publication
 
-- In Progress
+- 👉 [Submitted Paper](Link)
 
 <br />
 
@@ -36,7 +36,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 > t-SNE property mapping
 <br />
 
-<img src="./Figures/Readme_t-SNE Properties White.png" />
+<img src="./Figures/Readme_Six t-SNE Properties White.png" />
 
 <br />
 
