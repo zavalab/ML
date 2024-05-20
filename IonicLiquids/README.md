@@ -14,7 +14,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 - `Databases` from RDKit, PubChem, and ILThermo containing properties and molecular descriptors for **218** ionic liquids and **2,371** temperature dependent data points
 - `Bulk property  predictions` for ionic liquids given their **SMILES strings** and **RDKit Simulations**
 - `Descriptor analysis` to evaluate predictive capabilities and identify underlying ion transport mechanisms
-- `Classical model analyses` to contraist ion transport mechanisms in ionic liquids
+- `Classical model analyses` to contrast ion transport mechanisms in ionic liquids
 
 > Publication
 
@@ -26,14 +26,14 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 <br />
 
-> Classical modeling (Nernst-Einstein, modified Arrhneius)
+> Classical and Machine Learning Modeling
 
 <br />
 <img src="./Figures/Readme_Model Fits.png" /> 
 <br />
 <br />
 
-> t-SNE property mapping
+> t-SNE Property Mapping
 <br />
 
 <img src="./Figures/Readme_Six t-SNE Properties White.png" />
