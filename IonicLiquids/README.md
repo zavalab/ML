@@ -18,7 +18,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 > Publication
 
-- 👉 [Submitted Paper](Link)
+- [In Progress](Link)
 
 <br />
 
@@ -42,7 +42,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 ## Tutorials
 
-For detailed usage, navigate to the `notebook` directory.
+For detailed usage, navigate to the `Jupyter Notebooks` directory.
 
 
 ## Links
