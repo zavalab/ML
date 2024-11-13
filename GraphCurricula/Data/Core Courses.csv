@@ -1,0 +1,14 @@
+Course,Edges To,Name,Type,Credits
+CBE 150,,Intro to Chemical Engineering,Intro,1
+CBE 250,CBE 255;CBE 310,Process Synthesis,Thermodynamics,3
+CBE 255,CBE 310,Intro Chem Proc Model,Computation,3
+CBE 310,CBE 311;CBE 324;CBE 326,Chem Process Thermo,Thermodynamics,3
+CBE 311,CBE 426;CBE 430,Thermo of Mixtures,Thermodynamics,3
+CBE 320,CBE 426;CBE 324;CBE 326;CBE 430,Intro Transport Phenomena,Transport,4
+CBE 324,CBE 424,Transport Phenomena Lab,Lab,3
+CBE 326,CBE 450;CBE 424;CBE 470,Momentum and Heat Transfer,Transport,3
+CBE 426,CBE 450;CBE 424,Mass Transfer Operation,Transport,3
+CBE 430,CBE 450;CBE 424;CBE 470,Chem Kinetics and Reactor Design,Reactions,3
+CBE 450,,Process Design,Design,3
+CBE 470,,Process Dynamics and Control,Control,3
+CBE 424,,Operation Process Lab,Lab,5

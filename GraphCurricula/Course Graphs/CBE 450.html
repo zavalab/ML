@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1920px;
+                 height: 1080px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "green", "id": "Identification of Separation Sequences", "label": "Identification of Separation Sequences", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Preliminary Process Flowsheeting\u0027]", "x": 321.99, "y": -522.0}, {"color": "#97c2fc", "id": "Preliminary Process Flowsheeting", "label": "Preliminary Process Flowsheeting", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 4\nPredecessors: [\u0027Identification of Separation Sequences\u0027, \u0027Reaction Equilibrium Conditions\u0027, \u0027Constructing PFDs\u0027]\nSuccessors: [\u0027Preliminary Process Selection\u0027]", "x": 543.99, "y": -450.0}, {"color": "#97c2fc", "id": "Preliminary Process Selection", "label": "Preliminary Process Selection", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 3\nPredecessors: [\u0027Preliminary Process Flowsheeting\u0027, \u0027Preliminary Process Evaluation\u0027]\nSuccessors: [\u0027Process Simulation\u0027]", "x": 993.99, "y": -378.0}, {"color": "green", "id": "Reaction Equilibrium Conditions", "label": "Reaction Equilibrium Conditions", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Preliminary Process Flowsheeting\u0027]", "x": 615.99, "y": -522.0}, {"color": "green", "id": "Constructing PFDs", "label": "Constructing PFDs", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Preliminary Process Flowsheeting\u0027]", "x": 77.993, "y": -522.0}, {"color": "#97c2fc", "id": "Process Simulation", "label": "Process Simulation", "physics": false, "shape": "dot", "size": 22.5, "title": "Size: 0.3 credits\nConnected Componets: 3\nPredecessors: [\u0027Preliminary Process Selection\u0027, \u0027Modeling Reactor-Separator Systems\u0027]\nSuccessors: [\u0027Design Specification Package\u0027]", "x": 1189.0, "y": -306.0}, {"color": "#97c2fc", "id": "Design Specification Package", "label": "Design Specification Package", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 4\nPredecessors: [\u0027Process Simulation\u0027, \u0027Process Utilities and HENS\u0027, \u0027Equipment Sizing\u0027]\nSuccessors: [\u0027Process Economic Evaluation\u0027]", "x": 1174.0, "y": -234.0}, {"color": "#97c2fc", "id": "Process Economic Evaluation", "label": "Process Economic Evaluation", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 4\nPredecessors: [\u0027Design Specification Package\u0027, \u0027Operating Cost Estimation\u0027, \u0027Capital Cost Estimation\u0027]\nSuccessors: [\u0027Sensitivity and Optimization\u0027]", "x": 1174.0, "y": -162.0}, {"color": "#97c2fc", "id": "Sensitivity and Optimization", "label": "Sensitivity and Optimization", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 2\nPredecessors: [\u0027Process Economic Evaluation\u0027]\nSuccessors: [\u0027Final Process Design Package\u0027]", "x": 1174.0, "y": -90.0}, {"color": "red", "id": "Final Process Design Package", "label": "Final Process Design Package", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 1\nPredecessors: [\u0027Sensitivity and Optimization\u0027]\nSuccessors: []", "x": 1174.0, "y": -18.0}, {"color": "green", "id": "Process Efficiency Measures", "label": "Process Efficiency Measures", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Preliminary Process Evaluation\u0027]", "x": 1177.0, "y": -522.0}, {"color": "#97c2fc", "id": "Preliminary Process Evaluation", "label": "Preliminary Process Evaluation", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 3\nPredecessors: [\u0027Process Efficiency Measures\u0027, \u0027Preliminary Process Operating Costs\u0027]\nSuccessors: [\u0027Preliminary Process Selection\u0027]", "x": 995.99, "y": -450.0}, {"color": "green", "id": "Process Utilities and HENS", "label": "Process Utilities and HENS", "physics": false, "shape": "dot", "size": 22.5, "title": "Size: 0.3 credits\nConnected Componets: 2\nPredecessors: []\nSuccessors: [\u0027Operating Cost Estimation\u0027, \u0027Design Specification Package\u0027]", "x": 982.99, "y": -306.0}, {"color": "#97c2fc", "id": "Operating Cost Estimation", "label": "Operating Cost Estimation", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 3\nPredecessors: [\u0027Process Utilities and HENS\u0027, \u0027Preliminary Process Operating Costs\u0027]\nSuccessors: [\u0027Process Economic Evaluation\u0027]", "x": 933.99, "y": -234.0}, {"color": "green", "id": "Preliminary Process Operating Costs", "label": "Preliminary Process Operating Costs", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 2\nPredecessors: []\nSuccessors: [\u0027Preliminary Process Evaluation\u0027, \u0027Operating Cost Estimation\u0027]", "x": 903.99, "y": -522.0}, {"color": "#97c2fc", "id": "Separation Models", "label": "Separation Models", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 2\nPredecessors: [\u0027Thermo Models\u0027]\nSuccessors: [\u0027Modeling Reactor-Separator Systems\u0027]", "x": 1444.0, "y": -450.0}, {"color": "#97c2fc", "id": "Modeling Reactor-Separator Systems", "label": "Modeling Reactor-Separator Systems", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 3\nPredecessors: [\u0027Separation Models\u0027, \u0027Reactor Kinetic Models\u0027]\nSuccessors: [\u0027Process Simulation\u0027]", "x": 1273.0, "y": -378.0}, {"color": "green", "id": "Equipment Sizing", "label": "Equipment Sizing", "physics": false, "shape": "dot", "size": 11.25, "title": "Size: 0.15 credits\nConnected Componets: 2\nPredecessors: []\nSuccessors: [\u0027Capital Cost Estimation\u0027, \u0027Design Specification Package\u0027]", "x": 1390.0, "y": -306.0}, {"color": "#97c2fc", "id": "Capital Cost Estimation", "label": "Capital Cost Estimation", "physics": false, "shape": "dot", "size": 22.5, "title": "Size: 0.3 credits\nConnected Componets: 2\nPredecessors: [\u0027Equipment Sizing\u0027]\nSuccessors: [\u0027Process Economic Evaluation\u0027]", "x": 1404.0, "y": -234.0}, {"color": "green", "id": "Thermo Models", "label": "Thermo Models", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 2\nPredecessors: []\nSuccessors: [\u0027Separation Models\u0027, \u0027Reactor Kinetic Models\u0027]", "x": 1386.0, "y": -522.0}, {"color": "#97c2fc", "id": "Reactor Kinetic Models", "label": "Reactor Kinetic Models", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 2\nPredecessors: [\u0027Thermo Models\u0027]\nSuccessors: [\u0027Modeling Reactor-Separator Systems\u0027]", "x": 1253.0, "y": -450.0}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "Identification of Separation Sequences", "to": "Preliminary Process Flowsheeting", "width": 1}, {"arrows": "to", "from": "Preliminary Process Flowsheeting", "to": "Preliminary Process Selection", "width": 1}, {"arrows": "to", "from": "Reaction Equilibrium Conditions", "to": "Preliminary Process Flowsheeting", "width": 1}, {"arrows": "to", "from": "Constructing PFDs", "to": "Preliminary Process Flowsheeting", "width": 1}, {"arrows": "to", "from": "Preliminary Process Selection", "to": "Process Simulation", "width": 1}, {"arrows": "to", "from": "Process Simulation", "to": "Design Specification Package", "width": 1}, {"arrows": "to", "from": "Design Specification Package", "to": "Process Economic Evaluation", "width": 1}, {"arrows": "to", "from": "Process Economic Evaluation", "to": "Sensitivity and Optimization", "width": 1}, {"arrows": "to", "from": "Sensitivity and Optimization", "to": "Final Process Design Package", "width": 1}, {"arrows": "to", "from": "Process Efficiency Measures", "to": "Preliminary Process Evaluation", "width": 1}, {"arrows": "to", "from": "Preliminary Process Evaluation", "to": "Preliminary Process Selection", "width": 1}, {"arrows": "to", "from": "Process Utilities and HENS", "to": "Operating Cost Estimation", "width": 1}, {"arrows": "to", "from": "Process Utilities and HENS", "to": "Design Specification Package", "width": 1}, {"arrows": "to", "from": "Operating Cost Estimation", "to": "Process Economic Evaluation", "width": 1}, {"arrows": "to", "from": "Preliminary Process Operating Costs", "to": "Preliminary Process Evaluation", "width": 1}, {"arrows": "to", "from": "Preliminary Process Operating Costs", "to": "Operating Cost Estimation", "width": 1}, {"arrows": "to", "from": "Separation Models", "to": "Modeling Reactor-Separator Systems", "width": 1}, {"arrows": "to", "from": "Modeling Reactor-Separator Systems", "to": "Process Simulation", "width": 1}, {"arrows": "to", "from": "Equipment Sizing", "to": "Capital Cost Estimation", "width": 1}, {"arrows": "to", "from": "Equipment Sizing", "to": "Design Specification Package", "width": 1}, {"arrows": "to", "from": "Capital Cost Estimation", "to": "Process Economic Evaluation", "width": 1}, {"arrows": "to", "from": "Thermo Models", "to": "Separation Models", "width": 1}, {"arrows": "to", "from": "Thermo Models", "to": "Reactor Kinetic Models", "width": 1}, {"arrows": "to", "from": "Reactor Kinetic Models", "to": "Modeling Reactor-Separator Systems", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": false,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

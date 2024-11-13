@@ -1,0 +1,17 @@
+Topic,Size,Edges To
+Reaction Equilibrium Conditions,0.27,Irreversible Empirical Reaction Kinetics
+Irreversible Empirical Reaction Kinetics,0.18,Irreversible Mechanistic Reaction Kinetics;Irreversible Ideal Isothermal Reactor Sizing
+Irreversible Mechanistic Reaction Kinetics,0.27,Reversible Reaction Kinetics
+Reversible Reaction Kinetics,0.27,Multiple Reaction Systems
+Multiple Reaction Systems,0.18,Catalytic Reactions
+Catalytic Reactions,0.18,Het. Catalyst Mass Transfer
+Het. Catalyst Mass Transfer,0.09,Het. Catalysts Kinetics
+Het. Catalysts Kinetics,0.18,Het. Catalytic Reactor Design
+Het. Catalytic Reactor Design,0.3,Non-Ideal Flow in Reactors
+Non-Ideal Flow in Reactors,0.18,
+Reaction Rate Constants and Orders,0.27,Irreversible Empirical Reaction Kinetics
+Reactor Types,0.09,Irreversible Ideal Isothermal Reactor Sizing
+Irreversible Ideal Isothermal Reactor Sizing,0.18,Reactor Heat Transfer
+Reactor Heat Transfer,0.18,Reactor Thermal Effects
+Physical Properties of Het. Catalysts,0.09,Het. Catalyst Mass Transfer
+Reactor Thermal Effects,0.09,Het. Catalytic Reactor Design

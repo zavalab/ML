@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1920px;
+                 height: 1080px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#97c2fc", "id": "Compressor Types", "label": "Compressor Types", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 2\nPredecessors: [\u0027Flow Systems\u0027]\nSuccessors: [\u0027Compressor Performance\u0027]", "x": 1423.3, "y": -306.0}, {"color": "red", "id": "Compressor Performance", "label": "Compressor Performance", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: [\u0027Compressor Types\u0027]\nSuccessors: []", "x": 1858.3, "y": -234.0}, {"color": "green", "id": "Macroscopic Systems", "label": "Macroscopic Systems", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Unit Operation Definition\u0027]", "x": 1478.3, "y": -522.0}, {"color": "#97c2fc", "id": "Unit Operation Definition", "label": "Unit Operation Definition", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 3\nPredecessors: [\u0027Macroscopic Systems\u0027]\nSuccessors: [\u0027Flow Systems\u0027, \u0027Heat Exchange Equipment\u0027]", "x": 1478.3, "y": -450.0}, {"color": "#97c2fc", "id": "Flow Systems", "label": "Flow Systems", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 4\nPredecessors: [\u0027Unit Operation Definition\u0027]\nSuccessors: [\u0027Compressor Types\u0027, \u0027Pump Types\u0027, \u0027Incompressible Flow in Conduits\u0027]", "x": 1137.3, "y": -378.0}, {"color": "#97c2fc", "id": "Heat Exchange Equipment", "label": "Heat Exchange Equipment", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 4\nPredecessors: [\u0027Unit Operation Definition\u0027]\nSuccessors: [\u0027Fins\u0027, \u0027Mean Temperature Differences\u0027, \u0027Heat Exchange Networks\u0027]", "x": 1796.3, "y": -378.0}, {"color": "#97c2fc", "id": "Pump Types", "label": "Pump Types", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 2\nPredecessors: [\u0027Flow Systems\u0027]\nSuccessors: [\u0027Pump Performance\u0027]", "x": 1121.3, "y": -306.0}, {"color": "#97c2fc", "id": "Incompressible Flow in Conduits", "label": "Incompressible Flow in Conduits", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 3\nPredecessors: [\u0027Flow Systems\u0027, \u0027Bernoulli Equation\u0027]\nSuccessors: [\u0027Incompressible Flow Through Valves and Fittings\u0027]", "x": 844.34, "y": -306.0}, {"color": "red", "id": "Fins", "label": "Fins", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 2\nPredecessors: [\u0027Obtaining Temperature Profiles for Flat Velocity Profiles\u0027, \u0027Heat Exchange Equipment\u0027]\nSuccessors: []", "x": 1555.3, "y": -306.0}, {"color": "#97c2fc", "id": "Mean Temperature Differences", "label": "Mean Temperature Differences", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 2\nPredecessors: [\u0027Heat Exchange Equipment\u0027]\nSuccessors: [\u0027Heat Exchanger Contacting Patterns\u0027]", "x": 2100.3, "y": -306.0}, {"color": "red", "id": "Heat Exchange Networks", "label": "Heat Exchange Networks", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 1\nPredecessors: [\u0027Heat Exchange Equipment\u0027]\nSuccessors: []", "x": 1796.3, "y": -306.0}, {"color": "#97c2fc", "id": "Pump Performance", "label": "Pump Performance", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 3\nPredecessors: [\u0027Pump Types\u0027, \u0027Bernoulli Equation\u0027]\nSuccessors: [\u0027Pump Selection\u0027]", "x": 1001.3, "y": -234.0}, {"color": "#97c2fc", "id": "Incompressible Flow Through Valves and Fittings", "label": "Incompressible Flow Through Valves and Fittings", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 3\nPredecessors: [\u0027Incompressible Flow in Conduits\u0027, \u0027Skin Friction\u0027]\nSuccessors: [\u0027Compressible Flow\u0027]", "x": 372.34, "y": -234.0}, {"color": "red", "id": "Pump Selection", "label": "Pump Selection", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: [\u0027Pump Performance\u0027]\nSuccessors: []", "x": 963.34, "y": -162.0}, {"color": "green", "id": "Macroscopic Mechanical Energy Balance", "label": "Macroscopic Mechanical Energy Balance", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Bernoulli Equation\u0027]", "x": 946.34, "y": -450.0}, {"color": "#97c2fc", "id": "Bernoulli Equation", "label": "Bernoulli Equation", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 3\nPredecessors: [\u0027Macroscopic Mechanical Energy Balance\u0027]\nSuccessors: [\u0027Incompressible Flow in Conduits\u0027, \u0027Pump Performance\u0027]", "x": 946.34, "y": -378.0}, {"color": "#97c2fc", "id": "Compressible Flow", "label": "Compressible Flow", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 3\nPredecessors: [\u0027Incompressible Flow Through Valves and Fittings\u0027, \u0027Energy Equation\u0027]\nSuccessors: [\u0027Isentropic Flow Through Nozzles\u0027]", "x": 212.34, "y": -162.0}, {"color": "#97c2fc", "id": "Isentropic Flow Through Nozzles", "label": "Isentropic Flow Through Nozzles", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 3\nPredecessors: [\u0027Compressible Flow\u0027]\nSuccessors: [\u0027Isothermal and Adiabatic Friction Flow\u0027, \u0027Measuring Fluid Flow\u0027]", "x": 212.34, "y": -90.0}, {"color": "red", "id": "Isothermal and Adiabatic Friction Flow", "label": "Isothermal and Adiabatic Friction Flow", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: [\u0027Isentropic Flow Through Nozzles\u0027]\nSuccessors: []", "x": 349.34, "y": -18.0}, {"color": "red", "id": "Measuring Fluid Flow", "label": "Measuring Fluid Flow", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 1\nPredecessors: [\u0027Isentropic Flow Through Nozzles\u0027]\nSuccessors: []", "x": 90.342, "y": -18.0}, {"color": "green", "id": "Energy Equation", "label": "Energy Equation", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Compressible Flow\u0027]", "x": 97.342, "y": -234.0}, {"color": "green", "id": "Obtaining Unidirectional Velocity Profiles", "label": "Obtaining Unidirectional Velocity Profiles", "physics": false, "shape": "dot", "size": 2.25, "title": "Size: 0.03 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Boundary Layers\u0027]", "x": 559.34, "y": -450.0}, {"color": "#97c2fc", "id": "Boundary Layers", "label": "Boundary Layers", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 3\nPredecessors: [\u0027Obtaining Unidirectional Velocity Profiles\u0027]\nSuccessors: [\u0027Skin Friction\u0027, \u0027Form Drag\u0027]", "x": 559.34, "y": -378.0}, {"color": "#97c2fc", "id": "Skin Friction", "label": "Skin Friction", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 3\nPredecessors: [\u0027Boundary Layers\u0027, \u0027Friction Factors\u0027]\nSuccessors: [\u0027Incompressible Flow Through Valves and Fittings\u0027]", "x": 403.34, "y": -306.0}, {"color": "#97c2fc", "id": "Form Drag", "label": "Form Drag", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 3\nPredecessors: [\u0027Boundary Layers\u0027, \u0027Friction Factors\u0027]\nSuccessors: [\u0027Flow Past Particles\u0027]", "x": 559.34, "y": -306.0}, {"color": "#97c2fc", "id": "Flow Past Particles", "label": "Flow Past Particles", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 2\nPredecessors: [\u0027Form Drag\u0027]\nSuccessors: [\u0027Flow Through Packed Beds\u0027]", "x": 656.34, "y": -234.0}, {"color": "green", "id": "Friction Factors", "label": "Friction Factors", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 2\nPredecessors: []\nSuccessors: [\u0027Skin Friction\u0027, \u0027Form Drag\u0027]", "x": 403.34, "y": -378.0}, {"color": "#97c2fc", "id": "Flow Through Packed Beds", "label": "Flow Through Packed Beds", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 3\nPredecessors: [\u0027Flow Past Particles\u0027, \u0027Particle Properties\u0027]\nSuccessors: [\u0027Fluidization\u0027]", "x": 694.34, "y": -162.0}, {"color": "#97c2fc", "id": "Fluidization", "label": "Fluidization", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 2\nPredecessors: [\u0027Flow Through Packed Beds\u0027]\nSuccessors: [\u0027Fluidization Applications\u0027]", "x": 694.34, "y": -90.0}, {"color": "red", "id": "Fluidization Applications", "label": "Fluidization Applications", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: [\u0027Fluidization\u0027]\nSuccessors: []", "x": 694.34, "y": -18.0}, {"color": "green", "id": "Particle Properties", "label": "Particle Properties", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Flow Through Packed Beds\u0027]", "x": 828.34, "y": -234.0}, {"color": "green", "id": "Dimensional Analysis for Isothermal Systems", "label": "Dimensional Analysis for Isothermal Systems", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Fluids Mixing\u0027]", "x": 1759.3, "y": -522.0}, {"color": "red", "id": "Fluids Mixing", "label": "Fluids Mixing", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: [\u0027Dimensional Analysis for Isothermal Systems\u0027]\nSuccessors: []", "x": 1759.3, "y": -450.0}, {"color": "green", "id": "Obtaining Temperature Profiles for Flat Velocity Profiles", "label": "Obtaining Temperature Profiles for Flat Velocity Profiles", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Fins\u0027]", "x": 1460.3, "y": -378.0}, {"color": "green", "id": "Dimensional Analysis for Nonisothermal Systems", "label": "Dimensional Analysis for Nonisothermal Systems", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Estimating Heat Transfer in Exchangers\u0027]", "x": 1287.3, "y": -234.0}, {"color": "#97c2fc", "id": "Estimating Heat Transfer in Exchangers", "label": "Estimating Heat Transfer in Exchangers", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 6\nPredecessors: [\u0027Dimensional Analysis for Nonisothermal Systems\u0027, \u0027Heat Exchanger Contacting Patterns\u0027, \u0027Forced and Natural Convection\u0027]\nSuccessors: [\u0027Condensing\u0027, \u0027Boiling\u0027, \u0027Furnaces\u0027]", "x": 1846.3, "y": -162.0}, {"color": "red", "id": "Condensing", "label": "Condensing", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: [\u0027Estimating Heat Transfer in Exchangers\u0027]\nSuccessors: []", "x": 1900.3, "y": -90.0}, {"color": "red", "id": "Boiling", "label": "Boiling", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 1\nPredecessors: [\u0027Estimating Heat Transfer in Exchangers\u0027]\nSuccessors: []", "x": 1792.3, "y": -90.0}, {"color": "red", "id": "Furnaces", "label": "Furnaces", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 3\nPredecessors: [\u0027Estimating Heat Transfer in Exchangers\u0027, \u0027Energy Transport by Radiation\u0027, \u0027Matrix Formulations for Radiation Heat Transfer\u0027]\nSuccessors: []", "x": 1491.3, "y": -90.0}, {"color": "#97c2fc", "id": "Heat Exchanger Contacting Patterns", "label": "Heat Exchanger Contacting Patterns", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 2\nPredecessors: [\u0027Mean Temperature Differences\u0027]\nSuccessors: [\u0027Estimating Heat Transfer in Exchangers\u0027]", "x": 2116.3, "y": -234.0}, {"color": "green", "id": "Energy Transport by Radiation", "label": "Energy Transport by Radiation", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Furnaces\u0027]", "x": 1168.3, "y": -162.0}, {"color": "green", "id": "Forced and Natural Convection", "label": "Forced and Natural Convection", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Estimating Heat Transfer in Exchangers\u0027]", "x": 1616.3, "y": -234.0}, {"color": "green", "id": "Matrix Formulations for Radiation Heat Transfer", "label": "Matrix Formulations for Radiation Heat Transfer", "physics": false, "shape": "dot", "size": 6.75, "title": "Size: 0.09 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Furnaces\u0027]", "x": 1491.3, "y": -162.0}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "Compressor Types", "to": "Compressor Performance", "width": 1}, {"arrows": "to", "from": "Macroscopic Systems", "to": "Unit Operation Definition", "width": 1}, {"arrows": "to", "from": "Unit Operation Definition", "to": "Flow Systems", "width": 1}, {"arrows": "to", "from": "Unit Operation Definition", "to": "Heat Exchange Equipment", "width": 1}, {"arrows": "to", "from": "Flow Systems", "to": "Compressor Types", "width": 1}, {"arrows": "to", "from": "Flow Systems", "to": "Pump Types", "width": 1}, {"arrows": "to", "from": "Flow Systems", "to": "Incompressible Flow in Conduits", "width": 1}, {"arrows": "to", "from": "Heat Exchange Equipment", "to": "Fins", "width": 1}, {"arrows": "to", "from": "Heat Exchange Equipment", "to": "Mean Temperature Differences", "width": 1}, {"arrows": "to", "from": "Heat Exchange Equipment", "to": "Heat Exchange Networks", "width": 1}, {"arrows": "to", "from": "Pump Types", "to": "Pump Performance", "width": 1}, {"arrows": "to", "from": "Incompressible Flow in Conduits", "to": "Incompressible Flow Through Valves and Fittings", "width": 1}, {"arrows": "to", "from": "Pump Performance", "to": "Pump Selection", "width": 1}, {"arrows": "to", "from": "Macroscopic Mechanical Energy Balance", "to": "Bernoulli Equation", "width": 1}, {"arrows": "to", "from": "Bernoulli Equation", "to": "Incompressible Flow in Conduits", "width": 1}, {"arrows": "to", "from": "Bernoulli Equation", "to": "Pump Performance", "width": 1}, {"arrows": "to", "from": "Incompressible Flow Through Valves and Fittings", "to": "Compressible Flow", "width": 1}, {"arrows": "to", "from": "Compressible Flow", "to": "Isentropic Flow Through Nozzles", "width": 1}, {"arrows": "to", "from": "Isentropic Flow Through Nozzles", "to": "Isothermal and Adiabatic Friction Flow", "width": 1}, {"arrows": "to", "from": "Isentropic Flow Through Nozzles", "to": "Measuring Fluid Flow", "width": 1}, {"arrows": "to", "from": "Energy Equation", "to": "Compressible Flow", "width": 1}, {"arrows": "to", "from": "Obtaining Unidirectional Velocity Profiles", "to": "Boundary Layers", "width": 1}, {"arrows": "to", "from": "Boundary Layers", "to": "Skin Friction", "width": 1}, {"arrows": "to", "from": "Boundary Layers", "to": "Form Drag", "width": 1}, {"arrows": "to", "from": "Skin Friction", "to": "Incompressible Flow Through Valves and Fittings", "width": 1}, {"arrows": "to", "from": "Form Drag", "to": "Flow Past Particles", "width": 1}, {"arrows": "to", "from": "Friction Factors", "to": "Skin Friction", "width": 1}, {"arrows": "to", "from": "Friction Factors", "to": "Form Drag", "width": 1}, {"arrows": "to", "from": "Flow Past Particles", "to": "Flow Through Packed Beds", "width": 1}, {"arrows": "to", "from": "Flow Through Packed Beds", "to": "Fluidization", "width": 1}, {"arrows": "to", "from": "Fluidization", "to": "Fluidization Applications", "width": 1}, {"arrows": "to", "from": "Particle Properties", "to": "Flow Through Packed Beds", "width": 1}, {"arrows": "to", "from": "Dimensional Analysis for Isothermal Systems", "to": "Fluids Mixing", "width": 1}, {"arrows": "to", "from": "Obtaining Temperature Profiles for Flat Velocity Profiles", "to": "Fins", "width": 1}, {"arrows": "to", "from": "Dimensional Analysis for Nonisothermal Systems", "to": "Estimating Heat Transfer in Exchangers", "width": 1}, {"arrows": "to", "from": "Estimating Heat Transfer in Exchangers", "to": "Condensing", "width": 1}, {"arrows": "to", "from": "Estimating Heat Transfer in Exchangers", "to": "Boiling", "width": 1}, {"arrows": "to", "from": "Estimating Heat Transfer in Exchangers", "to": "Furnaces", "width": 1}, {"arrows": "to", "from": "Mean Temperature Differences", "to": "Heat Exchanger Contacting Patterns", "width": 1}, {"arrows": "to", "from": "Heat Exchanger Contacting Patterns", "to": "Estimating Heat Transfer in Exchangers", "width": 1}, {"arrows": "to", "from": "Energy Transport by Radiation", "to": "Furnaces", "width": 1}, {"arrows": "to", "from": "Forced and Natural Convection", "to": "Estimating Heat Transfer in Exchangers", "width": 1}, {"arrows": "to", "from": "Matrix Formulations for Radiation Heat Transfer", "to": "Furnaces", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": false,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

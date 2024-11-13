@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1920px;
+                 height: 1080px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "green", "id": "CBE 250", "label": "CBE 250", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 2\nPredecessors: []\nSuccessors: [\u0027CBE 255\u0027, \u0027CBE 310\u0027]", "x": 253.55, "y": -378.0}, {"color": "#97c2fc", "id": "CBE 255", "label": "CBE 255", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 2\nPredecessors: [\u0027CBE 250\u0027]\nSuccessors: [\u0027CBE 310\u0027]", "x": 358.55, "y": -306.0}, {"color": "#97c2fc", "id": "CBE 310", "label": "CBE 310", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 5\nPredecessors: [\u0027CBE 250\u0027, \u0027CBE 255\u0027]\nSuccessors: [\u0027CBE 311\u0027, \u0027CBE 324\u0027, \u0027CBE 326\u0027]", "x": 253.55, "y": -234.0}, {"color": "#97c2fc", "id": "CBE 311", "label": "CBE 311", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 3\nPredecessors: [\u0027CBE 310\u0027]\nSuccessors: [\u0027CBE 426\u0027, \u0027CBE 430\u0027]", "x": 253.55, "y": -162.0}, {"color": "#97c2fc", "id": "CBE 324", "label": "CBE 324", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 3\nPredecessors: [\u0027CBE 310\u0027, \u0027CBE 320\u0027]\nSuccessors: [\u0027CBE 424\u0027]", "x": 358.55, "y": -90.0}, {"color": "#97c2fc", "id": "CBE 326", "label": "CBE 326", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 5\nPredecessors: [\u0027CBE 310\u0027, \u0027CBE 320\u0027]\nSuccessors: [\u0027CBE 450\u0027, \u0027CBE 424\u0027, \u0027CBE 470\u0027]", "x": 43.546, "y": -90.0}, {"color": "#97c2fc", "id": "CBE 426", "label": "CBE 426", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 4\nPredecessors: [\u0027CBE 311\u0027, \u0027CBE 320\u0027]\nSuccessors: [\u0027CBE 450\u0027, \u0027CBE 424\u0027]", "x": 253.55, "y": -90.0}, {"color": "#97c2fc", "id": "CBE 430", "label": "CBE 430", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 5\nPredecessors: [\u0027CBE 311\u0027, \u0027CBE 320\u0027]\nSuccessors: [\u0027CBE 450\u0027, \u0027CBE 424\u0027, \u0027CBE 470\u0027]", "x": 148.55, "y": -90.0}, {"color": "red", "id": "CBE 424", "label": "CBE 424", "physics": false, "shape": "dot", "size": 20, "title": "Connected Componets: 4\nPredecessors: [\u0027CBE 324\u0027, \u0027CBE 326\u0027, \u0027CBE 426\u0027, \u0027CBE 430\u0027]\nSuccessors: []", "x": 253.55, "y": -18.0}, {"color": "red", "id": "CBE 450", "label": "CBE 450", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 3\nPredecessors: [\u0027CBE 326\u0027, \u0027CBE 426\u0027, \u0027CBE 430\u0027]\nSuccessors: []", "x": 148.55, "y": -18.0}, {"color": "red", "id": "CBE 470", "label": "CBE 470", "physics": false, "shape": "dot", "size": 12, "title": "Connected Componets: 2\nPredecessors: [\u0027CBE 326\u0027, \u0027CBE 430\u0027]\nSuccessors: []", "x": 43.546, "y": -18.0}, {"color": "green", "id": "CBE 320", "label": "CBE 320", "physics": false, "shape": "dot", "size": 16, "title": "Connected Componets: 4\nPredecessors: []\nSuccessors: [\u0027CBE 426\u0027, \u0027CBE 324\u0027, \u0027CBE 326\u0027, \u0027CBE 430\u0027]", "x": 43.546, "y": -162.0}, {"color": "black", "id": "CBE 150", "label": "CBE 150", "physics": false, "shape": "dot", "size": 4, "title": "Connected Componets: 0\nPredecessors: []\nSuccessors: []", "x": 148.55, "y": -378.0}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "CBE 250", "to": "CBE 255", "width": 1}, {"arrows": "to", "from": "CBE 250", "to": "CBE 310", "width": 1}, {"arrows": "to", "from": "CBE 255", "to": "CBE 310", "width": 1}, {"arrows": "to", "from": "CBE 310", "to": "CBE 311", "width": 1}, {"arrows": "to", "from": "CBE 310", "to": "CBE 324", "width": 1}, {"arrows": "to", "from": "CBE 310", "to": "CBE 326", "width": 1}, {"arrows": "to", "from": "CBE 311", "to": "CBE 426", "width": 1}, {"arrows": "to", "from": "CBE 311", "to": "CBE 430", "width": 1}, {"arrows": "to", "from": "CBE 324", "to": "CBE 424", "width": 1}, {"arrows": "to", "from": "CBE 326", "to": "CBE 450", "width": 1}, {"arrows": "to", "from": "CBE 326", "to": "CBE 424", "width": 1}, {"arrows": "to", "from": "CBE 326", "to": "CBE 470", "width": 1}, {"arrows": "to", "from": "CBE 426", "to": "CBE 450", "width": 1}, {"arrows": "to", "from": "CBE 426", "to": "CBE 424", "width": 1}, {"arrows": "to", "from": "CBE 430", "to": "CBE 450", "width": 1}, {"arrows": "to", "from": "CBE 430", "to": "CBE 424", "width": 1}, {"arrows": "to", "from": "CBE 430", "to": "CBE 470", "width": 1}, {"arrows": "to", "from": "CBE 320", "to": "CBE 426", "width": 1}, {"arrows": "to", "from": "CBE 320", "to": "CBE 324", "width": 1}, {"arrows": "to", "from": "CBE 320", "to": "CBE 326", "width": 1}, {"arrows": "to", "from": "CBE 320", "to": "CBE 430", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": false,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

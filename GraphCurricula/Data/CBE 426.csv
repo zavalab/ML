@@ -1,0 +1,38 @@
+Topic,Size,Edges To,Type
+Diffusivity,0.06,Diffusive Mass Flux Vector;Obtaining Unidirectional Concentration Profiles,Mass
+Diffusive Mass Flux Vector,0.03,Obtaining Unidirectional Concentration Profiles,Mass
+Obtaining Unidirectional Concentration Profiles,0.06,Equations of Change For Binary Mixtures from Conservation Laws,Mass
+Equations of Change For Binary Mixtures from Conservation Laws,0.06,Binary Mixture Molecular Fluxes;Dimensional Analysis For Flowing Mixtures,Mass
+Binary Mixture Molecular Fluxes,0.06,Absorption and Stripping,Mass
+Obtaining Diffusivity Data,0.06,Obtaining Unidirectional Concentration Profiles,Mass
+Dimensional Analysis For Flowing Mixtures,0.03,Obtaining Mass Transfer Coefficients,Mass
+Obtaining Mass Transfer Coefficients,0.06,Aspen RADFRAC;Humidification;Dehumidification;Rate Based Methods for Packed Columns,Mass
+Column Hydraulics,0.12,,Mass
+Phase Equilibrium Conditions,0.06,Single Stage Flash;Predictive Modeling;Humidity;Adsorption,Mass
+Single Stage Flash,0.12,Countercurrent Contacting,Mass
+Countercurrent Contacting,0.06,Trayed Columns;Packed Columns,Mass
+Trayed Columns,0.12,Absorption and Stripping,Mass
+Absorption and Stripping,0.12,Trayed Columns Operating Curves;Rate Based Methods for Packed Columns,Mass
+Trayed Columns Operating Curves,0.12,Distillation,Mass
+Distillation,0.24,Aspen RADFRAC;Enhanced Distillation,Mass
+Aspen RADFRAC,0.24,Solving Multicomponent Distillation;Column Hydraulics,Mass
+Solving Multicomponent Distillation,0.06,,Mass
+EOS,0.09,Predictive Modeling,General
+Predictive Modeling,0.12,Trayed Columns Operating Curves,General
+Packed Columns,0.03,Rate Based Methods for Packed Columns,Mass
+Tray Efficiency,0.06,Trayed Columns Operating Curves,Mass
+Condensers and Reboilers,0.06,Reflux,Heat
+Reflux,0.12,Distillation,Mass
+Azeotropes,0.12,Enhanced Distillation,Mass
+Enhanced Distillation,0.06,,Mass
+Rate Based Methods for Packed Columns,0.12,,Mass
+Wet-Bulb Temperature,0.06,Water Cooling,Mass
+Water Cooling,0.09,,Heat
+Humidity,0.03,Wet-Bulb Temperature;Humidification;Dehumidification,Mass
+Humidification,0.06,Water Cooling,Mass
+Dehumidification,0.06,,Mass
+Adsorption,0.03,Adsorption Equipment;Ion Exchange,Mass
+Adsorption Equipment,0.06,Percolation,Mass
+Percolation,0.06,Ion Exchange Cycle,Mass
+Ion Exchange Cycle,0.03,,Mass
+Ion Exchange,0.06,Ion Exchange Cycle,Mass

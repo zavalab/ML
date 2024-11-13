@@ -1,0 +1,19 @@
+Topic,Size,Edges To
+"Material Properties (T,P,U)",0.18,Ideal Gasses and Real Fluids;1st Law of Thermo;EOS
+Ideal Gasses and Real Fluids,0.18,Unit Energy Balances
+Unit Energy Balances,0.27,General Energy Balances;Derivative Relationships;Phase Equilibrium Conditions for Pure Components
+General Energy Balances,0.18,Reversible Carnot Cycle
+Reversible Carnot Cycle,0.09,Irreversible Carnot Cycle
+Irreversible Carnot Cycle,0.18,General Power and Refrigeration Cycles
+General Power and Refrigeration Cycles,0.27,
+"Energy, Heat, Work",0.09,Unit Energy Balances;Unit Entropy Balances
+Cyclic Processes,0.09,Reversible Carnot Cycle
+1st Law of Thermo,0.03,Unit Energy Balances
+Unit Entropy Balances,0.27,General Entropy Balances;Derivative Relationships;Phase Equilibrium Conditions for Pure Components
+General Entropy Balances,0.18,Irreversible Carnot Cycle
+Entropy,0.09,2nd Law of Thermo
+Derivative Relationships,0.27,Fugacity
+Fugacity,0.18,
+Phase Equilibrium Conditions for Pure Components,0.09,Fugacity
+2nd Law of Thermo,0.06,Unit Entropy Balances
+EOS,0.3,Fugacity
