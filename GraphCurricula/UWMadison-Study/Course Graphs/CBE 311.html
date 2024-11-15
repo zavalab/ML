@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 1920px;
+                 height: 1080px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "green", "id": "1st Law of Thermo", "label": "1st Law of Thermo", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Phase Equilibrium Conditions\u0027]", "x": 79.293, "y": -450.0}, {"color": "#97c2fc", "id": "Phase Equilibrium Conditions", "label": "Phase Equilibrium Conditions", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 6\nPredecessors: [\u00271st Law of Thermo\u0027, \u00272nd Law of Thermo\u0027, \u0027General Energy Balances\u0027, \u0027General Entropy Balances\u0027, \u0027Derivative Relationships\u0027]\nSuccessors: [\u0027Departure Functions and Fugacity\u0027]", "x": 459.29, "y": -378.0}, {"color": "#97c2fc", "id": "Departure Functions and Fugacity", "label": "Departure Functions and Fugacity", "physics": false, "shape": "dot", "size": 27.0, "title": "Size: 0.36 credits\nConnected Componets: 4\nPredecessors: [\u0027Phase Equilibrium Conditions\u0027, \u0027EOS\u0027]\nSuccessors: [\u0027Ideal Solutions and Raoults Law\u0027, \u0027Calculating Component Fugacity\u0027]", "x": 540.29, "y": -306.0}, {"color": "green", "id": "2nd Law of Thermo", "label": "2nd Law of Thermo", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Phase Equilibrium Conditions\u0027]", "x": 258.29, "y": -450.0}, {"color": "green", "id": "General Energy Balances", "label": "General Energy Balances", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Phase Equilibrium Conditions\u0027]", "x": 459.29, "y": -450.0}, {"color": "green", "id": "General Entropy Balances", "label": "General Entropy Balances", "physics": false, "shape": "dot", "size": 4.5, "title": "Size: 0.06 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Phase Equilibrium Conditions\u0027]", "x": 681.29, "y": -450.0}, {"color": "green", "id": "Derivative Relationships", "label": "Derivative Relationships", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Phase Equilibrium Conditions\u0027]", "x": 900.29, "y": -450.0}, {"color": "#97c2fc", "id": "Ideal Solutions and Raoults Law", "label": "Ideal Solutions and Raoults Law", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 4\nPredecessors: [\u0027Departure Functions and Fugacity\u0027, \u0027Mixtures\u0027]\nSuccessors: [\u0027Iterative VLE\u0027, \u0027Solution Models and Modified Raoults Law\u0027]", "x": 500.29, "y": -234.0}, {"color": "#97c2fc", "id": "Calculating Component Fugacity", "label": "Calculating Component Fugacity", "physics": false, "shape": "dot", "size": 27.0, "title": "Size: 0.36 credits\nConnected Componets: 3\nPredecessors: [\u0027Departure Functions and Fugacity\u0027, \u0027Mixtures\u0027]\nSuccessors: [\u0027Activity Models\u0027]", "x": 772.29, "y": -234.0}, {"color": "red", "id": "Iterative VLE", "label": "Iterative VLE", "physics": false, "shape": "dot", "size": 18.0, "title": "Size: 0.24 credits\nConnected Componets: 1\nPredecessors: [\u0027Ideal Solutions and Raoults Law\u0027]\nSuccessors: []", "x": 500.29, "y": -162.0}, {"color": "#97c2fc", "id": "Solution Models and Modified Raoults Law", "label": "Solution Models and Modified Raoults Law", "physics": false, "shape": "dot", "size": 18.0, "title": "Size: 0.24 credits\nConnected Componets: 3\nPredecessors: [\u0027Ideal Solutions and Raoults Law\u0027, \u0027Activity Models\u0027]\nSuccessors: [\u0027LLE, VLLE, SLE\u0027]", "x": 661.29, "y": -90.0}, {"color": "#97c2fc", "id": "Activity Models", "label": "Activity Models", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 3\nPredecessors: [\u0027Calculating Component Fugacity\u0027]\nSuccessors: [\u0027Solution Models and Modified Raoults Law\u0027, \u0027Multiphase Reactions\u0027]", "x": 750.29, "y": -162.0}, {"color": "red", "id": "LLE, VLLE, SLE", "label": "LLE, VLLE, SLE", "physics": false, "shape": "dot", "size": 27.0, "title": "Size: 0.36 credits\nConnected Componets: 1\nPredecessors: [\u0027Solution Models and Modified Raoults Law\u0027]\nSuccessors: []", "x": 661.29, "y": -18.0}, {"color": "green", "id": "EOS", "label": "EOS", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Departure Functions and Fugacity\u0027]", "x": 622.29, "y": -378.0}, {"color": "green", "id": "Mixtures", "label": "Mixtures", "physics": false, "shape": "dot", "size": 9.0, "title": "Size: 0.12 credits\nConnected Componets: 2\nPredecessors: []\nSuccessors: [\u0027Ideal Solutions and Raoults Law\u0027, \u0027Calculating Component Fugacity\u0027]", "x": 752.29, "y": -306.0}, {"color": "red", "id": "Multiphase Reactions", "label": "Multiphase Reactions", "physics": false, "shape": "dot", "size": 18.0, "title": "Size: 0.24 credits\nConnected Componets: 2\nPredecessors: [\u0027Activity Models\u0027, \u0027Reaction Equilibrium Conditions\u0027]\nSuccessors: []", "x": 949.29, "y": -90.0}, {"color": "green", "id": "Reaction Equilibrium Conditions", "label": "Reaction Equilibrium Conditions", "physics": false, "shape": "dot", "size": 18.0, "title": "Size: 0.24 credits\nConnected Componets: 1\nPredecessors: []\nSuccessors: [\u0027Multiphase Reactions\u0027]", "x": 965.29, "y": -162.0}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "1st Law of Thermo", "to": "Phase Equilibrium Conditions", "width": 1}, {"arrows": "to", "from": "Phase Equilibrium Conditions", "to": "Departure Functions and Fugacity", "width": 1}, {"arrows": "to", "from": "2nd Law of Thermo", "to": "Phase Equilibrium Conditions", "width": 1}, {"arrows": "to", "from": "General Energy Balances", "to": "Phase Equilibrium Conditions", "width": 1}, {"arrows": "to", "from": "General Entropy Balances", "to": "Phase Equilibrium Conditions", "width": 1}, {"arrows": "to", "from": "Derivative Relationships", "to": "Phase Equilibrium Conditions", "width": 1}, {"arrows": "to", "from": "Departure Functions and Fugacity", "to": "Ideal Solutions and Raoults Law", "width": 1}, {"arrows": "to", "from": "Departure Functions and Fugacity", "to": "Calculating Component Fugacity", "width": 1}, {"arrows": "to", "from": "Ideal Solutions and Raoults Law", "to": "Iterative VLE", "width": 1}, {"arrows": "to", "from": "Ideal Solutions and Raoults Law", "to": "Solution Models and Modified Raoults Law", "width": 1}, {"arrows": "to", "from": "Calculating Component Fugacity", "to": "Activity Models", "width": 1}, {"arrows": "to", "from": "Solution Models and Modified Raoults Law", "to": "LLE, VLLE, SLE", "width": 1}, {"arrows": "to", "from": "EOS", "to": "Departure Functions and Fugacity", "width": 1}, {"arrows": "to", "from": "Mixtures", "to": "Ideal Solutions and Raoults Law", "width": 1}, {"arrows": "to", "from": "Mixtures", "to": "Calculating Component Fugacity", "width": 1}, {"arrows": "to", "from": "Activity Models", "to": "Solution Models and Modified Raoults Law", "width": 1}, {"arrows": "to", "from": "Activity Models", "to": "Multiphase Reactions", "width": 1}, {"arrows": "to", "from": "Reaction Equilibrium Conditions", "to": "Multiphase Reactions", "width": 1}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": false,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

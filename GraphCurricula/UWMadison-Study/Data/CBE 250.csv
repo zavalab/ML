@@ -1,0 +1,22 @@
+Topic,Size,Edges To
+Simple Reactor,0.03,Process Units
+Mixtures,0.03,SS Unit Energy Balances;DOF;Time Dependent Process Variables
+SS Unit Material Balances,0.15,SS Multi-Unit Energy Balances
+SS Multi-Unit Material Balances,0.15,SS General Material Balances;Chemical Equilibrium;SS General Energy Balances
+Simple Splitter/Separator,0.03,Process Units
+Process Units,0.03,SS Unit Material Balances;Process Flowsheet;SS Unit Energy Balances
+Process Flowsheet,0.15,SS Multi-Unit Material Balances;DOF;SS Multi-Unit Energy Balances
+DOF,0.15,SS General Material Balances
+Mixer,0.03,Process Units
+Time Dependent Process Variables,0.15,SS General Material Balances;SS General Energy Balances
+SS General Material Balances,0.15,Separators
+Chemical Equilibrium,0.3,Reactive Process Material Balances
+Phase Equilibrium,0.3,Separators
+Separators,0.3,Recycle and Purge
+Recycle and Purge,0.15,Reactive Process Material Balances
+Reactive Process Material Balances,0.15,Process Balances
+Process Balances,0.15,
+"Energy, Heat, Work",0.15,Time Dependent Process Variables;SS Unit Energy Balances
+SS Unit Energy Balances,0.15,SS Multi-Unit Material Balances
+SS Multi-Unit Energy Balances,0.15,SS General Energy Balances
+SS General Energy Balances,0.15,Separators

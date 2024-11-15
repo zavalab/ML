@@ -1,0 +1,40 @@
+Topic,Size,Edges To
+Chemical Process Definition,0.06,Process Variables
+Process Variables,0.12,Process Control Components;Formulating Single Input Single Output Process Models
+Process Control Components,0.12,Control System Configuration
+Control System Configuration,0.06,Feedback Control Strategy
+Feedback Control Strategy,0.12,"P, PI, and PID Control Dynamics"
+"P, PI, and PID Control Dynamics",0.18,Closed-Loop Transient Response
+Closed-Loop Transient Response,0.06,Closed-Loop Stability
+Closed-Loop Stability,0.06,Choosing Controller Type;Controller Tuning (ZN)
+Choosing Controller Type,0.06,Design of Complex Control Structures
+Design of Complex Control Structures,0.06,
+Laplace Transform,0.12,Solving ODEs with Laplace Transforms;Forcing Functions
+Solving ODEs with Laplace Transforms,0.06,First Order Systems Dynamics
+Time Delay Systems Dynamics,0.06,System Identification by Frequency Response
+Controller Tuning (ZN),0.06,Design of Complex Control Structures
+Forcing Functions,0.06,First Order Systems Dynamics
+Inverse Response Systems Dynamics,0.06,System Identification by Frequency Response
+Formulating Single Input Single Output Process Models,0.06,Model Types;Theoretical Process Modeling;Formulating Multivariable Process Models
+Model Types,0.06,Transfer Functions
+Transfer Functions,0.06,First Order Systems Dynamics
+First Order Systems Dynamics,0.18,Second Order Systems Dynamics;Time Delay Systems Dynamics;Inverse Response Systems Dynamics;Nonlinear Systems
+Second Order Systems Dynamics,0.06,Higher Order Systems Dynamics
+Higher Order Systems Dynamics,0.06,Stability of Linear Systems
+System Identification by Frequency Response,0.12,Controller Tuning (ZN);Empirical Process Modeling
+Nonlinear Systems,0.06,Solution Approaches for Nonlinear Systems
+Stability of Nonlinear Systems,0.06,
+Solution Approaches for Nonlinear Systems,0.06,Stability of Nonlinear Systems
+Stability of Linear Systems,0.06,Stability of Nonlinear Systems;Closed-Loop Stability;Stability of Multivariable Systems
+Stability,0.12,Stability of Linear Systems
+Empirical Process Modeling,0.06,
+Theoretical Process Modeling,0.06,Empirical Process Modeling
+Formulating Multivariable Process Models,0.06,Open Loop Dynamic Analysis;Intro to Optimization;Model Predictive Control
+Open Loop Dynamic Analysis,0.06,Stability of Multivariable Systems;Closed-Loop Dynamic Analysis
+Stability of Multivariable Systems,0.06,
+Model Predictive Control,0.12,
+Closed-Loop Dynamic Analysis,0.06,Interaction Analysis
+Interaction Analysis,0.06,Loop Pairing
+Loop Pairing,0.06,Relative Gain Analysis
+Relative Gain Analysis,0.06,
+Intro to Optimization,0.06,

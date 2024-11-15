@@ -1,0 +1,54 @@
+Topic,Size,Edges To,Type
+Density,0.04,Convective Momentum Flux Tensor,Momentum
+Convective Momentum Flux Tensor,0.08,Total Momentum Flux Tensor;Convective Energy Flux Vector,Momentum
+Total Momentum Flux Tensor,0.04,Shell Momentum Balances,Momentum
+Shell Momentum Balances,0.08,Obtaining Unidirectional Velocity Profiles,Momentum
+Obtaining Unidirectional Velocity Profiles,0.08,Equation of Motion;Obtaining Turbulent Velocity Profiles,Momentum
+Equation of Motion,0.04,Equations of Change for Mechanical Energy,Momentum
+Equations of Change for Mechanical Energy,0.04,Isothermal Equations of Change,Momentum
+Isothermal Equations of Change,0.08,Macroscopic Momentum Balance;Dimensional Analysis for Isothermal Systems;Nonisothermal Equations of Change,Momentum
+Macroscopic Momentum Balance,0.04,Macroscopic Mechanical Energy Balance,Momentum
+Macroscopic Mechanical Energy Balance,0.08,Estimating Viscous Losses,Momentum
+Estimating Viscous Losses,0.04,,Momentum
+Viscosity,0.04,Molecular Momentum Flux Tensor;Obtaining Viscosity Data,Momentum
+Molecular Momentum Flux Tensor,0.04,Total Momentum Flux Tensor,Momentum
+Laminar vs Turbulent Flow,0.04,Obtaining Unidirectional Velocity Profiles,Momentum
+Obtaining Turbulent Velocity Profiles,0.08,Obtaining Turbulent Temperature Profiles,Momentum
+Dimensional Analysis,0.16,Dimensional Analysis for Isothermal Systems;Dimensional Analysis for Nonisothermal Systems;Dimensional Analysis For Flowing Mixtures,General
+Dimensional Analysis for Isothermal Systems,0.08,Friction Factors,Momentum
+Friction Factors,0.16,Estimating Viscous Losses,Momentum
+Obtaining Viscosity Data,0.08,Obtaining Unidirectional Velocity Profiles,Momentum
+Energy Equation,0.08,Nonisothermal Equations of Change,Heat
+Nonisothermal Equations of Change,0.08,Macroscopic Energy Balance for Nonisothermal Systems;Dimensional Analysis for Nonisothermal Systems;Equations of Change For Binary Mixtures from Conservation Laws,Heat
+Macroscopic Energy Balance for Nonisothermal Systems,0.08,Obtaining Temperature Profiles for Flat Velocity Profiles;Macroscopic Balances for Multicomponent Systems,Heat
+Obtaining Temperature Profiles for Flat Velocity Profiles,0.16,Obtaining Temperature Profiles for Non-flat Velocity Profiles,Heat
+Obtaining Temperature Profiles for Non-flat Velocity Profiles,0.08,,Heat
+Thermal Conductivity,0.04,Conductive Heat Flux Vector;Obtaining Thermal Conductivity Data,Heat
+Conductive Heat Flux Vector,0.04,Total Energy Flux Vector,Heat
+Total Energy Flux Vector,0.08,Overall Heat Transfer Coefficients,Heat
+Shell Energy Balances,0.16,Obtaining Unidirectional Temperature Profiles with Flat Velocity Profiles,Heat
+Obtaining Unidirectional Temperature Profiles with Flat Velocity Profiles,0.08,Energy Equation;Obtaining Turbulent Temperature Profiles,Heat
+Obtaining Turbulent Temperature Profiles,0.08,,Heat
+Work Flux Vector,0.04,Total Energy Flux Vector,Heat
+Convective Energy Flux Vector,0.08,Total Energy Flux Vector,Heat
+Overall Heat Transfer Coefficients,0.08,Shell Energy Balances,Heat
+Dimensional Analysis for Nonisothermal Systems,0.16,Obtaining Heat Transfer Coefficients,Heat
+Obtaining Heat Transfer Coefficients,0.16,Obtaining Temperature Profiles for Flat Velocity Profiles,Heat
+Energy Transport by Radiation,0.04,,Heat
+Obtaining Thermal Conductivity Data,0.04,Obtaining Unidirectional Temperature Profiles with Flat Velocity Profiles,Heat
+Macroscopic Balances for Multicomponent Systems,0.08,Obtaining Concentration Profiles,Mass
+Obtaining Concentration Profiles,0.16,,Mass
+Convective Mass Flux Vector,0.08,Total Mass Flux Vector,Mass
+Total Mass Flux Vector,0.08,Shell Mass Balances,Mass
+Shell Mass Balances,0.08,Gas Absorption;Solid Dissolution;Porous Diffusions,Mass
+Gas Absorption,0.04,Obtaining Unidirectional Concentration Profiles,Mass
+Obtaining Unidirectional Concentration Profiles,0.08,Equations of Change For Binary Mixtures from Conservation Laws,Mass
+Equations of Change For Binary Mixtures from Conservation Laws,0.08,Binary Mixture Molecular Fluxes;Dimensional Analysis For Flowing Mixtures,Mass
+Binary Mixture Molecular Fluxes,0.04,Macroscopic Balances for Multicomponent Systems,Mass
+Diffusivity,0.04,Diffusive Mass Flux Vector;Obtaining Diffusivity Data,Mass
+Diffusive Mass Flux Vector,0.08,Total Mass Flux Vector,Mass
+Solid Dissolution,0.04,Obtaining Unidirectional Concentration Profiles,Mass
+Dimensional Analysis For Flowing Mixtures,0.08,Obtaining Mass Transfer Coefficients,Mass
+Obtaining Mass Transfer Coefficients,0.08,Obtaining Concentration Profiles,Mass
+Obtaining Diffusivity Data,0.04,Obtaining Unidirectional Concentration Profiles,Mass
+Porous Diffusions,0.04,Obtaining Unidirectional Concentration Profiles,Mass
