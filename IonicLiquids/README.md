@@ -44,6 +44,12 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 For detailed usage, navigate to the `Jupyter Notebooks` directory.
 
+## Software Versions
+
+- PubChemPy v1.0.4
+- RDKit v2024.3.5
+- ILThermo v2.0
+- pyILT2 v0.9.8
 
 ## Links
 
