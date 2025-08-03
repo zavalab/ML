@@ -19,7 +19,7 @@ This repository comprises scripts used in the research paper titled
 
 ## Sample Outputs
 
-<img src="./Readme Figures/Active Learning TOC.jpg" /> 
+<img src="./Readme Figures/Active Learning TOC.jpg" alt="drawing" width="200"/> 
 
 ## Tutorials
 
