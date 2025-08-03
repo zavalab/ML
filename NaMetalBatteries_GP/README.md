@@ -10,15 +10,15 @@ This repository contains the scripts used to perform a closed-loop Bayesian opti
 
 The data collected in this study is available in the `Experimental Data` folder to provide all tested formulation results to the broader scientific community. This consists of 45 formulations of varying mixtures of the electrolytes shown below.
 
+> Publication
+
+- [In Progress](Link)
+
 <p align="center">
 <img src="./Readme Figures/Active Learning TOC.jpg" alt="drawing" width="300"/> 
 <img src="./Readme Figures/Electrolytes.jpg" alt="drawing" width="300"/> 
 </p>
 
-
-> Publication
-
-- [In Progress](Link)
 
 <br />
 
