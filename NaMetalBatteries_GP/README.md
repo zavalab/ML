@@ -27,7 +27,7 @@ The data collected in this study is available in the `Experimental Data` folder 
 > t-SNE Map of Bayesian Optimization Progression
 
 <p align="center">
-
+<img src="./Readme Figures/t-SNE by Iter.png" alt="drawing" width="600"/> 
 </p>
 
 > Whisker-Box Plot of GP Model Predictions and Measured Data
