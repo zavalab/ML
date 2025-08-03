@@ -18,7 +18,7 @@ The databases we created for this analysis can be found in the `Databases` folde
 
 > Publication
 
-- [In Progress](Link)
+- [Digital Discovery](https://pubs.rsc.org/en/content/articlehtml/2025/dd/d4dd00378k)
 
 <br />
 

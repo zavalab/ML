@@ -1,5 +1,9 @@
 # Data-Driven Electrolyte Design for Anode-Free Sodium Metal Batteries
 
+This repository comprises scripts used in the research paper titled 
+'Data-Driven Electrolyte Design for Anode-Free Sodium Metal Batteries'.
+
+
 ## Introduction
 
 <br />
@@ -15,7 +19,7 @@
 
 ## Sample Outputs
 
-<br />
+<img src="./Readme Figures/Active Learning TOC.png" /> 
 
 ## Tutorials
 
