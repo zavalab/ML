@@ -1,0 +1,449 @@
+
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ + +                                                                         + +
+ + +                      ASPEN PLUS CALCULATION HISTORY                     + +
+ + +                                                                         + +
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+
+ ASPEN PLUS IS A TRADEMARK OF           HOTLINE:
+ ASPEN TECHNOLOGY, INC.                 U.S.A. 888/996-7100
+ 781/221-6400                           EUROPE (44) 1189-226555
+
+ PLATFORM: WIN-X64                                       JULY 24, 2025       
+ VERSION: 37.0   Build 395                               THURSDAY    
+ INSTALLATION:                                           11:23:20 A.M.       
+
+ THIS COPY OF ASPEN PLUS LICENSED TO                                 
+
+
+      ASPEN PLUS (R) IS A PROPRIETARY PRODUCT OF ASPEN TECHNOLOGY, INC.
+      (ASPENTECH), AND MAY BE USED ONLY UNDER AGREEMENT WITH ASPENTECH.
+      RESTRICTED RIGHTS LEGEND:  USE, REPRODUCTION, OR DISCLOSURE BY THE
+      U.S. GOVERNMENT IS SUBJECT TO RESTRICTIONS SET FORTH IN 
+      (i) FAR 52.227-14, Alt. III, (ii) FAR 52.227-19, (iii) DFARS 
+      252.227-7013(c)(1)(ii), or (iv) THE ACCOMPANYING LICENSE AGREEMENT,
+      AS APPLICABLE. FOR PURPOSES OF THE FAR, THIS SOFTWARE SHALL BE DEEMED
+      TO BE "UNPUBLISHED" AND LICENSED WITH DISCLOSURE PROHIBITIONS.
+      CONTRACTOR/SUBCONTRACTOR: ASPEN TECHNOLOGY, INC. 20 CROSBY DRIVE,
+      BEDFORD, MA 01730.
+ *** INPUT SUMMARY ***
+
+ >>CURRENT RUN
+
+   ORIGINAL RUN                           JULY 24, 2025       
+   11:23:20 A.M.                          THURSDAY    
+   INPUT FILE: _1322nrj.inm
+   RUN ID : _1322nrj
+          1    ;
+          2    ;Input file created by Aspen Plus Rel. 37.0 at 11:23:20 Thu Jul 24, 2025
+          3    ;Directory   Runid CAPRYLICACID_ST2
+          4    ;
+          5
+          6
+          7    DYNAMICS
+          8        DYNAMICS RESULTS=ON
+          9
+         10    IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         11            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         12
+         13    DEF-STREAMS CONVEN ALL
+         14
+         15    MODEL-OPTION
+         16
+         17    DATABANKS 'APV110 PURE37' / 'APV110 AQUEOUS' / 'APV110 SOLIDS' &
+         18             / 'APV110 INORGANIC' / 'APESV110 AP-EOS' /  &
+         19            'NISTV110 NIST-TRC' / NOASPENPCD
+         20
+         21    PROP-SOURCES 'APV110 PURE37' / 'APV110 AQUEOUS' /  &
+         22            'APV110 SOLIDS' / 'APV110 INORGANIC' / 'APESV110 AP-EOS' &
+         23             / 'NISTV110 NIST-TRC'
+         24
+         25    COMPONENTS
+         26        CAPRYC C8H16O2-D3 /
+         27        WATER H2O /
+         28        9-OCT-01 C18H36O /
+         29        1-DEC-01 C10H22O /
+         30        1-OCT-01 C8H18O-1 /
+         31        N-BUT-01 C6H12O2-1
+         32
+         33    SOLVE
+         34        RUN-MODE MODE=SIM
+         35
+         36    FLOWSHEET
+         37        BLOCK B1 IN=FEED SOLVENT OUT=EXTRACT RAFINNAT
+         38        BLOCK B2 IN=EXTRACT OUT=S1 WATER
+         39        BLOCK D1 IN=S1 OUT=REC PRODUCT
+         40
+         41    PROPERTIES NRTL
+         42        PROPERTIES UNIF-DMD / UNIFAC / UNIQUAC
+         43
+         44    STRUCTURES
+         45        STRUCTURES 9-OCT-01 C1 C2 S / C2 C3 D / C3 C4 S /  &
+         46            C4 C5 S / C5 C6 S / C6 C7 S / C7 C8 S / C8  &
+         47            C9 S / C9 C10 S / C10 C11 S / C11 O12 S / C1  &
+         48            C13 S / C13 C14 S / C14 C15 S / C15 C16 S /  &
+         49            C16 C17 S / C17 C18 S / C18 C19 S
+         50
+         51    PROP-DATA
+         52        PROP-LIST ATOMNO / NOATOM
+         53        PVAL 9-OCT-01 6 1 8 / 18. 36. 1.
+         54
+         55    ESTIMATE ALL
+         56        NRTL ALL ALL UNIFAC
+         57        UNIQ ALL ALL UNIFAC
+         58
+         59    PROP-DATA PCES-1
+         60        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         61            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         62        PROP-LIST RKTZRA / VLSTD / GMUQR / GMUQQ / VB
+         63        PVAL 9-OCT-01 .2151238430 / 315.0621340 / 12.66315100 /  &
+         64            10.39600000 / 399.7872990
+         65
+         66    PROP-DATA CPIG-1
+         67        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         68            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         69        PROP-LIST CPIG
+         70        PVAL 9-OCT-01 91.57345189 .2980695478 -1.8621770E-4  &
+         71            3.93130876E-8 0.0 0.0 6.850000000 826.8500000  &
+         72            8.605426579 .0181420926 1.500000000
+         73
+         74    PROP-DATA SIGDIP-1
+         75        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         76            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         77        PROP-LIST SIGDIP
+         78        PVAL 9-OCT-01 49.80654940 1.222222220 -4.5308846E-9  &
+         79            5.08145272E-9 -1.9634079E-9 349.3160000 502.0300000
+         80
+         81    PROP-DATA NRTL-1
+         82        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         83            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         84        PROP-LIST NRTL
+         85        BPVAL CAPRYC WATER 0.0 179.7482390 .3000000000 0.0 0.0  &
+         86            0.0 25.00000000 25.00000000
+         87        BPVAL WATER CAPRYC 0.0 2040.785910 .3000000000 0.0 0.0  &
+         88            0.0 25.00000000 25.00000000
+         89        BPVAL CAPRYC 9-OCT-01 0.0 641.1937690 .3000000000 0.0 0.0  &
+         90            0.0 25.00000000 25.00000000
+         91        BPVAL 9-OCT-01 CAPRYC 0.0 -450.0236210 .3000000000 0.0 0.0  &
+         92            0.0 25.00000000 25.00000000
+         93        BPVAL WATER 9-OCT-01 0.0 5151.320660 .3000000000 0.0 0.0  &
+         94            0.0 25.00000000 25.00000000
+         95        BPVAL 9-OCT-01 WATER 0.0 480.6155540 .3000000000 0.0 0.0  &
+         96            0.0 25.00000000 25.00000000
+         97        BPVAL WATER 1-DEC-01 9.180300000 277.5351000 .2000000000  &
+         98            0.0 0.0 0.0 18.85000000 89.85000000
+         99        BPVAL 1-DEC-01 WATER -.1658000000 150.2704000 .2000000000  &
+        100            0.0 0.0 0.0 18.85000000 89.85000000
+        101        BPVAL CAPRYC 1-DEC-01 0.0 513.0453300 .3000000000 0.0 0.0  &
+        102            0.0 25.00000000 25.00000000
+        103        BPVAL 1-DEC-01 CAPRYC 0.0 -382.7319150 .3000000000 0.0 0.0  &
+        104            0.0 25.00000000 25.00000000
+        105        BPVAL 9-OCT-01 1-DEC-01 0.0 -72.10252140 .3000000000 0.0  &
+        106            0.0 0.0 25.00000000 25.00000000
+        107        BPVAL 1-DEC-01 9-OCT-01 0.0 92.60781560 .3000000000 0.0  &
+        108            0.0 0.0 25.00000000 25.00000000
+        109        BPVAL WATER 1-OCT-01 5.917300000 798.3772000 .2600000000  &
+        110            0.0 0.0 0.0 15.00000000 90.50000000
+        111        BPVAL 1-OCT-01 WATER -1.446800000 741.9184000 .2600000000  &
+        112            0.0 0.0 0.0 15.00000000 90.50000000
+        113        BPVAL 1-DEC-01 1-OCT-01 1.327700000 -162.7950000 .3000000000  &
+        114            0.0 0.0 0.0 103.8000000 185.9000000
+        115        BPVAL 1-OCT-01 1-DEC-01 -.5643000000 -44.09200000  &
+        116            .3000000000 0.0 0.0 0.0 103.8000000 185.9000000
+        117        BPVAL CAPRYC 1-OCT-01 0.0 450.7078380 .3000000000 0.0 0.0  &
+        118            0.0 25.00000000 25.00000000
+        119        BPVAL 1-OCT-01 CAPRYC 0.0 -346.1710720 .3000000000 0.0 0.0  &
+        120            0.0 25.00000000 25.00000000
+        121        BPVAL 9-OCT-01 1-OCT-01 0.0 -162.2013800 .3000000000 0.0  &
+        122            0.0 0.0 25.00000000 25.00000000
+        123        BPVAL 1-OCT-01 9-OCT-01 0.0 228.7116640 .3000000000 0.0  &
+        124            0.0 0.0 25.00000000 25.00000000
+        125        BPVAL WATER N-BUT-01 6.574500000 -174.5521000 .3000000000  &
+        126            0.0 0.0 0.0 29.85000000 126.1100000
+        127        BPVAL N-BUT-01 WATER 1.482200000 203.3306000 .3000000000  &
+        128            0.0 0.0 0.0 29.85000000 126.1100000
+        129        BPVAL CAPRYC N-BUT-01 0.0 -277.5195810 .3000000000 0.0 0.0  &
+        130            0.0 25.00000000 25.00000000
+        131        BPVAL N-BUT-01 CAPRYC 0.0 532.3460820 .3000000000 0.0 0.0  &
+        132            0.0 25.00000000 25.00000000
+        133        BPVAL 9-OCT-01 N-BUT-01 0.0 -265.3193840 .3000000000 0.0  &
+        134            0.0 0.0 25.00000000 25.00000000
+        135        BPVAL N-BUT-01 9-OCT-01 0.0 430.8340200 .3000000000 0.0  &
+        136            0.0 0.0 25.00000000 25.00000000
+        137        BPVAL 1-DEC-01 N-BUT-01 0.0 -70.61591070 .3000000000 0.0  &
+        138            0.0 0.0 25.00000000 25.00000000
+        139        BPVAL N-BUT-01 1-DEC-01 0.0 286.7036140 .3000000000 0.0  &
+        140            0.0 0.0 25.00000000 25.00000000
+        141        BPVAL 1-OCT-01 N-BUT-01 0.0 -3.832630860 .3000000000 0.0  &
+        142            0.0 0.0 25.00000000 25.00000000
+        143        BPVAL N-BUT-01 1-OCT-01 0.0 238.0200420 .3000000000 0.0  &
+        144            0.0 0.0 25.00000000 25.00000000
+        145
+        146    PROP-DATA UNIQ-1
+        147        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+        148            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+        149        PROP-LIST UNIQ
+        150        BPVAL CAPRYC WATER 0.0 -199.5371040 0.0 0.0 25.00000000  &
+        151            25.00000000 0.0
+        152        BPVAL WATER CAPRYC 0.0 -176.7172400 0.0 0.0 25.00000000  &
+        153            25.00000000 0.0
+        154        BPVAL CAPRYC 9-OCT-01 0.0 -248.2743160 0.0 0.0 25.00000000  &
+        155            25.00000000 0.0
+        156        BPVAL 9-OCT-01 CAPRYC 0.0 179.6335290 0.0 0.0 25.00000000  &
+        157            25.00000000 0.0
+        158        BPVAL WATER 9-OCT-01 0.0 -268.0251980 0.0 0.0 25.00000000  &
+        159            25.00000000 0.0
+        160        BPVAL 9-OCT-01 WATER 0.0 -314.5674960 0.0 0.0 25.00000000  &
+        161            25.00000000 0.0
+        162        BPVAL WATER 1-DEC-01 0.0 -387.0600000 0.0 0.0 20.00000000  &
+        163            40.00000000 0.0
+        164        BPVAL 1-DEC-01 WATER 0.0 -120.6800000 0.0 0.0 20.00000000  &
+        165            40.00000000 0.0
+        166        BPVAL CAPRYC 1-DEC-01 0.0 -224.4748090 0.0 0.0 25.00000000  &
+        167            25.00000000 0.0
+        168        BPVAL 1-DEC-01 CAPRYC 0.0 171.4140050 0.0 0.0 25.00000000  &
+        169            25.00000000 0.0
+        170        BPVAL 9-OCT-01 1-DEC-01 0.0 -7.208294760 0.0 0.0  &
+        171            25.00000000 25.00000000 0.0
+        172        BPVAL 1-DEC-01 9-OCT-01 0.0 .1033172850 0.0 0.0  &
+        173            25.00000000 25.00000000 0.0
+        174        BPVAL WATER 1-OCT-01 -.5097000000 -163.2852000 0.0 0.0  &
+        175            15.00000000 90.50000000 0.0
+        176        BPVAL 1-OCT-01 WATER -.1782000000 -104.9649000 0.0 0.0  &
+        177            15.00000000 90.50000000 0.0
+        178        BPVAL 1-DEC-01 1-OCT-01 -.5492000000 45.64730000 0.0 0.0  &
+        179            103.8000000 185.9000000 0.0
+        180        BPVAL 1-OCT-01 1-DEC-01 .3615000000 -5.963300000 0.0 0.0  &
+        181            103.8000000 185.9000000 0.0
+        182        BPVAL CAPRYC 1-OCT-01 0.0 -192.1532420 0.0 0.0 25.00000000  &
+        183            25.00000000 0.0
+        184        BPVAL 1-OCT-01 CAPRYC 0.0 152.9165920 0.0 0.0 25.00000000  &
+        185            25.00000000 0.0
+        186        BPVAL 9-OCT-01 1-OCT-01 0.0 -47.84146480 0.0 0.0  &
+        187            25.00000000 25.00000000 0.0
+        188        BPVAL 1-OCT-01 9-OCT-01 0.0 31.25216420 0.0 0.0  &
+        189            25.00000000 25.00000000 0.0
+        190        BPVAL WATER N-BUT-01 -.8629000000 88.80490000 0.0 0.0  &
+        191            29.85000000 126.1100000 0.0
+        192        BPVAL N-BUT-01 WATER -.7115000000 -249.7234000 0.0 0.0  &
+        193            29.85000000 126.1100000 0.0
+        194        BPVAL CAPRYC N-BUT-01 0.0 146.9777480 0.0 0.0 25.00000000  &
+        195            25.00000000 0.0
+        196        BPVAL N-BUT-01 CAPRYC 0.0 -222.8185910 0.0 0.0 25.00000000  &
+        197            25.00000000 0.0
+        198        BPVAL 9-OCT-01 N-BUT-01 0.0 -24.17534540 0.0 0.0  &
+        199            25.00000000 25.00000000 0.0
+        200        BPVAL N-BUT-01 9-OCT-01 0.0 -1.326561850 0.0 0.0  &
+        201            25.00000000 25.00000000 0.0
+        202        BPVAL 1-DEC-01 N-BUT-01 0.0 -31.58392320 0.0 0.0  &
+        203            25.00000000 25.00000000 0.0
+        204        BPVAL N-BUT-01 1-DEC-01 0.0 -7.950896480 0.0 0.0  &
+        205            25.00000000 25.00000000 0.0
+        206        BPVAL 1-OCT-01 N-BUT-01 0.0 -16.12087320 0.0 0.0  &
+        207            25.00000000 25.00000000 0.0
+        208        BPVAL N-BUT-01 1-OCT-01 0.0 -30.56976570 0.0 0.0  &
+        209            25.00000000 25.00000000 0.0
+        210
+        211    STREAM FEED
+        212        SUBSTREAM MIXED TEMP=25. PRES=101325. <Pa> MOLE-FLOW=1210.04
+        213        MOLE-FLOW CAPRYC 0.04 / WATER 1210. / 9-OCT-01 0.
+        214
+        215    STREAM SOLVENT
+        216        SUBSTREAM MIXED TEMP=25. PRES=101325. <Pa>  &
+        217            MOLE-FLOW=2.271319
+        218        MOLE-FRAC CAPRYC 0. / WATER 0. / 9-OCT-01 0. /  &
+        219            1-DEC-01 0. / 1-OCT-01 0. / N-BUT-01 1.
+        220
+        221    BLOCK B2 SEP
+        222        PARAM
+        223        FRAC STREAM=S1 SUBSTREAM=MIXED COMPS=CAPRYC 9-OCT-01  &
+        224            1-DEC-01 1-OCT-01 N-BUT-01 FRACS=1. 1. 1. 1. 1.
+        225
+        226    BLOCK D1 RADFRAC
+        227        PARAM NSTAGE=54 ALGORITHM=STANDARD MAXOL=200 DAMPING=NONE
+        228        COL-CONFIG CONDENSER=TOTAL
+        229        FEEDS S1 24
+        230        PRODUCTS REC 1 L / PRODUCT 54 L
+        231        P-SPEC 1 101325. <Pa>
+        232        COL-SPECS MOLE-B=0.042 MOLE-RR=0.173437
+        233
+        234    BLOCK B1 EXTRACT
+        235        PARAM NSTAGE=10 MAXOL=100
+        236        FEEDS FEED 1 / SOLVENT 10
+        237        PRODUCTS RAFINNAT 10 L1 / EXTRACT 1 L2
+        238        P-SPEC 1 101325. <Pa>
+        239        L1-COMPS WATER
+        240        L2-COMPS CAPRYC
+        241        T-EST 1 50.
+        242
+        243    EO-CONV-OPTI
+        244
+        245    STREAM-REPOR MOLEFLOW
+        246
+        247    PROPERTY-REP PCES
+        248
+        249    PROP-TABLE BINRY-1 FLASHCURVE
+        250        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+        251            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+        252        PROPERTIES NRTL FREE-WATER=STEAM-TA SOLU-WATER=3  &
+        253            TRUE-COMPS=YES
+        254        MOLE-FLOW CAPRYC 1 /  N-BUT-01  1
+        255        STATE VFRAC=0.0
+        256        ANALYSIS ANAL-TYPE=TXY
+        257        VARY PRES
+        258        RANGE LIST=1.013250000
+        259        VARY MOLEFRAC COMP=CAPRYC
+        260        RANGE VARVALUE=RANGE LOWER=0.0 UPPER=1.0 NPOINT=50
+        261        PARAM NPHASE=3
+        262    ;
+        263    ;
+        264    ;
+        265    ;
+        266    ;
+ *** INPUT TRANSLATOR MESSAGES ***
+
+  *** THIS RUN USES THE PROPERTIES ENTERPRISE DATABASE ***
+      SQLLOCALDB.APESV110 : (DATAVERSION - 37.0.0.22)                         
+      SQLLOCALDB.APV110 : (DATAVERSION - 37.0.0.27)                           
+      SQLLOCALDB.FACTV110 : (DATAVERSION - 37.0.0.11)                         
+      SQLLOCALDB.NISTV110 : (DATAVERSION - 37.0.0.27)                         
+ 
+ 
+
+ PDF updated                                                                      TIME =      1.11
+
+ *** CALCULATION TRACE ***
+
+
+ *** FLOWSHEET ANALYSIS MESSAGES ***
+
+ FLOWSHEET CONNECTIVITY BY STREAMS       
+
+   STREAM     SOURCE     DEST           STREAM     SOURCE     DEST
+   SOLVENT    ----       B1             FEED       ----       B1      
+   EXTRACT    B1         B2             RAFINNAT   B1         ----    
+   S1         B2         D1             WATER      B2         ----    
+   REC        D1         ----           PRODUCT    D1         ----    
+
+ FLOWSHEET CONNECTIVITY BY BLOCKS        
+
+   BLOCK        INLETS                         OUTLETS
+   B1           FEED SOLVENT                   EXTRACT RAFINNAT            
+   B2           EXTRACT                        S1 WATER                    
+   D1           S1                             REC PRODUCT                 
+
+      COMPUTATION ORDER FOR THE FLOWSHEET IS:
+      B1 B2 D1 
+
+Calculations begin                                                              time      0.02
+
+
+ SIMULATION CALCULATIONS BEGIN                                                    TIME =      0.02
+
+      ENTHALPY CALCULATION FOR INLET STREAM FEED OF BLOCK B1                      TIME =      0.02
+      KODE = 2  NTRIAL =   2  T = 298.1500  P =  101325.      V =  0.00000      Q =  0.00000    
+
+      ENTHALPY CALCULATION FOR INLET STREAM SOLVENT OF BLOCK B1                   TIME =      0.02
+      KODE = 2  NTRIAL =   1  T = 298.1500  P =  101325.      V =  0.00000      Q =  0.00000    
+
+      UOS BLOCK B1       MODEL: EXTRACT                                           TIME =      0.02
+
+      Convergence iterations:
+         OL   IL     Err/Tol
+          1    1      134.45    
+ 
+          2    4      127.43    
+ 
+          3    4      67.175    
+ 
+          4    4      13.443    
+ 
+          5    4      5.5777    
+ 
+          6    4      1.5350    
+ 
+          7    4     0.11290    
+ 
+
+      UOS BLOCK B2       MODEL: SEP                                               TIME =      0.02
+      ---FLASH FEED STREAM TO CALCULATE TEMPERATURE:
+      NO. TEMP ITER =    5     TEMP =  298.165    
+      KODE = 1  NTRIAL =   2  T = 298.1648  P =  101325.      V =  0.00000      Q =  0.00000    
+      ---FLASH OUTLET STREAM S1      :
+      KODE = 2  NTRIAL =   2  T = 298.1648  P =  101325.      V =  0.00000      Q =  0.00000    
+      ---FLASH OUTLET STREAM WATER   :
+      KODE = 2  NTRIAL =   1  T = 298.1648  P =  101325.      V =  0.00000      Q =  0.00000    
+
+      UOS BLOCK D1       MODEL: RADFRAC                                           TIME =      0.02
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    3      80.924    
+          2    1    3      5.3074    
+          3    1    3      2.1605    
+          4    1    3     0.31864E-01
+
+ Report Writer entered                                                            Time =      0.03
+
+      BEGIN CALCULATIONS FOR PROP-TABLE BINRY-1                                   TIME =      0.07
+      KODE = 3  NTRIAL =   5  T = 399.1648  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  0.00000    
+      KODE = 3  NTRIAL =   6  T = 399.8376  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  413.362    
+      KODE = 3  NTRIAL =   7  T = 400.5040  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  410.360    
+      KODE = 3  NTRIAL =   7  T = 401.1670  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  407.945    
+      KODE = 3  NTRIAL =   7  T = 401.8290  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  406.101    
+      KODE = 3  NTRIAL =   7  T = 402.4928  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  404.816    
+      KODE = 3  NTRIAL =   7  T = 403.1609  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  404.081    
+      KODE = 3  NTRIAL =   7  T = 403.8357  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  403.889    
+      KODE = 3  NTRIAL =   7  T = 404.5196  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  404.234    
+      KODE = 3  NTRIAL =   7  T = 405.2152  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  405.116    
+      KODE = 3  NTRIAL =   7  T = 405.9246  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  406.536    
+      KODE = 3  NTRIAL =   7  T = 406.6504  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  408.497    
+      KODE = 3  NTRIAL =   7  T = 407.3949  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  411.007    
+      KODE = 3  NTRIAL =   7  T = 408.1607  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  414.076    
+      KODE = 3  NTRIAL =   7  T = 408.9501  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  417.717    
+      KODE = 3  NTRIAL =   7  T = 409.7657  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  421.947    
+      KODE = 3  NTRIAL =   7  T = 410.6102  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  426.789    
+      KODE = 3  NTRIAL =   7  T = 411.4863  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  432.267    
+      KODE = 3  NTRIAL =   7  T = 412.3969  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  438.413    
+      KODE = 3  NTRIAL =   7  T = 413.3450  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  445.264    
+      KODE = 3  NTRIAL =   7  T = 414.3337  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  452.863    
+      KODE = 3  NTRIAL =   7  T = 415.3666  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  461.260    
+      KODE = 3  NTRIAL =   7  T = 416.4473  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  470.514    
+      KODE = 3  NTRIAL =   7  T = 417.5797  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  480.693    
+      KODE = 3  NTRIAL =   7  T = 418.7681  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  491.877    
+      KODE = 3  NTRIAL =   7  T = 420.0172  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  504.159    
+      KODE = 3  NTRIAL =   7  T = 421.3321  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  517.647    
+      KODE = 3  NTRIAL =   7  T = 422.7185  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  532.467    
+      KODE = 3  NTRIAL =   7  T = 424.1827  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  548.765    
+      KODE = 3  NTRIAL =   7  T = 425.7317  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  566.715    
+      KODE = 3  NTRIAL =   7  T = 427.3733  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  586.519    
+      KODE = 3  NTRIAL =   7  T = 429.1164  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  608.417    
+      KODE = 3  NTRIAL =   7  T = 430.9710  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  632.692    
+      KODE = 3  NTRIAL =   8  T = 432.9485  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  659.680    
+      KODE = 3  NTRIAL =   8  T = 435.0619  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  689.784    
+      KODE = 3  NTRIAL =   8  T = 437.3263  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  723.485    
+      KODE = 3  NTRIAL =   8  T = 439.7590  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  761.362    
+      KODE = 3  NTRIAL =   8  T = 442.3801  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  804.116    
+      KODE = 3  NTRIAL =   8  T = 445.2131  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  852.597    
+      KODE = 3  NTRIAL =   8  T = 448.2856  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  907.837    
+      KODE = 3  NTRIAL =   8  T = 451.6300  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  971.096    
+      KODE = 3  NTRIAL =   8  T = 455.2846  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1043.91    
+      KODE = 3  NTRIAL =   8  T = 459.2946  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1128.15    
+      KODE = 3  NTRIAL =   8  T = 463.7138  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1226.07    
+      KODE = 3  NTRIAL =   8  T = 468.6051  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1340.37    
+      KODE = 3  NTRIAL =   8  T = 474.0429  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1474.24    
+      KODE = 3  NTRIAL =   8  T = 480.1130  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1631.26    
+      KODE = 3  NTRIAL =   8  T = 486.9133  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  1815.34    
+      KODE = 3  NTRIAL =   8  T = 494.5519  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2030.40    
+      KODE = 3  NTRIAL =   8  T = 503.1444  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2279.92    
+      KODE = 3  NTRIAL =   7  T = 512.8092  P =  101325.      V =  0.00000      BETA =  1.00000      Q =  2566.53    
+
+ Results generated                                                                Time =      0.08
+
+RUN SAVED
+
+
+
+ NO ERRORS OR WARNINGS GENERATED
