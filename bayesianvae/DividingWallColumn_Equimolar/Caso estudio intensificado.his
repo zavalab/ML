@@ -1,0 +1,504 @@
+
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ + +                                                                         + +
+ + +                      ASPEN PLUS CALCULATION HISTORY                     + +
+ + +                                                                         + +
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
+
+ ASPEN PLUS IS A TRADEMARK OF           HOTLINE:
+ ASPEN TECHNOLOGY, INC.                 U.S.A. 888/996-7100
+ 781/221-6400                           EUROPE (44) 1189-226555
+
+ PLATFORM: WIN-X64                                       SEPTEMBER 24, 2025  
+ VERSION: 37.0   Build 395                               WEDNESDAY   
+ INSTALLATION:                                           4:54:42 P.M.        
+
+ THIS COPY OF ASPEN PLUS LICENSED TO                                 
+
+
+      ASPEN PLUS (R) IS A PROPRIETARY PRODUCT OF ASPEN TECHNOLOGY, INC.
+      (ASPENTECH), AND MAY BE USED ONLY UNDER AGREEMENT WITH ASPENTECH.
+      RESTRICTED RIGHTS LEGEND:  USE, REPRODUCTION, OR DISCLOSURE BY THE
+      U.S. GOVERNMENT IS SUBJECT TO RESTRICTIONS SET FORTH IN 
+      (i) FAR 52.227-14, Alt. III, (ii) FAR 52.227-19, (iii) DFARS 
+      252.227-7013(c)(1)(ii), or (iv) THE ACCOMPANYING LICENSE AGREEMENT,
+      AS APPLICABLE. FOR PURPOSES OF THE FAR, THIS SOFTWARE SHALL BE DEEMED
+      TO BE "UNPUBLISHED" AND LICENSED WITH DISCLOSURE PROHIBITIONS.
+      CONTRACTOR/SUBCONTRACTOR: ASPEN TECHNOLOGY, INC. 20 CROSBY DRIVE,
+      BEDFORD, MA 01730.
+ *** INPUT SUMMARY ***
+
+ >>CURRENT RUN
+
+   ORIGINAL RUN                           SEPTEMBER 24, 2025  
+   4:54:42 P.M.                           WEDNESDAY   
+   INPUT FILE: _5318grh.inm
+   RUN ID : _5318grh
+          1    ;
+          2    ;Input file created by Aspen Plus Rel. 37.0 at 16:54:41 Wed Sep 24, 2025
+          3    ;Directory   Runid CASO ESTUDIO INTENSIFICADO
+          4    ;
+          5
+          6
+          7    DYNAMICS
+          8        DYNAMICS RESULTS=ON
+          9
+         10    IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         11            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         12
+         13    DEF-STREAMS CONVEN ALL
+         14
+         15    SIM-OPTIONS MASS-BAL-CHE=YES NPHASE=2
+         16
+         17    MODEL-OPTION
+         18
+         19    DATABANKS 'APV110 PURE37' / 'APV110 AQUEOUS' / 'APV110 SOLIDS' &
+         20             / 'APV110 INORGANIC' / 'APESV110 AP-EOS' /  &
+         21            'NISTV110 NIST-TRC' / NOASPENPCD
+         22
+         23    PROP-SOURCES 'APV110 PURE37' / 'APV110 AQUEOUS' /  &
+         24            'APV110 SOLIDS' / 'APV110 INORGANIC' / 'APESV110 AP-EOS' &
+         25             / 'NISTV110 NIST-TRC'
+         26
+         27    COMPONENTS
+         28        METHA-01 CH4O /
+         29        DICHL-01 CH2CL2 /
+         30        N:N-D-01 C3H7NO
+         31
+         32    SOLVE
+         33        RUN-MODE MODE=SIM
+         34
+         35    FLOWSHEET
+         36        BLOCK B1 IN=S1 3 5 OUT=DCM DMF VR
+         37        BLOCK B2 IN=VR OUT=MEOH S1
+         38        BLOCK EXC1 IN=SOLVENT OUT=3
+         39        BLOCK EXC2 IN=FEED OUT=5
+         40
+         41    PROPERTIES NRTL
+         42
+         43    PROP-DATA NRTL-1
+         44        IN-UNITS MET PRESSURE=bar TEMPERATURE=C DELTA-T=C PDROP=bar  &
+         45            INVERSE-PRES='1/bar' SHORT-LENGTH=mm
+         46        PROP-LIST NRTL
+         47        BPVAL METHA-01 DICHL-01 0.0 -102.5306000 .3000000000 0.0  &
+         48            0.0 0.0 37.64000000 64.53000000
+         49        BPVAL DICHL-01 METHA-01 0.0 812.7825000 .3000000000 0.0  &
+         50            0.0 0.0 37.64000000 64.53000000
+         51        BPVAL METHA-01 N:N-D-01 -.5010000000 712.2657000 .3000000000  &
+         52            0.0 0.0 0.0 20.00000000 152.5000000
+         53        BPVAL N:N-D-01 METHA-01 -.8325000000 -208.2091000  &
+         54            .3000000000 0.0 0.0 0.0 20.00000000 152.5000000
+         55        BPVAL DICHL-01 N:N-D-01 -2.743510000 1401.151000 .3000000000  &
+         56            0.0 0.0 0.0 40.70000000 153.0000000
+         57        BPVAL N:N-D-01 DICHL-01 -9.448972000 3263.881000 .3000000000  &
+         58            0.0 0.0 0.0 40.70000000 153.0000000
+         59
+         60    STREAM FEED
+         61        SUBSTREAM MIXED TEMP=50. PRES=1. MOLE-FLOW=100.
+         62        MOLE-FRAC METHA-01 0.5 / DICHL-01 0.5
+         63
+         64    STREAM SOLVENT
+         65        SUBSTREAM MIXED TEMP=50. PRES=1. MOLE-FLOW=50.
+         66        MOLE-FRAC METHA-01 1.7E-11 / DICHL-01 1.7E-08 / N:N-D-01  &
+         67            1.
+         68
+         69    BLOCK EXC1 HEATER
+         70        PARAM PRES=1.44 <atm> VFRAC=0. DPPARMOPT=NO
+         71
+         72    BLOCK EXC2 HEATER
+         73        PARAM PRES=1.49 <atm> VFRAC=0. DPPARMOPT=NO
+         74
+         75    BLOCK B1 RADFRAC
+         76        SUBOBJECTS INTERNALS = INT
+         77        PARAM NSTAGE=42 ALGORITHM=STANDARD INIT-OPTION=STANDARD  &
+         78            HYDRAULIC=NO MAXOL=200 NPHASE=2 DAMPING=NONE
+         79        PARAM2 STATIC-DP=YES
+         80        COL-CONFIG CONDENSER=TOTAL REBOILER=KETTLE CA-CONFIG=INT-1
+         81        FEEDS S1 38 ON-STAGE / 3 4 ON-STAGE / 5 34 ON-STAGE
+         82        PRODUCTS DCM 1 L / DMF 42 L / VR 38 V MOLE-FLOW=52.5
+         83        P-SPEC 1 1.4 <atm>
+         84        COL-SPECS MOLE-D=50.05 MOLE-RR=4.2
+         85        BLOCK-OPTION FREE-WATER=NO
+         86        REPORT NOHYDRAULIC
+         87        INTERNALS INT STAGE1=2 STAGE2=41 P-UPDATE=NO
+         88        TRAY-SIZE 1 2 41 SIEVE
+         89
+         90    BLOCK B2 RADFRAC
+         91        SUBOBJECTS INTERNALS = INT
+         92        PARAM NSTAGE=38 ALGORITHM=STANDARD INIT-OPTION=STANDARD  &
+         93            HYDRAULIC=NO MAXOL=200 NPHASE=2 DAMPING=NONE
+         94        PARAM2 STATIC-DP=YES
+         95        COL-CONFIG CONDENSER=TOTAL REBOILER=NONE CA-CONFIG=INT-1
+         96        FEEDS VR 38 ON-STAGE
+         97        PRODUCTS MEOH 1 L / S1 38 L
+         98        P-SPEC 1 1.4 <atm>
+         99        COL-SPECS MOLE-D=50.05
+        100        BLOCK-OPTION FREE-WATER=NO
+        101        REPORT NOHYDRAULIC
+        102        INTERNALS INT STAGE1=2 STAGE2=35 P-UPDATE=NO
+        103        TRAY-SIZE 1 2 35 SIEVE
+        104
+        105    EO-CONV-OPTI
+        106
+        107    CONV-OPTIONS
+        108        PARAM TEAR-METHOD=BROYDEN TOL=0.0001
+        109        WEGSTEIN MAXIT=100
+        110        BROYDEN MAXIT=100
+        111
+        112    STREAM-REPOR MOLEFLOW
+        113
+        114    PROPERTY-REP PCES NOPARAM-PLUS
+        115    ;
+        116    ;
+        117    ;
+        118    ;
+        119    ;
+ *** INPUT TRANSLATOR MESSAGES ***
+
+  *** THIS RUN USES THE PROPERTIES ENTERPRISE DATABASE ***
+      SQLLOCALDB.APESV110 : (DATAVERSION - 37.0.0.22)                         
+      SQLLOCALDB.APV110 : (DATAVERSION - 37.0.0.27)                           
+      SQLLOCALDB.FACTV110 : (DATAVERSION - 37.0.0.11)                         
+      SQLLOCALDB.NISTV110 : (DATAVERSION - 37.0.0.27)                         
+ 
+ 
+
+ PDF updated                                                                      TIME =      2.33
+
+ *** CALCULATION TRACE ***
+
+
+ *** FLOWSHEET ANALYSIS MESSAGES ***
+
+ FLOWSHEET CONNECTIVITY BY STREAMS       
+
+   STREAM     SOURCE     DEST           STREAM     SOURCE     DEST
+   SOLVENT    ----       EXC1           FEED       ----       EXC2    
+   DCM        B1         ----           DMF        B1         ----    
+   VR         B1         B2             MEOH       B2         ----    
+   S1         B2         B1             3          EXC1       B1      
+   5          EXC2       B1                                           
+
+ FLOWSHEET CONNECTIVITY BY BLOCKS        
+
+   BLOCK        INLETS                         OUTLETS
+   B1           S1 3 5                         DCM DMF VR                  
+   B2           VR                             MEOH S1                     
+   EXC1         SOLVENT                        3                           
+   EXC2         FEED                           5                           
+
+      BLOCK $OLVER01 (METHOD: BROYDEN ) HAS BEEN DEFINED TO CONVERGE
+               STREAMS: VR
+
+      COMPUTATION ORDER FOR THE FLOWSHEET IS:
+      EXC2 EXC1 
+      $OLVER01 B2 B1 
+      (RETURN $OLVER01) 
+
+Calculations begin                                                              time      0.31
+
+
+ SIMULATION CALCULATIONS BEGIN                                                    TIME =      0.31
+
+      ENTHALPY CALCULATION FOR INLET STREAM FEED OF BLOCK EXC2                    TIME =      0.31
+      KODE = 2  NTRIAL =   4  T = 323.1500  P =  100000.      V = 0.898600      Q =  0.00000    
+
+      UOS BLOCK EXC2     MODEL: HEATER                                            TIME =      0.34
+      KODE = 3  NTRIAL =   5  T = 323.8735  P =  150974.      V =  0.00000      Q = -777014.    
+
+      ENTHALPY CALCULATION FOR INLET STREAM SOLVENT OF BLOCK EXC1                 TIME =      0.34
+      KODE = 2  NTRIAL =   1  T = 323.1500  P =  100000.      V =  0.00000      Q =  0.00000    
+
+      UOS BLOCK EXC1     MODEL: HEATER                                            TIME =      0.34
+      KODE = 3  NTRIAL =   4  T = 438.9832  P =  145908.      V =  0.00000      Q =  278746.    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.34
+      ITER   0 For Tear Streams: VR
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.36
+
+  *   WARNING WHILE EXECUTING UNIT OPERATIONS BLOCK: "B2" (MODEL: "RADFRAC")    
+                                                               (UDL3II.7060)    
+      ZERO FEED - BLOCK BYPASSED.                                               
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.36
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      1011.0    
+          2    1    7      932.13    
+          3    1    5      448.45    
+          4    1    8      287.57    
+          5    1    5      224.77    
+          6    1    4      168.80    
+          7    1    4      140.57    
+          8    1    4      98.728    
+          9    1    4      77.879    
+         10    1    3      39.518    
+         11    1    4      34.331    
+         12    1    4      20.246    
+         13    1    4      7.9596    
+         14    1    4      3.2243    
+         15    1    4      3.7999    
+         16    1    3      1.2906    
+         17    1    3     0.88110    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.39
+      ITER   1 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      KODE = 1  NTRIAL =   8  T = 368.1100  P =  141855.      V =  1.00000      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    1:   4 VARS NOT CONVERGED, MAX ERR/TOL     0.10000E+07    TIME =      0.40
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.40
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    5      1143.8    
+          2    1    5      377.26    
+          3    1    4      138.41    
+          4    1    3      5.1814    
+          5    1    4      1.8959    
+          6    1    4     0.52439    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.42
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      87.992    
+          2    1    7      44.222    
+          3    1    4      14.402    
+          4    1    3      2.5766    
+          5    1    3      1.6632    
+          6    1    3     0.16092    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.42
+      ITER   2 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      NO. TEMP ITER =    3     TEMP =  360.593    
+      KODE = 1  NTRIAL =   1  T = 360.5928  P =  141855.      V =  1.00000      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    2:   4 VARS NOT CONVERGED, MAX ERR/TOL     -4911.2        TIME =      0.42
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.42
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      190.60    
+          2    1    5      32.777    
+          3    1    5      12.220    
+          4    1    4      2.0632    
+          5    1    4     0.74147    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.42
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      40.283    
+          2    1    6      19.897    
+          3    1    4      5.3615    
+          4    1    4      1.8017    
+          5    1    3      1.3334    
+          6    1    3     0.91465E-01
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.43
+      ITER   3 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      NO. TEMP ITER =    4     TEMP =  357.929    
+      KODE = 1  NTRIAL =   2  T = 357.9287  P =  141855.      V =  1.00000      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    3:   4 VARS NOT CONVERGED, MAX ERR/TOL     -2197.7        TIME =      0.43
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.43
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      75.445    
+          2    1    6      17.541    
+          3    1    6      10.035    
+          4    1    5      1.6986    
+          5    1    4     0.71966    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.43
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      22.711    
+          2    1    7      10.061    
+          3    1    3      1.2789    
+          4    1    4     0.12536    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.43
+      ITER   4 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      NO. TEMP ITER =    4     TEMP =  357.224    
+      KODE = 1  NTRIAL =   2  T = 357.2243  P =  141855.      V =  1.00000      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    4:   4 VARS NOT CONVERGED, MAX ERR/TOL     -523.72        TIME =      0.43
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.43
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      18.505    
+          2    1    6      5.2572    
+          3    1    6      3.3604    
+          4    1    5     0.53929    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.45
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    9      6.2533    
+          2    1    4      2.6919    
+          3    1    3     0.22828    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.45
+      ITER   5 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      NO. TEMP ITER =    3     TEMP =  357.121    
+      KODE = 1  NTRIAL =   1  T = 357.1212  P =  141855.      V =  1.00000      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    5:   3 VARS NOT CONVERGED, MAX ERR/TOL     -67.314        TIME =      0.45
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.45
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1   10      2.9441    
+          2    1    5     0.97471    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.45
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    8     0.72276    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.45
+      ITER   6 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      KODE = 1  NTRIAL =   7  T = 357.1348  P =  141855.      V = 0.999999      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    6:   1 VARS NOT CONVERGED, MAX ERR/TOL      13.969        TIME =      0.45
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.45
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    9      1.0112    
+          2    1    6     0.66236    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.45
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    8     0.18286    
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.47
+      ITER   7 For Tear Streams: VR
+
+      --FLASH TEAR STREAM VR      
+      KODE = 1  NTRIAL =   2  T = 357.1289  P =  141855.      V = 0.999999      Q =  0.00000    
+
+  LOOP $OLVER01 ITER    7:   1 VARS NOT CONVERGED, MAX ERR/TOL     -9.9330        TIME =      0.47
+
+      UOS BLOCK B2       MODEL: RADFRAC                                           TIME =      0.47
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    9     0.91164    
+
+      UOS BLOCK B1       MODEL: RADFRAC                                           TIME =      0.47
+
+       Convergence iterations:
+         OL   ML   IL     Err/Tol
+          1    1    2     0.13791E-01
+
+      CONVERGENCE BLOCK $OLVER01  METHOD: BROYDEN                                 TIME =      0.47
+      ITER   8 For Tear Streams: VR
+
+  LOOP $OLVER01 ITER    8:     *** CONVERGED *** , MAX ERR/TOL     0.91856        TIME =      0.47
+
+      GENERATING RESULTS FOR UOS BLOCK EXC1     MODEL: HEATER                     TIME =      0.47
+
+      GENERATING RESULTS FOR UOS BLOCK EXC2     MODEL: HEATER                     TIME =      0.47
+
+ STREAM DCM     
+        SUBSTREAM MIXED     F =  1.390277777777781E-02  T =   322.456716739855      P =   141855.000000000    
+                            H =  -122238317.167070      V =   0.00000000000000      L =   1.00000000000000    
+                            ENTROPY =  -2045.37591230176      DENSITY =   1271.74246438141      MW =   84.7463722463948    
+        METHA-01  4.806767726139275E-05  DICHL-01  1.385113428193023E-02  N:N-D-01  3.575818586179922E-06
+
+ STREAM DMF     
+        SUBSTREAM MIXED     F =  1.386111111111114E-02  T =   437.405922382404      P =   141855.000000000    
+                            H =  -215135809.585941      V =   0.00000000000000      L =   1.00000000000000    
+                            ENTROPY =  -5416.90585303449      DENSITY =   797.990173650297      MW =   73.0306738565234    
+        METHA-01  2.164983446944451E-05  DICHL-01  8.704645039786711E-08  N:N-D-01  1.383937423019130E-02
+
+ STREAM VR      
+        SUBSTREAM MIXED     F =  1.458333333333336E-02  T =   357.129732925271      P =   141855.000000000    
+                            H =  -197741432.254134      V =   1.00000000000000      L =   0.00000000000000    
+                            ENTROPY =  -3849.53281679983      DENSITY =   1.56975789456994      MW =   32.8579524136155    
+        METHA-01  1.430449376031284E-02  DICHL-01  3.800566981364795E-05  N:N-D-01  2.408339032068744E-04
+
+ STREAM MEOH    
+        SUBSTREAM MIXED     F =  1.390277777777781E-02  T =   346.296628668445      P =   141855.000000000    
+                            H =  -233118316.217332      V =   0.00000000000000      L =   1.00000000000000    
+                            ENTROPY =  -6986.86428848173      DENSITY =   735.779871470197      MW =   32.3210475964228    
+        METHA-01  1.381919196986136E-02  DICHL-01  3.766831031111349E-05  N:N-D-01  4.591749760533356E-05
+
+ STREAM S1      
+        SUBSTREAM MIXED     F =  6.805555555555575E-04  T =   357.128700338060      P =   141855.000000000    
+                            H =  -231072077.441294      V =   0.00000000000000      L =   1.00000000000000    
+                            ENTROPY =  -6287.00586073756      DENSITY =   779.593817390825      MW =   43.8261508218493    
+        METHA-01  4.853017904536439E-04  DICHL-01  3.373595025515039E-07  N:N-D-01  1.949164055993621E-04
+
+ Report Writer entered                                                            Time =      4.50
+
+ Results generated                                                                Time =      4.56
+
+ Report Writer entered                                                            Time =      5.20
+
+ Results generated                                                                Time =      5.25
+
+RUN SAVED
+
+
+
+ *** SUMMARY OF ERRORS ***
+
+                  PHYSICAL
+                  PROPERTY  SYSTEM  SIMULATION
+ TERMINAL ERRORS      0        0         0
+   SEVERE ERRORS      0        0         0
+          ERRORS      0        0         0
+        WARNINGS      0        0         1
+
+ Report Writer entered                                                            Time =     11.84
+
+ Results generated                                                                Time =     11.89
+
+ Report Writer entered                                                            Time =     12.41
+
+ Results generated                                                                Time =     12.46
+
+RUN SAVED
+
+
+
+ *** SUMMARY OF ERRORS ***
+
+                  PHYSICAL
+                  PROPERTY  SYSTEM  SIMULATION
+ TERMINAL ERRORS      0        0         0
+   SEVERE ERRORS      0        0         0
+          ERRORS      0        0         0
+        WARNINGS      0        0         1
