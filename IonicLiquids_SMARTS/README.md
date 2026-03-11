@@ -52,10 +52,10 @@ For detailed usage, navigate to the `Jupyter Notebooks` directory.
 
 ## Links
 
-- [Cersonsky Lab] (https://cersonsky.com/)
+- [Cersonsky Lab](https://cersonsky.com/)
 - [Gebbie Lab](https://interfaces.che.wisc.edu/)
 - [Zavalab](https://zavalab.engr.wisc.edu/)
-- [SciKit Matter] (https://scikit-matter.readthedocs.io/en/latest/)
+- [SciKit Matter](https://scikit-matter.readthedocs.io/en/latest/)
 - [RDKit](https://github.com/rdkit/rdkit)
 - [IL Thermo](https://ilthermo.boulder.nist.gov/)
 
