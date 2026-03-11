@@ -1,0 +1,50 @@
+Name:,SMARTS:,Other representations:
+Ammonium 0H,[#7+;D4;H0;!R],
+Ammonium 1H,[#7+;D3;H1;!R],
+Ammonium 2H,[#7+;D2;H2;!R],
+Ammonium 3H,[#7+;D1;H3;!R],
+Pyrrolidinium,[N+;R]1(CCCC1),
+Imidazolium,[n;H0]1cc[n+;H0]c1,[n+;H0]1cc[n;H0]c1
+Trialkylimidazolium,n1**[n+]c1~c,[n+]1**nc1~c
+Piperidinium,[N+]1(CCCCC1),
+Pyridinium,c1cc[n+](cc1),
+Tetrahydrothiophenium,C1CC[S+]C1,
+Phosphorus Cation,[P+;D4],
+Iminium,NC(=[N+]),
+Triazolium,n1~c~[n+]~c~n~1,[n+]1~c~n~c~n~1
+Neutral Aromatic Ring: 5-membered,[*;+0]1[*;+0][*;+0][*;+0][*;+0]1,
+Neutral Aromatic Ring: 6-membered,[*;+0]1[*;+0][*;+0][*;+0][*;+0][*;+0]1,
+Ether,C~O~C,
+Nitrile,*~[C+0]#[N+0],
+Methyl,*~[CH3;!R],
+Ethyl,*~[CH2;!R]~*,
+Propyl,*~[CH2;!R]~[CH2;!R]~*,
+Butyl,*~[CH2;!R]~[CH2;!R]~[CH2;!R]~*,
+Pentyl,*~[CH2;!R]~[CH2;!R]~[CH2;!R]~[CH2;!R]~*,
+Hexyl,*~[CH2;!R]~[CH2;!R]~[CH2;!R]~[CH2;!R]~[CH2;!R]~*,
+Fluoromethyl,C(~F)(~F)(~F)~C(~[*+0])(~[*+0]),
+e- Fluoromethyl ,C(~F)(~F)(~F)~C(~[*-])(~[*+0]),C(~F)(~F)(~F)~S(~[*-])(~[*+0])(~[*+0])
+Fluoroethyl,*~C(~F)(~F)~C(~F)(~F)(~F),
+Fluoropropyl,*~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)(~F),
+Fluorobutyl,*~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)(~F),
+Fluoropentyl,*~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)(~F),
+Flurohexyl,*~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)~C(~F)(~F)(~F),
+Hydroxyl,*~[OH1],
+Primary Amine,[#7+0;H2;R0;D1],
+Secondary Amine,[#7+0;H1;R0;D2],
+Tertiary Amine,[#7+0;H0;R0;D3],
+2-Unit Chain,[A;!R]~[A;!R],
+3-Unit Chain,[A;!R]~[A;!R]~[A;!R],
+4-Unit Chain,[A;!R]~[A;!R]~[A;!R]~[A;!R],
+Bis(sulfonyl)imide,*~S(=O)(=O)[N-]S(=O)(=O)~*,*~S(=O)([O-])=NS(=O)(=O)~*
+Sulfonate,*~[S-](~O)(~O)~O,*~S(~[O-])(~O)~O
+Cyanide,[*-;!X4]~C#N,[*;!X4]=C=[N-]
+Carboxylate,*~C(=O)[O-],
+Azide,[N-]=[N+]=[N-],[N--]-[N+]#N
+Nitrate,[N+](~O)(~[O-])(~[O-]),
+Perrhenate,[Re](~[O-])(~O)(~O)(~O),[Re-](~O)(~O)(~O)(~O)
+Phosphate,[P-;D6],[P;D4]~[O-]
+Boroanion,[B-;D4],
+Diazole Anion,c1~c~n~c~[n-]1,c1~c~[n-]~c~n~1
+Carboxyl,[O+0]~C(=O),
+Protic Imidazolium,[n;H1]1**[n+]c1,n1**[n+;H1]c1
