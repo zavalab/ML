@@ -24,14 +24,10 @@ Overall, this work aims to provide an interpretable survey of structure-property
 
 ## Sample Outputs
 
-<br />
-
 > Ionic Liquid SMARTS Fragments
 
 <br />
 <img src="./ReadMe Figures/Ionic Liquid Fragments.png" />
-<br />
-
 <br />
 
 > PCovR Latent Space
