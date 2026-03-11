@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Here we provide the code and data used for the manuscript "Identifying the Impact of Chemical Functional Groups on Ionic Liquid Conductivity". This work defines a molecular fragment representation that reflects charge-carrier resonance using SMARTS fragments to capture the electrostatic contributions to conductivity of ionic liquid compounds.We find this representation simplifies structure-conductivity relationships and improves predictive performance in low-data regimes. 
+Here we provide the code and data used for the manuscript "Identifying the Impact of Chemical Functional Groups on Ionic Liquid Conductivity". This work defines a molecular fragment representation that reflects charge-carrier resonance using SMARTS fragments to capture the electrostatic contributions to conductivity of ionic liquid compounds. We find this representation simplifies structure-conductivity relationships and improves predictive performance in low-data regimes. 
 
 We additionally map the ionic liquid chemical design space using principal covariates regression to visualize the underlying structure-property relationships. From this analysis, we observe that ionic liquid anion core identity and cation functionalization have more significant roles in determining ionic liquid conductivity than ionic liquid cation core identity.
 
