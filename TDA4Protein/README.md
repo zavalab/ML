@@ -54,6 +54,7 @@ Then unzip it into the repository `data/` folder:
 
 ```bash
 unzip protein_csvs.zip -d data/
+```
 
 From the repository root:
 
