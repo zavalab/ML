@@ -1,10 +1,10 @@
-# Protein TDA Interface Prediction
+# Analyzing Protein-Protein Interactions using Topology
 
-This repository contains a clean, reproducible implementation of the TDA + chemical descriptor workflow used for protein interface prediction in the accompanying manuscript.
+This repository contains all codes and data necessary for the implementation of a topology-based workflow used for protein interface prediction in the accompanying manuscript.
 
 ## Publication
 
-This repository consists of scripts based on the TDA-NN framework for predicting protein-protein interaction patches as discussed in the research paper:
+This repository consists of scripts corresponding to the TDA-NN framework for predicting protein interface patches as discussed in the research paper:
 
 **Mukherjee, A.**, Park, B., Malmstrom, A., Cisewski-Kehe, J., Van Lehn, R. C., and Zavala, V. M. "Scalable Extraction of Information on Protein-Protein Interactions using Topological Data Analysis" (*manuscript under review*)
 
@@ -56,8 +56,8 @@ This runs:
 2. alpha-complex Betti and Euler characteristic feature extraction
 3. chemical feature averaging over nested radii
 4. PCA fitting on the training set and projection of train/test proteins
-5. neural network training
-6. ROC AUC training-curve plotting
+5. feedforward neural network (NN) training
+6. ROC AUC training curve plotting
 
 For a 12 Angstrom patch radius:
 
@@ -104,12 +104,6 @@ python scripts/train_nn.py \
   --epochs 50
 ```
 
-Count trainable parameters for the 20-PC manuscript MLP:
-
-```bash
-python scripts/count_parameters.py --input-dim 20
-```
-
 Generate training curves:
 
 ```bash
@@ -118,11 +112,3 @@ python scripts/plot_training_curves.py \
   --output-png results/nn_combined_alpha_9a/training_auc_curves.png
 ```
 
-Generate the two-panel PCA figure and CSV files:
-
-```bash
-python scripts/plot_pca_projection.py \
-  --descriptor-dir data/descriptors/combined_alpha_9a \
-  --protein-list data/splits/training.txt \
-  --output-prefix results/pca_combined_alpha_9a/pca_figure
-```
