@@ -15,4 +15,12 @@ data/
 
 ## Protein CSV Files
 
-The protein surface CSV files are not committed directly to GitHub because the folder contains thousands of files. They are provided separately as `protein_csvs.zip'.
+The protein surface CSV files are not committed directly to GitHub because the folder contains thousands of files. They are provided separately as `protein_csvs.zip`.
+
+Download `protein_csvs.zip` from [Google Drive](https://drive.google.com/file/d/1mBtB3PWEUaauj9k1Re0iAkrMZ5Ugb0wC/view?usp=sharing).
+
+Then unzip it into the repository `data/` folder:
+
+```bash
+unzip protein_csvs.zip -d data/
+```
