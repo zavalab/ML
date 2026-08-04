@@ -44,6 +44,17 @@ The `features/`, `descriptors/`, and `results/` folders are generated when the s
 
 ## Full Pipeline
 
+### Data Download
+
+The protein surface CSV files are provided separately as `protein_csvs.zip`.
+
+Download `protein_csvs.zip` from [Google Drive](https://drive.google.com/file/d/1mBtB3PWEUaauj9k1Re0iAkrMZ5Ugb0wC/view?usp=sharing).
+
+Then unzip it into the repository `data/` folder:
+
+```bash
+unzip protein_csvs.zip -d data/
+
 From the repository root:
 
 ```bash
