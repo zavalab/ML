@@ -10,7 +10,8 @@ Author: Angan Mukherjee (amukherjee43@wisc.edu)
 
 This repository consists of scripts based on all monitoring approaches discussed in the research paper:
 
-**Mukherjee, A.**, Soderstrom, T. A., Kurtz, M. J., and Zavala, V. M. "Topological Data Analysis for High-Dimensional Dynamic Process Monitoring" (*manuscript under review*)
+**Mukherjee, A.**, Soderstrom, T. A., Kurtz, M. J., and Zavala, V. M. "Topological Data Analysis for High-Dimensional Dynamic Process Monitoring", *Computers & Chemical Engineering* 216, 109883, 2026. 
+DOI: https://doi.org/10.1016/j.compchemeng.2026.109883
 
 ## Repository Overview
 
