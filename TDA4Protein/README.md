@@ -124,3 +124,21 @@ python scripts/plot_training_curves.py \
   --output-png results/nn_combined_alpha_9a/training_auc_curves.png
 ```
 
+## Reference
+This code accompanies the preprint:
+
+Angan Mukherjee, ByungUk Park, Adam Malmstrom, Jessi Cisewski-Kehe, Reid C. Van Lehn, and Victor M. Zavala. "Scalable Extraction of Information on Protein-Protein Interactions using Topological Data Analysis." bioRxiv (2026). https://doi.org/10.64898/2026.08.06.743405
+
+## BibTeX
+```bibtex
+@misc{mukherjee2026scalable,
+  title        = {{Scalable Extraction of Information on Protein-Protein Interactions using Topological Data Analysis}},
+  author       = {Mukherjee, Angan and Park, ByungUk and Malmstrom, Adam and Cisewski-Kehe, Jessi and Van Lehn, Reid C. and Zavala, Victor M.},
+  howpublished = {bioRxiv},
+  year         = {2026},
+  doi          = {10.64898/2026.08.06.743405}
+}
+```
+
+## Authors
+Angan Mukherjee, ByungUk Park, Adam Malmstrom, Jessi Cisewski-Kehe, Reid C. Van Lehn, and Victor M. Zavala
