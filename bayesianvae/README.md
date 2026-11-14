@@ -1,3 +1,6 @@
+# bayesianvae
+
+Variational autoencoders that project discrete decision spaces to continuous latent spaces for Bayesian optimization: reactor, caprylic acid extraction, and dividing wall column case studies.
 
 This repository comprises scripts used in the research paper titled 
 'Simulation-Based Optimization over Discrete Spaces using Projection to Continuous Latent Spaces'.
@@ -48,3 +51,27 @@ For detailed usage, navigate to the `Jupyter Notebooks` directory.
 - [Scalable Systems Lab](https://zavalab.engr.wisc.edu/)
 
 <br />
+
+## Reference
+This code accompanies the paper:
+
+Gabriel Hernández-Morales, Brenda Cansino-Loeza, Arturo Jiménez-Gutiérrez, and Victor M. Zavala. "Simulation-Based Optimization over Discrete Spaces Using Projection to Continuous Latent Spaces." *Industrial & Engineering Chemistry Research* 65, no. 7 (2026): 3999-4012. https://doi.org/10.1021/acs.iecr.5c04315
+
+Preprint: https://arxiv.org/abs/2510.14206
+
+## BibTeX
+```bibtex
+@article{hernandezmorales2026simulation,
+  title   = {{Simulation-Based Optimization over Discrete Spaces Using Projection to Continuous Latent Spaces}},
+  author  = {Hernández-Morales, Gabriel and Cansino-Loeza, Brenda and Jiménez-Gutiérrez, Arturo and Zavala, Victor M.},
+  journal = {Industrial \& Engineering Chemistry Research},
+  volume  = {65},
+  number  = {7},
+  pages   = {3999--4012},
+  year    = {2026},
+  doi     = {10.1021/acs.iecr.5c04315}
+}
+```
+
+## Authors
+Gabriel Hernández-Morales, Brenda Cansino-Loeza, Arturo Jiménez-Gutiérrez, and Victor M. Zavala
