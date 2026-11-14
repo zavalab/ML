@@ -44,3 +44,27 @@ $ python train_cnn_o3cl2.py
 ```bash
 $ cd notebooks
 ```
+
+## Reference
+This code accompanies the paper:
+
+Shengli Jiang, Nanqi Bao, Alexander D. Smith, Shraddha Byndoor, Reid C. Van Lehn, Manos Mavrikakis, Nicholas L. Abbott, and Victor M. Zavala. "Scalable Extraction of Information from Spatiotemporal Patterns of Chemoresponsive Liquid Crystals Using Topological Descriptors." *The Journal of Physical Chemistry C* 127, no. 32 (2023): 16081-16098. https://doi.org/10.1021/acs.jpcc.3c03076
+
+Preprint: https://doi.org/10.26434/chemrxiv-2023-fjcxd
+
+## BibTeX
+```bibtex
+@article{jiang2023scalable,
+  title   = {{Scalable Extraction of Information from Spatiotemporal Patterns of Chemoresponsive Liquid Crystals Using Topological Descriptors}},
+  author  = {Jiang, Shengli and Bao, Nanqi and Smith, Alexander D. and Byndoor, Shraddha and Van Lehn, Reid C. and Mavrikakis, Manos and Abbott, Nicholas L. and Zavala, Victor M.},
+  journal = {The Journal of Physical Chemistry C},
+  volume  = {127},
+  number  = {32},
+  pages   = {16081--16098},
+  year    = {2023},
+  doi     = {10.1021/acs.jpcc.3c03076}
+}
+```
+
+## Authors
+Shengli Jiang, Nanqi Bao, Alexander D. Smith, Shraddha Byndoor, Reid C. Van Lehn, Manos Mavrikakis, Nicholas L. Abbott, and Victor M. Zavala
