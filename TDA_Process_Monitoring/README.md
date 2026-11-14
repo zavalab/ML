@@ -24,3 +24,18 @@ The provided examples use only synthetic data generated from the three-tank syst
 
 The repository also includes baseline monitoring workflows to support comparison with conventional reconstruction-based and trajectory-based approaches.
 
+## BibTeX
+```bibtex
+@article{mukherjee2027topological,
+  title   = {{Topological data analysis for high-dimensional dynamic process monitoring}},
+  author  = {Mukherjee, Angan and Soderstrom, Tyler A. and Kurtz, Michael J. and Zavala, Victor M.},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {216},
+  pages   = {109883},
+  year    = {2027},
+  doi     = {10.1016/j.compchemeng.2026.109883}
+}
+```
+
+## Authors
+Angan Mukherjee, Tyler A. Soderstrom, Michael J. Kurtz, and Victor M. Zavala
