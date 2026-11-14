@@ -76,3 +76,27 @@ conda activate your.python.env
 
 srun python $TRAIN
 ```
+
+## Reference
+This code accompanies the paper:
+
+Shengli Jiang, Shiyi Qin, Reid C. Van Lehn, Prasanna Balaprakash, and Victor M. Zavala. "Uncertainty quantification for molecular property predictions with graph neural architecture search." *Digital Discovery* 3, no. 8 (2024): 1534-1553. https://doi.org/10.1039/d4dd00088a
+
+Preprint: https://arxiv.org/abs/2307.10438
+
+## BibTeX
+```bibtex
+@article{jiang2024uncertainty,
+  title   = {{Uncertainty quantification for molecular property predictions with graph neural architecture search}},
+  author  = {Jiang, Shengli and Qin, Shiyi and Van Lehn, Reid C. and Balaprakash, Prasanna and Zavala, Victor M.},
+  journal = {Digital Discovery},
+  volume  = {3},
+  number  = {8},
+  pages   = {1534--1553},
+  year    = {2024},
+  doi     = {10.1039/d4dd00088a}
+}
+```
+
+## Authors
+Shengli Jiang, Shiyi Qin, Reid C. Van Lehn, Prasanna Balaprakash, and Victor M. Zavala
