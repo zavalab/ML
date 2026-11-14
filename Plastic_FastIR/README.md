@@ -26,7 +26,7 @@ Stas Zinchik, Shengli Jiang, Søren Friis, Fei Long, Lasse Høgstedt, Victor M. 
   journal = {ACS Sustainable Chemistry \& Engineering},
   volume  = {9},
   number  = {42},
-  pages   = {14143-14151},
+  pages   = {14143--14151},
   year    = {2021},
   doi     = {10.1021/acssuschemeng.1c04281}
 }

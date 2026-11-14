@@ -22,7 +22,7 @@ Preprint: https://doi.org/10.26434/chemrxiv-2023-ns10h
   journal = {ACS Applied Materials \& Interfaces},
   volume  = {15},
   number  = {43},
-  pages   = {50532-50545},
+  pages   = {50532--50545},
   year    = {2023},
   doi     = {10.1021/acsami.3c12905}
 }
