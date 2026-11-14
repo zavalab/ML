@@ -17,5 +17,19 @@ This code accompanies the paper:
 
 Shengli Jiang and Victor M. Zavala. "Convolutional neural nets in chemical engineering: Foundations, computations, and applications." *AIChE Journal* 67, no. 9 (2021): e17282. https://doi.org/10.1002/aic.17282
 
+## BibTeX
+```bibtex
+@article{jiang2021convolutional,
+  title   = {{Convolutional neural nets in chemical engineering: Foundations, computations, and applications}},
+  author  = {Jiang, Shengli and Zavala, Victor M.},
+  journal = {AIChE Journal},
+  volume  = {67},
+  number  = {9},
+  pages   = {e17282},
+  year    = {2021},
+  doi     = {10.1002/aic.17282}
+}
+```
+
 ## Authors
-Shengli Jiang and Victor M. Zavala, University of Wisconsin–Madison
+Shengli Jiang and Victor M. Zavala
