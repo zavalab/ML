@@ -60,3 +60,27 @@ For detailed usage, navigate to the `Jupyter Notebooks` directory.
 - [IL Thermo](https://ilthermo.boulder.nist.gov/)
 
 <br />
+
+## Reference
+This code accompanies the paper:
+
+J. E. Umaña, N. A. Zawicki, Matthew A. Gebbie, Victor M. Zavala, and Rose K. Cersonsky. "Identifying the impact of chemical functional groups on ionic liquid conductivity." *Chemical Science* 17, no. 27 (2026): 13642-13655. https://doi.org/10.1039/d6sc02121b
+
+Preprint: https://doi.org/10.26434/chemrxiv.15000903/v1
+
+## BibTeX
+```bibtex
+@article{umana2026identifying,
+  title   = {{Identifying the impact of chemical functional groups on ionic liquid conductivity}},
+  author  = {Umaña, J. E. and Zawicki, N. A. and Gebbie, Matthew A. and Zavala, Victor M. and Cersonsky, Rose K.},
+  journal = {Chemical Science},
+  volume  = {17},
+  number  = {27},
+  pages   = {13642--13655},
+  year    = {2026},
+  doi     = {10.1039/d6sc02121b}
+}
+```
+
+## Authors
+J. E. Umaña, N. A. Zawicki, Matthew A. Gebbie, Victor M. Zavala, and Rose K. Cersonsky
