@@ -7,7 +7,7 @@ Interactive graphs of the topics in core chemical engineering courses and the mo
 ## Reference
 These graphs accompany the paper:
 
-Blake Lopez and Victor M. Zavala. "Analysis of Chemical Engineering Curricula Using Graph Theory." *Systems and Control Transactions* (2024). https://doi.org/10.69997/sct.190804
+Blake Lopez, Yue Shao, and Victor M. Zavala. "A graph-theoretic framework for analyzing and designing chemical engineering curricula." *Computers & Chemical Engineering* 200 (2025): 109150. https://doi.org/10.1016/j.compchemeng.2025.109150
 
 ## Authors
-Blake Lopez and Victor M. Zavala, University of Wisconsin–Madison
+Blake Lopez, Yue Shao, and Victor M. Zavala, University of Wisconsin–Madison
