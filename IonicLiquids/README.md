@@ -60,3 +60,27 @@ For detailed usage, navigate to the `Jupyter Notebooks` directory.
 - [IL Thermo](https://ilthermo.boulder.nist.gov/)
 
 <br />
+
+## Reference
+This code accompanies the paper:
+
+J. E. Umaña, Ryan K. Cashen, Victor M. Zavala, and Matthew A. Gebbie. "Uncovering ion transport mechanisms in ionic liquids using data science." *Digital Discovery* 4, no. 6 (2025): 1423-1436. https://doi.org/10.1039/d4dd00378k
+
+Preprint: https://doi.org/10.26434/chemrxiv-2024-ks4j1
+
+## BibTeX
+```bibtex
+@article{umana2025uncovering,
+  title   = {{Uncovering ion transport mechanisms in ionic liquids using data science}},
+  author  = {Umaña, J. E. and Cashen, Ryan K. and Zavala, Victor M. and Gebbie, Matthew A.},
+  journal = {Digital Discovery},
+  volume  = {4},
+  number  = {6},
+  pages   = {1423--1436},
+  year    = {2025},
+  doi     = {10.1039/d4dd00378k}
+}
+```
+
+## Authors
+J. E. Umaña, Ryan K. Cashen, Victor M. Zavala, and Matthew A. Gebbie
