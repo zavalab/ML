@@ -12,6 +12,8 @@ This code accompanies the paper:
 
 Joseph C. Flory, Angan Mukherjee, Paul J. Dauenhauer, and Victor M. Zavala. "Computing optimal programs for programmable catalysts using Bayesian optimization." *Computers & Chemical Engineering* 216 (2027): 109919. https://doi.org/10.1016/j.compchemeng.2026.109919
 
+Preprint: https://doi.org/10.26434/chemrxiv.15004492/v1
+
 ## BibTeX
 ```bibtex
 @article{flory2027computing,
@@ -27,5 +29,3 @@ Joseph C. Flory, Angan Mukherjee, Paul J. Dauenhauer, and Victor M. Zavala. "Com
 
 ## Authors
 Joseph C. Flory, Angan Mukherjee, Paul J. Dauenhauer, and Victor M. Zavala
-
-Preprint: https://doi.org/10.26434/chemrxiv.15004492/v1

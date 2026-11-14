@@ -13,6 +13,8 @@ This code accompanies the paper:
 
 Alexander Smith and Victor M. Zavala. "The Euler characteristic: A general topological descriptor for complex data." *Computers & Chemical Engineering* 154 (2021): 107463. https://doi.org/10.1016/j.compchemeng.2021.107463
 
+Preprint: https://arxiv.org/abs/2103.03144
+
 ## BibTeX
 ```bibtex
 @article{smith2021euler,
@@ -28,5 +30,3 @@ Alexander Smith and Victor M. Zavala. "The Euler characteristic: A general topol
 
 ## Authors
 Alexander Smith and Victor M. Zavala
-
-Preprint: https://arxiv.org/abs/2103.03144
