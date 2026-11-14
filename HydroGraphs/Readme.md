@@ -87,4 +87,27 @@ The result of this framework is an edge list (list of COMID sources and destinat
 
 ## Correct Data Format
 
-For the above code to run correctly, certain formatting must be followed. We have found that, depending on where the NHDPlusV2 data is retrieved from, slightly different naming conventions are used. For example, sometimes the COMID column of a data table is called "COMID" and sometimes it is called "ComID". For the above scripts to run accurately, all COMID columns must be named "COMID." In addition, all HUC units must be of type `integer`, where as they are sometimes type `string`. Lastly, HUC columns (i.e., HUC8, HUC10, HUC12) must be lowercase in the column name (i.e., columns must be named "huc8", "huc10", and "huc12"). 
+For the above code to run correctly, certain formatting must be followed. We have found that, depending on where the NHDPlusV2 data is retrieved from, slightly different naming conventions are used. For example, sometimes the COMID column of a data table is called "COMID" and sometimes it is called "ComID". For the above scripts to run accurately, all COMID columns must be named "COMID." In addition, all HUC units must be of type `integer`, where as they are sometimes type `string`. Lastly, HUC columns (i.e., HUC8, HUC10, HUC12) must be lowercase in the column name (i.e., columns must be named "huc8", "huc10", and "huc12").
+
+## Reference
+This code accompanies the paper:
+
+David L. Cole, Gerardo J. Ruiz-Mercado, and Victor M. Zavala. "A graph-based modeling framework for tracing hydrological pollutant transport in surface waters." *Computers & Chemical Engineering* 179 (2023): 108457. https://doi.org/10.1016/j.compchemeng.2023.108457
+
+Preprint: https://arxiv.org/abs/2302.04991
+
+## BibTeX
+```bibtex
+@article{cole2023graph,
+  title   = {{A graph-based modeling framework for tracing hydrological pollutant transport in surface waters}},
+  author  = {Cole, David L. and Ruiz-Mercado, Gerardo J. and Zavala, Victor M.},
+  journal = {Computers \& Chemical Engineering},
+  volume  = {179},
+  pages   = {108457},
+  year    = {2023},
+  doi     = {10.1016/j.compchemeng.2023.108457}
+}
+```
+
+## Authors
+David L. Cole, Gerardo J. Ruiz-Mercado, and Victor M. Zavala
