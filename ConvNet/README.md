@@ -11,3 +11,11 @@ The jupyter notebook in each code directory contains all reproducible scripts.
 ## Requirements
 Python 3.6, Tensorflow 1.14
 
+
+## Reference
+This code accompanies the paper:
+
+Shengli Jiang and Victor M. Zavala. "Convolutional neural nets in chemical engineering: Foundations, computations, and applications." *AIChE Journal* (2021). https://doi.org/10.1002/aic.17282
+
+## Authors
+Shengli Jiang and Victor M. Zavala, University of Wisconsin–Madison
