@@ -62,3 +62,27 @@ For detailed usage, navigate to the `notebook` directory.
 - [Deep Graph Library](https://www.dgl.ai/)
 
 <br />
+
+## Reference
+This code accompanies the paper:
+
+Shiyi Qin, Shengli Jiang, Jianping Li, Prasanna Balaprakash, Reid C. Van Lehn, and Victor M. Zavala. "Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium." *Digital Discovery* 2, no. 1 (2023): 138-151. https://doi.org/10.1039/d2dd00045h
+
+Preprint: https://doi.org/10.26434/chemrxiv-2022-3tq4c
+
+## BibTeX
+```bibtex
+@article{qin2023capturing,
+  title   = {{Capturing molecular interactions in graph neural networks: a case study in multi-component phase equilibrium}},
+  author  = {Qin, Shiyi and Jiang, Shengli and Li, Jianping and Balaprakash, Prasanna and Van Lehn, Reid C. and Zavala, Victor M.},
+  journal = {Digital Discovery},
+  volume  = {2},
+  number  = {1},
+  pages   = {138--151},
+  year    = {2023},
+  doi     = {10.1039/d2dd00045h}
+}
+```
+
+## Authors
+Shiyi Qin, Shengli Jiang, Jianping Li, Prasanna Balaprakash, Reid C. Van Lehn, and Victor M. Zavala
