@@ -17,6 +17,8 @@ This code accompanies the paper:
 
 Gabriel Hernández Morales, Edgar Ivan Sanchez Medina, Arturo Jiménez-Gutiérrez, and Victor M. Zavala. "Graph neural networks for CO₂ solubility predictions in Deep Eutectic Solvents." *Computers & Chemical Engineering* 187 (2024): 108750. https://doi.org/10.1016/j.compchemeng.2024.108750
 
+Preprint: https://doi.org/10.26434/chemrxiv-2024-w04nm
+
 ## BibTeX
 ```bibtex
 @article{hernandezmorales2024graph,

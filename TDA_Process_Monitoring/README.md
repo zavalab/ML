@@ -14,6 +14,8 @@ This repository consists of scripts based on all monitoring approaches discussed
 
 DOI: https://doi.org/10.1016/j.compchemeng.2026.109883
 
+
+Preprint: https://arxiv.org/abs/2606.20443
 ## Repository Overview
 
 This repository provides Python implementations of the monitoring methods discussed in the manuscript using a synthetic three-tank system dataset. The repository is designed to demonstrate how multivariate time-series data can be transformed into geometric / topological representations for detecting transient events during dynamic process operation.
