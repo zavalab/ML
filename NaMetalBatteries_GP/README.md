@@ -55,3 +55,8 @@ For detailed usage, navigate to the `Jupyter Notebooks` directory.
 - [Van Lehn Group](https://vanlehngroup.che.wisc.edu/)
 
 <br />
+
+## Authors
+J. E. Umaña and Victor M. Zavala, in collaboration with the Liu Lab and the Van Lehn Group (UW–Madison)
+
+(c) University of Wisconsin-Madison, 2026

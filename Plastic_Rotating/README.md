@@ -20,13 +20,13 @@ Python 3.8, Tensorflow 2.3
 ## Reference
 This code accompanies the paper:
 
-Fei Long, Shengli Jiang, Adeyinka Gbenga Adekunle, Victor M Zavala, and Ezra Bar-Ziv. "Online Characterization of Mixed Plastic Waste Using Machine Learning and Mid-Infrared Spectroscopy." *ACS Sustainable Chemistry & Engineering* 10, no. 48 (2022): 16064-16069. https://doi.org/10.1021/acssuschemeng.2c06052
+Fei Long, Shengli Jiang, Adeyinka Gbenga Adekunle, Victor M. Zavala, and Ezra Bar-Ziv. "Online Characterization of Mixed Plastic Waste Using Machine Learning and Mid-Infrared Spectroscopy." *ACS Sustainable Chemistry & Engineering* 10, no. 48 (2022): 16064-16069. https://doi.org/10.1021/acssuschemeng.2c06052
 
 ## BibTeX
 ```bibtex
 @article{long2022online,
   title   = {{Online Characterization of Mixed Plastic Waste Using Machine Learning and Mid-Infrared Spectroscopy}},
-  author  = {Long, Fei and Jiang, Shengli and Adekunle, Adeyinka Gbenga and M Zavala, Victor and Bar-Ziv, Ezra},
+  author  = {Long, Fei and Jiang, Shengli and Adekunle, Adeyinka Gbenga and Zavala, Victor M. and Bar-Ziv, Ezra},
   journal = {ACS Sustainable Chemistry \& Engineering},
   volume  = {10},
   number  = {48},
@@ -37,4 +37,4 @@ Fei Long, Shengli Jiang, Adeyinka Gbenga Adekunle, Victor M Zavala, and Ezra Bar
 ```
 
 ## Authors
-Fei Long, Shengli Jiang, Adeyinka Gbenga Adekunle, Victor M Zavala, and Ezra Bar-Ziv
+Fei Long, Shengli Jiang, Adeyinka Gbenga Adekunle, Victor M. Zavala, and Ezra Bar-Ziv

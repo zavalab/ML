@@ -26,3 +26,8 @@ To train a 3D CNN, you can
 
 ## Data
 The dataset utilized in this study can be accessed by submitting a formal request to the SARP Data Coordinating Center.
+
+## Authors
+Shengli Jiang and Victor M. Zavala
+
+(c) University of Wisconsin-Madison, 2024
